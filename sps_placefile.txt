@@ -3,9 +3,9 @@ Refresh: 300
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-Color: 0 0 0
-LineWidth: 1
 Polygon: 0
+Color: 0 0 0
+LineWidth: 2
 44.2500, -86.3400
 44.2600, -86.3500
 44.5900, -86.2200
@@ -15,7 +15,7 @@ Polygon: 0
 44.2500, -86.3400
 End:
 Color: 150 75 0
-LineWidth: 2
+LineWidth: 1
 Polygon: 0
 44.2500, -86.3400
 44.2600, -86.3500
@@ -30,7 +30,7 @@ Text: 44.2500, -86.3400, 1, "Special Weather Statement issued March 31 at 1:55PM
 ; At 153 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Hoxeyville, or 14 miles southwest of Cadillac, moving east at 55 mph. Additional thunderstorms were located across southern Manistee county and northern Mason county.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage is possible.  Locations impacted include... Cadillac, Manistee, Kalkaska, Lake City, Thompsonville, Arcadia, Sharon, Kingsley, Manton, Sherman, Buckley, Boon, Mcbain, Eastlake, Benzonia, Kaleva, Fife Lake, Onekama, Mesick, and Bear Lake.
 
 Color: 0 0 0
-LineWidth: 1
+LineWidth: 2
 Polygon: 0
 44.1600, -85.3700
 44.0700, -85.3700
@@ -42,7 +42,7 @@ Polygon: 0
 44.1600, -85.3700
 End:
 Color: 150 75 0
-LineWidth: 2
+LineWidth: 1
 Polygon: 0
 44.1600, -85.3700
 44.0700, -85.3700
@@ -58,7 +58,7 @@ Text: 44.1600, -85.3700, 1, "Special Weather Statement issued March 31 at 1:42PM
 ; At 142 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Irons, or 11 miles north of Baldwin, moving east at 50 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Luther...              Tustin...              Bristol...
 
 Color: 0 0 0
-LineWidth: 1
+LineWidth: 2
 Polygon: 0
 42.5100, -90.4000
 43.1700, -89.4600
@@ -69,7 +69,7 @@ Polygon: 0
 42.5100, -90.4000
 End:
 Color: 150 75 0
-LineWidth: 2
+LineWidth: 1
 Polygon: 0
 42.5100, -90.4000
 43.1700, -89.4600
@@ -84,7 +84,7 @@ Text: 42.5100, -90.4000, 1, "Special Weather Statement issued March 31 at 12:39P
 ; At 1239 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Waunakee to Council Hill. Movement was east at 50 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Madison, Sun Prairie, Fitchburg, Watertown, Middleton, Stoughton, Fort Atkinson, Waunakee, Monroe, Verona, Oregon, Jefferson, McFarland, Monona, Lake Mills, Edgerton, Evansville, Marshall, Waterloo, and Brodhead.  This includes the following highways... Interstate 39/90/94 between mile markers 132 and 137. U.S. Highway 18 between mile markers 70 and 84. U.S. Highway 12 between mile markers 250 and 273. U.S. Highway 151 between mile markers 98 and 104. Interstate 39/90 between mile markers 138 and 167. Interstate 94 between mile markers 241 and 270. Wisconsin Highway 26 between mile markers 19 and 42.
 
 Color: 0 0 0
-LineWidth: 1
+LineWidth: 2
 Polygon: 0
 42.7700, -88.6500
 42.8400, -88.5600
@@ -97,7 +97,7 @@ Polygon: 0
 42.7700, -88.6500
 End:
 Color: 150 75 0
-LineWidth: 2
+LineWidth: 1
 Polygon: 0
 42.7700, -88.6500
 42.8400, -88.5600
@@ -114,7 +114,7 @@ Text: 42.7700, -88.6500, 1, "Special Weather Statement issued March 31 at 12:33P
 ; At 1233 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Palmyra to near East Troy. Movement was northeast at 30 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Waukesha, Muskego, Mukwonago, East Troy, Wales, Wind Lake, Vernon, Rochester, North Prairie, Big Bend, Waterford North, Potter Lake, Burlington, Waterford, La Grange, Eagle, Honey Creek, Genesee Depot, Genesee, and Troy Center.  This includes Interstate 43 between mile markers 31 and 52.
 
 Color: 0 0 0
-LineWidth: 1
+LineWidth: 2
 Polygon: 0
 42.6700, -85.9400
 42.9100, -85.3200
@@ -123,7 +123,7 @@ Polygon: 0
 42.6700, -85.9400
 End:
 Color: 150 75 0
-LineWidth: 2
+LineWidth: 1
 Polygon: 0
 42.6700, -85.9400
 42.9100, -85.3200
@@ -136,7 +136,7 @@ Text: 42.6700, -85.9400, 1, "Special Weather Statement issued March 31 at 1:30PM
 ; At 130 PM EDT, Doppler radar was tracking a strong thunderstorm near Hopkins, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hastings...            Wayland...             Middleville... Caledonia...           Freeport...            Martin... Dorr...                Orangeville...         Irving... Hopkins...             Moline...              Bradley... Gun Lake...            Yankee Springs...      Green Lake... Shelbyville...         Alto...                Alaska... Cloverdale...
 
 Color: 0 0 0
-LineWidth: 1
+LineWidth: 2
 Polygon: 0
 43.5100, -85.0800
 43.4900, -85.7400
@@ -147,7 +147,7 @@ Polygon: 0
 43.5100, -85.0800
 End:
 Color: 150 75 0
-LineWidth: 2
+LineWidth: 1
 Polygon: 0
 43.5100, -85.0800
 43.4900, -85.7400
