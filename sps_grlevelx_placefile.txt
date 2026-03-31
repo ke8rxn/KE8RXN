@@ -3,29 +3,35 @@ Refresh: 300
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-Polygon: 0, 0, 0, 0, 2
-41.0700, -84.8100
-41.1700, -85.2100
-41.2600, -85.2100
-41.2600, -85.1900
-41.3200, -85.1900
-41.3900, -84.8100
-41.0700, -84.8100
+Polygon: 1, 0, 0, 0, 2
+43.4300, -84.0800
+43.6000, -84.0900
+43.6400, -83.7200
+43.6300, -83.6900
+43.6000, -83.6900
+43.5900, -83.7000
+43.5900, -83.6900
+43.3300, -83.7000
+43.3300, -84.1300
+43.4300, -84.0800
 End:
-Polygon: 0, 150, 75, 0, 1
-41.0700, -84.8100
-41.1700, -85.2100
-41.2600, -85.2100
-41.2600, -85.1900
-41.3200, -85.1900
-41.3900, -84.8100
-41.0700, -84.8100
+Polygon: 1, 150, 75, 0, 1
+43.4300, -84.0800
+43.6000, -84.0900
+43.6400, -83.7200
+43.6300, -83.6900
+43.6000, -83.6900
+43.5900, -83.7000
+43.5900, -83.6900
+43.3300, -83.7000
+43.3300, -84.1300
+43.4300, -84.0800
 End:
-Text: 41.0700, -84.8100, 1, "Special Weather Statement issued March 31 at 2:21PM EDT by NWS Northern Indiana"
-; Expires: 2026-03-31T14:45:00-04:00
-; At 220 PM EDT, Doppler radar was tracking a strong thunderstorm near Huntertown, or 8 miles south of Garrett, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Wayne, Auburn, Huntertown, Woodburn, Grabill, St. Joe, Leo-cedarville, Concord, Newville, Butler Center, Saint Johns, Harlan, Wallen, Spencerville In Dekalb County, Cuba, and Saint Joe.  This includes the following highways... Interstate 469 between mile markers 24 and 30. Interstate 69 in Indiana between mile markers 314 and 327.
+Text: 43.4300, -84.0800, 1, "Special Weather Statement issued March 31 at 2:47PM EDT by NWS Detroit/Pontiac MI"
+; Expires: 2026-03-31T15:15:00-04:00
+; At 247 PM EDT, Doppler radar was tracking a strong thunderstorm over Saginaw, moving northeast at 40 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Saginaw, Bay City, Frankenmuth, Auburn, Reese, Freeland, Essexville, Zilwaukee, Munger, Bridgeport, Carrollton, Swan Creek, Arthur, Buena Vista Township, Gera, Indiantown, Shiawassee National Wildlife Refuge, and Shields.
 
-Polygon: 0, 0, 0, 0, 2
+Polygon: 1, 0, 0, 0, 2
 42.7500, -89.3100
 42.9800, -89.0100
 43.3500, -88.5500
@@ -37,7 +43,7 @@ Polygon: 0, 0, 0, 0, 2
 42.6500, -88.5100
 42.7500, -89.3100
 End:
-Polygon: 0, 150, 75, 0, 1
+Polygon: 1, 150, 75, 0, 1
 42.7500, -89.3100
 42.9800, -89.0100
 43.3500, -88.5500
@@ -53,29 +59,7 @@ Text: 42.7500, -89.3100, 1, "Special Weather Statement issued March 31 at 1:19PM
 ; Expires: 2026-03-31T14:15:00-05:00
 ; At 119 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles north of Lac La Belle to near Lake Koshkonong to near Edgerton. Movement was east at 35 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Waukesha, Janesville, New Berlin, Brookfield, Menomonee Falls, Watertown, Whitewater, Hartford, Pewaukee, Fort Atkinson, Sussex, Elkhorn, Hartland, Jefferson, Mukwonago, Delafield, Jackson, Elm Grove, Lake Mills, and Milton.  This includes the following highways... U.S. Highway 12 between mile markers 320 and 323. Interstate 39/90 between mile markers 156 and 172. Interstate 94 between mile markers 262 and 303. Wisconsin Highway 26 between mile markers 6 and 41. Interstate 43 between mile markers 26 and 53. Interstate 41 between mile markers 50 and 65. U.S. Highway 45 between mile markers 61 and 63.
 
-Polygon: 0, 0, 0, 0, 2
-43.6500, -83.8300
-43.3100, -83.7400
-43.2500, -84.3700
-43.4700, -84.3700
-43.4700, -84.5400
-43.5900, -84.6000
-43.6500, -83.8300
-End:
-Polygon: 0, 150, 75, 0, 1
-43.6500, -83.8300
-43.3100, -83.7400
-43.2500, -84.3700
-43.4700, -84.3700
-43.4700, -84.5400
-43.5900, -84.6000
-43.6500, -83.8300
-End:
-Text: 43.6500, -83.8300, 1, "Special Weather Statement issued March 31 at 2:13PM EDT by NWS Detroit/Pontiac MI"
-; Expires: 2026-03-31T14:45:00-04:00
-; At 213 PM EDT, Doppler radar was tracking a strong thunderstorm near Merrill, or 11 miles northeast of Ithaca, moving east at 50 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Saginaw, Midland, Bay City, Frankenmuth, Auburn, St. Charles, Freeland, Essexville, Zilwaukee, Merrill, Bridgeport, Carrollton, Nelson, Swan Creek, Garfield, Buena Vista Township, Indiantown, Hemlock, Porter Township, and Shields.
-
-Polygon: 0, 0, 0, 0, 2
+Polygon: 1, 0, 0, 0, 2
 44.2500, -86.3400
 44.2600, -86.3500
 44.5900, -86.2200
@@ -84,7 +68,7 @@ Polygon: 0, 0, 0, 0, 2
 44.1800, -86.3800
 44.2500, -86.3400
 End:
-Polygon: 0, 150, 75, 0, 1
+Polygon: 1, 150, 75, 0, 1
 44.2500, -86.3400
 44.2600, -86.3500
 44.5900, -86.2200
@@ -96,25 +80,3 @@ End:
 Text: 44.2500, -86.3400, 1, "Special Weather Statement issued March 31 at 1:55PM EDT by NWS Gaylord MI"
 ; Expires: 2026-03-31T15:30:00-04:00
 ; At 153 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Hoxeyville, or 14 miles southwest of Cadillac, moving east at 55 mph. Additional thunderstorms were located across southern Manistee county and northern Mason county.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage is possible.  Locations impacted include... Cadillac, Manistee, Kalkaska, Lake City, Thompsonville, Arcadia, Sharon, Kingsley, Manton, Sherman, Buckley, Boon, Mcbain, Eastlake, Benzonia, Kaleva, Fife Lake, Onekama, Mesick, and Bear Lake.
-
-Polygon: 0, 0, 0, 0, 2
-42.5100, -90.4000
-43.1700, -89.4600
-43.2200, -89.0100
-43.2000, -89.0100
-43.1900, -88.6000
-42.5000, -89.2700
-42.5100, -90.4000
-End:
-Polygon: 0, 150, 75, 0, 1
-42.5100, -90.4000
-43.1700, -89.4600
-43.2200, -89.0100
-43.2000, -89.0100
-43.1900, -88.6000
-42.5000, -89.2700
-42.5100, -90.4000
-End:
-Text: 42.5100, -90.4000, 1, "Special Weather Statement issued March 31 at 12:39PM CDT by NWS Milwaukee/Sullivan WI"
-; Expires: 2026-03-31T13:45:00-05:00
-; At 1239 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Waunakee to Council Hill. Movement was east at 50 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Madison, Sun Prairie, Fitchburg, Watertown, Middleton, Stoughton, Fort Atkinson, Waunakee, Monroe, Verona, Oregon, Jefferson, McFarland, Monona, Lake Mills, Edgerton, Evansville, Marshall, Waterloo, and Brodhead.  This includes the following highways... Interstate 39/90/94 between mile markers 132 and 137. U.S. Highway 18 between mile markers 70 and 84. U.S. Highway 12 between mile markers 250 and 273. U.S. Highway 151 between mile markers 98 and 104. Interstate 39/90 between mile markers 138 and 167. Interstate 94 between mile markers 241 and 270. Wisconsin Highway 26 between mile markers 19 and 42.
