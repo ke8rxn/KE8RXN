@@ -1,70 +1,162 @@
-import requests
+Title: Special Weather Statements
+Refresh: 300
+Font: 0, 11, 1, "Arial"
+Font: 1, 11, 1, "Arial"
 
-URL = "https://api.weather.gov/alerts/active"
-OUTFILE = "sps_placefile.txt"
+Color: 0 0 0
+LineWidth: 1
+Polygon: 0
+44.2500, -86.3400
+44.2600, -86.3500
+44.5900, -86.2200
+44.7800, -84.8500
+44.1600, -84.8500
+44.1800, -86.3800
+44.2500, -86.3400
+End:
+Color: 150 75 0
+LineWidth: 2
+Polygon: 0
+44.2500, -86.3400
+44.2600, -86.3500
+44.5900, -86.2200
+44.7800, -84.8500
+44.1600, -84.8500
+44.1800, -86.3800
+44.2500, -86.3400
+End:
+Text: 44.2500, -86.3400, 1, "Special Weather Statement issued March 31 at 1:55PM EDT by NWS Gaylord MI"
+; Expires: 2026-03-31T15:30:00-04:00
+; At 153 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Hoxeyville, or 14 miles southwest of Cadillac, moving east at 55 mph. Additional thunderstorms were located across southern Manistee county and northern Mason county.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage is possible.  Locations impacted include... Cadillac, Manistee, Kalkaska, Lake City, Thompsonville, Arcadia, Sharon, Kingsley, Manton, Sherman, Buckley, Boon, Mcbain, Eastlake, Benzonia, Kaleva, Fife Lake, Onekama, Mesick, and Bear Lake.
 
-def fetch_sps_alerts():
-    r = requests.get(URL, headers={"User-Agent": "SPS-Placefile-Generator"})
-    data = r.json()
-    return [
-        feat for feat in data["features"]
-        if feat["properties"].get("event") == "Special Weather Statement"
-    ]
+Color: 0 0 0
+LineWidth: 1
+Polygon: 0
+44.1600, -85.3700
+44.0700, -85.3700
+44.0200, -85.8900
+44.1100, -85.9300
+44.1600, -85.8400
+44.1700, -85.5800
+44.1700, -85.4600
+44.1600, -85.3700
+End:
+Color: 150 75 0
+LineWidth: 2
+Polygon: 0
+44.1600, -85.3700
+44.0700, -85.3700
+44.0200, -85.8900
+44.1100, -85.9300
+44.1600, -85.8400
+44.1700, -85.5800
+44.1700, -85.4600
+44.1600, -85.3700
+End:
+Text: 44.1600, -85.3700, 1, "Special Weather Statement issued March 31 at 1:42PM EDT by NWS Grand Rapids MI"
+; Expires: 2026-03-31T14:15:00-04:00
+; At 142 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Irons, or 11 miles north of Baldwin, moving east at 50 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Luther...              Tustin...              Bristol...
 
-def format_placefile(alerts):
-    lines = []
-    lines.append("Title: Special Weather Statements")
-    lines.append("Refresh: 300")
-    lines.append("Font: 0, 11, 1, \"Arial\"")
-    lines.append("Font: 1, 11, 1, \"Arial\"")
-    lines.append("")  # REQUIRED blank line
+Color: 0 0 0
+LineWidth: 1
+Polygon: 0
+42.5100, -90.4000
+43.1700, -89.4600
+43.2200, -89.0100
+43.2000, -89.0100
+43.1900, -88.6000
+42.5000, -89.2700
+42.5100, -90.4000
+End:
+Color: 150 75 0
+LineWidth: 2
+Polygon: 0
+42.5100, -90.4000
+43.1700, -89.4600
+43.2200, -89.0100
+43.2000, -89.0100
+43.1900, -88.6000
+42.5000, -89.2700
+42.5100, -90.4000
+End:
+Text: 42.5100, -90.4000, 1, "Special Weather Statement issued March 31 at 12:39PM CDT by NWS Milwaukee/Sullivan WI"
+; Expires: 2026-03-31T13:45:00-05:00
+; At 1239 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Waunakee to Council Hill. Movement was east at 50 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Madison, Sun Prairie, Fitchburg, Watertown, Middleton, Stoughton, Fort Atkinson, Waunakee, Monroe, Verona, Oregon, Jefferson, McFarland, Monona, Lake Mills, Edgerton, Evansville, Marshall, Waterloo, and Brodhead.  This includes the following highways... Interstate 39/90/94 between mile markers 132 and 137. U.S. Highway 18 between mile markers 70 and 84. U.S. Highway 12 between mile markers 250 and 273. U.S. Highway 151 between mile markers 98 and 104. Interstate 39/90 between mile markers 138 and 167. Interstate 94 between mile markers 241 and 270. Wisconsin Highway 26 between mile markers 19 and 42.
 
-    for a in alerts:
-        props = a["properties"]
-        geom = a["geometry"]
+Color: 0 0 0
+LineWidth: 1
+Polygon: 0
+42.7700, -88.6500
+42.8400, -88.5600
+42.8400, -88.5400
+42.8600, -88.5400
+43.0100, -88.3600
+42.8600, -88.0700
+42.8400, -88.0700
+42.6700, -88.3500
+42.7700, -88.6500
+End:
+Color: 150 75 0
+LineWidth: 2
+Polygon: 0
+42.7700, -88.6500
+42.8400, -88.5600
+42.8400, -88.5400
+42.8600, -88.5400
+43.0100, -88.3600
+42.8600, -88.0700
+42.8400, -88.0700
+42.6700, -88.3500
+42.7700, -88.6500
+End:
+Text: 42.7700, -88.6500, 1, "Special Weather Statement issued March 31 at 12:33PM CDT by NWS Milwaukee/Sullivan WI"
+; Expires: 2026-03-31T13:15:00-05:00
+; At 1233 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Palmyra to near East Troy. Movement was northeast at 30 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Waukesha, Muskego, Mukwonago, East Troy, Wales, Wind Lake, Vernon, Rochester, North Prairie, Big Bend, Waterford North, Potter Lake, Burlington, Waterford, La Grange, Eagle, Honey Creek, Genesee Depot, Genesee, and Troy Center.  This includes Interstate 43 between mile markers 31 and 52.
 
-        if not geom or geom["type"] != "Polygon":
-            continue
+Color: 0 0 0
+LineWidth: 1
+Polygon: 0
+42.6700, -85.9400
+42.9100, -85.3200
+42.5500, -85.3000
+42.4800, -85.7100
+42.6700, -85.9400
+End:
+Color: 150 75 0
+LineWidth: 2
+Polygon: 0
+42.6700, -85.9400
+42.9100, -85.3200
+42.5500, -85.3000
+42.4800, -85.7100
+42.6700, -85.9400
+End:
+Text: 42.6700, -85.9400, 1, "Special Weather Statement issued March 31 at 1:30PM EDT by NWS Grand Rapids MI"
+; Expires: 2026-03-31T14:15:00-04:00
+; At 130 PM EDT, Doppler radar was tracking a strong thunderstorm near Hopkins, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hastings...            Wayland...             Middleville... Caledonia...           Freeport...            Martin... Dorr...                Orangeville...         Irving... Hopkins...             Moline...              Bradley... Gun Lake...            Yankee Springs...      Green Lake... Shelbyville...         Alto...                Alaska... Cloverdale...
 
-        headline = props.get("headline", "Special Weather Statement")
-        expires = props.get("expires", "")
-        description = props.get("description", "").replace("\n", " ")
-
-        coords = geom["coordinates"][0]
-
-        # --- Black thin outline ---
-        lines.append("Color: 0 0 0")
-        lines.append("LineWidth: 1")
-        lines.append("Polygon: 0")
-        for lon, lat in coords:
-            lines.append(f"{lat:.4f}, {lon:.4f}")
-        lines.append("End:")
-
-        # --- Brown thicker outline ---
-        lines.append("Color: 150 75 0")
-        lines.append("LineWidth: 2")
-        lines.append("Polygon: 0")
-        for lon, lat in coords:
-            lines.append(f"{lat:.4f}, {lon:.4f}")
-        lines.append("End:")
-
-        # Label
-        lat, lon = coords[0][1], coords[0][0]
-        lines.append(f"Text: {lat:.4f}, {lon:.4f}, 1, \"{headline}\"")
-
-        # Metadata
-        lines.append(f"; Expires: {expires}")
-        lines.append(f"; {description}")
-        lines.append("")
-
-    return "\n".join(lines)
-
-def main():
-    alerts = fetch_sps_alerts()
-    placefile = format_placefile(alerts)
-    with open(OUTFILE, "w") as f:
-        f.write(placefile)
-    print(f"Generated {OUTFILE} with {len(alerts)} SPS alerts.")
-
-if __name__ == "__main__":
-    main()
+Color: 0 0 0
+LineWidth: 1
+Polygon: 0
+43.5100, -85.0800
+43.4900, -85.7400
+43.5300, -85.8200
+43.6300, -85.8300
+43.7000, -85.7300
+43.7600, -85.0900
+43.5100, -85.0800
+End:
+Color: 150 75 0
+LineWidth: 2
+Polygon: 0
+43.5100, -85.0800
+43.4900, -85.7400
+43.5300, -85.8200
+43.6300, -85.8300
+43.7000, -85.7300
+43.7600, -85.0900
+43.5100, -85.0800
+End:
+Text: 43.5100, -85.0800, 1, "Special Weather Statement issued March 31 at 1:25PM EDT by NWS Grand Rapids MI"
+; Expires: 2026-03-31T14:15:00-04:00
+; At 125 PM EDT, Doppler radar was tracking a strong thunderstorm near White Cloud, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Big Rapids...          White Cloud...         Mecosta... Canadian Lakes...      Remus...               Millbrook... Barryton...            Stanwood...            Sylvester... Rodney...              Woodville...           Altona... Blanchard...           Roben-Hood Airport...
