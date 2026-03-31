@@ -3,12 +3,9 @@ Refresh: 300
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-ColorTable:
-0: 0 0 0
-1: 150 75 0
-End:
-
-Polygon: 1, 0, 0, 0, 2
+Polygon: 1
+Color: 0 0 0
+LineWidth: 2
 43.4300, -84.0800
 43.6000, -84.0900
 43.6400, -83.7200
@@ -20,7 +17,9 @@ Polygon: 1, 0, 0, 0, 2
 43.3300, -84.1300
 43.4300, -84.0800
 End:
-Polygon: 1, 150, 75, 0, 1
+Polygon: 1
+Color: 150 75 0
+LineWidth: 1
 43.4300, -84.0800
 43.6000, -84.0900
 43.6400, -83.7200
@@ -36,7 +35,9 @@ Text: 43.4300, -84.0800, 1, "Special Weather Statement issued March 31 at 2:47PM
 ; Expires: 2026-03-31T15:15:00-04:00
 ; At 247 PM EDT, Doppler radar was tracking a strong thunderstorm over Saginaw, moving northeast at 40 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Saginaw, Bay City, Frankenmuth, Auburn, Reese, Freeland, Essexville, Zilwaukee, Munger, Bridgeport, Carrollton, Swan Creek, Arthur, Buena Vista Township, Gera, Indiantown, Shiawassee National Wildlife Refuge, and Shields.
 
-Polygon: 1, 0, 0, 0, 2
+Polygon: 1
+Color: 0 0 0
+LineWidth: 2
 42.7500, -89.3100
 42.9800, -89.0100
 43.3500, -88.5500
@@ -48,7 +49,9 @@ Polygon: 1, 0, 0, 0, 2
 42.6500, -88.5100
 42.7500, -89.3100
 End:
-Polygon: 1, 150, 75, 0, 1
+Polygon: 1
+Color: 150 75 0
+LineWidth: 1
 42.7500, -89.3100
 42.9800, -89.0100
 43.3500, -88.5500
@@ -64,7 +67,9 @@ Text: 42.7500, -89.3100, 1, "Special Weather Statement issued March 31 at 1:19PM
 ; Expires: 2026-03-31T14:15:00-05:00
 ; At 119 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles north of Lac La Belle to near Lake Koshkonong to near Edgerton. Movement was east at 35 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Waukesha, Janesville, New Berlin, Brookfield, Menomonee Falls, Watertown, Whitewater, Hartford, Pewaukee, Fort Atkinson, Sussex, Elkhorn, Hartland, Jefferson, Mukwonago, Delafield, Jackson, Elm Grove, Lake Mills, and Milton.  This includes the following highways... U.S. Highway 12 between mile markers 320 and 323. Interstate 39/90 between mile markers 156 and 172. Interstate 94 between mile markers 262 and 303. Wisconsin Highway 26 between mile markers 6 and 41. Interstate 43 between mile markers 26 and 53. Interstate 41 between mile markers 50 and 65. U.S. Highway 45 between mile markers 61 and 63.
 
-Polygon: 1, 0, 0, 0, 2
+Polygon: 1
+Color: 0 0 0
+LineWidth: 2
 44.2500, -86.3400
 44.2600, -86.3500
 44.5900, -86.2200
@@ -73,7 +78,9 @@ Polygon: 1, 0, 0, 0, 2
 44.1800, -86.3800
 44.2500, -86.3400
 End:
-Polygon: 1, 150, 75, 0, 1
+Polygon: 1
+Color: 150 75 0
+LineWidth: 1
 44.2500, -86.3400
 44.2600, -86.3500
 44.5900, -86.2200
