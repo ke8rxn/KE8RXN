@@ -29,7 +29,7 @@ Text: 44.2500, -86.3400, 1, "Special Weather Statement issued March 31 at 1:55PM
 ; Expires: 2026-03-31T15:30:00-04:00
 ; At 153 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Hoxeyville, or 14 miles southwest of Cadillac, moving east at 55 mph. Additional thunderstorms were located across southern Manistee county and northern Mason county.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage is possible.  Locations impacted include... Cadillac, Manistee, Kalkaska, Lake City, Thompsonville, Arcadia, Sharon, Kingsley, Manton, Sherman, Buckley, Boon, Mcbain, Eastlake, Benzonia, Kaleva, Fife Lake, Onekama, Mesick, and Bear Lake.
 
-<BLANK LINE INSERTED HERE>
+<— THIS IS A REAL BLANK LINE —>
 
 Polygon: 0
 Color: 0 0 0
@@ -43,20 +43,3 @@ LineWidth: 2
 44.1700, -85.4600
 44.1600, -85.3700
 End:
-Polygon: 0
-Color: 150 75 0
-LineWidth: 1
-44.1600, -85.3700
-44.0700, -85.3700
-44.0200, -85.8900
-44.1100, -85.9300
-44.1600, -85.8400
-44.1700, -85.5800
-44.1700, -85.4600
-44.1600, -85.3700
-End:
-Text: 44.1600, -85.3700, 1, "Special Weather Statement issued March 31 at 1:42PM EDT by NWS Grand Rapids MI"
-; Expires: 2026-03-31T14:15:00-04:00
-; At 142 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Irons, or 11 miles north of Baldwin, moving east at 50 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Luther...              Tustin...              Bristol...
-
-<BLANK LINE INSERTED HERE>
