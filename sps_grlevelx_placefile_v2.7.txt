@@ -1,0 +1,50 @@
+Title: Special Weather Statements
+Refresh: 300
+Font: 0, 11, 1, "Arial"
+Font: 1, 11, 1, "Arial"
+
+Polygon: 1, 0, 0, 0, 2
+43.6700, -83.4700
+43.6700, -83.4500
+43.5400, -83.1100
+43.3300, -83.1100
+43.3200, -83.6900
+43.5900, -83.6900
+43.6900, -83.5100
+43.6700, -83.4700
+End:
+Polygon: 1, 150, 75, 0, 1
+43.6700, -83.4700
+43.6700, -83.4500
+43.5400, -83.1100
+43.3300, -83.1100
+43.3200, -83.6900
+43.5900, -83.6900
+43.6900, -83.5100
+43.6700, -83.4700
+End:
+Text: 43.6700, -83.4700, 1, "Special Weather Statement issued March 31 at 3:09PM EDT by NWS Detroit/Pontiac MI"
+; Expires: 2026-03-31T15:45:00-04:00
+; At 308 PM EDT, Doppler radar was tracking a strong thunderstorm over Reese, moving east at 45 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Caro, Vassar, Reese, Mayville, Akron, Fairgrove, Unionville, Kingston, Quanicassee, Tuscola, Ellington, Wilmot, Gilford, Wisner, East Dayton, Colling, Richville, Deford, Colwood, and Watrousville.
+
+Polygon: 1, 0, 0, 0, 2
+44.2500, -86.3400
+44.2600, -86.3500
+44.5900, -86.2200
+44.7800, -84.8500
+44.1600, -84.8500
+44.1800, -86.3800
+44.2500, -86.3400
+End:
+Polygon: 1, 150, 75, 0, 1
+44.2500, -86.3400
+44.2600, -86.3500
+44.5900, -86.2200
+44.7800, -84.8500
+44.1600, -84.8500
+44.1800, -86.3800
+44.2500, -86.3400
+End:
+Text: 44.2500, -86.3400, 1, "Special Weather Statement issued March 31 at 1:55PM EDT by NWS Gaylord MI"
+; Expires: 2026-03-31T15:30:00-04:00
+; At 153 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Hoxeyville, or 14 miles southwest of Cadillac, moving east at 55 mph. Additional thunderstorms were located across southern Manistee county and northern Mason county.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage is possible.  Locations impacted include... Cadillac, Manistee, Kalkaska, Lake City, Thompsonville, Arcadia, Sharon, Kingsley, Manton, Sherman, Buckley, Boon, Mcbain, Eastlake, Benzonia, Kaleva, Fife Lake, Onekama, Mesick, and Bear Lake.
