@@ -4,7 +4,96 @@ Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued March 31 at 2:46PM CDT by NWS Tallahassee FL\n\nExpires: 2026-03-31T15:30:00-05:00\n\nAt 245 PM CDT, Doppler radar was tracking a strong thunderstorm near Dothan, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Headland, Dothan, Ozark, Fort Rucker, Taylor, Midland City, Newton, Pinckard, Kinsey, Malvern, Grimes, Newville, Napier Field, Hollis Dairy Road, Hunt Field, Waterford, Kirkland Crossroads, Ewell, Sylvan Grove, and Green Acres."
+Line: 1, 0, "Special Weather Statement issued March 31 at 3:20PM CDT by NWS Tallahassee FL\n\nExpires: 2026-03-31T16:00:00-05:00\n\nAt 320 PM CDT, Doppler radar was tracking a strong thunderstorm near Newton, or near Ozark, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Abbeville, Headland, Ozark, Fort Rucker, Midland City, Newton, Pinckard, Kinsey, Grimes, Newville, Napier Field, Bells Crossroads, Hunt Field, Waterford, Dill, Kirkland Crossroads, Mabson, Arguta, Snells Crossroads, and Ewell."
+31.6300, -85.2700
+31.3100, -85.3200
+31.3100, -85.4200
+31.3000, -85.4200
+31.3200, -85.6500
+31.6200, -85.6900
+31.6200, -85.4200
+31.6300, -85.4200
+31.6300, -85.2700
+End:
+; Expires: 2026-03-31T16:00:00-05:00
+; At 320 PM CDT, Doppler radar was tracking a strong thunderstorm near Newton, or near Ozark, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Abbeville, Headland, Ozark, Fort Rucker, Midland City, Newton, Pinckard, Kinsey, Grimes, Newville, Napier Field, Bells Crossroads, Hunt Field, Waterford, Dill, Kirkland Crossroads, Mabson, Arguta, Snells Crossroads, and Ewell.
+
+Color: 222 184 135
+Line: 1, 0, "Special Weather Statement issued March 31 at 3:14PM CDT by NWS Jackson MS\n\nExpires: 2026-03-31T16:15:00-05:00\n\nAt 314 PM CDT, Doppler radar was tracking a strong thunderstorm over Red Lick, or 7 miles northeast of Fayette, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Pattison and Blue Hill around 320 PM CDT. Peyton around 325 PM CDT. Port Gibson and Hermanville around 330 PM CDT."
+31.6200, -91.1400
+32.0200, -91.0600
+31.9800, -90.5900
+31.7000, -90.6900
+31.7000, -90.7400
+31.6100, -90.7400
+31.6100, -91.0600
+31.6200, -91.1400
+End:
+; Expires: 2026-03-31T16:15:00-05:00
+; At 314 PM CDT, Doppler radar was tracking a strong thunderstorm over Red Lick, or 7 miles northeast of Fayette, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Pattison and Blue Hill around 320 PM CDT. Peyton around 325 PM CDT. Port Gibson and Hermanville around 330 PM CDT.
+
+Color: 222 184 135
+Line: 1, 0, "Special Weather Statement issued March 31 at 4:12PM EDT by NWS Detroit/Pontiac MI\n\nExpires: 2026-03-31T16:45:00-04:00\n\nAt 411 PM EDT, Doppler radar was tracking a strong thunderstorm over Deckerville, moving northeast at 40 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sandusky, Croswell, Lexington, Deckerville, Port Sanilac, Forestville, Argyle, Peck, Carsonville, Applegate, Watertown, Elmer, Forester, McGregor, Snover, Juhl, Palms, and Richmondville."
+43.2700, -82.9900
+43.6100, -83.0400
+43.6700, -82.5700
+43.2500, -82.4900
+43.2700, -82.9900
+End:
+; Expires: 2026-03-31T16:45:00-04:00
+; At 411 PM EDT, Doppler radar was tracking a strong thunderstorm over Deckerville, moving northeast at 40 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sandusky, Croswell, Lexington, Deckerville, Port Sanilac, Forestville, Argyle, Peck, Carsonville, Applegate, Watertown, Elmer, Forester, McGregor, Snover, Juhl, Palms, and Richmondville.
+
+Color: 222 184 135
+Line: 1, 0, "Special Weather Statement issued March 31 at 4:12PM EDT by NWS Peachtree City GA\n\nExpires: 2026-03-31T16:45:00-04:00\n\nAt 412 PM EDT, a strong thunderstorm was near Butler, moving east at 10 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Butler, Reynolds, Fickling Mill, and Potterville."
+32.6200, -84.2700
+32.6800, -84.1800
+32.6800, -84.1600
+32.6900, -84.1400
+32.6800, -84.1300
+32.6800, -84.1200
+32.5300, -84.0500
+32.4900, -84.2200
+32.6200, -84.2700
+End:
+; Expires: 2026-03-31T16:45:00-04:00
+; At 412 PM EDT, a strong thunderstorm was near Butler, moving east at 10 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Butler, Reynolds, Fickling Mill, and Potterville.
+
+Color: 222 184 135
+Line: 1, 0, "Special Weather Statement issued March 31 at 3:02PM CDT by NWS Tallahassee FL\n\nExpires: 2026-03-31T15:30:00-05:00\n\nAt 302 PM CDT, Doppler radar was tracking a strong thunderstorm near Hartford, or 7 miles northeast of Geneva, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Daleville, Hartford, Clayhatchee, Black, Kellys Crossroads, Eunola, High Bluff, Highfalls, Dundee, Cool Springs, Hendrix Crossroad, Wicksburg, and Bald Hill."
+31.0100, -85.7200
+31.0200, -85.8600
+31.2700, -85.8400
+31.2500, -85.5900
+31.0100, -85.7200
+End:
+; Expires: 2026-03-31T15:30:00-05:00
+; At 302 PM CDT, Doppler radar was tracking a strong thunderstorm near Hartford, or 7 miles northeast of Geneva, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Daleville, Hartford, Clayhatchee, Black, Kellys Crossroads, Eunola, High Bluff, Highfalls, Dundee, Cool Springs, Hendrix Crossroad, Wicksburg, and Bald Hill.
+
+Color: 222 184 135
+Line: 1, 0, "Special Weather Statement issued March 31 at 2:59PM CDT by NWS Milwaukee/Sullivan WI\n\nExpires: 2026-03-31T15:30:00-05:00\n\nAt 259 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Delavan to near Clinton. Movement was east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Elkhorn, Delavan, Lake Geneva, Williams Bay, Walworth, Fontana-On-Geneva Lake, Darien, Como, Pell Lake, Burlington, Richmond, Springfield, Abells Corners, Tibbets, Allens Grove, Millard, and Delavan Lake.  This includes the following highways... U.S. Highway 12 between mile markers 320 and 333. Interstate 43 between mile markers 12 and 34."
+42.7300, -88.7800
+42.7600, -88.3100
+42.6100, -88.3100
+42.5300, -88.3900
+42.5300, -88.7800
+42.7300, -88.7800
+End:
+; Expires: 2026-03-31T15:30:00-05:00
+; At 259 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Delavan to near Clinton. Movement was east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Elkhorn, Delavan, Lake Geneva, Williams Bay, Walworth, Fontana-On-Geneva Lake, Darien, Como, Pell Lake, Burlington, Richmond, Springfield, Abells Corners, Tibbets, Allens Grove, Millard, and Delavan Lake.  This includes the following highways... U.S. Highway 12 between mile markers 320 and 333. Interstate 43 between mile markers 12 and 34.
+
+Color: 222 184 135
+Line: 1, 0, "Special Weather Statement issued March 31 at 2:56PM CDT by NWS Jackson MS\n\nExpires: 2026-03-31T15:30:00-05:00\n\nAt 256 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Reganton, or 12 miles southeast of Vicksburg, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Newman around 300 PM CDT. Bovina around 310 PM CDT."
+32.5300, -90.7900
+32.4800, -90.4600
+32.0400, -90.7200
+32.1000, -90.9600
+32.5300, -90.7900
+End:
+; Expires: 2026-03-31T15:30:00-05:00
+; At 256 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Reganton, or 12 miles southeast of Vicksburg, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Newman around 300 PM CDT. Bovina around 310 PM CDT.
+
+Color: 222 184 135
+Line: 1, 0, "Special Weather Statement issued March 31 at 2:46PM CDT by NWS Tallahassee FL\n\nExpires: 2026-03-31T15:30:00-05:00\n\nAt 245 PM CDT, Doppler radar was tracking a strong thunderstorm near Dothan, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Headland, Dothan, Ozark, Fort Rucker, Taylor, Midland City, Newton, Pinckard, Kinsey, Malvern, Grimes, Newville, Napier Field, Hollis Dairy Road, Hunt Field, Waterford, Kirkland Crossroads, Ewell, Sylvan Grove, and Green Acres."
 31.1400, -85.3800
 31.1500, -85.6000
 31.4400, -85.6400
@@ -13,34 +102,3 @@ Line: 2, 0, "Special Weather Statement issued March 31 at 2:46PM CDT by NWS Tall
 End:
 ; Expires: 2026-03-31T15:30:00-05:00
 ; At 245 PM CDT, Doppler radar was tracking a strong thunderstorm near Dothan, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Headland, Dothan, Ozark, Fort Rucker, Taylor, Midland City, Newton, Pinckard, Kinsey, Malvern, Grimes, Newville, Napier Field, Hollis Dairy Road, Hunt Field, Waterford, Kirkland Crossroads, Ewell, Sylvan Grove, and Green Acres.
-
-Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued March 31 at 2:40PM CDT by NWS Milwaukee/Sullivan WI\n\nExpires: 2026-03-31T15:15:00-05:00\n\nAt 239 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Janesville to near Orfordville. Movement was east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Janesville, Beloit, Clinton, Newark, Tiffany, Johnstown Center, Foxhollow, Avalon, Afton, Shopiere, and Emerald Grove.  This includes the following highways... Interstate 39/90 between mile markers 172 and 186. Interstate 43 between mile markers 0 and 11."
-42.5300, -89.3200
-42.7100, -89.0100
-42.7600, -88.7800
-42.6700, -88.7700
-42.4900, -88.7800
-42.5300, -89.3200
-End:
-; Expires: 2026-03-31T15:15:00-05:00
-; At 239 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Janesville to near Orfordville. Movement was east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Janesville, Beloit, Clinton, Newark, Tiffany, Johnstown Center, Foxhollow, Avalon, Afton, Shopiere, and Emerald Grove.  This includes the following highways... Interstate 39/90 between mile markers 172 and 186. Interstate 43 between mile markers 0 and 11.
-
-Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued March 31 at 2:34PM CDT by NWS Mobile AL\n\nExpires: 2026-03-31T15:15:00-05:00\n\nAt 233 PM CDT, Doppler radar was tracking a strong thunderstorm over Red Level, or 9 miles northwest of Andalusia, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... River Falls and Red Level."
-31.3300, -86.5100
-31.3400, -86.6900
-31.3500, -86.6900
-31.3700, -86.6700
-31.3900, -86.6700
-31.4000, -86.6600
-31.4400, -86.6700
-31.4400, -86.7000
-31.5200, -86.7000
-31.5200, -86.7100
-31.6600, -86.7200
-31.6600, -86.4400
-31.3300, -86.5100
-End:
-; Expires: 2026-03-31T15:15:00-05:00
-; At 233 PM CDT, Doppler radar was tracking a strong thunderstorm over Red Level, or 9 miles northwest of Andalusia, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... River Falls and Red Level.
