@@ -65,18 +65,23 @@ def format_placefile(alerts):
         # Hover text as comment
         lines.append(f"; {hover_text}")
 
-        # Outline color
+        # --- Dynamic polygon (keeps file refreshable) ---
+        # You can leave this as-is; GR2 uses it to treat the file as dynamic.
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-
-        # True polygon (outline only)
         lines.append("Polygon: 0")
         for lat, lon in coords:
             lines.append(f"{lat:.4f}, {lon:.4f}")
-
-        # Close polygon
         lat0 = coords[0][1]
         lon0 = coords[0][0]
         lines.append(f"{lat0:.4f}, {lon0:.4f}")
+        lines.append("End:")
+
+        # --- Visible tan border as Line ---
+        lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
+        lines.append("Line: 2, 0")
+        for lat, lon in coords:
+            lines.append(f"{lat:.4f}, {lon:.4f}")
+        lines.append(f"{coords[0][1]:.4f}, {coords[0][0]:.4f}")
         lines.append("End:")
         lines.append("")
 
