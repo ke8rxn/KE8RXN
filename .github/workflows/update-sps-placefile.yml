@@ -2,8 +2,8 @@ name: Update SPS Placefile
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '*/5 * * * *'     # every 5 minutes
+  workflow_dispatch:          # allows manual trigger
 
 permissions:
   contents: write
@@ -30,8 +30,15 @@ jobs:
         run: python update_sps_placefile.py
 
       - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "Auto-update SPS placefile"
-          file_pattern: GRLevelX_SPS.txt
-          github_token: ${{ secrets.PAT }}     # ← THIS LINE WAS MISSING
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet GRLevelX_SPS.txt; then
+            echo "✅ No changes detected — nothing to commit."
+          else
+            git add GRLevelX_SPS.txt
+            git commit -m "Auto-update SPS placefile"
+            git push
+            echo "✅ Changes detected and successfully pushed to GitHub!"
+          fi
