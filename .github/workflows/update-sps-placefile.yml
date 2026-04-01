@@ -2,8 +2,8 @@ name: Update SPS Placefile
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *'     # fallback every 30 min (in case external fails)
+  workflow_dispatch:           # ← This allows external triggering
 
 permissions:
   contents: write
