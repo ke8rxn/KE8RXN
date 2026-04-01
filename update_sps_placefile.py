@@ -1,5 +1,6 @@
 import requests
 import os
+from datetime import datetime
 
 URL = "https://api.weather.gov/alerts/active"
 OUTFILE = "GRLevelX_SPS.txt"
@@ -29,6 +30,10 @@ def format_placefile(alerts):
     lines.append("Font: 1, 11, 1, \"Arial\"")
     lines.append("")
 
+    # === LIVE TIMESTAMP (visible in hover + properties) ===
+    utc_now = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    lines.append(f"; Generated: {utc_now}")
+
     BORDER_R, BORDER_G, BORDER_B = 222, 184, 135   # light brown
     BORDER_WIDTH = 2
 
@@ -43,7 +48,8 @@ def format_placefile(alerts):
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        hover_text = f"{headline}\\n\\nExpires: {expires}\\n\\n{description}"
+        # Add timestamp to every hover tooltip too
+        hover_text = f"{headline}\\n\\nExpires: {expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
 
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
         lines.append(f"Line: {BORDER_WIDTH}, 0, \"{hover_text}\"")
@@ -67,7 +73,6 @@ def main():
     alerts = fetch_sps_alerts()
     placefile = format_placefile(alerts)
 
-    # Write the file (GitHub Actions will commit it if it changed)
     with open(OUTFILE, "w", newline="\n") as f:
         f.write(placefile)
 
