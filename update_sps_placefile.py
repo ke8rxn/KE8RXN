@@ -33,7 +33,6 @@ def format_placefile(alerts):
     lines.append(f"; Generated: {utc_now}")
 
     BORDER_R, BORDER_G, BORDER_B = 222, 184, 135
-    BORDER_WIDTH = 2
 
     for a in alerts:
         props = a["properties"]
@@ -66,9 +65,8 @@ def format_placefile(alerts):
         # Hover text as comment
         lines.append(f"; {hover_text}")
 
-        # Outline color + width
+        # Outline color
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-        lines.append(f"Line: {BORDER_WIDTH}, 0")
 
         # True polygon (outline only)
         lines.append("Polygon: 0")
