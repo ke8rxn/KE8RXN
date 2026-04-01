@@ -2,7 +2,7 @@ import requests
 from datetime import datetime, timezone
 
 URL = "https://api.weather.gov/alerts/active"
-OUTFILE = "GRLevelX_SPS.txt"   # <-- GitHub Actions writes to repo root
+OUTFILE = "GRLevelX_SPS.txt"   # GitHub Actions writes to repo root
 
 def fetch_sps_alerts():
     r = requests.get(URL, headers={"User-Agent": "SPS-Placefile-Generator"})
@@ -35,6 +35,9 @@ def format_placefile(alerts):
     BORDER_R, BORDER_G, BORDER_B = 222, 184, 135
     BORDER_WIDTH = 2
 
+    # Tiny visible point color (neutral gray)
+    POINT_R, POINT_G, POINT_B = 180, 180, 180
+
     for a in alerts:
         props = a["properties"]
         geom = a["geometry"]
@@ -46,7 +49,7 @@ def format_placefile(alerts):
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        # Compute centroid for hidden point
+        # Compute centroid for tiny visible point
         lats = [c[1] for c in coords]
         lons = [c[0] for c in coords]
         centroid_lat = sum(lats) / len(lats)
@@ -61,10 +64,18 @@ def format_placefile(alerts):
             except:
                 pass
 
-        hover_text = f"{headline}\\n\\nExpires: {nice_expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
+        hover_text = (
+            f"{headline}\\n\\n"
+            f"Expires: {nice_expires}\\n\\n"
+            f"{description}\\n\\n"
+            f"Generated: {utc_now}"
+        )
 
-        # Invisible dynamic object to trigger "Next Update"
-        lines.append(f"Point: {centroid_lat:.4f}, {centroid_lon:.4f}, 0, \"\"")
+        # ⭐ Tiny visible point (size 1, neutral color)
+        lines.append(
+            f"Point: {centroid_lat:.4f}, {centroid_lon:.4f}, 1, \"SPS\", "
+            f"{POINT_R}, {POINT_G}, {POINT_B}"
+        )
 
         # Your original outline
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
