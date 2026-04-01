@@ -3,14 +3,8 @@
     {
       "source": "/GRLevelX_SPS.txt",
       "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        },
-        {
-          "key": "Last-Modified",
-          "value": "{{date}}"
-        }
+        { "key": "Cache-Control", "value": "no-cache, must-revalidate" },
+        { "key": "Pragma", "value": "no-cache" }
       ]
     }
   ]
