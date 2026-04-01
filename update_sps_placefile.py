@@ -1,9 +1,8 @@
 import requests
-import os
 from datetime import datetime, timezone
 
 URL = "https://api.weather.gov/alerts/active"
-OUTFILE = "/var/www/sps/GRLevelX_SPS.txt"
+OUTFILE = "GRLevelX_SPS.txt"   # <-- GitHub Actions writes to repo root
 
 def fetch_sps_alerts():
     r = requests.get(URL, headers={"User-Agent": "SPS-Placefile-Generator"})
