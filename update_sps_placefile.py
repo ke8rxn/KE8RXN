@@ -25,7 +25,7 @@ def fetch_sps_alerts():
 def format_placefile(alerts):
     lines = []
     lines.append("Title: Special Weather Statements")
-    lines.append("Refresh: 120")          # 2-minute polling for GR2
+    lines.append("Refresh: 300")                    # ← Changed to 5 minutes (most reliable)
     lines.append("Font: 0, 11, 1, \"Arial\"")
     lines.append("Font: 1, 11, 1, \"Arial\"")
     lines.append("")
@@ -48,17 +48,15 @@ def format_placefile(alerts):
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        # === CORRECT UTC/ZULU EXPIRATION TIME ===
+        # Simple UTC expiration time
         nice_expires = expires_raw
         if expires_raw:
             try:
-                # Parse the NWS time (with its original offset)
                 dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
-                # Convert to UTC
                 utc_dt = dt.astimezone(timezone.utc)
                 nice_expires = utc_dt.strftime("%Y-%m-%d %H:%M Z")
             except:
-                pass  # fallback if parsing fails
+                pass
 
         hover_text = f"{headline}\\n\\nExpires: {nice_expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
 
