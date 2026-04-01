@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          token: ${{ secrets.PAT }}          # ← uses your PAT
+          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -34,3 +34,4 @@ jobs:
         with:
           commit_message: "Auto-update SPS placefile"
           file_pattern: GRLevelX_SPS.txt
+          github_token: ${{ secrets.PAT }}     # ← THIS LINE WAS MISSING
