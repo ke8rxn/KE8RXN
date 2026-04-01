@@ -3,8 +3,7 @@ import os
 from datetime import datetime, timezone
 
 URL = "https://api.weather.gov/alerts/active"
-OUTFILE = "GRLevelX_SPS.txt"
-
+OUTFILE = "/var/www/sps/GRLevelX_SPS.txt"
 
 def fetch_sps_alerts():
     r = requests.get(URL, headers={"User-Agent": "SPS-Placefile-Generator"})
@@ -21,16 +20,16 @@ def fetch_sps_alerts():
         alerts.append(feat)
     return alerts
 
-
 def format_placefile(alerts):
     lines = []
+
+    # Refresh must be first for GR2Analyst
+    lines.append("Refresh: 300")
     lines.append("Title: Special Weather Statements")
-    lines.append("Refresh: 300")                    # ← Changed to 5 minutes (most reliable)
     lines.append("Font: 0, 11, 1, \"Arial\"")
     lines.append("Font: 1, 11, 1, \"Arial\"")
     lines.append("")
 
-    # Live generation timestamp (UTC)
     utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     lines.append(f"; Generated: {utc_now}")
 
@@ -48,7 +47,12 @@ def format_placefile(alerts):
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        # Simple UTC expiration time
+        # Compute centroid for hidden point
+        lats = [c[1] for c in coords]
+        lons = [c[0] for c in coords]
+        centroid_lat = sum(lats) / len(lats)
+        centroid_lon = sum(lons) / len(lons)
+
         nice_expires = expires_raw
         if expires_raw:
             try:
@@ -60,12 +64,17 @@ def format_placefile(alerts):
 
         hover_text = f"{headline}\\n\\nExpires: {nice_expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
 
+        # Invisible dynamic object to trigger "Next Update"
+        lines.append(f"Point: {centroid_lat:.4f}, {centroid_lon:.4f}, 0, \"\"")
+
+        # Your original outline
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
         lines.append(f"Line: {BORDER_WIDTH}, 0, \"{hover_text}\"")
-        for i in range(len(coords)):
-            lat = coords[i][1]
-            lon = coords[i][0]
+
+        for lat, lon in coords:
             lines.append(f"{lat:.4f}, {lon:.4f}")
+
+        # Close polygon
         lat0 = coords[0][1]
         lon0 = coords[0][0]
         lines.append(f"{lat0:.4f}, {lon0:.4f}")
@@ -77,7 +86,6 @@ def format_placefile(alerts):
 
     return "\n".join(lines)
 
-
 def main():
     alerts = fetch_sps_alerts()
     placefile = format_placefile(alerts)
@@ -86,7 +94,6 @@ def main():
         f.write(placefile)
 
     print(f"Generated {OUTFILE} with {len(alerts)} SPS alerts.")
-
 
 if __name__ == "__main__":
     main()
