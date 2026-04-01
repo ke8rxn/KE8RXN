@@ -59,22 +59,19 @@ def format_placefile(alerts):
                 pass
 
         hover_text = (
-            f"{headline}\\n\\n"
-            f"Expires: {nice_expires}\\n\\n"
-            f"{description}\\n\\n"
+            f"{headline}\\n"
+            f"Expires: {nice_expires}\\n"
+            f"{description}\\n"
             f"Generated: {utc_now}"
         )
 
-        # Hover text as comment
-        lines.append(f"; {hover_text}")
-
-        # --- Visible tan border as Line (outline-only polygon) ---
+        # --- Visible tan border as Line with hover text ---
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-        lines.append("Line: 2, 0")
+        lines.append(f"Line: 2,,\"{hover_text}\"")
         for lon, lat in coords:
-            lines.append(f"{lat:.4f}, {lon:.4f}")
+            lines.append(f"  {lat:.4f}, {lon:.4f}")
         first_lon, first_lat = coords[0]
-        lines.append(f"{first_lat:.4f}, {first_lon:.4f}")
+        lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
         lines.append("End:")
         lines.append("")
 
