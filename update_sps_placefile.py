@@ -32,6 +32,7 @@ def format_placefile(alerts):
     utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     lines.append(f"; Generated: {utc_now}")
 
+    # Tan border color
     BORDER_R, BORDER_G, BORDER_B = 222, 184, 135
 
     for a in alerts:
@@ -43,7 +44,7 @@ def format_placefile(alerts):
 
         coords = geom["coordinates"][0]
 
-        # GeoJSON is [lon, lat]; we want (lat, lon)
+        # GeoJSON is [lon, lat]; convert to (lat, lon)
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
@@ -67,21 +68,12 @@ def format_placefile(alerts):
         # Hover text as comment
         lines.append(f"; {hover_text}")
 
-        # --- 1. Invisible polygon (white) to keep file dynamic ---
-        lines.append("Color: 255 255 255")
-        lines.append("Polygon: 0")
-        for lon, lat in coords:
-            lines.append(f"{lat:.4f}, {lon:.4f}")
-        # close polygon
-        first_lon, first_lat = coords[0]
-        lines.append(f"{first_lat:.4f}, {first_lon:.4f}")
-        lines.append("End:")
-
-        # --- 2. Visible tan border as Line ---
+        # --- Visible tan border as Line (outline-only polygon) ---
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
         lines.append("Line: 2, 0")
         for lon, lat in coords:
             lines.append(f"{lat:.4f}, {lon:.4f}")
+        first_lon, first_lat = coords[0]
         lines.append(f"{first_lat:.4f}, {first_lon:.4f}")
         lines.append("End:")
         lines.append("")
