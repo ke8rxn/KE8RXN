@@ -15,9 +15,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
-        with:
-          token: ${{ secrets.PAT }}
-          persist-credentials: false   # ← THIS STOPS CREDENTIAL CACHING
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -34,9 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Force PAT for push
-          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/ke8rxn/KE8RXN.git
           
           if git diff --quiet GRLevelX_SPS.txt; then
             echo "✅ No changes detected — nothing to commit."
