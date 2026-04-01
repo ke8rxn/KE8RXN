@@ -1,8 +1,8 @@
 Refresh: 5
 Title: GR Test Polygon
 
-; Draw polygon fill first (white)
-Color: 255 255 255
+; Draw polygon fill first (match GR2 background)
+Color: 240 240 240
 Polygon: 0
 43.05, -85.75
 43.05, -85.55
