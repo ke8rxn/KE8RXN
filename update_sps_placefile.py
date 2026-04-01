@@ -48,30 +48,14 @@ def format_placefile(alerts):
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        # === CORRECT EXPIRATION TIME WITH PROPER TIMEZONE (PDT/PST + DST switch) ===
+        # === SIMPLE UTC EXPIRATION TIME (24-hour format with Z) ===
         nice_expires = expires_raw
         if expires_raw:
             try:
                 dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
-                offset_hours = dt.utcoffset().total_seconds() / 3600 if dt.utcoffset() else 0
-
-                # Full US timezone mapping based on actual offset used by NWS
-                if offset_hours == -4:
-                    tz_abbr = "EDT"
-                elif offset_hours == -5:
-                    tz_abbr = "CDT"      # Central Daylight (or EST in winter)
-                elif offset_hours == -6:
-                    tz_abbr = "MDT"      # Mountain Daylight (or CST in winter)
-                elif offset_hours == -7:
-                    tz_abbr = "PDT"      # Pacific Daylight (or MST in winter)
-                elif offset_hours == -8:
-                    tz_abbr = "PST"
-                else:
-                    tz_abbr = dt.strftime("%z")  # fallback
-
-                nice_expires = dt.strftime(f"%B %d, %Y at %I:%M %p {tz_abbr}")
+                nice_expires = dt.strftime("%Y-%m-%d %H:%M Z")
             except:
-                pass  # fallback to raw string if anything fails
+                pass  # fallback to raw string if parsing fails
 
         hover_text = f"{headline}\\n\\nExpires: {nice_expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
 
