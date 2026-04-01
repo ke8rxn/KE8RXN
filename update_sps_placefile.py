@@ -22,8 +22,8 @@ def fetch_sps_alerts():
 def format_placefile(alerts):
     lines = []
 
-    # Refresh must be first for GR2Analyst
-    lines.append("Refresh: 300")
+    # Refresh must be first
+    lines.append("Refresh: 5")
     lines.append("Title: Special Weather Statements")
     lines.append("Font: 0, 11, 1, \"Arial\"")
     lines.append("Font: 1, 11, 1, \"Arial\"")
@@ -34,9 +34,6 @@ def format_placefile(alerts):
 
     BORDER_R, BORDER_G, BORDER_B = 222, 184, 135
     BORDER_WIDTH = 2
-
-    # Tiny visible point color (neutral gray)
-    POINT_R, POINT_G, POINT_B = 180, 180, 180
 
     for a in alerts:
         props = a["properties"]
@@ -49,12 +46,7 @@ def format_placefile(alerts):
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        # Compute centroid for tiny visible point
-        lats = [c[1] for c in coords]
-        lons = [c[0] for c in coords]
-        centroid_lat = sum(lats) / len(lats)
-        centroid_lon = sum(lons) / len(lons)
-
+        # Format expiration time
         nice_expires = expires_raw
         if expires_raw:
             try:
@@ -71,16 +63,15 @@ def format_placefile(alerts):
             f"Generated: {utc_now}"
         )
 
-        # ⭐ Tiny visible point (size 1, neutral color)
-        lines.append(
-            f"Point: {centroid_lat:.4f}, {centroid_lon:.4f}, 1, \"SPS\", "
-            f"{POINT_R}, {POINT_G}, {POINT_B}"
-        )
+        # Hover text as comment
+        lines.append(f"; {hover_text}")
 
-        # Your original outline
+        # Outline color + width
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-        lines.append(f"Line: {BORDER_WIDTH}, 0, \"{hover_text}\"")
+        lines.append(f"Line: {BORDER_WIDTH}, 0")
 
+        # True polygon (outline only)
+        lines.append("Polygon: 0")
         for lat, lon in coords:
             lines.append(f"{lat:.4f}, {lon:.4f}")
 
@@ -89,9 +80,6 @@ def format_placefile(alerts):
         lon0 = coords[0][0]
         lines.append(f"{lat0:.4f}, {lon0:.4f}")
         lines.append("End:")
-
-        lines.append(f"; Expires: {expires_raw}")
-        lines.append(f"; {description}")
         lines.append("")
 
     return "\n".join(lines)
