@@ -1,9 +1,9 @@
 Refresh: 5
 Title: GR Test Polygon
 
-; Test polygon around Grand Rapids, MI
-Color: 222 184 135
-Line: 2, 0
+; Draw polygon fill first (white)
+Color: 255 255 255
+Polygon: 0
 43.05, -85.75
 43.05, -85.55
 42.90, -85.55
@@ -11,7 +11,9 @@ Line: 2, 0
 43.05, -85.75
 End:
 
-Polygon: 0
+; Draw border on top (tan)
+Color: 222 184 135
+Line: 2, 0
 43.05, -85.75
 43.05, -85.55
 42.90, -85.55
