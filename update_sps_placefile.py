@@ -48,25 +48,26 @@ def format_placefile(alerts):
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        # === Clean expiration time in the ORIGINAL NWS office timezone ===
+        # === CORRECTED: Preserve the exact NWS office timezone ===
         nice_expires = expires_raw
         if expires_raw:
             try:
-                # Parse the NWS ISO format (keeps original offset)
                 dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
-                offset_hours = dt.utcoffset().total_seconds() / 3600
+                offset_hours = dt.utcoffset().total_seconds() / 3600 if dt.utcoffset() else 0
 
-                # Map common Eastern Time offsets used by Michigan offices
+                # Accurate timezone abbreviations based on actual NWS offset
                 if offset_hours == -4:
                     tz_abbr = "EDT"
                 elif offset_hours == -5:
-                    tz_abbr = "EST"
+                    tz_abbr = "CDT"      # ← fixed for Central Daylight Time offices
+                elif offset_hours == -6:
+                    tz_abbr = "CST"
                 else:
-                    tz_abbr = dt.strftime("%z")  # fallback to offset
+                    tz_abbr = dt.strftime("%z")   # fallback to raw offset
 
                 nice_expires = dt.strftime(f"%B %d, %Y at %I:%M %p {tz_abbr}")
             except:
-                pass  # fallback to raw string if anything fails
+                pass  # fallback to raw string if parsing fails
 
         hover_text = f"{headline}\\n\\nExpires: {nice_expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
 
