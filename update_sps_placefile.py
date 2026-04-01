@@ -30,7 +30,7 @@ def format_placefile(alerts):
     lines.append("Font: 1, 11, 1, \"Arial\"")
     lines.append("")
 
-    # === LIVE TIMESTAMP (visible in hover + properties) ===
+    # Live generation timestamp (UTC)
     utc_now = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
     lines.append(f"; Generated: {utc_now}")
 
@@ -41,15 +41,34 @@ def format_placefile(alerts):
         props = a["properties"]
         geom = a["geometry"]
         headline = props.get("headline", "Special Weather Statement")
-        expires = props.get("expires", "")
+        expires_raw = props.get("expires", "")
         description = props.get("description", "").replace("\n", " ")
 
         coords = geom["coordinates"][0]
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
-        # Add timestamp to every hover tooltip too
-        hover_text = f"{headline}\\n\\nExpires: {expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
+        # === Clean expiration time in the ORIGINAL NWS office timezone ===
+        nice_expires = expires_raw
+        if expires_raw:
+            try:
+                # Parse the NWS ISO format (keeps original offset)
+                dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
+                offset_hours = dt.utcoffset().total_seconds() / 3600
+
+                # Map common Eastern Time offsets used by Michigan offices
+                if offset_hours == -4:
+                    tz_abbr = "EDT"
+                elif offset_hours == -5:
+                    tz_abbr = "EST"
+                else:
+                    tz_abbr = dt.strftime("%z")  # fallback to offset
+
+                nice_expires = dt.strftime(f"%B %d, %Y at %I:%M %p {tz_abbr}")
+            except:
+                pass  # fallback to raw string if anything fails
+
+        hover_text = f"{headline}\\n\\nExpires: {nice_expires}\\n\\n{description}\\n\\nGenerated: {utc_now}"
 
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
         lines.append(f"Line: {BORDER_WIDTH}, 0, \"{hover_text}\"")
@@ -62,7 +81,7 @@ def format_placefile(alerts):
         lines.append(f"{lat0:.4f}, {lon0:.4f}")
         lines.append("End:")
 
-        lines.append(f"; Expires: {expires}")
+        lines.append(f"; Expires: {expires_raw}")
         lines.append(f"; {description}")
         lines.append("")
 
