@@ -1,12 +1,59 @@
-Refresh: 300
+Refresh: 5
 Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-01 18:50:12 UTC
-Point: 36.7660, -83.8120, 1, "SPS", 180, 180, 180
+; Generated: 2026-04-01 18:55:16 UTC
+; Special Weather Statement issued April 1 at 2:54PM EDT by NWS Louisville KY\n\nExpires: 2026-04-01 19:30 Z\n\nAt 253 PM EDT, Doppler radar was tracking a strong thunderstorm near Millersport, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jasper, Huntingburg, Ferdinand, Holland, Saint Marks, Millersport, Bretzville, Duff, Huntingburg Airport, and Ireland.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:49PM EDT by NWS Jackson KY\n\nExpires: 2026-04-01 19:15 Z\n\nAt 249 PM EDT, Doppler radar was tracking a strong thunderstorm over Birdseye, or 9 miles south of Barbourville, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Barbourville, Pineville, East Pineville, Artemus, Wallsend, Hubbs, Barnyard, Birdseye, Ingram, Hinkle, Straight Creek, Blanche, Bryants Store, Cary, Wheeler, Fourmile, Clear Creek Springs, Wasioto, Avis, and Dewitt.  THIS INCLUDES THE FOLLOWING HIGHWAYS... U.S. Highway 25 East in Bell County between mile markers 11 and 18. U.S. Highway 25 East in Knox County between mile markers 1 and 9.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
+-87.0700, 38.4300
+-86.8400, 38.5000
+-86.7300, 38.2500
+-86.7900, 38.2500
+-86.7900, 38.2100
+-87.0700, 38.2000
+38.4300, -87.0700
+End:
+
+; Special Weather Statement issued April 1 at 2:51PM EDT by NWS Jackson KY\n\nExpires: 2026-04-01 19:15 Z\n\nAt 251 PM EDT, Doppler radar was tracking a strong thunderstorm over Zebulon, or near Pikeville, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pikeville, Coal Run Village, Rural, Mcandrews, Meta, Heisey, Coal Run, Conder, Zebulon, Sidney, Canada, Varney, Kimper, Raccoon, and Huddy.  THIS INCLUDES THE FOLLOWING HIGHWAYS... U.S. Highway 119 in Pike County between mile markers 1 and 18. U.S. Highway 23 in Pike County between mile markers 23 and 29.\n\nGenerated: 2026-04-01 18:55:16 UTC
+Color: 222 184 135
+Line: 2, 0
+Polygon: 0
+-82.2100, 37.5100
+-82.5300, 37.4600
+-82.5900, 37.5200
+-82.3600, 37.7100
+37.5100, -82.2100
+End:
+
+; Special Weather Statement issued April 1 at 2:50PM EDT by NWS Charleston WV\n\nExpires: 2026-04-01 19:15 Z\n\nAt 249 PM EDT, Doppler radar was tracking a strong thunderstorm over Oppy, or 9 miles northwest of Williamson, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Williamson, Delbarton, Holden, Mount Gay-Shamrock, Chattaroy, Kermit, Verdunville, Chauncey, Myrtle, Switzer, Naugatuck, Dingess, Sarah Ann, and Lenore.  This includes Route 119 between mile markers 1 and 29.\n\nGenerated: 2026-04-01 18:55:16 UTC
+Color: 222 184 135
+Line: 2, 0
+Polygon: 0
+-82.2800, 37.6800
+-82.2900, 37.6700
+-82.3000, 37.6800
+-82.3000, 37.7000
+-82.3300, 37.7400
+-82.3100, 37.7600
+-82.3300, 37.7600
+-82.3200, 37.7800
+-82.3300, 37.7700
+-82.3800, 37.8200
+-82.4000, 37.8100
+-82.4100, 37.8400
+-82.0800, 37.9400
+-81.9400, 37.6900
+-82.2600, 37.6600
+37.6800, -82.2800
+End:
+
+; Special Weather Statement issued April 1 at 2:49PM EDT by NWS Jackson KY\n\nExpires: 2026-04-01 19:15 Z\n\nAt 249 PM EDT, Doppler radar was tracking a strong thunderstorm over Birdseye, or 9 miles south of Barbourville, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Barbourville, Pineville, East Pineville, Artemus, Wallsend, Hubbs, Barnyard, Birdseye, Ingram, Hinkle, Straight Creek, Blanche, Bryants Store, Cary, Wheeler, Fourmile, Clear Creek Springs, Wasioto, Avis, and Dewitt.  THIS INCLUDES THE FOLLOWING HIGHWAYS... U.S. Highway 25 East in Bell County between mile markers 11 and 18. U.S. Highway 25 East in Knox County between mile markers 1 and 9.\n\nGenerated: 2026-04-01 18:55:16 UTC
+Color: 222 184 135
+Line: 2, 0
+Polygon: 0
 -83.8800, 36.6900
 -83.9600, 36.7300
 -83.7800, 36.9700
@@ -14,12 +61,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:49PM EDT by NWS Jacks
 -83.8800, 36.6800
 36.6900, -83.8800
 End:
-; Expires: 2026-04-01T15:15:00-04:00
-; At 249 PM EDT, Doppler radar was tracking a strong thunderstorm over Birdseye, or 9 miles south of Barbourville, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Barbourville, Pineville, East Pineville, Artemus, Wallsend, Hubbs, Barnyard, Birdseye, Ingram, Hinkle, Straight Creek, Blanche, Bryants Store, Cary, Wheeler, Fourmile, Clear Creek Springs, Wasioto, Avis, and Dewitt.  THIS INCLUDES THE FOLLOWING HIGHWAYS... U.S. Highway 25 East in Bell County between mile markers 11 and 18. U.S. Highway 25 East in Knox County between mile markers 1 and 9.
 
-Point: 37.6321, -80.4364, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:46PM EDT by NWS Blacksburg VA\n\nExpires: 2026-04-01 19:15 Z\n\nAt 246 PM EDT, Doppler radar was tracking a strong thunderstorm near Red Sulphur Spring, or 10 miles northeast of Peterstown, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Union... Paint Bank... Red Sulphur Spring... Laurel Branch... Craig Springs... Pickaway... and Wayside.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:46PM EDT by NWS Blacksburg VA\n\nExpires: 2026-04-01 19:15 Z\n\nAt 246 PM EDT, Doppler radar was tracking a strong thunderstorm near Red Sulphur Spring, or 10 miles northeast of Peterstown, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Union... Paint Bank... Red Sulphur Spring... Laurel Branch... Craig Springs... Pickaway... and Wayside.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -80.3800, 37.6900
 -80.3500, 37.7100
 -80.3400, 37.7000
@@ -36,12 +82,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:46PM EDT by NWS Black
 -80.3900, 37.7200
 37.6900, -80.3800
 End:
-; Expires: 2026-04-01T15:15:00-04:00
-; At 246 PM EDT, Doppler radar was tracking a strong thunderstorm near Red Sulphur Spring, or 10 miles northeast of Peterstown, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Union... Paint Bank... Red Sulphur Spring... Laurel Branch... Craig Springs... Pickaway... and Wayside.
 
-Point: 38.7260, -86.1410, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:45PM EDT by NWS Louisville KY\n\nExpires: 2026-04-01 19:30 Z\n\nAt 245 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Paoli, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salem, Orleans, Stampers Creek, Campbellsburg, Little York, Livonia, Saltillo, Bromer, Leipsic, and Kossuth.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:45PM EDT by NWS Louisville KY\n\nExpires: 2026-04-01 19:30 Z\n\nAt 245 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Paoli, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salem, Orleans, Stampers Creek, Campbellsburg, Little York, Livonia, Saltillo, Bromer, Leipsic, and Kossuth.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -86.0300, 38.7600
 -86.0200, 38.7700
 -86.0100, 38.7600
@@ -64,12 +109,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:45PM EDT by NWS Louis
 -86.0900, 38.7800
 38.7600, -86.0300
 End:
-; Expires: 2026-04-01T15:30:00-04:00
-; At 245 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Paoli, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salem, Orleans, Stampers Creek, Campbellsburg, Little York, Livonia, Saltillo, Bromer, Leipsic, and Kossuth.
 
-Point: 37.3400, -82.9114, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:43PM EDT by NWS Jackson KY\n\nExpires: 2026-04-01 19:15 Z\n\nAt 243 PM EDT, Doppler radar was tracking a strong thunderstorm over Cordia, or near Hazard, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hazard, Hindman, Bath, Pippa Passes, Vicco, Elic, Cody, Van, Pine Top, Leburn, Viper, Carr Creek, Isom, Emmalena, Nealy, Bearville, Colson, Lester, Redfox, and Democrat.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Kentucky Highway 80 in Knott County between mile markers 1 and 12. Kentucky Highway 80 in Perry County between mile markers 12 and 15.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:43PM EDT by NWS Jackson KY\n\nExpires: 2026-04-01 19:15 Z\n\nAt 243 PM EDT, Doppler radar was tracking a strong thunderstorm over Cordia, or near Hazard, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hazard, Hindman, Bath, Pippa Passes, Vicco, Elic, Cody, Van, Pine Top, Leburn, Viper, Carr Creek, Isom, Emmalena, Nealy, Bearville, Colson, Lester, Redfox, and Democrat.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Kentucky Highway 80 in Knott County between mile markers 1 and 12. Kentucky Highway 80 in Perry County between mile markers 12 and 15.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -83.2000, 37.1800
 -83.1600, 37.3900
 -82.8300, 37.4200
@@ -79,12 +123,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:43PM EDT by NWS Jacks
 -82.7900, 37.1400
 37.1800, -83.2000
 End:
-; Expires: 2026-04-01T15:15:00-04:00
-; At 243 PM EDT, Doppler radar was tracking a strong thunderstorm over Cordia, or near Hazard, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hazard, Hindman, Bath, Pippa Passes, Vicco, Elic, Cody, Van, Pine Top, Leburn, Viper, Carr Creek, Isom, Emmalena, Nealy, Bearville, Colson, Lester, Redfox, and Democrat.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Kentucky Highway 80 in Knott County between mile markers 1 and 12. Kentucky Highway 80 in Perry County between mile markers 12 and 15.
 
-Point: 39.5743, -82.0886, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:36PM EDT by NWS Charleston WV\n\nExpires: 2026-04-01 19:00 Z\n\nAt 236 PM EDT, Doppler radar was tracking a strong thunderstorm near Glouster, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glouster, Corning, Hemlock, Rendville, and Burr Oak State Park.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:36PM EDT by NWS Charleston WV\n\nExpires: 2026-04-01 19:00 Z\n\nAt 236 PM EDT, Doppler radar was tracking a strong thunderstorm near Glouster, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glouster, Corning, Hemlock, Rendville, and Burr Oak State Park.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -81.8000, 39.5600
 -82.1300, 39.5000
 -82.1600, 39.5300
@@ -94,12 +137,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:36PM EDT by NWS Charl
 -81.9700, 39.7400
 39.5600, -81.8000
 End:
-; Expires: 2026-04-01T15:00:00-04:00
-; At 236 PM EDT, Doppler radar was tracking a strong thunderstorm near Glouster, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glouster, Corning, Hemlock, Rendville, and Burr Oak State Park.
 
-Point: 38.3387, -85.4450, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:28PM EDT by NWS Louisville KY\n\nExpires: 2026-04-01 19:00 Z\n\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm over Prospect, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lyndon, La Grange, Prospect, Anchorage, Worthington Hills, Barbourmeade, Coldstream, Rolling Hills, Langdon Place, and Plantation.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:28PM EDT by NWS Louisville KY\n\nExpires: 2026-04-01 19:00 Z\n\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm over Prospect, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lyndon, La Grange, Prospect, Anchorage, Worthington Hills, Barbourmeade, Coldstream, Rolling Hills, Langdon Place, and Plantation.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -85.2800, 38.3600
 -85.3100, 38.3300
 -85.4300, 38.3100
@@ -110,12 +152,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:28PM EDT by NWS Louis
 -85.4000, 38.5000
 38.3600, -85.2800
 End:
-; Expires: 2026-04-01T15:00:00-04:00
-; At 228 PM EDT, Doppler radar was tracking a strong thunderstorm over Prospect, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lyndon, La Grange, Prospect, Anchorage, Worthington Hills, Barbourmeade, Coldstream, Rolling Hills, Langdon Place, and Plantation.
 
-Point: 37.5300, -84.2293, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:23PM EDT by NWS Jackson KY\n\nExpires: 2026-04-01 19:00 Z\n\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm over Boone, or 9 miles north of Mount Vernon, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McKee, Boone, Snider, Morrill, Threelinks, Conway, Collingsworth, Kerby Knob, Waneta, Clover Bottom, Hisel, Climax, Eglon, Disputanta, Brazil, Alcorn, Shirley, Sandgap, and Locust Branch.  THIS INCLUDES Interstate 75 in east central Kentucky between mile markers 68 and 72.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:23PM EDT by NWS Jackson KY\n\nExpires: 2026-04-01 19:00 Z\n\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm over Boone, or 9 miles north of Mount Vernon, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McKee, Boone, Snider, Morrill, Threelinks, Conway, Collingsworth, Kerby Knob, Waneta, Clover Bottom, Hisel, Climax, Eglon, Disputanta, Brazil, Alcorn, Shirley, Sandgap, and Locust Branch.  THIS INCLUDES Interstate 75 in east central Kentucky between mile markers 68 and 72.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -84.3500, 37.5000
 -84.3500, 37.5400
 -84.3000, 37.5300
@@ -132,12 +173,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:23PM EDT by NWS Jacks
 -84.3800, 37.4700
 37.5000, -84.3500
 End:
-; Expires: 2026-04-01T15:00:00-04:00
-; At 222 PM EDT, Doppler radar was tracking a strong thunderstorm over Boone, or 9 miles north of Mount Vernon, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McKee, Boone, Snider, Morrill, Threelinks, Conway, Collingsworth, Kerby Knob, Waneta, Clover Bottom, Hisel, Climax, Eglon, Disputanta, Brazil, Alcorn, Shirley, Sandgap, and Locust Branch.  THIS INCLUDES Interstate 75 in east central Kentucky between mile markers 68 and 72.
 
-Point: 36.3167, -84.5111, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:22PM EDT by NWS Morristown TN\n\nExpires: 2026-04-01 19:15 Z\n\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Huntsville, or 13 miles north of Wartburg, moving northeast at 25 mph.  HAZARD...Winds in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, Caryville, Elk Valley, Royal Blue, Norma, Elgin, Robbins, and Slick Rock.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:22PM EDT by NWS Morristown TN\n\nExpires: 2026-04-01 19:15 Z\n\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Huntsville, or 13 miles north of Wartburg, moving northeast at 25 mph.  HAZARD...Winds in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, Caryville, Elk Valley, Royal Blue, Norma, Elgin, Robbins, and Slick Rock.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -84.2800, 36.5600
 -84.1500, 36.3700
 -84.5700, 36.2400
@@ -149,12 +189,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:22PM EDT by NWS Morri
 -84.6500, 36.3200
 36.5600, -84.2800
 End:
-; Expires: 2026-04-01T15:15:00-04:00
-; At 222 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Huntsville, or 13 miles north of Wartburg, moving northeast at 25 mph.  HAZARD...Winds in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, Caryville, Elk Valley, Royal Blue, Norma, Elgin, Robbins, and Slick Rock.
 
-Point: 38.7837, -86.2947, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:22PM EDT by NWS Indianapolis IN\n\nExpires: 2026-04-01 19:00 Z\n\nAt 222 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bedford to 18 miles northeast of Shoals to 10 miles north of Paoli. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bedford, Mitchell, Oolitic, Medora, Heltonville, Norman, Pleasant View, Spring Mill State Park, Tunnelton, and Kurtz.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:22PM EDT by NWS Indianapolis IN\n\nExpires: 2026-04-01 19:00 Z\n\nAt 222 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bedford to 18 miles northeast of Shoals to 10 miles north of Paoli. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bedford, Mitchell, Oolitic, Medora, Heltonville, Norman, Pleasant View, Spring Mill State Park, Tunnelton, and Kurtz.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -86.5400, 38.7300
 -86.5300, 38.7900
 -86.5700, 38.8700
@@ -176,12 +215,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:22PM EDT by NWS India
 -86.5700, 38.6900
 38.7300, -86.5400
 End:
-; Expires: 2026-04-01T15:00:00-04:00
-; At 222 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bedford to 18 miles northeast of Shoals to 10 miles north of Paoli. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bedford, Mitchell, Oolitic, Medora, Heltonville, Norman, Pleasant View, Spring Mill State Park, Tunnelton, and Kurtz.
 
-Point: 35.9000, -85.1522, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 1:20PM CDT by NWS Nashville TN\n\nExpires: 2026-04-01 19:00 Z\n\nAt 120 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Crossville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crossville, Fairfield Glade, Crab Orchard, Lake Tansi, Cumberland Mountain State Park, and Slate Springs.  This includes Interstate 40 between mile markers 315 and 331.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 1:20PM CDT by NWS Nashville TN\n\nExpires: 2026-04-01 19:00 Z\n\nAt 120 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Crossville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crossville, Fairfield Glade, Crab Orchard, Lake Tansi, Cumberland Mountain State Park, and Slate Springs.  This includes Interstate 40 between mile markers 315 and 331.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -84.8300, 35.8800
 -85.2000, 35.7900
 -85.2300, 35.8500
@@ -193,12 +231,11 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 1:20PM CDT by NWS Nashv
 -85.0100, 36.0900
 35.8800, -84.8300
 End:
-; Expires: 2026-04-01T14:00:00-05:00
-; At 120 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Crossville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crossville, Fairfield Glade, Crab Orchard, Lake Tansi, Cumberland Mountain State Park, and Slate Springs.  This includes Interstate 40 between mile markers 315 and 331.
 
-Point: 38.5340, -86.7550, 1, "SPS", 180, 180, 180
+; Special Weather Statement issued April 1 at 2:08PM EDT by NWS Louisville KY\n\nExpires: 2026-04-01 19:00 Z\n\nAt 208 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Shoals, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paoli, Orleans, French Lick, Stampers Creek, Orangeville, West Baden Springs, Dubois, Hillham, Syria, and Ellsworth.\n\nGenerated: 2026-04-01 18:55:16 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued April 1 at 2:08PM EDT by NWS Louisville KY\n\nExpires: 2026-04-01 19:00 Z\n\nAt 208 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Shoals, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paoli, Orleans, French Lick, Stampers Creek, Orangeville, West Baden Springs, Dubois, Hillham, Syria, and Ellsworth.\n\nGenerated: 2026-04-01 18:50:12 UTC"
+Line: 2, 0
+Polygon: 0
 -86.9300, 38.5100
 -86.9100, 38.5000
 -86.8800, 38.5000
@@ -211,5 +248,3 @@ Line: 2, 0, "Special Weather Statement issued April 1 at 2:08PM EDT by NWS Louis
 -86.9500, 38.4900
 38.5100, -86.9300
 End:
-; Expires: 2026-04-01T15:00:00-04:00
-; At 208 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Shoals, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paoli, Orleans, French Lick, Stampers Creek, Orangeville, West Baden Springs, Dubois, Hillham, Syria, and Ellsworth.
