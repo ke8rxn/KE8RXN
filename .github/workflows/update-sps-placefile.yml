@@ -2,8 +2,8 @@ name: Update SPS Placefile
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '*/5 * * * *'     # every 5 minutes
+  workflow_dispatch:          # allows manual trigger
 
 jobs:
   update:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -27,7 +27,7 @@ jobs:
         run: python update_sps_placefile.py
 
       - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Auto-update SPS placefile"
           file_pattern: GRLevelX_SPS.txt
