@@ -42,6 +42,8 @@ def format_placefile(alerts):
         description = props.get("description", "").replace("\n", " ")
 
         coords = geom["coordinates"][0]
+
+        # GeoJSON is [lon, lat]; we want (lat, lon)
         if len(coords) > 1 and coords[-1] == coords[0]:
             coords = coords[:-1]
 
@@ -65,20 +67,22 @@ def format_placefile(alerts):
         # Hover text as comment
         lines.append(f"; {hover_text}")
 
-        # --- 1. Invisible polygon (white fill, white outline) ---
-        lines.append("Color: 255 255 255")   # <-- prevents tan polygon outline
+        # --- 1. Invisible polygon (white) to keep file dynamic ---
+        lines.append("Color: 255 255 255")
         lines.append("Polygon: 0")
-        for lat, lon in coords:
+        for lon, lat in coords:
             lines.append(f"{lat:.4f}, {lon:.4f}")
-        lines.append(f"{coords[0][1]:.4f}, {coords[0][0]:.4f}")
+        # close polygon
+        first_lon, first_lat = coords[0]
+        lines.append(f"{first_lat:.4f}, {first_lon:.4f}")
         lines.append("End:")
 
-        # --- 2. Visible tan border ---
+        # --- 2. Visible tan border as Line ---
         lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
         lines.append("Line: 2, 0")
-        for lat, lon in coords:
+        for lon, lat in coords:
             lines.append(f"{lat:.4f}, {lon:.4f}")
-        lines.append(f"{coords[0][1]:.4f}, {coords[0][0]:.4f}")
+        lines.append(f"{first_lat:.4f}, {first_lon:.4f}")
         lines.append("End:")
         lines.append("")
 
