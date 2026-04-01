@@ -3,20 +3,48 @@ Refresh: 300
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-01 02:48:12 UTC
+; Generated: 2026-04-01 03:12:41 UTC
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued March 31 at 9:40PM CDT by NWS Lincoln IL\n\nExpires: March 31, 2026 at 10:00 PM EST\n\nAt 940 PM CDT, Doppler radar was tracking a strong thunderstorm over Niantic, or 13 miles west of Decatur, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Decatur, Forsyth, Harristown, Warrensburg, Illiopolis, Niantic, and Elwin.  This includes Interstate 72 between mile markers 124 and 140.\n\nGenerated: 2026-04-01 02:48:12 UTC"
-39.7800, -89.2300
-39.8600, -89.2500
-39.9800, -89.0000
-39.7800, -88.9300
-39.7800, -89.2300
+Line: 2, 0, "Special Weather Statement issued March 31 at 10:08PM CDT by NWS Norman OK\n\nExpires: 2026-03-31 23:00 Z\n\nAt 1007 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles southeast of Thalia to 13 miles southeast of Guthrie. Movement was southeast at 15 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Seymour, Munday, Knox City, Benjamin, Goree, Red Springs, Gilliland, Bomarton, Lake Kemp, Mabelle, Vera, Truscott, and Rhineland.\n\nGenerated: 2026-04-01 03:12:41 UTC"
+33.4000, -99.9900
+33.7900, -100.0000
+33.9700, -99.4100
+33.6900, -99.0300
+33.4000, -99.4700
+33.4000, -99.9900
 End:
-; Expires: 2026-03-31T22:00:00-05:00
-; At 940 PM CDT, Doppler radar was tracking a strong thunderstorm over Niantic, or 13 miles west of Decatur, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Decatur, Forsyth, Harristown, Warrensburg, Illiopolis, Niantic, and Elwin.  This includes Interstate 72 between mile markers 124 and 140.
+; Expires: 2026-03-31T23:00:00-05:00
+; At 1007 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles southeast of Thalia to 13 miles southeast of Guthrie. Movement was southeast at 15 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Seymour, Munday, Knox City, Benjamin, Goree, Red Springs, Gilliland, Bomarton, Lake Kemp, Mabelle, Vera, Truscott, and Rhineland.
 
 Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued March 31 at 9:32PM CDT by NWS Norman OK\n\nExpires: March 31, 2026 at 10:15 PM EST\n\nAt 932 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Thalia, moving east at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Lake Kemp.\n\nGenerated: 2026-04-01 02:48:12 UTC"
+Line: 2, 0, "Special Weather Statement issued March 31 at 10:01PM CDT by NWS Norman OK\n\nExpires: 2026-03-31 22:30 Z\n\nAt 1001 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Frederick, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Frederick, Tipton, and Manitou.\n\nGenerated: 2026-04-01 03:12:41 UTC"
+34.4600, -99.2200
+34.4900, -99.2200
+34.5100, -99.2100
+34.6700, -98.8500
+34.4100, -98.7200
+34.3200, -99.1800
+34.4300, -99.2200
+34.4500, -99.2300
+34.4600, -99.2200
+End:
+; Expires: 2026-03-31T22:30:00-05:00
+; At 1001 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Frederick, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Frederick, Tipton, and Manitou.
+
+Color: 222 184 135
+Line: 2, 0, "Special Weather Statement issued March 31 at 9:56PM CDT by NWS Lincoln IL\n\nExpires: 2026-03-31 22:15 Z\n\nAt 956 PM CDT, Doppler radar was tracking a strong thunderstorm over Decatur, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Decatur, Mount Zion, Harristown, Long Creek, Oreana, Decatur Airport, Oakley, and Elwin.  This includes Interstate 72 between mile markers 133 and 137, and between mile markers 142 and 149.\n\nGenerated: 2026-04-01 03:12:41 UTC"
+39.8000, -89.0600
+39.8700, -89.0700
+39.9600, -88.8000
+39.8500, -88.7700
+39.7500, -88.8200
+39.8000, -89.0600
+End:
+; Expires: 2026-03-31T22:15:00-05:00
+; At 956 PM CDT, Doppler radar was tracking a strong thunderstorm over Decatur, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Decatur, Mount Zion, Harristown, Long Creek, Oreana, Decatur Airport, Oakley, and Elwin.  This includes Interstate 72 between mile markers 133 and 137, and between mile markers 142 and 149.
+
+Color: 222 184 135
+Line: 2, 0, "Special Weather Statement issued March 31 at 9:32PM CDT by NWS Norman OK\n\nExpires: 2026-03-31 22:15 Z\n\nAt 932 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Thalia, moving east at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Lake Kemp.\n\nGenerated: 2026-04-01 03:12:41 UTC"
 33.8300, -99.7000
 34.0000, -99.6300
 33.8900, -99.1400
@@ -25,25 +53,3 @@ Line: 2, 0, "Special Weather Statement issued March 31 at 9:32PM CDT by NWS Norm
 End:
 ; Expires: 2026-03-31T22:15:00-05:00
 ; At 932 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Thalia, moving east at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Lake Kemp.
-
-Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued March 31 at 9:14PM CDT by NWS Norman OK\n\nExpires: March 31, 2026 at 10:00 PM EST\n\nAt 914 PM CDT, Doppler radar was tracking a strong thunderstorm near Indiahoma, moving northeast at 25 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Northern Lawton, Cache, Snyder, Mountain Park, Medicine Park, Indiahoma, Meers, Lake Lawtonka, Fort Sill, Wichita Mountains Wildlife Refuge, Mount Scott, Doris Campground, and The Visitor Center.\n\nGenerated: 2026-04-01 02:48:12 UTC"
-34.4700, -98.7800
-34.7100, -99.0300
-34.9900, -98.6400
-34.6400, -98.2900
-34.4700, -98.7800
-End:
-; Expires: 2026-03-31T22:00:00-05:00
-; At 914 PM CDT, Doppler radar was tracking a strong thunderstorm near Indiahoma, moving northeast at 25 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Northern Lawton, Cache, Snyder, Mountain Park, Medicine Park, Indiahoma, Meers, Lake Lawtonka, Fort Sill, Wichita Mountains Wildlife Refuge, Mount Scott, Doris Campground, and The Visitor Center.
-
-Color: 222 184 135
-Line: 2, 0, "Special Weather Statement issued March 31 at 9:11PM CDT by NWS Norman OK\n\nExpires: March 31, 2026 at 10:00 PM EST\n\nAt 911 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Odell to 3 miles east of Margaret. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Vernon, Frederick, Tipton, Chillicothe, Davidson, Elmer, Thalia, Margaret, Lockett, Fargo, Odell, Oklaunion, Grayback, Rayland, and Hess.\n\nGenerated: 2026-04-01 02:48:12 UTC"
-34.5000, -98.8500
-33.8800, -99.2300
-34.0300, -99.6800
-34.4900, -99.3900
-34.5000, -98.8500
-End:
-; Expires: 2026-03-31T22:00:00-05:00
-; At 911 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Odell to 3 miles east of Margaret. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Vernon, Frederick, Tipton, Chillicothe, Davidson, Elmer, Thalia, Margaret, Lockett, Fargo, Odell, Oklaunion, Grayback, Rayland, and Hess.
