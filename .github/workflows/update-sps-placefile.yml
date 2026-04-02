@@ -2,8 +2,8 @@ name: Update SPS Placefile
 
 on:
   schedule:
-    - cron: '*/30 * * * *'     # fallback every 30 min (in case external fails)
-  workflow_dispatch:           # allows external triggering
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -31,7 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
+
           if git diff --quiet GRLevelX_SPS.txt; then
             echo "✅ No changes detected — nothing to commit."
           else
