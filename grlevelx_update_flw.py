@@ -10,7 +10,7 @@ def fetch_flw_alerts():
     r = requests.get(
         URL,
         headers={"User-Agent": "FLW-Placefile-Generator"},
-        timeout=30
+        timeout=30,
     )
     r.raise_for_status()
     data = r.json()
@@ -41,28 +41,25 @@ def normalize_polygons(geom):
     if not coords:
         return
 
-    # Helper: ensure we have a list of coordinate pairs
     def valid_ring(ring):
         if not isinstance(ring, list) or len(ring) < 2:
             return False
         for pt in ring:
             if (
-                not isinstance(pt, (list, tuple)) or
-                len(pt) != 2 or
-                not isinstance(pt[0], (int, float)) or
-                not isinstance(pt[1], (int, float))
+                not isinstance(pt, (list, tuple))
+                or len(pt) != 2
+                or not isinstance(pt[0], (int, float))
+                or not isinstance(pt[1], (int, float))
             ):
                 return False
         return True
 
     if gtype == "Polygon":
-        # coords: [ [ [lon, lat], ... ], [hole], ... ]
         outer = coords[0] if isinstance(coords[0], list) else []
         if valid_ring(outer):
             yield outer
 
     elif gtype == "MultiPolygon":
-        # coords: [ [ [ [lon, lat], ... ], [hole], ... ], ... ]
         for poly in coords:
             if not poly or not isinstance(poly, list):
                 continue
@@ -71,14 +68,18 @@ def normalize_polygons(geom):
                 yield outer
 
 
+def escape(s: str) -> str:
+    return s.replace('"', '\\"')
+
+
 def format_placefile(alerts):
     lines = []
 
     # Refresh must be first
     lines.append("Refresh: 120")
     lines.append("Title: Flood Warnings")
-    lines.append("Font: 0, 11, 1, \"Arial\"")
-    lines.append("Font: 1, 11, 1, \"Arial\"")
+    lines.append('Font: 0, 11, 1, "Arial"')
+    lines.append('Font: 1, 11, 1, "Arial"')
     lines.append("")
 
     utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
@@ -102,19 +103,18 @@ def format_placefile(alerts):
                 dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
                 utc_dt = dt.astimezone(timezone.utc)
                 nice_expires = utc_dt.strftime("%Y-%m-%d %H:%M Z")
-            except:
+            except Exception:
                 pass
 
         hover_text = (
-            f"{headline}\n"
-            f"Expires: {nice_expires}\n"
-            f"{description}\n"
-            f"Generated: {utc_now}"
+            f"{escape(headline)}\n"
+            f"Expires: {escape(nice_expires)}\n"
+            f"{escape(description)}\n"
+            f"Generated: {escape(utc_now)}"
         )
 
         # Normalize all geometry safely (Polygon + MultiPolygon)
         for ring in normalize_polygons(geom):
-            # Remove closing duplicate point if present
             if len(ring) > 1 and ring[-1] == ring[0]:
                 ring = ring[:-1]
 
@@ -122,7 +122,7 @@ def format_placefile(alerts):
                 continue
 
             lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-            lines.append(f"Line: 2,,\"{hover_text}\"")
+            lines.append(f'Line: 2,,"{hover_text}"')
 
             for lon, lat in ring:
                 lines.append(f"  {lat:.4f}, {lon:.4f}")
