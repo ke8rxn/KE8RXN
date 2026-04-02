@@ -1,44 +1,42 @@
-name: Update Flood Warning Placefile
+name: Update FLW Placefile
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'     # every 6 hours
+  workflow_dispatch:           # allow manual triggering
 
 permissions:
   contents: write
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # Every 6 hours
-  workflow_dispatch:        # Allow manual runs
-
 jobs:
-  update-flw:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.x"
+          python-version: '3.12'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+        run: pip install requests
 
-      - name: Run Flood Warning script
-        run: |
-          python grlevelx_update_flw.py
+      - name: Generate placefile
+        run: python grlevelx_update_flw.py
 
-      - name: Commit updated placefile
+      - name: Commit and push if changed
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add GRLevelX_FLW.txt
-          git commit -m "Automated FLW placefile update" || echo "No changes to commit"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet GRLevelX_FLW.txt; then
+            echo "✅ No changes detected — nothing to commit."
+          else
+            git add GRLevelX_FLW.txt
+            git commit -m "Auto-update FLW placefile"
+            git push
+            echo "✅ Changes detected and successfully pushed to GitHub!"
+          fi
