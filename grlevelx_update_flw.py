@@ -85,8 +85,8 @@ def format_placefile(alerts):
     utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     lines.append(f"; Generated: {utc_now}")
 
-    # Forest green border color
-    BORDER_R, BORDER_G, BORDER_B = 0, 100, 0
+    # Lighter green – shows up well on satellite (was too dark at 0 100 0)
+    BORDER_R, BORDER_G, BORDER_B = 0, 200, 0
 
     for a in alerts:
         props = a["properties"]
