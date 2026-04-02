@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timezone
 
 URL = "https://api.weather.gov/alerts/active?event=Flood%20Warning"
-OUTFILE = "GRLevelX_FLW.txt"   # GitHub Actions writes to repo root
+OUTFILE = "GRLevelX_FLW.txt"
 
 def fetch_flw_alerts():
     r = requests.get(
@@ -21,7 +21,7 @@ def fetch_flw_alerts():
 
         if props.get("event") != "Flood Warning":
             continue
-        if not geom or geom.get("type") != "Polygon":
+        if not geom:
             continue
 
         alerts.append(feat)
@@ -32,7 +32,6 @@ def fetch_flw_alerts():
 def format_placefile(alerts):
     lines = []
 
-    # Refresh must be first
     lines.append("Refresh: 120")
     lines.append("Title: Flood Warnings")
     lines.append("Font: 0, 11, 1, \"Arial\"")
@@ -42,7 +41,6 @@ def format_placefile(alerts):
     utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     lines.append(f"; Generated: {utc_now}")
 
-    # Forest green border color
     BORDER_R, BORDER_G, BORDER_B = 0, 100, 0
 
     for a in alerts:
@@ -53,45 +51,54 @@ def format_placefile(alerts):
         expires_raw = props.get("expires", "")
         description = props.get("description", "").replace("\n", " ")
 
-        coords = geom["coordinates"][0]
+        # --- Handle Polygon and MultiPolygon ---
+        coords_list = []
 
-        # Skip invalid or empty polygons
-        if not coords or len(coords) < 2:
+        if geom["type"] == "Polygon":
+            coords_list = [geom["coordinates"][0]]
+
+        elif geom["type"] == "MultiPolygon":
+            for poly in geom["coordinates"]:
+                coords_list.append(poly[0])
+
+        else:
             continue
 
-        # Remove closing duplicate point if present
-        if coords[-1] == coords[0]:
-            coords = coords[:-1]
+        # --- Process each polygon ---
+        for coords in coords_list:
 
-        # Format expiration time
-        nice_expires = expires_raw
-        if expires_raw:
-            try:
-                dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
-                utc_dt = dt.astimezone(timezone.utc)
-                nice_expires = utc_dt.strftime("%Y-%m-%d %H:%M Z")
-            except:
-                pass
+            if not coords or len(coords) < 2:
+                continue
 
-        hover_text = (
-            f"{headline}\n"
-            f"Expires: {nice_expires}\n"
-            f"{description}\n"
-            f"Generated: {utc_now}"
-        )
+            if coords[-1] == coords[0]:
+                coords = coords[:-1]
 
-        # --- Visible green border as Line with hover text ---
-        lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-        lines.append(f"Line: 2,,\"{hover_text}\"")
+            nice_expires = expires_raw
+            if expires_raw:
+                try:
+                    dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
+                    utc_dt = dt.astimezone(timezone.utc)
+                    nice_expires = utc_dt.strftime("%Y-%m-%d %H:%M Z")
+                except:
+                    pass
 
-        for lon, lat in coords:
-            lines.append(f"  {lat:.4f}, {lon:.4f}")
+            hover_text = (
+                f"{headline}\n"
+                f"Expires: {nice_expires}\n"
+                f"{description}\n"
+                f"Generated: {utc_now}"
+            )
 
-        # Close polygon
-        first_lon, first_lat = coords[0]
-        lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
-        lines.append("End:")
-        lines.append("")
+            lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
+            lines.append(f"Line: 2,,\"{hover_text}\"")
+
+            for lon, lat in coords:
+                lines.append(f"  {lat:.4f}, {lon:.4f}")
+
+            first_lon, first_lat = coords[0]
+            lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
+            lines.append("End:")
+            lines.append("")
 
     return "\n".join(lines)
 
@@ -100,7 +107,6 @@ def main():
     alerts = fetch_flw_alerts()
     placefile = format_placefile(alerts)
 
-    # Match SPS script behavior exactly
     with open(OUTFILE, "w", newline="\n") as f:
         f.write(placefile)
 
