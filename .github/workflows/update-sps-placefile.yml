@@ -3,7 +3,7 @@ name: Update SPS Placefile
 on:
   schedule:
     - cron: '*/30 * * * *'     # fallback every 30 min (in case external fails)
-  workflow_dispatch:           # ← This allows external triggering
+  workflow_dispatch:           # allows external triggering
 
 permissions:
   contents: write
@@ -37,6 +37,7 @@ jobs:
           else
             git add GRLevelX_SPS.txt
             git commit -m "Auto-update SPS placefile"
+            git pull --rebase
             git push
             echo "✅ Changes detected and successfully pushed to GitHub!"
           fi
