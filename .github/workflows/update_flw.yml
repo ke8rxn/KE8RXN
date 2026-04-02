@@ -1,12 +1,15 @@
 name: Update Flood Warning Placefile
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */6 * * *"   # Every 6 hours
-  workflow_dispatch:        # Allows manual runs
+  workflow_dispatch:        # Allow manual runs
 
 jobs:
-  build:
+  update-flw:
     runs-on: ubuntu-latest
 
     steps:
