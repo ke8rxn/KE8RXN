@@ -74,12 +74,12 @@ def escape(s: str) -> str:
 
 def format_placefile(alerts):
     lines = []
-    # Refresh must be first
+    # Refresh MUST be the very first line (no blank lines before or immediately after fonts)
     lines.append("Refresh: 120")
     lines.append("Title: Flood Warnings")
     lines.append('Font: 0, 11, 1, "Arial"')
     lines.append('Font: 1, 11, 1, "Arial"')
-    lines.append("")
+    # No blank line here — this matches working placefiles exactly
 
     utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     lines.append(f"; Generated: {utc_now}")
@@ -95,6 +95,13 @@ def format_placefile(alerts):
         expires_raw = props.get("expires", "")
         # Keep original paragraph breaks from NWS description
         description = props.get("description", "")
+
+        # === FIX for hover popup cutoff in GR2 Analyst ===
+        # Long descriptions push the popup off the top of the screen.
+        # We truncate to ~600 characters (≈10-12 lines) while preserving breaks.
+        # This matches the style of short, clean hover text in working SWS placefiles.
+        if len(description) > 600:
+            description = description[:597].rstrip() + "\\n... (full details at weather.gov)"
 
         # Format expiration time nicely
         nice_expires = expires_raw
@@ -122,11 +129,11 @@ def format_placefile(alerts):
                 continue
 
             lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-            lines.append(f'Line: 2,0,"{hover_text}"')   # ← fixed: added flags=0
+            lines.append(f'Line: 2,0,"{hover_text}"')   # correct syntax + flags
 
             for lon, lat in ring:
                 lines.append(f"  {lat:.4f}, {lon:.4f}")
-            # Close the ring (GR2 Analyst likes explicit close)
+            # Close the ring
             first_lon, first_lat = ring[0]
             lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
             lines.append("End:")
@@ -138,7 +145,7 @@ def format_placefile(alerts):
 def main():
     alerts = fetch_flw_alerts()
     placefile = format_placefile(alerts)
-    with open(OUTFILE, "w", newline="\n") as f:
+    with open(OUTFILE, "w", newline="\n", encoding="utf-8") as f:
         f.write(placefile)
     print(f"Generated {OUTFILE} with {len(alerts)} Flood Warnings.")
 
