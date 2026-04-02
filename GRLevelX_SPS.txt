@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-02 02:40:13 UTC
+; Generated: 2026-04-02 02:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 1 at 9:30PM CDT by NWS Midland/Odessa TX\nExpires: 2026-04-02 03:00 Z\nAt 929 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles north of Reagan County Airport, or 17 miles north of Big Lake, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Reagan County.\nGenerated: 2026-04-02 02:40:13 UTC"
+Line: 2,,"Special Weather Statement issued April 1 at 9:42PM CDT by NWS Norman OK\nExpires: 2026-04-02 03:15 Z\nAt 942 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles north of Guthrie to 4 miles east of Amber. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oklahoma City, Norman, Edmond, Moore, Midwest City, Stillwater, Del City, Guthrie, Newcastle, Yukon, Bethany, Mustang, Choctaw, Warr Acres, The Village, Tuttle, Piedmont, Harrah, Spencer, and Nichols Hills.\nGenerated: 2026-04-02 02:45:13 UTC"
+  36.2400, -96.9100
+  35.2600, -97.2700
+  35.0900, -98.0000
+  36.0300, -97.6100
+  36.1600, -97.1800
+  36.1600, -97.1400
+  36.1700, -97.1400
+  36.2400, -96.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 1 at 9:30PM CDT by NWS Midland/Odessa TX\nExpires: 2026-04-02 03:00 Z\nAt 929 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles north of Reagan County Airport, or 17 miles north of Big Lake, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Reagan County.\nGenerated: 2026-04-02 02:45:13 UTC"
   31.3400, -101.3900
   31.4800, -101.5100
   31.6500, -101.2900
@@ -15,38 +27,7 @@ Line: 2,,"Special Weather Statement issued April 1 at 9:30PM CDT by NWS Midland/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 1 at 9:29PM CDT by NWS Tulsa OK\nExpires: 2026-04-02 02:45 Z\nAt 929 PM CDT, Doppler radar indicated a strong thunderstorm 6 miles north of Walnut Creek State Park, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Walnut Creek State Park...\nGenerated: 2026-04-02 02:40:13 UTC"
-  36.2500, -96.0300
-  36.2200, -96.2600
-  36.2300, -96.2900
-  36.4000, -96.3900
-  36.5000, -96.2600
-  36.2500, -96.0300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 1 at 9:15PM CDT by NWS San Angelo TX\nExpires: 2026-04-02 02:45 Z\nAt 915 PM CDT, Doppler radar was tracking a strong thunderstorm near Millers Creek Reservoir, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Millers Creek Reservoir and Us-183 Near The Throckmorton- Baylor County Line.\nGenerated: 2026-04-02 02:40:13 UTC"
-  33.3100, -98.9500
-  33.1600, -99.4000
-  33.4000, -99.4400
-  33.3900, -98.9500
-  33.3100, -98.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 1 at 9:12PM CDT by NWS Norman OK\nExpires: 2026-04-02 02:45 Z\nAt 911 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles east of Bison to near Minco. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oklahoma City, western Norman, Edmond, Moore, Midwest City, Del City, El Reno, Guthrie, Newcastle, Kingfisher, Yukon, Bethany, Mustang, Warr Acres, The Village, Tuttle, Piedmont, Spencer, Nichols Hills, and Hennessey.\nGenerated: 2026-04-02 02:40:13 UTC"
-  35.7300, -97.3500
-  35.2500, -97.4300
-  35.0600, -98.0900
-  35.1000, -98.0900
-  35.6000, -97.9000
-  36.1500, -97.9500
-  36.3000, -97.3900
-  35.7300, -97.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 1 at 9:06PM CDT by NWS Tulsa OK\nExpires: 2026-04-02 03:00 Z\nAt 906 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles southwest of Morrison, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pawnee...                         Skedee... Ralston...                        Sooner Lake...\nGenerated: 2026-04-02 02:40:13 UTC"
+Line: 2,,"Special Weather Statement issued April 1 at 9:06PM CDT by NWS Tulsa OK\nExpires: 2026-04-02 03:00 Z\nAt 906 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles southwest of Morrison, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pawnee...                         Skedee... Ralston...                        Sooner Lake...\nGenerated: 2026-04-02 02:45:13 UTC"
   36.4600, -96.9500
   36.4600, -96.9300
   36.4700, -96.9100
@@ -64,38 +45,4 @@ Line: 2,,"Special Weather Statement issued April 1 at 9:06PM CDT by NWS Tulsa OK
   36.3300, -97.0300
   36.4100, -97.0300
   36.4600, -96.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 1 at 8:56PM CDT by NWS Norman OK\nExpires: 2026-04-02 02:45 Z\nAt 856 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lawton to 6 miles south of Temple to near Wichita Falls. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wichita Falls, Lawton, Duncan, Burkburnett, Marlow, Henrietta, Walters, Waurika, Iowa Park, Cache, Holliday, Comanche, Geronimo, Temple, Sterling, Petrolia, Byers, Dean, Randlett, and Jolly.\nGenerated: 2026-04-02 02:40:13 UTC"
-  34.0100, -98.8400
-  34.1600, -98.6400
-  34.1600, -98.6100
-  34.1900, -98.6100
-  34.2900, -98.4700
-  34.5800, -98.7200
-  34.8400, -98.0700
-  34.3400, -97.7900
-  33.8200, -98.1600
-  33.7400, -98.7400
-  34.0100, -98.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 1 at 6:54PM PDT by NWS Spokane WA\nExpires: 2026-04-02 02:45 Z\nAt 653 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Ayer to 7 miles southeast of Turner. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pomeroy, Washtucna, Riparia, Hay, Pizzro, Wawawai, Dodge, Hooper, La Crosse, Almota, and Mayview.  This includes U.S. Highway 12 in Washington between mile markers 389 and 405.\nGenerated: 2026-04-02 02:40:13 UTC"
-  46.4000, -117.7200
-  46.4700, -117.7400
-  46.4700, -117.8600
-  46.6200, -117.8500
-  46.5800, -117.9000
-  46.5900, -118.0200
-  46.5500, -118.1700
-  46.5900, -118.2100
-  46.6200, -118.2000
-  46.7400, -118.2500
-  46.7400, -118.6000
-  46.9900, -118.5100
-  46.6800, -117.3000
-  46.3800, -117.6700
-  46.4000, -117.7200
 End:
