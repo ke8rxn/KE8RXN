@@ -1,64 +1,102 @@
 #!/usr/bin/env python3
 import requests
-import datetime
+from datetime import datetime, timezone
 
-# NWS API endpoint for active Flood Warnings (FLW)
 URL = "https://api.weather.gov/alerts/active?event=Flood%20Warning"
+OUTFILE = "GRLevelX_FLW.txt"   # GitHub Actions writes to repo root
 
-# Output file name (GitHub Pages will serve this from your repo root)
-OUTFILE = "GRLevelX_FLW.txt"
-
-def fetch_alerts():
-    """Fetch active Flood Warnings from the NWS API."""
-    r = requests.get(URL, timeout=10)
+def fetch_flw_alerts():
+    r = requests.get(URL, headers={"User-Agent": "FLW-Placefile-Generator"}, timeout=30)
     r.raise_for_status()
     data = r.json()
-    return data.get("features", [])
+    alerts = []
 
-def format_placefile(alerts):
-    """Convert NWS alerts into a GR2Analyst-compatible placefile."""
-    now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    for feat in data.get("features", []):
+        props = feat.get("properties", {})
+        geom = feat.get("geometry")
 
-    lines = []
-    lines.append("Refresh: 120")
-    lines.append("Title: Flood Warnings")
-    lines.append(f"; Generated: {now}")
-    lines.append("")
-
-    for alert in alerts:
-        props = alert.get("properties", {})
-        geom = alert.get("geometry")
-
+        if props.get("event") != "Flood Warning":
+            continue
         if not geom or geom.get("type") != "Polygon":
             continue
 
-        headline = props.get("headline", "Flood Warning")
-        expires = props.get("expires", "N/A")
-        desc = props.get("description", "").replace("\n", " ")
+        alerts.append(feat)
 
-        lines.append(f"; {headline}")
-        lines.append(f"; Expires: {expires}")
-        lines.append(f"; {desc}")
+    return alerts
+
+
+def format_placefile(alerts):
+    lines = []
+
+    # Refresh must be first
+    lines.append("Refresh: 120")
+    lines.append("Title: Flood Warnings")
+    lines.append("Font: 0, 11, 1, \"Arial\"")
+    lines.append("Font: 1, 11, 1, \"Arial\"")
+    lines.append("")
+
+    utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    lines.append(f"; Generated: {utc_now}")
+
+    # Forest green border color
+    BORDER_R, BORDER_G, BORDER_B = 0, 100, 0
+
+    for a in alerts:
+        props = a["properties"]
+        geom = a["geometry"]
+
+        headline = props.get("headline", "Flood Warning")
+        expires_raw = props.get("expires", "")
+        description = props.get("description", "").replace("\n", " ")
 
         coords = geom["coordinates"][0]
 
-        # Forest green polygon outline, 2px width
-        lines.append("Polygon: 0 100 0 2")
+        # GeoJSON is [lon, lat]; convert to (lat, lon)
+        if len(coords) > 1 and coords[-1] == coords[0]:
+            coords = coords[:-1]
+
+        # Format expiration time
+        nice_expires = expires_raw
+        if expires_raw:
+            try:
+                dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
+                utc_dt = dt.astimezone(timezone.utc)
+                nice_expires = utc_dt.strftime("%Y-%m-%d %H:%M Z")
+            except:
+                pass
+
+        hover_text = (
+            f"{headline}\n"
+            f"Expires: {nice_expires}\n"
+            f"{description}\n"
+            f"Generated: {utc_now}"
+        )
+
+        # --- Visible green border as Line with hover text ---
+        lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
+        lines.append(f"Line: 2,,\"{hover_text}\"")
 
         for lon, lat in coords:
-            lines.append(f"{lat:.4f}, {lon:.4f}")
+            lines.append(f"  {lat:.4f}, {lon:.4f}")
 
+        first_lon, first_lat = coords[0]
+        lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
         lines.append("End:")
         lines.append("")
 
     return "\n".join(lines)
 
-def main():
-    alerts = fetch_alerts()
-    text = format_placefile(alerts)
 
-    with open(OUTFILE, "w") as f:
-        f.write(text)
+def main():
+    alerts = fetch_flw_alerts()
+    placefile = format_placefile(alerts)
+
+    # Match SPS script behavior exactly
+    with open(OUTFILE, "w", newline="\n") as f:
+        f.write(placefile)
+
+    print(f"Generated {OUTFILE} with {len(alerts)} Flood Warnings.")
+
 
 if __name__ == "__main__":
     main()
