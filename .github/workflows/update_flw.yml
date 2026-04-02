@@ -1,0 +1,41 @@
+name: Update Flood Warning Placefile
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Every 6 hours
+  workflow_dispatch:        # Allows manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Flood Warning script
+        run: |
+          python grlevelx_update_flw.py
+
+      - name: Commit updated placefile
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add GRLevelX_FLW.txt
+          git commit -m "Automated FLW placefile update" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
