@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-02 14:30:18 UTC
+; Generated: 2026-04-02 14:35:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 9:28AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-02 15:15 Z\nAt 927 AM CDT, Doppler radar was tracking a strong thunderstorm over Rosanky, or 7 miles southwest of Smithville, moving east at 20 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Smithville, Rosanky, Upton, Plum, Northrup, Togo, String Prairie, Kovar, West Point, Winchester, Kirtley, and Buescher State Park.\nGenerated: 2026-04-02 14:30:18 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 9:31AM CDT by NWS Shreveport LA\nExpires: 2026-04-02 15:15 Z\nAt 931 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles southwest of Vivian to 9 miles northeast of New Salem, or extending from 22 miles south of Atlanta to 11 miles south of Henderson, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shreveport, Marshall, Carthage, Vivian, Greenwood, Blanchard, Waskom, Benton, Oil City, Beckville, Mooringsport, Hosston, Belcher, Gilliam, Elysian Fields, Karnack, Deberry and Smithland.\nGenerated: 2026-04-02 14:35:17 UTC"
+  32.1400, -94.5800
+  32.4100, -94.4300
+  32.8700, -94.2300
+  32.8900, -93.7200
+  32.7700, -93.6900
+  32.6100, -93.7100
+  32.4100, -93.7700
+  32.1500, -93.9100
+  32.1400, -94.5800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 2 at 9:28AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-02 15:15 Z\nAt 927 AM CDT, Doppler radar was tracking a strong thunderstorm over Rosanky, or 7 miles southwest of Smithville, moving east at 20 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Smithville, Rosanky, Upton, Plum, Northrup, Togo, String Prairie, Kovar, West Point, Winchester, Kirtley, and Buescher State Park.\nGenerated: 2026-04-02 14:35:17 UTC"
   29.8700, -97.3600
   30.0200, -97.3500
   30.1200, -96.9400
@@ -14,7 +27,7 @@ Line: 2,,"Special Weather Statement issued April 2 at 9:28AM CDT by NWS Austin/S
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 8:01AM MDT by NWS Salt Lake City UT\nExpires: 2026-04-02 14:45 Z\nAt 801 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Mantua to near Weber State University to near Farmington. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Layton, Farmington, Brigham City, Morgan, Coalville, Randolph, Kaysville, Centerville, South Weber, Uintah, Mantua, Woodruff, East Canyon State Park, Fruit Heights, Paradise, Henefer, Huntsville, Mountain Green, Eden, and Liberty.  This includes the following highways... Interstate 15 between mile markers 320 and 329. Interstate 84 between mile markers 88 and 119. Interstate 80 in Utah between mile markers 164 and 196.\nGenerated: 2026-04-02 14:30:18 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 8:01AM MDT by NWS Salt Lake City UT\nExpires: 2026-04-02 14:45 Z\nAt 801 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Mantua to near Weber State University to near Farmington. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Layton, Farmington, Brigham City, Morgan, Coalville, Randolph, Kaysville, Centerville, South Weber, Uintah, Mantua, Woodruff, East Canyon State Park, Fruit Heights, Paradise, Henefer, Huntsville, Mountain Green, Eden, and Liberty.  This includes the following highways... Interstate 15 between mile markers 320 and 329. Interstate 84 between mile markers 88 and 119. Interstate 80 in Utah between mile markers 164 and 196.\nGenerated: 2026-04-02 14:35:17 UTC"
   41.7000, -111.1300
   41.2600, -111.0500
   40.9200, -111.2000
@@ -22,29 +35,4 @@ Line: 2,,"Special Weather Statement issued April 2 at 8:01AM MDT by NWS Salt Lak
   41.2000, -111.8900
   41.5600, -111.9900
   41.7000, -111.1300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 8:46AM CDT by NWS Shreveport LA\nExpires: 2026-04-02 14:30 Z\nAt 846 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 8 miles southwest of Karnack to near Sacul, or extending from 7 miles east of Marshall to 10 miles east of Rusk, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shreveport, Nacogdoches, Marshall, Carthage, Center, Greenwood, Blanchard, Waskom, Logansport, Tatum, Tenaha, Timpson, Garrison, Beckville, Joaquin, Pinehill, Deberry and Elysian Fields.\nGenerated: 2026-04-02 14:30:18 UTC"
-  31.9400, -94.9900
-  32.1300, -94.7900
-  32.4300, -94.5200
-  32.6900, -94.3800
-  32.6500, -93.7700
-  32.6400, -93.7900
-  32.6400, -93.7700
-  32.1700, -93.8600
-  31.8700, -94.0800
-  31.4900, -94.6200
-  31.6700, -94.9500
-  31.7000, -94.9700
-  31.7200, -94.9600
-  31.7400, -94.9700
-  31.7500, -94.9700
-  31.7600, -94.9300
-  31.7900, -94.9800
-  31.8000, -94.9500
-  31.8300, -94.9300
-  31.8500, -94.9800
-  31.9400, -94.9900
 End:
