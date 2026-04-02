@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timezone
 
 URL = "https://api.weather.gov/alerts/active?event=Flood%20Warning"
-OUTFILE = "GRLevelX_FLW.txt"   # GitHub Actions writes to repo root
+OUTFILE = "GRLevelX_FLW.txt"  # GitHub Actions writes to repo root
 
 
 def fetch_flw_alerts():
@@ -14,19 +14,15 @@ def fetch_flw_alerts():
     )
     r.raise_for_status()
     data = r.json()
-
     alerts = []
     for feat in data.get("features", []):
         props = feat.get("properties", {})
         geom = feat.get("geometry")
-
         if props.get("event") != "Flood Warning":
             continue
         if not geom:
             continue
-
         alerts.append(feat)
-
     return alerts
 
 
@@ -37,7 +33,6 @@ def normalize_polygons(geom):
     """
     gtype = geom.get("type")
     coords = geom.get("coordinates")
-
     if not coords:
         return
 
@@ -58,7 +53,6 @@ def normalize_polygons(geom):
         outer = coords[0] if isinstance(coords[0], list) else []
         if valid_ring(outer):
             yield outer
-
     elif gtype == "MultiPolygon":
         for poly in coords:
             if not poly or not isinstance(poly, list):
@@ -69,12 +63,17 @@ def normalize_polygons(geom):
 
 
 def escape(s: str) -> str:
-    return s.replace('"', '\\"')
+    """Escape for GR2 Analyst placefile: quotes + real newlines → literal \n"""
+    if not isinstance(s, str):
+        s = str(s) if s is not None else ""
+    s = s.replace('"', '\\"')
+    s = s.replace('\n', '\\n')   # GR2 Analyst requires literal \n inside quotes
+    s = s.replace('\r', '')
+    return s
 
 
 def format_placefile(alerts):
     lines = []
-
     # Refresh must be first
     lines.append("Refresh: 120")
     lines.append("Title: Flood Warnings")
@@ -94,9 +93,10 @@ def format_placefile(alerts):
 
         headline = props.get("headline", "Flood Warning")
         expires_raw = props.get("expires", "")
-        description = props.get("description", "").replace("\n", " ")
+        # Keep original paragraph breaks from NWS description
+        description = props.get("description", "")
 
-        # Format expiration time
+        # Format expiration time nicely
         nice_expires = expires_raw
         if expires_raw:
             try:
@@ -106,27 +106,27 @@ def format_placefile(alerts):
             except Exception:
                 pass
 
+        # Build hover text with literal \n so GR2 Analyst displays proper line breaks
         hover_text = (
-            f"{escape(headline)}\n"
-            f"Expires: {escape(nice_expires)}\n"
-            f"{escape(description)}\n"
+            f"{escape(headline)}\\n"
+            f"Expires: {escape(nice_expires)}\\n"
+            f"{escape(description)}\\n"
             f"Generated: {escape(utc_now)}"
         )
 
         # Normalize all geometry safely (Polygon + MultiPolygon)
         for ring in normalize_polygons(geom):
             if len(ring) > 1 and ring[-1] == ring[0]:
-                ring = ring[:-1]
-
+                ring = ring[:-1]          # remove duplicate closing point
             if len(ring) < 2:
                 continue
 
             lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
-            lines.append(f'Line: 2,,"{hover_text}"')
+            lines.append(f'Line: 2,0,"{hover_text}"')   # ← fixed: added flags=0
 
             for lon, lat in ring:
                 lines.append(f"  {lat:.4f}, {lon:.4f}")
-
+            # Close the ring (GR2 Analyst likes explicit close)
             first_lon, first_lat = ring[0]
             lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
             lines.append("End:")
@@ -138,10 +138,8 @@ def format_placefile(alerts):
 def main():
     alerts = fetch_flw_alerts()
     placefile = format_placefile(alerts)
-
     with open(OUTFILE, "w", newline="\n") as f:
         f.write(placefile)
-
     print(f"Generated {OUTFILE} with {len(alerts)} Flood Warnings.")
 
 
