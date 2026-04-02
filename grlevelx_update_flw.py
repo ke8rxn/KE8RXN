@@ -6,11 +6,15 @@ URL = "https://api.weather.gov/alerts/active?event=Flood%20Warning"
 OUTFILE = "GRLevelX_FLW.txt"   # GitHub Actions writes to repo root
 
 def fetch_flw_alerts():
-    r = requests.get(URL, headers={"User-Agent": "FLW-Placefile-Generator"}, timeout=30)
+    r = requests.get(
+        URL,
+        headers={"User-Agent": "FLW-Placefile-Generator"},
+        timeout=30
+    )
     r.raise_for_status()
     data = r.json()
-    alerts = []
 
+    alerts = []
     for feat in data.get("features", []):
         props = feat.get("properties", {})
         geom = feat.get("geometry")
@@ -51,8 +55,12 @@ def format_placefile(alerts):
 
         coords = geom["coordinates"][0]
 
-        # GeoJSON is [lon, lat]; convert to (lat, lon)
-        if len(coords) > 1 and coords[-1] == coords[0]:
+        # Skip invalid or empty polygons
+        if not coords or len(coords) < 2:
+            continue
+
+        # Remove closing duplicate point if present
+        if coords[-1] == coords[0]:
             coords = coords[:-1]
 
         # Format expiration time
@@ -79,6 +87,7 @@ def format_placefile(alerts):
         for lon, lat in coords:
             lines.append(f"  {lat:.4f}, {lon:.4f}")
 
+        # Close polygon
         first_lon, first_lat = coords[0]
         lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
         lines.append("End:")
