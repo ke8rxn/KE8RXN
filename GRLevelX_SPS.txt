@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-02 20:45:10 UTC
+; Generated: 2026-04-02 20:50:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 4:36PM EDT by NWS Wilmington OH\nExpires: 2026-04-02 21:00 Z\nAt 435 PM EDT, a strong thunderstorm was located over Huber Heights, moving northeast at 40 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dayton, Huber Heights, Vandalia, Urbana, Tipp City, New Carlisle, Wright-Patterson Afb, St. Paris, Brown, Christiansburg, North Hampton, Fletcher, Donnelsville, Casstown, Thackery, Westville, Phoneton, Millerstown, Terre Haute, and State Route 41 at State Route 235.  This includes the following Interstates... I-70 in Ohio between mile markers 34 and 44. I-75 in Ohio near mile marker 61.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-02 20:45:10 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 3:49PM CDT by NWS New Orleans LA\nExpires: 2026-04-02 21:15 Z\nAt 349 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Livingston, or 13 miles northeast of Denham Springs, moving northeast at 25 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Greensburg, Amite City, Livingston, Roseland, Montpelier, and Darlington.  This includes Interstate 55 in Louisiana between mile markers 47 and 53.\nGenerated: 2026-04-02 20:50:14 UTC"
+  30.8000, -90.4600
+  30.4800, -90.7200
+  30.5600, -90.9000
+  30.7000, -90.8600
+  30.7000, -90.8500
+  30.7100, -90.8500
+  30.7200, -90.8400
+  30.7400, -90.8500
+  30.9200, -90.8000
+  30.8000, -90.4600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 2 at 4:36PM EDT by NWS Wilmington OH\nExpires: 2026-04-02 21:00 Z\nAt 435 PM EDT, a strong thunderstorm was located over Huber Heights, moving northeast at 40 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dayton, Huber Heights, Vandalia, Urbana, Tipp City, New Carlisle, Wright-Patterson Afb, St. Paris, Brown, Christiansburg, North Hampton, Fletcher, Donnelsville, Casstown, Thackery, Westville, Phoneton, Millerstown, Terre Haute, and State Route 41 at State Route 235.  This includes the following Interstates... I-70 in Ohio between mile markers 34 and 44. I-75 in Ohio near mile marker 61.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-02 20:50:14 UTC"
   40.1300, -83.7400
   39.8100, -84.0500
   39.8600, -84.1900
@@ -16,7 +30,7 @@ Line: 2,,"Special Weather Statement issued April 2 at 4:36PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 2:25PM MDT by NWS Billings MT\nExpires: 2026-04-02 21:00 Z\nAt 225 PM MDT, Doppler radar was tracking a shower 17 miles south of Bridger, or 21 miles southeast of Red Lodge, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Warren.  This includes portions of US-310\nGenerated: 2026-04-02 20:45:10 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 2:25PM MDT by NWS Billings MT\nExpires: 2026-04-02 21:00 Z\nAt 225 PM MDT, Doppler radar was tracking a shower 17 miles south of Bridger, or 21 miles southeast of Red Lodge, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Warren.  This includes portions of US-310\nGenerated: 2026-04-02 20:50:14 UTC"
   45.0000, -108.9700
   45.0600, -109.0400
   45.2500, -108.7400
@@ -24,49 +38,4 @@ Line: 2,,"Special Weather Statement issued April 2 at 2:25PM MDT by NWS Billings
   45.0100, -108.5300
   45.0000, -108.5800
   45.0000, -108.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 4:19PM EDT by NWS Miami FL\nExpires: 2026-04-02 20:45 Z\nAt 418 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Orangetree, or 7 miles north of Golden Gate Estates, moving north at 25 mph.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ave Maria, Golden Gate Estates, Orangetree, Big Corkscrew Island, West Toll Gate On Alligator Alley, Vineyards, Golden Gate, North Naples, Corkscrew Swamp Sanctuary, Intersection I-75 And Everglades Blvd, Quail Creek Estate, and Lake Trafford.\nGenerated: 2026-04-02 20:45:10 UTC"
-  26.3200, -81.6600
-  26.4200, -81.6600
-  26.4200, -81.5600
-  26.4500, -81.5600
-  26.4600, -81.4800
-  26.1700, -81.3400
-  26.0900, -81.6600
-  26.3200, -81.7800
-  26.3200, -81.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 3:11PM CDT by NWS New Orleans LA\nExpires: 2026-04-02 20:45 Z\nAt 311 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Felps, or 11 miles northeast of Clinton, moving north at 30 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mccomb, Clinton, Liberty, Summit, Centreville, Gloster, Wilson, Norwood, Smithdale, Darlington, Felps, Gillsburg, Easleyville, and Crosby.  This includes Interstate 55 in Mississippi between mile markers 16 and 24.\nGenerated: 2026-04-02 20:45:10 UTC"
-  30.6500, -90.8000
-  30.8000, -91.1300
-  31.0000, -91.1200
-  31.0000, -91.0600
-  31.2800, -91.0600
-  31.3200, -91.1000
-  31.3300, -91.0300
-  31.3500, -91.0200
-  31.3300, -90.9900
-  31.3500, -90.9800
-  31.3500, -90.4100
-  30.6500, -90.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 3:05PM CDT by NWS Jackson MS\nExpires: 2026-04-02 20:45 Z\nAt 304 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from St. Joseph to 6 miles south of Carpenter to near Sontag. Movement was north at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Hazlehurst, Newellton, Lake Bruin, Dentville, Gallman, Carpenter, and Rocky Springs around 310 PM CDT. Crystal Springs and Utica around 315 PM CDT. Georgetown, Hopewell, Reganton, and Yokena around 320 PM CDT. Vicksburg, Learned, Dry Grove, Somerset, and Le Tourneau around 325 PM CDT. Terry, Harrisville, Newman, and Afton around 330 PM CDT. Whites around 335 PM CDT.  Other locations impacted by these storms include Delta and Richmond.\nGenerated: 2026-04-02 20:45:10 UTC"
-  32.5400, -91.1800
-  32.5500, -91.1100
-  32.5200, -90.9700
-  32.4200, -90.9600
-  32.4500, -90.9400
-  32.4400, -90.8600
-  32.4900, -90.8600
-  32.2400, -89.9300
-  31.7300, -90.2000
-  31.7000, -90.2900
-  31.9600, -91.3000
-  32.5400, -91.1800
 End:
