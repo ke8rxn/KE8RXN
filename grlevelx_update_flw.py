@@ -20,7 +20,7 @@ def format_placefile(alerts):
     now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     lines = []
-    lines.append("Refresh: 360")
+    lines.append("Refresh: 120")
     lines.append("Title: Flood Warnings")
     lines.append(f"; Generated: {now}")
     lines.append("")
