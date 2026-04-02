@@ -3,7 +3,8 @@ import requests
 from datetime import datetime, timezone
 
 URL = "https://api.weather.gov/alerts/active?event=Flood%20Warning"
-OUTFILE = "GRLevelX_FLW.txt"
+OUTFILE = "GRLevelX_FLW.txt"   # GitHub Actions writes to repo root
+
 
 def fetch_flw_alerts():
     r = requests.get(
@@ -29,9 +30,51 @@ def fetch_flw_alerts():
     return alerts
 
 
+def normalize_polygons(geom):
+    """
+    Yield lists of (lon, lat) pairs for each valid outer ring
+    from Polygon or MultiPolygon geometry.
+    """
+    gtype = geom.get("type")
+    coords = geom.get("coordinates")
+
+    if not coords:
+        return
+
+    # Helper: ensure we have a list of coordinate pairs
+    def valid_ring(ring):
+        if not isinstance(ring, list) or len(ring) < 2:
+            return False
+        for pt in ring:
+            if (
+                not isinstance(pt, (list, tuple)) or
+                len(pt) != 2 or
+                not isinstance(pt[0], (int, float)) or
+                not isinstance(pt[1], (int, float))
+            ):
+                return False
+        return True
+
+    if gtype == "Polygon":
+        # coords: [ [ [lon, lat], ... ], [hole], ... ]
+        outer = coords[0] if isinstance(coords[0], list) else []
+        if valid_ring(outer):
+            yield outer
+
+    elif gtype == "MultiPolygon":
+        # coords: [ [ [ [lon, lat], ... ], [hole], ... ], ... ]
+        for poly in coords:
+            if not poly or not isinstance(poly, list):
+                continue
+            outer = poly[0] if isinstance(poly[0], list) else []
+            if valid_ring(outer):
+                yield outer
+
+
 def format_placefile(alerts):
     lines = []
 
+    # Refresh must be first
     lines.append("Refresh: 120")
     lines.append("Title: Flood Warnings")
     lines.append("Font: 0, 11, 1, \"Arial\"")
@@ -41,6 +84,7 @@ def format_placefile(alerts):
     utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     lines.append(f"; Generated: {utc_now}")
 
+    # Forest green border color
     BORDER_R, BORDER_G, BORDER_B = 0, 100, 0
 
     for a in alerts:
@@ -51,51 +95,39 @@ def format_placefile(alerts):
         expires_raw = props.get("expires", "")
         description = props.get("description", "").replace("\n", " ")
 
-        # --- Handle Polygon and MultiPolygon ---
-        coords_list = []
+        # Format expiration time
+        nice_expires = expires_raw
+        if expires_raw:
+            try:
+                dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
+                utc_dt = dt.astimezone(timezone.utc)
+                nice_expires = utc_dt.strftime("%Y-%m-%d %H:%M Z")
+            except:
+                pass
 
-        if geom["type"] == "Polygon":
-            coords_list = [geom["coordinates"][0]]
+        hover_text = (
+            f"{headline}\n"
+            f"Expires: {nice_expires}\n"
+            f"{description}\n"
+            f"Generated: {utc_now}"
+        )
 
-        elif geom["type"] == "MultiPolygon":
-            for poly in geom["coordinates"]:
-                coords_list.append(poly[0])
+        # Normalize all geometry safely (Polygon + MultiPolygon)
+        for ring in normalize_polygons(geom):
+            # Remove closing duplicate point if present
+            if len(ring) > 1 and ring[-1] == ring[0]:
+                ring = ring[:-1]
 
-        else:
-            continue
-
-        # --- Process each polygon ---
-        for coords in coords_list:
-
-            if not coords or len(coords) < 2:
+            if len(ring) < 2:
                 continue
-
-            if coords[-1] == coords[0]:
-                coords = coords[:-1]
-
-            nice_expires = expires_raw
-            if expires_raw:
-                try:
-                    dt = datetime.fromisoformat(expires_raw.replace("Z", "+00:00"))
-                    utc_dt = dt.astimezone(timezone.utc)
-                    nice_expires = utc_dt.strftime("%Y-%m-%d %H:%M Z")
-                except:
-                    pass
-
-            hover_text = (
-                f"{headline}\n"
-                f"Expires: {nice_expires}\n"
-                f"{description}\n"
-                f"Generated: {utc_now}"
-            )
 
             lines.append(f"Color: {BORDER_R} {BORDER_G} {BORDER_B}")
             lines.append(f"Line: 2,,\"{hover_text}\"")
 
-            for lon, lat in coords:
+            for lon, lat in ring:
                 lines.append(f"  {lat:.4f}, {lon:.4f}")
 
-            first_lon, first_lat = coords[0]
+            first_lon, first_lat = ring[0]
             lines.append(f"  {first_lat:.4f}, {first_lon:.4f}")
             lines.append("End:")
             lines.append("")
