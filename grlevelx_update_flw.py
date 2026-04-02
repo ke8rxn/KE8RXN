@@ -76,7 +76,7 @@ def format_placefile(alerts):
     lines = []
     # === HEADER MATCHED EXACTLY TO YOUR WORKING SPS SCRIPT ===
     # This is what finally makes GR2 Analyst see the Refresh interval
-    lines.append("Refresh: 120")
+    lines.append("Refresh: 15")
     lines.append("Title: Flood Warnings")
     lines.append('Font: 0, 11, 1, "Arial"')
     lines.append('Font: 1, 11, 1, "Arial"')
