@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-03 01:40:10 UTC
+; Generated: 2026-04-03 01:50:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 9:19PM EDT by NWS Grand Rapids MI\nExpires: 2026-04-03 02:00 Z\nAt 919 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northeast of Marshall to near Albion to near Litchfield. Movement was northeast at 65 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jackson...             Albion...              Mason... Marshall...            Leslie...              Homer... Stockbridge...         Brooklyn...            Grass Lake... Vandercook Lake...     Leoni...               Spring Arbor... Napoleon...            Sandstone...           Aurelius... Onondaga...            Norvell...             Marengo... Bunker Hill...         Pulaski...\nGenerated: 2026-04-03 01:40:10 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 9:41PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-03 02:15 Z\nAt 941 PM EDT, Doppler radar was tracking a strong thunderstorm over Hudson, moving northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Addison around 945 PM EDT. Onsted around 950 PM EDT. Clinton Township around 1005 PM EDT.  Other locations impacted by this storm include Manitou Beach-Devils Lake, Rome Center, Medina, Macon, Lime Creek, Canandaigua, Springville, Cambridge Junction, Tipton, and Rollin.\nGenerated: 2026-04-03 01:50:14 UTC"
+  42.0700, -84.3600
+  42.0800, -83.7700
+  42.0600, -83.7700
+  41.7100, -84.3600
+  42.0700, -84.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 2 at 9:19PM EDT by NWS Grand Rapids MI\nExpires: 2026-04-03 02:00 Z\nAt 919 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northeast of Marshall to near Albion to near Litchfield. Movement was northeast at 65 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jackson...             Albion...              Mason... Marshall...            Leslie...              Homer... Stockbridge...         Brooklyn...            Grass Lake... Vandercook Lake...     Leoni...               Spring Arbor... Napoleon...            Sandstone...           Aurelius... Onondaga...            Norvell...             Marengo... Bunker Hill...         Pulaski...\nGenerated: 2026-04-03 01:50:14 UTC"
   42.0700, -84.1400
   42.0700, -84.9400
   42.3400, -84.9700
@@ -21,7 +30,7 @@ Line: 2,,"Special Weather Statement issued April 2 at 9:19PM EDT by NWS Grand Ra
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 8:10PM CDT by NWS Green Bay WI\nExpires: 2026-04-03 02:00 Z\nAt 809 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Hartman Creek State Park to near Menasha to 8 miles southeast of Two Creeks. Movement was northeast at 55 mph.  HAZARD...Pea size hail and brief torrential rainfall.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Appleton, Waupaca, Kaukauna, Little Chute, New London, Kimberly, Two Creeks, Darboy, and Chain O' Lakes-King around 815 PM CDT. Denmark around 820 PM CDT. Black Creek and Bellevue around 825 PM CDT. Green Bay and Kewaunee around 830 PM CDT. Clintonville and Luxemburg around 835 PM CDT. Algoma, Embarrass, and Navarino Wildlife Area around 840 PM CDT. Bay Shore Park and Pulaski around 845 PM CDT. Shawano around 850 PM CDT.  Other locations impacted by these storms include Wayside, Gregorville, Freedom, Allenville, Frazer Corners, Metz, Buckbee, Uw Fox Valley, Dyckesville, and Shawano Lake.\nGenerated: 2026-04-03 01:40:10 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 8:10PM CDT by NWS Green Bay WI\nExpires: 2026-04-03 02:00 Z\nAt 809 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Hartman Creek State Park to near Menasha to 8 miles southeast of Two Creeks. Movement was northeast at 55 mph.  HAZARD...Pea size hail and brief torrential rainfall.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Appleton, Waupaca, Kaukauna, Little Chute, New London, Kimberly, Two Creeks, Darboy, and Chain O' Lakes-King around 815 PM CDT. Denmark around 820 PM CDT. Black Creek and Bellevue around 825 PM CDT. Green Bay and Kewaunee around 830 PM CDT. Clintonville and Luxemburg around 835 PM CDT. Algoma, Embarrass, and Navarino Wildlife Area around 840 PM CDT. Bay Shore Park and Pulaski around 845 PM CDT. Shawano around 850 PM CDT.  Other locations impacted by these storms include Wayside, Gregorville, Freedom, Allenville, Frazer Corners, Metz, Buckbee, Uw Fox Valley, Dyckesville, and Shawano Lake.\nGenerated: 2026-04-03 01:50:14 UTC"
   44.2400, -89.3500
   44.9200, -88.8400
   44.9100, -88.7300
@@ -46,7 +55,7 @@ Line: 2,,"Special Weather Statement issued April 2 at 8:10PM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 9:06PM EDT by NWS Northern Indiana\nExpires: 2026-04-03 02:00 Z\nAt 906 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Burlington to 7 miles south of Coldwater to near Angola to near Waterloo. Movement was east at 60 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Auburn, Coldwater, Angola, Bryan, Hillsdale, Wauseon, Garrett, Archbold, Montpelier, Swanton, Butler, Morenci, Delta, Jonesville, Waterloo, Fremont, Edgerton, West Unity, Quincy, and Union City.  This includes the following highways... Interstate 69 in Indiana between mile markers 330 and 357. Interstate 69 in Michigan between mile markers 1 and 21. Interstate 80 in Indiana between mile markers 137 and 156. Interstate 80 in Ohio between mile markers 0 and 47.\nGenerated: 2026-04-03 01:40:10 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 9:06PM EDT by NWS Northern Indiana\nExpires: 2026-04-03 02:00 Z\nAt 906 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Burlington to 7 miles south of Coldwater to near Angola to near Waterloo. Movement was east at 60 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Auburn, Coldwater, Angola, Bryan, Hillsdale, Wauseon, Garrett, Archbold, Montpelier, Swanton, Butler, Morenci, Delta, Jonesville, Waterloo, Fremont, Edgerton, West Unity, Quincy, and Union City.  This includes the following highways... Interstate 69 in Indiana between mile markers 330 and 357. Interstate 69 in Michigan between mile markers 1 and 21. Interstate 80 in Indiana between mile markers 137 and 156. Interstate 80 in Ohio between mile markers 0 and 47.\nGenerated: 2026-04-03 01:50:14 UTC"
   41.5800, -83.9100
   41.3500, -85.1900
   41.5900, -85.1000
