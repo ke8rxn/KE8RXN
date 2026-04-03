@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-03 00:10:10 UTC
+; Generated: 2026-04-03 00:20:56 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 8:00PM EDT by NWS Northern Indiana\nExpires: 2026-04-03 00:30 Z\nAt 800 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bourbon to near Akron to 8 miles north of Mexico. Movement was northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warsaw, North Manchester, Winona Lake, South Whitley, Akron, North Webster, Pierceton, Mentone, Walnut, Tippecanoe, Etna, Silver Lake, Etna Green, Leesburg, Claypool, Larwill, Macy, Burket, Sidney, and Hoffman Lake.\nGenerated: 2026-04-03 00:10:10 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 8:00PM EDT by NWS Northern Indiana\nExpires: 2026-04-03 00:30 Z\nAt 800 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bourbon to near Akron to 8 miles north of Mexico. Movement was northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warsaw, North Manchester, Winona Lake, South Whitley, Akron, North Webster, Pierceton, Mentone, Walnut, Tippecanoe, Etna, Silver Lake, Etna Green, Leesburg, Claypool, Larwill, Macy, Burket, Sidney, and Hoffman Lake.\nGenerated: 2026-04-03 00:20:56 UTC"
   41.0400, -86.0800
   41.1800, -86.2800
   41.4000, -85.8600
@@ -16,7 +16,7 @@ Line: 2,,"Special Weather Statement issued April 2 at 8:00PM EDT by NWS Northern
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 6:58PM CDT by NWS Memphis TN\nExpires: 2026-04-03 00:30 Z\nAt 658 PM CDT, Doppler radar was tracking a strong thunderstorm over Milan, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Milan, McKenzie, Huntingdon, Atwood, Medina, Trezevant, Clarksburg, McLemoresville, Howley, Hillard, Cades, Ledbetter, Leach, Sitka, Tate, Palmer Shelter, Gann, Wingo, Jarrell, and New Zion.\nGenerated: 2026-04-03 00:10:10 UTC"
+Line: 2,,"Special Weather Statement issued April 2 at 6:58PM CDT by NWS Memphis TN\nExpires: 2026-04-03 00:30 Z\nAt 658 PM CDT, Doppler radar was tracking a strong thunderstorm over Milan, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Milan, McKenzie, Huntingdon, Atwood, Medina, Trezevant, Clarksburg, McLemoresville, Howley, Hillard, Cades, Ledbetter, Leach, Sitka, Tate, Palmer Shelter, Gann, Wingo, Jarrell, and New Zion.\nGenerated: 2026-04-03 00:20:56 UTC"
   35.7900, -88.8000
   35.9400, -88.8600
   36.1200, -88.5400
@@ -25,29 +25,4 @@ Line: 2,,"Special Weather Statement issued April 2 at 6:58PM CDT by NWS Memphis 
   36.1500, -88.4800
   35.8900, -88.3700
   35.7900, -88.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 7:45PM EDT by NWS Indianapolis IN\nExpires: 2026-04-03 00:15 Z\nAt 745 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms 11 miles northwest of Crawfordsville, moving northeast at 60 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lafayette, Crawfordsville, West Lafayette, Shadeland, Dayton, Battle Ground, Mulberry, Waynetown, Darlington, Linden, Colfax, New Market, Clarks Hill, Waveland, New Richmond, Wingate, Alamo, Purdue University, and Shades State Park.  This includes the following highways... Interstate 65 between mile markers 158 and 180. Interstate 74 between mile markers 25 and 43.\nGenerated: 2026-04-03 00:10:10 UTC"
-  40.4300, -86.6900
-  40.4300, -86.6700
-  40.0700, -86.6400
-  39.8700, -86.9900
-  39.8700, -87.0100
-  39.8500, -87.0100
-  39.8000, -87.1000
-  40.1000, -87.0800
-  40.3900, -87.1300
-  40.5600, -86.8000
-  40.5600, -86.7000
-  40.4300, -86.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 2 at 6:29PM CDT by NWS New Orleans LA\nExpires: 2026-04-03 00:15 Z\nAt 628 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Albany, or 11 miles west of Hammond, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammond, Greensburg, Amite, Amite City, Livingston, Independence, Roseland, Albany, Springfield, Montpelier, Natalbany, and Tickfaw.  This includes the following Interstates... Interstate 12 between mile markers 20 and 36. Interstate 55 in Louisiana between mile markers 31 and 51.\nGenerated: 2026-04-03 00:10:10 UTC"
-  30.3800, -90.6100
-  30.4500, -90.8100
-  30.8500, -90.7500
-  30.7300, -90.2600
-  30.3800, -90.6100
 End:
