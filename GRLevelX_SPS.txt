@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-04 10:20:12 UTC
+; Generated: 2026-04-04 10:25:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 4 at 5:05AM CDT by NWS Tulsa OK\nExpires: 2026-04-04 10:30 Z\nAt 504 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 5 miles northwest of Queen Wilhelmina State Park to 4 miles southeast of Nashoba. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Octavia...                        Muse... Honobia...                        Nashoba... Big Cedar...\nGenerated: 2026-04-04 10:20:12 UTC"
+Line: 2,,"Special Weather Statement issued April 4 at 5:19AM CDT by NWS Shreveport LA\nExpires: 2026-04-04 11:00 Z\nAt 519 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from Pickens to 5 miles north of Battiest to 7 miles northwest of Smithville, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bethel, Sherwood, Mount Herman, Battiest, Smithville, Pickens, Watson and Plunketville.\nGenerated: 2026-04-04 10:25:13 UTC"
+  34.4000, -94.4600
+  34.2500, -95.0500
+  34.5100, -95.0500
+  34.5100, -94.4600
+  34.4000, -94.4600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 4 at 5:05AM CDT by NWS Tulsa OK\nExpires: 2026-04-04 10:30 Z\nAt 504 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 5 miles northwest of Queen Wilhelmina State Park to 4 miles southeast of Nashoba. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Octavia...                        Muse... Honobia...                        Nashoba... Big Cedar...\nGenerated: 2026-04-04 10:25:13 UTC"
   34.4600, -95.3100
   34.8600, -94.4800
   34.8500, -94.4500
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued April 4 at 5:05AM CDT by NWS Tulsa OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 4 at 4:40AM CDT by NWS Norman OK\nExpires: 2026-04-04 10:30 Z\nAt 439 AM CDT, Doppler radar was tracking a strong thunderstorm near Thackerville, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Thackerville, Willis, and western Lake Texoma.\nGenerated: 2026-04-04 10:20:12 UTC"
+Line: 2,,"Special Weather Statement issued April 4 at 4:40AM CDT by NWS Norman OK\nExpires: 2026-04-04 10:30 Z\nAt 439 AM CDT, Doppler radar was tracking a strong thunderstorm near Thackerville, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Thackerville, Willis, and western Lake Texoma.\nGenerated: 2026-04-04 10:25:13 UTC"
   33.7600, -97.1900
   33.8900, -97.1800
   33.9200, -96.9900
