@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-04 02:45:12 UTC
+; Generated: 2026-04-04 02:50:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 9:43PM CDT by NWS Springfield MO\nExpires: 2026-04-04 03:15 Z\nAt 943 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles south of Rich Hill to Nevada to Sheldon to near Liberal. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nevada, El Dorado Springs, Liberal, Sheldon, Montevallo, Walker, Moundville, Milo, Irwin, Harwood, Olympia, and Verdella.\nGenerated: 2026-04-04 02:45:12 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 9:45PM CDT by NWS Tulsa OK\nExpires: 2026-04-04 03:30 Z\nAt 944 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles north of Welch to 12 miles north of White Oak. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny to nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... New Alluwe...                     Hollow... Commerce...                       Miami... Picher...                         Cardin... Narcissa...                       Welch... Bluejacket...                     Pyramid Corners... Centralia...                      Quapaw... Treece...                         Vinita...  This includes Interstate 44 between mile markers 289 and 294, and between mile markers 309 and 310.\nGenerated: 2026-04-04 02:50:14 UTC"
+  36.6800, -95.0000
+  36.6000, -95.4800
+  36.6000, -95.5500
+  37.0000, -95.4300
+  37.0000, -94.7400
+  36.6800, -95.0000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 3 at 9:45PM CDT by NWS Springfield MO\nExpires: 2026-04-04 03:15 Z\nAt 944 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Galena to near Saginaw to near Neosho to near Goodman. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Southern Joplin, Carthage, Neosho, Granby, Duquesne, Goodman, Duenweg, Diamond, Loma Linda, Leawood, Silver Creek, Shoal Creek Drive, Saginaw, Fidelity, Newtonia, Redings Mill, Stark City, Grand Falls Plaza, Shoal Creek Estates, and Ritchey.  This includes Interstate 44 between mile markers 0 and 25.\nGenerated: 2026-04-04 02:50:14 UTC"
+  36.6500, -94.5500
+  36.8600, -94.5700
+  36.9900, -94.6200
+  37.0400, -94.6200
+  37.1500, -94.2900
+  37.0500, -94.1400
+  36.8100, -94.1600
+  36.6500, -94.5500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 3 at 9:43PM CDT by NWS Springfield MO\nExpires: 2026-04-04 03:15 Z\nAt 943 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles south of Rich Hill to Nevada to Sheldon to near Liberal. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nevada, El Dorado Springs, Liberal, Sheldon, Montevallo, Walker, Moundville, Milo, Irwin, Harwood, Olympia, and Verdella.\nGenerated: 2026-04-04 02:50:14 UTC"
   38.0300, -94.0400
   37.8800, -93.9400
   37.6400, -93.9800
@@ -17,7 +39,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 9:43PM CDT by NWS Springfi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 10:32PM EDT by NWS Northern Indiana\nExpires: 2026-04-04 03:00 Z\nAt 1032 PM EDT, Doppler radar was tracking a strong thunderstorm over Delphos, moving east at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Lima, Delphos, Elida, Southworth, Needmore, Gomer, and Rushmore.\nGenerated: 2026-04-04 02:45:12 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 10:32PM EDT by NWS Northern Indiana\nExpires: 2026-04-04 03:00 Z\nAt 1032 PM EDT, Doppler radar was tracking a strong thunderstorm over Delphos, moving east at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Lima, Delphos, Elida, Southworth, Needmore, Gomer, and Rushmore.\nGenerated: 2026-04-04 02:50:14 UTC"
   40.7300, -84.4500
   40.8700, -84.4200
   40.8800, -84.1300
@@ -26,7 +48,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 10:32PM EDT by NWS Norther
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 9:23PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-04 03:00 Z\nAt 923 PM CDT, Doppler radar was tracking a strong thunderstorm over Rochester, or 7 miles south of Wind Lake, moving northeast at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Oak Creek, Muskego, South Milwaukee, Franklin, Wind Lake, Rochester, Raymond, Yorkville, Big Bend, Browns Lake, Waterford North, Eagle Lake, Bohners Lake, Burlington, Waterford, Honey Creek, Kansasville, and North Cape.  This includes the following highways... Interstate 43 between mile markers 50 and 51. Interstate 41/94 between mile markers 321 and 327.\nGenerated: 2026-04-04 02:45:12 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 9:23PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-04 03:00 Z\nAt 923 PM CDT, Doppler radar was tracking a strong thunderstorm over Rochester, or 7 miles south of Wind Lake, moving northeast at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Oak Creek, Muskego, South Milwaukee, Franklin, Wind Lake, Rochester, Raymond, Yorkville, Big Bend, Browns Lake, Waterford North, Eagle Lake, Bohners Lake, Burlington, Waterford, Honey Creek, Kansasville, and North Cape.  This includes the following highways... Interstate 43 between mile markers 50 and 51. Interstate 41/94 between mile markers 321 and 327.\nGenerated: 2026-04-04 02:50:14 UTC"
   42.9000, -87.8500
   42.6700, -88.1000
   42.6700, -88.1900
@@ -38,7 +60,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 9:23PM CDT by NWS Milwauke
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 10:16PM EDT by NWS Cleveland OH\nExpires: 2026-04-04 03:00 Z\nAt 1016 PM EDT, Doppler radar was tracking a strong thunderstorm near La Rue, or 11 miles west of Marion, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, La Rue, Morral, Marseilles, Caledonia, New Bloomington, Green Camp, and Harpster.\nGenerated: 2026-04-04 02:45:12 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 10:16PM EDT by NWS Cleveland OH\nExpires: 2026-04-04 03:00 Z\nAt 1016 PM EDT, Doppler radar was tracking a strong thunderstorm near La Rue, or 11 miles west of Marion, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, La Rue, Morral, Marseilles, Caledonia, New Bloomington, Green Camp, and Harpster.\nGenerated: 2026-04-04 02:50:14 UTC"
   40.4900, -83.2500
   40.5100, -83.2500
   40.5000, -83.4100
@@ -51,7 +73,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 10:16PM EDT by NWS Clevela
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 9:15PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-04 03:00 Z\nAt 914 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Koshkonong to 6 miles east of Milton to near Delavan to near Elkhorn. Movement was northeast at 40 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Waukesha, New Berlin, Watertown, Whitewater, Pewaukee, Fort Atkinson, Elkhorn, Hartland, Jefferson, Mukwonago, Delafield, Milton, East Troy, Wales, Okauchee Lake, Oconomowoc, Vernon, Ottawa, Johnson Creek, and Dousman.  This includes the following highways... U.S. Highway 12 between mile markers 320 and 321. Interstate 39/90 near mile marker 163. Interstate 94 between mile markers 267 and 294, and between mile markers 297 and 300. Wisconsin Highway 26 between mile markers 9 and 37. Interstate 43 between mile markers 28 and 50.\nGenerated: 2026-04-04 02:45:12 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 9:15PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-04 03:00 Z\nAt 914 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Koshkonong to 6 miles east of Milton to near Delavan to near Elkhorn. Movement was northeast at 40 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Waukesha, New Berlin, Watertown, Whitewater, Pewaukee, Fort Atkinson, Elkhorn, Hartland, Jefferson, Mukwonago, Delafield, Milton, East Troy, Wales, Okauchee Lake, Oconomowoc, Vernon, Ottawa, Johnson Creek, and Dousman.  This includes the following highways... U.S. Highway 12 between mile markers 320 and 321. Interstate 39/90 near mile marker 163. Interstate 94 between mile markers 267 and 294, and between mile markers 297 and 300. Wisconsin Highway 26 between mile markers 9 and 37. Interstate 43 between mile markers 28 and 50.\nGenerated: 2026-04-04 02:50:14 UTC"
   42.8300, -89.0400
   42.8500, -89.0200
   42.8500, -89.0100
