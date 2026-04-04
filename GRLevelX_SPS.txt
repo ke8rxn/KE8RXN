@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-04 03:55:11 UTC
+; Generated: 2026-04-04 04:00:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 10:33PM CDT by NWS Springfield MO\nExpires: 2026-04-04 04:15 Z\nAt 1033 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lowry City to 7 miles south of Osceola to 7 miles northwest of Humansville to Stockton. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pomme de Terre Lake, Truman State Park, Pomme De Terre State Park, Truman Lake, Stockton Lake, Warsaw, Stockton, Pittsburg, Humansville, Osceola, Lowry City, Hermitage, Weaubleau, Wheatland, Preston, Cross Timbers, Collins, Flemington, Vista, and Gerster.\nGenerated: 2026-04-04 03:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 10:58PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-04-04 04:30 Z\nAt 1058 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Calhoun to 11 miles south of Windsor to 7 miles northwest of Warsaw. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Windsor, Calhoun, Tightwad, and Truman Lake.\nGenerated: 2026-04-04 04:00:14 UTC"
+  38.3400, -93.6200
+  38.4500, -93.7100
+  38.6400, -93.3600
+  38.5300, -93.2900
+  38.5100, -93.2900
+  38.5100, -93.5200
+  38.2100, -93.5200
+  38.2100, -93.5300
+  38.3400, -93.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 3 at 10:33PM CDT by NWS Springfield MO\nExpires: 2026-04-04 04:15 Z\nAt 1033 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lowry City to 7 miles south of Osceola to 7 miles northwest of Humansville to Stockton. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pomme de Terre Lake, Truman State Park, Pomme De Terre State Park, Truman Lake, Stockton Lake, Warsaw, Stockton, Pittsburg, Humansville, Osceola, Lowry City, Hermitage, Weaubleau, Wheatland, Preston, Cross Timbers, Collins, Flemington, Vista, and Gerster.\nGenerated: 2026-04-04 04:00:14 UTC"
   38.3500, -93.3100
   38.0500, -93.1100
   37.7800, -93.2300
@@ -19,27 +32,4 @@ Line: 2,,"Special Weather Statement issued April 3 at 10:33PM CDT by NWS Springf
   38.2100, -93.5300
   38.2900, -93.5200
   38.3500, -93.3100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 10:28PM CDT by NWS Springfield MO\nExpires: 2026-04-04 04:00 Z\nAt 1028 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Sheldon to 6 miles northwest of Golden City to 7 miles north of Sarcoxie. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Joplin, Carthage, Webb City, Stockton Lake, Stockton State Park, Carl Junction, Lamar, Oronogo, Carterville, Greenfield, Lockwood, Jasper, Golden City, Miller, Airport Drive, Alba, Purcell, Everton, Carytown, and Fidelity.  This includes Interstate 44 between mile markers 19 and 23.\nGenerated: 2026-04-04 03:55:11 UTC"
-  37.2800, -94.6200
-  37.4600, -94.3500
-  37.5800, -94.3400
-  37.6900, -93.6800
-  37.2400, -93.6600
-  37.0800, -94.2300
-  37.1000, -94.6200
-  37.2800, -94.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 11:23PM EDT by NWS Wilmington OH\nExpires: 2026-04-04 04:00 Z\nAt 1122 PM EDT, a strong thunderstorm was located near Lima, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Ada, Forest, Dunkirk, Alger, Blanchard, Mcguffey, Patterson, Dola, Grant, and Huntersville.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-04 03:55:11 UTC"
-  40.8200, -83.5000
-  40.7000, -83.5000
-  40.7000, -83.4400
-  40.6900, -83.4400
-  40.6900, -83.8800
-  40.8200, -83.8800
-  40.8200, -83.5000
 End:
