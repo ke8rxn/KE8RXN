@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-04 01:10:15 UTC
+; Generated: 2026-04-04 01:15:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 8:05PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-04-04 01:30 Z\nAt 805 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Gilman City to 7 miles southwest of Gallatin to 7 miles northeast of Lathrop. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cameron, Hamilton, Gallatin, Jamesport, Gilman City, Kingston, Pattonsburg, Kidder, Winston, Altamont, Coffey, Jameson, and Brimson.  This includes Interstate 35 in Missouri between mile markers 43 and 53, and between mile markers 56 and 82.\nGenerated: 2026-04-04 01:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 8:14PM CDT by NWS Fort Worth TX\nExpires: 2026-04-04 01:45 Z\nAt 814 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Lake Graham, or 10 miles west of Graham, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Graham, Olney, Lake Graham, Newcastle, Murray, Jean, Loving, and South Bend.\nGenerated: 2026-04-04 01:15:11 UTC"
+  33.4000, -98.8000
+  33.4000, -98.4200
+  33.2700, -98.4200
+  32.9700, -98.6800
+  33.0700, -98.9300
+  33.4000, -98.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 3 at 9:14PM EDT by NWS Cleveland OH\nExpires: 2026-04-04 02:15 Z\nAt 914 PM EDT, Doppler radar was tracking a strong thunderstorm near Marion, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Mount Gilead, Cardington, Prospect, Waldo, Chesterville, Caledonia, Edison, Green Camp, Fulton, Shauck, and Iberia.\nGenerated: 2026-04-04 01:15:11 UTC"
+  40.4600, -83.2500
+  40.5000, -83.2500
+  40.5100, -83.2700
+  40.6400, -83.2800
+  40.7100, -82.8200
+  40.7100, -82.6500
+  40.5500, -82.6300
+  40.5500, -82.6400
+  40.4200, -82.6400
+  40.4600, -83.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 3 at 8:05PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-04-04 01:30 Z\nAt 805 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Gilman City to 7 miles southwest of Gallatin to 7 miles northeast of Lathrop. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cameron, Hamilton, Gallatin, Jamesport, Gilman City, Kingston, Pattonsburg, Kidder, Winston, Altamont, Coffey, Jameson, and Brimson.  This includes Interstate 35 in Missouri between mile markers 43 and 53, and between mile markers 56 and 82.\nGenerated: 2026-04-04 01:15:11 UTC"
   40.2300, -93.6100
   39.6500, -93.9500
   39.5900, -94.2900
@@ -17,7 +41,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 8:05PM CDT by NWS Kansas C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 7:55PM CDT by NWS Tulsa OK\nExpires: 2026-04-04 01:30 Z\nAt 755 PM CDT, Doppler radar indicated a strong thunderstorm near Chelsea, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... White Oak...                      Vinita... Big Cabin...  This includes Interstate 44 between mile markers 273 and 287.\nGenerated: 2026-04-04 01:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 7:55PM CDT by NWS Tulsa OK\nExpires: 2026-04-04 01:30 Z\nAt 755 PM CDT, Doppler radar indicated a strong thunderstorm near Chelsea, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... White Oak...                      Vinita... Big Cabin...  This includes Interstate 44 between mile markers 273 and 287.\nGenerated: 2026-04-04 01:15:11 UTC"
   36.6100, -95.0200
   36.5100, -95.2500
   36.5100, -95.3800
@@ -30,7 +54,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 7:55PM CDT by NWS Tulsa OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 8:53PM EDT by NWS Peachtree City GA\nExpires: 2026-04-04 01:30 Z\nAt 853 PM EDT, a strong thunderstorm was near Chappells Mill, or 8 miles north of Dublin, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Dublin, Oconee, Chappells Mill, and Tuckers Crossroad.\nGenerated: 2026-04-04 01:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 8:53PM EDT by NWS Peachtree City GA\nExpires: 2026-04-04 01:30 Z\nAt 853 PM EDT, a strong thunderstorm was near Chappells Mill, or 8 miles north of Dublin, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Dublin, Oconee, Chappells Mill, and Tuckers Crossroad.\nGenerated: 2026-04-04 01:15:11 UTC"
   32.5400, -82.9100
   32.6300, -83.1000
   32.8900, -83.0100
@@ -39,28 +63,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 8:53PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 8:50PM EDT by NWS Wilmington OH\nExpires: 2026-04-04 01:15 Z\nAt 850 PM EDT, a strong thunderstorm was located over Waynesfield, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Ada, Alger, Waynesfield, Mcguffey, Jumbo, Huntersville, Walton, State Route 195 at State Route 235, and New Hampshire.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-04 01:10:15 UTC"
-  40.7300, -83.7100
-  40.5900, -83.6900
-  40.5500, -84.0200
-  40.6400, -84.0800
-  40.6500, -83.8800
-  40.7900, -83.8800
-  40.7300, -83.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 7:50PM CDT by NWS Little Rock AR\nExpires: 2026-04-04 01:15 Z\nAt 750 PM CDT, Doppler radar was tracking a strong thunderstorm over Stephens, or 11 miles northeast of McNeil, moving north at 35 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Camden...                         Stephens... Chidester...                      White Oak Lake State Park... Poison Springs State Park...      Bragg City... Buena Vista...                    Troy...\nGenerated: 2026-04-04 01:10:15 UTC"
-  33.4200, -93.1200
-  33.6700, -93.1100
-  33.7000, -93.1000
-  33.6600, -92.7900
-  33.4000, -93.0100
-  33.4200, -93.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 8:49PM EDT by NWS Northern Indiana\nExpires: 2026-04-04 01:30 Z\nAt 849 PM EDT, Doppler radar was tracking a strong thunderstorm over Waynesfield, or 8 miles southeast of Fort Shawnee, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrod and Westminster.\nGenerated: 2026-04-04 01:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 8:49PM EDT by NWS Northern Indiana\nExpires: 2026-04-04 01:30 Z\nAt 849 PM EDT, Doppler radar was tracking a strong thunderstorm over Waynesfield, or 8 miles southeast of Fort Shawnee, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrod and Westminster.\nGenerated: 2026-04-04 01:15:11 UTC"
   40.6400, -84.0500
   40.7900, -83.8900
   40.7800, -83.8800
@@ -69,70 +72,7 @@ Line: 2,,"Special Weather Statement issued April 3 at 8:49PM EDT by NWS Northern
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 7:47PM CDT by NWS Fort Worth TX\nExpires: 2026-04-04 01:15 Z\nAt 747 PM CDT, Doppler radar was tracking a strong thunderstorm over Crystal Falls, or 8 miles north of Breckenridge, moving northeast at 45 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Graham, Breckenridge, Hubbard Creek Reservoir, Crystal Falls, Lake Graham, Possum Kingdom Lake, Eliasville, Ivan, Murray, and South Bend.\nGenerated: 2026-04-04 01:10:15 UTC"
-  32.9600, -99.0200
-  32.9600, -98.9500
-  33.0300, -98.9500
-  33.2000, -98.7900
-  33.1100, -98.5900
-  32.9600, -98.4600
-  32.9500, -98.4800
-  32.9500, -98.5700
-  32.9100, -98.5700
-  32.7300, -98.9500
-  32.8900, -99.0900
-  32.9600, -99.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 8:45PM EDT by NWS Wilmington OH\nExpires: 2026-04-04 01:15 Z\nAt 845 PM EDT, a strong thunderstorm was located near La Rue, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Mount Victory, Hepburn, and Pfeiffer.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-04 01:10:15 UTC"
-  40.5100, -83.4200
-  40.5100, -83.2600
-  40.5000, -83.2500
-  40.4800, -83.2500
-  40.5100, -83.5500
-  40.6500, -83.5500
-  40.6700, -83.4200
-  40.5100, -83.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 7:41PM CDT by NWS Norman OK\nExpires: 2026-04-04 01:15 Z\nAt 741 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of Carnegie to near Tom Steed Reservoir to near Gould. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Altus, Hobart, Mangum, Granite, Apache, Blair, Lone Wolf, Mountain Park, Roosevelt, Martha, Gould, Friendship, Cooperton, Altus Air Force Base, Meers, Tom Steed Reservoir, Duke, Boone, Warren, and northern Lake Ellsworth.\nGenerated: 2026-04-04 01:10:15 UTC"
-  34.9200, -98.2200
-  34.7000, -98.7500
-  34.5700, -99.6700
-  34.6500, -99.9500
-  34.9600, -99.4400
-  35.0600, -99.0500
-  34.9200, -98.2200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 8:40PM EDT by NWS Wilmington OH\nExpires: 2026-04-04 01:15 Z\nAt 840 PM EDT, a strong thunderstorm was located near Lewisburg, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Troy, Piqua, Englewood, Tipp City, West Milton, Covington, Pleasant Hill, Clayton, Union, Brookville, Phillipsburg, Verona, Laura, Pitsburg, Potsdam, Casstown, Gordon, Ludlow Falls, Ithaca, and Polo.  This includes the following Interstates... I-70 in Ohio between mile markers 17 and 24. I-75 in Ohio between mile markers 68 and 79.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-04 01:10:15 UTC"
-  39.8000, -84.4600
-  39.9100, -84.5800
-  40.1900, -84.3500
-  40.1000, -84.1900
-  40.0100, -84.0800
-  39.8000, -84.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 8:35PM EDT by NWS Cleveland OH\nExpires: 2026-04-04 01:15 Z\nAt 835 PM EDT, Doppler radar was tracking a strong thunderstorm near Kenton, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Prospect, La Rue, Morral, Waldo, New Bloomington, Green Camp, and State Route 229 at US Route 23.\nGenerated: 2026-04-04 01:10:15 UTC"
-  40.4400, -83.2500
-  40.5100, -83.2500
-  40.5000, -83.4200
-  40.6800, -83.4200
-  40.6900, -83.3700
-  40.6900, -83.3100
-  40.7000, -83.3000
-  40.7000, -83.0600
-  40.4300, -83.0300
-  40.4400, -83.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 3 at 6:13PM MDT by NWS Cheyenne WY\nExpires: 2026-04-04 01:30 Z\nAt 613 PM MDT...An area of snow showers was affecting portions of southeastern Albany and southwestern Laramie Counties. Periods of snow showers will persist through 730 PM MDT.  HAZARD...Strong winds in excess of 45 mph and visibilities less than one half mile.  SOURCE...Radar and Webcams.  IMPACT...Hazardous travel conditions due to slick roads and low visibilities.  Locations impacted include... Happy Valley, Table Mountain Ranches, Willadsen Estates, Granite Canon, Harriman Heights, Boulder Ridge, Vedauwoo, Tie Siding, Crystal Lake Reservoir, Pumpkin Vine, Vedauwoo Campground, Buford, Granite Springs Reservoir, Ames Monument, Curt Gowdy State Park, Pine Grove Estates, The Buttes, Granite Springs Retreat, and Cheyenne Pass.  This includes Interstate 80 in Wyoming between mile markers 327 and 350.\nGenerated: 2026-04-04 01:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 3 at 6:13PM MDT by NWS Cheyenne WY\nExpires: 2026-04-04 01:30 Z\nAt 613 PM MDT...An area of snow showers was affecting portions of southeastern Albany and southwestern Laramie Counties. Periods of snow showers will persist through 730 PM MDT.  HAZARD...Strong winds in excess of 45 mph and visibilities less than one half mile.  SOURCE...Radar and Webcams.  IMPACT...Hazardous travel conditions due to slick roads and low visibilities.  Locations impacted include... Happy Valley, Table Mountain Ranches, Willadsen Estates, Granite Canon, Harriman Heights, Boulder Ridge, Vedauwoo, Tie Siding, Crystal Lake Reservoir, Pumpkin Vine, Vedauwoo Campground, Buford, Granite Springs Reservoir, Ames Monument, Curt Gowdy State Park, Pine Grove Estates, The Buttes, Granite Springs Retreat, and Cheyenne Pass.  This includes Interstate 80 in Wyoming between mile markers 327 and 350.\nGenerated: 2026-04-04 01:15:11 UTC"
   41.1700, -105.7000
   41.2100, -105.0900
   41.0000, -104.9600
