@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-04 05:40:11 UTC
+; Generated: 2026-04-04 05:45:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 4 at 12:31AM CDT by NWS Norman OK\nExpires: 2026-04-04 06:00 Z\nAt 1231 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles north of Konawa to 5 miles west of Byng to 3 miles southeast of Vanoss. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ada, Holdenville, Wewoka, Konawa, Byng, Maud, Allen, Stonewall, Bowlegs, Francis, Fitzhugh, St. Louis, Sasakwa, Horntown, Yeager, Atwood, Vanoss, and Spaulding.\nGenerated: 2026-04-04 05:40:11 UTC"
+Line: 2,,"Special Weather Statement issued April 4 at 12:42AM CDT by NWS Tulsa OK\nExpires: 2026-04-04 06:30 Z\nAt 1242 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 5 miles west of Cherokee Landing State Park to 3 miles southeast of Gore to 3 miles southwest of Stigler. Movement was northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Kanima...                         Sallisaw... Eldon...                          Proctor... Christie...                       Vian... Marble City...                    Box... Kinta...                          Cookson... Brushy Lake State Park...         Mc Key... Keota...                          Stigler... Cherokee Landing State Park...    Bunch... Tamaha...                         Lake Tenkiller State Park... Tahlequah...  This includes Interstate 40 in Oklahoma between mile markers 288 and 307.\nGenerated: 2026-04-04 05:45:12 UTC"
+  36.1000, -94.6200
+  35.2700, -94.8200
+  35.1000, -95.2500
+  35.4700, -95.1200
+  35.8200, -95.0500
+  36.1000, -94.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 4 at 12:31AM CDT by NWS Norman OK\nExpires: 2026-04-04 06:00 Z\nAt 1231 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles north of Konawa to 5 miles west of Byng to 3 miles southeast of Vanoss. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ada, Holdenville, Wewoka, Konawa, Byng, Maud, Allen, Stonewall, Bowlegs, Francis, Fitzhugh, St. Louis, Sasakwa, Horntown, Yeager, Atwood, Vanoss, and Spaulding.\nGenerated: 2026-04-04 05:45:12 UTC"
   35.2200, -96.2500
   34.9500, -96.2700
   34.6500, -96.3800
@@ -13,24 +23,4 @@ Line: 2,,"Special Weather Statement issued April 4 at 12:31AM CDT by NWS Norman 
   34.9100, -96.9100
   35.1100, -96.9000
   35.2200, -96.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 4 at 12:19AM CDT by NWS Tulsa OK\nExpires: 2026-04-04 05:45 Z\nAt 1219 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles south of Sequoyah State Park to 2 miles southeast of Keefeton. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tahlequah...                      Eldon... Greenleaf State Park...           Box... Pumpkin Center...                 Fort Gibson... Cookson...                        Braggs... Cherokee Landing State Park...    Sequoyah State Park... Lake Tenkiller State Park...      Keefeton... Muskogee...\nGenerated: 2026-04-04 05:40:11 UTC"
-  35.9500, -94.8100
-  35.5400, -94.9200
-  35.5600, -95.3500
-  35.9100, -95.2800
-  35.9500, -94.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 4 at 12:13AM CDT by NWS Tulsa OK\nExpires: 2026-04-04 05:45 Z\nAt 1212 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from Warner to near Porum to 4 miles east of Blocker. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Kanima...                         Briartown... Vian...                           Whitefield... Webbers Falls...                  Kinta... Porum...                          Quinton... Warner...                         Featherston... Stigler...                        Enterprise... Gore...                           Tamaha... Lequire...                        Lewisville...  This includes Interstate 40 in Oklahoma between mile markers 272 and 297.\nGenerated: 2026-04-04 05:40:11 UTC"
-  35.0400, -95.5400
-  35.3300, -95.3600
-  35.5700, -95.4200
-  35.5800, -94.9600
-  35.3400, -94.9300
-  35.0200, -95.1600
-  35.0400, -95.5400
 End:
