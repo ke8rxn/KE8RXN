@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-05 19:40:13 UTC
+; Generated: 2026-04-05 19:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 5 at 3:38PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-04-05 20:30 Z\nAt 338 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Plymouth to near Wilmar. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Washington, Plymouth, River Road, Belhaven, Sladesville, Ransomville, Ponzer, Scranton, Pinetown, Pungo, Blounts Creek, Pamlico Beach, Vanceboro, Lowland, Cayton, Columbia, Wilmar, Bonnerton, Wenona, and Pike Road.\nGenerated: 2026-04-05 19:40:13 UTC"
+Line: 2,,"Special Weather Statement issued April 5 at 3:42PM EDT by NWS Charleston SC\nExpires: 2026-04-05 20:15 Z\nAt 342 PM EDT, Doppler radar was tracking a line of strong thunderstorms extending from near Old Santee Canal State Park to over Summerville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Summerville, Sangaree, Ladson, Goose Creek, College Park, Crowfield Plantation, North Charleston, Hanahan and Naval Weapons Station Charleston.  This includes I-26 between mile markers 198 and 209.\nGenerated: 2026-04-05 19:45:15 UTC"
+  32.9500, -80.2600
+  33.1600, -80.1200
+  33.1900, -79.7700
+  32.9200, -79.8600
+  32.9500, -80.2600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 5 at 3:40PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-04-05 20:15 Z\nAt 339 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Vanceboro to Cypress Creek. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jacksonville, New Bern, New River Station, Pumpkin Center, Piney Green, Half Moon, Camp Lejeune Center, James City, Trent Woods, River Bend, Richlands, Maysville, Askins, Catherine Lake, Kellum, Cypress Creek, Midway Park, Comfort, Jasper, and Tuscarora.\nGenerated: 2026-04-05 19:45:15 UTC"
+  34.7200, -77.8200
+  35.2800, -77.2100
+  35.2400, -76.8700
+  35.2200, -76.8500
+  35.2100, -76.6600
+  34.6800, -77.3500
+  34.7200, -77.8200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 5 at 3:38PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-04-05 20:30 Z\nAt 338 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Plymouth to near Wilmar. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Washington, Plymouth, River Road, Belhaven, Sladesville, Ransomville, Ponzer, Scranton, Pinetown, Pungo, Blounts Creek, Pamlico Beach, Vanceboro, Lowland, Cayton, Columbia, Wilmar, Bonnerton, Wenona, and Pike Road.\nGenerated: 2026-04-05 19:45:15 UTC"
   36.0000, -76.2000
   35.2000, -76.5500
   35.2800, -77.2100
@@ -22,48 +42,4 @@ Line: 2,,"Special Weather Statement issued April 5 at 3:38PM EDT by NWS Newport/
   35.9600, -76.7200
   35.9700, -76.6500
   36.0000, -76.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 5 at 3:03PM EDT by NWS Wakefield VA\nExpires: 2026-04-05 19:45 Z\nAt 302 PM EDT, Doppler radar was tracking a strong thunderstorm over Westover, or near Princess Anne, moving east at 45 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... West Pocomoke around 310 PM EDT. Snow Hill around 320 PM EDT. Newark around 330 PM EDT.  Other locations impacted by this storm include Ocean City Municipality, Cokesbury, Goodwill, Eden, Kingston, Cedartown, Longridge, Mount Vernon, Powellville, and Mount Wesley.\nGenerated: 2026-04-05 19:40:13 UTC"
-  38.3200, -75.0500
-  38.0800, -75.1400
-  38.0300, -75.1800
-  37.9900, -75.7900
-  38.0500, -75.8000
-  38.0800, -75.7800
-  38.0700, -75.7900
-  38.1300, -75.8100
-  38.1400, -75.7900
-  38.1400, -75.8100
-  38.2500, -75.8300
-  38.2600, -75.8100
-  38.2700, -75.8300
-  38.4600, -75.0500
-  38.3200, -75.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 5 at 2:43PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-04-05 19:45 Z\nAt 241 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Lewiston Woodville to near Jason. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greenville, Washington, Winterville, Williamston, Ayden, Farmville, Plymouth, Bethel, Grifton, Stokes, Snow Hill, Bell Arthur, Robersonville, House, Shelmerdine, Pactolus, Calico, Black Jack, Bruce, and Jason.\nGenerated: 2026-04-05 19:40:13 UTC"
-  36.0600, -76.6200
-  36.0500, -76.6000
-  36.0100, -76.5800
-  35.3700, -77.1800
-  35.3700, -77.8000
-  35.5100, -77.8200
-  35.6800, -77.6600
-  35.8200, -77.3500
-  35.9700, -77.3800
-  36.0500, -77.3100
-  36.0100, -77.2100
-  35.9300, -77.1900
-  35.9400, -77.0500
-  35.8600, -77.0300
-  35.9000, -76.9200
-  35.8100, -76.8800
-  35.8900, -76.8300
-  35.8700, -76.7600
-  36.0500, -76.6200
-  36.0600, -76.6500
-  36.0600, -76.6200
 End:
