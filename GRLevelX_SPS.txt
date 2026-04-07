@@ -3,9 +3,25 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-07 20:45:14 UTC
+; Generated: 2026-04-07 20:50:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 7 at 4:42PM EDT by NWS Miami FL\nExpires: 2026-04-07 21:15 Z\nAt 442 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Miramar, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hialeah, Pembroke Pines, Hollywood, Miramar, Davie, Sunrise, Hallandale, Miami Gardens, Weston, North Miami, North Miami Beach, Aventura, Dania Beach, Miami Lakes, Cooper City, Hialeah Gardens, Sunny Isles Beach, Opa-Locka, West Park, and Miami Shores.\nGenerated: 2026-04-07 20:45:14 UTC"
+Line: 2,,"Special Weather Statement issued April 7 at 2:44PM MDT by NWS Great Falls MT\nExpires: 2026-04-07 21:30 Z\nAt 242 PM MDT, Doppler radar was tracking heavy snow showers along a line extending from 22 miles east of Sunburst to near Conrad to 32 miles east of Swan Lake. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and poor visibility.  SOURCE...Radar indicated.  IMPACT...Quick reductions in visibility.  Locations impacted include... Shelby, Conrad, Choteau, Chester, Fairfield, Dutton, Augusta, Lothair, Joplin, Brady, The Knees, Power, Pishkun Reservoir, Ledger, Tiber Dam, Nilan Reservoir, Galata, Collins, Bynum, and Whitlash.\nGenerated: 2026-04-07 20:50:13 UTC"
+  48.4200, -110.7600
+  47.8500, -111.2100
+  47.2600, -113.0600
+  47.4800, -113.0600
+  47.5000, -113.1200
+  47.7200, -113.1700
+  47.7800, -113.0700
+  47.9100, -113.0900
+  48.2200, -112.1000
+  49.0000, -111.5100
+  49.0000, -110.7500
+  48.4200, -110.7600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 7 at 4:42PM EDT by NWS Miami FL\nExpires: 2026-04-07 21:15 Z\nAt 442 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Miramar, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hialeah, Pembroke Pines, Hollywood, Miramar, Davie, Sunrise, Hallandale, Miami Gardens, Weston, North Miami, North Miami Beach, Aventura, Dania Beach, Miami Lakes, Cooper City, Hialeah Gardens, Sunny Isles Beach, Opa-Locka, West Park, and Miami Shores.\nGenerated: 2026-04-07 20:50:13 UTC"
   25.9400, -80.1200
   25.9000, -80.1200
   25.9300, -80.1300
@@ -18,14 +34,4 @@ Line: 2,,"Special Weather Statement issued April 7 at 4:42PM EDT by NWS Miami FL
   26.1200, -80.3600
   26.0600, -80.1100
   25.9400, -80.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 7 at 4:10PM EDT by NWS Miami FL\nExpires: 2026-04-07 20:45 Z\nAt 409 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near East Toll Gate On Alligator Alley, or 11 miles west of Pembroke Pines, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pembroke Pines, Miramar, Davie, Sunrise, Weston, Cooper City, Intersection I-75 And Griffin Road, Pine Island Ridge, and Sunshine Acres.\nGenerated: 2026-04-07 20:45:14 UTC"
-  25.9600, -80.6100
-  26.1300, -80.5700
-  26.1300, -80.4100
-  26.1000, -80.2800
-  25.9600, -80.3600
-  25.9600, -80.6100
 End:
