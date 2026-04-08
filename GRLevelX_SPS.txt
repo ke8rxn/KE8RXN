@@ -3,9 +3,44 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-08 22:15:15 UTC
+; Generated: 2026-04-08 22:20:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 8 at 3:04PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:30 Z\nAt 304 PM PDT, Doppler radar was tracking a strong thunderstorm over Del Loma, or 17 miles northwest of Hayfork, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Del Loma.\nGenerated: 2026-04-08 22:15:15 UTC"
+Line: 2,,"Special Weather Statement issued April 8 at 5:16PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-08 23:45 Z\nAt 515 PM CDT, Doppler radar was tracking gusty showers along a line extending from 10 miles east of Fremont to near Poynette to near Darlington. Movement was northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madison, Janesville, Fond Du Lac, Beloit, Sun Prairie, Fitchburg, Watertown, Middleton, Beaver Dam, Whitewater, Hartford, Stoughton, Fort Atkinson, Waunakee, Waupun, Monroe, Verona, Portage, Oregon, and Jefferson.  This includes the following highways... Interstate 90/94 between mile markers 107 and 108. Interstate 39 between mile markers 85 and 88. Interstate 39/90/94 between mile markers 109 and 110, and between mile markers 112 and 137. U.S. Highway 18 between mile markers 62 and 84. U.S. Highway 12 between mile markers 249 and 273. U.S. Highway 151 between mile markers 98 and 163, and between mile markers 165 and 169. Interstate 39/90 between mile markers 138 and 187. Interstate 94 between mile markers 241 and 278. Wisconsin Highway 26 between mile markers 6 and 53. Interstate 43 between mile markers 0 and 11. Interstate 41 between mile markers 81 and 109.\nGenerated: 2026-04-08 22:20:11 UTC"
+  42.5100, -89.8400
+  43.0200, -89.8400
+  43.6400, -89.4200
+  43.6400, -89.2500
+  43.7600, -89.2500
+  43.7700, -89.1700
+  43.8700, -89.2000
+  43.9800, -89.1700
+  43.9800, -88.8900
+  43.9000, -88.8800
+  43.8900, -88.4100
+  43.9400, -88.4000
+  43.9400, -88.1700
+  43.5400, -88.1600
+  43.5400, -88.4000
+  43.2000, -88.4200
+  43.2000, -88.5400
+  42.8400, -88.5400
+  42.8300, -88.7800
+  42.4900, -88.7800
+  42.5100, -89.8400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 8 at 3:16PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:45 Z\nAt 316 PM PDT, Doppler radar was tracking an area of strong thunderstorms near Hayfork, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hayfork, Douglas City and Peanut.\nGenerated: 2026-04-08 22:20:11 UTC"
+  40.7200, -123.1300
+  40.7400, -123.1100
+  40.6100, -122.8600
+  40.4300, -123.1200
+  40.5200, -123.2500
+  40.7200, -123.1300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 8 at 3:04PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:30 Z\nAt 304 PM PDT, Doppler radar was tracking a strong thunderstorm over Del Loma, or 17 miles northwest of Hayfork, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Del Loma.\nGenerated: 2026-04-08 22:20:11 UTC"
   40.7400, -123.4200
   40.7500, -123.4500
   40.9400, -123.3200
@@ -16,7 +51,7 @@ Line: 2,,"Special Weather Statement issued April 8 at 3:04PM PDT by NWS Eureka C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 8 at 5:01PM CDT by NWS Dodge City KS\nExpires: 2026-04-08 22:30 Z\nAt 501 PM CDT, Doppler radar was tracking a strong thunderstorm near Pfeifer, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Ellis County.\nGenerated: 2026-04-08 22:15:15 UTC"
+Line: 2,,"Special Weather Statement issued April 8 at 5:01PM CDT by NWS Dodge City KS\nExpires: 2026-04-08 22:30 Z\nAt 501 PM CDT, Doppler radar was tracking a strong thunderstorm near Pfeifer, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Ellis County.\nGenerated: 2026-04-08 22:20:11 UTC"
   38.7000, -99.0400
   38.7000, -99.1800
   38.8500, -99.2000
@@ -25,75 +60,11 @@ Line: 2,,"Special Weather Statement issued April 8 at 5:01PM CDT by NWS Dodge Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 8 at 2:58PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:30 Z\nAt 258 PM PDT, Doppler radar was tracking a strong thunderstorm near Ruth, or 21 miles northeast of Garberville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ruth, Forest Glen and Zenia.\nGenerated: 2026-04-08 22:15:15 UTC"
+Line: 2,,"Special Weather Statement issued April 8 at 2:58PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:30 Z\nAt 258 PM PDT, Doppler radar was tracking a strong thunderstorm near Ruth, or 21 miles northeast of Garberville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ruth, Forest Glen and Zenia.\nGenerated: 2026-04-08 22:20:11 UTC"
   40.1200, -123.4400
   40.1900, -123.5400
   40.2000, -123.5400
   40.4300, -123.3900
   40.2900, -123.1800
   40.1200, -123.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 8 at 2:45PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:15 Z\nAt 245 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Denny, or 21 miles northwest of Weaverville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of North Central Trinity County.\nGenerated: 2026-04-08 22:15:15 UTC"
-  40.9100, -123.1500
-  41.0000, -123.2900
-  41.0800, -123.2400
-  41.0700, -123.2000
-  41.0800, -123.1900
-  41.0800, -123.1400
-  41.0700, -123.1100
-  41.0600, -123.1000
-  41.0600, -123.0800
-  41.0500, -123.0600
-  41.0000, -123.0400
-  41.0100, -123.0100
-  40.9100, -123.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 8 at 2:43PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:15 Z\nAt 243 PM PDT, Doppler radar was tracking a strong thunderstorm over Douglas City, or 9 miles south of Weaverville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Weaverville, Douglas City and Lewiston.\nGenerated: 2026-04-08 22:15:15 UTC"
-  40.5600, -122.9500
-  40.5900, -123.0100
-  40.6000, -123.0100
-  40.6000, -123.0200
-  40.6100, -123.0200
-  40.6300, -123.0600
-  40.6300, -123.0800
-  40.8700, -122.9600
-  40.7200, -122.7100
-  40.7100, -122.7100
-  40.6900, -122.7400
-  40.7000, -122.7400
-  40.6900, -122.7500
-  40.5600, -122.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 8 at 2:41PM PDT by NWS Eureka CA\nExpires: 2026-04-08 22:15 Z\nAt 241 PM PDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Bridgeville, or 6 miles south of Grizzly Creek Redwoods State Park, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bridgeville.\nGenerated: 2026-04-08 22:15:15 UTC"
-  40.3500, -123.8700
-  40.4000, -123.9600
-  40.6000, -123.8200
-  40.4800, -123.6300
-  40.3500, -123.8700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 8 at 4:11PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-08 22:15 Z\nAt 411 PM CDT, Doppler radar was tracking gusty showers along a line extending from near Plainfield to 8 miles northeast of Spring Green to near Hazel Green. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madison, Sun Prairie, Fitchburg, Middleton, Stoughton, Waunakee, Baraboo, Monroe, Verona, Portage, Oregon, Reedsburg, McFarland, Monona, Mount Horeb, Windsor, Berlin, Edgerton, Columbus, and Dodgeville.  This includes the following highways... Interstate 90/94 between mile markers 88 and 108. Interstate 39 between mile markers 85 and 119. Interstate 39/90/94 between mile markers 109 and 110, and between mile markers 112 and 137. U.S. Highway 18 between mile markers 49 and 84. U.S. Highway 12 between mile markers 213 and 223, and between mile markers 249 and 273. U.S. Highway 151 between mile markers 23 and 47, and between mile markers 98 and 119. Interstate 39/90 between mile markers 138 and 161. Interstate 94 between mile markers 241 and 254.\nGenerated: 2026-04-08 22:15:15 UTC"
-  43.6300, -88.8900
-  43.6300, -89.0100
-  42.8500, -89.0100
-  42.8400, -89.3700
-  42.5100, -89.3600
-  42.5100, -90.4200
-  43.2000, -90.4300
-  43.2100, -90.2900
-  43.1700, -90.1900
-  43.5500, -90.1900
-  43.5600, -90.3100
-  43.6400, -90.3100
-  43.6400, -89.6000
-  43.9800, -89.6000
-  43.9800, -88.8900
-  43.6300, -88.8900
 End:
