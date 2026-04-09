@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-09 21:30:13 UTC
+; Generated: 2026-04-09 21:35:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 4:19PM CDT by NWS Amarillo TX\nExpires: 2026-04-09 21:45 Z\nAt 419 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southwest of Bootleg, or 13 miles northwest of Friona, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Simms and Bootleg.\nGenerated: 2026-04-09 21:30:13 UTC"
+Line: 2,,"Special Weather Statement issued April 9 at 2:33PM PDT by NWS Medford OR\nExpires: 2026-04-09 22:00 Z\nAt 233 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Bolan Lake Campground, or 11 miles north of Happy Camp, moving north at 25 mph.  HAZARD...Winds around 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Grayback Mountain Trail, Bolan Lake Campground, and Oregon Caves.\nGenerated: 2026-04-09 21:35:13 UTC"
+  41.9300, -123.1600
+  41.9300, -123.4200
+  42.1900, -123.5300
+  42.2000, -123.1600
+  41.9300, -123.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 9 at 4:19PM CDT by NWS Amarillo TX\nExpires: 2026-04-09 21:45 Z\nAt 419 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southwest of Bootleg, or 13 miles northwest of Friona, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Simms and Bootleg.\nGenerated: 2026-04-09 21:35:13 UTC"
   35.0400, -103.0400
   35.1500, -102.6600
   35.0300, -102.6200
@@ -15,7 +24,7 @@ Line: 2,,"Special Weather Statement issued April 9 at 4:19PM CDT by NWS Amarillo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 4:14PM CDT by NWS Amarillo TX\nExpires: 2026-04-09 21:45 Z\nAt 414 PM CDT, Doppler radar was tracking a strong thunderstorm near Adrian, or 10 miles west of Vega, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Vega and Adrian.  This includes Interstate 40 between mile markers 12 and 41.\nGenerated: 2026-04-09 21:30:13 UTC"
+Line: 2,,"Special Weather Statement issued April 9 at 4:14PM CDT by NWS Amarillo TX\nExpires: 2026-04-09 21:45 Z\nAt 414 PM CDT, Doppler radar was tracking a strong thunderstorm near Adrian, or 10 miles west of Vega, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Vega and Adrian.  This includes Interstate 40 between mile markers 12 and 41.\nGenerated: 2026-04-09 21:35:13 UTC"
   35.6300, -102.4500
   35.6300, -102.3600
   35.2600, -102.2000
@@ -25,21 +34,10 @@ Line: 2,,"Special Weather Statement issued April 9 at 4:14PM CDT by NWS Amarillo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 2:13PM PDT by NWS Medford OR\nExpires: 2026-04-09 21:45 Z\nAt 212 PM PDT, Doppler radar was tracking a strong thunderstorm near Camas Valley, or 26 miles southwest of Roseburg, moving north at 15 mph.  HAZARD...Winds around 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Camas Valley and Sitkum.\nGenerated: 2026-04-09 21:30:13 UTC"
+Line: 2,,"Special Weather Statement issued April 9 at 2:13PM PDT by NWS Medford OR\nExpires: 2026-04-09 21:45 Z\nAt 212 PM PDT, Doppler radar was tracking a strong thunderstorm near Camas Valley, or 26 miles southwest of Roseburg, moving north at 15 mph.  HAZARD...Winds around 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Camas Valley and Sitkum.\nGenerated: 2026-04-09 21:35:13 UTC"
   43.0000, -123.6500
   42.8800, -123.8500
   43.1100, -124.0900
   43.2400, -123.7400
   43.0000, -123.6500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 1:51PM PDT by NWS Portland OR\nExpires: 2026-04-09 21:30 Z\nAt 151 PM PDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Scaredman Recreation Site, or 19 miles southwest of Oakridge, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Disston.\nGenerated: 2026-04-09 21:30:13 UTC"
-  43.5400, -122.7400
-  43.5400, -122.8500
-  43.7000, -122.9400
-  43.7300, -122.6400
-  43.5300, -122.6300
-  43.5200, -122.7400
-  43.5400, -122.7400
 End:
