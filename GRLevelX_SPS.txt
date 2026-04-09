@@ -3,9 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-09 22:10:15 UTC
+; Generated: 2026-04-09 22:15:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 3:06PM PDT by NWS Medford OR\nExpires: 2026-04-09 22:30 Z\nAt 305 PM PDT, Doppler radar was tracking a strong thunderstorm near Myrtle Creek, or 11 miles southeast of Roseburg, moving north at 20 mph.  HAZARD...Winds in excess of 30 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roseburg, Myrtle Creek, Roseburg North, Glide, and Tri-City.\nGenerated: 2026-04-09 22:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 9 at 5:14PM CDT by NWS Amarillo TX\nExpires: 2026-04-09 22:45 Z\nAt 514 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Vega, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Vega and Wildorado.  This includes Interstate 40 between mile markers 32 and 45.\nGenerated: 2026-04-09 22:15:14 UTC"
+  35.2000, -102.5100
+  35.3700, -102.5000
+  35.4800, -102.1600
+  35.2300, -102.0500
+  35.2000, -102.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 9 at 5:12PM CDT by NWS Amarillo TX\nExpires: 2026-04-09 22:45 Z\nAt 512 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northeast of Boys Ranch, or 24 miles northeast of Vega, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Boys Ranch, Masterson, and Four Way.\nGenerated: 2026-04-09 22:15:14 UTC"
+  35.6300, -102.2400
+  35.6300, -102.1600
+  35.7000, -102.1600
+  35.8300, -102.0200
+  35.5900, -101.8000
+  35.4200, -102.1800
+  35.5600, -102.3100
+  35.6300, -102.2400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 9 at 5:10PM CDT by NWS Topeka KS\nExpires: 2026-04-09 22:45 Z\nAt 510 PM CDT, Doppler radar was tracking a strong thunderstorm near Eskridge, moving northeast at 30 mph.  HAZARD...Strong wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eskridge, Dover, Willard, and Keene.  This includes Interstate 70 between mile markers 342 and 349.\nGenerated: 2026-04-09 22:15:14 UTC"
+  38.7800, -96.1900
+  38.8600, -96.2900
+  39.1100, -95.9600
+  38.9600, -95.7600
+  38.7800, -96.1900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 9 at 3:06PM PDT by NWS Medford OR\nExpires: 2026-04-09 22:30 Z\nAt 305 PM PDT, Doppler radar was tracking a strong thunderstorm near Myrtle Creek, or 11 miles southeast of Roseburg, moving north at 20 mph.  HAZARD...Winds in excess of 30 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roseburg, Myrtle Creek, Roseburg North, Glide, and Tri-City.\nGenerated: 2026-04-09 22:15:14 UTC"
   43.0100, -123.1500
   43.0200, -123.3600
   43.3200, -123.3300
@@ -14,7 +44,7 @@ Line: 2,,"Special Weather Statement issued April 9 at 3:06PM PDT by NWS Medford 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 2:57PM PDT by NWS Eureka CA\nExpires: 2026-04-09 22:30 Z\nAt 257 PM PDT, Doppler radar was tracking a strong thunderstorm near Peanut, or 9 miles south of Hayfork, moving north at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Hayfork, Peanut and Douglas City.\nGenerated: 2026-04-09 22:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 9 at 2:57PM PDT by NWS Eureka CA\nExpires: 2026-04-09 22:30 Z\nAt 257 PM PDT, Doppler radar was tracking a strong thunderstorm near Peanut, or 9 miles south of Hayfork, moving north at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Hayfork, Peanut and Douglas City.\nGenerated: 2026-04-09 22:15:14 UTC"
   40.4100, -123.1900
   40.6400, -123.2400
   40.6500, -122.9300
@@ -28,7 +58,7 @@ Line: 2,,"Special Weather Statement issued April 9 at 2:57PM PDT by NWS Eureka C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 2:55PM PDT by NWS Eureka CA\nExpires: 2026-04-09 22:30 Z\nAt 255 PM PDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Del Loma, or 17 miles northwest of Hayfork, moving northwest at 20 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Willow Creek, Burnt Ranch and Del Loma.\nGenerated: 2026-04-09 22:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 9 at 2:55PM PDT by NWS Eureka CA\nExpires: 2026-04-09 22:30 Z\nAt 255 PM PDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Del Loma, or 17 miles northwest of Hayfork, moving northwest at 20 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Willow Creek, Burnt Ranch and Del Loma.\nGenerated: 2026-04-09 22:15:14 UTC"
   40.7000, -123.5400
   40.8600, -123.6700
   40.9600, -123.4000
@@ -38,39 +68,10 @@ Line: 2,,"Special Weather Statement issued April 9 at 2:55PM PDT by NWS Eureka C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 4:52PM CDT by NWS Topeka KS\nExpires: 2026-04-09 22:15 Z\nAt 452 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles south of Alma, moving northeast at 40 mph.  HAZARD...Strong wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Alma, Maple Hill, McFarland, and Paxico.  This includes Interstate 70 between mile markers 331 and 345.\nGenerated: 2026-04-09 22:10:15 UTC"
-  38.8900, -96.3200
-  38.9300, -96.3900
-  39.1700, -96.1200
-  39.0600, -95.9500
-  39.0000, -95.9500
-  38.8900, -96.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 4:42PM CDT by NWS Midland/Odessa TX\nExpires: 2026-04-09 22:30 Z\nAt 441 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Barstow, or 12 miles southeast of Pecos, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... B F Goodrich Testing Track.\nGenerated: 2026-04-09 22:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 9 at 4:42PM CDT by NWS Midland/Odessa TX\nExpires: 2026-04-09 22:30 Z\nAt 441 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Barstow, or 12 miles southeast of Pecos, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... B F Goodrich Testing Track.\nGenerated: 2026-04-09 22:15:14 UTC"
   31.2400, -103.3900
   31.3700, -103.4200
   31.4700, -103.1500
   31.1700, -103.1100
   31.2400, -103.3900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 9 at 2:39PM PDT by NWS Eureka CA\nExpires: 2026-04-09 22:15 Z\nAt 239 PM PDT, Doppler radar was tracking a strong thunderstorm near Weaverville, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Weaverville.\nGenerated: 2026-04-09 22:10:15 UTC"
-  40.7500, -123.0000
-  41.0100, -123.0400
-  41.0000, -123.0200
-  41.0100, -123.0100
-  41.0100, -122.9500
-  40.9900, -122.9400
-  41.0000, -122.9200
-  40.9900, -122.9200
-  41.0000, -122.9100
-  41.0100, -122.9100
-  41.0100, -122.9000
-  41.0200, -122.9000
-  41.0300, -122.7300
-  40.7500, -122.7600
-  40.7500, -123.0000
 End:
