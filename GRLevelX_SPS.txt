@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-10 22:55:11 UTC
+; Generated: 2026-04-10 23:00:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:54PM PDT by NWS San Francisco CA\nExpires: 2026-04-10 23:30 Z\nAt 354 PM PDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Hollister, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible. Hail may accumulate on roadways causing hazardous travel.  Locations impacted include... Northeastern Hollister.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 5:55PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-10 23:30 Z\nAt 554 PM CDT, Doppler radar was tracking a strong thunderstorm near Palmeto State Park, or 7 miles west of Gonzales, moving northwest at 10 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gonzales, Luling, Palmeto State Park, Oak Forest, Ottine, Belmont, Bebe, Monthalia, and Cost.\nGenerated: 2026-04-10 23:00:14 UTC"
+  29.4800, -97.4300
+  29.3900, -97.6100
+  29.5200, -97.8500
+  29.7300, -97.5300
+  29.4800, -97.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 10 at 3:54PM PDT by NWS San Francisco CA\nExpires: 2026-04-10 23:30 Z\nAt 354 PM PDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Hollister, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible. Hail may accumulate on roadways causing hazardous travel.  Locations impacted include... Northeastern Hollister.\nGenerated: 2026-04-10 23:00:14 UTC"
   37.0200, -121.4200
   37.1000, -121.2900
   37.0500, -121.2200
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:54PM PDT by NWS San Fra
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:48PM PDT by NWS Eureka CA\nExpires: 2026-04-10 23:15 Z\nAt 348 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Clearlake, or 16 miles northeast of Middletown, moving northeast at 20 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of East Central Lake County.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:48PM PDT by NWS Eureka CA\nExpires: 2026-04-10 23:15 Z\nAt 348 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Clearlake, or 16 miles northeast of Middletown, moving northeast at 20 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of East Central Lake County.\nGenerated: 2026-04-10 23:00:14 UTC"
   38.9800, -122.6400
   39.1700, -122.4800
   39.1600, -122.4800
@@ -48,7 +57,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:48PM PDT by NWS Eureka 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:41PM PDT by NWS Elko NV\nExpires: 2026-04-10 23:15 Z\nAt 341 PM PDT, Doppler radar was tracking a strong thunderstorm near Kings River Valley, moving north at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kings River Valley and Thacker Pass.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:41PM PDT by NWS Elko NV\nExpires: 2026-04-10 23:15 Z\nAt 341 PM PDT, Doppler radar was tracking a strong thunderstorm near Kings River Valley, moving north at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kings River Valley and Thacker Pass.\nGenerated: 2026-04-10 23:00:14 UTC"
   41.4900, -118.0800
   41.5800, -118.3000
   41.9700, -118.1800
@@ -57,7 +66,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:41PM PDT by NWS Elko NV
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 5:38PM CDT by NWS Tulsa OK\nExpires: 2026-04-10 23:15 Z\nAt 538 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles southwest of Gans to 2 miles northeast of Panama. Movement was north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea to dime size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Scullyville...                    Cameron... Pocola...                         Braden... Spiro...                          Cowlington... Shady Point...                    Panama... Cottonwood...                     Muldrow... Gans...                           Rock Island... Poteau...                         Sallisaw...  This includes Interstate 40 in Oklahoma between mile markers 307 and 322.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 5:38PM CDT by NWS Tulsa OK\nExpires: 2026-04-10 23:15 Z\nAt 538 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles southwest of Gans to 2 miles northeast of Panama. Movement was north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea to dime size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Scullyville...                    Cameron... Pocola...                         Braden... Spiro...                          Cowlington... Shady Point...                    Panama... Cottonwood...                     Muldrow... Gans...                           Rock Island... Poteau...                         Sallisaw...  This includes Interstate 40 in Oklahoma between mile markers 307 and 322.\nGenerated: 2026-04-10 23:00:14 UTC"
   35.0600, -94.6200
   35.4100, -94.8400
   35.5900, -94.6100
@@ -67,7 +76,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 5:38PM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:37PM PDT by NWS Reno NV\nExpires: 2026-04-10 23:15 Z\nAt 337 PM PDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Trinity Junction, or 22 miles north of Fallon, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Trinity Junction, Desert Peak, and Junction I 80 And U.S 95 (exit 83).\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:37PM PDT by NWS Reno NV\nExpires: 2026-04-10 23:15 Z\nAt 337 PM PDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Trinity Junction, or 22 miles north of Fallon, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Trinity Junction, Desert Peak, and Junction I 80 And U.S 95 (exit 83).\nGenerated: 2026-04-10 23:00:14 UTC"
   39.7200, -118.6700
   39.7200, -118.9400
   40.0900, -119.0200
@@ -76,7 +85,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:37PM PDT by NWS Reno NV
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 4:32PM MDT by NWS Albuquerque NM\nExpires: 2026-04-10 23:00 Z\nAt 432 PM MDT, Doppler radar was tracking a strong thunderstorm near Cannon Air Force Base, or 9 miles west of Clovis, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis, Ranchvale, Cannon Air Force Base, Portair and Pleasant Hill.  This includes Highway 60 between Mile Markers 372 and 390.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 4:32PM MDT by NWS Albuquerque NM\nExpires: 2026-04-10 23:00 Z\nAt 432 PM MDT, Doppler radar was tracking a strong thunderstorm near Cannon Air Force Base, or 9 miles west of Clovis, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis, Ranchvale, Cannon Air Force Base, Portair and Pleasant Hill.  This includes Highway 60 between Mile Markers 372 and 390.\nGenerated: 2026-04-10 23:00:14 UTC"
   34.3000, -103.4500
   34.3100, -103.4700
   34.3900, -103.4900
@@ -88,7 +97,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 4:32PM MDT by NWS Albuque
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:32PM PDT by NWS Hanford CA\nExpires: 2026-04-10 23:00 Z\nAt 332 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Oakhurst to 7 miles west of Chowchilla. Movement was north at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Merced, Yosemite South Entrance, Chowchilla, Oakhurst, Yosemite Lakes, Bootjack, Mariposa, Planada, Le Grand, Batterson, Merced Lake Ranger Station, Crane Valley Reservoir, Bass Lake Ranger District, Chilkoot Meadow, Fish Camp, Catheys Valley, Ostrander Lake, Coarsegold, Jerseydale, and Metcalf Gap.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:32PM PDT by NWS Hanford CA\nExpires: 2026-04-10 23:00 Z\nAt 332 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Oakhurst to 7 miles west of Chowchilla. Movement was north at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Merced, Yosemite South Entrance, Chowchilla, Oakhurst, Yosemite Lakes, Bootjack, Mariposa, Planada, Le Grand, Batterson, Merced Lake Ranger Station, Crane Valley Reservoir, Bass Lake Ranger District, Chilkoot Meadow, Fish Camp, Catheys Valley, Ostrander Lake, Coarsegold, Jerseydale, and Metcalf Gap.\nGenerated: 2026-04-10 23:00:14 UTC"
   37.7700, -119.2900
   37.4400, -120.4600
   36.9300, -120.4200
@@ -97,7 +106,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:32PM PDT by NWS Hanford
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 5:26PM CDT by NWS Norman OK\nExpires: 2026-04-10 23:00 Z\nAt 525 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of Johnson, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Seminole, Johnson, and Little.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 5:26PM CDT by NWS Norman OK\nExpires: 2026-04-10 23:00 Z\nAt 525 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of Johnson, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Seminole, Johnson, and Little.\nGenerated: 2026-04-10 23:00:14 UTC"
   35.2200, -96.7100
   35.3500, -96.8800
   35.4600, -96.8200
@@ -108,7 +117,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 5:26PM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:26PM PDT by NWS Medford OR\nExpires: 2026-04-10 23:00 Z\nAt 326 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Eagleview Campground, or 18 miles northwest of Sutherlin, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elkton.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:26PM PDT by NWS Medford OR\nExpires: 2026-04-10 23:00 Z\nAt 326 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Eagleview Campground, or 18 miles northwest of Sutherlin, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elkton.\nGenerated: 2026-04-10 23:00:14 UTC"
   43.4800, -123.5300
   43.5000, -123.7000
   43.8200, -123.6500
@@ -117,7 +126,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:26PM PDT by NWS Medford
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 6:19PM EDT by NWS Albany NY\nExpires: 2026-04-10 23:00 Z\nAt 616 PM EDT, Doppler radar was tracking gusty winds ahead of an area of showers along a line extending from 6 miles southeast of Northampton Beach Public Campground to near Delanson to Richmondville. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albany, Schenectady, Troy, Clifton Park, Rotterdam, Saratoga Springs, Amsterdam, Cohoes, Watervliet, Colonie, Scotia, Mechanicville, Cobleskill, Delmar, Latham, Guilderland, Glenville, Niskayuna, Duanesburg, and Ballston Spa.  This includes the following highways... Interstate 88 between exits 20 and 25. Interstate 90 between exits 6A and 27. Interstate 890 between exits 1a and 9. Interstate 87 between exits 23 and 7, and between exits 8A and 15. Interstate 787 between exits 5 and 9.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 6:19PM EDT by NWS Albany NY\nExpires: 2026-04-10 23:00 Z\nAt 616 PM EDT, Doppler radar was tracking gusty winds ahead of an area of showers along a line extending from 6 miles southeast of Northampton Beach Public Campground to near Delanson to Richmondville. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albany, Schenectady, Troy, Clifton Park, Rotterdam, Saratoga Springs, Amsterdam, Cohoes, Watervliet, Colonie, Scotia, Mechanicville, Cobleskill, Delmar, Latham, Guilderland, Glenville, Niskayuna, Duanesburg, and Ballston Spa.  This includes the following highways... Interstate 88 between exits 20 and 25. Interstate 90 between exits 6A and 27. Interstate 890 between exits 1a and 9. Interstate 87 between exits 23 and 7, and between exits 8A and 15. Interstate 787 between exits 5 and 9.\nGenerated: 2026-04-10 23:00:14 UTC"
   42.6200, -74.6300
   42.6400, -74.6300
   42.8300, -74.2900
@@ -130,7 +139,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 6:19PM EDT by NWS Albany 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 4:15PM MDT by NWS Pocatello ID\nExpires: 2026-04-10 23:00 Z\nAt 415 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles southeast of Carey, moving north at 15 mph.  HAZARD...Wind gusts in excess of 35 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Carey, Craters Of The Moon, and Laidlaw Corrals Airport.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 4:15PM MDT by NWS Pocatello ID\nExpires: 2026-04-10 23:00 Z\nAt 415 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles southeast of Carey, moving north at 15 mph.  HAZARD...Wind gusts in excess of 35 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Carey, Craters Of The Moon, and Laidlaw Corrals Airport.\nGenerated: 2026-04-10 23:00:14 UTC"
   42.8100, -113.5500
   42.9700, -114.0900
   43.5800, -113.8600
@@ -139,7 +148,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 4:15PM MDT by NWS Pocatel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 6:06PM EDT by NWS Burlington VT\nExpires: 2026-04-10 23:00 Z\nAt 606 PM EDT, Doppler radar was tracking gusty showers along a line extending from Mt. Philo State Park to Chestertown. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Barre, Westport Village, Rutland, Montpelier, Middlebury, Port Henry, Vergennes, Braintree Hill, Killington, Salisbury, Rutland City, Waterbury Village, Websterville, Orwell, Rutland - Southern Vermont Airport, Middlesex, Marshfield, Ira, Addison, and Washington.  This includes the following highways... Interstate 87 near mile marker 95, and between mile markers 117 and 118. Interstate 89 between mile markers 23 and 63.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 6:06PM EDT by NWS Burlington VT\nExpires: 2026-04-10 23:00 Z\nAt 606 PM EDT, Doppler radar was tracking gusty showers along a line extending from Mt. Philo State Park to Chestertown. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Barre, Westport Village, Rutland, Montpelier, Middlebury, Port Henry, Vergennes, Braintree Hill, Killington, Salisbury, Rutland City, Waterbury Village, Websterville, Orwell, Rutland - Southern Vermont Airport, Middlesex, Marshfield, Ira, Addison, and Washington.  This includes the following highways... Interstate 87 near mile marker 95, and between mile markers 117 and 118. Interstate 89 between mile markers 23 and 63.\nGenerated: 2026-04-10 23:00:14 UTC"
   43.5300, -73.2400
   43.5600, -73.2600
   43.5800, -73.3000
@@ -160,7 +169,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 6:06PM EDT by NWS Burling
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:59PM MDT by NWS Boise ID\nExpires: 2026-04-10 23:00 Z\nAt 359 PM MDT, Doppler radar was tracking a strong thunderstorm near Monument Butte, or 39 miles southwest of Glenns Ferry, moving north at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Lookout Butte around 410 PM MDT. Winter Camp Butte around 420 PM MDT. Pot Hole Butte around 430 PM MDT.\nGenerated: 2026-04-10 22:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:59PM MDT by NWS Boise ID\nExpires: 2026-04-10 23:00 Z\nAt 359 PM MDT, Doppler radar was tracking a strong thunderstorm near Monument Butte, or 39 miles southwest of Glenns Ferry, moving north at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Lookout Butte around 410 PM MDT. Winter Camp Butte around 420 PM MDT. Pot Hole Butte around 430 PM MDT.\nGenerated: 2026-04-10 23:00:14 UTC"
   42.3500, -115.5100
   42.4000, -115.7500
   42.9200, -115.6900
