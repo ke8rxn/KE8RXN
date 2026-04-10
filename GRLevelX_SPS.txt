@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-10 20:25:14 UTC
+; Generated: 2026-04-10 20:30:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 2:22PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-04-10 20:45 Z\nAt 222 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Northrup Landing, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northrup Landing.\nGenerated: 2026-04-10 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 1:25PM PDT by NWS Elko NV\nExpires: 2026-04-10 21:00 Z\nAt 124 PM PDT, Doppler radar was tracking a strong thunderstorm 28 miles north of New Pass Summit, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Antelope Valley.\nGenerated: 2026-04-10 20:30:18 UTC"
+  40.0900, -117.5000
+  40.4100, -117.3600
+  40.3200, -116.9900
+  39.9200, -117.3000
+  39.9600, -117.5100
+  39.9700, -117.5200
+  40.0900, -117.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 10 at 2:22PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-04-10 20:45 Z\nAt 222 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Northrup Landing, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northrup Landing.\nGenerated: 2026-04-10 20:30:18 UTC"
   32.7900, -106.4900
   32.8200, -106.6700
   33.1600, -106.5200
@@ -14,7 +25,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 2:22PM MDT by NWS El Paso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:21PM CDT by NWS Tulsa OK\nExpires: 2026-04-10 20:45 Z\nAt 320 PM CDT, Doppler radar indicated a strong thunderstorm near Slick, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Beggs...                          Mounds... Slick...                          Liberty...  This includes Interstate 44 near mile marker 194.\nGenerated: 2026-04-10 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:21PM CDT by NWS Tulsa OK\nExpires: 2026-04-10 20:45 Z\nAt 320 PM CDT, Doppler radar indicated a strong thunderstorm near Slick, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Beggs...                          Mounds... Slick...                          Liberty...  This includes Interstate 44 near mile marker 194.\nGenerated: 2026-04-10 20:30:18 UTC"
   35.8700, -96.3600
   35.9200, -96.0300
   35.8600, -96.0300
@@ -25,7 +36,7 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:21PM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 3:20PM CDT by NWS Amarillo TX\nExpires: 2026-04-10 21:00 Z\nAt 320 PM CDT, Doppler radar was tracking a strong thunderstorm near Conlen, or 14 miles southwest of Stratford, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dalhart, Stratford, and Conlen.\nGenerated: 2026-04-10 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 3:20PM CDT by NWS Amarillo TX\nExpires: 2026-04-10 21:00 Z\nAt 320 PM CDT, Doppler radar was tracking a strong thunderstorm near Conlen, or 14 miles southwest of Stratford, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dalhart, Stratford, and Conlen.\nGenerated: 2026-04-10 20:30:18 UTC"
   35.9900, -102.5600
   36.1100, -102.6300
   36.3800, -102.0500
@@ -34,35 +45,11 @@ Line: 2,,"Special Weather Statement issued April 10 at 3:20PM CDT by NWS Amarill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 2:15PM MDT by NWS Albuquerque NM\nExpires: 2026-04-10 20:45 Z\nAt 215 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Tinnie, or 28 miles southeast of Ruidoso, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Southeastern Lincoln and West Central Chaves Counties.\nGenerated: 2026-04-10 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued April 10 at 2:15PM MDT by NWS Albuquerque NM\nExpires: 2026-04-10 20:45 Z\nAt 215 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Tinnie, or 28 miles southeast of Ruidoso, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Southeastern Lincoln and West Central Chaves Counties.\nGenerated: 2026-04-10 20:30:18 UTC"
   33.1300, -105.2600
   33.1800, -105.3200
   33.3800, -105.1700
   33.2700, -104.9500
   33.0600, -105.1800
   33.1300, -105.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 1:05PM PDT by NWS Hanford CA\nExpires: 2026-04-10 20:30 Z\nAt 104 PM PDT, Doppler radar was tracking a strong thunderstorm 10 miles southeast of Smith Station, or 24 miles northwest of Yosemite South Entrance, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central Mariposa and southwestern Tuolumne Counties.\nGenerated: 2026-04-10 20:25:14 UTC"
-  37.7900, -119.9700
-  37.7600, -119.9400
-  37.7600, -119.9100
-  37.6400, -119.9100
-  37.6300, -120.0700
-  37.7800, -120.1200
-  37.8300, -120.0800
-  37.7900, -119.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 10 at 1:40PM MDT by NWS Albuquerque NM\nExpires: 2026-04-10 20:30 Z\nAt 140 PM MDT, Doppler radar was tracking a strong thunderstorm near Vaughn, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Vaughn.  This includes the following highways... Highway 285 between Mile Markers 199 and 204. Highway 60 between Mile Markers 264 and 278.\nGenerated: 2026-04-10 20:25:14 UTC"
-  34.4900, -105.1800
-  34.5600, -105.3100
-  34.6100, -105.3100
-  34.6100, -105.2900
-  34.6600, -105.2900
-  34.8200, -105.1200
-  34.6600, -104.8900
-  34.4900, -105.1800
 End:
