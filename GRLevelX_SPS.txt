@@ -3,9 +3,64 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-12 06:00:17 UTC
+; Generated: 2026-04-12 06:05:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 12:44AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-12 06:45 Z\nAt 1244 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles southeast of Segovia to 12 miles north of Alamo Village. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocksprings, Vance, Barksdale, Alamo Village, Devil's Sinkhole State Natural Area, and Kickapoo Cavern State Park.\nGenerated: 2026-04-12 06:00:17 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 11:03PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 06:30 Z\nAt 1103 PM PDT, Doppler radar was tracking an area of strong thunderstorms near Woodside, or 8 miles south of San Carlos, moving northeast at 35 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Hail may accumulate on roadways causing hazardous travel.  Locations impacted include... Redwood City, Mountain View, Palo Alto, Menlo Park, East Palo Alto, Los Altos Hills, Atherton, Woodside, Stanford, North Fair Oaks, Portola Valley, West Menlo Park and Emerald Lake Hills.\nGenerated: 2026-04-12 06:05:11 UTC"
+  37.3100, -122.4000
+  37.3600, -122.4100
+  37.4900, -122.2200
+  37.5100, -122.2000
+  37.5000, -122.1900
+  37.5200, -122.2000
+  37.5200, -122.1900
+  37.4800, -122.1500
+  37.4900, -122.1400
+  37.5000, -122.1600
+  37.5100, -122.1300
+  37.4700, -122.1200
+  37.4600, -122.1000
+  37.4800, -122.0800
+  37.4500, -122.0500
+  37.2600, -122.3500
+  37.3100, -122.4000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 11 at 11:01PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 06:30 Z\nAt 1101 PM PDT, Doppler radar was tracking a strong thunderstorm near Alameda, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible. Hail may accumulate on roadways causing hazardous travel.  Locations impacted include... Oakland, Orinda, Moraga and Moraga Town.\nGenerated: 2026-04-12 06:05:11 UTC"
+  37.7600, -122.2200
+  37.7700, -122.2200
+  37.8800, -122.1600
+  37.8000, -122.0500
+  37.7200, -122.2000
+  37.7300, -122.2100
+  37.7600, -122.2100
+  37.7600, -122.2200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 12 at 1:00AM CDT by NWS San Angelo TX\nExpires: 2026-04-12 06:45 Z\nAt 1259 AM CDT, Doppler radar was tracking a strong thunderstorm near Richland Springs, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... San Saba, Richland Springs, Algerita, Skeeterville, Sloan, Regency, Harkeyville, Locker, Spring Creek, and Us-190 Near The San Saba- Lampasas County Line.\nGenerated: 2026-04-12 06:05:11 UTC"
+  31.1700, -98.5400
+  31.1100, -98.9800
+  31.3800, -99.0500
+  31.4500, -98.9400
+  31.4400, -98.8700
+  31.4100, -98.8400
+  31.4100, -98.7800
+  31.3700, -98.7600
+  31.4300, -98.7300
+  31.4100, -98.7200
+  31.4000, -98.6900
+  31.3400, -98.7000
+  31.3700, -98.6600
+  31.3100, -98.6400
+  31.3200, -98.5900
+  31.2700, -98.6300
+  31.2600, -98.5800
+  31.1700, -98.5400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 12 at 12:44AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-12 06:45 Z\nAt 1244 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles southeast of Segovia to 12 miles north of Alamo Village. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocksprings, Vance, Barksdale, Alamo Village, Devil's Sinkhole State Natural Area, and Kickapoo Cavern State Park.\nGenerated: 2026-04-12 06:05:11 UTC"
   30.2800, -99.4700
   29.6200, -100.0900
   29.6200, -100.1100
@@ -18,7 +73,7 @@ Line: 2,,"Special Weather Statement issued April 12 at 12:44AM CDT by NWS Austin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 10:42PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 06:15 Z\nAt 1042 PM PDT, Doppler radar was tracking a strong thunderstorm near Half Moon Bay, or 8 miles southwest of Belmont, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Mateo, Redwood City, Foster City, San Carlos, Belmont, Half Moon Bay, Hillsborough, Atherton, Woodside, Highlands-Baywood Park, North Fair Oaks, Highlands and Emerald Lake Hills.\nGenerated: 2026-04-12 06:00:17 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 10:42PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 06:15 Z\nAt 1042 PM PDT, Doppler radar was tracking a strong thunderstorm near Half Moon Bay, or 8 miles southwest of Belmont, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Mateo, Redwood City, Foster City, San Carlos, Belmont, Half Moon Bay, Hillsborough, Atherton, Woodside, Highlands-Baywood Park, North Fair Oaks, Highlands and Emerald Lake Hills.\nGenerated: 2026-04-12 06:05:11 UTC"
   37.3600, -122.4000
   37.3900, -122.4200
   37.4400, -122.4400
@@ -42,7 +97,7 @@ Line: 2,,"Special Weather Statement issued April 11 at 10:42PM PDT by NWS San Fr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 10:38PM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-04-12 06:15 Z\nAt 1035 PM PDT, Doppler radar was tracking gusty showers that will move into and across northwest Santa Barbara and western and southern San Luis Obispo Counties. Movement of this activity was east to northeast at around 30 mph.  HAZARD...Wind gusts of 50 to 55 mph. While not likely, there is a remote chance for a brief, weak tornado to develop.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... San Luis Obispo... Pismo Beach... Arroyo Grande... Nipomo... Grover Beach... Oceano... Avila Beach... Diablo Canyon... Shell Beach... and Baywood-Los Osos.\nGenerated: 2026-04-12 06:00:17 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 10:38PM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-04-12 06:15 Z\nAt 1035 PM PDT, Doppler radar was tracking gusty showers that will move into and across northwest Santa Barbara and western and southern San Luis Obispo Counties. Movement of this activity was east to northeast at around 30 mph.  HAZARD...Wind gusts of 50 to 55 mph. While not likely, there is a remote chance for a brief, weak tornado to develop.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... San Luis Obispo... Pismo Beach... Arroyo Grande... Nipomo... Grover Beach... Oceano... Avila Beach... Diablo Canyon... Shell Beach... and Baywood-Los Osos.\nGenerated: 2026-04-12 06:05:11 UTC"
   35.3000, -120.8800
   35.3300, -120.7900
   35.1800, -120.5000
@@ -60,28 +115,7 @@ Line: 2,,"Special Weather Statement issued April 11 at 10:38PM PDT by NWS Los An
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 10:28PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 06:00 Z\nAt 1028 PM PDT, Doppler radar was tracking a shower over San Francisco, moving northeast at 45 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... San Francisco.\nGenerated: 2026-04-12 06:00:17 UTC"
-  37.7800, -122.5100
-  37.7900, -122.4900
-  37.8100, -122.4800
-  37.8000, -122.4600
-  37.8000, -122.4100
-  37.8100, -122.4100
-  37.7900, -122.3900
-  37.7500, -122.3800
-  37.7500, -122.3900
-  37.7400, -122.3800
-  37.7300, -122.3800
-  37.7400, -122.3700
-  37.7200, -122.3600
-  37.7200, -122.3900
-  37.7100, -122.3800
-  37.7100, -122.5000
-  37.7800, -122.5100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 12:28AM CDT by NWS San Angelo TX\nExpires: 2026-04-12 06:30 Z\nAt 1228 AM CDT, Doppler radar was tracking a strong thunderstorm near Segovia, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Junction, Mason, Cherokee, Castell, Art, Loyal Valley, Yates Crossing, Saline, Streeter, Hilda, Colorado Bend State Park, Grit, Pontotoc, Segovia, Hedwigs Hill, Long Mountain, London, Us- 377 Near The Kimble- Menard County Line, The Intersection Of Highway 29 And Ranch Road 1222, and Us-83 Near The Kimble-Menard County Line.  This includes Interstate 10 between Mile Markers 456 and 477.\nGenerated: 2026-04-12 06:00:17 UTC"
+Line: 2,,"Special Weather Statement issued April 12 at 12:28AM CDT by NWS San Angelo TX\nExpires: 2026-04-12 06:30 Z\nAt 1228 AM CDT, Doppler radar was tracking a strong thunderstorm near Segovia, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Junction, Mason, Cherokee, Castell, Art, Loyal Valley, Yates Crossing, Saline, Streeter, Hilda, Colorado Bend State Park, Grit, Pontotoc, Segovia, Hedwigs Hill, Long Mountain, London, Us- 377 Near The Kimble- Menard County Line, The Intersection Of Highway 29 And Ranch Road 1222, and Us-83 Near The Kimble-Menard County Line.  This includes Interstate 10 between Mile Markers 456 and 477.\nGenerated: 2026-04-12 06:05:11 UTC"
   30.7700, -99.8200
   31.0600, -98.4800
   31.0300, -98.4400
@@ -94,29 +128,4 @@ Line: 2,,"Special Weather Statement issued April 12 at 12:28AM CDT by NWS San An
   30.2900, -99.3000
   30.2900, -99.7400
   30.7700, -99.8200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 12:07AM CDT by NWS San Angelo TX\nExpires: 2026-04-12 06:00 Z\nAt 1207 AM CDT, Doppler radar was tracking a strong thunderstorm near Brady Lake, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brady, San Saba, Richland Springs, Algerita, Brady Lake, Bend, Sloan, Camp San Saba, Rochelle, Calf Creek, Skeeterville, Placid, Voca, Hall, Locker, The Intersection Of Us- 190 And Ranch Road 1311, Harkeyville, Spring Creek, Us- 190 Near The Mcculloch-San Saba County Line, and Regency.\nGenerated: 2026-04-12 06:00:17 UTC"
-  30.9400, -99.4200
-  30.9400, -99.4700
-  31.1700, -99.5700
-  31.4600, -98.9400
-  31.4100, -98.8400
-  31.4100, -98.7800
-  31.3700, -98.7600
-  31.4300, -98.7300
-  31.4000, -98.6900
-  31.3400, -98.7000
-  31.3700, -98.6600
-  31.3100, -98.6400
-  31.3300, -98.5900
-  31.2700, -98.6300
-  31.2600, -98.5800
-  31.2000, -98.5700
-  31.1600, -98.5000
-  31.1200, -98.5500
-  31.1100, -98.4600
-  31.0900, -98.4600
-  30.9400, -99.4200
 End:
