@@ -3,9 +3,42 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-12 01:30:12 UTC
+; Generated: 2026-04-12 01:35:09 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 8:12PM CDT by NWS Amarillo TX\nExpires: 2026-04-12 01:45 Z\nAt 812 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Stratford, moving northeast at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stratford and Texhoma.\nGenerated: 2026-04-12 01:30:12 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 6:32PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 02:15 Z\nAt 632 PM PDT, Radar reported a line of showers extending from over Antioch to over Alum Rock, or extending from over Antioch to near Milpitas, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Public reported.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fremont, Concord, Antioch, Livermore, Pleasanton, Pittsburg, Dublin, Danville, Oakley, Brentwood, Discovery Bay, Clayton, Byron, Blackhawk-Camino Tassajara, Blackhawk, Sunol, Knightsen and West Pittsburg Cdp.\nGenerated: 2026-04-12 01:35:09 UTC"
+  37.7000, -121.9100
+  38.0500, -121.9800
+  38.0500, -121.8600
+  38.0400, -121.8900
+  38.0000, -121.7100
+  38.0100, -121.7100
+  38.0100, -121.6800
+  38.0300, -121.7300
+  38.0900, -121.6700
+  38.0900, -121.5800
+  37.9200, -121.5600
+  37.8600, -121.5800
+  37.8500, -121.5400
+  37.5400, -121.5600
+  37.5200, -121.5000
+  37.4800, -121.5100
+  37.4900, -121.9600
+  37.7000, -121.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 11 at 7:30PM MDT by NWS Boise ID\nExpires: 2026-04-12 02:15 Z\nAt 730 PM MDT, Doppler radar was tracking a strong thunderstorm over Hagerman, or 10 miles southwest of Gooding, moving northeast at 20 mph.  HAZARD...Pea size hail. Wind gusts to 30 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Gooding around 750 PM MDT.\nGenerated: 2026-04-12 01:35:09 UTC"
+  42.7000, -114.8300
+  42.8400, -114.9900
+  43.1100, -114.6600
+  43.0600, -114.5900
+  42.8600, -114.6000
+  42.8400, -114.5400
+  42.7000, -114.8300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 11 at 8:12PM CDT by NWS Amarillo TX\nExpires: 2026-04-12 01:45 Z\nAt 812 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Stratford, moving northeast at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stratford and Texhoma.\nGenerated: 2026-04-12 01:35:09 UTC"
   36.5000, -101.8000
   36.4600, -101.7200
   36.1700, -102.0600
@@ -16,7 +49,7 @@ Line: 2,,"Special Weather Statement issued April 11 at 8:12PM CDT by NWS Amarill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 7:10PM MDT by NWS Riverton WY\nExpires: 2026-04-12 01:45 Z\nAt 709 PM MDT, Doppler radar was tracking a strong thunderstorm near Paintrock Canyon, which is 21 miles north of Ten Sleep, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Upper Medicine Lodge Lake around 715 PM MDT.\nGenerated: 2026-04-12 01:30:12 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 7:10PM MDT by NWS Riverton WY\nExpires: 2026-04-12 01:45 Z\nAt 709 PM MDT, Doppler radar was tracking a strong thunderstorm near Paintrock Canyon, which is 21 miles north of Ten Sleep, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Upper Medicine Lodge Lake around 715 PM MDT.\nGenerated: 2026-04-12 01:35:09 UTC"
   44.5600, -107.3700
   44.5600, -106.9700
   44.2200, -107.2900
@@ -30,38 +63,7 @@ Line: 2,,"Special Weather Statement issued April 11 at 7:10PM MDT by NWS Riverto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 5:58PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 01:30 Z\nAt 558 PM PDT, Doppler radar was tracking a line of showers and embedded thunderstorms extending from the west Delta to near Hayward, moving northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph and heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oakland, Fremont, Hayward, Concord, Antioch, San Leandro, Livermore, San Ramon, Pleasanton, Union City, Walnut Creek, Pittsburg, Dublin, Newark, Danville, Martinez, Oakley, Pleasant Hill and Lafayette.\nGenerated: 2026-04-12 01:30:12 UTC"
-  38.0200, -122.1500
-  38.0600, -122.0200
-  38.0600, -122.0100
-  38.0500, -122.0200
-  38.0000, -121.7100
-  38.0200, -121.7000
-  38.0300, -121.7300
-  38.0900, -121.6700
-  38.0900, -121.5800
-  37.8600, -121.5800
-  37.8500, -121.5400
-  37.6800, -121.5600
-  37.4800, -122.0300
-  37.5000, -122.1100
-  37.6700, -122.1600
-  37.7100, -122.2100
-  38.0600, -122.2300
-  38.0200, -122.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 6:47PM MDT by NWS Goodland KS\nExpires: 2026-04-12 01:30 Z\nAt 647 PM MDT/747 PM CDT/, Doppler radar was tracking gusty showers along a line extending from near Bird City to Wallace. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Bird City around 750 PM CDT. Wallace around 650 PM MDT. McDonald around 755 PM CDT. Brewster around 800 PM CDT.  This includes Interstate 70 in Kansas between mile markers 21 and 70.\nGenerated: 2026-04-12 01:30:12 UTC"
-  39.7900, -100.8700
-  38.7200, -100.8700
-  38.7100, -101.6800
-  39.7800, -101.6500
-  39.7900, -100.8700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 7:43PM CDT by NWS San Angelo TX\nExpires: 2026-04-12 01:45 Z\nAt 742 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southeast of Ft Lancaster to near Pandale. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ozona, The Intersection Of Ranch Road 2083 And Highway 405, Ft Lancaster, The Intersection Of I-10 And Highway 405, and The Intersection Of Highway 163 And Ranch Road 1973.  This includes Interstate 10 between Mile Markers 345 and 369.\nGenerated: 2026-04-12 01:30:12 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 7:43PM CDT by NWS San Angelo TX\nExpires: 2026-04-12 01:45 Z\nAt 742 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southeast of Ft Lancaster to near Pandale. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ozona, The Intersection Of Ranch Road 2083 And Highway 405, Ft Lancaster, The Intersection Of I-10 And Highway 405, and The Intersection Of Highway 163 And Ranch Road 1973.  This includes Interstate 10 between Mile Markers 345 and 369.\nGenerated: 2026-04-12 01:35:09 UTC"
   30.2900, -101.7600
   30.3400, -101.7100
   30.3400, -101.6600
