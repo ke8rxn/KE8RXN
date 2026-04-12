@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-12 22:15:11 UTC
+; Generated: 2026-04-12 22:20:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 4:11PM MDT by NWS Pocatello ID\nExpires: 2026-04-12 23:00 Z\nAt 410 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles north of Northwest Inl to Egin. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rexburg, Ashton, Dubois, Idmon, Terreton, Marysville, Sugar City, Teton, Mud Lake, Parker, Hamer, Spencer, Shotgun Village, Egin, Ponds Lodge, Kilgore, St Anthony, Monteview, Plano, and Chester.\nGenerated: 2026-04-12 22:15:11 UTC"
+Line: 2,,"Special Weather Statement issued April 12 at 5:16PM CDT by NWS Fort Worth TX\nExpires: 2026-04-12 22:45 Z\nAt 516 PM CDT, Doppler radar was tracking a strong thunderstorm near Clifton, moving northeast at 35 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Laguna Park and Lake Whitney around 525 PM CDT.  Other locations impacted by this storm include Womack, Lakewood Harbor, Cayote, Lakeside Village, and Cedar Shores.\nGenerated: 2026-04-12 22:20:12 UTC"
+  32.0600, -97.4900
+  32.0200, -97.4900
+  32.0100, -97.4800
+  32.0100, -97.4500
+  32.0300, -97.4300
+  31.9900, -97.4100
+  31.9800, -97.3800
+  31.9700, -97.3800
+  31.9300, -97.4400
+  31.9000, -97.3700
+  31.8900, -97.3600
+  31.8900, -97.3800
+  31.8700, -97.3900
+  31.8400, -97.3300
+  31.7000, -97.5000
+  31.8200, -97.6700
+  32.0600, -97.4900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 12 at 4:11PM MDT by NWS Pocatello ID\nExpires: 2026-04-12 23:00 Z\nAt 410 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles north of Northwest Inl to Egin. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rexburg, Ashton, Dubois, Idmon, Terreton, Marysville, Sugar City, Teton, Mud Lake, Parker, Hamer, Spencer, Shotgun Village, Egin, Ponds Lodge, Kilgore, St Anthony, Monteview, Plano, and Chester.\nGenerated: 2026-04-12 22:20:12 UTC"
   43.7400, -111.6100
   43.8600, -112.8800
   44.2300, -112.9300
@@ -27,40 +48,10 @@ Line: 2,,"Special Weather Statement issued April 12 at 4:11PM MDT by NWS Pocatel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 4:48PM CDT by NWS Fort Worth TX\nExpires: 2026-04-12 22:15 Z\nAt 448 PM CDT, Doppler radar was tracking a strong thunderstorm over Godley, or 9 miles northwest of Cleburne, moving northeast at 35 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Burleson and Godley around 455 PM CDT. Joshua around 500 PM CDT. Fort Worth and Crowley around 505 PM CDT.  Other locations impacted by this storm include Benbrook Lake, Briaroaks, Egan, and Cresson.  This includes the following highways... Interstate 35W between mile markers 28 and 39. Interstate 20 between mile markers 427 and 430.\nGenerated: 2026-04-12 22:15:11 UTC"
-  32.7200, -97.4600
-  32.4500, -97.1800
-  32.3300, -97.5500
-  32.3600, -97.6200
-  32.5200, -97.6200
-  32.5600, -97.5900
-  32.5600, -97.5500
-  32.6000, -97.5500
-  32.7200, -97.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 4:46PM CDT by NWS Houston/Galveston TX\nExpires: 2026-04-12 22:30 Z\nAt 445 PM CDT, Doppler radar was tracking a strong thunderstorm near Cypress, or 8 miles west of Jersey Village, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Katy, Jersey Village, Addicks Park Ten, Spring Branch North, Greater Greenspoint, Spring Branch West, Westbranch, Fairbanks / Northwest Crossing, Willowbrook, Cypress, Hidden Valley, Acres Home, Greater Inwood, Carverdale, Langwood, Central Northwest, and Spring Branch Central.\nGenerated: 2026-04-12 22:15:11 UTC"
+Line: 2,,"Special Weather Statement issued April 12 at 4:46PM CDT by NWS Houston/Galveston TX\nExpires: 2026-04-12 22:30 Z\nAt 445 PM CDT, Doppler radar was tracking a strong thunderstorm near Cypress, or 8 miles west of Jersey Village, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Katy, Jersey Village, Addicks Park Ten, Spring Branch North, Greater Greenspoint, Spring Branch West, Westbranch, Fairbanks / Northwest Crossing, Willowbrook, Cypress, Hidden Valley, Acres Home, Greater Inwood, Carverdale, Langwood, Central Northwest, and Spring Branch Central.\nGenerated: 2026-04-12 22:20:12 UTC"
   29.7800, -95.8300
   29.9500, -95.8400
   30.0800, -95.4500
   29.8500, -95.4100
   29.7800, -95.8300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 3:29PM MDT by NWS Pocatello ID\nExpires: 2026-04-12 22:15 Z\nAt 329 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from Northwest Inl to 8 miles southwest of Roberts to Idaho Falls. Movement was northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Rexburg, Rigby, Dubois, Terreton, Lorenzo, Ammon, Iona, Sugar City, Ucon, Menan, Teton, Roberts, Lewisville, Mud Lake, Parker, Hamer, Spencer, Archer, and Egin.\nGenerated: 2026-04-12 22:15:11 UTC"
-  43.4000, -111.9600
-  43.6400, -112.2800
-  43.8800, -112.8500
-  44.4800, -112.5900
-  44.4800, -112.5200
-  44.4600, -112.5000
-  44.4800, -112.4700
-  44.4700, -112.4400
-  44.4600, -112.4300
-  44.4500, -112.4100
-  44.2500, -111.9200
-  43.9600, -111.5300
-  43.4000, -111.9600
 End:
