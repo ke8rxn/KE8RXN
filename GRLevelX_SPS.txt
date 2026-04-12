@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-12 07:10:15 UTC
+; Generated: 2026-04-12 07:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 1:57AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-12 08:00 Z\nAt 157 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bend to near Buchanan Dam to 7 miles north of Ingram. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fredericksburg, Burnet, Marble Falls, Kingsland, Llano, Bertram, Round Mountain, Buchanan Dam, Gainesville, Granite Shoals, Horseshoe Bay, Meadowlakes, Buchanan Lake Village, Stonewall, Highland Haven, Inks Lake State Park, Blowout, Tivydale, Watson, and Bluffton.\nGenerated: 2026-04-12 07:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 12 at 12:13AM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-04-12 08:15 Z\nAt 1212 AM PDT, Doppler radar was tracking gusty showers along a line extending from 10 miles west of Vandenberg Space Force Base to 14 miles west of Point Conception. Movement was east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph. While not likely, there is a remote chance for the development of a brief, weak tornado.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lompoc... Point Conception... Vandenberg Space Force Base... Orcutt... Vandenberg Village... and Mission Hills.\nGenerated: 2026-04-12 07:15:15 UTC"
+  34.6900, -120.6100
+  34.6900, -120.5900
+  34.7500, -120.6300
+  34.8600, -120.6100
+  34.8900, -120.2900
+  34.4600, -120.3200
+  34.4400, -120.4500
+  34.4500, -120.4700
+  34.4700, -120.4800
+  34.5300, -120.5200
+  34.5600, -120.5800
+  34.5500, -120.6200
+  34.5700, -120.6400
+  34.6900, -120.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 12 at 1:57AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-12 08:00 Z\nAt 157 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bend to near Buchanan Dam to 7 miles north of Ingram. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fredericksburg, Burnet, Marble Falls, Kingsland, Llano, Bertram, Round Mountain, Buchanan Dam, Gainesville, Granite Shoals, Horseshoe Bay, Meadowlakes, Buchanan Lake Village, Stonewall, Highland Haven, Inks Lake State Park, Blowout, Tivydale, Watson, and Bluffton.\nGenerated: 2026-04-12 07:15:15 UTC"
   31.0300, -97.9000
   30.9000, -97.8300
   30.7900, -97.9600
@@ -25,7 +43,7 @@ Line: 2,,"Special Weather Statement issued April 12 at 1:57AM CDT by NWS Austin/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 1:56AM CDT by NWS Des Moines IA\nExpires: 2026-04-12 08:00 Z\nAt 155 AM CDT, Doppler radar was tracking a cluster of thunderstorms along a line extending from 9 miles south of Iowa Lake to near Algona to 4 miles northwest of Humboldt. Movement was northeast at 40 mph.  HAZARD...Half inch hail and additional rainfall up to one inch.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible. Ponding of water on roadways, low visibilities, and rises in small streams and creeks.  Locations impacted include... Algona, Dakota City, Humboldt, Britt, Eagle Lake, Union Slogh, Armstrong, Buffalo Center, Bancroft, Kanawha, Swea City, Burt, Thompson, Titonka, Wesley, Livermore, Corwith, Bode, Lu Verne, and Lakota.\nGenerated: 2026-04-12 07:10:15 UTC"
+Line: 2,,"Special Weather Statement issued April 12 at 1:56AM CDT by NWS Des Moines IA\nExpires: 2026-04-12 08:00 Z\nAt 155 AM CDT, Doppler radar was tracking a cluster of thunderstorms along a line extending from 9 miles south of Iowa Lake to near Algona to 4 miles northwest of Humboldt. Movement was northeast at 40 mph.  HAZARD...Half inch hail and additional rainfall up to one inch.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible. Ponding of water on roadways, low visibilities, and rises in small streams and creeks.  Locations impacted include... Algona, Dakota City, Humboldt, Britt, Eagle Lake, Union Slogh, Armstrong, Buffalo Center, Bancroft, Kanawha, Swea City, Burt, Thompson, Titonka, Wesley, Livermore, Corwith, Bode, Lu Verne, and Lakota.\nGenerated: 2026-04-12 07:15:15 UTC"
   43.5000, -93.7200
   43.4000, -93.6700
   42.9100, -93.6300
@@ -34,40 +52,4 @@ Line: 2,,"Special Weather Statement issued April 12 at 1:56AM CDT by NWS Des Moi
   43.4000, -94.4900
   43.5000, -94.3500
   43.5000, -93.7200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 11:45PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 07:15 Z\nAt 1145 PM PDT, Doppler radar was tracking an area of strong thunderstorms 10 miles southwest of Ben Lomond, or 10 miles west of Santa Cruz, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible. Hail may accumulate on roadways causing hazardous travel.  Locations impacted include... Santa Cruz, Scotts Valley, Ben Lomond, Felton, Boulder Creek and Lexington Hills.\nGenerated: 2026-04-12 07:10:15 UTC"
-  37.0700, -122.2600
-  37.2700, -122.0700
-  37.2500, -122.0500
-  37.2400, -122.0200
-  37.0800, -121.8600
-  36.9600, -122.1200
-  36.9800, -122.1400
-  36.9800, -122.1500
-  36.9900, -122.1600
-  36.9900, -122.1700
-  37.0000, -122.1900
-  37.0100, -122.2000
-  37.0200, -122.2200
-  37.0300, -122.2200
-  37.0700, -122.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 12 at 1:18AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-12 07:15 Z\nAt 118 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Pontotoc to near Cherry Spring to 11 miles north of Tuff. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kerrville, Fredericksburg, Llano, Gainesville, Ingram, Hunt, Castell, Field Creek, Kerrville-Schreiner Park, Tivydale, Bluffton, Kerr Wildlife Management Area, Waltonia, Baby Head, Stolz, Crabapple, Oxford, Cherry Spring, Lone Grove, and Enchanted Rock State Natural Area.\nGenerated: 2026-04-12 07:10:15 UTC"
-  30.5900, -98.5000
-  29.8900, -99.1300
-  29.9100, -99.9400
-  30.0800, -99.7900
-  30.0800, -99.7600
-  30.1200, -99.7600
-  30.2900, -99.6100
-  30.2900, -99.3000
-  30.5000, -99.3000
-  30.5000, -98.9600
-  30.9200, -98.9600
-  30.9200, -98.4500
-  30.5900, -98.5000
 End:
