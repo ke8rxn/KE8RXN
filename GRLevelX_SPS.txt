@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-12 02:10:12 UTC
+; Generated: 2026-04-12 02:20:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 9:08PM CDT by NWS Norman OK\nExpires: 2026-04-12 02:30 Z\nAt 908 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of Higgins, moving northeast at 30 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of west central Ellis County.\nGenerated: 2026-04-12 02:10:12 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 9:14PM CDT by NWS San Angelo TX\nExpires: 2026-04-12 03:00 Z\nAt 913 PM CDT, Doppler radar was tracking a strong thunderstorm 15 miles west of The Intersection Of Us- 277 And Ranch Road 189, or 16 miles northeast of Juno, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... The Intersection Of Us-277 And Ranch Road 189 and Us- 277 Near The Sutton-Edwards County Line.\nGenerated: 2026-04-12 02:20:12 UTC"
+  30.4600, -101.0100
+  30.5100, -100.4900
+  30.2900, -100.4700
+  30.2900, -101.0000
+  30.4600, -101.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 11 at 9:08PM CDT by NWS Norman OK\nExpires: 2026-04-12 02:30 Z\nAt 908 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of Higgins, moving northeast at 30 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of west central Ellis County.\nGenerated: 2026-04-12 02:20:12 UTC"
   36.1900, -100.0000
   36.2900, -99.9100
   36.1500, -99.8200
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued April 11 at 9:08PM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 8:53PM CDT by NWS Fort Worth TX\nExpires: 2026-04-12 02:30 Z\nAt 852 PM CDT, Doppler radar was tracking a strong thunderstorm over Moran, or 14 miles northwest of Cisco, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Hubbard Creek Reservoir around 915 PM CDT.  Other locations impacted by this storm include Eolian and Harpersville.\nGenerated: 2026-04-12 02:10:12 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 8:53PM CDT by NWS Fort Worth TX\nExpires: 2026-04-12 02:30 Z\nAt 852 PM CDT, Doppler radar was tracking a strong thunderstorm over Moran, or 14 miles northwest of Cisco, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Hubbard Creek Reservoir around 915 PM CDT.  Other locations impacted by this storm include Eolian and Harpersville.\nGenerated: 2026-04-12 02:20:12 UTC"
   32.9600, -99.0900
   32.9500, -98.9500
   32.7700, -98.7600
@@ -24,7 +33,7 @@ Line: 2,,"Special Weather Statement issued April 11 at 8:53PM CDT by NWS Fort Wo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 6:49PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 02:30 Z\nAt 649 PM PDT, Doppler radar was tracking a line of showers extending from 7 miles southeast of Monterey to 9 miles southwest of Andrew Molera State Park, or extending from 7 miles southeast of Monterey to 9 miles southwest of Big Sur Village, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Sur Village, Jamesburg, Tassajara Hot Springs, Carmel Valley Village, Cachagua Near The Los Padres Dam, San Clemente Dam, Pico Blanco Campground and Andrew Molera State Park.\nGenerated: 2026-04-12 02:10:12 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 6:49PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 02:30 Z\nAt 649 PM PDT, Doppler radar was tracking a line of showers extending from 7 miles southeast of Monterey to 9 miles southwest of Andrew Molera State Park, or extending from 7 miles southeast of Monterey to 9 miles southwest of Big Sur Village, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Sur Village, Jamesburg, Tassajara Hot Springs, Carmel Valley Village, Cachagua Near The Los Padres Dam, San Clemente Dam, Pico Blanco Campground and Andrew Molera State Park.\nGenerated: 2026-04-12 02:20:12 UTC"
   36.3600, -121.9100
   36.3900, -121.9000
   36.4000, -121.9100
@@ -43,53 +52,7 @@ Line: 2,,"Special Weather Statement issued April 11 at 6:49PM PDT by NWS San Fra
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 8:47PM CDT by NWS Norman OK\nExpires: 2026-04-12 02:15 Z\nAt 847 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles east of Lake Marvin to 9 miles west of Durham to 10 miles north of Allison. Movement was northeast at 35 mph.  HAZARD...Wind gusts of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Durham.\nGenerated: 2026-04-12 02:10:12 UTC"
-  36.0200, -100.0000
-  36.1500, -99.8200
-  35.9900, -99.7700
-  35.8100, -99.8200
-  35.7300, -100.0000
-  36.0200, -100.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 8:46PM CDT by NWS Amarillo TX\nExpires: 2026-04-12 02:15 Z\nAt 846 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles southwest of Wheeler to Dozier. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shamrock, Wheeler, Dozier, Lela, and Twitty.  This includes Interstate 40 between mile markers 152 and 166.\nGenerated: 2026-04-12 02:10:12 UTC"
-  35.6200, -100.1900
-  35.1000, -100.1700
-  35.0400, -100.4300
-  35.4100, -100.4700
-  35.6200, -100.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 8:45PM CDT by NWS San Angelo TX\nExpires: 2026-04-12 02:15 Z\nAt 844 PM CDT, Doppler radar was tracking a strong thunderstorm near Moran, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Moran, Ibex, I-20 Near The Callahan-Eastland County Line, and Us- 180 Near The Shackelford-Stephens County Line.  This includes Interstate 20 between Mile Markers 320 and 323.\nGenerated: 2026-04-12 02:10:12 UTC"
-  32.5100, -99.1100
-  32.3700, -99.1100
-  32.3600, -99.1700
-  32.5800, -99.3800
-  32.7800, -99.1000
-  32.5300, -99.1000
-  32.5200, -99.0900
-  32.5100, -99.1100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 6:43PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 02:15 Z\nAt 643 PM PDT, Doppler radar was tracking a shower over Aptos, or 6 miles west of Corralitos, moving northeast at 60 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Jose, Santa Cruz, Morgan Hill, Corralitos, Capitola, Live Oak, Uvas Canyon Park, Eureka Canyon Road, Brown Valley Road, Mt. Hamilton, Amesti, Aptos, Freedom, Rio Del Mar, Soquel, Opal Cliffs, Twin Lakes, Day Valley, Aptos Hills-Larkin and Aptos Hills-Larkin Valley.\nGenerated: 2026-04-12 02:10:12 UTC"
-  37.4300, -121.7400
-  37.3700, -121.4700
-  36.9000, -121.8300
-  36.9100, -121.8500
-  36.9400, -121.8700
-  36.9700, -121.9100
-  36.9800, -121.9400
-  36.9700, -121.9500
-  36.9600, -121.9700
-  36.9800, -122.0300
-  37.4300, -121.7400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 8:42PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-12 02:45 Z\nAt 842 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles north of Juno to 12 miles south of Langtry. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Langtry, Juno, Shumla, Seminole Canyon State Park, Bakers Crossing, and Pecos River Boat Ramp.\nGenerated: 2026-04-12 02:10:12 UTC"
+Line: 2,,"Special Weather Statement issued April 11 at 8:42PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-12 02:45 Z\nAt 842 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles north of Juno to 12 miles south of Langtry. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Langtry, Juno, Shumla, Seminole Canyon State Park, Bakers Crossing, and Pecos River Boat Ramp.\nGenerated: 2026-04-12 02:20:12 UTC"
   30.2900, -101.4300
   30.2900, -100.7600
   29.6500, -101.3000
@@ -110,46 +73,4 @@ Line: 2,,"Special Weather Statement issued April 11 at 8:42PM CDT by NWS Austin/
   29.7600, -101.7100
   29.7800, -101.7600
   30.2900, -101.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 8:39PM CDT by NWS Amarillo TX\nExpires: 2026-04-12 02:15 Z\nAt 839 PM CDT, Doppler radar was tracking a strong thunderstorm over Texhoma, or 17 miles northeast of Stratford, moving northeast at 60 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Goodwell and Texhoma.\nGenerated: 2026-04-12 02:10:12 UTC"
-  36.4500, -101.7300
-  36.5000, -101.9400
-  36.8400, -101.6800
-  36.7800, -101.4300
-  36.4500, -101.7300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 6:32PM PDT by NWS San Francisco CA\nExpires: 2026-04-12 02:15 Z\nAt 632 PM PDT, Radar reported a line of showers extending from over Antioch to over Alum Rock, or extending from over Antioch to near Milpitas, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Public reported.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fremont, Concord, Antioch, Livermore, Pleasanton, Pittsburg, Dublin, Danville, Oakley, Brentwood, Discovery Bay, Clayton, Byron, Blackhawk-Camino Tassajara, Blackhawk, Sunol, Knightsen and West Pittsburg Cdp.\nGenerated: 2026-04-12 02:10:12 UTC"
-  37.7000, -121.9100
-  38.0500, -121.9800
-  38.0500, -121.8600
-  38.0400, -121.8900
-  38.0000, -121.7100
-  38.0100, -121.7100
-  38.0100, -121.6800
-  38.0300, -121.7300
-  38.0900, -121.6700
-  38.0900, -121.5800
-  37.9200, -121.5600
-  37.8600, -121.5800
-  37.8500, -121.5400
-  37.5400, -121.5600
-  37.5200, -121.5000
-  37.4800, -121.5100
-  37.4900, -121.9600
-  37.7000, -121.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 11 at 7:30PM MDT by NWS Boise ID\nExpires: 2026-04-12 02:15 Z\nAt 730 PM MDT, Doppler radar was tracking a strong thunderstorm over Hagerman, or 10 miles southwest of Gooding, moving northeast at 20 mph.  HAZARD...Pea size hail. Wind gusts to 30 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Gooding around 750 PM MDT.\nGenerated: 2026-04-12 02:10:12 UTC"
-  42.7000, -114.8300
-  42.8400, -114.9900
-  43.1100, -114.6600
-  43.0600, -114.5900
-  42.8600, -114.6000
-  42.8400, -114.5400
-  42.7000, -114.8300
 End:
