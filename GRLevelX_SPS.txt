@@ -3,9 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-13 22:55:16 UTC
+; Generated: 2026-04-13 23:00:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 13 at 4:47PM MDT by NWS Rapid City SD\nExpires: 2026-04-13 23:15 Z\nAt 446 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Stoneville, or 31 miles west of Faith, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Opal.\nGenerated: 2026-04-13 22:55:16 UTC"
+Line: 2,,"Special Weather Statement issued April 13 at 5:59PM CDT by NWS Green Bay WI\nExpires: 2026-04-13 23:45 Z\nAt 559 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southeast of McCaslin Mountain Natural Area, or 31 miles southeast of Crandon, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Wausaukee around 630 PM CDT.  Other locations impacted by this strong thunderstorm include Crooked Lake, Silver Cliff, Caldron Falls Reservoir, Governor Thompson State Park, Caldron Falls Rese, High Falls Reservoir, Athelstane, Cedarville, Amberg and Miscauno Island.\nGenerated: 2026-04-13 23:00:17 UTC"
+  45.3300, -88.6500
+  45.3800, -88.4300
+  45.4100, -88.4300
+  45.6200, -87.7900
+  45.6100, -87.7800
+  45.5700, -87.7900
+  45.5700, -87.8300
+  45.5000, -87.7900
+  45.4700, -87.8200
+  45.3900, -87.6900
+  45.4600, -87.8100
+  45.4300, -87.8600
+  45.3500, -87.8900
+  45.3500, -87.8500
+  45.2100, -88.4700
+  45.3300, -88.6500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 13 at 3:57PM PDT by NWS Spokane WA\nExpires: 2026-04-13 23:45 Z\nAt 356 PM PDT, Doppler radar was tracking a strong thunderstorm 32 miles northeast of Colville, or 61 miles west of Bonners Ferry, moving southeast at 15 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ione, Metaline Falls, and Metaline.\nGenerated: 2026-04-13 23:00:17 UTC"
+  48.9600, -117.1900
+  48.7100, -117.4000
+  48.9400, -117.7700
+  49.0000, -117.7100
+  49.0000, -117.3400
+  48.9600, -117.1900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 13 at 4:47PM MDT by NWS Rapid City SD\nExpires: 2026-04-13 23:15 Z\nAt 446 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Stoneville, or 31 miles west of Faith, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Opal.\nGenerated: 2026-04-13 23:00:17 UTC"
   44.7900, -102.7500
   45.0000, -102.7700
   45.0400, -102.1900
@@ -14,7 +44,7 @@ Line: 2,,"Special Weather Statement issued April 13 at 4:47PM MDT by NWS Rapid C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 13 at 5:47PM CDT by NWS Topeka KS\nExpires: 2026-04-13 23:15 Z\nAt 547 PM CDT, Doppler radar was tracking a strong thunderstorm near Council Grove Lake, moving northeast at 30 mph.  HAZARD...Strong wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Alta Vista.\nGenerated: 2026-04-13 22:55:16 UTC"
+Line: 2,,"Special Weather Statement issued April 13 at 5:47PM CDT by NWS Topeka KS\nExpires: 2026-04-13 23:15 Z\nAt 547 PM CDT, Doppler radar was tracking a strong thunderstorm near Council Grove Lake, moving northeast at 30 mph.  HAZARD...Strong wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Alta Vista.\nGenerated: 2026-04-13 23:00:17 UTC"
   38.7200, -96.5700
   38.9500, -96.4700
   38.8600, -96.1600
@@ -23,42 +53,10 @@ Line: 2,,"Special Weather Statement issued April 13 at 5:47PM CDT by NWS Topeka 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 13 at 5:32PM CDT by NWS San Angelo TX\nExpires: 2026-04-13 23:00 Z\nAt 532 PM CDT, Doppler radar was tracking a strong thunderstorm near Millers Creek Reservoir, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Millers Creek Reservoir.\nGenerated: 2026-04-13 22:55:16 UTC"
-  33.2400, -99.4700
-  33.3700, -99.6600
-  33.4000, -99.6300
-  33.4000, -99.2700
-  33.2400, -99.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 13 at 5:30PM CDT by NWS San Angelo TX\nExpires: 2026-04-13 23:15 Z\nAt 530 PM CDT, Doppler radar was tracking a strong thunderstorm near Anson, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stamford, Anson, Avoca, Funston, and Tuxedo.\nGenerated: 2026-04-13 22:55:16 UTC"
+Line: 2,,"Special Weather Statement issued April 13 at 5:30PM CDT by NWS San Angelo TX\nExpires: 2026-04-13 23:15 Z\nAt 530 PM CDT, Doppler radar was tracking a strong thunderstorm near Anson, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stamford, Anson, Avoca, Funston, and Tuxedo.\nGenerated: 2026-04-13 23:00:17 UTC"
   32.6800, -99.9500
   32.8100, -100.0900
   33.1100, -99.8200
   32.8600, -99.5100
   32.6800, -99.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 13 at 6:23PM EDT by NWS Northern Indiana\nExpires: 2026-04-13 23:00 Z\nAt 623 PM EDT, Doppler radar was tracking a strong thunderstorm near South Whitley, or 9 miles southwest of Columbia City, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Wayne, New Haven, Columbia City, South Whitley, Aboite, Middletown, Roanoke, Zanesville, Larwill, Laud, Yoder, Raber, Arcola, Bippus, Rolling Hills, Lake Everett, Luther, Peabody, Nine Mile, and Dunfee.  This includes the following highways... Interstate 469 between mile markers 0 and 30. Interstate 69 in Indiana between mile markers 294 and 316.\nGenerated: 2026-04-13 22:55:16 UTC"
-  40.9200, -85.6400
-  41.2000, -85.6400
-  41.1900, -84.9400
-  40.9200, -84.9400
-  40.9200, -85.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 13 at 5:23PM CDT by NWS Green Bay WI\nExpires: 2026-04-13 23:00 Z\nAt 523 PM CDT, Doppler radar was tracking a strong thunderstorm over Neopit, or 17 miles southeast of Antigo, moving northeast at 35 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Neopit around 525 PM CDT. White Lake and Big Smokey Falls around 540 PM CDT. Gardner Dam Scout Camp around 545 PM CDT.  Other locations impacted by this strong thunderstorm include Zoar, Lake Noseum, Upper Bass Lake, Elton, Langlade, Boulder Lake Campground, Bagley Rapids Campground, Boot Lake Campground and Lakewood.\nGenerated: 2026-04-13 22:55:16 UTC"
-  45.1200, -88.9700
-  45.3800, -88.4900
-  45.3800, -88.4300
-  45.4100, -88.4300
-  45.4400, -88.3700
-  45.2300, -88.1500
-  44.9400, -88.7200
-  44.9400, -88.9700
-  45.1100, -88.9800
-  45.1200, -88.9700
 End:
