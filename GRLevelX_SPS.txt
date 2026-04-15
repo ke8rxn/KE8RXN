@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-15 03:55:12 UTC
+; Generated: 2026-04-15 04:00:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 14 at 10:28PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-15 04:15 Z\nAt 1027 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Mountain Home, or 24 miles northwest of Kerrville, moving northeast at 30 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Doss and Harper.\nGenerated: 2026-04-15 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued April 14 at 10:56PM CDT by NWS Green Bay WI\nExpires: 2026-04-15 04:30 Z\nAt 1055 PM CDT, Doppler radar was tracking a strong thunderstorm near Napowan Scout Camp, or 10 miles northeast of Wautoma, moving northeast at 35 mph.  HAZARD...Wind gusts up to 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Waupaca around 1110 PM CDT.  Other locations impacted by this storm include Rural, Saxeville, Lind Center, King, West Bloomfield, and Weyauwega.\nGenerated: 2026-04-15 04:00:17 UTC"
+  44.1300, -89.1900
+  44.2400, -89.2600
+  44.2400, -89.2300
+  44.2700, -89.2300
+  44.4500, -88.9500
+  44.3100, -88.7400
+  44.2800, -88.7400
+  44.2400, -88.8500
+  44.2400, -88.8900
+  44.2300, -88.8900
+  44.1300, -89.1900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 14 at 10:28PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-15 04:15 Z\nAt 1027 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Mountain Home, or 24 miles northwest of Kerrville, moving northeast at 30 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Doss and Harper.\nGenerated: 2026-04-15 04:00:17 UTC"
   30.5000, -99.1900
   30.3900, -99.0700
   30.2000, -99.4400
@@ -13,24 +28,4 @@ Line: 2,,"Special Weather Statement issued April 14 at 10:28PM CDT by NWS Austin
   30.2900, -99.3000
   30.5000, -99.3000
   30.5000, -99.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 14 at 10:24PM CDT by NWS Hastings NE\nExpires: 2026-04-15 04:00 Z\nAt 1024 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Downs, or 23 miles west of Beloit, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Cawker City around 1030 PM CDT.  Other locations in the path of this storm include Ionia and Jewell.\nGenerated: 2026-04-15 03:55:12 UTC"
-  39.5000, -98.7100
-  39.9800, -97.9400
-  39.9400, -97.9300
-  39.6200, -97.9300
-  39.3600, -98.5800
-  39.5000, -98.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 14 at 10:18PM CDT by NWS Topeka KS\nExpires: 2026-04-15 04:00 Z\nAt 1018 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Courtland, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Belleville, Scandia, Courtland, Norway, Republic, Munden, and Narka.\nGenerated: 2026-04-15 03:55:12 UTC"
-  40.0000, -97.3700
-  39.9100, -97.3700
-  39.6500, -97.7300
-  39.6600, -97.9300
-  40.0000, -97.9300
-  40.0000, -97.3700
 End:
