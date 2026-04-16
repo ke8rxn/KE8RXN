@@ -3,9 +3,62 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-16 00:40:15 UTC
+; Generated: 2026-04-16 00:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 7:34PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-16 01:00 Z\nAt 733 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout over Brodhead, moving east at 35 mph.  HAZARD...Funnel clouds, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brodhead, Orfordville, Footville, Newark, and Avon.\nGenerated: 2026-04-16 00:40:15 UTC"
+Line: 2,,"Special Weather Statement issued April 15 at 8:42PM EDT by NWS Upton NY\nExpires: 2026-04-16 01:30 Z\nAt 842 PM EDT, Doppler radar was tracking a strong thunderstorm over West Point, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Danbury, Peekskill, Mahopac, Monroe, Lake Carmel, West Point, Sherman, Brewster, Cold Spring, New Windsor, Ridgefield, New Fairfield, Carmel, Chester, and Florida.\nGenerated: 2026-04-16 00:45:15 UTC"
+  41.5400, -73.4900
+  41.2700, -73.5100
+  41.2700, -73.9600
+  41.2900, -73.9400
+  41.3200, -73.9800
+  41.2700, -74.0600
+  41.2700, -74.4600
+  41.4500, -74.2600
+  41.4800, -74.0000
+  41.4600, -74.0000
+  41.4400, -73.9800
+  41.4900, -73.9300
+  41.5300, -73.5300
+  41.5400, -73.5300
+  41.5400, -73.4900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 15 at 6:40PM MDT by NWS Boise ID\nExpires: 2026-04-16 01:30 Z\nAt 640 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Idaho City to Boise to Delamar Mine. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Southeastern Boise, Swan Falls, Silver City, and Murphy around 650 PM MDT. Twin Springs, Big Foot Butte, and Boise Stage Stop around 700 PM MDT. Oreana, Graham Guard Station, and Dutch Creek Guard Station around 710 PM MDT.\nGenerated: 2026-04-16 00:45:15 UTC"
+  43.5600, -115.3200
+  42.9500, -116.0700
+  42.9600, -117.0100
+  43.5500, -116.2700
+  43.9400, -115.8200
+  44.0100, -114.9800
+  44.0000, -114.9900
+  43.9700, -114.9700
+  43.9500, -114.9900
+  43.9400, -114.9700
+  43.5600, -115.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 15 at 8:39PM EDT by NWS Binghamton NY\nExpires: 2026-04-16 01:15 Z\nAt 839 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sanitaria Springs to near Brackney. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Binghamton, Kirkwood, Conklin, Hallstead, Windsor, Great Bend, Sanitaria Springs, Port Crane, Lakeside, and Hickory Grove.\nGenerated: 2026-04-16 00:45:15 UTC"
+  42.1400, -75.5300
+  41.8700, -75.6700
+  42.0200, -75.9300
+  42.2000, -75.8300
+  42.1400, -75.5300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 15 at 7:38PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-16 01:15 Z\nAt 737 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout over South Beloit, moving northeast at 40 mph.  HAZARD...Funnel Clouds, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Beloit, Clinton, Tiffany, Avalon, Shopiere, and Foxhollow.  This includes the following highways... Interstate 39/90 between mile markers 180 and 187. Interstate 43 between mile markers 0 and 11.\nGenerated: 2026-04-16 00:45:15 UTC"
+  42.5000, -89.1200
+  42.5300, -89.1400
+  42.6100, -88.9800
+  42.6700, -88.7800
+  42.4900, -88.7800
+  42.5000, -89.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 15 at 7:34PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-16 01:00 Z\nAt 733 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout over Brodhead, moving east at 35 mph.  HAZARD...Funnel clouds, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brodhead, Orfordville, Footville, Newark, and Avon.\nGenerated: 2026-04-16 00:45:15 UTC"
   42.5000, -89.4400
   42.5400, -89.4700
   42.6400, -89.4400
@@ -15,7 +68,7 @@ Line: 2,,"Special Weather Statement issued April 15 at 7:34PM CDT by NWS Milwauk
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 7:31PM CDT by NWS Fort Worth TX\nExpires: 2026-04-16 01:00 Z\nAt 731 PM CDT, Doppler radar was tracking a strong thunderstorm over Graford, or 12 miles northwest of Mineral Wells, moving east at 30 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southeastern Jack, northwestern Parker and northeastern Palo Pinto Counties, including the following locations... Gibtown, Adell, Joplin, Whitt, Perrin, Advance, Oran, Salesville, Peadenville, and Authon.\nGenerated: 2026-04-16 00:40:15 UTC"
+Line: 2,,"Special Weather Statement issued April 15 at 7:31PM CDT by NWS Fort Worth TX\nExpires: 2026-04-16 01:00 Z\nAt 731 PM CDT, Doppler radar was tracking a strong thunderstorm over Graford, or 12 miles northwest of Mineral Wells, moving east at 30 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southeastern Jack, northwestern Parker and northeastern Palo Pinto Counties, including the following locations... Gibtown, Adell, Joplin, Whitt, Perrin, Advance, Oran, Salesville, Peadenville, and Authon.\nGenerated: 2026-04-16 00:45:15 UTC"
   33.1600, -97.9200
   32.8700, -97.9200
   32.8800, -98.3000
@@ -24,7 +77,7 @@ Line: 2,,"Special Weather Statement issued April 15 at 7:31PM CDT by NWS Fort Wo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 7:30PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 01:00 Z\nAt 730 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles southeast of Tyro to 6 miles northwest of Bartlesville Municipal Airport. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Wann...                           Copan... Dewey...                          Bartlesville Municipal Airport... South Coffeyville...              Hulah... Bartlesville...\nGenerated: 2026-04-16 00:40:15 UTC"
+Line: 2,,"Special Weather Statement issued April 15 at 7:30PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 01:00 Z\nAt 730 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles southeast of Tyro to 6 miles northwest of Bartlesville Municipal Airport. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Wann...                           Copan... Dewey...                          Bartlesville Municipal Airport... South Coffeyville...              Hulah... Bartlesville...\nGenerated: 2026-04-16 00:45:15 UTC"
   36.7600, -95.7700
   36.7500, -96.2500
   37.0000, -95.9900
@@ -33,105 +86,11 @@ Line: 2,,"Special Weather Statement issued April 15 at 7:30PM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 7:24PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 01:00 Z\nAt 724 PM CDT, Doppler radar indicated a strong thunderstorm near Foraker, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Foraker...                        Pearsonia... Shidler...                        Webb City... Elgin...                          Grainola...\nGenerated: 2026-04-16 00:40:15 UTC"
+Line: 2,,"Special Weather Statement issued April 15 at 7:24PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 01:00 Z\nAt 724 PM CDT, Doppler radar indicated a strong thunderstorm near Foraker, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Foraker...                        Pearsonia... Shidler...                        Webb City... Elgin...                          Grainola...\nGenerated: 2026-04-16 00:45:15 UTC"
   37.0000, -96.2200
   36.9800, -96.1700
   36.7000, -96.5800
   36.7900, -96.7500
   37.0000, -96.6000
   37.0000, -96.2200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 7:11PM CDT by NWS Norman OK\nExpires: 2026-04-16 00:45 Z\nAt 711 PM CDT, Doppler radar was tracking a strong thunderstorm near Ponca City, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ponca City, Kaw City, Kildare, Hardy, and Kaw Lake.\nGenerated: 2026-04-16 00:40:15 UTC"
-  36.7800, -96.7500
-  36.7800, -96.7900
-  36.7700, -96.7900
-  36.7700, -96.8200
-  36.7400, -96.8300
-  36.7500, -96.8900
-  36.7000, -96.9300
-  36.6900, -96.9600
-  36.7000, -97.0400
-  36.6800, -97.0600
-  36.6600, -97.0700
-  36.6300, -97.1700
-  36.7500, -97.1900
-  37.0000, -96.7800
-  37.0000, -96.7500
-  36.7800, -96.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 7:08PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 00:45 Z\nAt 708 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles northwest of Sunset Lake, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Bigheart...                       Wah Sha She State Park... Hulah...                          Sunset Lake...\nGenerated: 2026-04-16 00:40:15 UTC"
-  37.0000, -96.0100
-  36.9900, -96.0000
-  36.8400, -96.0000
-  36.7100, -96.2800
-  36.8100, -96.4100
-  37.0000, -96.2300
-  37.0000, -96.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 6:04PM MDT by NWS Boise ID\nExpires: 2026-04-16 00:45 Z\nAt 603 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Paddy Flat Work Center to near Hardscrabble Campground to near Bogus Basin Ski Area. Movement was east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Idaho City, Centerville, Pioneerville, and Garden Valley around 610 PM MDT. Lowman, Clear Creek Summit, Mores Creek Summit, and Landmark around 620 PM MDT. Helende Campground, Barber Flat Guard Station, Bear Valley Campground, and Sulphur Creek Ranch around 630 PM MDT. Dagger Falls, Boundary Creek Launch Site, and Dutch Creek Guard Station around 640 PM MDT.\nGenerated: 2026-04-16 00:40:15 UTC"
-  44.7300, -115.1500
-  44.6500, -115.1700
-  44.5800, -115.3000
-  44.5200, -115.2800
-  44.5200, -115.2500
-  44.4800, -115.2200
-  44.4200, -115.2200
-  44.3400, -115.3000
-  44.2900, -115.2400
-  44.3100, -115.2200
-  44.2800, -115.1700
-  44.1900, -115.1400
-  44.1700, -115.0700
-  43.7400, -115.2400
-  43.7700, -116.2100
-  44.2600, -116.0400
-  44.7700, -116.0100
-  44.7300, -115.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 6:00PM MDT by NWS Boise ID\nExpires: 2026-04-16 00:45 Z\nAt 559 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bogus Basin Ski Area to near Kuna to near Squaw Butte. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Boise, Nampa, Meridian, and Eagle around 600 PM MDT. Guffey around 610 PM MDT. Aldape Summit, Initial Point, and Lucky Peak Reservoir around 620 PM MDT. Lucky Peak Dam, Arrowrock Dam, Lucky Peak Spring Shores Marina, and Thorn Creek Summit around 630 PM MDT.\nGenerated: 2026-04-16 00:40:15 UTC"
-  43.8400, -115.6100
-  43.6000, -115.8200
-  43.2600, -116.2600
-  43.2200, -116.9900
-  43.5500, -116.5300
-  43.7700, -116.3300
-  43.8400, -115.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 7:00PM CDT by NWS Springfield MO\nExpires: 2026-04-16 00:45 Z\nAt 700 PM CDT, Doppler radar was tracking a strong thunderstorm over Beaver, or near Eureka Springs, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Table Rock Lake, Roaring River State Park, Silver Dollar City, Kimberling City, Shell Knob, Reeds Spring, Seligman, Indian Point, Branson West, Washburn, Golden, Emerald Beach, Eagle Rock, Blue Eye, Chain-O-Lakes, Arrow Point, Coney Island, and Lampe.\nGenerated: 2026-04-16 00:40:15 UTC"
-  36.5000, -94.0700
-  36.5800, -94.0700
-  36.7700, -93.3100
-  36.5000, -93.3200
-  36.5000, -94.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 6:59PM CDT by NWS San Angelo TX\nExpires: 2026-04-16 00:45 Z\nAt 658 PM CDT, Doppler radar was tracking a strong thunderstorm over Norton, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Winters, Maverick, Norton, Wingate, Bradshaw, Drasco, Pumphrey, Wilmeth, and Lake Winters Lake.\nGenerated: 2026-04-16 00:40:15 UTC"
-  31.7500, -100.0700
-  31.8200, -100.2400
-  31.8400, -100.2400
-  32.1800, -100.0600
-  32.0500, -99.7300
-  31.7500, -100.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 6:59PM CDT by NWS Springfield MO\nExpires: 2026-04-16 00:45 Z\nAt 659 PM CDT, Doppler radar was tracking a strong thunderstorm near Oswego, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pittsburg, Frontenac, Columbus, Girard, Arma, Cherokee, Weir, Sherman, Mulberry, Scammon, Chicopee, Mccune, Franklin, West Mineral, Roseland, Beulah, Yale, Carona, Hallowell, and Sherwin.\nGenerated: 2026-04-16 00:40:15 UTC"
-  37.5600, -94.6200
-  37.2000, -94.6200
-  37.0900, -95.0700
-  37.3800, -95.0700
-  37.3900, -95.0900
-  37.4500, -95.0900
-  37.5600, -94.6200
 End:
