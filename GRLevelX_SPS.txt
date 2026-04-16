@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-16 03:15:14 UTC
+; Generated: 2026-04-16 03:20:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 10:07PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 03:30 Z\nAt 1007 PM CDT, Doppler radar indicated a strong thunderstorm 5 miles south of Pearsonia, moving east at 20 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Nelagoney...                      Osage Hills State Park... Pershing...                       Pawhuska... Sunset Lake...\nGenerated: 2026-04-16 03:15:14 UTC"
+Line: 2,,"Special Weather Statement issued April 15 at 10:18PM CDT by NWS Shreveport LA\nExpires: 2026-04-16 04:00 Z\nAt 1018 PM CDT, Doppler radar was tracking a strong thunderstorm 19 miles north of Manchester, or 35 miles north of Clarksville, moving northeast at 70 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... De Queen, Horatio, Idabel, Broken Bow, Manchester, Wright City, Valliant, Millerton, Haworth, Garvin, Oak Hill, Glover, Holly Creek, Golden, Hochatown, Mount Herman, Sherwood, Eagletown, Bethel and Goodwater.\nGenerated: 2026-04-16 03:20:14 UTC"
+  33.9400, -95.1600
+  34.2400, -95.1500
+  34.2400, -95.0500
+  34.5100, -95.0500
+  34.5100, -94.4600
+  34.1900, -94.4700
+  34.1900, -94.3600
+  33.9000, -94.2600
+  33.6900, -95.3100
+  33.8800, -95.3100
+  33.8800, -95.2800
+  33.9000, -95.2900
+  33.9100, -95.2700
+  33.8900, -95.2700
+  33.8900, -95.2600
+  33.9300, -95.2500
+  33.9600, -95.2300
+  33.9400, -95.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 15 at 10:07PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 03:30 Z\nAt 1007 PM CDT, Doppler radar indicated a strong thunderstorm 5 miles south of Pearsonia, moving east at 20 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Nelagoney...                      Osage Hills State Park... Pershing...                       Pawhuska... Sunset Lake...\nGenerated: 2026-04-16 03:20:14 UTC"
   36.6800, -96.5100
   36.8100, -96.4400
   36.7900, -96.1200
@@ -14,7 +36,7 @@ Line: 2,,"Special Weather Statement issued April 15 at 10:07PM CDT by NWS Tulsa 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 11:01PM EDT by NWS Grand Rapids MI\nExpires: 2026-04-16 04:30 Z\nAt 1101 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 20 miles southwest of Montague to 18 miles west of Roosevelt Park to 30 miles west of Holland SP. Movement was east at 50 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Grand Rapids...        Muskegon...            Grand Haven... Newaygo...             White Cloud...         Walker... Muskegon Heights...    Rockford...            Coopersville... Sparta...              Fremont...             Roosevelt Park... North Muskegon...      Ferrysburg...          Whitehall... Montague...            Spring Lake...         Lakewood Club... Ravenna...             Fruitport...\nGenerated: 2026-04-16 03:15:14 UTC"
+Line: 2,,"Special Weather Statement issued April 15 at 11:01PM EDT by NWS Grand Rapids MI\nExpires: 2026-04-16 04:30 Z\nAt 1101 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 20 miles southwest of Montague to 18 miles west of Roosevelt Park to 30 miles west of Holland SP. Movement was east at 50 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Grand Rapids...        Muskegon...            Grand Haven... Newaygo...             White Cloud...         Walker... Muskegon Heights...    Rockford...            Coopersville... Sparta...              Fremont...             Roosevelt Park... North Muskegon...      Ferrysburg...          Whitehall... Montague...            Spring Lake...         Lakewood Club... Ravenna...             Fruitport...\nGenerated: 2026-04-16 03:20:14 UTC"
   43.4700, -86.1100
   43.4700, -86.0400
   43.4900, -86.0400
@@ -27,16 +49,7 @@ Line: 2,,"Special Weather Statement issued April 15 at 11:01PM EDT by NWS Grand 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 10:45PM EDT by NWS Albany NY\nExpires: 2026-04-16 03:15 Z\nAt 1045 PM EDT, Doppler radar was tracking a strong thunderstorm near Olivebridge, or 10 miles northwest of New Paltz, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kingston, New Paltz, Hyde Park, Hurley, Highland, Fairview, West Shokan, High Falls, Kerhonkson, Staatsburg, Tillson, Olivebridge, Port Ewen, Lloyd, Esopus, Rosendale, Marbletown, Cherrytown, Rolling Meadows, and Norrie Heights.  This includes Interstate 87 near exit 18.\nGenerated: 2026-04-16 03:15:14 UTC"
-  41.7800, -74.4200
-  41.9800, -74.3500
-  41.9000, -73.8100
-  41.7100, -73.8800
-  41.7800, -74.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 10:43PM EDT by NWS Albany NY\nExpires: 2026-04-16 03:30 Z\nAt 1043 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Catskill to near Clermont to Kingston. Movement was east at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kingston, Great Barrington, Hudson, Catskill, Saugerties, Rhinebeck, Claverack, Lee, Livingston, Copake, Sheffield, Pine Plains, Clermont, Red Hook, Athens, Ancram, Philmont, Canaan, Millerton, and Lorenz Park.  This includes Interstate 87 near exit 21.\nGenerated: 2026-04-16 03:15:14 UTC"
+Line: 2,,"Special Weather Statement issued April 15 at 10:43PM EDT by NWS Albany NY\nExpires: 2026-04-16 03:30 Z\nAt 1043 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Catskill to near Clermont to Kingston. Movement was east at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kingston, Great Barrington, Hudson, Catskill, Saugerties, Rhinebeck, Claverack, Lee, Livingston, Copake, Sheffield, Pine Plains, Clermont, Red Hook, Athens, Ancram, Philmont, Canaan, Millerton, and Lorenz Park.  This includes Interstate 87 near exit 21.\nGenerated: 2026-04-16 03:20:14 UTC"
   42.3000, -73.2300
   42.0500, -73.2600
   41.9000, -73.4900
@@ -44,106 +57,4 @@ Line: 2,,"Special Weather Statement issued April 15 at 10:43PM EDT by NWS Albany
   42.0900, -73.9300
   42.2800, -73.9100
   42.3000, -73.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 10:41PM EDT by NWS Albany NY\nExpires: 2026-04-16 03:15 Z\nAt 1041 PM EDT, Doppler radar was tracking a strong thunderstorm over Amenia, or 19 miles north of Sherman, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Amenia, Sharon, Falls Village, Cornwall Bridge, Goshen, Cornwall, Smithfield, Corner Of The Pines, Huntsville, South Canaan, Hitchcock Corners, North Corners, West Goshen, Ellsworth, South Amenia, Tyler Lake Heights, Pearson Corners, Yelping Hill, Emmons Corners, and South Ellsworth.\nGenerated: 2026-04-16 03:15:14 UTC"
-  41.7800, -73.5800
-  41.8900, -73.6200
-  42.0200, -73.2800
-  41.7900, -73.1900
-  41.7800, -73.5800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 9:34PM CDT by NWS Tulsa OK\nExpires: 2026-04-16 03:15 Z\nAt 934 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles northeast of Kent to 8 miles northeast of Crockett Lake. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Ord...                            Grant... Corinne...                        Rattan... Fallon...                         Sobol... Swink...                          Goodland... Sawyer...                         Frogville... Messer...                         Hugo Lake State Park... Apple...                          Speer... Raymond Gary State Park...        Hugo... Huskey...                         Oleta... Fort Towson...                    Gay...\nGenerated: 2026-04-16 03:15:14 UTC"
-  33.8900, -95.4600
-  33.8700, -95.5000
-  33.8900, -95.5100
-  33.8800, -95.5400
-  33.9300, -95.5600
-  33.9400, -95.6000
-  33.8900, -95.6900
-  33.9000, -95.7500
-  33.8700, -95.7700
-  33.8700, -95.8100
-  34.1700, -95.5700
-  34.3700, -95.0500
-  34.2500, -95.0500
-  34.2400, -95.1500
-  33.9400, -95.1600
-  33.9600, -95.2300
-  33.9000, -95.2500
-  33.9100, -95.2700
-  33.9000, -95.2900
-  33.8700, -95.4500
-  33.8900, -95.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 9:31PM CDT by NWS Little Rock AR\nExpires: 2026-04-16 03:15 Z\nAt 930 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Jenny Lind to near Excelsior to near Huntington. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Booneville...                     Paris... Mansfield...                      Magazine... Subiaco...                        Hartman... Ratcliff...                       Blue Mountain... Echo...                           Mount Magazine... Coal Hill...                      Caulksville... Barber...                         Roseville... Chismville...                     Liberty... Hunt...                           Wilkins... Corley...                         Grayson...\nGenerated: 2026-04-16 03:15:14 UTC"
-  34.9600, -94.3700
-  34.9600, -94.3100
-  34.9700, -94.2400
-  35.0600, -94.2300
-  35.0700, -94.2400
-  35.1000, -94.1400
-  35.1400, -94.1400
-  35.1400, -94.0300
-  35.2300, -94.0300
-  35.2300, -93.9200
-  35.3200, -93.9100
-  35.3100, -93.8100
-  35.4300, -93.8100
-  35.3600, -93.7500
-  35.3800, -93.7100
-  35.5800, -93.7000
-  35.6000, -93.6800
-  35.3500, -93.5900
-  35.0400, -93.6700
-  34.9400, -94.3900
-  34.9600, -94.3700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 9:30PM CDT by NWS Shreveport LA\nExpires: 2026-04-16 03:15 Z\nAt 930 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 41 miles north of Broken Bow to 28 miles west of Manchester, or extending from 45 miles northwest of De Queen to 40 miles northwest of Clarksville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wright City, Valliant, Millerton, Mount Herman, Bethel, Sherwood, Glover, Battiest, Hochatown, Golden, Pickens, Ringold, Slim, Rufe, Smithville, Farmers Hill, Watson, Redland, Plunketville and Kiomatia.\nGenerated: 2026-04-16 03:15:14 UTC"
-  33.9400, -95.1600
-  34.2400, -95.1500
-  34.2400, -95.0500
-  34.5000, -95.0500
-  34.5100, -94.4600
-  34.3200, -94.4700
-  34.3000, -94.4800
-  33.8300, -95.1200
-  33.8500, -95.3100
-  33.8800, -95.3100
-  33.8800, -95.2800
-  33.9100, -95.2800
-  33.9100, -95.2700
-  33.8900, -95.2700
-  33.9000, -95.2500
-  33.9300, -95.2500
-  33.9600, -95.2300
-  33.9400, -95.1600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 15 at 9:29PM CDT by NWS Little Rock AR\nExpires: 2026-04-16 03:15 Z\nAt 928 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Heavener to near Big Cedar to near Octavia. Movement was east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mena...                           Waldron... Hatfield...                       Beauchamp... Cardiff...                        Opal... Mountain Fork...                  Polk County Fairgrounds... Mena Intermountain Airport...     Oliver... Morgan Springs...                 Queen Wilhelmina State Park... Bates...                          Acorn... Black Fork...                     Board Camp... Winfield...                       Ink... Potter...                         Boles...\nGenerated: 2026-04-16 03:15:14 UTC"
-  34.9300, -94.4500
-  34.9300, -94.4300
-  34.9500, -94.4100
-  34.9400, -94.3900
-  34.9600, -94.3700
-  34.9500, -94.3400
-  34.9600, -94.2600
-  34.9800, -94.2300
-  35.0200, -93.8800
-  34.8400, -93.8400
-  34.6000, -93.9000
-  34.6000, -93.9300
-  34.5500, -93.9300
-  34.5400, -93.9200
-  34.5000, -93.9300
-  34.4900, -94.4600
-  34.9300, -94.4500
 End:
