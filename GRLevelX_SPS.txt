@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-18 02:40:13 UTC
+; Generated: 2026-04-18 02:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 17 at 9:29PM CDT by NWS Norman OK\nExpires: 2026-04-18 03:00 Z\nAt 927 PM CDT, Doppler radar was tracking the leading edge of winds from strong thunderstorms along a line extending from near Wellston to Edmond to northwest Oklahoma City to near Union City. Winds of 40 to 50 mph will be possible with this gust front as it moves southeast through the Oklahoma City metro area.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oklahoma City, southern Edmond, Midwest City, Del City, El Reno, Yukon, Bethany, Mustang, Choctaw, Warr Acres, The Village, Tuttle, Harrah, Spencer, Nichols Hills, Jones, Nicoma Park, Union City, Minco, and Luther.\nGenerated: 2026-04-18 02:40:13 UTC"
+Line: 2,,"Special Weather Statement issued April 17 at 9:37PM CDT by NWS Norman OK\nExpires: 2026-04-18 03:15 Z\nAt 937 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles west of Dill City to 4 miles southwest of Cashion. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Northern Oklahoma City, Edmond, El Reno, Weatherford, Guthrie, Clinton, Kingfisher, Cordell, Yukon, Bethany, Warr Acres, The Village, Piedmont, Nichols Hills, Hinton, Jones, Burns Flat, Carnegie, Union City, and Crescent.\nGenerated: 2026-04-18 02:45:13 UTC"
+  35.3900, -99.3600
+  35.9900, -97.8400
+  35.8700, -97.1400
+  35.6600, -97.1400
+  35.0900, -98.6200
+  35.1200, -98.6400
+  35.1000, -98.7400
+  35.1200, -99.3600
+  35.3900, -99.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 17 at 9:29PM CDT by NWS Norman OK\nExpires: 2026-04-18 03:00 Z\nAt 927 PM CDT, Doppler radar was tracking the leading edge of winds from strong thunderstorms along a line extending from near Wellston to Edmond to northwest Oklahoma City to near Union City. Winds of 40 to 50 mph will be possible with this gust front as it moves southeast through the Oklahoma City metro area.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oklahoma City, southern Edmond, Midwest City, Del City, El Reno, Yukon, Bethany, Mustang, Choctaw, Warr Acres, The Village, Tuttle, Harrah, Spencer, Nichols Hills, Jones, Nicoma Park, Union City, Minco, and Luther.\nGenerated: 2026-04-18 02:45:13 UTC"
   35.5900, -96.7800
   35.4300, -97.3600
   35.3200, -97.6500
@@ -22,26 +35,4 @@ Line: 2,,"Special Weather Statement issued April 17 at 9:29PM CDT by NWS Norman 
   35.7400, -97.1400
   35.7500, -97.1000
   35.5900, -96.7800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 17 at 9:15PM CDT by NWS Tulsa OK\nExpires: 2026-04-18 02:45 Z\nAt 914 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 5 miles east of Chetopa to 4 miles east of New Alluwe. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Miami...                          Vinita... Baxter Springs...                 Commerce... Fairland...                       Afton... Quapaw...                         Welch... Bernice...                        Bluejacket... Treece...                         Cleora... White Oak...                      Narcissa... Ottawa...                         Peoria... Picher...                         Cardin... Hollow...                         Pyramid Corners...  This includes Interstate 44 between mile markers 280 and 324.\nGenerated: 2026-04-18 02:40:13 UTC"
-  37.0000, -94.6200
-  36.9100, -94.6200
-  36.5700, -94.9700
-  36.6100, -95.4300
-  36.6800, -95.4300
-  37.0000, -95.1900
-  37.0000, -94.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 17 at 9:13PM CDT by NWS Norman OK\nExpires: 2026-04-18 02:45 Z\nAt 913 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles west of Carter to 5 miles southwest of Clinton. Movement was southeast at 20 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elk City, Weatherford, Clinton, Sayre, Cordell, Burns Flat, Dill City, Canute, Corn, Carter, Bessie, Foss, Retrop, Delhi, Foss Reservoir, and Stafford.\nGenerated: 2026-04-18 02:40:13 UTC"
-  35.5500, -99.2900
-  35.5500, -98.6200
-  35.4700, -98.6200
-  35.1100, -99.3000
-  35.1200, -99.6800
-  35.2300, -99.7500
-  35.5500, -99.2900
 End:
