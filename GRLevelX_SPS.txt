@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-18 20:05:11 UTC
+; Generated: 2026-04-18 20:10:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 18 at 2:40PM CDT by NWS San Angelo TX\nExpires: 2026-04-18 20:15 Z\nAt 240 PM CDT, Doppler radar was tracking a strong thunderstorm near Field Creek, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cherokee, Colorado Bend State Park, Bend, and Chappel.\nGenerated: 2026-04-18 20:05:11 UTC"
+Line: 2,,"Special Weather Statement issued April 18 at 3:08PM CDT by NWS Fort Worth TX\nExpires: 2026-04-18 20:45 Z\nAt 308 PM CDT, Doppler radar was tracking a strong thunderstorm over Chappel, or 14 miles southeast of San Saba, moving east at 55 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Colorado Bend State Park around 315 PM CDT. Lampasas around 325 PM CDT.  Other locations impacted by this storm include Nix.\nGenerated: 2026-04-18 20:10:14 UTC"
+  31.2600, -98.1500
+  31.0300, -98.1100
+  31.0300, -98.4400
+  31.0600, -98.4800
+  31.0800, -98.4600
+  31.1000, -98.4700
+  31.1100, -98.4600
+  31.1100, -98.4700
+  31.1200, -98.4800
+  31.1200, -98.5000
+  31.0900, -98.5300
+  31.1200, -98.5500
+  31.1300, -98.5500
+  31.2600, -98.1500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 18 at 2:40PM CDT by NWS San Angelo TX\nExpires: 2026-04-18 20:15 Z\nAt 240 PM CDT, Doppler radar was tracking a strong thunderstorm near Field Creek, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cherokee, Colorado Bend State Park, Bend, and Chappel.\nGenerated: 2026-04-18 20:10:14 UTC"
   30.9200, -98.9800
   31.0300, -99.0200
   31.1900, -98.5400
