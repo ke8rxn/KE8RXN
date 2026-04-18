@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-18 09:00:17 UTC
+; Generated: 2026-04-18 09:05:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 18 at 3:56AM CDT by NWS Norman OK\nExpires: 2026-04-18 09:30 Z\nAt 356 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Milburn to 4 miles north of Cartwright. Movement was east at 50 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Durant, Atoka, Tishomingo, Colbert, Caddo, Bokchito, Achille, Silo, Milburn, Tushka, Caney, Kenefic, Mead, Armstrong, Cartwright, Fillmore, Utica, Albany, Blue, and Woodville.\nGenerated: 2026-04-18 09:00:17 UTC"
+Line: 2,,"Special Weather Statement issued April 18 at 4:01AM CDT by NWS Shreveport LA\nExpires: 2026-04-18 09:45 Z\nAt 401 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles north of Gillham to 7 miles southwest of Idabel, or extending from 14 miles north of De Queen to 18 miles north of Clarksville, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Queen, Horatio, Foreman, Idabel, Broken Bow, Lockesburg, Winthrop, Gillham, Arkinda, Avery, Haworth, Garvin, Goodwater, Shinewell, Cerrogordo, Bokhoma, Moon, America and Eagletown.\nGenerated: 2026-04-18 09:05:18 UTC"
+  33.8700, -95.0700
+  34.1400, -94.7100
+  34.2800, -94.4800
+  34.2800, -94.4700
+  34.1900, -94.4700
+  34.1900, -94.2600
+  34.1200, -94.0800
+  34.1100, -94.0900
+  34.1000, -94.0800
+  34.0800, -94.0900
+  34.0800, -94.1000
+  34.0700, -94.0900
+  34.0700, -94.0800
+  33.7200, -94.3600
+  33.5300, -94.8300
+  33.8700, -95.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 18 at 3:56AM CDT by NWS Norman OK\nExpires: 2026-04-18 09:30 Z\nAt 356 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Milburn to 4 miles north of Cartwright. Movement was east at 50 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Durant, Atoka, Tishomingo, Colbert, Caddo, Bokchito, Achille, Silo, Milburn, Tushka, Caney, Kenefic, Mead, Armstrong, Cartwright, Fillmore, Utica, Albany, Blue, and Woodville.\nGenerated: 2026-04-18 09:05:18 UTC"
   33.8700, -96.1000
   33.8100, -96.5200
   33.8200, -96.5300
@@ -20,46 +40,4 @@ Line: 2,,"Special Weather Statement issued April 18 at 3:56AM CDT by NWS Norman 
   34.3900, -96.1300
   34.1600, -96.0300
   33.8700, -96.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 18 at 3:20AM CDT by NWS Norman OK\nExpires: 2026-04-18 09:00 Z\nAt 320 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles southeast of Springer to 3 miles southeast of Lake Murray to 5 miles south of Leon. Movement was northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ardmore, Madill, Tishomingo, Marietta, Lone Grove, Kingston, Dickson, Mannsville, Ravia, Thackerville, Milburn, Overbrook, Woodville, Lake Murray, Burneyville, Lebanon, Russett, Willis, Little City, and northern Lake Texoma.\nGenerated: 2026-04-18 09:00:17 UTC"
-  33.7600, -97.1900
-  33.9200, -97.2100
-  33.8300, -97.4500
-  34.0200, -97.2600
-  34.2500, -97.1900
-  34.3400, -96.5200
-  34.1100, -96.5100
-  34.1100, -96.5900
-  34.0600, -96.5500
-  34.0100, -96.6200
-  33.9000, -96.5900
-  33.9200, -96.6700
-  33.8300, -96.7100
-  33.8500, -96.8600
-  33.9600, -96.9200
-  33.9500, -97.0000
-  33.8500, -97.0200
-  33.8500, -97.0900
-  33.8200, -97.0500
-  33.7200, -97.1100
-  33.7600, -97.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 18 at 3:11AM CDT by NWS Shreveport LA\nExpires: 2026-04-18 09:00 Z\nAt 311 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 33 miles north of Broken Bow to 19 miles north of Manchester, or extending from 37 miles northwest of De Queen to 34 miles north of Clarksville, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Broken Bow, Wright City, Valliant, Millerton, Garvin, Mount Herman, Sherwood, Hochatown, Bethel, Glover, Oak Hill, Golden, Holly Creek, Battiest, Eagletown, Smithville, Watson, Slim, Ringold and Farmers Hill.\nGenerated: 2026-04-18 09:00:17 UTC"
-  34.3100, -95.0500
-  34.3700, -94.9600
-  34.5100, -94.8500
-  34.5100, -94.5700
-  34.4600, -94.4700
-  34.0300, -94.4900
-  33.9000, -95.0400
-  34.0900, -95.1600
-  34.1600, -95.1600
-  34.1600, -95.1500
-  34.2400, -95.1500
-  34.2400, -95.0500
-  34.3100, -95.0500
 End:
