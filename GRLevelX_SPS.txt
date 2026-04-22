@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-22 19:40:17 UTC
+; Generated: 2026-04-22 19:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 3:25PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 20:00 Z\nAt 324 PM EDT, Doppler radar was tracking a strong thunderstorm over Pierceton, or near Winona Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Warsaw, Winona Lake, Pierceton, Larwill, and Wooster.\nGenerated: 2026-04-22 19:40:17 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 3:44PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 20:30 Z\nAt 344 PM EDT, Doppler radar was tracking a strong thunderstorm near Fayette, or 9 miles southwest of Hudson, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Archbold, Fayette, Waldron, Prattville, Oakshade, Elmira, Tedrow, Alvordton, Betzer, and Zone.  This includes Interstate 80 in Ohio between mile markers 21 and 32.\nGenerated: 2026-04-22 19:45:13 UTC"
+  41.4900, -84.3300
+  41.7300, -84.5100
+  41.8000, -84.4300
+  41.7700, -84.3600
+  41.7100, -84.3600
+  41.7100, -84.2100
+  41.6600, -84.0800
+  41.4900, -84.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 22 at 3:40PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 20:15 Z\nAt 340 PM EDT, Doppler radar was tracking a strong thunderstorm near Pierceton, or near Columbia City, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Columbia City, Tri-lakes, Churubusco, Larwill, Raber, Collins, Blue Lake, Lorane, Goose Lake, Coesse, and Peabody.\nGenerated: 2026-04-22 19:45:13 UTC"
+  41.1000, -85.6300
+  41.2400, -85.6100
+  41.2500, -85.3300
+  41.1800, -85.3300
+  41.1800, -85.3400
+  41.0300, -85.3400
+  41.1000, -85.6300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 22 at 3:25PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 20:00 Z\nAt 324 PM EDT, Doppler radar was tracking a strong thunderstorm over Pierceton, or near Winona Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Warsaw, Winona Lake, Pierceton, Larwill, and Wooster.\nGenerated: 2026-04-22 19:45:13 UTC"
   41.1700, -85.8100
   41.2400, -85.8200
   41.2500, -85.6000
@@ -15,7 +38,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 3:25PM EDT by NWS Norther
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 1:25PM MDT by NWS Great Falls MT\nExpires: 2026-04-22 20:15 Z\nAt 121 PM MDT, Doppler radar was tracking a several showers and thunderstorms developing across northwest Beaverhead county. In addition to lightning and small hail, these storms are developing near an upper level low pressure system with a favorable environment to create cold air funnel clouds.  Locations impacted include... Dillon, Sheridan, Virginia City, Whitehall, Twin Bridges, Alder, Jackson, Pony, Wisdom, Silver Star, Grant, Melrose, Wise River, Dewey, Bannack, Laurin, Waterloo, Glen, Beaverhead Rock State Park, and Polaris.\nGenerated: 2026-04-22 19:40:17 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 1:25PM MDT by NWS Great Falls MT\nExpires: 2026-04-22 20:15 Z\nAt 121 PM MDT, Doppler radar was tracking a several showers and thunderstorms developing across northwest Beaverhead county. In addition to lightning and small hail, these storms are developing near an upper level low pressure system with a favorable environment to create cold air funnel clouds.  Locations impacted include... Dillon, Sheridan, Virginia City, Whitehall, Twin Bridges, Alder, Jackson, Pony, Wisdom, Silver Star, Grant, Melrose, Wise River, Dewey, Bannack, Laurin, Waterloo, Glen, Beaverhead Rock State Park, and Polaris.\nGenerated: 2026-04-22 19:45:13 UTC"
   45.8800, -113.4700
   45.7500, -113.3600
   45.8700, -113.2200
@@ -40,21 +63,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 1:25PM MDT by NWS Great F
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 3:09PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 19:45 Z\nAt 309 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Mentone, or 7 miles northeast of Rochester, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Akron, Mentone, Silver Lake, Claypool, Burket, Beaver Dam Lake, Sevastopol, Beaver Dam, Talma, and Palestine.\nGenerated: 2026-04-22 19:40:17 UTC"
-  41.0000, -86.0800
-  41.1500, -86.1700
-  41.1700, -86.0800
-  41.1700, -86.0600
-  41.1800, -86.0500
-  41.2100, -85.9500
-  41.0700, -85.8300
-  41.0400, -85.9300
-  41.0400, -85.9500
-  41.0000, -86.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 3:03PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-22 20:00 Z\nAt 303 PM EDT, Doppler radar was tracking a strong thunderstorm near Hudson, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hudson, Morenci, Fairfield, Seneca, Jasper, Medina, Lime Creek, Weston, Munson, Ogden Center, Canandaigua, and Sand Creek.\nGenerated: 2026-04-22 19:40:17 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 3:03PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-22 20:00 Z\nAt 303 PM EDT, Doppler radar was tracking a strong thunderstorm near Hudson, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hudson, Morenci, Fairfield, Seneca, Jasper, Medina, Lime Creek, Weston, Munson, Ogden Center, Canandaigua, and Sand Creek.\nGenerated: 2026-04-22 19:45:13 UTC"
   41.8800, -84.3600
   41.7600, -83.7700
   41.7200, -83.7600
