@@ -3,12 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-22 00:10:13 UTC
+; Generated: 2026-04-22 00:15:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 21 at 4:41PM PDT by NWS Sacramento CA\nExpires: 2026-04-22 00:15 Z\nAt 440 PM PDT, Doppler radar was tracking a strong thunderstorm near Orland, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Corning, Orland, Vina, Nord, Los Molinos, and Hamilton City.\nGenerated: 2026-04-22 00:10:13 UTC"
-  39.7000, -122.1100
-  39.8100, -122.2500
-  40.0100, -122.1000
-  39.8300, -121.8300
-  39.7000, -122.1100
+Line: 2,,"Special Weather Statement issued April 21 at 5:12PM PDT by NWS Hanford CA\nExpires: 2026-04-22 00:45 Z\nAt 512 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Yosemite Lakes, or 19 miles north of Clovis, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Yosemite Lakes, Peckinpah, Bass Lake, Crane Valley Reservoir, North Fork, Millerton Lake, Auberry, Friant, and Shaver Lake.\nGenerated: 2026-04-22 00:15:11 UTC"
+  36.9900, -119.7000
+  37.1300, -119.8300
+  37.4100, -119.4500
+  37.1900, -119.2500
+  36.9900, -119.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 21 at 5:12PM PDT by NWS Sacramento CA\nExpires: 2026-04-22 01:00 Z\nAt 511 PM PDT, Doppler radar was tracking a strong thunderstorm near Nord, or 9 miles northeast of Orland, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chico, Vina, Nord, Richardson Springs, and Hamilton City.\nGenerated: 2026-04-22 00:15:11 UTC"
+  39.7100, -122.0500
+  39.8200, -122.1900
+  40.0700, -122.0100
+  39.8600, -121.7100
+  39.7100, -122.0500
 End:
