@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-22 00:20:15 UTC
+; Generated: 2026-04-22 00:25:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 21 at 5:12PM PDT by NWS Hanford CA\nExpires: 2026-04-22 00:45 Z\nAt 512 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Yosemite Lakes, or 19 miles north of Clovis, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Yosemite Lakes, Peckinpah, Bass Lake, Crane Valley Reservoir, North Fork, Millerton Lake, Auberry, Friant, and Shaver Lake.\nGenerated: 2026-04-22 00:20:15 UTC"
+Line: 2,,"Special Weather Statement issued April 21 at 6:21PM MDT by NWS Boise ID\nExpires: 2026-04-22 01:00 Z\nAt 621 PM MDT, Doppler radar was tracking a gust front along a line extending from near New Plymouth to Kuna. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph. Blowing dust reducing visibility.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible.  This gust front will be near... Boise, Emmett, Meridian, and Eagle around 630 PM MDT. Hidden Springs, Montour, and French Corner around 640 PM MDT. Sweet and Aldape Summit around 650 PM MDT.\nGenerated: 2026-04-22 00:25:12 UTC"
+  43.6400, -115.8400
+  43.3900, -116.4000
+  43.9600, -116.8700
+  44.1500, -116.4600
+  44.1500, -116.3700
+  44.2000, -116.3500
+  44.2200, -116.3100
+  43.6400, -115.8400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 21 at 5:12PM PDT by NWS Hanford CA\nExpires: 2026-04-22 00:45 Z\nAt 512 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Yosemite Lakes, or 19 miles north of Clovis, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Yosemite Lakes, Peckinpah, Bass Lake, Crane Valley Reservoir, North Fork, Millerton Lake, Auberry, Friant, and Shaver Lake.\nGenerated: 2026-04-22 00:25:12 UTC"
   36.9900, -119.7000
   37.1300, -119.8300
   37.4100, -119.4500
@@ -14,7 +26,7 @@ Line: 2,,"Special Weather Statement issued April 21 at 5:12PM PDT by NWS Hanford
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 21 at 5:12PM PDT by NWS Sacramento CA\nExpires: 2026-04-22 01:00 Z\nAt 511 PM PDT, Doppler radar was tracking a strong thunderstorm near Nord, or 9 miles northeast of Orland, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chico, Vina, Nord, Richardson Springs, and Hamilton City.\nGenerated: 2026-04-22 00:20:15 UTC"
+Line: 2,,"Special Weather Statement issued April 21 at 5:12PM PDT by NWS Sacramento CA\nExpires: 2026-04-22 01:00 Z\nAt 511 PM PDT, Doppler radar was tracking a strong thunderstorm near Nord, or 9 miles northeast of Orland, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chico, Vina, Nord, Richardson Springs, and Hamilton City.\nGenerated: 2026-04-22 00:25:12 UTC"
   39.7100, -122.0500
   39.8200, -122.1900
   40.0700, -122.0100
