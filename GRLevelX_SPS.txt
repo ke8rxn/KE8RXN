@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-22 22:05:14 UTC
+; Generated: 2026-04-22 22:10:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 4:02PM MDT by NWS Rapid City SD\nExpires: 2026-04-22 22:45 Z\nAt 402 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Kadoka, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail. Dry lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midland, Ottumwa, and Nowlin.  This includes Interstate 90 in South Dakota near Mile Marker 157.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 6:08PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 22:30 Z\nAt 607 PM EDT, Doppler radar was tracking a strong thunderstorm near Bryan, moving southeast at 10 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Farmer and Ney.\nGenerated: 2026-04-22 22:10:14 UTC"
+  41.3300, -84.4200
+  41.3100, -84.6200
+  41.4200, -84.7000
+  41.4300, -84.4900
+  41.3300, -84.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 22 at 5:06PM CDT by NWS Houston/Galveston TX\nExpires: 2026-04-22 22:30 Z\nAt 506 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Eagle Lake, moving east at 5 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Nada and Garwood.\nGenerated: 2026-04-22 22:10:14 UTC"
+  29.3400, -96.5400
+  29.4600, -96.5500
+  29.5200, -96.2900
+  29.2700, -96.3000
+  29.3400, -96.5400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 22 at 6:06PM EDT by NWS Cleveland OH\nExpires: 2026-04-22 22:45 Z\nAt 606 PM EDT, Doppler radar was tracking a strong thunderstorm near Gambier, or 9 miles east of Mount Vernon, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bladensburg.\nGenerated: 2026-04-22 22:10:14 UTC"
+  40.2400, -82.2900
+  40.3800, -82.3700
+  40.4300, -82.2900
+  40.3600, -82.1900
+  40.2700, -82.1900
+  40.2400, -82.2000
+  40.2400, -82.2900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 22 at 4:02PM MDT by NWS Rapid City SD\nExpires: 2026-04-22 22:45 Z\nAt 402 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Kadoka, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail. Dry lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midland, Ottumwa, and Nowlin.  This includes Interstate 90 in South Dakota near Mile Marker 157.\nGenerated: 2026-04-22 22:10:14 UTC"
   43.9100, -101.5700
   44.4200, -101.3000
   44.3500, -101.1500
@@ -18,7 +47,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 4:02PM MDT by NWS Rapid C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 6:00PM EDT by NWS Cleveland OH\nExpires: 2026-04-22 22:45 Z\nAt 600 PM EDT, Doppler radar was tracking a strong thunderstorm over Arcadia, or near Findlay, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Findlay, Tiffin, Fostoria, Upper Sandusky, Sycamore, Arcadia, Vanlue, New Riegel, Carey, Bloomdale, and Bascom.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 6:00PM EDT by NWS Cleveland OH\nExpires: 2026-04-22 22:45 Z\nAt 600 PM EDT, Doppler radar was tracking a strong thunderstorm over Arcadia, or near Findlay, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Findlay, Tiffin, Fostoria, Upper Sandusky, Sycamore, Arcadia, Vanlue, New Riegel, Carey, Bloomdale, and Bascom.\nGenerated: 2026-04-22 22:10:14 UTC"
   41.1200, -83.6600
   41.1700, -83.5800
   41.1700, -83.4200
@@ -29,7 +58,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 6:00PM EDT by NWS Clevela
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 5:59PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-22 23:00 Z\nAt 559 PM EDT, Doppler radar was tracking a strong thunderstorm over Britton, or near Tecumseh, moving south at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Blissfield, Petersburg, Deerfield, Britton, and Ridgeway.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 5:59PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-22 23:00 Z\nAt 559 PM EDT, Doppler radar was tracking a strong thunderstorm over Britton, or near Tecumseh, moving south at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Blissfield, Petersburg, Deerfield, Britton, and Ridgeway.\nGenerated: 2026-04-22 22:10:14 UTC"
   42.0400, -83.9200
   42.0600, -83.8000
   41.8200, -83.6300
@@ -38,7 +67,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 5:59PM EDT by NWS Detroit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 3:53PM MDT by NWS Glasgow MT\nExpires: 2026-04-22 22:45 Z\nAt 351 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Edwards to 20 miles southeast of Hillside. Movement was north at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jordan, Edwards, Flowing Wells Rest Area, Cohagen, Brusett, Hillside, Crow Rock, Watkins, Van Norman, and Steve Fork.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 3:53PM MDT by NWS Glasgow MT\nExpires: 2026-04-22 22:45 Z\nAt 351 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Edwards to 20 miles southeast of Hillside. Movement was north at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jordan, Edwards, Flowing Wells Rest Area, Cohagen, Brusett, Hillside, Crow Rock, Watkins, Van Norman, and Steve Fork.\nGenerated: 2026-04-22 22:10:14 UTC"
   46.8600, -105.8400
   46.8600, -106.0600
   46.8500, -106.0900
@@ -50,7 +79,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 3:53PM MDT by NWS Glasgow
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 5:50PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 22:15 Z\nAt 550 PM EDT, Doppler radar was tracking a strong thunderstorm over Marion, moving southeast at 20 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Gas City, Upland, Sweetser, Van Buren, Hanfield, Home Corner, Landess, Arcana, Lake Wood, and Roseburg.  This includes Interstate 69 in Indiana between mile markers 259 and 270.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 5:50PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 22:15 Z\nAt 550 PM EDT, Doppler radar was tracking a strong thunderstorm over Marion, moving southeast at 20 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Gas City, Upland, Sweetser, Van Buren, Hanfield, Home Corner, Landess, Arcana, Lake Wood, and Roseburg.  This includes Interstate 69 in Indiana between mile markers 259 and 270.\nGenerated: 2026-04-22 22:10:14 UTC"
   40.5400, -85.7900
   40.6500, -85.7300
   40.6300, -85.4500
@@ -59,7 +88,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 5:50PM EDT by NWS Norther
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 4:48PM CDT by NWS Midland/Odessa TX\nExpires: 2026-04-22 22:15 Z\nAt 447 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles northwest of Sanderson, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Pecos, northeastern Brewster and west central Terrell Counties.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 4:48PM CDT by NWS Midland/Odessa TX\nExpires: 2026-04-22 22:15 Z\nAt 447 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles northwest of Sanderson, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Pecos, northeastern Brewster and west central Terrell Counties.\nGenerated: 2026-04-22 22:10:14 UTC"
   30.2800, -102.9200
   30.4200, -102.8100
   30.3200, -102.2900
@@ -68,7 +97,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 4:48PM CDT by NWS Midland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 5:46PM EDT by NWS Wilmington OH\nExpires: 2026-04-22 22:15 Z\nAt 546 PM EDT, a strong thunderstorm was located over Lakeview, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Bellefontaine, Russells Point, Lakeview, Belle Center, Chippewa Park, Northwood, Rushsylvania, Huntsville, Valley Hi, Zanesfield, Logansville, New Jerusalem, Pickrelltown, Mcmorran, Big Springs, Bloom Center, and Lewistown.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 5:46PM EDT by NWS Wilmington OH\nExpires: 2026-04-22 22:15 Z\nAt 546 PM EDT, a strong thunderstorm was located over Lakeview, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Bellefontaine, Russells Point, Lakeview, Belle Center, Chippewa Park, Northwood, Rushsylvania, Huntsville, Valley Hi, Zanesfield, Logansville, New Jerusalem, Pickrelltown, Mcmorran, Big Springs, Bloom Center, and Lewistown.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-22 22:10:14 UTC"
   40.5100, -83.6000
   40.2800, -83.6400
   40.3600, -84.0000
@@ -79,7 +108,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 5:46PM EDT by NWS Wilming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 3:43PM MDT by NWS Rapid City SD\nExpires: 2026-04-22 22:15 Z\nAt 342 PM MDT/442 PM CDT/, Doppler radar was tracking a strong thunderstorm over Harrington, or 26 miles east of Martin, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph. Dry lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rosebud, Saint Francis, Parmelee, Spring Creek, Upper Cut Meat, He Dog, Soldier Creek, Harrington, Two Strike, Ring Thunder, Grass Mountain, Vetal, and western Rosebud Reservation.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 3:43PM MDT by NWS Rapid City SD\nExpires: 2026-04-22 22:15 Z\nAt 342 PM MDT/442 PM CDT/, Doppler radar was tracking a strong thunderstorm over Harrington, or 26 miles east of Martin, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph. Dry lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rosebud, Saint Francis, Parmelee, Spring Creek, Upper Cut Meat, He Dog, Soldier Creek, Harrington, Two Strike, Ring Thunder, Grass Mountain, Vetal, and western Rosebud Reservation.\nGenerated: 2026-04-22 22:10:14 UTC"
   43.4800, -101.3900
   43.3700, -100.7800
   43.0000, -100.9600
@@ -88,7 +117,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 3:43PM MDT by NWS Rapid C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 3:42PM MDT by NWS Rapid City SD\nExpires: 2026-04-22 22:15 Z\nAt 341 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Oelrichs, or 23 miles south of Hot Springs, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph. Dry lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oglala, Oelrichs, Smithwick, Loneman, Number 4, Prairie Winds Casino, South Lakeside, Hay Canyon Butte, Slim Butte, and Slim Buttes Housing.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 3:42PM MDT by NWS Rapid City SD\nExpires: 2026-04-22 22:15 Z\nAt 341 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Oelrichs, or 23 miles south of Hot Springs, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph. Dry lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oglala, Oelrichs, Smithwick, Loneman, Number 4, Prairie Winds Casino, South Lakeside, Hay Canyon Butte, Slim Butte, and Slim Buttes Housing.\nGenerated: 2026-04-22 22:10:14 UTC"
   43.3900, -103.2800
   43.1900, -102.5100
   43.0000, -102.8800
@@ -97,7 +126,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 3:42PM MDT by NWS Rapid C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 5:29PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 22:15 Z\nAt 529 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Montpelier, or 8 miles north of Hartford City, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Portland, Montpelier, Geneva, Pennville, Westchester, Center, Nottingham, Bryant, Salamonia, Mcnatts, Trinity, Brice, Bellfountain, Keystone, Domestic, Balbec, Dillman, Petroleum, College Corner, and Liber.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 5:29PM EDT by NWS Northern Indiana\nExpires: 2026-04-22 22:15 Z\nAt 529 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Montpelier, or 8 miles north of Hartford City, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Portland, Montpelier, Geneva, Pennville, Westchester, Center, Nottingham, Bryant, Salamonia, Mcnatts, Trinity, Brice, Bellfountain, Keystone, Domestic, Balbec, Dillman, Petroleum, College Corner, and Liber.\nGenerated: 2026-04-22 22:10:14 UTC"
   40.4200, -85.1800
   40.5100, -85.4300
   40.6400, -85.4500
@@ -109,7 +138,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 5:29PM EDT by NWS Norther
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 3:29PM MDT by NWS Glasgow MT\nExpires: 2026-04-22 22:30 Z\nAt 329 PM MDT, Doppler radar was tracking a strong thunderstorm near Mosby, or 25 miles east of Winnett, moving northwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sand Springs, Mosby, Edwards, Steve Fork, and Cat Creek.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 3:29PM MDT by NWS Glasgow MT\nExpires: 2026-04-22 22:30 Z\nAt 329 PM MDT, Doppler radar was tracking a strong thunderstorm near Mosby, or 25 miles east of Winnett, moving northwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sand Springs, Mosby, Edwards, Steve Fork, and Cat Creek.\nGenerated: 2026-04-22 22:10:14 UTC"
   47.2400, -108.3400
   47.3000, -107.1300
   46.8800, -107.3900
@@ -121,7 +150,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 3:29PM MDT by NWS Glasgow
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 5:28PM EDT by NWS Cleveland OH\nExpires: 2026-04-22 22:15 Z\nAt 528 PM EDT, Doppler radar was tracking a strong thunderstorm over Deshler, or 14 miles northeast of Ottawa, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Findlay, North Baltimore, McComb, Van Buren, Bloomdale, Cygnet, Jerry City, Hoytville, Benton Ridge, Custar, and Bairdstown.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 5:28PM EDT by NWS Cleveland OH\nExpires: 2026-04-22 22:15 Z\nAt 528 PM EDT, Doppler radar was tracking a strong thunderstorm over Deshler, or 14 miles northeast of Ottawa, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Findlay, North Baltimore, McComb, Van Buren, Bloomdale, Cygnet, Jerry City, Hoytville, Benton Ridge, Custar, and Bairdstown.\nGenerated: 2026-04-22 22:10:14 UTC"
   41.3000, -83.8800
   41.2300, -83.4900
   40.9300, -83.6400
@@ -130,7 +159,7 @@ Line: 2,,"Special Weather Statement issued April 22 at 5:28PM EDT by NWS Clevela
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 22 at 5:26PM EDT by NWS Cleveland OH\nExpires: 2026-04-22 22:15 Z\nAt 526 PM EDT, Doppler radar was tracking a strong thunderstorm over Gibsonburg, or 10 miles west of Fremont, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fremont, Clyde, Gibsonburg, Woodville, Elmore, Green Springs, Ballville, Pemberville, Bradner, Wayne, Bettsville, Risingsun, Lindsey, Helena, Burgoon, Kansas, Stony Prairie, and Vickery.\nGenerated: 2026-04-22 22:05:14 UTC"
+Line: 2,,"Special Weather Statement issued April 22 at 5:26PM EDT by NWS Cleveland OH\nExpires: 2026-04-22 22:15 Z\nAt 526 PM EDT, Doppler radar was tracking a strong thunderstorm over Gibsonburg, or 10 miles west of Fremont, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fremont, Clyde, Gibsonburg, Woodville, Elmore, Green Springs, Ballville, Pemberville, Bradner, Wayne, Bettsville, Risingsun, Lindsey, Helena, Burgoon, Kansas, Stony Prairie, and Vickery.\nGenerated: 2026-04-22 22:10:14 UTC"
   41.5000, -83.4100
   41.5000, -83.3100
   41.4600, -83.2300
