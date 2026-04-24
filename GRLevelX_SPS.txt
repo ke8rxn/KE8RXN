@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-24 03:40:11 UTC
+; Generated: 2026-04-24 03:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 23 at 10:36PM CDT by NWS Norman OK\nExpires: 2026-04-24 04:00 Z\nAt 1036 PM CDT, Doppler radar was tracking a strong thunderstorm near Lindsay, moving northeast at 40 mph.  HAZARD...Wind gusts of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Purcell, Lindsay, Lexington, Wayne, Criner, and Payne.\nGenerated: 2026-04-24 03:40:11 UTC"
+Line: 2,,"Special Weather Statement issued April 23 at 10:42PM CDT by NWS Tulsa OK\nExpires: 2026-04-24 04:15 Z\nAt 1042 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles south of Bartlesville Municipal Airport to 9 miles northwest of Hominy. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Bartlesville...                   Pawhuska... Dewey...                          Barnsdall... Wynona...                         Avant... Bartlesville Municipal Airport... Sunset Lake... Osage Hills State Park...         Okesa... Tallant...                        Pershing... Nelagoney...                      Wolco...\nGenerated: 2026-04-24 03:45:13 UTC"
+  36.8600, -95.9100
+  36.4800, -96.0300
+  36.4900, -96.7000
+  36.6700, -96.5300
+  36.8000, -96.2200
+  36.8600, -95.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 23 at 10:36PM CDT by NWS Norman OK\nExpires: 2026-04-24 04:00 Z\nAt 1036 PM CDT, Doppler radar was tracking a strong thunderstorm near Lindsay, moving northeast at 40 mph.  HAZARD...Wind gusts of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Purcell, Lindsay, Lexington, Wayne, Criner, and Payne.\nGenerated: 2026-04-24 03:45:13 UTC"
   34.8100, -97.6600
   34.8700, -97.6700
   34.9400, -97.6700
@@ -21,7 +31,7 @@ Line: 2,,"Special Weather Statement issued April 23 at 10:36PM CDT by NWS Norman
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 23 at 10:29PM CDT by NWS Tulsa OK\nExpires: 2026-04-24 04:00 Z\nAt 1029 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles southeast of Copan to 5 miles northeast of Barnsdall. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Bartlesville...                   Nowata... Dewey...                          Copan... Ramona...                         Ochelata... Delaware...                       Avant... Lenapah...                        Talala... Wann...                           Watova...\nGenerated: 2026-04-24 03:40:11 UTC"
+Line: 2,,"Special Weather Statement issued April 23 at 10:29PM CDT by NWS Tulsa OK\nExpires: 2026-04-24 04:00 Z\nAt 1029 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles southeast of Copan to 5 miles northeast of Barnsdall. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Bartlesville...                   Nowata... Dewey...                          Copan... Ramona...                         Ochelata... Delaware...                       Avant... Lenapah...                        Talala... Wann...                           Watova...\nGenerated: 2026-04-24 03:45:13 UTC"
   37.0000, -95.4100
   36.9400, -95.4200
   36.9400, -95.4300
@@ -30,42 +40,4 @@ Line: 2,,"Special Weather Statement issued April 23 at 10:29PM CDT by NWS Tulsa 
   36.7300, -96.0000
   36.9000, -96.0000
   37.0000, -95.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 23 at 10:21PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-04-24 03:45 Z\nAt 1021 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wheeling to Hale to near Bosworth. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Brookfield, Marceline, Brunswick, Keytesville, Meadville, Hale, Laclede, Linneus, Wheeling, Purdin, Mendon, De Witt, Sumner, Rothville, Triplett, and Saint Catherine.\nGenerated: 2026-04-24 03:40:11 UTC"
-  39.3800, -93.1400
-  39.3900, -93.1600
-  39.4000, -93.1600
-  39.4100, -93.1800
-  39.4100, -93.2000
-  39.3700, -93.1900
-  39.3500, -93.2500
-  39.8500, -93.5100
-  40.0100, -93.1300
-  39.4700, -92.7800
-  39.3800, -93.1400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 23 at 10:12PM CDT by NWS Tulsa OK\nExpires: 2026-04-24 03:45 Z\nAt 1012 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles northwest of Sooner Lake to 6 miles southwest of Morrison. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Pawnee...                         Ralston... Sooner Lake...\nGenerated: 2026-04-24 03:40:11 UTC"
-  36.5100, -97.0300
-  36.5100, -97.0100
-  36.4900, -97.0000
-  36.4600, -96.9700
-  36.4600, -96.9300
-  36.4700, -96.9100
-  36.4700, -96.8800
-  36.5600, -96.8000
-  36.5700, -96.7700
-  36.5500, -96.7400
-  36.5000, -96.7200
-  36.4900, -96.7100
-  36.1900, -96.7400
-  36.1800, -96.8200
-  36.2500, -96.8200
-  36.2500, -96.9200
-  36.3300, -96.9300
-  36.3400, -97.0300
-  36.5100, -97.0300
 End:
