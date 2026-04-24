@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-24 06:40:15 UTC
+; Generated: 2026-04-24 06:45:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 24 at 1:20AM CDT by NWS Springfield MO\nExpires: 2026-04-24 07:15 Z\nAt 120 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Greenfield to near Everton to near Marionville to 6 miles east of Purdy. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Springfield, Nixa, Ozark, Republic, Aurora, Battlefield, Willard, Rogersville, Strafford, Marionville, Clever, Ash Grove, Crane, Fair Grove, Billings, Highlandville, Fremont Hills, Walnut Grove, Pleasant Hope, and Morrisville.  This includes Interstate 44 between mile markers 50 and 90.\nGenerated: 2026-04-24 06:40:15 UTC"
+Line: 2,,"Special Weather Statement issued April 24 at 1:44AM CDT by NWS Norman OK\nExpires: 2026-04-24 07:15 Z\nAt 144 AM CDT, Doppler radar was tracking a strong thunderstorm near Cimarron City, moving east at 35 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Guthrie, Langston, Cashion, Cedar Valley, Cimarron City, and Meridian.\nGenerated: 2026-04-24 06:45:19 UTC"
+  35.9700, -97.2500
+  35.8000, -97.2300
+  35.8200, -97.6700
+  35.9300, -97.6800
+  35.9800, -97.2800
+  35.9700, -97.2700
+  35.9700, -97.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 24 at 1:42AM CDT by NWS Tulsa OK\nExpires: 2026-04-24 07:15 Z\nAt 142 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles south of Pineville to 4 miles southwest of Hiwasse to 5 miles west of Gentry. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Rogers...                         Bentonville... Bella Vista...                    Lowell... Pea Ridge...                      Gentry... Gravette...                       Cave Springs... Decatur...                        Colcord... Highfill...                       Springtown... Northwest Arkansas Regional Air...Hiwasse... Miller...                         Centerton... Avoca...                          Vaughn... Healing Springs...                Rocky Comfort...  This includes Interstate 49 between mile markers 81 and 93.\nGenerated: 2026-04-24 06:45:19 UTC"
+  36.3800, -94.0500
+  36.2300, -94.2300
+  36.2400, -94.7400
+  36.3800, -94.5400
+  36.5000, -94.5000
+  36.5000, -94.0400
+  36.3800, -94.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 24 at 1:20AM CDT by NWS Springfield MO\nExpires: 2026-04-24 07:15 Z\nAt 120 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Greenfield to near Everton to near Marionville to 6 miles east of Purdy. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Springfield, Nixa, Ozark, Republic, Aurora, Battlefield, Willard, Rogersville, Strafford, Marionville, Clever, Ash Grove, Crane, Fair Grove, Billings, Highlandville, Fremont Hills, Walnut Grove, Pleasant Hope, and Morrisville.  This includes Interstate 44 between mile markers 50 and 90.\nGenerated: 2026-04-24 06:45:19 UTC"
   36.8300, -93.8400
   37.0400, -93.7400
   37.3100, -93.7600
@@ -14,15 +36,4 @@ Line: 2,,"Special Weather Statement issued April 24 at 1:20AM CDT by NWS Springf
   37.0500, -93.0600
   36.8200, -93.2500
   36.8300, -93.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 24 at 1:19AM CDT by NWS Tulsa OK\nExpires: 2026-04-24 06:45 Z\nAt 119 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 8 miles west of Anderson to 3 miles south of South West City to 6 miles south of Jay. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Bella Vista...                    Siloam Springs... Jay...                            Gentry... Gravette...                       Decatur... West Siloam Springs...            Colcord... Springtown...                     Maysville... Hiwasse...                        Dodge... Cayuga...                         Fairmount... Lake Eucha State Park...          Cherokee City...\nGenerated: 2026-04-24 06:40:15 UTC"
-  36.5000, -94.6200
-  36.5000, -94.2600
-  36.1400, -94.4700
-  36.2600, -94.9000
-  36.6700, -94.6900
-  36.6700, -94.6200
-  36.5000, -94.6200
 End:
