@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-25 10:45:14 UTC
+; Generated: 2026-04-25 10:50:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 5:35AM CDT by NWS New Orleans LA\nExpires: 2026-04-25 11:15 Z\nAt 535 AM CDT, Doppler radar was tracking a strong thunderstorm near Folsom, or 7 miles northwest of Covington, moving southeast at 35 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hammond, Covington, Ponchatoula, Abita Springs, Madisonville, Sun, Robert, Bush, Natalbany, and W Lk Pontchartrain Buoy.  This includes the following Interstates... Interstate 12 between mile markers 35 and 69. Interstate 55 in Louisiana between mile markers 15 and 33.\nGenerated: 2026-04-25 10:45:14 UTC"
+Line: 2,,"Special Weather Statement issued April 25 at 4:46AM MDT by NWS Great Falls MT\nExpires: 2026-04-25 12:15 Z\nAt 445 AM MDT, Doppler radar was tracking snow showers, some of which were heavy, along a line extending from 12 miles southwest of Fort Shaw to 14 miles southwest of Geyser. Movement was southeast at 25 mph.  HAZARD...Brief heavy snow showers.  SOURCE...Radar indicated.  IMPACT...Snow covered roadways and poor driving visibility.  Locations impacted include... Cascade, Wolf Creek, Neihart, Bowmans Corner, Craig, Monarch, and Checkerboard.\nGenerated: 2026-04-25 10:50:14 UTC"
+  46.9700, -112.2700
+  46.5000, -110.3500
+  46.9900, -110.2600
+  47.5000, -112.2000
+  46.9700, -112.2700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 25 at 5:35AM CDT by NWS New Orleans LA\nExpires: 2026-04-25 11:15 Z\nAt 535 AM CDT, Doppler radar was tracking a strong thunderstorm near Folsom, or 7 miles northwest of Covington, moving southeast at 35 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hammond, Covington, Ponchatoula, Abita Springs, Madisonville, Sun, Robert, Bush, Natalbany, and W Lk Pontchartrain Buoy.  This includes the following Interstates... Interstate 12 between mile markers 35 and 69. Interstate 55 in Louisiana between mile markers 15 and 33.\nGenerated: 2026-04-25 10:50:14 UTC"
   30.6300, -89.8200
   30.6200, -89.8300
   30.5600, -89.8100
@@ -21,50 +30,4 @@ Line: 2,,"Special Weather Statement issued April 25 at 5:35AM CDT by NWS New Orl
   30.6700, -90.0100
   30.6700, -89.8500
   30.6300, -89.8200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 5:06AM CDT by NWS New Orleans LA\nExpires: 2026-04-25 10:45 Z\nAt 506 AM CDT, Doppler radar was tracking a strong thunderstorm near Amite, moving southeast at 50 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammond, Amite, Ponchatoula, Amite City, Independence, Roseland, Folsom, Natalbany, Robert, Wilmer, and Tickfaw.  This includes the following Interstates... Interstate 12 between mile markers 35 and 53. Interstate 55 in Louisiana between mile markers 28 and 49.\nGenerated: 2026-04-25 10:45:14 UTC"
-  30.6500, -90.0000
-  30.5000, -90.1300
-  30.4800, -90.2400
-  30.4400, -90.5500
-  30.4700, -90.5500
-  30.4900, -90.5700
-  30.6500, -90.5700
-  30.6500, -90.5800
-  30.7400, -90.5900
-  30.8400, -90.3400
-  30.6500, -90.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 4:58AM CDT by NWS Mobile AL\nExpires: 2026-04-25 10:45 Z\nAt 458 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles east of Brooklyn to 5 miles southeast of Poplarville. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wiggins, Perkinston, and McHenry.\nGenerated: 2026-04-25 10:45:14 UTC"
-  30.9100, -89.3400
-  30.9100, -89.1400
-  31.1100, -89.1500
-  31.1400, -89.1000
-  30.8300, -88.7700
-  30.6800, -88.9800
-  30.6800, -89.2400
-  30.6500, -89.2400
-  30.6500, -89.3400
-  30.9100, -89.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 4:54AM CDT by NWS Mobile AL\nExpires: 2026-04-25 10:45 Z\nAt 454 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Crandall to 9 miles east of Brooklyn. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesboro, Lucedale, Chatom, Leakesville, Clara, Deer Park, Tibbie, Beaumont, Millry, McLain, State Line, Buckatunna, Silas, Fruitdale, Coffeeville, Gilbertown, and Toxey.\nGenerated: 2026-04-25 10:45:14 UTC"
-  31.8700, -88.5600
-  31.9000, -88.4700
-  31.9600, -88.4700
-  31.8800, -87.8700
-  31.1100, -88.3600
-  31.1100, -88.4300
-  31.0100, -88.4200
-  30.7600, -88.5800
-  30.8900, -88.8900
-  30.9100, -88.8900
-  30.9100, -88.9500
-  30.9800, -89.1200
-  31.8700, -88.5600
 End:
