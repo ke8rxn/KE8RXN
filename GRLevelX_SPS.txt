@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-25 03:30:13 UTC
+; Generated: 2026-04-25 03:35:09 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 24 at 10:23PM CDT by NWS Shreveport LA\nExpires: 2026-04-25 04:00 Z\nAt 1023 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near Mount Holly to near Taylor, or extending from 13 miles east of McNeil to 6 miles northeast of Springhill, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Magnolia, Haynesville, Taylor, Emerson, Shongaloo, Atlanta, Village, Mount Holly, Macedonia, Lisbon, Wesson, Calhoun, Noxobe, Spotville, Marysville, Hew Hope, Horsehead, Ebenezer, Three Creeks and Laughlin.\nGenerated: 2026-04-25 03:30:13 UTC"
+Line: 2,,"Special Weather Statement issued April 24 at 10:30PM CDT by NWS Little Rock AR\nExpires: 2026-04-25 04:15 Z\nAt 1029 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Fordyce to Highland Industrial Park to near Louann to Mount Holly. Movement was southeast at 40 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Camden...                         Warren... Fordyce...                        Hampton... Bearden...                        Stephens... Hermitage...                      Calion... Thornton...                       Harrell... Louann...                         Hampton Municipal Airport... Moro Bay...                       Weeks... Tipton...                         Cullendale... Ellisville...                     Hilo... Harlow...                         Highland Industrial Park...\nGenerated: 2026-04-25 03:35:09 UTC"
+  33.2800, -92.3600
+  33.3000, -92.3500
+  33.2800, -92.3800
+  33.2700, -92.4400
+  33.2900, -92.4700
+  33.3200, -92.4600
+  33.3200, -92.5300
+  33.3500, -92.5300
+  33.3700, -92.5900
+  33.3600, -92.6700
+  33.3900, -92.7500
+  33.3700, -92.7900
+  33.3800, -93.1200
+  33.4000, -93.1200
+  33.5500, -92.9000
+  33.8800, -92.4700
+  33.7000, -91.9800
+  33.2600, -92.2900
+  33.2800, -92.3000
+  33.2600, -92.3300
+  33.2800, -92.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 24 at 10:23PM CDT by NWS Shreveport LA\nExpires: 2026-04-25 04:00 Z\nAt 1023 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near Mount Holly to near Taylor, or extending from 13 miles east of McNeil to 6 miles northeast of Springhill, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Magnolia, Haynesville, Taylor, Emerson, Shongaloo, Atlanta, Village, Mount Holly, Macedonia, Lisbon, Wesson, Calhoun, Noxobe, Spotville, Marysville, Hew Hope, Horsehead, Ebenezer, Three Creeks and Laughlin.\nGenerated: 2026-04-25 03:35:09 UTC"
   33.1300, -93.4800
   33.3200, -93.1400
   33.3800, -93.1000
@@ -18,31 +43,10 @@ Line: 2,,"Special Weather Statement issued April 24 at 10:23PM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 24 at 10:16PM CDT by NWS Little Rock AR\nExpires: 2026-04-25 03:45 Z\nAt 1016 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Bearden, or 15 miles west of Fordyce, moving east at 45 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fordyce...                        Hampton... Bearden...                        Kingsland... Thornton...                       Highland Industrial Park... Ellisville...                     Harlow... Amy...                            Chambersville... Eagle Mills...                    Holly Springs... Hopeville...                      Pine Grove... Woodberry...                      Millville... Ramsey...\nGenerated: 2026-04-25 03:30:13 UTC"
+Line: 2,,"Special Weather Statement issued April 24 at 10:16PM CDT by NWS Little Rock AR\nExpires: 2026-04-25 03:45 Z\nAt 1016 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Bearden, or 15 miles west of Fordyce, moving east at 45 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fordyce...                        Hampton... Bearden...                        Kingsland... Thornton...                       Highland Industrial Park... Ellisville...                     Harlow... Amy...                            Chambersville... Eagle Mills...                    Holly Springs... Hopeville...                      Pine Grove... Woodberry...                      Millville... Ramsey...\nGenerated: 2026-04-25 03:35:09 UTC"
   33.7200, -92.9100
   33.9400, -92.7700
   33.8900, -92.2700
   33.5300, -92.4100
   33.7200, -92.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 24 at 9:46PM CDT by NWS Jackson MS\nExpires: 2026-04-25 03:30 Z\nAt 946 PM CDT, Doppler radar was tracking a strong thunderstorm near Prentiss, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Prentiss, Lone Star, and Clem around 950 PM CDT. Carson around 955 PM CDT. Collins and Mount Olive around 1005 PM CDT. Seminary around 1010 PM CDT. Hebron around 1025 PM CDT.\nGenerated: 2026-04-25 03:30:13 UTC"
-  31.5800, -90.1500
-  31.8500, -89.9600
-  31.8700, -89.3200
-  31.4400, -89.3900
-  31.4300, -89.8300
-  31.5800, -90.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 24 at 9:29PM CDT by NWS Jackson MS\nExpires: 2026-04-25 03:30 Z\nAt 929 PM CDT, Doppler radar was tracking a strong thunderstorm near Peyton, or 16 miles southeast of Port Gibson, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Allen and Barlow around 935 PM CDT. Glancy around 950 PM CDT. Hazlehurst and Martinsville around 1005 PM CDT.\nGenerated: 2026-04-25 03:30:13 UTC"
-  31.7800, -90.8700
-  31.9400, -90.8300
-  31.8800, -90.3500
-  31.7300, -90.4100
-  31.7000, -90.4600
-  31.7000, -90.6200
-  31.7800, -90.8700
 End:
