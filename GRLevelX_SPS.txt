@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-26 23:20:13 UTC
+; Generated: 2026-04-26 23:25:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 7:10PM EDT by NWS Jacksonville FL\nExpires: 2026-04-26 23:45 Z\nAt 709 PM EDT, Doppler radar was tracking a strong thunderstorm near Everett, or 8 miles southeast of Gardi, moving south at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Highway 82 Wildfire Area, Everett, Waynesville, Thalmann, and Mount Pleasant.\nGenerated: 2026-04-26 23:20:13 UTC"
+Line: 2,,"Special Weather Statement issued April 26 at 7:23PM EDT by NWS Jacksonville FL\nExpires: 2026-04-27 00:00 Z\nAt 723 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout 7 miles east of Screven, or 8 miles southwest of Gardi, moving southeast at 20 mph.  HAZARD...Landspouts, wind gusts around 40 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesville, Atkinson, Broadhurst, and Hortense.\nGenerated: 2026-04-26 23:25:11 UTC"
+  31.2300, -81.7600
+  31.1800, -81.9400
+  31.4600, -82.0100
+  31.5500, -81.8300
+  31.2300, -81.7600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 26 at 7:10PM EDT by NWS Jacksonville FL\nExpires: 2026-04-26 23:45 Z\nAt 709 PM EDT, Doppler radar was tracking a strong thunderstorm near Everett, or 8 miles southeast of Gardi, moving south at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Highway 82 Wildfire Area, Everett, Waynesville, Thalmann, and Mount Pleasant.\nGenerated: 2026-04-26 23:25:11 UTC"
   31.5100, -81.6600
   31.4800, -81.6300
   31.2100, -81.6100
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued April 26 at 7:10PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 6:55PM EDT by NWS Jacksonville FL\nExpires: 2026-04-26 23:30 Z\nAt 654 PM EDT, Doppler radar was tracking a strong thunderstorm near Gardi, moving south at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gardi and Mount Pleasant.\nGenerated: 2026-04-26 23:20:13 UTC"
+Line: 2,,"Special Weather Statement issued April 26 at 6:55PM EDT by NWS Jacksonville FL\nExpires: 2026-04-26 23:30 Z\nAt 654 PM EDT, Doppler radar was tracking a strong thunderstorm near Gardi, moving south at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gardi and Mount Pleasant.\nGenerated: 2026-04-26 23:25:11 UTC"
   31.5800, -81.7000
   31.5600, -81.7000
   31.5400, -81.6800
