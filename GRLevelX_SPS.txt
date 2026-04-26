@@ -3,22 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-26 00:25:15 UTC
+; Generated: 2026-04-26 00:30:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 8:04PM EDT by NWS Peachtree City GA\nExpires: 2026-04-26 00:30 Z\nAt 803 PM EDT, a strong thunderstorm was near Waterhouse, or near Forney, moving southeast at 25 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Rome, Cedartown, Cave Spring, Etna, Lindale, Coosa, and Esom Hill.\nGenerated: 2026-04-26 00:25:15 UTC"
-  34.2900, -85.4100
-  34.2900, -85.3900
-  34.3200, -85.3700
-  34.3600, -85.3200
-  34.1800, -85.1100
-  33.9700, -85.2700
-  33.9200, -85.3900
-  34.2500, -85.4600
-  34.2900, -85.4100
+Line: 2,,"Special Weather Statement issued April 25 at 8:14PM EDT by NWS Wakefield VA\nExpires: 2026-04-26 01:00 Z\nAt 814 PM EDT, Doppler radar was tracking a strong thunderstorm near Franklin, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Holland, Suffolk, and Carrsville around 820 PM EDT. Downtown Suffolk around 850 PM EDT.  Other locations impacted by this storm include Collosse, Wilroy, Lees Mill, Lummis, Nurney, Kilby, Suffolk Airport, Boaz, Cleopus, and Saunders.\nGenerated: 2026-04-26 00:30:13 UTC"
+  36.5900, -76.9100
+  36.6200, -76.9100
+  36.6300, -76.8900
+  36.6500, -76.9100
+  36.6800, -76.9200
+  36.7000, -76.9100
+  36.7000, -76.9300
+  36.7500, -76.9000
+  36.8000, -76.5600
+  36.7900, -76.5600
+  36.8100, -76.5300
+  36.8200, -76.4600
+  36.5600, -76.4900
+  36.5900, -76.9100
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 8:01PM EDT by NWS Raleigh NC\nExpires: 2026-04-26 01:00 Z\nAt 800 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Rocky Mount, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount, Tarboro, Scotland Neck, Elm City, Dortches, Red Oak, Enfield, Princeville, Sharpsburg, and Pinetops.  This includes Interstate 95 between Mile Markers 154 and 138.\nGenerated: 2026-04-26 00:25:15 UTC"
+Line: 2,,"Special Weather Statement issued April 25 at 7:14PM CDT by NWS Topeka KS\nExpires: 2026-04-26 00:45 Z\nAt 713 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Delphos, moving east at 25 mph.  HAZARD...Strong wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Aurora.\nGenerated: 2026-04-26 00:30:13 UTC"
+  39.2400, -97.7400
+  39.4000, -97.7700
+  39.4600, -97.5100
+  39.2500, -97.4500
+  39.2400, -97.7400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 25 at 8:01PM EDT by NWS Raleigh NC\nExpires: 2026-04-26 01:00 Z\nAt 800 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Rocky Mount, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount, Tarboro, Scotland Neck, Elm City, Dortches, Red Oak, Enfield, Princeville, Sharpsburg, and Pinetops.  This includes Interstate 95 between Mile Markers 154 and 138.\nGenerated: 2026-04-26 00:30:13 UTC"
   36.0900, -77.3100
   36.0000, -77.4100
   35.9000, -77.3400
@@ -39,26 +53,7 @@ Line: 2,,"Special Weather Statement issued April 25 at 8:01PM EDT by NWS Raleigh
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 6:58PM CDT by NWS Little Rock AR\nExpires: 2026-04-26 00:30 Z\nAt 658 PM CDT, Doppler radar was tracking a strong thunderstorm near Hartford, or 14 miles northwest of Waldron, moving east at 35 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Waldron...                        Mansfield... Oliver...                         Cauthron... Winfield...                       Hon... Lucas...                          Liberty... Elm Park...                       Ione...\nGenerated: 2026-04-26 00:25:15 UTC"
-  34.9500, -94.4100
-  34.9400, -94.3900
-  34.9600, -94.3700
-  34.9500, -94.3400
-  34.9500, -94.2900
-  34.9700, -94.2400
-  35.0600, -94.2300
-  35.0600, -94.2500
-  35.0700, -94.2400
-  35.0800, -94.2200
-  35.0900, -94.1800
-  35.0700, -93.9600
-  34.8300, -94.1200
-  34.9400, -94.4200
-  34.9500, -94.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 7:50PM EDT by NWS Raleigh NC\nExpires: 2026-04-26 00:45 Z\nAt 750 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Goldsboro, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Goldsboro, Walnut Creek, Pikeville, Mar-Mac, Brogden, Elroy, and Cliffs Of The Neuse State Park.\nGenerated: 2026-04-26 00:25:15 UTC"
+Line: 2,,"Special Weather Statement issued April 25 at 7:50PM EDT by NWS Raleigh NC\nExpires: 2026-04-26 00:45 Z\nAt 750 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Goldsboro, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Goldsboro, Walnut Creek, Pikeville, Mar-Mac, Brogden, Elroy, and Cliffs Of The Neuse State Park.\nGenerated: 2026-04-26 00:30:13 UTC"
   35.3400, -77.8200
   35.2600, -77.8300
   35.2200, -78.1600
