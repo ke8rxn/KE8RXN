@@ -3,9 +3,43 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-26 13:15:11 UTC
+; Generated: 2026-04-26 13:20:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 7:57AM CDT by NWS Norman OK\nExpires: 2026-04-26 13:30 Z\nAt 757 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southwest of Glencoe, moving northeast at 20 mph.  HAZARD...Wind gusts of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Stillwater and Glencoe.\nGenerated: 2026-04-26 13:15:11 UTC"
+Line: 2,,"Special Weather Statement issued April 26 at 8:12AM CDT by NWS Mobile AL\nExpires: 2026-04-26 14:00 Z\nAt 812 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Mill Creek to 6 miles northeast of Ovett to 5 miles north of Macedonia. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Waynesboro, Richton, Clara, State Line, and Buckatunna.\nGenerated: 2026-04-26 13:20:13 UTC"
+  31.4300, -88.9400
+  31.8200, -88.9400
+  31.7000, -88.4700
+  31.2900, -88.4400
+  31.1600, -88.6300
+  31.4000, -89.1500
+  31.4300, -89.1500
+  31.4300, -88.9400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 26 at 8:11AM CDT by NWS Dodge City KS\nExpires: 2026-04-26 14:15 Z\nAt 811 AM CDT, Doppler radar was tracking a strong thunderstorm near Brownell, moving northeast at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... McCracken around 820 AM CDT.  Other locations in the path of this storm include Schoenchen and Munjor.\nGenerated: 2026-04-26 13:20:13 UTC"
+  38.5200, -99.0400
+  38.4500, -99.9200
+  38.7100, -100.0300
+  39.0300, -99.0400
+  38.5200, -99.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 26 at 8:09AM CDT by NWS New Orleans LA\nExpires: 2026-04-26 13:45 Z\nAt 809 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles east of Franklinton to 8 miles south of Wilmer to near Montpelier. Movement was south at 35 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammond, Bogalusa, Franklinton, Amite, Ponchatoula, Amite City, Independence, Albany, Folsom, Montpelier, Enon, Natalbany, Robert, and Tickfaw.  This includes the following Interstates... Interstate 12 between mile markers 29 and 50. Interstate 55 in Louisiana between mile markers 28 and 47.\nGenerated: 2026-04-26 13:20:13 UTC"
+  30.7300, -89.8300
+  30.4800, -90.2800
+  30.4400, -90.5900
+  30.4800, -90.6700
+  30.7100, -90.7000
+  30.7600, -90.3600
+  31.0000, -89.9800
+  31.0000, -89.9300
+  30.7300, -89.8300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 26 at 7:57AM CDT by NWS Norman OK\nExpires: 2026-04-26 13:30 Z\nAt 757 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southwest of Glencoe, moving northeast at 20 mph.  HAZARD...Wind gusts of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Stillwater and Glencoe.\nGenerated: 2026-04-26 13:20:13 UTC"
   36.2500, -96.9200
   36.2500, -96.8200
   36.1600, -96.8200
@@ -15,24 +49,4 @@ Line: 2,,"Special Weather Statement issued April 26 at 7:57AM CDT by NWS Norman 
   36.3400, -96.9400
   36.3300, -96.9200
   36.2500, -96.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 7:48AM CDT by NWS Dodge City KS\nExpires: 2026-04-26 13:15 Z\nAt 748 AM CDT, Doppler radar was tracking a strong thunderstorm near Ransom, moving northeast at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Brownell around 800 AM CDT.\nGenerated: 2026-04-26 13:15:11 UTC"
-  39.0600, -99.4600
-  38.5900, -99.0300
-  38.5400, -99.0300
-  38.3800, -100.0900
-  38.6600, -100.1800
-  39.0600, -99.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 7:30AM CDT by NWS New Orleans LA\nExpires: 2026-04-26 13:15 Z\nAt 730 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Felps to near Spillman. Movement was southeast at 30 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Zachary, Jackson, Clinton, Centreville, Slaughter, Wilson, Norwood, Montpelier, Spillman, Pride, Felps, and Darlington.\nGenerated: 2026-04-26 13:15:11 UTC"
-  30.6700, -90.6500
-  30.7000, -91.2200
-  31.0000, -91.3400
-  31.1400, -90.8600
-  31.0000, -90.8100
-  30.6700, -90.6500
 End:
