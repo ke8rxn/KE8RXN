@@ -3,9 +3,35 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-26 02:00:14 UTC
+; Generated: 2026-04-26 02:05:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 8:55PM CDT by NWS Tulsa OK\nExpires: 2026-04-26 02:30 Z\nAt 855 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles southwest of Tamaha, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Sallisaw...                       Stigler... Keota...                          Tamaha... Cowlington...                     Kanima...  This includes Interstate 40 in Oklahoma between mile markers 299 and 311.\nGenerated: 2026-04-26 02:00:14 UTC"
+Line: 2,,"Special Weather Statement issued April 25 at 9:02PM CDT by NWS Tulsa OK\nExpires: 2026-04-26 02:30 Z\nAt 902 PM CDT, Doppler radar indicated a strong thunderstorm 5 miles southwest of St. Paul, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... St. Paul...                       Pettigrew... Dutton...                         Patrick... Combs...                          Delaney... Brashears...\nGenerated: 2026-04-26 02:05:13 UTC"
+  35.7600, -93.6200
+  35.7700, -93.7000
+  35.6800, -93.7100
+  35.7300, -93.9400
+  35.7300, -93.9100
+  35.7400, -93.9100
+  35.7500, -93.8900
+  35.7600, -93.9000
+  35.7600, -93.9300
+  35.8700, -93.9000
+  35.8600, -93.6000
+  35.7600, -93.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 25 at 8:00PM MDT by NWS Great Falls MT\nExpires: 2026-04-26 03:00 Z\nAt 758 PM MDT, Doppler radar was tracking snow showers along a line extending from near Lothair to near Cut Bank. Movement was southwest at 10 mph.  HAZARD...A heavy snow shower producing visibility below 1 mile.  SOURCE...Radar indicated.  IMPACT...Snow covered roadways and poor driving visibility.  Locations impacted include... Shelby, Cut Bank, Conrad, Valier, The Knees, Lothair, Ethridge, Ledger, Devon, Dunkirk, and Galata.\nGenerated: 2026-04-26 02:05:13 UTC"
+  47.9100, -111.3200
+  48.2300, -112.6000
+  48.4700, -112.5700
+  48.7000, -112.4000
+  48.4400, -111.0500
+  47.9100, -111.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 25 at 8:55PM CDT by NWS Tulsa OK\nExpires: 2026-04-26 02:30 Z\nAt 855 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles southwest of Tamaha, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Sallisaw...                       Stigler... Keota...                          Tamaha... Cowlington...                     Kanima...  This includes Interstate 40 in Oklahoma between mile markers 299 and 311.\nGenerated: 2026-04-26 02:05:13 UTC"
   35.2100, -94.7200
   35.2600, -95.1300
   35.3800, -95.1300
@@ -16,16 +42,4 @@ Line: 2,,"Special Weather Statement issued April 25 at 8:55PM CDT by NWS Tulsa O
   35.4500, -95.0700
   35.4800, -94.7200
   35.2100, -94.7200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 25 at 8:44PM CDT by NWS Tulsa OK\nExpires: 2026-04-26 02:00 Z\nAt 843 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles south of Mansfield, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Liberty...\nGenerated: 2026-04-26 02:00:14 UTC"
-  34.9700, -94.2400
-  34.9600, -94.2600
-  34.9500, -94.2900
-  34.9500, -94.3100
-  35.0400, -94.3200
-  35.0400, -94.2300
-  34.9700, -94.2300
-  34.9700, -94.2400
 End:
