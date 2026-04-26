@@ -3,23 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-26 22:00:17 UTC
+; Generated: 2026-04-26 22:05:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 4:47PM CDT by NWS Norman OK\nExpires: 2026-04-26 22:15 Z\nAt 446 PM CDT, Doppler radar was tracking a rapidly developing thunderstorm 7 miles west of Iowa Park, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wichita Falls, Burkburnett, Iowa Park, Electra, Sheppard AFB, Pleasant Valley, and Cashion.\nGenerated: 2026-04-26 22:00:17 UTC"
+Line: 2,,"Special Weather Statement issued April 26 at 4:02PM MDT by NWS Denver CO\nExpires: 2026-04-26 22:45 Z\nAt 402 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 10 miles south of Otis to 9 miles southwest of Cope, or extending from 17 miles southeast of Akron to 42 miles south of Akron, moving east at 30 mph.  HAZARD...Landspouts, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cope.\nGenerated: 2026-04-26 22:05:11 UTC"
+  39.5700, -103.0300
+  39.7500, -103.0200
+  40.0100, -102.9900
+  40.0100, -102.7900
+  40.0000, -102.7900
+  40.0000, -102.8000
+  39.5700, -102.8000
+  39.5700, -103.0300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 26 at 4:01PM MDT by NWS Pueblo CO\nExpires: 2026-04-26 22:30 Z\nAt 400 PM MDT, Doppler radar was tracking a strong thunderstorm over El Paso County, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ramah and Peyton.\nGenerated: 2026-04-26 22:05:11 UTC"
+  39.1100, -104.1100
+  38.9500, -104.6200
+  38.9800, -104.6600
+  39.0600, -104.6800
+  39.1200, -104.6700
+  39.1300, -104.6500
+  39.1300, -104.1100
+  39.1100, -104.1100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 26 at 4:47PM CDT by NWS Norman OK\nExpires: 2026-04-26 22:15 Z\nAt 446 PM CDT, Doppler radar was tracking a rapidly developing thunderstorm 7 miles west of Iowa Park, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wichita Falls, Burkburnett, Iowa Park, Electra, Sheppard AFB, Pleasant Valley, and Cashion.\nGenerated: 2026-04-26 22:05:11 UTC"
   33.8500, -98.8400
   34.0100, -98.9300
   34.1600, -98.6500
   33.9300, -98.4200
   33.8500, -98.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 3:24PM MDT by NWS Denver CO\nExpires: 2026-04-26 22:00 Z\nAt 324 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 9 miles southwest of Akron to 5 miles southwest of Thurman, or extending from 9 miles southwest of Akron to 29 miles northeast of Limon, moving east at 25 mph.  HAZARD...Brief Landspouts, wind gusts of 50 to 55 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elba, Arickaree School, Anton and Thurman.\nGenerated: 2026-04-26 22:00:17 UTC"
-  39.5700, -103.3700
-  39.8000, -103.3700
-  40.1200, -103.4200
-  40.1400, -102.8700
-  39.8100, -102.8400
-  39.5700, -102.8600
-  39.5700, -103.3700
 End:
