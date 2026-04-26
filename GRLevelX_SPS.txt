@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-26 15:25:12 UTC
+; Generated: 2026-04-26 15:30:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 10:14AM CDT by NWS New Orleans LA\nExpires: 2026-04-26 16:15 Z\nAt 1013 AM CDT, Doppler radar was tracking strong thunderstorms capable of producing waterspouts over marine areas along a line extending from 12 miles east of Lake Catherine to Meraux. Movement was southeast at 15 mph.  HAZARD...Waterspouts, wind gusts up to 40 to 50 mph, and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... New Orleans, Chalmette, Belle Chasse, Violet, Meraux, Shell Beach, and Poydras.\nGenerated: 2026-04-26 15:25:12 UTC"
+Line: 2,,"Special Weather Statement issued April 26 at 10:29AM CDT by NWS Tulsa OK\nExpires: 2026-04-26 16:15 Z\nAt 1029 AM CDT, Doppler radar indicated a strong thunderstorm 5 miles west of Shidler, moving northeast at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Shidler...                        Grainola... Foraker...                        Webb City... Apperson...\nGenerated: 2026-04-26 15:30:16 UTC"
+  37.0000, -96.4200
+  36.9400, -96.4000
+  36.8400, -96.4300
+  36.7400, -96.7400
+  36.7400, -96.7700
+  36.7500, -96.7900
+  36.7800, -96.7900
+  36.7800, -96.7500
+  36.8900, -96.7500
+  37.0000, -96.6500
+  37.0000, -96.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 26 at 10:14AM CDT by NWS New Orleans LA\nExpires: 2026-04-26 16:15 Z\nAt 1013 AM CDT, Doppler radar was tracking strong thunderstorms capable of producing waterspouts over marine areas along a line extending from 12 miles east of Lake Catherine to Meraux. Movement was southeast at 15 mph.  HAZARD...Waterspouts, wind gusts up to 40 to 50 mph, and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... New Orleans, Chalmette, Belle Chasse, Violet, Meraux, Shell Beach, and Poydras.\nGenerated: 2026-04-26 15:30:16 UTC"
   29.6600, -89.8900
   29.8500, -89.9800
   29.9600, -89.9300
@@ -26,53 +41,4 @@ Line: 2,,"Special Weather Statement issued April 26 at 10:14AM CDT by NWS New Or
   29.7600, -89.3800
   29.6300, -89.4600
   29.6600, -89.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 9:59AM CDT by NWS New Orleans LA\nExpires: 2026-04-26 15:30 Z\nAt 958 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles north of Biloxi to 8 miles southeast of Pearlington. Movement was east at 40 mph.  HAZARD...Winds in excess of 40 to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Gulfport, Biloxi, Ocean Springs, Long Beach, Moss Point, Bay St. Louis, Waveland, St. Martin, Escatawpa, Diamondhead, Gautier, D'iberville, Wade, Saucier, Helena, Hurley, Gulf Park Estates, Latimer, Kiln, and Pearlington.  This includes the following Interstates... Interstate 10 in Louisiana near mile marker 273. Interstate 10 in Mississippi between mile markers 1 and 76. Interstate 110 in Mississippi between mile markers 1 and 4.\nGenerated: 2026-04-26 15:25:12 UTC"
-  30.2900, -88.4700
-  30.3700, -88.8800
-  30.3600, -89.0100
-  30.2800, -89.2600
-  30.2900, -89.3100
-  30.2400, -89.4000
-  30.1700, -89.4300
-  30.1300, -89.5900
-  30.1300, -89.6400
-  30.1500, -89.6300
-  30.1700, -89.6800
-  30.1700, -89.7500
-  30.1500, -89.7500
-  30.2000, -89.7900
-  30.6800, -89.1500
-  30.6800, -88.8900
-  30.7300, -88.8900
-  30.7400, -88.8500
-  30.7200, -88.4100
-  30.3500, -88.3900
-  30.2900, -88.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 26 at 9:31AM CDT by NWS Mobile AL\nExpires: 2026-04-26 15:30 Z\nAt 931 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Deer Park to 6 miles west of Lucedale. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Midtown Mobile, Downtown Mobile, Prichard, Tillmans Corner, Saraland, Theodore, Chickasaw, Satsuma, Citronelle, Lucedale, Creola, Leakesville, Chunchula, Gulfcrest, Deer Park, Axis, Mount Vernon, Tanner Williams, Semmes, and Wilmer.\nGenerated: 2026-04-26 15:25:12 UTC"
-  30.6200, -88.4100
-  30.7400, -88.4100
-  30.7400, -88.5900
-  30.9100, -88.8700
-  30.9100, -88.8300
-  30.9800, -88.8400
-  31.2900, -88.5000
-  31.0400, -87.8700
-  30.7700, -87.9600
-  30.7900, -87.9900
-  30.7700, -87.9900
-  30.7700, -87.9800
-  30.7400, -88.0000
-  30.7100, -87.9900
-  30.7200, -87.9700
-  30.7100, -87.9700
-  30.6900, -88.0000
-  30.7000, -87.9800
-  30.4100, -88.0800
-  30.6200, -88.4100
 End:
