@@ -3,9 +3,62 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-27 22:05:13 UTC
+; Generated: 2026-04-27 22:10:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 4:53PM CDT by NWS Tulsa OK\nExpires: 2026-04-27 22:30 Z\nAt 453 PM CDT, Doppler radar indicated a strong thunderstorm near Gravette, moving northeast at 35 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Bella Vista...                    Gravette...\nGenerated: 2026-04-27 22:05:13 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 6:08PM EDT by NWS Louisville KY\nExpires: 2026-04-27 23:00 Z\nAt 608 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles east of Shoals to 11 miles west of Paoli to 11 miles east of Jasper. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paoli, English, Orleans, French Lick, Stampers Creek, Marengo, Orangeville, West Baden Springs, Birdseye, and Saltillo.\nGenerated: 2026-04-27 22:10:15 UTC"
+  38.7700, -86.2400
+  38.6100, -86.2900
+  38.2700, -86.3600
+  38.3100, -86.8300
+  38.5300, -86.7900
+  38.5300, -86.6800
+  38.6900, -86.6800
+  38.6900, -86.3100
+  38.7300, -86.3100
+  38.7400, -86.2900
+  38.7700, -86.2800
+  38.7700, -86.2400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 27 at 6:07PM EDT by NWS Miami FL\nExpires: 2026-04-27 22:45 Z\nAt 607 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Golden Gate Estates, moving southwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Naples, Golden Gate Estates, West Toll Gate On Alligator Alley, Naples Manor, Golden Gate, Lely Resort, Vineyards, East Naples, Lely, and Intersection I-75 And Everglades Blvd.\nGenerated: 2026-04-27 22:10:15 UTC"
+  26.2800, -81.6500
+  26.1900, -81.5100
+  26.0000, -81.6400
+  26.1700, -81.8100
+  26.2800, -81.6500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 27 at 6:06PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-27 23:00 Z\nAt 605 PM EDT, Doppler radar was tracking gusty showers along a line extending from Milan to Ida to Temperance. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warren, Ann Arbor, Livonia, Troy, Southfield, Taylor, Pontiac, Novi, Romulus, Monroe, Ypsilanti, Flat Rock, Saline, Brighton, Milford, Holly, Milan, Grosse Pointe, Dundee, and Oxford.\nGenerated: 2026-04-27 22:10:15 UTC"
+  41.7200, -83.8300
+  41.7300, -83.8300
+  42.4400, -83.8400
+  42.8800, -83.5500
+  42.8900, -83.1000
+  42.4500, -83.0800
+  42.4500, -82.8700
+  42.3600, -82.9300
+  42.2900, -83.1000
+  42.2400, -83.1300
+  42.0100, -83.1300
+  41.9000, -83.2500
+  41.8900, -83.3100
+  41.7200, -83.4100
+  41.7200, -83.8300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 27 at 5:06PM CDT by NWS Springfield MO\nExpires: 2026-04-27 22:45 Z\nAt 506 PM CDT, Doppler radar was tracking a strong thunderstorm over Bella Vista, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Roaring River State Park, Cassville, Seligman, Exeter, Washburn, Wayne, and Powell.\nGenerated: 2026-04-27 22:10:15 UTC"
+  36.5000, -94.4300
+  36.6900, -94.0600
+  36.6900, -93.8400
+  36.5000, -93.8600
+  36.5000, -94.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 27 at 4:53PM CDT by NWS Tulsa OK\nExpires: 2026-04-27 22:30 Z\nAt 453 PM CDT, Doppler radar indicated a strong thunderstorm near Gravette, moving northeast at 35 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Bella Vista...                    Gravette...\nGenerated: 2026-04-27 22:10:15 UTC"
   36.4600, -94.2200
   36.4000, -94.5000
   36.4800, -94.5500
@@ -15,7 +68,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 4:53PM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 5:53PM EDT by NWS Wilmington OH\nExpires: 2026-04-27 22:30 Z\nAt 553 PM EDT, a strong thunderstorm was located near Madison, moving east at 45 mph.  HAZARD...Wind gusts up to 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Carrollton, Vevay, Warsaw, Kentucky Speedway, Pleasant, Fairview, Ghent, Sanders, Sparta, Worthville, Prestonville, Braytown, Center Square, Langstaff, Wheatley, Locust, Markland, and Avonburg.  This includes I-71 in Kentucky between mile markers 39 and 56.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-27 22:05:13 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 5:53PM EDT by NWS Wilmington OH\nExpires: 2026-04-27 22:30 Z\nAt 553 PM EDT, a strong thunderstorm was located near Madison, moving east at 45 mph.  HAZARD...Wind gusts up to 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Carrollton, Vevay, Warsaw, Kentucky Speedway, Pleasant, Fairview, Ghent, Sanders, Sparta, Worthville, Prestonville, Braytown, Center Square, Langstaff, Wheatley, Locust, Markland, and Avonburg.  This includes I-71 in Kentucky between mile markers 39 and 56.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-04-27 22:10:15 UTC"
   38.7400, -85.2600
   38.6900, -85.2000
   38.9100, -85.2000
@@ -34,7 +87,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 5:53PM EDT by NWS Wilming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 5:52PM EDT by NWS Louisville KY\nExpires: 2026-04-27 22:30 Z\nAt 551 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Scottsburg and Madison, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Madison, Scottsburg, Bedford, Vienna, Austin, Lexington, Hanover, Saluda, Smyrna, and Bethlehem.\nGenerated: 2026-04-27 22:05:13 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 5:52PM EDT by NWS Louisville KY\nExpires: 2026-04-27 22:30 Z\nAt 551 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Scottsburg and Madison, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Madison, Scottsburg, Bedford, Vienna, Austin, Lexington, Hanover, Saluda, Smyrna, and Bethlehem.\nGenerated: 2026-04-27 22:10:15 UTC"
   38.6900, -85.2000
   38.7400, -85.2700
   38.7400, -85.3300
@@ -59,7 +112,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 5:52PM EDT by NWS Louisvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 4:47PM CDT by NWS La Crosse WI\nExpires: 2026-04-27 22:30 Z\nAt 447 PM CDT, Doppler radar was tracking a strong thunderstorm near Ridgeway, or near Cresco, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Ridgeway around 450 PM CDT. Decorah around 505 PM CDT.  Other locations impacted by this storm include Vernon Springs County Park, Vernon Springs, Hesper, Highlandville, County Roads V 58 And A 46, Burr Oak, Bluffton, Chimney Rock Campground, Locust, and Sattre.\nGenerated: 2026-04-27 22:05:13 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 4:47PM CDT by NWS La Crosse WI\nExpires: 2026-04-27 22:30 Z\nAt 447 PM CDT, Doppler radar was tracking a strong thunderstorm near Ridgeway, or near Cresco, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Ridgeway around 450 PM CDT. Decorah around 505 PM CDT.  Other locations impacted by this storm include Vernon Springs County Park, Vernon Springs, Hesper, Highlandville, County Roads V 58 And A 46, Burr Oak, Bluffton, Chimney Rock Campground, Locust, and Sattre.\nGenerated: 2026-04-27 22:10:15 UTC"
   43.5000, -91.9200
   43.5000, -91.6100
   43.3400, -91.6100
@@ -74,7 +127,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 4:47PM CDT by NWS La Cros
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 5:46PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-27 23:00 Z\nAt 545 PM EDT, Doppler radar was tracking gusty showers along a line extending from 6 miles north of Laingsburg to near Homer to near Reading. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Owosso and Laingsburg around 550 PM EDT. Perry and Corunna around 555 PM EDT. Morrice around 600 PM EDT. Bancroft around 605 PM EDT. Durand and Lennon around 610 PM EDT. Flushing, Fowlerville, Hudson, Addison, and Cement City around 615 PM EDT. Swartz Creek, Byron, and Gaines around 620 PM EDT. Flint, Cohoctah, Onsted, and Clayton around 625 PM EDT.  Other locations impacted by these storms include Manitou Beach-Devils Lake, Plainfield, Ogden Center, Rankin, Canandaigua, Hudson Mills Metropark, Ridgeway, Palmyra, Pleasant Lake, and Sand Creek.\nGenerated: 2026-04-27 22:05:13 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 5:46PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-04-27 23:00 Z\nAt 545 PM EDT, Doppler radar was tracking gusty showers along a line extending from 6 miles north of Laingsburg to near Homer to near Reading. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Owosso and Laingsburg around 550 PM EDT. Perry and Corunna around 555 PM EDT. Morrice around 600 PM EDT. Bancroft around 605 PM EDT. Durand and Lennon around 610 PM EDT. Flushing, Fowlerville, Hudson, Addison, and Cement City around 615 PM EDT. Swartz Creek, Byron, and Gaines around 620 PM EDT. Flint, Cohoctah, Onsted, and Clayton around 625 PM EDT.  Other locations impacted by these storms include Manitou Beach-Devils Lake, Plainfield, Ogden Center, Rankin, Canandaigua, Hudson Mills Metropark, Ridgeway, Palmyra, Pleasant Lake, and Sand Creek.\nGenerated: 2026-04-27 22:10:15 UTC"
   41.7100, -84.3600
   42.0700, -84.3600
   42.0700, -84.1300
@@ -89,7 +142,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 5:46PM EDT by NWS Detroit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 4:45PM CDT by NWS Springfield MO\nExpires: 2026-04-27 22:30 Z\nAt 445 PM CDT, Doppler radar was tracking a strong thunderstorm 14 miles west of Laurie, or 15 miles east of Warsaw, moving northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake of The Ozarks, Eldon, Versailles, Laurie, Barnett, Gravois Mills, Olean, Rocky Mount, Etterville, Lakeview Heights, Zora, Knobby, Aurora Springs, and Hastain.\nGenerated: 2026-04-27 22:05:13 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 4:45PM CDT by NWS Springfield MO\nExpires: 2026-04-27 22:30 Z\nAt 445 PM CDT, Doppler radar was tracking a strong thunderstorm 14 miles west of Laurie, or 15 miles east of Warsaw, moving northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake of The Ozarks, Eldon, Versailles, Laurie, Barnett, Gravois Mills, Olean, Rocky Mount, Etterville, Lakeview Heights, Zora, Knobby, Aurora Springs, and Hastain.\nGenerated: 2026-04-27 22:10:15 UTC"
   38.4300, -92.6200
   38.4200, -92.4100
   38.3500, -92.4100
@@ -100,7 +153,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 4:45PM CDT by NWS Springf
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 4:15PM CDT by NWS Springfield MO\nExpires: 2026-04-27 22:15 Z\nAt 415 PM CDT, Doppler radar was tracking a strong thunderstorm over Uniontown, or 16 miles east of La Harpe, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Scott, Marmaton, Bronson, Uniontown, Fulton, Redfield, Petersburg, Hammond, Devon, and Harding.\nGenerated: 2026-04-27 22:05:13 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 4:15PM CDT by NWS Springfield MO\nExpires: 2026-04-27 22:15 Z\nAt 415 PM CDT, Doppler radar was tracking a strong thunderstorm over Uniontown, or 16 miles east of La Harpe, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Scott, Marmaton, Bronson, Uniontown, Fulton, Redfield, Petersburg, Hammond, Devon, and Harding.\nGenerated: 2026-04-27 22:10:15 UTC"
   37.9200, -95.0800
   38.0400, -94.7500
   38.0400, -94.6100
