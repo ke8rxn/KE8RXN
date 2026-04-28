@@ -3,9 +3,43 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-28 20:50:15 UTC
+; Generated: 2026-04-28 20:55:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 3:47PM CDT by NWS Norman OK\nExpires: 2026-04-28 21:15 Z\nAt 347 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles west of Atwood, moving east at 35 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Holdenville, Calvin, Lamar, Horntown, Atwood, and Spaulding.\nGenerated: 2026-04-28 20:50:15 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 3:54PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:30 Z\nAt 354 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles southeast of Whitefield, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Stigler...                        Keota... Mccurtain...                      Bokoshe... Whitefield...                     Kinta... Tamaha...                         Kanima... Mc Key...  This includes Interstate 40 in Oklahoma between mile markers 297 and 302.\nGenerated: 2026-04-28 20:55:16 UTC"
+  35.1000, -95.2200
+  35.2600, -95.3100
+  35.2800, -95.2700
+  35.2600, -95.2500
+  35.2700, -95.2300
+  35.2900, -95.2000
+  35.3000, -95.2000
+  35.3000, -95.1700
+  35.3400, -95.1800
+  35.3500, -95.1600
+  35.3500, -95.1500
+  35.3600, -95.1500
+  35.5100, -94.9000
+  35.2100, -94.7100
+  35.1000, -95.2200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 28 at 3:54PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:30 Z\nAt 354 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles west of Peggs, moving east at 65 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Colcord...                        Kansas... Oaks...                           Leach... Scraper...                        Peggs... Twin Oaks...                      Lost City... Murphy...                         Natural Falls State Park...\nGenerated: 2026-04-28 20:55:16 UTC"
+  36.3000, -94.6500
+  36.1400, -94.6300
+  36.0400, -94.6300
+  35.9700, -95.2200
+  36.0100, -95.2300
+  36.0400, -95.2300
+  36.0400, -95.2100
+  36.0700, -95.2100
+  36.0800, -95.2500
+  36.1500, -95.2700
+  36.3000, -94.6500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 28 at 3:47PM CDT by NWS Norman OK\nExpires: 2026-04-28 21:15 Z\nAt 347 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles west of Atwood, moving east at 35 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Holdenville, Calvin, Lamar, Horntown, Atwood, and Spaulding.\nGenerated: 2026-04-28 20:55:16 UTC"
   35.1400, -96.0100
   35.1200, -96.0100
   35.1200, -96.0300
@@ -25,7 +59,7 @@ Line: 2,,"Special Weather Statement issued April 28 at 3:47PM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 3:44PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:15 Z\nAt 343 PM CDT, Doppler radar indicated a strong thunderstorm 6 miles south of Lamar, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Crowder...                        Canadian... Indianola...                      Arrowhead State Park... Scipio...                         Blocker...\nGenerated: 2026-04-28 20:50:15 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 3:44PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:15 Z\nAt 343 PM CDT, Doppler radar indicated a strong thunderstorm 6 miles south of Lamar, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Crowder...                        Canadian... Indianola...                      Arrowhead State Park... Scipio...                         Blocker...\nGenerated: 2026-04-28 20:55:16 UTC"
   35.0600, -96.0700
   35.0700, -96.0600
   35.0900, -96.0600
@@ -40,7 +74,7 @@ Line: 2,,"Special Weather Statement issued April 28 at 3:44PM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 3:43PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:15 Z\nAt 343 PM CDT, Doppler radar indicated a strong thunderstorm near Rose, moving east at 65 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... West Siloam Springs...            Colcord... Kansas...                         Oaks... Leach...                          Twin Oaks... Rose...                           Natural Falls State Park...\nGenerated: 2026-04-28 20:50:15 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 3:43PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:15 Z\nAt 343 PM CDT, Doppler radar indicated a strong thunderstorm near Rose, moving east at 65 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... West Siloam Springs...            Colcord... Kansas...                         Oaks... Leach...                          Twin Oaks... Rose...                           Natural Falls State Park...\nGenerated: 2026-04-28 20:55:16 UTC"
   36.2300, -94.5800
   36.1400, -94.5600
   36.0800, -95.0800
@@ -50,7 +84,7 @@ Line: 2,,"Special Weather Statement issued April 28 at 3:43PM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 3:42PM CDT by NWS Jackson MS\nExpires: 2026-04-28 21:15 Z\nAt 342 PM CDT, Doppler radar was tracking a strong thunderstorm near Valley Park, or 17 miles south of Rolling Fork, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Yazoo, east central Issaquena and southeastern Sharkey Counties.\nGenerated: 2026-04-28 20:50:15 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 3:42PM CDT by NWS Jackson MS\nExpires: 2026-04-28 21:15 Z\nAt 342 PM CDT, Doppler radar was tracking a strong thunderstorm near Valley Park, or 17 miles south of Rolling Fork, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Yazoo, east central Issaquena and southeastern Sharkey Counties.\nGenerated: 2026-04-28 20:55:16 UTC"
   32.6900, -90.9200
   32.8100, -90.6000
   32.6000, -90.5400
@@ -63,7 +97,7 @@ Line: 2,,"Special Weather Statement issued April 28 at 3:42PM CDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 3:41PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:15 Z\nAt 341 PM CDT, Doppler radar indicated a strong thunderstorm near Hanna, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Eufaula...                        Canadian... Indianola...                      Hanna... Stidham...                        Raiford... Lake Eufaula State Park...        Vivian... Hitchita...                       Pierce... Vernon...                         Onapa...  This includes Interstate 40 in Oklahoma between mile markers 244 and 261.\nGenerated: 2026-04-28 20:50:15 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 3:41PM CDT by NWS Tulsa OK\nExpires: 2026-04-28 21:15 Z\nAt 341 PM CDT, Doppler radar indicated a strong thunderstorm near Hanna, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Eufaula...                        Canadian... Indianola...                      Hanna... Stidham...                        Raiford... Lake Eufaula State Park...        Vivian... Hitchita...                       Pierce... Vernon...                         Onapa...  This includes Interstate 40 in Oklahoma between mile markers 244 and 261.\nGenerated: 2026-04-28 20:55:16 UTC"
   35.5600, -95.7100
   35.5500, -95.7100
   35.5500, -95.6500
@@ -78,7 +112,7 @@ Line: 2,,"Special Weather Statement issued April 28 at 3:41PM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 3:36PM CDT by NWS Jackson MS\nExpires: 2026-04-28 21:00 Z\nAt 336 PM CDT, Doppler radar was tracking a strong thunderstorm near Yazoo City, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Benton around 340 PM CDT. Coxburg around 345 PM CDT. Ebenezer around 350 PM CDT.\nGenerated: 2026-04-28 20:50:15 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 3:36PM CDT by NWS Jackson MS\nExpires: 2026-04-28 21:00 Z\nAt 336 PM CDT, Doppler radar was tracking a strong thunderstorm near Yazoo City, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Benton around 340 PM CDT. Coxburg around 345 PM CDT. Ebenezer around 350 PM CDT.\nGenerated: 2026-04-28 20:55:16 UTC"
   32.7500, -90.0400
   32.7900, -90.4300
   32.8500, -90.5200
@@ -95,7 +129,7 @@ Line: 2,,"Special Weather Statement issued April 28 at 3:36PM CDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 3:28PM CDT by NWS Birmingham AL\nExpires: 2026-04-28 21:15 Z\nAt 328 PM CDT, Doppler radar was tracking a strong thunderstorm near Pennington, or 9 miles northeast of Butler, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sweet Water, Wayne, Nanafalia, Dixons Mill, and Half Acre.\nGenerated: 2026-04-28 20:50:15 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 3:28PM CDT by NWS Birmingham AL\nExpires: 2026-04-28 21:15 Z\nAt 328 PM CDT, Doppler radar was tracking a strong thunderstorm near Pennington, or 9 miles northeast of Butler, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sweet Water, Wayne, Nanafalia, Dixons Mill, and Half Acre.\nGenerated: 2026-04-28 20:55:16 UTC"
   32.0700, -88.0900
   32.0600, -88.0700
   32.0800, -88.0400
