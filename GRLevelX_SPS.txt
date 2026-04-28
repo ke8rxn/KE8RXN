@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-28 02:25:12 UTC
+; Generated: 2026-04-28 02:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 10:20PM EDT by NWS Louisville KY\nExpires: 2026-04-28 03:00 Z\nAt 1019 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Georgetown to near Dunbar High School to 8 miles west of Nicholasville. Movement was east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Richmond, Nicholasville, Winchester, Paris, Cardinal Hill, Cadentown, Fayette Mall, Veterans Park, and Bryan Station.\nGenerated: 2026-04-28 02:25:12 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 9:27PM CDT by NWS Shreveport LA\nExpires: 2026-04-28 03:00 Z\nAt 927 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles southwest of Wilkerson, or 9 miles north of Mount Pleasant, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wilkerson, Us 259 And I 30 Intersection and Dalby Springs.\nGenerated: 2026-04-28 02:30:17 UTC"
+  33.2400, -95.0600
+  33.3300, -95.0800
+  33.4300, -94.7100
+  33.2500, -94.6800
+  33.2400, -95.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 27 at 10:20PM EDT by NWS Louisville KY\nExpires: 2026-04-28 03:00 Z\nAt 1019 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Georgetown to near Dunbar High School to 8 miles west of Nicholasville. Movement was east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Richmond, Nicholasville, Winchester, Paris, Cardinal Hill, Cadentown, Fayette Mall, Veterans Park, and Bryan Station.\nGenerated: 2026-04-28 02:30:17 UTC"
   38.1200, -84.0800
   37.9300, -83.9700
   37.9200, -83.9900
@@ -30,7 +39,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 10:20PM EDT by NWS Louisv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 10:16PM EDT by NWS Louisville KY\nExpires: 2026-04-28 02:45 Z\nAt 1015 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Salem, moving east at 45 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Scottsburg, Vienna, Austin, Lexington, Kent, Little York, Wakefield, Volga, Deputy, and Blocher.\nGenerated: 2026-04-28 02:25:12 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 10:16PM EDT by NWS Louisville KY\nExpires: 2026-04-28 02:45 Z\nAt 1015 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Salem, moving east at 45 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Scottsburg, Vienna, Austin, Lexington, Kent, Little York, Wakefield, Volga, Deputy, and Blocher.\nGenerated: 2026-04-28 02:30:17 UTC"
   38.7700, -85.5100
   38.6100, -85.5800
   38.6000, -86.0800
@@ -53,7 +62,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 10:16PM EDT by NWS Louisv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 9:15PM CDT by NWS Shreveport LA\nExpires: 2026-04-28 03:00 Z\nAt 915 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles northwest of Golden, or 23 miles northwest of Mineola, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pleasant Grove, Forest Hill and Yantis.\nGenerated: 2026-04-28 02:25:12 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 9:15PM CDT by NWS Shreveport LA\nExpires: 2026-04-28 03:00 Z\nAt 915 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles northwest of Golden, or 23 miles northwest of Mineola, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pleasant Grove, Forest Hill and Yantis.\nGenerated: 2026-04-28 02:30:17 UTC"
   32.9600, -95.3100
   32.8100, -95.3000
   32.8300, -95.6500
@@ -62,7 +71,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 9:15PM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 9:14PM CDT by NWS Springfield MO\nExpires: 2026-04-28 02:45 Z\nAt 914 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Handy to near Dalton to near Cherokee Village. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Grand Gulf State Park, Thayer, Couch, Myrtle, and Wilderness.\nGenerated: 2026-04-28 02:25:12 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 9:14PM CDT by NWS Springfield MO\nExpires: 2026-04-28 02:45 Z\nAt 914 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Handy to near Dalton to near Cherokee Village. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Grand Gulf State Park, Thayer, Couch, Myrtle, and Wilderness.\nGenerated: 2026-04-28 02:30:17 UTC"
   36.5000, -91.6700
   36.5500, -91.6700
   36.5900, -91.5700
@@ -75,7 +84,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 9:14PM CDT by NWS Springf
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 9:11PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-28 02:45 Z\nAt 911 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Poynette to near Deforest to near Waunakee. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Windsor, Deforest, Dane, Arlington, Otsego, Doylestown, and Morrisonville.  This includes Interstate 39/90/94 between mile markers 121 and 128.\nGenerated: 2026-04-28 02:25:12 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 9:11PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-28 02:45 Z\nAt 911 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Poynette to near Deforest to near Waunakee. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Windsor, Deforest, Dane, Arlington, Otsego, Doylestown, and Morrisonville.  This includes Interstate 39/90/94 between mile markers 121 and 128.\nGenerated: 2026-04-28 02:30:17 UTC"
   43.4300, -89.1300
   43.3700, -89.1200
   43.2300, -89.2800
@@ -86,20 +95,7 @@ Line: 2,,"Special Weather Statement issued April 27 at 9:11PM CDT by NWS Milwauk
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 10:00PM EDT by NWS Jackson KY\nExpires: 2026-04-28 02:30 Z\nAt 1000 PM EDT, Doppler radar was tracking a strong thunderstorm over Sideview, or near Mount Sterling, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Sterling, Owingsville, Marshall, Sharpsburg, Preston, Reynoldsville, Sideview, Peasticks, Flat Creek, Stepstone, Odessa, Bourbon Furnace, Gatewoods Station, Prewitt, Slate Valley, Crooks, Bethel, Stoops, Peeled Oak, and Ewington.  THIS INCLUDES Interstate 64 in eastern Kentucky between mile markers 105 and 124.\nGenerated: 2026-04-28 02:25:12 UTC"
-  38.2800, -83.8100
-  38.2900, -83.7900
-  38.0700, -83.6300
-  38.0100, -84.0100
-  38.1200, -84.0800
-  38.1700, -83.9900
-  38.3000, -83.8500
-  38.3000, -83.8200
-  38.2800, -83.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 8:58PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-28 02:45 Z\nAt 858 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pardeeville to Rio to near Poynette. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beaver Dam, Waupun, Poynette, Pardeeville, Randolph, Rio, Cambria, Fox Lake, Alto, Wyocena, Friesland, Doylestown, Atwater, Astico, and Lagoda.  This includes U.S. Highway 151 between mile markers 137 and 148.\nGenerated: 2026-04-28 02:25:12 UTC"
+Line: 2,,"Special Weather Statement issued April 27 at 8:58PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-04-28 02:45 Z\nAt 858 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pardeeville to Rio to near Poynette. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beaver Dam, Waupun, Poynette, Pardeeville, Randolph, Rio, Cambria, Fox Lake, Alto, Wyocena, Friesland, Doylestown, Atwater, Astico, and Lagoda.  This includes U.S. Highway 151 between mile markers 137 and 148.\nGenerated: 2026-04-28 02:30:17 UTC"
   43.7400, -88.6600
   43.5600, -88.7200
   43.4300, -88.9400
@@ -107,44 +103,4 @@ Line: 2,,"Special Weather Statement issued April 27 at 8:58PM CDT by NWS Milwauk
   43.4400, -89.3500
   43.6000, -89.3000
   43.7400, -88.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 8:57PM CDT by NWS Memphis TN\nExpires: 2026-04-28 02:30 Z\nAt 856 PM CDT, Doppler radar was tracking a strong thunderstorm near Wall Doxey State Park, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wall Doxey State Park, Hickory Flat, Potts Camp, Malone, Winborn, Waterford, Galena, Waites, and Lake Center.  This includes Interstate 22 in Mississipppi between mile markers 34 and 50.\nGenerated: 2026-04-28 02:25:12 UTC"
-  34.6500, -89.5900
-  34.8000, -89.2600
-  34.6000, -89.1600
-  34.6000, -89.2400
-  34.5800, -89.2500
-  34.5600, -89.5500
-  34.6500, -89.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 9:54PM EDT by NWS Louisville KY\nExpires: 2026-04-28 02:30 Z\nAt 954 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Frankfort to 9 miles southwest of Lawrenceburg. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Georgetown, Frankfort, Nicholasville, Lawrenceburg, Versailles, Meadowthorpe, Dunbar High School, Cardinal Hill, and Highlands.\nGenerated: 2026-04-28 02:25:12 UTC"
-  37.7800, -84.6300
-  37.8900, -85.0400
-  38.2400, -84.8500
-  38.2300, -84.4200
-  37.7800, -84.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 27 at 9:52PM EDT by NWS Jackson KY\nExpires: 2026-04-28 02:30 Z\nAt 952 PM EDT, Doppler radar was tracking a strong thunderstorm over Grange City, or 8 miles northeast of Owingsville, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morehead, Owingsville, Marshall, Salt Lick, Ramey, Fannin Valley, Wyoming, Elliottville, Peasticks, Triplett, Christy, Odessa, Bourbon Furnace, Hilda, Pebble, Sharkey, Muses Mills, Pelfrey, Oakley, and Farmers.  THIS INCLUDES Interstate 64 in eastern Kentucky between mile markers 119 and 149.\nGenerated: 2026-04-28 02:25:12 UTC"
-  38.3800, -83.4500
-  38.4000, -83.4200
-  38.3900, -83.4000
-  38.3000, -83.3300
-  38.2100, -83.3000
-  38.2100, -83.2900
-  38.1900, -83.2600
-  38.2000, -83.2200
-  38.0900, -83.1600
-  38.0900, -83.2600
-  38.1100, -83.2700
-  38.1000, -83.3000
-  38.1200, -83.8200
-  38.3500, -83.7500
-  38.4100, -83.5100
-  38.3800, -83.4500
 End:
