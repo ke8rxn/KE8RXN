@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-28 16:40:20 UTC
+; Generated: 2026-04-28 16:45:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 11:35AM CDT by NWS Little Rock AR\nExpires: 2026-04-28 17:15 Z\nAt 1134 AM CDT, Doppler radar was tracking a strong thunderstorm near Big Cedar, or 20 miles west of Mena, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mena...                           Waldron... Beauchamp...                      Opal... Mountain Fork...                  Polk County Fairgrounds... Mena Intermountain Airport...     Queen Wilhelmina State Park... Acorn...                          Black Fork... Board Camp...                     Ink... Potter...                         Boles... Dallas...                         Shady Grove... Rocky...                          Black Fork Mountain Wilderness... Nunley...                         Camp Pioneer...\nGenerated: 2026-04-28 16:40:20 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 11:41AM CDT by NWS Tulsa OK\nExpires: 2026-04-28 17:15 Z\nAt 1141 AM CDT, Doppler radar indicated a strong thunderstorm near Berryville, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Berryville...                     Green Forest... Carrollton...                     Urbanette... Rule...                           Coin... Cabanal...                        Denver...\nGenerated: 2026-04-28 16:45:23 UTC"
+  36.2700, -93.6400
+  36.2800, -93.6300
+  36.2800, -93.6600
+  36.3000, -93.6500
+  36.3000, -93.6800
+  36.3900, -93.6900
+  36.5000, -93.3300
+  36.5000, -93.3000
+  36.4800, -93.2900
+  36.2600, -93.3000
+  36.2700, -93.6400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 28 at 11:35AM CDT by NWS Little Rock AR\nExpires: 2026-04-28 17:15 Z\nAt 1134 AM CDT, Doppler radar was tracking a strong thunderstorm near Big Cedar, or 20 miles west of Mena, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mena...                           Waldron... Beauchamp...                      Opal... Mountain Fork...                  Polk County Fairgrounds... Mena Intermountain Airport...     Queen Wilhelmina State Park... Acorn...                          Black Fork... Board Camp...                     Ink... Potter...                         Boles... Dallas...                         Shady Grove... Rocky...                          Black Fork Mountain Wilderness... Nunley...                         Camp Pioneer...\nGenerated: 2026-04-28 16:45:23 UTC"
   34.7700, -94.4500
   34.9600, -93.9400
   34.5200, -93.9400
@@ -14,7 +29,7 @@ Line: 2,,"Special Weather Statement issued April 28 at 11:35AM CDT by NWS Little
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 11:24AM CDT by NWS Tulsa OK\nExpires: 2026-04-28 17:00 Z\nAt 1123 AM CDT, Doppler radar indicated a strong thunderstorm 8 miles south of Whitesboro, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Muse...                           Big Cedar...\nGenerated: 2026-04-28 16:40:20 UTC"
+Line: 2,,"Special Weather Statement issued April 28 at 11:24AM CDT by NWS Tulsa OK\nExpires: 2026-04-28 17:00 Z\nAt 1123 AM CDT, Doppler radar indicated a strong thunderstorm 8 miles south of Whitesboro, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Muse...                           Big Cedar...\nGenerated: 2026-04-28 16:45:23 UTC"
   34.5700, -94.9400
   34.5900, -94.9400
   34.8300, -94.7100
@@ -24,16 +39,4 @@ Line: 2,,"Special Weather Statement issued April 28 at 11:24AM CDT by NWS Tulsa 
   34.5100, -94.8000
   34.5100, -94.8800
   34.5700, -94.9400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 28 at 11:08AM CDT by NWS Tulsa OK\nExpires: 2026-04-28 16:45 Z\nAt 1108 AM CDT, Doppler radar indicated a strong thunderstorm 5 miles southeast of Okfuskee, moving northeast at 60 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations in or near the path include... Okmulgee...                       Morris... Schulter...                       Bald Hill... Okmulgee State Park...            Eram...  This includes Interstate 40 in Oklahoma between mile markers 225 and 226.\nGenerated: 2026-04-28 16:40:20 UTC"
-  35.8200, -95.7800
-  35.5800, -95.6300
-  35.5500, -95.7400
-  35.5500, -95.8200
-  35.5300, -95.8200
-  35.4200, -96.2100
-  35.5500, -96.2900
-  35.8200, -95.7800
 End:
