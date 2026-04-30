@@ -3,29 +3,62 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-30 02:10:38 UTC
+; Generated: 2026-04-30 02:15:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 9:47PM EDT by NWS Wakefield VA\nExpires: 2026-04-30 02:15 Z\nAt 947 PM EDT, Doppler radar was tracking a strong thunderstorm over Virgilina, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Mecklenburg County, including the following locations... Nelson, Buffalo Junction, and John H Kerr Reservoir.\nGenerated: 2026-04-30 02:10:38 UTC"
-  36.5800, -78.7200
-  36.6400, -78.7100
-  36.6700, -78.7000
-  36.6800, -78.7000
-  36.7000, -78.6500
-  36.6800, -78.6200
-  36.6700, -78.6100
-  36.6500, -78.5700
-  36.6600, -78.6100
-  36.6500, -78.5900
-  36.6400, -78.5800
-  36.6400, -78.5600
-  36.5400, -78.4200
-  36.5400, -78.7300
-  36.5600, -78.7400
-  36.5800, -78.7200
+Line: 2,,"Special Weather Statement issued April 29 at 9:13PM CDT by NWS Houston/Galveston TX\nExpires: 2026-04-30 02:45 Z\nAt 913 PM CDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Austonio, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Houston, east central Madison and northeastern Walker Counties.\nGenerated: 2026-04-30 02:15:18 UTC"
+  30.9100, -95.6300
+  30.9800, -95.6800
+  31.0500, -95.6700
+  31.0500, -95.4400
+  30.9500, -95.4400
+  30.8700, -95.4300
+  30.9100, -95.6300
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 9:46PM EDT by NWS Wakefield VA\nExpires: 2026-04-30 02:30 Z\nAt 946 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Chase City, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... South Hill around 1000 PM EDT. La Crosse around 1005 PM EDT. Brodnax around 1010 PM EDT.  Other locations impacted by this storm include Gary, Wilburn, Beechwood, Bowens Corner, North View, White Plains, Meredithville, Forksville, Rogers Corner, and Bracey.\nGenerated: 2026-04-30 02:10:38 UTC"
+Line: 2,,"Special Weather Statement issued April 29 at 9:12PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-30 03:00 Z\nAt 911 PM CDT, Doppler radar was tracking a strong thunderstorm over Seminole Canyon State Park, or near Comstock, moving southeast at 30 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Comstock, Box Canyon, Amistad Acres, Seminole Canyon State Park, Governors Landing, Pafford Crossing, Rough Canyon Recreation Area, Spur 406 Campground, Pecos River Boat Ramp, Rock Quarry Campground, Salem Point, and Devils River State Nat Area Big Satan.\nGenerated: 2026-04-30 02:15:18 UTC"
+  29.8500, -101.3200
+  29.7700, -100.8700
+  29.4400, -101.0500
+  29.4600, -101.0600
+  29.4700, -101.1500
+  29.5200, -101.1700
+  29.5200, -101.2500
+  29.6200, -101.2500
+  29.6300, -101.2700
+  29.5800, -101.2800
+  29.5800, -101.3100
+  29.6100, -101.3100
+  29.6500, -101.3000
+  29.6600, -101.3500
+  29.6500, -101.3600
+  29.6800, -101.3700
+  29.7000, -101.3800
+  29.8500, -101.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 29 at 9:12PM CDT by NWS Birmingham AL\nExpires: 2026-04-30 02:45 Z\nAt 912 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Branchville to Mulga to near Vance. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Birmingham, Hoover, Vestavia Hills, Alabaster, Bessemer, Homewood, Pelham, Mountain Brook, Trussville, Helena, Hueytown, Gardendale, Pell City, Irondale, Leeds, Moody, Calera, Fairfield, Chelsea, and Fultondale.\nGenerated: 2026-04-30 02:15:18 UTC"
+  33.6800, -86.2000
+  33.6600, -86.1800
+  33.6300, -86.1700
+  33.6200, -86.1700
+  33.6100, -86.2000
+  33.6000, -86.1800
+  33.5900, -86.1900
+  33.6000, -86.2100
+  33.5900, -86.2200
+  33.5700, -86.2100
+  33.4400, -86.4700
+  32.9600, -86.7400
+  33.0800, -87.3400
+  33.6100, -87.0800
+  33.7300, -86.4400
+  33.6800, -86.2000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 29 at 9:46PM EDT by NWS Wakefield VA\nExpires: 2026-04-30 02:30 Z\nAt 946 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Chase City, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... South Hill around 1000 PM EDT. La Crosse around 1005 PM EDT. Brodnax around 1010 PM EDT.  Other locations impacted by this storm include Gary, Wilburn, Beechwood, Bowens Corner, North View, White Plains, Meredithville, Forksville, Rogers Corner, and Bracey.\nGenerated: 2026-04-30 02:15:18 UTC"
   36.7200, -78.5100
   36.8900, -78.3600
   36.8000, -77.7900
@@ -35,22 +68,7 @@ Line: 2,,"Special Weather Statement issued April 29 at 9:46PM EDT by NWS Wakefie
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 8:46PM CDT by NWS Birmingham AL\nExpires: 2026-04-30 02:15 Z\nAt 846 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Gardendale to near West Jefferson to near Bankhead Lock And Dam. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Birmingham, Bessemer, Homewood, Mountain Brook, Trussville, Hueytown, Gardendale, Irondale, Leeds, Fairfield, Fultondale, Center Point, Pleasant Grove, Clay, Pinson, Tarrant, Midfield, Adamsville, Brighton, and Lipscomb.\nGenerated: 2026-04-30 02:10:38 UTC"
-  33.6200, -87.4100
-  33.6200, -87.1900
-  33.7300, -86.7700
-  33.6600, -86.5300
-  33.6300, -86.5300
-  33.6300, -86.5400
-  33.6200, -86.5500
-  33.5800, -86.5500
-  33.2900, -87.1900
-  33.4800, -87.5400
-  33.6200, -87.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 9:43PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 02:30 Z\nAt 942 PM EDT, Doppler radar was tracking a strong thunderstorm near Midland, or 10 miles southeast of Downtown Concord, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fairview In Union County, Locust, Oakboro, and Stanfield.\nGenerated: 2026-04-30 02:10:38 UTC"
+Line: 2,,"Special Weather Statement issued April 29 at 9:43PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 02:30 Z\nAt 942 PM EDT, Doppler radar was tracking a strong thunderstorm near Midland, or 10 miles southeast of Downtown Concord, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fairview In Union County, Locust, Oakboro, and Stanfield.\nGenerated: 2026-04-30 02:15:18 UTC"
   35.3200, -80.4100
   35.3300, -80.1500
   35.1600, -80.2100
@@ -67,17 +85,4 @@ Line: 2,,"Special Weather Statement issued April 29 at 9:43PM EDT by NWS Raleigh
   35.1600, -80.4400
   35.1800, -80.5100
   35.3200, -80.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 9:16PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 02:15 Z\nAt 915 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Elmo to near Wentworth to Pine Hall. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greensboro, Burlington, Graham, Roxboro, Mebane, Elon, McLeansville, Concord, Summerfield, and Gibsonville.  This includes the following highways... Interstate 85 between Mile Markers 128 and 131. Interstate 40 between Mile Markers 132 and 155, and between Mile Markers 221 and 226.\nGenerated: 2026-04-30 02:10:38 UTC"
-  36.3000, -78.8300
-  36.0700, -79.2600
-  36.0200, -79.7700
-  36.2200, -80.0400
-  36.2600, -80.0400
-  36.2400, -79.1500
-  36.5400, -79.1400
-  36.5400, -78.5900
-  36.3000, -78.8300
 End:
