@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-30 21:55:19 UTC
+; Generated: 2026-04-30 22:00:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 5:54PM EDT by NWS Jacksonville FL\nExpires: 2026-04-30 22:30 Z\nAt 553 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Bunnell, moving east at 30 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Flagler County.\nGenerated: 2026-04-30 21:55:19 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 4:57PM CDT by NWS New Orleans LA\nExpires: 2026-04-30 22:30 Z\nAt 457 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds and waterspouts near South Vacherie, or 11 miles south of Reserve, moving east at 15 mph.  HAZARD...Waterspouts and funnel clouds.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Hahnville, Killona, Paradis, Taft, Norco, Boutte, South Vacherie, Montz, Bayou Gauche, and Luling.\nGenerated: 2026-04-30 22:00:16 UTC"
+  29.8900, -90.6800
+  29.9900, -90.6800
+  30.0200, -90.4800
+  30.0100, -90.4800
+  30.0000, -90.4600
+  30.0000, -90.4300
+  29.9900, -90.4100
+  29.8600, -90.4100
+  29.8900, -90.6800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 30 at 5:54PM EDT by NWS Jacksonville FL\nExpires: 2026-04-30 22:30 Z\nAt 553 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Bunnell, moving east at 30 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Flagler County.\nGenerated: 2026-04-30 22:00:16 UTC"
   29.2600, -81.2500
   29.3600, -81.4000
   29.4300, -81.3200
@@ -15,7 +28,7 @@ Line: 2,,"Special Weather Statement issued April 30 at 5:54PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 4:32PM CDT by NWS New Orleans LA\nExpires: 2026-04-30 22:00 Z\nAt 432 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds over South Vacherie, or 10 miles northeast of Thibodaux, moving east at 15 mph.  HAZARD...Funnel clouds.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Hahnville, Laplace, Killona, Montz, South Vacherie, North Vacherie, Taft, Paradis, Edgard, Bayou Gauche, Chackbay, and Des Allemands.\nGenerated: 2026-04-30 21:55:19 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 4:32PM CDT by NWS New Orleans LA\nExpires: 2026-04-30 22:00 Z\nAt 432 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds over South Vacherie, or 10 miles northeast of Thibodaux, moving east at 15 mph.  HAZARD...Funnel clouds.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Hahnville, Laplace, Killona, Montz, South Vacherie, North Vacherie, Taft, Paradis, Edgard, Bayou Gauche, Chackbay, and Des Allemands.\nGenerated: 2026-04-30 22:00:16 UTC"
   29.8900, -90.7500
   30.0000, -90.7500
   30.0400, -90.4300
@@ -24,7 +37,7 @@ Line: 2,,"Special Weather Statement issued April 30 at 4:32PM CDT by NWS New Orl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 4:31PM CDT by NWS New Orleans LA\nExpires: 2026-04-30 22:00 Z\nAt 431 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds over Bayou Sorrel, or 12 miles southwest of Plaquemine, moving east at 15 mph.  HAZARD...Funnel clouds.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Bayou Sorrel.\nGenerated: 2026-04-30 21:55:19 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 4:31PM CDT by NWS New Orleans LA\nExpires: 2026-04-30 22:00 Z\nAt 431 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds over Bayou Sorrel, or 12 miles southwest of Plaquemine, moving east at 15 mph.  HAZARD...Funnel clouds.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Bayou Sorrel.\nGenerated: 2026-04-30 22:00:16 UTC"
   30.2200, -91.4000
   30.2500, -91.1800
   30.0400, -91.1800
@@ -38,7 +51,7 @@ Line: 2,,"Special Weather Statement issued April 30 at 4:31PM CDT by NWS New Orl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 4:22PM CDT by NWS New Orleans LA\nExpires: 2026-04-30 22:00 Z\nAt 422 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds near Garyville, or near Reserve, moving east at 20 mph.  HAZARD...Funnel clouds.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Reserve, Laplace, Montz, Garyville, Norco, and Edgard.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 196 and 216. Interstate 55 in Louisiana between mile markers 1 and 9.\nGenerated: 2026-04-30 21:55:19 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 4:22PM CDT by NWS New Orleans LA\nExpires: 2026-04-30 22:00 Z\nAt 422 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds near Garyville, or near Reserve, moving east at 20 mph.  HAZARD...Funnel clouds.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Reserve, Laplace, Montz, Garyville, Norco, and Edgard.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 196 and 216. Interstate 55 in Louisiana between mile markers 1 and 9.\nGenerated: 2026-04-30 22:00:16 UTC"
   30.2300, -90.6300
   30.2300, -90.5500
   30.2000, -90.5500
