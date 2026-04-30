@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-30 02:55:11 UTC
+; Generated: 2026-04-30 03:00:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 10:49PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 03:15 Z\nAt 1048 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Hoffman, or 11 miles northeast of Rockingham, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Aberdeen, Hoffman, Pinebluff, Foxfire, Sandhills Game Land, and Derby.\nGenerated: 2026-04-30 02:55:11 UTC"
+Line: 2,,"Special Weather Statement issued April 29 at 9:58PM CDT by NWS Birmingham AL\nExpires: 2026-04-30 03:45 Z\nAt 958 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Moody to near Bon Air. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Northeastern Birmingham, Trussville, Talladega, Sylacauga, Pell City, Irondale, Leeds, Moody, Chelsea, Childersburg, Odenville, Ashland, Wilsonville, Center Point, Lincoln, Margaret, Argo, Riverside, Vincent, and Ragland.\nGenerated: 2026-04-30 03:00:16 UTC"
+  33.7400, -86.0900
+  33.7200, -86.1200
+  33.7100, -86.1300
+  33.7100, -86.1400
+  33.6800, -86.1400
+  33.6700, -86.0500
+  33.6100, -86.0200
+  33.6000, -86.0200
+  33.6000, -86.0100
+  33.2400, -85.8200
+  33.2300, -86.5500
+  33.6600, -86.7200
+  33.7600, -86.1000
+  33.7400, -86.0900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 29 at 10:49PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 03:15 Z\nAt 1048 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Hoffman, or 11 miles northeast of Rockingham, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Aberdeen, Hoffman, Pinebluff, Foxfire, Sandhills Game Land, and Derby.\nGenerated: 2026-04-30 03:00:16 UTC"
   34.9800, -79.7400
   35.1800, -79.6900
   35.1800, -79.6800
@@ -19,49 +37,4 @@ Line: 2,,"Special Weather Statement issued April 29 at 10:49PM EDT by NWS Raleig
   34.9600, -79.5900
   34.9400, -79.5800
   34.9800, -79.7400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 9:32PM CDT by NWS Shreveport LA\nExpires: 2026-04-30 03:00 Z\nAt 932 PM CDT, Doppler radar was tracking a strong thunderstorm near Garrison, or 18 miles west of Center, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Center, Tenaha, Timpson, Garrison, Joaquin, Gary City, Stockman, Arcadia, Dotson, Lawsonville, Woods and Paxton.\nGenerated: 2026-04-30 02:55:11 UTC"
-  31.8200, -94.7000
-  32.0800, -94.5900
-  32.0100, -94.0400
-  31.9900, -94.0400
-  31.5900, -94.3300
-  31.8200, -94.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 10:15PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 03:00 Z\nAt 1014 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Ansonville, or 10 miles south of Albemarle, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ansonville, Norwood, Mount Gilead, Ellerbe, Candor, Norman, Uwharrie Haven, Covington, Pekin, and Lake Tillery.  This includes Interstate 73 between Mile Markers 26 and 43.\nGenerated: 2026-04-30 02:55:11 UTC"
-  35.3300, -80.1500
-  35.2900, -79.7100
-  35.2800, -79.7100
-  35.2500, -79.7000
-  35.2500, -79.6800
-  35.2300, -79.6700
-  34.9800, -79.7300
-  35.1500, -80.2100
-  35.3300, -80.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 9:12PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-04-30 03:00 Z\nAt 911 PM CDT, Doppler radar was tracking a strong thunderstorm over Seminole Canyon State Park, or near Comstock, moving southeast at 30 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Comstock, Box Canyon, Amistad Acres, Seminole Canyon State Park, Governors Landing, Pafford Crossing, Rough Canyon Recreation Area, Spur 406 Campground, Pecos River Boat Ramp, Rock Quarry Campground, Salem Point, and Devils River State Nat Area Big Satan.\nGenerated: 2026-04-30 02:55:11 UTC"
-  29.8500, -101.3200
-  29.7700, -100.8700
-  29.4400, -101.0500
-  29.4600, -101.0600
-  29.4700, -101.1500
-  29.5200, -101.1700
-  29.5200, -101.2500
-  29.6200, -101.2500
-  29.6300, -101.2700
-  29.5800, -101.2800
-  29.5800, -101.3100
-  29.6100, -101.3100
-  29.6500, -101.3000
-  29.6600, -101.3500
-  29.6500, -101.3600
-  29.6800, -101.3700
-  29.7000, -101.3800
-  29.8500, -101.3200
 End:
