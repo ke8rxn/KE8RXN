@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-30 10:15:15 UTC
+; Generated: 2026-04-30 10:20:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 6:12AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-04-30 10:45 Z\nAt 610 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles east of Greenville Downtown to 9 miles northwest of Newberry. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spartanburg, Union, Woodruff, Pacolet, Cowpens, Monarch Mill, Roebuck, Buffalo, Jonesville, and Pacolet Mills.\nGenerated: 2026-04-30 10:15:15 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 5:16AM CDT by NWS Jackson MS\nExpires: 2026-04-30 11:00 Z\nAt 515 AM CDT, Doppler radar was tracking a strong thunderstorm over Manifest, or 11 miles west of Harrisonburg, moving east at 35 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Harrisonburg, Manifest, and Wallace Ridge.\nGenerated: 2026-04-30 10:20:13 UTC"
+  31.7700, -92.0100
+  31.8200, -91.6400
+  31.6200, -91.6300
+  31.6400, -92.0100
+  31.7700, -92.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 30 at 6:15AM EDT by NWS Columbia SC\nExpires: 2026-04-30 10:45 Z\nAt 615 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles west of Dreher Island State Park to near Batesburg-Leesville. Movement was east at 35 mph.  ...Boaters on Lake Murray Should Seek Safe Harbor...  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Cayce, Irmo, Batesburg-Leesville, Highway 6 at Lake Murray Dam, Red Bank, Oak Grove, South Congaree, Pine Ridge, Columbia Metro Airport, Gilbert, Summit, Cedar Grove Fire Station, South Shore Marina, Oswald Park, Bundrick Island, Murray, Camp Kinard, Delmar, and Hollow Creek Public Park.  This includes the following highways... Interstate 20 in South Carolina between mile markers 42 and 63. Interstate 26 near mile marker 105, and between mile markers 111 and 112.\nGenerated: 2026-04-30 10:20:13 UTC"
+  34.0800, -81.6400
+  34.0600, -81.1300
+  33.9400, -81.0900
+  33.8400, -81.1100
+  33.8400, -81.5900
+  33.9800, -81.6100
+  34.0800, -81.6400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 30 at 6:12AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-04-30 10:45 Z\nAt 610 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles east of Greenville Downtown to 9 miles northwest of Newberry. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spartanburg, Union, Woodruff, Pacolet, Cowpens, Monarch Mill, Roebuck, Buffalo, Jonesville, and Pacolet Mills.\nGenerated: 2026-04-30 10:20:13 UTC"
   34.8800, -82.2300
   35.0800, -81.8600
   35.0000, -81.7800
@@ -26,7 +46,7 @@ Line: 2,,"Special Weather Statement issued April 30 at 6:12AM EDT by NWS Greenvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 6:05AM EDT by NWS Columbia SC\nExpires: 2026-04-30 10:30 Z\nAt 605 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Blackville to near Lodge. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orangeburg, Barnwell, Bamberg, Denmark, Brookdale, Blackville, Branchville, Bowman, Claflin College, South Carolina State University, Orangeburg County Airport, Barnwell State Park, Rivers Bridge State Park, Edisto Gardens, Ehrhardt, Hilda, Norway, Rowesville, Olar, and Kline.\nGenerated: 2026-04-30 10:15:15 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 6:05AM EDT by NWS Columbia SC\nExpires: 2026-04-30 10:30 Z\nAt 605 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Blackville to near Lodge. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orangeburg, Barnwell, Bamberg, Denmark, Brookdale, Blackville, Branchville, Bowman, Claflin College, South Carolina State University, Orangeburg County Airport, Barnwell State Park, Rivers Bridge State Park, Edisto Gardens, Ehrhardt, Hilda, Norway, Rowesville, Olar, and Kline.\nGenerated: 2026-04-30 10:20:13 UTC"
   33.1200, -81.1900
   33.1100, -81.2900
   33.1100, -81.3700
@@ -42,7 +62,7 @@ Line: 2,,"Special Weather Statement issued April 30 at 6:05AM EDT by NWS Columbi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 5:59AM EDT by NWS Columbia SC\nExpires: 2026-04-30 10:30 Z\nAt 559 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Edgefield County Airport to 6 miles southeast of Aiken Municipal Airport to 8 miles northeast of Williston. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, Aiken Mall, Edgefield, Williston, USC Aiken, Edgefield County Airport, Aiken Municipal Airport, Citizens Park, Aiken State Park, Graniteville, Wagener, North, Pelion, Springfield, Salley, Neeses, Perry, Trenton, Woodford, and Livingston.  This includes Interstate 20 in South Carolina between mile markers 11 and 41.\nGenerated: 2026-04-30 10:15:15 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 5:59AM EDT by NWS Columbia SC\nExpires: 2026-04-30 10:30 Z\nAt 559 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Edgefield County Airport to 6 miles southeast of Aiken Municipal Airport to 8 miles northeast of Williston. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, Aiken Mall, Edgefield, Williston, USC Aiken, Edgefield County Airport, Aiken Municipal Airport, Citizens Park, Aiken State Park, Graniteville, Wagener, North, Pelion, Springfield, Salley, Neeses, Perry, Trenton, Woodford, and Livingston.  This includes Interstate 20 in South Carolina between mile markers 11 and 41.\nGenerated: 2026-04-30 10:20:13 UTC"
   33.8600, -81.3300
   33.7300, -81.1100
   33.5800, -80.9100
@@ -53,7 +73,7 @@ Line: 2,,"Special Weather Statement issued April 30 at 5:59AM EDT by NWS Columbi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 4:51AM CDT by NWS Shreveport LA\nExpires: 2026-04-30 10:30 Z\nAt 451 AM CDT, Doppler radar was tracking a strong thunderstorm over Colfax, or 26 miles south of Winnfield, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Jena, Colfax, Midway, Pollock, Dry Prong, Fishville, Bentley, Rogers, Nebo, Lake Iatt and Catahoula Lake.\nGenerated: 2026-04-30 10:15:15 UTC"
+Line: 2,,"Special Weather Statement issued April 30 at 4:51AM CDT by NWS Shreveport LA\nExpires: 2026-04-30 10:30 Z\nAt 451 AM CDT, Doppler radar was tracking a strong thunderstorm over Colfax, or 26 miles south of Winnfield, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Jena, Colfax, Midway, Pollock, Dry Prong, Fishville, Bentley, Rogers, Nebo, Lake Iatt and Catahoula Lake.\nGenerated: 2026-04-30 10:20:13 UTC"
   31.6300, -92.7400
   31.7500, -92.1200
   31.5100, -92.0800
@@ -68,52 +88,4 @@ Line: 2,,"Special Weather Statement issued April 30 at 4:51AM CDT by NWS Shrevep
   31.5200, -92.7200
   31.5300, -92.7200
   31.6300, -92.7400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 5:46AM EDT by NWS Columbia SC\nExpires: 2026-04-30 10:15 Z\nAt 546 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Lake Greenwood State Park to near Saluda County Airport to near Edgefield County Airport. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Batesburg-Leesville, Edgefield, Saluda, Johnston, Prosperity, Ridge Spring, Saluda County Airport, Summit, Monetta, Trenton, Silverstreet, Ward, Cedar Grove Fire Station, Strom Thurmond High School, Saluda Co Sheriff's Office, Good Hope, Hollywood Elementary School, Emory, Camp Kinard, and Delmar.  This includes Interstate 20 in South Carolina between mile markers 34 and 41.\nGenerated: 2026-04-30 10:15:15 UTC"
-  34.0900, -81.9200
-  34.1000, -81.8900
-  34.1300, -81.8700
-  34.1500, -81.9000
-  34.1600, -81.9100
-  34.1800, -81.9000
-  34.1900, -81.9200
-  34.2600, -81.5000
-  33.7700, -81.4000
-  33.7400, -81.9100
-  33.9400, -81.9400
-  34.0500, -81.9400
-  34.0900, -81.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 5:40AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-04-30 10:15 Z\nAt 540 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Easley to 9 miles east of Greenwood. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greenville Downtown, Easley, Laurens, Pickens, Greenville Eastside, West Greenville, Greer, Mauldin, Taylors, and Simpsonville.\nGenerated: 2026-04-30 10:15:15 UTC"
-  34.8700, -82.7100
-  35.1400, -82.4500
-  34.9700, -82.0700
-  34.6400, -81.8400
-  34.6000, -81.8500
-  34.6000, -81.8400
-  34.5800, -81.8000
-  34.4500, -81.7200
-  34.3700, -81.7800
-  34.3500, -81.8100
-  34.3500, -81.8300
-  34.3200, -81.8600
-  34.3000, -81.9000
-  34.2400, -81.9100
-  34.2100, -81.9400
-  34.1800, -81.9200
-  34.1700, -81.9700
-  34.8700, -82.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 30 at 4:33AM CDT by NWS Shreveport LA\nExpires: 2026-04-30 10:15 Z\nAt 433 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Joaquin, or 16 miles southeast of Carthage, moving east at 35 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mansfield, Logansport, Joaquin, South Mansfield, Keachi, Grand Cane, Longstreet, Gloster, Reeds Store, Keat Chie, Kickapoo, Kingston, Frierson, Carmel and Deadwood.\nGenerated: 2026-04-30 10:15:15 UTC"
-  32.1300, -94.1600
-  32.2700, -93.6400
-  32.0300, -93.5700
-  31.9500, -94.1100
-  32.1300, -94.1600
 End:
