@@ -3,23 +3,41 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-04-30 03:55:12 UTC
+; Generated: 2026-04-30 04:05:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 10:32PM CDT by NWS Lake Charles LA\nExpires: 2026-04-30 04:00 Z\nAt 1032 PM CDT, Doppler radar was tracking a strong thunderstorm over Newton, moving east at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Newton, Merryville, Bon Weir, and Junction.\nGenerated: 2026-04-30 03:55:12 UTC"
-  30.8800, -93.5700
-  30.8700, -93.5600
-  30.8800, -93.5300
-  30.8600, -93.4800
-  30.8700, -93.4400
-  30.8700, -93.3700
-  30.6100, -93.4400
-  30.7800, -93.8700
-  30.9000, -93.8400
-  30.8800, -93.5700
+Line: 2,,"Special Weather Statement issued April 29 at 11:02PM CDT by NWS Lake Charles LA\nExpires: 2026-04-30 04:30 Z\nAt 1101 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles northwest of Kurthwood to 10 miles north of Toledo Bend Dam. Movement was east at 45 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Leesville, Anacoco, Slagle, Fort Polk, New Llano, Hornbeck, Kurthwood, Hutton, and Simpson.\nGenerated: 2026-04-30 04:05:15 UTC"
+  31.3600, -93.0000
+  31.3400, -92.9800
+  31.3000, -92.8800
+  31.0800, -93.2300
+  31.2400, -93.5600
+  31.2500, -93.5400
+  31.2800, -93.5300
+  31.2800, -93.4400
+  31.3600, -93.3900
+  31.3600, -93.0000
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 11:27PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 04:30 Z\nAt 1127 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Halifax to 12 miles south of Roanoke Rapids to near Dortches to near Nashville to near Bunn to near Wake Forest. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rocky Mount, Roanoke Rapids, Tarboro, Nashville, Louisburg, Halifax, Wilson, Wake Forest, Zebulon, and Scotland Neck.  This includes the following highways... Interstate 95 between Mile Markers 173 and 119. NC Highway 264 between Mile Markers 20 and 38.\nGenerated: 2026-04-30 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued April 29 at 11:01PM CDT by NWS Shreveport LA\nExpires: 2026-04-30 05:00 Z\nAt 1101 PM CDT, Doppler radar was tracking an area of strong thunderstorms over Huntington, or 11 miles southeast of Lufkin, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Milam, Huntington, Hemphill, Pineland, Macune, Rosevine, Etoile, Zavalla, Broaddus, Chinaquapin, Bronson, McElroy, Dolan, Yellowpine, Shawnee, Fairmount, Homer and Columbus.\nGenerated: 2026-04-30 04:05:15 UTC"
+  31.1100, -94.7500
+  31.4700, -94.5500
+  31.4600, -93.9000
+  31.2900, -93.4300
+  31.2800, -93.4400
+  31.2800, -93.5400
+  31.2400, -93.5600
+  31.2000, -93.5400
+  31.1700, -93.5800
+  31.1600, -93.9100
+  31.0300, -94.4700
+  31.1000, -94.6500
+  31.0900, -94.6600
+  31.1100, -94.7500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued April 29 at 11:27PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 04:30 Z\nAt 1127 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Halifax to 12 miles south of Roanoke Rapids to near Dortches to near Nashville to near Bunn to near Wake Forest. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rocky Mount, Roanoke Rapids, Tarboro, Nashville, Louisburg, Halifax, Wilson, Wake Forest, Zebulon, and Scotland Neck.  This includes the following highways... Interstate 95 between Mile Markers 173 and 119. NC Highway 264 between Mile Markers 20 and 38.\nGenerated: 2026-04-30 04:05:15 UTC"
   36.0900, -77.3100
   36.0000, -77.4100
   35.9000, -77.3400
@@ -44,7 +62,7 @@ Line: 2,,"Special Weather Statement issued April 29 at 11:27PM EDT by NWS Raleig
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 10:16PM CDT by NWS Shreveport LA\nExpires: 2026-04-30 04:15 Z\nAt 1016 PM CDT, Doppler radar was tracking a strong thunderstorm over Patroon, or 16 miles southeast of Center, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Milam, Many, San Augustine, Zwolle, Converse, Patroon, Bland Lake, Oak Grove, Florien, Provencal, Huxley, Noble, Fisher, Robeline, Negreet, Belmont, Toledo Bend Reservoir North, Mount Carmel and Marthaville.\nGenerated: 2026-04-30 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued April 29 at 10:16PM CDT by NWS Shreveport LA\nExpires: 2026-04-30 04:15 Z\nAt 1016 PM CDT, Doppler radar was tracking a strong thunderstorm over Patroon, or 16 miles southeast of Center, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Milam, Many, San Augustine, Zwolle, Converse, Patroon, Bland Lake, Oak Grove, Florien, Provencal, Huxley, Noble, Fisher, Robeline, Negreet, Belmont, Toledo Bend Reservoir North, Mount Carmel and Marthaville.\nGenerated: 2026-04-30 04:05:15 UTC"
   31.5600, -94.1800
   31.8100, -94.0400
   31.7600, -93.1500
@@ -56,7 +74,7 @@ Line: 2,,"Special Weather Statement issued April 29 at 10:16PM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 11:15PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 04:15 Z\nAt 1115 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Cary to 10 miles southwest of RDU International to 9 miles east of Pittsboro. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Raleigh, Cary, Smithfield, Garner, Fuquay-Varina, Clayton, RDU International, Apex, Holly Springs, and Morrisville.  This includes the following highways... Interstate 40 between Mile Markers 283 and 317. Interstate 440 between Mile Markers 1 and 16. Interstate 540 near Mile Marker 1, and between Mile Markers 23 and 24. US 1 between Mile Markers 88 and 101.\nGenerated: 2026-04-30 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued April 29 at 11:15PM EDT by NWS Raleigh NC\nExpires: 2026-04-30 04:15 Z\nAt 1115 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Cary to 10 miles southwest of RDU International to 9 miles east of Pittsboro. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Raleigh, Cary, Smithfield, Garner, Fuquay-Varina, Clayton, RDU International, Apex, Holly Springs, and Morrisville.  This includes the following highways... Interstate 40 between Mile Markers 283 and 317. Interstate 440 between Mile Markers 1 and 16. Interstate 540 near Mile Marker 1, and between Mile Markers 23 and 24. US 1 between Mile Markers 88 and 101.\nGenerated: 2026-04-30 04:05:15 UTC"
   35.7100, -78.2100
   35.5400, -78.2800
   35.5200, -78.6800
@@ -69,7 +87,7 @@ Line: 2,,"Special Weather Statement issued April 29 at 11:15PM EDT by NWS Raleig
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued April 29 at 10:12PM CDT by NWS Shreveport LA\nExpires: 2026-04-30 04:15 Z\nAt 1012 PM CDT, Doppler radar was tracking an area of strong thunderstorms over Morrill, or 16 miles southeast of Rusk, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lufkin, Nacogdoches, Hudson, Huntington, Alto, Wells, Woden, Melrose, Pollok, Etoile, Martinsville, Douglass, Forest, Morrill, Macune, Zavalla, Appleby, Chireno, Broaddus and Redland.\nGenerated: 2026-04-30 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued April 29 at 10:12PM CDT by NWS Shreveport LA\nExpires: 2026-04-30 04:15 Z\nAt 1012 PM CDT, Doppler radar was tracking an area of strong thunderstorms over Morrill, or 16 miles southeast of Rusk, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lufkin, Nacogdoches, Hudson, Huntington, Alto, Wells, Woden, Melrose, Pollok, Etoile, Martinsville, Douglass, Forest, Morrill, Macune, Zavalla, Appleby, Chireno, Broaddus and Redland.\nGenerated: 2026-04-30 04:05:15 UTC"
   31.5700, -95.2300
   31.7500, -95.1300
   31.7400, -94.3500
