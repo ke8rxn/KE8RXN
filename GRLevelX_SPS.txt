@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-01 13:25:20 UTC
+; Generated: 2026-05-01 13:30:25 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 1 at 8:23AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-01 14:15 Z\nAt 823 AM CDT, Doppler radar was tracking a strong thunderstorm near La Pryor, moving east at 50 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... La Pryor, Batesville, Washer, Bluff, and Frio Town.\nGenerated: 2026-05-01 13:25:20 UTC"
+Line: 2,,"Special Weather Statement issued May 1 at 8:23AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-01 14:15 Z\nAt 823 AM CDT, Doppler radar was tracking a strong thunderstorm near La Pryor, moving east at 50 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... La Pryor, Batesville, Washer, Bluff, and Frio Town.\nGenerated: 2026-05-01 13:30:25 UTC"
   28.8600, -99.9900
   29.0800, -100.0100
   29.1300, -99.4100
@@ -13,38 +13,4 @@ Line: 2,,"Special Weather Statement issued May 1 at 8:23AM CDT by NWS Austin/San
   29.0900, -99.2800
   28.8700, -99.2600
   28.8600, -99.9900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 1 at 7:41AM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-01 13:30 Z\nAt 741 AM CDT, Doppler radar was tracking a strong thunderstorm over Salem, or 12 miles northeast of Victoria, moving east at 55 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... El Campo, Edna, Ganado, La Ward, Blessing, Cordele, Lake Texana Dam, Louise, and Midfield.\nGenerated: 2026-05-01 13:25:20 UTC"
-  29.3400, -96.2500
-  28.8500, -96.1800
-  28.8400, -96.7100
-  28.8500, -96.7000
-  28.8600, -96.7200
-  28.8900, -96.7300
-  28.9000, -96.7600
-  28.9200, -96.7800
-  28.9200, -96.7900
-  28.9400, -96.8000
-  28.9700, -96.8100
-  29.0200, -96.8300
-  29.0500, -96.8900
-  29.3400, -96.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 1 at 7:38AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-01 13:30 Z\nAt 738 AM CDT, Doppler radar was tracking a strong thunderstorm near Normandy, or near Quemado, moving east at 55 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Quemado, Radar Base, Normandy, Darling, and Paloma.\nGenerated: 2026-05-01 13:25:20 UTC"
-  28.8600, -100.5900
-  28.8700, -100.5900
-  28.8800, -100.6000
-  28.8900, -100.5900
-  28.8900, -100.6000
-  28.9000, -100.6000
-  28.9100, -100.6200
-  29.0300, -100.6300
-  29.1800, -99.9200
-  28.8700, -99.8700
-  28.8500, -100.5800
-  28.8600, -100.5900
 End:
