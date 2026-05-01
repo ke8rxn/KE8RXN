@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-01 17:25:14 UTC
+; Generated: 2026-05-01 17:30:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 1 at 12:22PM CDT by NWS New Orleans LA\nExpires: 2026-05-01 17:45 Z\nAt 1221 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas 7 miles east of Cut Off, moving northeast at 30 mph.  HAZARD...Waterspouts, winds in excess of 40 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cut Off, Galliano, Larose, Lafitte, and Barataria.\nGenerated: 2026-05-01 17:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 1 at 12:25PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-01 17:45 Z\nAt 1221 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Anahuac to near Smith Point to near Tiki Island. Movement was east at 45 mph. These storms produced wind gusts to 46 mph over Galveston Bay as they passed through. In addition, High Island will see the strongest part of the storm where hail will also be possible.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Galveston Island West End, Galveston Causeway, Galveston Pier 21, Anahuac, Pelican Island, Galveston State Park, Crystal Beach, Schlitterbahn, Scholes Field, The Strand, Port Bolivar, Offatts Bayou, Gilchrist, Galveston Pleasure Pier, Rollover Pass, Galveston Island East End, Bolivar Peninsula, Moody Gardens, and Oak Island.\nGenerated: 2026-05-01 17:30:15 UTC"
+  29.4200, -94.3400
+  29.2900, -94.5800
+  29.1600, -94.7000
+  29.1500, -94.7200
+  29.2000, -94.9600
+  29.4800, -94.7100
+  29.5600, -94.7000
+  29.5800, -94.6600
+  29.6200, -94.7000
+  29.7700, -94.6800
+  29.6600, -94.6700
+  29.6200, -94.6900
+  29.5800, -94.6500
+  29.5900, -94.5600
+  29.5600, -94.5100
+  29.5700, -94.4500
+  29.5400, -94.4500
+  29.5600, -94.3700
+  29.5500, -94.3900
+  29.4200, -94.3400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 1 at 12:22PM CDT by NWS New Orleans LA\nExpires: 2026-05-01 17:45 Z\nAt 1221 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas 7 miles east of Cut Off, moving northeast at 30 mph.  HAZARD...Waterspouts, winds in excess of 40 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cut Off, Galliano, Larose, Lafitte, and Barataria.\nGenerated: 2026-05-01 17:30:15 UTC"
   29.5200, -90.4000
   29.6800, -90.2600
   29.6900, -90.0800
@@ -18,14 +42,4 @@ Line: 2,,"Special Weather Statement issued May 1 at 12:22PM CDT by NWS New Orlea
   29.4100, -90.2700
   29.4100, -90.4000
   29.5200, -90.4000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 1 at 11:53AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-01 17:30 Z\nAt 1152 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles north of Los Angeles, or 13 miles east of Dilley, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cross, Zella, and Los Angeles.\nGenerated: 2026-05-01 17:25:14 UTC"
-  28.6400, -98.5200
-  28.5700, -98.5100
-  28.4400, -99.0600
-  28.6300, -99.1300
-  28.6400, -99.0900
-  28.6400, -98.5200
 End:
