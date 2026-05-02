@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-02 12:45:14 UTC
+; Generated: 2026-05-02 12:50:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 8:23AM EDT by NWS Tallahassee FL\nExpires: 2026-05-02 13:00 Z\nAt 823 AM EDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Perry, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Steinhatchee, Tennille, Fish Creek, Jug Island, Howell Place, Clara, Carbur, Adams Beach, Dekle Beach, Jack Lee Island, Keaton Beach, Bird Island, Salem, Blue Springs, Athena, and Cedar Island.\nGenerated: 2026-05-02 12:45:14 UTC"
+Line: 2,,"Special Weather Statement issued May 2 at 8:46AM EDT by NWS Jacksonville FL\nExpires: 2026-05-02 13:15 Z\nAt 846 AM EDT, Doppler radar was tracking a strong thunderstorm near Luraville, or near Mayo, moving northeast at 50 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake City, Live Oak, Jasper, White Springs, Ichetucknee Spring, Suwannee River State Park, Suwannee Springs, Columbia, Providence, and Winfield.\nGenerated: 2026-05-02 12:50:13 UTC"
+  30.3100, -83.2100
+  30.3500, -83.2100
+  30.3500, -83.1900
+  30.3800, -83.1900
+  30.3900, -83.1700
+  30.4100, -83.1800
+  30.4200, -83.2200
+  30.4400, -83.2200
+  30.6300, -82.6500
+  29.9900, -82.4900
+  29.9300, -82.9200
+  29.9900, -82.9600
+  30.0100, -83.0000
+  30.0800, -83.0700
+  30.1100, -83.1200
+  30.1000, -83.1400
+  30.1100, -83.1600
+  30.0900, -83.1900
+  30.1100, -83.2200
+  30.2600, -83.2500
+  30.3100, -83.2100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 2 at 8:23AM EDT by NWS Tallahassee FL\nExpires: 2026-05-02 13:00 Z\nAt 823 AM EDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Perry, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Steinhatchee, Tennille, Fish Creek, Jug Island, Howell Place, Clara, Carbur, Adams Beach, Dekle Beach, Jack Lee Island, Keaton Beach, Bird Island, Salem, Blue Springs, Athena, and Cedar Island.\nGenerated: 2026-05-02 12:50:13 UTC"
   29.8000, -83.7000
   30.0000, -83.7200
   30.0300, -83.3700
