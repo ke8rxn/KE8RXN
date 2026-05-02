@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-02 18:55:12 UTC
+; Generated: 2026-05-02 19:00:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 2:43PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 19:15 Z\nAt 243 PM EDT, Doppler radar was tracking strong thunderstorms and gusty outflow winds along a line extending from DeBary to near Lake Apopka to Mascotte. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Orlando, Deltona, Sanford, Apopka, and Altamonte Springs.\nGenerated: 2026-05-02 18:55:12 UTC"
+Line: 2,,"Special Weather Statement issued May 2 at 2:56PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-02 19:45 Z\nAt 255 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Land O Lakes to near Tampa International Airport to 8 miles west of Fort Desoto Park. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tampa, Clearwater, Lakeland, Largo, Bradenton, Pinellas Park, Plant City, Temple Terrace, Bartow, Seminole, New Port Richey, Zephyrhills, Palmetto, Dade City, Downtown Saint Petersburg, Fort Desoto Park, Holiday, Fish Hawk, Saint Petersburg, and Lutz.\nGenerated: 2026-05-02 19:00:24 UTC"
+  27.9700, -82.8500
+  28.3400, -82.7200
+  28.4900, -81.9600
+  28.3500, -81.9600
+  28.3500, -81.9100
+  28.0000, -81.8300
+  27.4500, -82.0700
+  27.4500, -82.7600
+  27.7300, -82.8600
+  27.8000, -82.8600
+  27.9700, -82.8500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 2 at 2:43PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 19:15 Z\nAt 243 PM EDT, Doppler radar was tracking strong thunderstorms and gusty outflow winds along a line extending from DeBary to near Lake Apopka to Mascotte. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Orlando, Deltona, Sanford, Apopka, and Altamonte Springs.\nGenerated: 2026-05-02 19:00:24 UTC"
   28.7200, -81.9500
   28.7300, -81.6900
   28.9300, -81.3900
@@ -21,7 +36,7 @@ Line: 2,,"Special Weather Statement issued May 2 at 2:43PM EDT by NWS Melbourne 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 2:38PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 19:15 Z\nAt 238 PM EDT, Doppler radar was tracking a strong thunderstorm near Cape Canaveral, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Titusville, Rockledge, Cocoa, Cocoa Beach, and Cape Canaveral.\nGenerated: 2026-05-02 18:55:12 UTC"
+Line: 2,,"Special Weather Statement issued May 2 at 2:38PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 19:15 Z\nAt 238 PM EDT, Doppler radar was tracking a strong thunderstorm near Cape Canaveral, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Titusville, Rockledge, Cocoa, Cocoa Beach, and Cape Canaveral.\nGenerated: 2026-05-02 19:00:24 UTC"
   28.3900, -80.5700
   28.2800, -80.5600
   28.2500, -80.8600
@@ -40,40 +55,4 @@ Line: 2,,"Special Weather Statement issued May 2 at 2:38PM EDT by NWS Melbourne 
   28.5700, -80.5400
   28.4600, -80.4900
   28.3900, -80.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 2:33PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 19:00 Z\nAt 232 PM EDT, Doppler radar was tracking a strong thunderstorm over Daytona International Speedway, or over Daytona Beach, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Daytona Beach, Port Orange, Ormond Beach, New Smyrna Beach, and South Daytona.\nGenerated: 2026-05-02 18:55:12 UTC"
-  29.0800, -80.8900
-  29.0400, -81.1200
-  29.2000, -81.3000
-  29.2600, -81.2400
-  29.2700, -81.1500
-  29.3500, -81.1500
-  29.3600, -81.0300
-  29.0800, -80.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 2:30PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-02 19:00 Z\nAt 230 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hill n Dale to 10 miles west of Palm Harbor to 20 miles southwest of Bay Pines. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tampa, Clearwater, Largo, Pinellas Park, Seminole, New Port Richey, Zephyrhills, Dade City, Downtown Saint Petersburg, Fort Desoto Park, Holiday, Saint Petersburg, Lutz, St. Petersburg, St. Pete Beach, Anna Maria, St. Leo, Palm Harbor, New Port Richey East, and Tampa International Airport.\nGenerated: 2026-05-02 18:55:12 UTC"
-  28.6100, -82.2300
-  28.6100, -81.9600
-  28.4000, -81.9600
-  27.9900, -82.5100
-  27.5600, -82.7000
-  27.5200, -82.7700
-  27.8600, -82.9100
-  28.1100, -82.9100
-  28.6100, -82.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 2:26PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 19:00 Z\nAt 226 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from Lisbon to 6 miles southwest of Bushnell. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Apopka, DeLand, Leesburg, Eustis, and Tavares.\nGenerated: 2026-05-02 18:55:12 UTC"
-  28.9600, -81.9500
-  28.9600, -81.6600
-  29.0400, -81.6600
-  29.0900, -81.0800
-  28.6000, -81.7200
-  28.5700, -81.9500
-  28.9600, -81.9500
 End:
