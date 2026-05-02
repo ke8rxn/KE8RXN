@@ -3,9 +3,45 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-02 19:40:13 UTC
+; Generated: 2026-05-02 19:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 2:18PM CDT by NWS Louisville KY\nExpires: 2026-05-02 20:00 Z\nAt 215 PM CDT, Doppler radar was tracking a cluster of gusty showers north of Russellville and southwest of Bowling Green, moving southeast at 20 mph.  HAZARD...Pea size hail. Cold air funnels are also possible, but this type of funnel cloud is harmless.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Bowling Green, Russellville, Plum Springs, Crestmoor, Memphis Junction, Mount Victor, Anderson, Franklin, Auburn, and Lewisburg.\nGenerated: 2026-05-02 19:40:13 UTC"
+Line: 2,,"Special Weather Statement issued May 2 at 3:43PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 20:15 Z\nAt 342 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Azalea Park, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Orlando, Kissimmee, Titusville, Apopka, and Altamonte Springs.\nGenerated: 2026-05-02 19:45:15 UTC"
+  28.4300, -80.5200
+  28.2700, -81.4500
+  28.6400, -81.5100
+  28.8900, -80.7500
+  28.6000, -80.5400
+  28.4600, -80.4900
+  28.4300, -80.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 2 at 3:39PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-02 20:30 Z\nAt 339 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles southwest of Lake Louisa to near Lakeland to Ruskin to 10 miles northwest of Saint Armands Key. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tampa, Lakeland, Sarasota, Bradenton, Plant City, Winter Haven, Temple Terrace, Haines City, Bartow, Lake Wales, Auburndale, Palmetto, Fish Hawk, Brandon, South Gate Ridge, Lake Sarasota, East Lake-Orient Park, Southgate, Gulf Gate Estates, and The Meadows.\nGenerated: 2026-05-02 19:45:15 UTC"
+  27.7600, -82.5200
+  27.9600, -82.5000
+  28.1700, -82.1800
+  28.1700, -82.1100
+  28.2300, -82.1000
+  28.3200, -82.0000
+  28.3100, -81.9600
+  28.3500, -81.9600
+  28.3500, -81.6600
+  28.2600, -81.6600
+  28.2600, -81.5600
+  28.1400, -81.5200
+  28.1400, -81.4600
+  27.9500, -81.5700
+  27.6400, -81.9400
+  27.6400, -82.0600
+  27.5300, -82.0500
+  27.1500, -82.3800
+  27.2500, -82.6300
+  27.4500, -82.7500
+  27.7600, -82.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 2 at 2:18PM CDT by NWS Louisville KY\nExpires: 2026-05-02 20:00 Z\nAt 215 PM CDT, Doppler radar was tracking a cluster of gusty showers north of Russellville and southwest of Bowling Green, moving southeast at 20 mph.  HAZARD...Pea size hail. Cold air funnels are also possible, but this type of funnel cloud is harmless.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Bowling Green, Russellville, Plum Springs, Crestmoor, Memphis Junction, Mount Victor, Anderson, Franklin, Auburn, and Lewisburg.\nGenerated: 2026-05-02 19:45:15 UTC"
   37.0600, -87.0500
   37.0700, -86.9800
   37.0700, -86.9400
@@ -22,33 +58,4 @@ Line: 2,,"Special Weather Statement issued May 2 at 2:18PM CDT by NWS Louisville
   36.6800, -86.4900
   36.8400, -87.0600
   37.0600, -87.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 3:16PM EDT by NWS Melbourne FL\nExpires: 2026-05-02 19:45 Z\nAt 316 PM EDT, Doppler radar was tracking a strong thunderstorm over Azalea Park, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Kissimmee, Altamonte Springs, Ocoee, and Winter Garden.\nGenerated: 2026-05-02 19:40:13 UTC"
-  28.3500, -81.9500
-  28.7100, -81.2900
-  28.5900, -80.9500
-  28.4100, -80.8800
-  28.2900, -81.2100
-  28.3300, -81.6600
-  28.3500, -81.6600
-  28.3500, -81.7900
-  28.3600, -81.7900
-  28.3500, -81.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 2:56PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-02 19:45 Z\nAt 255 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Land O Lakes to near Tampa International Airport to 8 miles west of Fort Desoto Park. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tampa, Clearwater, Lakeland, Largo, Bradenton, Pinellas Park, Plant City, Temple Terrace, Bartow, Seminole, New Port Richey, Zephyrhills, Palmetto, Dade City, Downtown Saint Petersburg, Fort Desoto Park, Holiday, Fish Hawk, Saint Petersburg, and Lutz.\nGenerated: 2026-05-02 19:40:13 UTC"
-  27.9700, -82.8500
-  28.3400, -82.7200
-  28.4900, -81.9600
-  28.3500, -81.9600
-  28.3500, -81.9100
-  28.0000, -81.8300
-  27.4500, -82.0700
-  27.4500, -82.7600
-  27.7300, -82.8600
-  27.8000, -82.8600
-  27.9700, -82.8500
 End:
