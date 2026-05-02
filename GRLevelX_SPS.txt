@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-02 23:00:16 UTC
+; Generated: 2026-05-02 23:05:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 2 at 6:36PM EDT by NWS Miami FL\nExpires: 2026-05-02 23:15 Z\nAt 636 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near Babcock Ranch, or 20 miles northwest of Labelle, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Labelle, Palmdale, Port La Belle, Ortona, and Muse.\nGenerated: 2026-05-02 23:00:16 UTC"
+Line: 2,,"Special Weather Statement issued May 2 at 4:01PM PDT by NWS Portland OR\nExpires: 2026-05-02 23:30 Z\nAt 401 PM PDT, Doppler radar was tracking a strong thunderstorm 16 miles southeast of Belknap Springs, or 27 miles west of Bend, moving northwest at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Belknap Springs.  This includes the following highways in Oregon... State Highway 126 from Eugene to McKenzie Bridge between mile markers 50 and 55. State Highway 126 from McKenzie Bridge to the Santiam Highway between mile markers 15 and 19.\nGenerated: 2026-05-02 23:05:13 UTC"
+  44.0500, -121.8000
+  44.0500, -121.8100
+  44.0400, -121.8300
+  44.0200, -121.8200
+  44.0000, -121.8300
+  43.9500, -121.9600
+  44.1400, -122.2400
+  44.3000, -121.9400
+  44.0800, -121.7800
+  44.0500, -121.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 2 at 6:36PM EDT by NWS Miami FL\nExpires: 2026-05-02 23:15 Z\nAt 636 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near Babcock Ranch, or 20 miles northwest of Labelle, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Labelle, Palmdale, Port La Belle, Ortona, and Muse.\nGenerated: 2026-05-02 23:05:13 UTC"
   27.0300, -81.2300
   26.6500, -81.3500
   26.6900, -81.5700
