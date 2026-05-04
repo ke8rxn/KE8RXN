@@ -3,9 +3,48 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-04 23:10:12 UTC
+; Generated: 2026-05-04 23:15:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 7:02PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-05-04 23:45 Z\nAt 701 PM EDT, Doppler radar was tracking a strong thunderstorm near Milan, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Taylor, Romulus, Ypsilanti, Flat Rock, Saline, Milan, Dundee, Carleton, Canton, Dearborn, Wyandotte, Trenton, Grosse Ile, Belleville, Maybee, Willis, Westland, Dearborn Heights, Lincoln Park, and Southgate.\nGenerated: 2026-05-04 23:10:12 UTC"
+Line: 2,,"Special Weather Statement issued May 4 at 6:14PM CDT by NWS Norman OK\nExpires: 2026-05-04 23:45 Z\nAt 613 PM CDT, Doppler radar was tracking developing and ongoing strong thunderstorms along a line extending from 3 miles west of Mountain Park to near Fort Sill and from near Apache to just east of Hobart. Movement was northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lawton, Cache, Elgin, Apache, Snyder, Mountain Park, Medicine Park, Indiahoma, Roosevelt, Manitou, Headrick, Cooperton, Meers, Tom Steed Reservoir, Lake Lawtonka, Boone, Fort Sill, Warren, Lake Ellsworth, and Wichita Mountains Wildlife Refuge.\nGenerated: 2026-05-04 23:15:22 UTC"
+  35.0200, -98.9900
+  35.0100, -98.3700
+  34.7700, -98.2800
+  34.4800, -98.5100
+  34.4800, -98.9400
+  34.5300, -99.1000
+  34.9000, -99.3000
+  35.0200, -98.9900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 4 at 7:14PM EDT by NWS Northern Indiana\nExpires: 2026-05-05 00:00 Z\nAt 714 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Stevensville to Centreville. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Niles, Sturgis, Benton Harbor, St. Joseph, Three Rivers, Dowagiac, Buchanan, Benton Heights, Fair Plain, Bridgman, Constantine, New Buffalo, Berrien Springs, Cassopolis, Watervliet, Three Oaks, White Pigeon, Coloma, Centreville, and Edwardsburg.  This includes the following highways... Interstate 196 between mile markers 0 and 5. Interstate 94 in Michigan between mile markers 0 and 42.\nGenerated: 2026-05-04 23:15:22 UTC"
+  42.2000, -86.2200
+  42.0700, -86.2200
+  42.0700, -85.2800
+  41.7600, -85.2800
+  41.7600, -86.8200
+  41.9000, -86.6200
+  42.1100, -86.4900
+  42.2200, -86.3800
+  42.2000, -86.2200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 4 at 7:12PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-05-04 23:45 Z\nAt 711 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Whitmore Lake to near Salem to near Canton. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Livonia, Troy, Southfield, Pontiac, Novi, Romulus, Canton, Royal Oak, Birmingham, South Lyon, Northville, Salem, Detroit Zoo, Whitmore Lake, West Bloomfield, Westland, Farmington Hills, Rochester Hills, Dearborn Heights, and Madison Heights.\nGenerated: 2026-05-04 23:15:22 UTC"
+  42.2200, -83.4800
+  42.3400, -83.6700
+  42.4300, -83.7900
+  42.4300, -83.6700
+  42.5200, -83.6700
+  42.6800, -83.4400
+  42.6500, -83.1800
+  42.4700, -83.0800
+  42.4600, -83.0800
+  42.2200, -83.4800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 4 at 7:02PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-05-04 23:45 Z\nAt 701 PM EDT, Doppler radar was tracking a strong thunderstorm near Milan, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Taylor, Romulus, Ypsilanti, Flat Rock, Saline, Milan, Dundee, Carleton, Canton, Dearborn, Wyandotte, Trenton, Grosse Ile, Belleville, Maybee, Willis, Westland, Dearborn Heights, Lincoln Park, and Southgate.\nGenerated: 2026-05-04 23:15:22 UTC"
   41.9200, -83.7700
   42.1800, -83.7700
   42.3300, -83.2700
@@ -15,7 +54,7 @@ Line: 2,,"Special Weather Statement issued May 4 at 7:02PM EDT by NWS Detroit/Po
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 5:58PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-04 23:45 Z\nAt 557 PM CDT, Doppler radar was tracking gusty showers over Rochester, or near Wind Lake, moving east at 40 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Also cause reduced visibility due to blowing dust.  Locations impacted include... Milwaukee, Racine, New Berlin, Greenfield, Oak Creek, Mount Pleasant, Muskego, South Milwaukee, Cudahy, Greendale, Hales Corners, Sturtevant, Union Grove, Franklin, Wind Lake, Vernon, Rochester, Raymond, Yorkville, and Wind Point.  This includes the following highways... Interstate 43 between mile markers 46 and 53. Interstate 41/94 between mile markers 319 and 337.\nGenerated: 2026-05-04 23:10:12 UTC"
+Line: 2,,"Special Weather Statement issued May 4 at 5:58PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-04 23:45 Z\nAt 557 PM CDT, Doppler radar was tracking gusty showers over Rochester, or near Wind Lake, moving east at 40 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Also cause reduced visibility due to blowing dust.  Locations impacted include... Milwaukee, Racine, New Berlin, Greenfield, Oak Creek, Mount Pleasant, Muskego, South Milwaukee, Cudahy, Greendale, Hales Corners, Sturtevant, Union Grove, Franklin, Wind Lake, Vernon, Rochester, Raymond, Yorkville, and Wind Point.  This includes the following highways... Interstate 43 between mile markers 46 and 53. Interstate 41/94 between mile markers 319 and 337.\nGenerated: 2026-05-04 23:15:22 UTC"
   42.7600, -87.7700
   42.7100, -87.7700
   42.6800, -87.7900
@@ -34,64 +73,10 @@ Line: 2,,"Special Weather Statement issued May 4 at 5:58PM CDT by NWS Milwaukee/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 3:57PM PDT by NWS Reno NV\nExpires: 2026-05-04 23:30 Z\nAt 357 PM PDT, Doppler radar was tracking a strong thunderstorm over Lake Davis, or near Beckwourth, moving southwest at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Blairsden, Beckwourth, Graeagle, Iron Horse, Delleker, Valley Ranch, Lake Davis, Clio, Mohawk Vista, Grizzly Campground, C-Road, Whitehawk, and Portola.\nGenerated: 2026-05-04 23:10:12 UTC"
+Line: 2,,"Special Weather Statement issued May 4 at 3:57PM PDT by NWS Reno NV\nExpires: 2026-05-04 23:30 Z\nAt 357 PM PDT, Doppler radar was tracking a strong thunderstorm over Lake Davis, or near Beckwourth, moving southwest at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Blairsden, Beckwourth, Graeagle, Iron Horse, Delleker, Valley Ranch, Lake Davis, Clio, Mohawk Vista, Grizzly Campground, C-Road, Whitehawk, and Portola.\nGenerated: 2026-05-04 23:15:22 UTC"
   39.9100, -120.4100
   39.8400, -120.3700
   39.7100, -120.5900
   39.8400, -120.6700
   39.9100, -120.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 3:49PM PDT by NWS Reno NV\nExpires: 2026-05-04 23:15 Z\nAt 348 PM PDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Lovelock, moving west at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lovelock and Lovelock Derby Field Airport.\nGenerated: 2026-05-04 23:10:12 UTC"
-  40.1800, -118.2400
-  40.0500, -118.2500
-  40.0200, -118.5800
-  40.2300, -118.5800
-  40.1800, -118.2400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 6:46PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-05-04 23:15 Z\nAt 646 PM EDT, Doppler radar was tracking a strong thunderstorm over Britton, or near Tecumseh, moving northeast at 40 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Milan, Dundee, Carleton, Maybee, Azalia, Cone, Scofield, and Oakville.\nGenerated: 2026-05-04 23:10:12 UTC"
-  41.9000, -83.7700
-  42.0800, -83.7700
-  42.0900, -83.4600
-  42.0900, -83.4400
-  42.0400, -83.3600
-  41.9000, -83.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 5:43PM CDT by NWS Norman OK\nExpires: 2026-05-04 23:15 Z\nAt 543 PM CDT, Doppler radar was tracking ongoing and developing strong thunderstorms along a line extending from near Cooperton to near Meers and from 4 miles northeast of Manitou to near Martha. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lawton, Altus, Cache, Elgin, Apache, Snyder, Blair, Mountain Park, Medicine Park, Indiahoma, Roosevelt, Manitou, Martha, Headrick, Friendship, Cooperton, Altus Air Force Base, Meers, Tom Steed Reservoir, and Boone.\nGenerated: 2026-05-04 23:10:12 UTC"
-  34.9500, -98.3500
-  34.7700, -98.2800
-  34.4800, -98.5100
-  34.4800, -98.9300
-  34.6500, -99.5200
-  34.8200, -99.5300
-  34.9600, -99.1400
-  34.9500, -98.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 5:23PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-04 23:15 Z\nAt 522 PM CDT, Doppler radar was tracking a strong thunderstorm near Campbellsport, or 10 miles southeast of Fond Du Lac, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Also reduced visibility from blowing dust.  Locations impacted include... Sheboygan, Plymouth, Sheboygan Falls, Howards Grove, Kohler, Campbellsport, Elkhart Lake, Greenbush, Eden, Cascade, Waldo, Glenbeulah, Haven, Johnsonville, Dundee, Waucousta, and Town of Forest.  This includes Interstate 43 between mile markers 123 and 135.\nGenerated: 2026-05-04 23:10:12 UTC"
-  43.7600, -87.7000
-  43.7400, -87.7100
-  43.7100, -87.7100
-  43.6000, -88.3300
-  43.7300, -88.3800
-  43.8900, -87.7500
-  43.8900, -87.7300
-  43.8100, -87.7300
-  43.7700, -87.7000
-  43.7600, -87.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 4 at 6:20PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-05-04 23:15 Z\nAt 619 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Vandercook Lake to near Cement City to near Onsted. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ann Arbor, Ypsilanti, Saline, Milan, Chelsea, Dexter, Manchester, Salem, Dixboro, Whitmore Lake, Willis, Bridgewater, Barton Hills, Pittsfield Township, Whittaker, Hudson Mills Metropark, Delhi Mills, Pleasant Lake, Hudson Mills, and Lyndon Township.\nGenerated: 2026-05-04 23:10:12 UTC"
-  42.4200, -84.1300
-  42.4400, -83.5600
-  42.0900, -83.5400
-  42.0700, -84.1300
-  42.4200, -84.1300
 End:
