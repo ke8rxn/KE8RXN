@@ -3,29 +3,25 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-05 22:15:13 UTC
+; Generated: 2026-05-05 22:20:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 3:13PM PDT by NWS Elko NV\nExpires: 2026-05-05 22:45 Z\nAt 312 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Carlin, moving southwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elko, Carlin, Emigrant Pass, Palisade, Adobe Summit, Emigrant Mine, and South Area Mine.\nGenerated: 2026-05-05 22:15:13 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 6:15PM EDT by NWS Cleveland OH\nExpires: 2026-05-05 23:00 Z\nAt 614 PM EDT, Doppler radar was tracking a strong thunderstorm near Danville, or 11 miles northeast of Mount Vernon, moving northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wooster, Mount Vernon, Millersburg, Loudonville, Gambier, Shreve, Danville, Killbuck, Holmesville, Glenmont, Mount Eaton, Nashville, Apple Creek, Butler, Perrysville, Fredericksburg, Martinsburg, Gann, North Liberty, and Bladensburg.\nGenerated: 2026-05-05 22:20:19 UTC"
+  40.2400, -82.4300
+  40.5400, -82.4800
+  40.9600, -82.0000
+  40.6600, -81.6600
+  40.4500, -82.0100
+  40.4500, -82.1800
+  40.3300, -82.1900
+  40.2400, -82.3500
+  40.2400, -82.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 5 at 3:13PM PDT by NWS Elko NV\nExpires: 2026-05-05 22:45 Z\nAt 312 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Carlin, moving southwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elko, Carlin, Emigrant Pass, Palisade, Adobe Summit, Emigrant Mine, and South Area Mine.\nGenerated: 2026-05-05 22:20:19 UTC"
   41.0200, -116.0700
   40.9100, -115.7800
   40.4600, -115.9100
   40.6500, -116.4400
   41.0200, -116.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 5:41PM EDT by NWS Cleveland OH\nExpires: 2026-05-05 22:15 Z\nAt 540 PM EDT, Doppler radar was tracking a strong thunderstorm near Centerburg, or 13 miles northeast of Westerville, moving northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mansfield, Mount Vernon, Fredericktown, Gambier, Utica, Bellville, Centerburg, Danville, Chesterville, Sparta, Waterford, Butler, Marengo, and North Liberty.\nGenerated: 2026-05-05 22:15:13 UTC"
-  40.2700, -82.4800
-  40.2700, -82.7400
-  40.2800, -82.7500
-  40.3500, -82.7500
-  40.3600, -82.9200
-  40.7200, -82.4900
-  40.5900, -82.3400
-  40.5600, -82.3400
-  40.5600, -82.3000
-  40.4500, -82.1800
-  40.2400, -82.4400
-  40.2400, -82.4800
-  40.2700, -82.4800
 End:
