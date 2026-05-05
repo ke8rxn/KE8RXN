@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-05 06:00:14 UTC
+; Generated: 2026-05-05 06:05:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 1:51AM EDT by NWS Indianapolis IN\nExpires: 2026-05-05 06:15 Z\nAt 150 AM EDT, Doppler radar was tracking a strong thunderstorm near Rockville, or 21 miles northeast of Terre Haute, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rockville, Russellville, Marshall, Bridgeton, Cecil Harden Lake, and Judson.\nGenerated: 2026-05-05 06:00:14 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 1:01AM CDT by NWS Tulsa OK\nExpires: 2026-05-05 06:45 Z\nAt 100 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles west of Narcissa to 3 miles north of Cleora to 3 miles southeast of Big Cabin. Movement was east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph and dime to nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Miami...                          Vinita... Jay...                            Grove... Fairland...                       Afton... Langley...                        Adair... Bernice...                        Ketchum... Spavinaw...                       Bluejacket... Wyandotte...                      Disney... Big Cabin...                      Pensacola... Honey Creek State Park...         Cherokee State Park... Bernice State Park...             Cleora...  This includes Interstate 44 between mile markers 262 and 305.\nGenerated: 2026-05-05 06:05:18 UTC"
+  36.8000, -94.6200
+  36.5000, -94.6200
+  36.3600, -94.6000
+  36.4000, -95.4400
+  36.5100, -95.3500
+  36.5100, -95.3300
+  36.5400, -95.3300
+  36.8600, -95.0600
+  36.8000, -94.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 5 at 1:51AM EDT by NWS Indianapolis IN\nExpires: 2026-05-05 06:15 Z\nAt 150 AM EDT, Doppler radar was tracking a strong thunderstorm near Rockville, or 21 miles northeast of Terre Haute, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rockville, Russellville, Marshall, Bridgeton, Cecil Harden Lake, and Judson.\nGenerated: 2026-05-05 06:05:18 UTC"
   39.6500, -87.2600
   39.7700, -87.2600
   39.8600, -87.1900
@@ -15,18 +28,7 @@ Line: 2,,"Special Weather Statement issued May 5 at 1:51AM EDT by NWS Indianapol
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 12:37AM CDT by NWS Topeka KS\nExpires: 2026-05-05 06:00 Z\nAt 1237 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles south of Harveyville to 5 miles southwest of Reading to near Madison. Movement was east at 40 mph.  HAZARD...Strong wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Osage City, Burlington, Lyndon, Lebo, Waverly, New Strawn, Melvern, Hartford, Gridley, Neosho Rapids, Reading, Olivet, Beto Junction, John Redmond Reservoir, Melvern Lake, and Le Roy.  This includes the following highways... Interstate 35 between mile markers 135 and 162. Kansas Turnpike between mile markers 141 and 153.\nGenerated: 2026-05-05 06:00:14 UTC"
-  38.1700, -95.9600
-  38.1700, -96.1400
-  38.7400, -96.0700
-  38.7100, -95.5900
-  38.0400, -95.6200
-  38.0400, -95.9600
-  38.1700, -95.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 12:35AM CDT by NWS Tulsa OK\nExpires: 2026-05-05 06:15 Z\nAt 1234 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles west of Welch to near Afton. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Miami...                          Vinita... Baxter Springs...                 Nowata... Grove...                          Commerce... Chelsea...                        Fairland... Afton...                          Quapaw... Welch...                          Bernice... Bluejacket...                     Wyandotte... Big Cabin...                      Treece... New Alluwe...                     Honey Creek State Park... Bernice State Park...             Watova...  This includes Interstate 44 between mile markers 273 and 324.\nGenerated: 2026-05-05 06:00:14 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 12:35AM CDT by NWS Tulsa OK\nExpires: 2026-05-05 06:15 Z\nAt 1234 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles west of Welch to near Afton. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Miami...                          Vinita... Baxter Springs...                 Nowata... Grove...                          Commerce... Chelsea...                        Fairland... Afton...                          Quapaw... Welch...                          Bernice... Bluejacket...                     Wyandotte... Big Cabin...                      Treece... New Alluwe...                     Honey Creek State Park... Bernice State Park...             Watova...  This includes Interstate 44 between mile markers 273 and 324.\nGenerated: 2026-05-05 06:05:18 UTC"
   37.0000, -94.6200
   36.5800, -94.6200
   36.5100, -95.2100
@@ -36,7 +38,7 @@ Line: 2,,"Special Weather Statement issued May 5 at 12:35AM CDT by NWS Tulsa OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 1:20AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-05-05 06:15 Z\nAt 120 AM EDT, Doppler radar was tracking gusty showers along a line extending from near Capac to near Memphis to near Algonac. Movement was northeast at 40 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Huron, New Baltimore, Richmond, St. Clair, Algonac, Yale, Capac, Lakeport, Marysville, Marine City, Memphis, Emmett, Harsens Island, Brockway, Blaine, Columbus, Anchorville, North Street, Lynn Township, and Fort Gratiot.\nGenerated: 2026-05-05 06:00:14 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 1:20AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-05-05 06:15 Z\nAt 120 AM EDT, Doppler radar was tracking gusty showers along a line extending from near Capac to near Memphis to near Algonac. Movement was northeast at 40 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Huron, New Baltimore, Richmond, St. Clair, Algonac, Yale, Capac, Lakeport, Marysville, Marine City, Memphis, Emmett, Harsens Island, Brockway, Blaine, Columbus, Anchorville, North Street, Lynn Township, and Fort Gratiot.\nGenerated: 2026-05-05 06:05:18 UTC"
   42.9700, -82.3800
   42.9600, -82.4200
   42.9300, -82.4600
