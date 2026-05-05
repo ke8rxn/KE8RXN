@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-05 09:10:21 UTC
+; Generated: 2026-05-05 09:15:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 3:59AM CDT by NWS Springfield MO\nExpires: 2026-05-05 09:45 Z\nAt 359 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Warsaw to near Hermitage. Movement was east at 60 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake of The Ozarks, Lake of The Ozarks State Park, Ha Ha Tonka State Park, Pomme de Terre Lake, Osage Beach, Camdenton, Village of Four Seasons, Hermitage, Sunrise Beach, Macks Creek, Linn Creek, Preston, Cross Timbers, Climax Springs, Freedom, Fristoe, Hurricane Deck, Knobby, Old Linn Creek, and Barnumton.\nGenerated: 2026-05-05 09:10:21 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 4:10AM CDT by NWS Little Rock AR\nExpires: 2026-05-05 10:00 Z\nAt 409 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Piercetown to 6 miles west of Devils Knob. Movement was east at 40 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Marshall...                       Jasper... Dover...                          Hector... Witts Spring...                   Duff... Devils Knob...                    Bohannon... Elberta...                        Watts... Holman...                         Dillen... Woodland...                       Broomfield... Eula...                           Walnut... Marsena...                        Rocky Hill... Carver...                         Moore...\nGenerated: 2026-05-05 09:15:14 UTC"
+  36.0000, -92.4100
+  35.9800, -92.4100
+  35.9700, -92.3100
+  36.0000, -92.3000
+  35.9900, -92.1900
+  35.4600, -92.8300
+  35.4600, -92.8500
+  35.4400, -92.8500
+  35.3600, -92.9500
+  35.5600, -93.7000
+  35.7700, -93.7000
+  35.7600, -93.5200
+  35.8800, -93.5300
+  36.0400, -93.2300
+  36.0000, -92.4100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 5 at 3:59AM CDT by NWS Springfield MO\nExpires: 2026-05-05 09:45 Z\nAt 359 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Warsaw to near Hermitage. Movement was east at 60 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake of The Ozarks, Lake of The Ozarks State Park, Ha Ha Tonka State Park, Pomme de Terre Lake, Osage Beach, Camdenton, Village of Four Seasons, Hermitage, Sunrise Beach, Macks Creek, Linn Creek, Preston, Cross Timbers, Climax Springs, Freedom, Fristoe, Hurricane Deck, Knobby, Old Linn Creek, and Barnumton.\nGenerated: 2026-05-05 09:15:14 UTC"
   38.2100, -92.9300
   38.2000, -92.9600
   38.1900, -92.7900
@@ -24,45 +43,4 @@ Line: 2,,"Special Weather Statement issued May 5 at 3:59AM CDT by NWS Springfiel
   38.1900, -93.0000
   38.2300, -92.9500
   38.2100, -92.9300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 3:39AM CDT by NWS Tulsa OK\nExpires: 2026-05-05 09:15 Z\nAt 338 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 5 miles north of Lost Valley State Park to 4 miles northeast of Witter to 8 miles west of St. Paul. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... St. Paul...                       Pettigrew... Kingston...                       Witter... Boston...                         Dutton... Patrick...                        Red Star... Combs...                          Weathers... Delaney...                        Brashears...\nGenerated: 2026-05-05 09:10:21 UTC"
-  35.9500, -93.4900
-  35.9300, -93.4900
-  35.9200, -93.5100
-  35.8800, -93.5100
-  35.8800, -93.5200
-  35.7600, -93.5200
-  35.7700, -93.7000
-  35.7400, -93.7000
-  35.7800, -93.9600
-  35.8300, -93.9600
-  36.1200, -93.4800
-  36.0800, -93.4800
-  36.0800, -93.4500
-  35.9700, -93.4500
-  35.9500, -93.4900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 3:31AM CDT by NWS Little Rock AR\nExpires: 2026-05-05 09:15 Z\nAt 331 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Kingston to Japton. Movement was east at 50 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Marshall...                       Jasper... Marsena...                        Carver... Erbie...                          Moore... Duff...                           Upper Buffalo Wilderness Area... Point Peter...                    Devils Knob... Lost Valley State Park...         Pruitt... Rosetta...                        Dillen... Eula...                           Piercetown... Walnut...                         Bertha... St. Joe...                        Pindall...\nGenerated: 2026-05-05 09:10:21 UTC"
-  36.1200, -93.1500
-  36.0000, -92.4800
-  35.6500, -93.1600
-  35.7400, -93.7000
-  35.7700, -93.6900
-  35.7700, -93.5200
-  35.8800, -93.5300
-  35.8800, -93.5000
-  35.9200, -93.5100
-  35.9300, -93.4900
-  35.9500, -93.4900
-  35.9500, -93.4700
-  35.9700, -93.4700
-  35.9700, -93.4500
-  36.0800, -93.4500
-  36.0800, -93.4800
-  36.1200, -93.4800
-  36.1200, -93.1500
 End:
