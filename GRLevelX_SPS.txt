@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-05 08:05:22 UTC
+; Generated: 2026-05-05 08:10:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 2:52AM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-05-05 08:15 Z\nAt 251 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Butler, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montrose, Ballard, Hartwell, and La Due.\nGenerated: 2026-05-05 08:05:22 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 3:06AM CDT by NWS Tulsa OK\nExpires: 2026-05-05 08:45 Z\nAt 306 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles southeast of Clifty to 3 miles east of Drake Field Airport. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Fayetteville...                   Huntsville... Elkins...                         Greenland... Hindsville...                     Wesley... Rudd...                           Kingston... Forum...                          Aurora... Clifty...                         Withrow Springs State Park... Japton...                         Witter... Marble...                         Drake Field Airport... Osage...                          Goshen... Georgetown...                     Dryfork...  This includes Interstate 49 between mile markers 57 and 59.\nGenerated: 2026-05-05 08:10:21 UTC"
+  36.1200, -93.4800
+  36.0800, -93.4800
+  36.0800, -93.4500
+  35.9900, -93.4500
+  35.8400, -93.7300
+  36.0000, -94.2400
+  36.2600, -93.7700
+  36.2000, -93.3000
+  36.1200, -93.3000
+  36.1200, -93.4800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 5 at 2:52AM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-05-05 08:15 Z\nAt 251 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Butler, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montrose, Ballard, Hartwell, and La Due.\nGenerated: 2026-05-05 08:10:21 UTC"
   38.1700, -94.2300
   38.3400, -94.2800
   38.4600, -93.8500
@@ -16,7 +30,7 @@ Line: 2,,"Special Weather Statement issued May 5 at 2:52AM CDT by NWS Kansas Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 2:44AM CDT by NWS Topeka KS\nExpires: 2026-05-05 08:15 Z\nAt 244 AM CDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Olpe, moving east at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Olpe.  This includes Kansas Turnpike between mile markers 117 and 120.\nGenerated: 2026-05-05 08:05:22 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 2:44AM CDT by NWS Topeka KS\nExpires: 2026-05-05 08:15 Z\nAt 244 AM CDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Olpe, moving east at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Olpe.  This includes Kansas Turnpike between mile markers 117 and 120.\nGenerated: 2026-05-05 08:10:21 UTC"
   38.1700, -96.3600
   38.3400, -96.3500
   38.3400, -96.0400
@@ -25,7 +39,7 @@ Line: 2,,"Special Weather Statement issued May 5 at 2:44AM CDT by NWS Topeka KS\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 5 at 2:43AM CDT by NWS Tulsa OK\nExpires: 2026-05-05 08:30 Z\nAt 243 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles west of Gentry to 6 miles northwest of War Eagle to near Hobbs State Park. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Fayetteville...                   Springdale... Rogers...                         Bentonville... Siloam Springs...                 Huntsville... Lowell...                         Farmington... Gentry...                         Tontitown... Cave Springs...                   Colcord... Highfill...                       Springtown... Hindsville...                     Northwest Arkansas Regional Air... Forum...                          Hobbs State Park... Clifty...                         Withrow Springs State Park...  This includes Interstate 49 between mile markers 63 and 86.\nGenerated: 2026-05-05 08:05:22 UTC"
+Line: 2,,"Special Weather Statement issued May 5 at 2:43AM CDT by NWS Tulsa OK\nExpires: 2026-05-05 08:30 Z\nAt 243 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles west of Gentry to 6 miles northwest of War Eagle to near Hobbs State Park. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Fayetteville...                   Springdale... Rogers...                         Bentonville... Siloam Springs...                 Huntsville... Lowell...                         Farmington... Gentry...                         Tontitown... Cave Springs...                   Colcord... Highfill...                       Springtown... Hindsville...                     Northwest Arkansas Regional Air... Forum...                          Hobbs State Park... Clifty...                         Withrow Springs State Park...  This includes Interstate 49 between mile markers 63 and 86.\nGenerated: 2026-05-05 08:10:21 UTC"
   36.0600, -94.3400
   36.1200, -93.5200
   36.2900, -93.6400
