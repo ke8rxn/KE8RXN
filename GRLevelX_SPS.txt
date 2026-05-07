@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-07 20:45:17 UTC
+; Generated: 2026-05-07 20:50:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 4:37PM EDT by NWS Raleigh NC\nExpires: 2026-05-07 21:30 Z\nAt 436 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of Asheboro, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Asheboro, North Carolina Zoo, Ulah, Seagrove, Robbins, Star, Steeds, Harpers Crossroads, and Highfalls.  This includes Interstate 73 between Mile Markers 48 and 76.\nGenerated: 2026-05-07 20:45:17 UTC"
+Line: 2,,"Special Weather Statement issued May 7 at 2:45PM MDT by NWS Missoula MT\nExpires: 2026-05-07 21:15 Z\nAt 245 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Kalispell, moving southeast at 15 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kila and Somers.\nGenerated: 2026-05-07 20:50:19 UTC"
+  48.2000, -114.5800
+  48.2500, -114.4200
+  48.0600, -114.1900
+  47.9600, -114.5100
+  48.2000, -114.5800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 7 at 4:37PM EDT by NWS Raleigh NC\nExpires: 2026-05-07 21:30 Z\nAt 436 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of Asheboro, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Asheboro, North Carolina Zoo, Ulah, Seagrove, Robbins, Star, Steeds, Harpers Crossroads, and Highfalls.  This includes Interstate 73 between Mile Markers 48 and 76.\nGenerated: 2026-05-07 20:50:19 UTC"
   35.6700, -80.0600
   35.7400, -79.8600
   35.6700, -79.5500
@@ -17,38 +26,4 @@ Line: 2,,"Special Weather Statement issued May 7 at 4:37PM EDT by NWS Raleigh NC
   35.4800, -80.0100
   35.5600, -80.0700
   35.6700, -80.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 2:05PM MDT by NWS Missoula MT\nExpires: 2026-05-07 20:45 Z\nAt 205 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of Whitefish, or 11 miles northwest of Kalispell, moving southeast at 15 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kalispell, Evergreen and Kila.\nGenerated: 2026-05-07 20:45:17 UTC"
-  48.3000, -114.6600
-  48.3800, -114.5000
-  48.1900, -114.1400
-  48.0300, -114.4300
-  48.3000, -114.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 3:49PM EDT by NWS Raleigh NC\nExpires: 2026-05-07 20:45 Z\nAt 348 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Linwood, or 7 miles west of Lexington, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... High Point, Lexington, Thomasville, Linwood, Archdale, Trinity, Denton, Gordontown, Randleman Regional Reservior Marina, and High Rock Lake.  This includes the following highways... Interstate 85 between Mile Markers 84 and 112.\nGenerated: 2026-05-07 20:45:17 UTC"
-  35.8300, -80.4600
-  35.8300, -80.4300
-  35.8500, -80.4200
-  35.8400, -80.4000
-  35.8500, -80.3900
-  35.8700, -80.3900
-  35.8800, -80.4200
-  35.8900, -80.3700
-  35.9400, -80.3700
-  35.9100, -79.8000
-  35.7100, -79.8700
-  35.5100, -80.0700
-  35.5100, -80.1800
-  35.5500, -80.2100
-  35.5800, -80.2100
-  35.6800, -80.3300
-  35.7200, -80.3300
-  35.7400, -80.4600
-  35.7700, -80.4500
-  35.7900, -80.4800
-  35.8300, -80.4600
 End:
