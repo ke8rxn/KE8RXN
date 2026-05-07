@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-07 10:25:15 UTC
+; Generated: 2026-05-07 10:30:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 5:22AM CDT by NWS Mobile AL\nExpires: 2026-05-07 11:00 Z\nAt 521 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southwest of Movico, or 9 miles north of Creola, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bay Minette, Stockton, Axis, Mount Vernon, I65 And AL 225, Movico, and Poarch Creek Reservation.\nGenerated: 2026-05-07 10:25:15 UTC"
+Line: 2,,"Special Weather Statement issued May 7 at 5:27AM CDT by NWS Mobile AL\nExpires: 2026-05-07 11:15 Z\nAt 527 AM CDT, Doppler radar was tracking a strong thunderstorm near Repton, or 8 miles southeast of Frisco City, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Evergreen, Castleberry, Repton, and I65 And US 84.\nGenerated: 2026-05-07 10:30:23 UTC"
+  31.3500, -86.7000
+  31.2200, -86.7000
+  31.2300, -86.7700
+  31.2600, -86.7700
+  31.2600, -86.8900
+  31.2900, -87.3700
+  31.3500, -87.3500
+  31.4500, -87.2300
+  31.4700, -87.2000
+  31.5200, -86.7000
+  31.4400, -86.7000
+  31.4400, -86.6700
+  31.3700, -86.6700
+  31.3500, -86.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 7 at 5:22AM CDT by NWS Mobile AL\nExpires: 2026-05-07 11:00 Z\nAt 521 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southwest of Movico, or 9 miles north of Creola, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bay Minette, Stockton, Axis, Mount Vernon, I65 And AL 225, Movico, and Poarch Creek Reservation.\nGenerated: 2026-05-07 10:30:23 UTC"
   30.9300, -88.1800
   31.1400, -88.1700
   31.1400, -88.0200
@@ -25,7 +43,7 @@ Line: 2,,"Special Weather Statement issued May 7 at 5:22AM CDT by NWS Mobile AL\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 5:11AM CDT by NWS Tallahassee FL\nExpires: 2026-05-07 10:45 Z\nAt 511 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Brantley, or 9 miles north of Elba, moving east at 55 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Rucker, Lee, Pine Level, Java, Chestnut Grove, Mixons Crossroads, Victoria, Frisco, Eanon, Wilkinstown, Zoar, Lowry Mill, Newby, Camp Humming Hills, Roeton, Wise Mill, Tabernacle, Clowers Crossroads, Arcus, and Bluff Spring.\nGenerated: 2026-05-07 10:25:15 UTC"
+Line: 2,,"Special Weather Statement issued May 7 at 5:11AM CDT by NWS Tallahassee FL\nExpires: 2026-05-07 10:45 Z\nAt 511 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Brantley, or 9 miles north of Elba, moving east at 55 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Rucker, Lee, Pine Level, Java, Chestnut Grove, Mixons Crossroads, Victoria, Frisco, Eanon, Wilkinstown, Zoar, Lowry Mill, Newby, Camp Humming Hills, Roeton, Wise Mill, Tabernacle, Clowers Crossroads, Arcus, and Bluff Spring.\nGenerated: 2026-05-07 10:30:23 UTC"
   31.5300, -86.1900
   31.5300, -86.1600
   31.5400, -86.1600
@@ -35,13 +53,4 @@ Line: 2,,"Special Weather Statement issued May 7 at 5:11AM CDT by NWS Tallahasse
   31.4400, -85.7900
   31.4600, -86.2000
   31.5300, -86.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 4:42AM CDT by NWS Mobile AL\nExpires: 2026-05-07 10:30 Z\nAt 442 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Lucedale, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Citronelle, Lucedale, Leakesville, Chunchula, and Gulfcrest.\nGenerated: 2026-05-07 10:25:15 UTC"
-  31.1600, -88.7200
-  31.2100, -88.1100
-  30.8500, -88.1000
-  30.9400, -88.7400
-  31.1600, -88.7200
 End:
