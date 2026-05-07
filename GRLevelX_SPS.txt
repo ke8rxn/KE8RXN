@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-07 14:25:16 UTC
+; Generated: 2026-05-07 14:35:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 8:53AM CDT by NWS Mobile AL\nExpires: 2026-05-07 14:45 Z\nAt 853 AM CDT, Doppler radar was tracking a strong thunderstorm 5 miles southwest of Mobile Regional Airport, or 8 miles west of Tillmans Corner, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Midtown Mobile, Downtown Mobile, Daphne, Tillmans Corner, Fairhope, Theodore, Spanish Fort, Robertsdale, Loxley, Summerdale, Silverhill, Mobile Regional Airport, and I10 And I65.\nGenerated: 2026-05-07 14:25:16 UTC"
+Line: 2,,"Special Weather Statement issued May 7 at 9:27AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-07 15:15 Z\nAt 927 AM CDT, Doppler radar was tracking a strong thunderstorm near Tuff, or 8 miles northwest of Leakey, moving northeast at 35 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lost Maples State Natural Area, Kerr Wildlife Management Area, and Prade Ranch.\nGenerated: 2026-05-07 14:35:23 UTC"
+  29.7700, -99.8900
+  29.8400, -99.9300
+  30.1200, -99.5300
+  29.8700, -99.3800
+  29.7700, -99.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 7 at 8:53AM CDT by NWS Mobile AL\nExpires: 2026-05-07 14:45 Z\nAt 853 AM CDT, Doppler radar was tracking a strong thunderstorm 5 miles southwest of Mobile Regional Airport, or 8 miles west of Tillmans Corner, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Midtown Mobile, Downtown Mobile, Daphne, Tillmans Corner, Fairhope, Theodore, Spanish Fort, Robertsdale, Loxley, Summerdale, Silverhill, Mobile Regional Airport, and I10 And I65.\nGenerated: 2026-05-07 14:35:23 UTC"
   30.4700, -87.9100
   30.4900, -87.9100
   30.4900, -87.9300
@@ -16,30 +25,4 @@ Line: 2,,"Special Weather Statement issued May 7 at 8:53AM CDT by NWS Mobile AL\
   30.7400, -87.5900
   30.4500, -87.5800
   30.4700, -87.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 8:50AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-07 14:30 Z\nAt 850 AM CDT, Doppler radar was tracking a strong thunderstorm near Barksdale, or 20 miles south of Rocksprings, moving northeast at 35 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Vance, Barksdale, and Prade Ranch.\nGenerated: 2026-05-07 14:25:16 UTC"
-  30.0900, -99.8200
-  29.9200, -99.6900
-  29.9100, -99.6900
-  29.9100, -99.6800
-  29.8500, -99.6300
-  29.6700, -100.1800
-  29.7400, -100.2600
-  30.0900, -99.8200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 9:24AM EDT by NWS Tallahassee FL\nExpires: 2026-05-07 14:30 Z\nAt 923 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Newton to near Donalsonville. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Colquitt, Newton, Donalsonville, Pelham, Camilla, Bainbridge, Moultrie, Doerun, Schley, Funston, Sale City, Iron City, Brinson, Capel, Harrells Still, Donaldsonville A/P, Greenough, Bellview, Vada, and Akridge.\nGenerated: 2026-05-07 14:25:16 UTC"
-  31.3300, -83.6400
-  30.9200, -84.1500
-  30.9500, -84.9800
-  30.9700, -84.9900
-  31.0700, -85.0100
-  31.0700, -84.9200
-  31.1500, -84.9200
-  31.3000, -84.5400
-  31.3400, -84.2200
-  31.3300, -83.6400
 End:
