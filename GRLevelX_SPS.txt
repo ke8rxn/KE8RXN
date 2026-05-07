@@ -3,53 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-07 07:00:22 UTC
+; Generated: 2026-05-07 07:05:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 2:54AM EDT by NWS Peachtree City GA\nExpires: 2026-05-07 07:30 Z\nAt 254 AM EDT, a strong thunderstorm was over Church Hill, or near Preston, moving east at 55 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Americus, Ellaville, Oglethorpe, Preston, Montezuma, Plains, Byromville, Andersonville, Dooling, Seminole, New Era, Flint River Wma, La Crosse, Pennington, Draneville, Andersonville National Historic, Friendship, Drayton, Clearview, and Methvins.\nGenerated: 2026-05-07 07:00:22 UTC"
+Line: 2,,"Special Weather Statement issued May 7 at 1:59AM CDT by NWS Mobile AL\nExpires: 2026-05-07 07:45 Z\nAt 159 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles east of McIntosh to 3 miles southeast of Calvert to 4 miles east of Citronelle. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McCullough, Uriah, Mount Vernon, I65 And CR 1, Movico, I65 And AL 21, and Poarch Creek Reservation.\nGenerated: 2026-05-07 07:05:16 UTC"
+  31.0700, -88.1200
+  31.1400, -88.0500
+  31.1400, -88.0200
+  31.1700, -87.9900
+  31.1600, -87.9600
+  31.1600, -87.9400
+  31.2100, -87.9500
+  31.2300, -87.9300
+  31.2500, -87.9500
+  31.3200, -87.8900
+  31.3600, -87.4200
+  31.2800, -87.4100
+  31.2600, -87.4300
+  31.2600, -87.4100
+  31.1200, -87.4000
+  31.0000, -87.5200
+  31.0000, -87.6000
+  30.9800, -87.5900
+  31.0700, -88.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 7 at 2:54AM EDT by NWS Peachtree City GA\nExpires: 2026-05-07 07:30 Z\nAt 254 AM EDT, a strong thunderstorm was over Church Hill, or near Preston, moving east at 55 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Americus, Ellaville, Oglethorpe, Preston, Montezuma, Plains, Byromville, Andersonville, Dooling, Seminole, New Era, Flint River Wma, La Crosse, Pennington, Draneville, Andersonville National Historic, Friendship, Drayton, Clearview, and Methvins.\nGenerated: 2026-05-07 07:05:16 UTC"
   32.0200, -84.6300
   32.2100, -84.6200
   32.3100, -83.9800
   32.1800, -83.8700
   32.0400, -83.9800
   32.0200, -84.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 2:32AM EDT by NWS Peachtree City GA\nExpires: 2026-05-07 07:00 Z\nAt 232 AM EDT, a strong thunderstorm was near Charles, or 7 miles northwest of Lumpkin, moving east at 40 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Lumpkin, Richland, Seminole, Omaha, Charles, Westville, Church Hill, Brooklyn, Renfroe, Louvale, and Providence Canyon State Park.\nGenerated: 2026-05-07 07:00:22 UTC"
-  32.0300, -85.0600
-  32.0800, -85.0500
-  32.0900, -85.0400
-  32.1300, -85.0600
-  32.1800, -85.0100
-  32.2000, -84.9600
-  32.2100, -84.9800
-  32.2200, -84.9800
-  32.2200, -84.9300
-  32.2300, -84.9200
-  32.2800, -84.6600
-  32.1600, -84.5000
-  32.0400, -84.6400
-  32.0200, -85.0500
-  32.0300, -85.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 7 at 1:12AM CDT by NWS Mobile AL\nExpires: 2026-05-07 07:00 Z\nAt 112 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of Fruitdale to 5 miles southeast of McLain. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Citronelle, Leakesville, Gulfcrest, Deer Park, and McIntosh.\nGenerated: 2026-05-07 07:00:22 UTC"
-  31.2100, -88.7000
-  31.3300, -88.6800
-  31.3300, -87.9200
-  31.3200, -87.9200
-  31.3100, -87.9300
-  31.3100, -87.9600
-  31.2900, -87.9500
-  31.2700, -87.9500
-  31.2700, -87.9700
-  31.2600, -87.9900
-  31.2600, -87.9700
-  31.2500, -87.9600
-  31.0600, -88.0900
-  30.9500, -88.3400
-  31.0000, -88.8400
-  31.0600, -88.8400
-  31.2100, -88.7000
 End:
