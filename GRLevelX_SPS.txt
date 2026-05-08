@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-08 23:25:20 UTC
+; Generated: 2026-05-08 23:30:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 6:22PM CDT by NWS Springfield MO\nExpires: 2026-05-09 00:00 Z\nAt 622 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Calhoun, or 10 miles south of Windsor, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Truman State Park, Truman Lake, Warsaw, Lincoln, Cole Camp, Ionia, Palo Pinto, Lakeview Heights, Brandon, Crockerville, Zora, Racket, Edmonson, Hastain, Whitakerville, and Mora.\nGenerated: 2026-05-08 23:25:20 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 7:29PM EDT by NWS Melbourne FL\nExpires: 2026-05-09 00:00 Z\nAt 727 PM EDT, Doppler radar was tracking a strong thunderstorm over Port Orange, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Port Orange, New Smyrna Beach, Edgewater, Bethune Beach, and Ponce Inlet.\nGenerated: 2026-05-08 23:30:24 UTC"
+  29.0900, -80.9000
+  28.9700, -80.8100
+  28.9300, -80.9400
+  29.1100, -81.1800
+  29.1200, -80.9100
+  29.0900, -80.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 8 at 6:22PM CDT by NWS Springfield MO\nExpires: 2026-05-09 00:00 Z\nAt 622 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Calhoun, or 10 miles south of Windsor, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Truman State Park, Truman Lake, Warsaw, Lincoln, Cole Camp, Ionia, Palo Pinto, Lakeview Heights, Brandon, Crockerville, Zora, Racket, Edmonson, Hastain, Whitakerville, and Mora.\nGenerated: 2026-05-08 23:30:24 UTC"
   38.5300, -93.0700
   38.3500, -93.0700
   38.2100, -93.0800
@@ -17,7 +27,7 @@ Line: 2,,"Special Weather Statement issued May 8 at 6:22PM CDT by NWS Springfiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 6:06PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-08 23:45 Z\nAt 604 PM CDT, Doppler radar was tracking a strong thunderstorm 27 miles north of Sanderson, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of eastern Pecos County.\nGenerated: 2026-05-08 23:25:20 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 6:06PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-08 23:45 Z\nAt 604 PM CDT, Doppler radar was tracking a strong thunderstorm 27 miles north of Sanderson, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of eastern Pecos County.\nGenerated: 2026-05-08 23:30:24 UTC"
   30.6000, -102.3400
   30.4700, -102.3400
   30.4100, -102.5400
@@ -25,13 +35,4 @@ Line: 2,,"Special Weather Statement issued May 8 at 6:06PM CDT by NWS Midland/Od
   30.6800, -102.3300
   30.6000, -102.2900
   30.6000, -102.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 5:54PM CDT by NWS Tulsa OK\nExpires: 2026-05-08 23:30 Z\nAt 554 PM CDT, Doppler radar indicated a strong thunderstorm 6 miles east of Walnut Creek State Park, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Tulsa...                          Sand Springs... Skiatook...                       Barnsdall... Sperry...                         Avant... Westport...                       Walnut Creek State Park... Wolco...\nGenerated: 2026-05-08 23:25:20 UTC"
-  36.5500, -96.0000
-  36.1600, -96.0000
-  36.1700, -96.4100
-  36.5800, -96.2300
-  36.5500, -96.0000
 End:
