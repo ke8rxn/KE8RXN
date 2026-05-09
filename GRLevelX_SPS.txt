@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-09 21:10:13 UTC
+; Generated: 2026-05-09 21:15:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 5:00PM EDT by NWS Cleveland OH\nExpires: 2026-05-09 21:45 Z\nAt 500 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Oregon to near Toledo. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oak Harbor, Genoa, Rocky Ridge, Clay Center, and Williston.\nGenerated: 2026-05-09 21:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 4:12PM CDT by NWS Hastings NE\nExpires: 2026-05-09 22:00 Z\nAt 411 PM CDT, Doppler radar was tracking a strong thunderstorm near Edmond, or 11 miles north of Hill City, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Rooks and southwestern Phillips Counties.\nGenerated: 2026-05-09 21:15:13 UTC"
+  39.4300, -99.6000
+  39.5700, -99.6000
+  39.5700, -99.6300
+  39.6100, -99.6300
+  39.6100, -99.3700
+  39.3900, -99.3700
+  39.4300, -99.6000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 5:00PM EDT by NWS Cleveland OH\nExpires: 2026-05-09 21:45 Z\nAt 500 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Oregon to near Toledo. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oak Harbor, Genoa, Rocky Ridge, Clay Center, and Williston.\nGenerated: 2026-05-09 21:15:13 UTC"
   41.6200, -83.4100
   41.6200, -83.1500
   41.6100, -83.0900
@@ -22,50 +33,11 @@ Line: 2,,"Special Weather Statement issued May 9 at 5:00PM EDT by NWS Cleveland 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 3:52PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-09 21:30 Z\nAt 352 PM CDT, Doppler radar was tracking a strong thunderstorm over Fayetteville, or 13 miles east of La Grange. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fayetteville, Rek Hill, Ellinger, Holman, and Willow Springs.\nGenerated: 2026-05-09 21:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 3:52PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-09 21:30 Z\nAt 352 PM CDT, Doppler radar was tracking a strong thunderstorm over Fayetteville, or 13 miles east of La Grange. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fayetteville, Rek Hill, Ellinger, Holman, and Willow Springs.\nGenerated: 2026-05-09 21:15:13 UTC"
   29.8200, -96.6900
   29.7700, -96.7400
   29.7800, -96.8300
   29.9900, -96.7200
   29.9600, -96.5700
   29.8200, -96.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 2:32PM MDT by NWS Denver CO\nExpires: 2026-05-09 21:15 Z\nAt 232 PM MDT, Doppler radar was tracking a strong thunderstorm 4 miles south of Logan Corners, or 9 miles southwest of Sterling, moving southeast at 15 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Merino, Atwood and Logan Corners.\nGenerated: 2026-05-09 21:10:13 UTC"
-  40.6100, -103.4300
-  40.6400, -103.3400
-  40.5700, -103.0500
-  40.4400, -103.0400
-  40.4400, -103.3900
-  40.6100, -103.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 4:27PM EDT by NWS Cleveland OH\nExpires: 2026-05-09 21:15 Z\nAt 427 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sylvania to near Archbold. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Toledo, Swanton, Perrysburg, Oregon, Sylvania, Rossford, Waterville, Northwood, Whitehouse, Holland, Maumee, Ottawa Hills, Walbridge, Millbury, Haskins, Grand Rapids, Berkey, Harbor View, Reno Beach, and Bono.\nGenerated: 2026-05-09 21:10:13 UTC"
-  41.7200, -83.8800
-  41.7300, -83.4600
-  41.7300, -83.4500
-  41.7200, -83.4700
-  41.7000, -83.4600
-  41.6900, -83.4300
-  41.6900, -83.3500
-  41.7100, -83.3400
-  41.6400, -83.2300
-  41.6200, -83.1700
-  41.6200, -83.4100
-  41.5300, -83.4200
-  41.4100, -83.8800
-  41.7200, -83.8800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 2:26PM MDT by NWS Cheyenne WY\nExpires: 2026-05-09 21:15 Z\nAt 226 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Split Rock to near Independence Rock. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Muddy Gap, Dome Rock, and Miracle Mile.\nGenerated: 2026-05-09 21:10:13 UTC"
-  42.4300, -107.5200
-  42.4400, -107.2000
-  42.4300, -106.7100
-  42.2600, -106.5700
-  42.0900, -107.3700
-  42.3500, -107.5300
-  42.4300, -107.5200
 End:
