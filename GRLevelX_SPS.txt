@@ -3,9 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-09 06:00:20 UTC
+; Generated: 2026-05-09 06:05:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 12:46AM CDT by NWS Shreveport LA\nExpires: 2026-05-09 06:30 Z\nAt 1246 AM CDT, Doppler radar was tracking a strong thunderstorm over Benton, or 13 miles north of Bossier City, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Benton, Bellevue, Linton, Ivan, Red Chute, Couchwood and Alden Bridge.\nGenerated: 2026-05-09 06:00:20 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 1:01AM CDT by NWS New Orleans LA\nExpires: 2026-05-09 06:30 Z\nAt 101 AM CDT, Doppler radar was tracking a strong thunderstorm near Stennis Space Center, or 11 miles west of Diamondhead, moving east at 30 mph.  HAZARD...Winds in excess of 40 mph and pea to half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bay St. Louis, Waveland, Diamondhead, Shoreline Park, Stennis Space Center, and Kiln.  This includes Interstate 10 in Mississippi between mile markers 1 and 18.\nGenerated: 2026-05-09 06:05:22 UTC"
+  30.2600, -89.3600
+  30.3000, -89.6400
+  30.3100, -89.6300
+  30.4100, -89.6200
+  30.4200, -89.5300
+  30.4000, -89.3400
+  30.3700, -89.3400
+  30.3700, -89.3200
+  30.3600, -89.3300
+  30.3100, -89.3000
+  30.2600, -89.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 1:01AM CDT by NWS Fort Worth TX\nExpires: 2026-05-09 06:30 Z\nAt 101 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Poolville, or 14 miles north of Mineral Wells, moving south at 30 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southeastern Jack and northwestern Parker Counties, including the following locations... Gibtown, Adell, Peaster, Whitt, Advance, Authon, and Garner.\nGenerated: 2026-05-09 06:05:22 UTC"
+  33.0300, -98.0600
+  33.0800, -97.9500
+  33.0300, -97.9200
+  33.0000, -97.9200
+  33.0000, -97.9000
+  32.8500, -97.8000
+  32.7800, -98.0200
+  33.0300, -98.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 12:46AM CDT by NWS Shreveport LA\nExpires: 2026-05-09 06:30 Z\nAt 1246 AM CDT, Doppler radar was tracking a strong thunderstorm over Benton, or 13 miles north of Bossier City, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Benton, Bellevue, Linton, Ivan, Red Chute, Couchwood and Alden Bridge.\nGenerated: 2026-05-09 06:05:22 UTC"
   32.7300, -93.7900
   32.7700, -93.7900
   32.7800, -93.7800
