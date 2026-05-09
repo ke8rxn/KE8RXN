@@ -3,18 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-09 04:25:20 UTC
+; Generated: 2026-05-09 04:35:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 11:03PM CDT by NWS New Orleans LA\nExpires: 2026-05-09 04:30 Z\nAt 1103 PM CDT, Doppler radar was tracking a strong thunderstorm over Old Jefferson, or near Oak Hills Place, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Baton Rouge, St. Gabriel, French Settlement, Port Vincent, Prairieville, Old Jefferson, Shenandoah, Village St. George, and Inniswold.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 165 and 174. Interstate 12 between mile markers 5 and 7.\nGenerated: 2026-05-09 04:25:20 UTC"
-  30.4400, -91.0600
-  30.4400, -90.7200
-  30.2500, -90.7200
-  30.2600, -91.0600
-  30.4400, -91.0600
+Line: 2,,"Special Weather Statement issued May 8 at 11:34PM CDT by NWS Shreveport LA\nExpires: 2026-05-09 05:15 Z\nAt 1134 PM CDT, Doppler radar was tracking an area of strong thunderstorms over Ida, or 17 miles east of Atlanta, moving east at 50 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Springhill, Cullen, Plain Dealing, Cotton Valley, Sarepta, Bradley, Rodessa, Ida, Welcome, Brightstar, Bolinger, Gin City, State Line, Canale, Pleasant Valley, Kiblah and Walkerville.\nGenerated: 2026-05-09 04:35:13 UTC"
+  33.0200, -94.0400
+  33.0400, -94.0400
+  33.1600, -93.9900
+  33.0600, -93.3000
+  32.7800, -93.4400
+  32.9900, -94.0400
+  33.0200, -94.0400
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 11:02PM CDT by NWS Jackson MS\nExpires: 2026-05-09 04:45 Z\nAt 1102 PM CDT, Doppler radar was tracking a strong thunderstorm near Portland, or 13 miles southwest of Lake Village, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Eudora and Chicot Junction around 1110 PM CDT. Glen Allan and Avon around 1130 PM CDT.\nGenerated: 2026-05-09 04:25:20 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 11:30PM CDT by NWS Fort Worth TX\nExpires: 2026-05-09 05:15 Z\nAt 1130 PM CDT, Doppler radar was tracking a strong thunderstorm over Bowie, moving south at 15 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Bowie and Lake Amon G Carter around 1135 PM CDT. Sunset around 1145 PM CDT.  Other locations impacted by this storm include Fruitland.\nGenerated: 2026-05-09 04:35:13 UTC"
+  33.4400, -97.6600
+  33.4300, -97.9200
+  33.4400, -97.9500
+  33.5600, -97.9800
+  33.6200, -97.7800
+  33.4400, -97.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 8 at 11:02PM CDT by NWS Jackson MS\nExpires: 2026-05-09 04:45 Z\nAt 1102 PM CDT, Doppler radar was tracking a strong thunderstorm near Portland, or 13 miles southwest of Lake Village, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Eudora and Chicot Junction around 1110 PM CDT. Glen Allan and Avon around 1130 PM CDT.\nGenerated: 2026-05-09 04:35:13 UTC"
   33.3100, -91.5000
   33.2500, -90.9000
   33.0100, -90.9600
@@ -24,18 +36,7 @@ Line: 2,,"Special Weather Statement issued May 8 at 11:02PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 10:55PM CDT by NWS New Orleans LA\nExpires: 2026-05-09 04:30 Z\nAt 1054 PM CDT, Doppler radar was tracking a strong thunderstorm over Fort Adams, or 19 miles northeast of Simmesport, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph and pea to half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Woodville and Fort Adams.\nGenerated: 2026-05-09 04:25:20 UTC"
-  31.0600, -91.1500
-  31.0200, -91.5600
-  31.0600, -91.5600
-  31.0900, -91.5900
-  31.1600, -91.6000
-  31.2500, -91.1900
-  31.0600, -91.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 10:54PM CDT by NWS Fort Worth TX\nExpires: 2026-05-09 04:45 Z\nAt 1053 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms between Greenville and Sulphur Springs, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Cumby around 1100 PM CDT. Brashear around 1105 PM CDT. Sulphur Springs around 1110 PM CDT. Como around 1120 PM CDT. Pickton around 1125 PM CDT.  Other locations impacted by this storm include Miller Grove, Martin Springs, Lone Oak, Seymore, Arabla, Cornersville, and Pine Forest.  This includes Interstate 30 between mile markers 101 and 128.\nGenerated: 2026-05-09 04:25:20 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 10:54PM CDT by NWS Fort Worth TX\nExpires: 2026-05-09 04:45 Z\nAt 1053 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms between Greenville and Sulphur Springs, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Cumby around 1100 PM CDT. Brashear around 1105 PM CDT. Sulphur Springs around 1110 PM CDT. Como around 1120 PM CDT. Pickton around 1125 PM CDT.  Other locations impacted by this storm include Miller Grove, Martin Springs, Lone Oak, Seymore, Arabla, Cornersville, and Pine Forest.  This includes Interstate 30 between mile markers 101 and 128.\nGenerated: 2026-05-09 04:35:13 UTC"
   32.9600, -95.6700
   32.9800, -95.6700
   32.9800, -95.8000
@@ -45,26 +46,4 @@ Line: 2,,"Special Weather Statement issued May 8 at 10:54PM CDT by NWS Fort Wort
   33.0800, -95.3000
   32.9600, -95.3100
   32.9600, -95.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 10:44PM CDT by NWS Shreveport LA\nExpires: 2026-05-09 04:30 Z\nAt 1044 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Winnsboro, moving east at 35 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pittsburg, Winnsboro, Leesburg, Newsome, Scroggins, Purley, Cason, Midway, Rocky Mound, Harvard, Monticello, Lafayette, Center Point, Holly Springs and Cypress.\nGenerated: 2026-05-09 04:25:20 UTC"
-  32.9400, -95.4300
-  32.9600, -95.4200
-  32.9600, -95.3100
-  33.1200, -95.3100
-  33.0800, -94.7600
-  32.8100, -94.8200
-  32.9400, -95.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 10:40PM CDT by NWS Lake Charles LA\nExpires: 2026-05-09 04:30 Z\nAt 1039 PM CDT, Doppler radar was tracking a strong thunderstorm near Dry Creek, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Oakdale, Oberlin, Dry Creek, Mittie, Grant, Allen Parish Airport, Harmony, Bond, and Bundick Lake.\nGenerated: 2026-05-09 04:25:20 UTC"
-  30.8900, -92.6000
-  30.5800, -92.6000
-  30.5700, -92.5900
-  30.5600, -92.5900
-  30.6000, -93.2000
-  30.7800, -93.2200
-  30.8900, -92.6000
 End:
