@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-09 00:55:13 UTC
+; Generated: 2026-05-09 01:00:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 8:42PM EDT by NWS Jacksonville FL\nExpires: 2026-05-09 01:15 Z\nAt 842 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles west of Stephen Foster State Park to 7 miles southeast of Fargo to near White Springs. Movement was east at 40 mph.  HAZARD...Wind gusts 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hilliard, White Springs, Taylor, St. George, and Suwannee Valley.\nGenerated: 2026-05-09 00:55:13 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 7:57PM CDT by NWS Lake Charles LA\nExpires: 2026-05-09 01:45 Z\nAt 756 PM CDT, Doppler radar was tracking a strong thunderstorm over Roganville, or 8 miles south of Jasper, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Jasper, Newton, Kirbyville, Toledo Bend Dam, Burkeville, Farrsville, Magnolia Springs, Burr Ferry, Mayflower, Mt. Union, Jamestown, Roganville, Harrisburg, Stringtown, Wiergate, Evans, and Pickering.\nGenerated: 2026-05-09 01:00:14 UTC"
+  30.9900, -93.2000
+  30.8600, -93.4800
+  30.8800, -93.5500
+  30.8500, -93.5700
+  30.8300, -93.5600
+  30.6300, -93.9800
+  30.8000, -94.1200
+  31.1700, -93.8000
+  31.1800, -93.6000
+  31.1700, -93.5800
+  31.1900, -93.5500
+  31.2200, -93.5400
+  30.9900, -93.2000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 8 at 8:42PM EDT by NWS Jacksonville FL\nExpires: 2026-05-09 01:15 Z\nAt 842 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles west of Stephen Foster State Park to 7 miles southeast of Fargo to near White Springs. Movement was east at 40 mph.  HAZARD...Wind gusts 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hilliard, White Springs, Taylor, St. George, and Suwannee Valley.\nGenerated: 2026-05-09 01:00:14 UTC"
   30.5900, -82.5500
   30.7800, -82.5400
   30.7900, -81.9800
@@ -19,7 +36,7 @@ Line: 2,,"Special Weather Statement issued May 8 at 8:42PM EDT by NWS Jacksonvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 7:38PM CDT by NWS Tulsa OK\nExpires: 2026-05-09 01:30 Z\nAt 737 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles southwest of Mounds, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Okmulgee...                       Glenpool... Haskell...                        Kiefer... Morris...                         Beggs... Mounds...                         Preston... Bald Hill...                      Liberty... Jamesville...                     Hectorville... Eram...\nGenerated: 2026-05-09 00:55:13 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 7:38PM CDT by NWS Tulsa OK\nExpires: 2026-05-09 01:30 Z\nAt 737 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles southwest of Mounds, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Okmulgee...                       Glenpool... Haskell...                        Kiefer... Morris...                         Beggs... Mounds...                         Preston... Bald Hill...                      Liberty... Jamesville...                     Hectorville... Eram...\nGenerated: 2026-05-09 01:00:14 UTC"
   35.9800, -96.0900
   35.8700, -95.8300
   35.8600, -95.8200
@@ -29,17 +46,4 @@ Line: 2,,"Special Weather Statement issued May 8 at 7:38PM CDT by NWS Tulsa OK\n
   35.7800, -96.1900
   35.8300, -96.1900
   35.9800, -96.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 7:18PM CDT by NWS Tulsa OK\nExpires: 2026-05-09 01:00 Z\nAt 718 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles northwest of Okay to 2 miles south of Porter to near Haskell. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Muskogee...                       Wagoner... Fort Gibson...                    Haskell... Okay...                           Porter... Braggs...                         Taft... Boynton...                        Tullahassee... Summit...                         Redbird... Jamesville...                     Choska...\nGenerated: 2026-05-09 00:55:13 UTC"
-  36.0100, -95.3100
-  35.8200, -95.2700
-  35.6700, -95.1300
-  35.6400, -95.4200
-  35.6500, -95.6900
-  35.8800, -95.7700
-  35.8800, -95.5900
-  35.9800, -95.4100
-  36.0100, -95.3100
 End:
