@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-09 00:01:36 UTC
+; Generated: 2026-05-09 00:05:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 6:54PM CDT by NWS Springfield MO\nExpires: 2026-05-09 00:45 Z\nAt 654 PM CDT, Doppler radar was tracking a strong thunderstorm over Walnut, or 10 miles northeast of St. Paul, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Frontenac, Girard, Arma, Mulberry, Franklin, Arcadia, Walnut, Hepler, Croweburg, Greenbush, Yale, Ringo, Farlington, Brazilton, Polk, and Englevale.\nGenerated: 2026-05-09 00:01:36 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 7:02PM CDT by NWS Tulsa OK\nExpires: 2026-05-09 00:45 Z\nAt 701 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Pryor to near Salina to 2 miles southeast of Locust Grove. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pryor...                          Pryor Creek... Locust Grove...                   Salina... Hoot Owl...                       Leach... Rose...                           Snowdale State Park...\nGenerated: 2026-05-09 00:05:12 UTC"
+  36.3000, -94.9200
+  36.1600, -94.8800
+  36.1600, -95.1200
+  36.1500, -95.1200
+  36.1500, -95.2100
+  36.2600, -95.2500
+  36.3200, -95.4000
+  36.4000, -95.1200
+  36.3000, -94.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 8 at 7:01PM CDT by NWS Lake Charles LA\nExpires: 2026-05-09 00:45 Z\nAt 701 PM CDT, Doppler radar was tracking a strong thunderstorm near Village Mills, or near Wildwood, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Warren, Town Bluff, Fred, Wildwood, Spurger, Caney Head, Village Mills, Mt. Union, and Hillister.\nGenerated: 2026-05-09 00:05:12 UTC"
+  30.9000, -94.1700
+  30.5700, -93.9200
+  30.4200, -94.3700
+  30.5700, -94.4900
+  30.9000, -94.1700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 8 at 6:54PM CDT by NWS Springfield MO\nExpires: 2026-05-09 00:45 Z\nAt 654 PM CDT, Doppler radar was tracking a strong thunderstorm over Walnut, or 10 miles northeast of St. Paul, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Frontenac, Girard, Arma, Mulberry, Franklin, Arcadia, Walnut, Hepler, Croweburg, Greenbush, Yale, Ringo, Farlington, Brazilton, Polk, and Englevale.\nGenerated: 2026-05-09 00:05:12 UTC"
   37.5100, -95.0800
   37.6700, -95.0900
   37.6700, -94.6200
@@ -15,7 +37,7 @@ Line: 2,,"Special Weather Statement issued May 8 at 6:54PM CDT by NWS Springfiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 6:54PM CDT by NWS Tulsa OK\nExpires: 2026-05-09 00:30 Z\nAt 654 PM CDT, Doppler radar indicated a strong thunderstorm 6 miles east of Oilton, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Tulsa...                          Sand Springs... Sapulpa...                        Glenpool... Mannford...                       Kiefer... Kellyville...                     Keystone State Park... Silver City...  This includes Interstate 44 between mile markers 202 and 218.\nGenerated: 2026-05-09 00:01:36 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 6:54PM CDT by NWS Tulsa OK\nExpires: 2026-05-09 00:30 Z\nAt 654 PM CDT, Doppler radar indicated a strong thunderstorm 6 miles east of Oilton, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Tulsa...                          Sand Springs... Sapulpa...                        Glenpool... Mannford...                       Kiefer... Kellyville...                     Keystone State Park... Silver City...  This includes Interstate 44 between mile markers 202 and 218.\nGenerated: 2026-05-09 00:05:12 UTC"
   36.1500, -96.5700
   36.1600, -96.0200
   35.9300, -96.0300
@@ -24,7 +46,7 @@ Line: 2,,"Special Weather Statement issued May 8 at 6:54PM CDT by NWS Tulsa OK\n
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 7:49PM EDT by NWS Jacksonville FL\nExpires: 2026-05-09 00:15 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Needmore, or 12 miles northwest of Fargo, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Ware, east central Clinch and west central Charlton Counties.\nGenerated: 2026-05-09 00:01:36 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 7:49PM EDT by NWS Jacksonville FL\nExpires: 2026-05-09 00:15 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Needmore, or 12 miles northwest of Fargo, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Ware, east central Clinch and west central Charlton Counties.\nGenerated: 2026-05-09 00:05:12 UTC"
   30.7800, -82.7300
   30.9000, -82.7500
   31.0100, -82.4000
@@ -33,7 +55,7 @@ Line: 2,,"Special Weather Statement issued May 8 at 7:49PM EDT by NWS Jacksonvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 6:43PM CDT by NWS Springfield MO\nExpires: 2026-05-09 00:30 Z\nAt 643 PM CDT, Doppler radar was tracking a strong thunderstorm over Osceola, or 18 miles west of Hermitage, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pomme de Terre Lake, Pomme De Terre State Park, Truman Lake, Pittsburg, Osceola, Hermitage, Weaubleau, Wheatland, Preston, Cross Timbers, Collins, Vista, Gerster, Quincy, Elkton, Harper, and Nemo.\nGenerated: 2026-05-09 00:01:36 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 6:43PM CDT by NWS Springfield MO\nExpires: 2026-05-09 00:30 Z\nAt 643 PM CDT, Doppler radar was tracking a strong thunderstorm over Osceola, or 18 miles west of Hermitage, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pomme de Terre Lake, Pomme De Terre State Park, Truman Lake, Pittsburg, Osceola, Hermitage, Weaubleau, Wheatland, Preston, Cross Timbers, Collins, Vista, Gerster, Quincy, Elkton, Harper, and Nemo.\nGenerated: 2026-05-09 00:05:12 UTC"
   38.0700, -93.4900
   38.0600, -93.2100
   37.8000, -93.1900
@@ -45,7 +67,7 @@ Line: 2,,"Special Weather Statement issued May 8 at 6:43PM CDT by NWS Springfiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 8 at 7:41PM EDT by NWS Jacksonville FL\nExpires: 2026-05-09 00:15 Z\nAt 741 PM EDT, Doppler radar was tracking showers and thunderstorms along a line extending from 6 miles south of Du Pont to 10 miles southwest of Lake Park. Movement was east at 35 mph.  HAZARD...Wind gusts around 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jasper, Jennings, Statenville, Mayday, and Needmore.\nGenerated: 2026-05-09 00:01:36 UTC"
+Line: 2,,"Special Weather Statement issued May 8 at 7:41PM EDT by NWS Jacksonville FL\nExpires: 2026-05-09 00:15 Z\nAt 741 PM EDT, Doppler radar was tracking showers and thunderstorms along a line extending from 6 miles south of Du Pont to 10 miles southwest of Lake Park. Movement was east at 35 mph.  HAZARD...Wind gusts around 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jasper, Jennings, Statenville, Mayday, and Needmore.\nGenerated: 2026-05-09 00:05:12 UTC"
   30.6300, -83.1400
   30.8000, -83.1300
   30.8100, -83.1000
