@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-10 03:25:12 UTC
+; Generated: 2026-05-10 03:30:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 10:20PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:45 Z\nAt 1020 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Roll, moving east at 40 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammon, Leedey, Butler, Angora, and Moorewood.\nGenerated: 2026-05-10 03:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 10:28PM CDT by NWS Norman OK\nExpires: 2026-05-10 04:15 Z\nAt 1028 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles north of Hunter to 5 miles northwest of Cashion. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Edmond, Enid, Stillwater, Ponca City, Guthrie, Perry, Watonga, Kingfisher, Tonkawa, Piedmont, Perkins, Hennessey, Langston, Crescent, Helena, Waukomis, Luther, Okeene, Pond Creek, and Garber.\nGenerated: 2026-05-10 03:30:14 UTC"
+  36.7700, -96.9500
+  36.6800, -96.9600
+  36.7000, -97.0400
+  36.6800, -97.0600
+  36.6000, -97.0400
+  36.5900, -97.0600
+  36.5800, -97.0200
+  36.5900, -96.9600
+  36.5300, -96.9700
+  36.5100, -97.0300
+  36.3300, -97.0300
+  36.3300, -96.9800
+  35.5500, -97.0300
+  35.8600, -98.4300
+  36.6900, -98.3200
+  36.7700, -96.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 10:20PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:45 Z\nAt 1020 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Roll, moving east at 40 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammon, Leedey, Butler, Angora, and Moorewood.\nGenerated: 2026-05-10 03:30:14 UTC"
   35.8500, -99.6500
   35.8400, -99.6200
   35.8600, -99.6000
@@ -18,7 +38,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 10:20PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 10:18PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:45 Z\nAt 1018 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles southwest of Cashion to 6 miles northwest of Cogar to 4 miles northwest of Alfalfa. Movement was southeast at 40 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Oklahoma City, Edmond, Midwest City, Del City, El Reno, Chickasha, Newcastle, Anadarko, Kingfisher, Yukon, Bethany, Mustang, Warr Acres, The Village, Tuttle, Piedmont, Spencer, Nichols Hills, Hinton, and Jones.\nGenerated: 2026-05-10 03:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 10:18PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:45 Z\nAt 1018 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles southwest of Cashion to 6 miles northwest of Cogar to 4 miles northwest of Alfalfa. Movement was southeast at 40 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Oklahoma City, Edmond, Midwest City, Del City, El Reno, Chickasha, Newcastle, Anadarko, Kingfisher, Yukon, Bethany, Mustang, Warr Acres, The Village, Tuttle, Piedmont, Spencer, Nichols Hills, Hinton, and Jones.\nGenerated: 2026-05-10 03:30:14 UTC"
   35.4700, -98.6600
   35.4600, -98.6200
   35.4800, -98.6200
@@ -30,41 +50,4 @@ Line: 2,,"Special Weather Statement issued May 9 at 10:18PM CDT by NWS Norman OK
   34.8600, -98.5400
   35.3700, -98.9600
   35.4700, -98.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 11:03PM EDT by NWS Cleveland OH\nExpires: 2026-05-10 03:30 Z\nAt 1103 PM EDT, Doppler radar was tracking a strong thunderstorm near Hartville, or 11 miles northeast of Canton, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salem, Alliance, Sebring, Hartville, Atwater, Ellsworth, Beloit, Deerfield, Limaville, North Jackson, Berlin Center, Maple Ridge, Greenford, Maximo, and Uniontown.\nGenerated: 2026-05-10 03:25:12 UTC"
-  40.8600, -81.3500
-  40.9700, -81.4000
-  41.1100, -80.8400
-  40.9000, -80.7600
-  40.9000, -80.8200
-  40.9300, -80.8300
-  40.9300, -80.8900
-  40.9000, -80.9000
-  40.9000, -81.0800
-  40.8600, -81.0900
-  40.8600, -81.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:58PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:30 Z\nAt 958 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles northeast of Hillsdale to near Drummond to near Loyal. Movement was east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Enid, Kingfisher, Fairview, Hennessey, Crescent, Helena, Waukomis, Okeene, Garber, Cashion, Lahoma, Covington, Billings, Ringwood, Dover, Drummond, Cleo Springs, Marshall, Kremlin, and Goltry.\nGenerated: 2026-05-10 03:25:12 UTC"
-  36.6100, -97.4600
-  36.5900, -97.4600
-  36.5900, -97.4400
-  36.1800, -97.4800
-  35.7800, -97.6300
-  35.9800, -98.4200
-  36.3800, -98.4900
-  36.6700, -98.3300
-  36.6100, -97.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:56PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:30 Z\nAt 956 PM CDT, Doppler radar was tracking a strong thunderstorm near Alfalfa, moving east at 25 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Binger, Fort Cobb, Eakly, Fort Cobb Reservoir, Alfalfa, Albert, and Cowden.\nGenerated: 2026-05-10 03:25:12 UTC"
-  35.1500, -98.7500
-  35.3400, -98.7300
-  35.3400, -98.2800
-  35.0700, -98.3200
-  35.1500, -98.7500
 End:
