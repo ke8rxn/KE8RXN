@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-10 03:15:13 UTC
+; Generated: 2026-05-10 03:20:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 11:03PM EDT by NWS Cleveland OH\nExpires: 2026-05-10 03:30 Z\nAt 1103 PM EDT, Doppler radar was tracking a strong thunderstorm near Hartville, or 11 miles northeast of Canton, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salem, Alliance, Sebring, Hartville, Atwater, Ellsworth, Beloit, Deerfield, Limaville, North Jackson, Berlin Center, Maple Ridge, Greenford, Maximo, and Uniontown.\nGenerated: 2026-05-10 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 10:18PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:45 Z\nAt 1018 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles southwest of Cashion to 6 miles northwest of Cogar to 4 miles northwest of Alfalfa. Movement was southeast at 40 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Oklahoma City, Edmond, Midwest City, Del City, El Reno, Chickasha, Newcastle, Anadarko, Kingfisher, Yukon, Bethany, Mustang, Warr Acres, The Village, Tuttle, Piedmont, Spencer, Nichols Hills, Hinton, and Jones.\nGenerated: 2026-05-10 03:20:14 UTC"
+  35.4700, -98.6600
+  35.4600, -98.6200
+  35.4800, -98.6200
+  35.5500, -98.3900
+  35.9500, -97.8700
+  35.6000, -97.2800
+  35.0700, -97.8100
+  34.8500, -98.4900
+  34.8600, -98.5400
+  35.3700, -98.9600
+  35.4700, -98.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 11:03PM EDT by NWS Cleveland OH\nExpires: 2026-05-10 03:30 Z\nAt 1103 PM EDT, Doppler radar was tracking a strong thunderstorm near Hartville, or 11 miles northeast of Canton, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salem, Alliance, Sebring, Hartville, Atwater, Ellsworth, Beloit, Deerfield, Limaville, North Jackson, Berlin Center, Maple Ridge, Greenford, Maximo, and Uniontown.\nGenerated: 2026-05-10 03:20:14 UTC"
   40.8600, -81.3500
   40.9700, -81.4000
   41.1100, -80.8400
@@ -20,7 +35,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 11:03PM EDT by NWS Cleveland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:58PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:30 Z\nAt 958 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles northeast of Hillsdale to near Drummond to near Loyal. Movement was east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Enid, Kingfisher, Fairview, Hennessey, Crescent, Helena, Waukomis, Okeene, Garber, Cashion, Lahoma, Covington, Billings, Ringwood, Dover, Drummond, Cleo Springs, Marshall, Kremlin, and Goltry.\nGenerated: 2026-05-10 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 9:58PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:30 Z\nAt 958 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles northeast of Hillsdale to near Drummond to near Loyal. Movement was east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Enid, Kingfisher, Fairview, Hennessey, Crescent, Helena, Waukomis, Okeene, Garber, Cashion, Lahoma, Covington, Billings, Ringwood, Dover, Drummond, Cleo Springs, Marshall, Kremlin, and Goltry.\nGenerated: 2026-05-10 03:20:14 UTC"
   36.6100, -97.4600
   36.5900, -97.4600
   36.5900, -97.4400
@@ -33,31 +48,10 @@ Line: 2,,"Special Weather Statement issued May 9 at 9:58PM CDT by NWS Norman OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:56PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:30 Z\nAt 956 PM CDT, Doppler radar was tracking a strong thunderstorm near Alfalfa, moving east at 25 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Binger, Fort Cobb, Eakly, Fort Cobb Reservoir, Alfalfa, Albert, and Cowden.\nGenerated: 2026-05-10 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 9:56PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:30 Z\nAt 956 PM CDT, Doppler radar was tracking a strong thunderstorm near Alfalfa, moving east at 25 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Binger, Fort Cobb, Eakly, Fort Cobb Reservoir, Alfalfa, Albert, and Cowden.\nGenerated: 2026-05-10 03:20:14 UTC"
   35.1500, -98.7500
   35.3400, -98.7300
   35.3400, -98.2800
   35.0700, -98.3200
   35.1500, -98.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:42PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:15 Z\nAt 942 PM CDT, Doppler radar was tracking a strong thunderstorm over northeastern Lawton, moving southeast at 30 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lawton, Duncan, Walters, Geronimo, southeastern Fort Sill, Central High, and Hulen.\nGenerated: 2026-05-10 03:15:13 UTC"
-  34.5400, -98.5900
-  34.7300, -98.3800
-  34.5900, -97.9300
-  34.2800, -98.2000
-  34.5400, -98.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:40PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-10 03:15 Z\nAt 939 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Pinehurst, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northern Conroe, Willis, Pinehurst, The Woodlands, Panorama Village, Cut And Shoot, Montgomery, Lake Conroe Dam, and Dobbin.\nGenerated: 2026-05-10 03:15:13 UTC"
-  30.4500, -95.4900
-  30.3500, -95.2700
-  30.3300, -95.5100
-  30.2500, -95.5300
-  30.1100, -95.4900
-  30.2600, -95.8000
-  30.4800, -95.7900
-  30.4500, -95.4900
 End:
