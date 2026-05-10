@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-10 01:25:16 UTC
+; Generated: 2026-05-10 01:30:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 7:23PM MDT by NWS Denver CO\nExpires: 2026-05-10 01:45 Z\nAt 723 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Otis, or 21 miles east of Akron, moving east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Otis and Hyde.\nGenerated: 2026-05-10 01:25:16 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 8:26PM CDT by NWS Norman OK\nExpires: 2026-05-10 02:00 Z\nAt 826 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Faxon, moving east at 35 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Walters, Geronimo, Temple, Faxon, Corum, and northwestern Waurika Lake.\nGenerated: 2026-05-10 01:30:13 UTC"
+  34.3200, -98.5900
+  34.3400, -98.6300
+  34.5100, -98.6000
+  34.4800, -98.0800
+  34.2900, -98.1200
+  34.2900, -98.1400
+  34.2200, -98.1400
+  34.3200, -98.5900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 8:25PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-10 02:00 Z\nAt 824 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Plum Grove, or 10 miles northwest of Dayton. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northwestern Liberty, Dayton, Plum Grove, Kenefick, and Dayton Lakes.\nGenerated: 2026-05-10 01:30:13 UTC"
+  30.2100, -95.1000
+  30.2500, -95.0300
+  30.2700, -94.9400
+  30.2000, -94.8600
+  30.1000, -94.7700
+  30.0300, -94.8700
+  30.0100, -94.9800
+  30.1000, -95.0600
+  30.2100, -95.1000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 7:23PM MDT by NWS Denver CO\nExpires: 2026-05-10 01:45 Z\nAt 723 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Otis, or 21 miles east of Akron, moving east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Otis and Hyde.\nGenerated: 2026-05-10 01:30:13 UTC"
   40.1700, -103.0700
   40.3900, -102.7800
   40.3500, -102.7800
@@ -16,7 +41,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 7:23PM MDT by NWS Denver CO\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 8:15PM CDT by NWS Norman OK\nExpires: 2026-05-10 02:00 Z\nAt 814 PM CDT, Weatherford Mesonet reported a 62 MPH wind gust froma heat burst, moving east at 35 mph.  Locations impacted include... Weatherford, Clinton, Hinton, Hydro, Binger, Corn, Eakly, Bessie, Lookeba, Colony, Bridgeport, Cogar, and Cedar Lake.\nGenerated: 2026-05-10 01:25:16 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 8:15PM CDT by NWS Norman OK\nExpires: 2026-05-10 02:00 Z\nAt 814 PM CDT, Weatherford Mesonet reported a 62 MPH wind gust froma heat burst, moving east at 35 mph.  Locations impacted include... Weatherford, Clinton, Hinton, Hydro, Binger, Corn, Eakly, Bessie, Lookeba, Colony, Bridgeport, Cogar, and Cedar Lake.\nGenerated: 2026-05-10 01:30:13 UTC"
   35.3200, -99.0300
   35.5300, -99.0200
   35.5600, -98.1000
@@ -25,44 +50,11 @@ Line: 2,,"Special Weather Statement issued May 9 at 8:15PM CDT by NWS Norman OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 8:12PM CDT by NWS Norman OK\nExpires: 2026-05-10 01:45 Z\nAt 812 PM CDT, Doppler radar was tracking a strong thunderstorm near Tabler, moving east at 35 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chickasha, Blanchard, Goldsby, Dibble, Washington, Cole, Middleberg, Tabler, and Criner.\nGenerated: 2026-05-10 01:25:16 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 8:12PM CDT by NWS Norman OK\nExpires: 2026-05-10 01:45 Z\nAt 812 PM CDT, Doppler radar was tracking a strong thunderstorm near Tabler, moving east at 35 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chickasha, Blanchard, Goldsby, Dibble, Washington, Cole, Middleberg, Tabler, and Criner.\nGenerated: 2026-05-10 01:30:13 UTC"
   35.0100, -97.9400
   35.1300, -97.9300
   35.1600, -97.4400
   35.1500, -97.4300
   34.9200, -97.4300
   35.0100, -97.9400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 7:05PM MDT by NWS Goodland KS\nExpires: 2026-05-10 01:30 Z\nAt 705 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles north of Lone Star to 5 miles south of Burdett to 10 miles east of Gary. Movement was southeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  These storms will remain over mainly rural areas of northwestern Yuma County, including the following locations... Clarkville.\nGenerated: 2026-05-10 01:25:16 UTC"
-  40.4400, -102.6300
-  40.2600, -102.4300
-  39.7800, -102.8000
-  40.3500, -102.7900
-  40.3500, -102.7800
-  40.4400, -102.7800
-  40.4400, -102.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 7:53PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-10 01:30 Z\nAt 753 PM CDT, Doppler radar was tracking a strong thunderstorm over East Bernard, or 12 miles west of Rosenberg. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rosenberg, Richmond, Pecan Grove, East Bernard, Wallis, Fulshear, Pleak, Beasley, Kendleton, Orchard, Cumings, southern Weston Lakes, Greatwood, and Hungerford.\nGenerated: 2026-05-10 01:25:16 UTC"
-  29.6400, -96.0200
-  29.6700, -95.7700
-  29.5200, -95.6800
-  29.3800, -95.9700
-  29.4300, -96.1400
-  29.5500, -96.1800
-  29.6400, -96.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 6:45PM MDT by NWS Denver CO\nExpires: 2026-05-10 01:30 Z\nAt 645 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Sterling, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Burdett and Lone Star.\nGenerated: 2026-05-10 01:25:16 UTC"
-  40.4400, -103.2900
-  40.5600, -103.1000
-  40.4400, -102.7100
-  40.4400, -102.7800
-  40.3900, -102.7800
-  40.1200, -103.1300
-  40.4400, -103.2900
 End:
