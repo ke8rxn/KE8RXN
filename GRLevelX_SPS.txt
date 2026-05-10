@@ -3,58 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-10 18:40:20 UTC
+; Generated: 2026-05-10 18:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 2:30PM EDT by NWS Jacksonville FL\nExpires: 2026-05-10 19:00 Z\nAt 230 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Saint Augustine Shores, or 7 miles northeast of Hastings, moving east at 5 mph.  HAZARD...Landspouts, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine, Saint Augustine Beach, Marineland, Crescent Beach, Saint Augustine Shores, Butler Beach, Vilano Beach, Saint Augustine South, Spuds, and Anastasia.\nGenerated: 2026-05-10 18:40:20 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 1:40PM CDT by NWS Shreveport LA\nExpires: 2026-05-10 19:30 Z\nAt 140 PM CDT, Doppler radar was tracking a strong thunderstorm near Golden, or 8 miles north of Mineola, moving east at 20 mph.  HAZARD...Half inch size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mineola, Quitman, Hawkins, Hainesville, Hoard, Pleasant Grove, Winona, Perryville, Grice and Red Springs.\nGenerated: 2026-05-10 18:45:13 UTC"
+  32.6400, -95.5900
+  32.9600, -95.5000
+  32.9000, -95.0300
+  32.4700, -95.1900
+  32.6400, -95.5900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 10 at 1:40PM CDT by NWS Shreveport LA\nExpires: 2026-05-10 19:30 Z\nAt 140 PM CDT, Doppler radar was tracking a strong thunderstorm near Quitman, or 9 miles north of Mineola, moving east at 25 mph.  HAZARD...Wind gusts up to 35 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mineola, Quitman, Hawkins, Hainesville, Pleasant Grove, Hoard, Golden, Perryville and Grice.\nGenerated: 2026-05-10 18:45:13 UTC"
+  32.7100, -95.6100
+  32.9600, -95.5200
+  32.9600, -95.4800
+  32.8800, -95.0400
+  32.5600, -95.1900
+  32.5700, -95.2100
+  32.6800, -95.5800
+  32.7100, -95.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 10 at 2:30PM EDT by NWS Jacksonville FL\nExpires: 2026-05-10 19:00 Z\nAt 230 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Saint Augustine Shores, or 7 miles northeast of Hastings, moving east at 5 mph.  HAZARD...Landspouts, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine, Saint Augustine Beach, Marineland, Crescent Beach, Saint Augustine Shores, Butler Beach, Vilano Beach, Saint Augustine South, Spuds, and Anastasia.\nGenerated: 2026-05-10 18:45:13 UTC"
   29.6700, -81.1900
   29.6700, -81.2200
   29.6600, -81.4500
   29.8300, -81.5000
   29.9500, -81.2800
   29.6700, -81.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 1:19PM CDT by NWS Norman OK\nExpires: 2026-05-10 18:45 Z\nAt 119 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Westover, moving east at 20 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Lake Kickapoo.\nGenerated: 2026-05-10 18:40:20 UTC"
-  33.4800, -99.1700
-  33.5800, -99.1900
-  33.7600, -98.6900
-  33.5600, -98.6400
-  33.4800, -99.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 1:00PM CDT by NWS Shreveport LA\nExpires: 2026-05-10 18:45 Z\nAt 100 PM CDT, Doppler radar was tracking a strong thunderstorm 20 miles northwest of Golden, or 27 miles northwest of Mineola, moving southeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mineola, Winnsboro, Quitman, Golden, Pleasant Grove, Forest Hill, Alba and Yantis.\nGenerated: 2026-05-10 18:40:20 UTC"
-  32.6800, -95.5900
-  32.6900, -95.5900
-  32.6900, -95.6000
-  32.7000, -95.6000
-  32.7000, -95.6100
-  32.7100, -95.6100
-  32.7100, -95.6300
-  32.7200, -95.6300
-  32.9600, -95.6700
-  32.9600, -95.3600
-  32.9400, -95.2700
-  32.6100, -95.5400
-  32.6400, -95.5900
-  32.6800, -95.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 1:56PM EDT by NWS Jacksonville FL\nExpires: 2026-05-10 18:45 Z\nAt 156 PM EDT, Doppler radar was tracking strong thunderstorms capable of producing a landspout along a line extending from near Andalusia to 6 miles north of Pierson. Movement was east at 20 mph.  HAZARD...Landspouts, wind gusts up to 50 mph, and half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Crescent City, Andalusia, Marineland, Crescent Beach, Beverly Beach, and Espanola.\nGenerated: 2026-05-10 18:40:20 UTC"
-  29.4600, -81.1000
-  29.4600, -81.1200
-  29.4300, -81.1000
-  29.4100, -81.1500
-  29.2700, -81.1500
-  29.2600, -81.4100
-  29.4000, -81.4200
-  29.4000, -81.4300
-  29.3800, -81.4500
-  29.3600, -81.5300
-  29.6300, -81.5600
-  29.8000, -81.2100
-  29.5100, -81.1000
-  29.4600, -81.1000
 End:
