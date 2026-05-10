@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-10 08:45:14 UTC
+; Generated: 2026-05-10 08:50:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 3:35AM CDT by NWS Norman OK\nExpires: 2026-05-10 09:00 Z\nAt 335 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles west of Bridge Creek, moving east at 25 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Newcastle, Blanchard, Tuttle, Dibble, Cole, Amber, Bridge Creek, and Middleberg.\nGenerated: 2026-05-10 08:45:14 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 3:46AM CDT by NWS Shreveport LA\nExpires: 2026-05-10 09:45 Z\nAt 346 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles west of De Kalb, or 10 miles east of Boxelder, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Texarkana, Wake Village, New Boston, Boxelder, Nash, Hooks, De Kalb, Redwater, Maud, Red Lick, Dalby Springs, Leary, Avery, Annona, Douglassville, Spring Hill, Almont, Bryans Mill, Beaverdams and Lydia.\nGenerated: 2026-05-10 08:50:14 UTC"
+  33.5200, -95.0400
+  33.7100, -94.9000
+  33.5900, -94.4400
+  33.5700, -94.4100
+  33.5800, -94.3800
+  33.5600, -94.4000
+  33.5500, -94.3900
+  33.5400, -94.3500
+  33.5700, -94.3400
+  33.5500, -94.3200
+  33.5600, -94.3100
+  33.5000, -94.0600
+  33.1100, -94.2700
+  33.5200, -95.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 10 at 3:35AM CDT by NWS Norman OK\nExpires: 2026-05-10 09:00 Z\nAt 335 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles west of Bridge Creek, moving east at 25 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Newcastle, Blanchard, Tuttle, Dibble, Cole, Amber, Bridge Creek, and Middleberg.\nGenerated: 2026-05-10 08:50:14 UTC"
   35.0400, -97.5800
   35.1500, -97.9100
   35.3200, -97.8500
@@ -16,7 +34,7 @@ Line: 2,,"Special Weather Statement issued May 10 at 3:35AM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 3:34AM CDT by NWS Norman OK\nExpires: 2026-05-10 09:00 Z\nAt 333 AM CDT, Doppler radar was tracking a strong thunderstorm near May, moving northeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... May.\nGenerated: 2026-05-10 08:45:14 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 3:34AM CDT by NWS Norman OK\nExpires: 2026-05-10 09:00 Z\nAt 333 AM CDT, Doppler radar was tracking a strong thunderstorm near May, moving northeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... May.\nGenerated: 2026-05-10 08:50:14 UTC"
   36.6100, -99.4400
   36.5900, -99.5300
   36.5900, -99.6100
@@ -28,7 +46,7 @@ Line: 2,,"Special Weather Statement issued May 10 at 3:34AM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 3:28AM CDT by NWS Tulsa OK\nExpires: 2026-05-10 09:00 Z\nAt 327 AM CDT, Doppler radar indicated a strong thunderstorm near Arkoma, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Fort Smith...                     Charleston... Greenwood...                      Barling... Lavaca...                         Arkoma... Mansfield...                      Hackett... Huntington...                     Bonanza... Moffett...                        Excelsior... Fort Smith Regional Airport...    Bloomer... Washburn...                       Burnville... Fort Chaffee...                   Jenny Lind... Central City...                   Crossroads...  This includes Interstate 540 between mile markers 7 and 14.\nGenerated: 2026-05-10 08:45:14 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 3:28AM CDT by NWS Tulsa OK\nExpires: 2026-05-10 09:00 Z\nAt 327 AM CDT, Doppler radar indicated a strong thunderstorm near Arkoma, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Fort Smith...                     Charleston... Greenwood...                      Barling... Lavaca...                         Arkoma... Mansfield...                      Hackett... Huntington...                     Bonanza... Moffett...                        Excelsior... Fort Smith Regional Airport...    Bloomer... Washburn...                       Burnville... Fort Chaffee...                   Jenny Lind... Central City...                   Crossroads...  This includes Interstate 540 between mile markers 7 and 14.\nGenerated: 2026-05-10 08:50:14 UTC"
   35.1400, -94.1100
   35.1400, -94.1400
   35.1100, -94.1400
@@ -46,13 +64,4 @@ Line: 2,,"Special Weather Statement issued May 10 at 3:28AM CDT by NWS Tulsa OK\
   35.3600, -94.2900
   35.2700, -94.0100
   35.1400, -94.1100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 3:14AM CDT by NWS Tulsa OK\nExpires: 2026-05-10 08:45 Z\nAt 314 AM CDT, Doppler radar indicated a strong thunderstorm over Muldrow, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Fort Smith...                     Van Buren... Cedarville...                     Barling... Muldrow...                        Roland... Arkoma...                         Gans... Moffett...                        Rudy... Figure Five...                    Fort Smith Regional Airport... Kibler...                         Central City... Concord...                        Shibley... Mill Creek...                     Cottonwood... Dora...                           Furry...  This includes the following highways, Interstate 40 in Arkansas between mile markers 0 and 11. Interstate 40 in Oklahoma between mile markers 313 and 328. Interstate 540 between mile markers 1 and 13.\nGenerated: 2026-05-10 08:45:14 UTC"
-  35.2900, -94.6700
-  35.4700, -94.7100
-  35.5900, -94.2700
-  35.3200, -94.2000
-  35.2900, -94.6700
 End:
