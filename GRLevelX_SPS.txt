@@ -3,9 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-10 19:50:13 UTC
+; Generated: 2026-05-10 19:55:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 2:31PM CDT by NWS Little Rock AR\nExpires: 2026-05-10 20:00 Z\nAt 231 PM CDT, Doppler radar was tracking a strong thunderstorm over Mayflower, or near Maumelle. This storm was nearly stationary.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Maumelle...                       Mayflower... Morgan...                         Olmstead... Marche...                         Gibson... Cato...                           Palarm...\nGenerated: 2026-05-10 19:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 3:52PM EDT by NWS Caribou ME\nExpires: 2026-05-10 20:15 Z\nAt 352 PM EDT, Doppler radar was tracking a strong thunderstorm over Madawaska, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madawaska, Frenchville, Grand Isle, and Saint Agatha.  This includes US Highway 1 between Grand Isle and Frenchville.\nGenerated: 2026-05-10 19:55:18 UTC"
+  47.3600, -68.2300
+  47.3400, -68.2100
+  47.3300, -68.1600
+  47.3100, -68.1500
+  47.2800, -68.1000
+  47.2100, -68.1800
+  47.2500, -68.4500
+  47.2800, -68.4300
+  47.2900, -68.3700
+  47.3200, -68.3900
+  47.3400, -68.3800
+  47.3500, -68.3700
+  47.3600, -68.3500
+  47.3600, -68.2300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 10 at 2:50PM CDT by NWS Fort Worth TX\nExpires: 2026-05-10 20:30 Z\nAt 248 PM CDT, Doppler radar was tracking a cluster of strong thunderstorm from near near Ibex, or 9 miles east of Albany, to south central Stephens County moving east southeast at 20 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Breckenridge, Hubbard Creek Reservoir, Lake Daniel, Necessity, Gunsight, Caddo, Eolian, Harpersville, and Us- 180 Near The Shackelford-Stephens County Line.\nGenerated: 2026-05-10 19:55:18 UTC"
+  32.8400, -99.1000
+  32.7600, -98.6700
+  32.5200, -98.6700
+  32.5200, -99.1000
+  32.8400, -99.1000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 10 at 2:31PM CDT by NWS Little Rock AR\nExpires: 2026-05-10 20:00 Z\nAt 231 PM CDT, Doppler radar was tracking a strong thunderstorm over Mayflower, or near Maumelle. This storm was nearly stationary.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Maumelle...                       Mayflower... Morgan...                         Olmstead... Marche...                         Gibson... Cato...                           Palarm...\nGenerated: 2026-05-10 19:55:18 UTC"
   34.9900, -92.4900
   35.0200, -92.2300
   34.9000, -92.2000
@@ -14,7 +41,7 @@ Line: 2,,"Special Weather Statement issued May 10 at 2:31PM CDT by NWS Little Ro
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 3:29PM EDT by NWS Jacksonville FL\nExpires: 2026-05-10 20:00 Z\nAt 329 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Picolata, or near Green Cove Springs, moving northeast at 20 mph.  HAZARD...Landspouts, wind gusts around 40 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponte Vedra Beach, Fruit Cove, Jacksonville Beach, Atlantic Beach, Neptune Beach, World Golf Village, Sawgrass, Nocatee, Durbin, and San Pablo.\nGenerated: 2026-05-10 19:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 3:29PM EDT by NWS Jacksonville FL\nExpires: 2026-05-10 20:00 Z\nAt 329 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Picolata, or near Green Cove Springs, moving northeast at 20 mph.  HAZARD...Landspouts, wind gusts around 40 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponte Vedra Beach, Fruit Cove, Jacksonville Beach, Atlantic Beach, Neptune Beach, World Golf Village, Sawgrass, Nocatee, Durbin, and San Pablo.\nGenerated: 2026-05-10 19:55:18 UTC"
   29.8600, -81.5800
   30.0200, -81.6600
   30.3900, -81.4000
@@ -24,7 +51,7 @@ Line: 2,,"Special Weather Statement issued May 10 at 3:29PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 2:28PM CDT by NWS Norman OK\nExpires: 2026-05-10 20:00 Z\nAt 228 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Kickapoo to 5 miles east of Megargel. Movement was northeast at 15 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Archer City, Megargel, and Lake Kickapoo.\nGenerated: 2026-05-10 19:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 2:28PM CDT by NWS Norman OK\nExpires: 2026-05-10 20:00 Z\nAt 228 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Kickapoo to 5 miles east of Megargel. Movement was northeast at 15 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Archer City, Megargel, and Lake Kickapoo.\nGenerated: 2026-05-10 19:55:18 UTC"
   33.7800, -98.5000
   33.4400, -98.6000
   33.4200, -98.9500
@@ -33,7 +60,7 @@ Line: 2,,"Special Weather Statement issued May 10 at 2:28PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 3:22PM EDT by NWS Caribou ME\nExpires: 2026-05-10 20:00 Z\nAt 321 PM EDT, a trained weather spotter reported strong thunderstorms along a line extending from 12 miles north of Madawaska to New Canada to near Fish River Lake. Movement was northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Trained weather spotters.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Kent, Madawaska, Van Buren, Eagle Lake, Portage, Ashland, Frenchville, Portage Lake, New Canada, Lille, Cross Lake, Madawaska Lake, Fish River Lake, Nashville Plantation, New Sweden, Wallagrass, Grand Isle, Perham, Stockholm, and Winterville.  This includes the following highways... US Highway 1 between Grand Isle and Frenchville. State Highway 11 between Portage and Wallagrass.\nGenerated: 2026-05-10 19:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 3:22PM EDT by NWS Caribou ME\nExpires: 2026-05-10 20:00 Z\nAt 321 PM EDT, a trained weather spotter reported strong thunderstorms along a line extending from 12 miles north of Madawaska to New Canada to near Fish River Lake. Movement was northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Trained weather spotters.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Kent, Madawaska, Van Buren, Eagle Lake, Portage, Ashland, Frenchville, Portage Lake, New Canada, Lille, Cross Lake, Madawaska Lake, Fish River Lake, Nashville Plantation, New Sweden, Wallagrass, Grand Isle, Perham, Stockholm, and Winterville.  This includes the following highways... US Highway 1 between Grand Isle and Frenchville. State Highway 11 between Portage and Wallagrass.\nGenerated: 2026-05-10 19:55:18 UTC"
   47.3600, -68.2300
   47.3400, -68.2100
   47.3300, -68.1600
@@ -54,7 +81,7 @@ Line: 2,,"Special Weather Statement issued May 10 at 3:22PM EDT by NWS Caribou M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 3:17PM EDT by NWS Melbourne FL\nExpires: 2026-05-10 20:00 Z\nAt 317 PM EDT, Doppler radar was tracking a strong thunderstorm near Daytona International Speedway, or near Daytona Beach, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Daytona Beach, Port Orange, New Smyrna Beach, South Daytona, and Daytona Beach Shores.\nGenerated: 2026-05-10 19:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 3:17PM EDT by NWS Melbourne FL\nExpires: 2026-05-10 20:00 Z\nAt 317 PM EDT, Doppler radar was tracking a strong thunderstorm near Daytona International Speedway, or near Daytona Beach, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Daytona Beach, Port Orange, New Smyrna Beach, South Daytona, and Daytona Beach Shores.\nGenerated: 2026-05-10 19:55:18 UTC"
   29.0900, -80.9000
   28.9400, -80.7900
   29.0600, -81.2000
@@ -64,7 +91,7 @@ Line: 2,,"Special Weather Statement issued May 10 at 3:17PM EDT by NWS Melbourne
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 2:08PM CDT by NWS San Angelo TX\nExpires: 2026-05-10 20:15 Z\nAt 208 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Fort Griffin, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albany, Fort Griffin, Ibex, and Us-180 Near The Shackelford- Stephens County Line.\nGenerated: 2026-05-10 19:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 2:08PM CDT by NWS San Angelo TX\nExpires: 2026-05-10 20:15 Z\nAt 208 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Fort Griffin, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albany, Fort Griffin, Ibex, and Us-180 Near The Shackelford- Stephens County Line.\nGenerated: 2026-05-10 19:55:18 UTC"
   32.6100, -99.1000
   32.6000, -99.1000
   32.7700, -99.4300
