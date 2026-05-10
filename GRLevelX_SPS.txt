@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-10 02:20:14 UTC
+; Generated: 2026-05-10 02:25:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 8:19PM MDT by NWS Denver CO\nExpires: 2026-05-10 03:00 Z\nAt 819 PM MDT, Doppler radar was tracking a strong thunderstorm over Deer Trail, or 31 miles northwest of Limon, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Deer Trail, Cottonwood Valley and Agate.\nGenerated: 2026-05-10 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 9:23PM CDT by NWS Norman OK\nExpires: 2026-05-10 03:00 Z\nAt 923 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Cordell, moving east at 35 mph.  HAZARD...Wind gusts of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cordell, Eakly, Colony, Fort Cobb Reservoir, Alfalfa, Cloud Chief, and Cowden.\nGenerated: 2026-05-10 02:25:13 UTC"
+  35.1500, -98.9800
+  35.3300, -98.9800
+  35.3900, -98.4700
+  35.1200, -98.4600
+  35.1500, -98.9800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 9 at 8:19PM MDT by NWS Denver CO\nExpires: 2026-05-10 03:00 Z\nAt 819 PM MDT, Doppler radar was tracking a strong thunderstorm over Deer Trail, or 31 miles northwest of Limon, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Deer Trail, Cottonwood Valley and Agate.\nGenerated: 2026-05-10 02:25:13 UTC"
   39.6800, -104.2000
   39.8200, -104.0600
   39.6200, -103.5100
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 8:19PM MDT by NWS Denver CO\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:16PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-10 02:45 Z\nAt 915 PM CDT, Doppler radar was tracking a strong thunderstorm over Porter Heights, or 8 miles northwest of Kingwood. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Conroe, The Woodlands, Kingwood, Spring, Oak Ridge North, Shenandoah, Splendora, Patton Village, Roman Forest, Woodbranch, Cut And Shoot, Plum Grove, Woodloch, The Woodlands Pavillion, Chateau Woods, Porter Heights, Lake Houston, New Caney, and Porter.\nGenerated: 2026-05-10 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 9:16PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-10 02:45 Z\nAt 915 PM CDT, Doppler radar was tracking a strong thunderstorm over Porter Heights, or 8 miles northwest of Kingwood. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Conroe, The Woodlands, Kingwood, Spring, Oak Ridge North, Shenandoah, Splendora, Patton Village, Roman Forest, Woodbranch, Cut And Shoot, Plum Grove, Woodloch, The Woodlands Pavillion, Chateau Woods, Porter Heights, Lake Houston, New Caney, and Porter.\nGenerated: 2026-05-10 02:25:13 UTC"
   30.0700, -95.3800
   30.1100, -95.4900
   30.2500, -95.5300
@@ -28,7 +37,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 9:16PM CDT by NWS Houston/Ga
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 10:13PM EDT by NWS Cleveland OH\nExpires: 2026-05-10 02:45 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm over Norwalk, moving east at 40 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Norwalk, Milan, Wakeman, and Monroeville.\nGenerated: 2026-05-10 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 10:13PM EDT by NWS Cleveland OH\nExpires: 2026-05-10 02:45 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm over Norwalk, moving east at 40 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Norwalk, Milan, Wakeman, and Monroeville.\nGenerated: 2026-05-10 02:25:13 UTC"
   41.2800, -82.7400
   41.2900, -82.5000
   41.2800, -82.5000
@@ -40,7 +49,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 10:13PM EDT by NWS Cleveland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:11PM CDT by NWS Norman OK\nExpires: 2026-05-10 02:45 Z\nAt 911 PM CDT, Doppler radar was tracking a strong thunderstorm near Paoli, moving east at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Stratford, Wayne, Paoli, Byars, and Rosedale.\nGenerated: 2026-05-10 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 9:11PM CDT by NWS Norman OK\nExpires: 2026-05-10 02:45 Z\nAt 911 PM CDT, Doppler radar was tracking a strong thunderstorm near Paoli, moving east at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Stratford, Wayne, Paoli, Byars, and Rosedale.\nGenerated: 2026-05-10 02:25:13 UTC"
   34.8100, -97.3700
   34.9800, -97.3200
   34.9400, -96.8700
@@ -49,7 +58,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 9:11PM CDT by NWS Norman OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 9:09PM CDT by NWS Norman OK\nExpires: 2026-05-10 02:45 Z\nAt 909 PM CDT, Doppler radar was tracking a strong thunderstorm near Agawam, moving east at 30 mph.  HAZARD...Wind gusts of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chickasha, Lindsay, Rush Springs, Dibble, Alex, Norge, Bradley, Agawam, Criner, Ninnekah, Acme, Cox City, and Erin Springs.\nGenerated: 2026-05-10 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 9:09PM CDT by NWS Norman OK\nExpires: 2026-05-10 02:45 Z\nAt 909 PM CDT, Doppler radar was tracking a strong thunderstorm near Agawam, moving east at 30 mph.  HAZARD...Wind gusts of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chickasha, Lindsay, Rush Springs, Dibble, Alex, Norge, Bradley, Agawam, Criner, Ninnekah, Acme, Cox City, and Erin Springs.\nGenerated: 2026-05-10 02:25:13 UTC"
   34.7500, -98.0600
   35.0300, -97.9900
   35.0400, -97.5200
@@ -58,7 +67,7 @@ Line: 2,,"Special Weather Statement issued May 9 at 9:09PM CDT by NWS Norman OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 9 at 10:07PM EDT by NWS Cleveland OH\nExpires: 2026-05-10 02:45 Z\nAt 1007 PM EDT, Doppler radar was tracking a strong thunderstorm near Hayesville, or 8 miles southeast of Ashland, moving east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Wooster, Orrville, Doylestown, Dalton, Hayesville, Smithville, Apple Creek, Marshallville, Jeromesville, Mohicanville, Reedsburg, and Rowsburg.\nGenerated: 2026-05-10 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued May 9 at 10:07PM EDT by NWS Cleveland OH\nExpires: 2026-05-10 02:45 Z\nAt 1007 PM EDT, Doppler radar was tracking a strong thunderstorm near Hayesville, or 8 miles southeast of Ashland, moving east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Wooster, Orrville, Doylestown, Dalton, Hayesville, Smithville, Apple Creek, Marshallville, Jeromesville, Mohicanville, Reedsburg, and Rowsburg.\nGenerated: 2026-05-10 02:25:13 UTC"
   40.6900, -82.2300
   40.8600, -82.2800
   40.9600, -81.6600
