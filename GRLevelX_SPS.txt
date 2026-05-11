@@ -3,33 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-11 03:40:13 UTC
+; Generated: 2026-05-11 03:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 10:01PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-11 03:45 Z\nAt 959 PM CDT, Doppler radar was tracking strong thunderstorms over the Brazos, Grimes, Burleson and Washington Counties. Movement was northeast and some are almost stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... College Station, Bryan, Brenham, Navasota, Caldwell, Washington, Somerville, Snook, Bedias, Kurten, Burton, Wixon Valley, Millican, Anderson, Todd Mission, Lake Somerville Dam, Kyle Field, Bryan Utilities Lake, Lake Somerville State Park & Trailway, and Iola.\nGenerated: 2026-05-11 03:40:13 UTC"
-  30.7300, -96.6200
-  30.7000, -96.5600
-  30.7400, -96.4600
-  30.9100, -96.3500
-  30.9700, -96.2400
-  30.8200, -96.1700
-  30.8600, -95.8600
-  30.2500, -95.8000
-  30.2300, -96.1100
-  30.1100, -96.1900
-  30.0700, -96.1400
-  30.0500, -96.1600
-  30.1000, -96.2900
-  30.0500, -96.6200
-  30.1500, -96.6500
-  30.1600, -96.7900
-  30.3000, -96.6400
-  30.3200, -96.7400
-  30.5600, -96.9600
-  30.7300, -96.6200
+Line: 2,,"Special Weather Statement issued May 10 at 10:43PM CDT by NWS Lake Charles LA\nExpires: 2026-05-11 04:30 Z\nAt 1043 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Rosepine, moving southeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... De Ridder, Rosepine, Pitkin, Fort Polk, Cravens, and Fullerton.\nGenerated: 2026-05-11 03:45:13 UTC"
+  30.9700, -93.4100
+  31.1000, -92.9800
+  30.9100, -92.8500
+  30.8100, -93.3300
+  30.9700, -93.4100
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 9:52PM CDT by NWS Jackson MS\nExpires: 2026-05-11 04:00 Z\nAt 952 PM CDT, Doppler radar was tracking a strong thunderstorm near Winona, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Winona around 955 PM CDT. Kilmichael around 1005 PM CDT. Poplar Creek around 1015 PM CDT.\nGenerated: 2026-05-11 03:40:13 UTC"
+Line: 2,,"Special Weather Statement issued May 10 at 9:52PM CDT by NWS Jackson MS\nExpires: 2026-05-11 04:00 Z\nAt 952 PM CDT, Doppler radar was tracking a strong thunderstorm near Winona, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Winona around 955 PM CDT. Kilmichael around 1005 PM CDT. Poplar Creek around 1015 PM CDT.\nGenerated: 2026-05-11 03:45:13 UTC"
   33.4600, -89.3800
   33.4500, -89.4100
   33.4400, -89.4100
@@ -42,19 +27,4 @@ Line: 2,,"Special Weather Statement issued May 10 at 9:52PM CDT by NWS Jackson M
   33.5000, -89.8500
   33.5800, -89.4000
   33.4600, -89.3800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 10 at 9:38PM CDT by NWS Jackson MS\nExpires: 2026-05-11 03:45 Z\nAt 938 PM CDT, Doppler radar was tracking a strong thunderstorm over Bew Springs, or near Grenada, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Grenada around 945 PM CDT. Gore Springs around 1000 PM CDT. Misterton around 1005 PM CDT.\nGenerated: 2026-05-11 03:40:13 UTC"
-  33.8700, -89.7700
-  33.8700, -89.5100
-  33.6800, -89.5100
-  33.6900, -90.0200
-  33.8100, -90.0000
-  33.8100, -89.9800
-  33.8200, -89.9800
-  33.8300, -89.9300
-  33.9000, -89.9200
-  33.9000, -89.7700
-  33.8700, -89.7700
 End:
