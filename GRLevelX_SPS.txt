@@ -3,9 +3,25 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-11 16:30:20 UTC
+; Generated: 2026-05-11 16:35:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 11 at 12:20PM EDT by NWS Raleigh NC\nExpires: 2026-05-11 17:00 Z\nAt 1220 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Elizabethtown, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrells and Garland.\nGenerated: 2026-05-11 16:30:20 UTC"
+Line: 2,,"Special Weather Statement issued May 11 at 12:30PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-05-11 17:30 Z\nAt 1224 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Harrells, or 16 miles northeast of Elizabethtown, moving east at 30 mph.  HAZARD...Wind gusts up to 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wallace, Rose Hill, Beulaville, Cypress Creek, Chinquapin, Harrells, Sarecta, Magnolia, Greenevers, Lyman, and Teachey.\nGenerated: 2026-05-11 16:35:15 UTC"
+  34.8900, -78.1500
+  35.0200, -77.7700
+  34.7200, -77.6900
+  34.7200, -77.9400
+  34.7100, -77.9800
+  34.7300, -78.0200
+  34.7300, -78.0300
+  34.7200, -78.1100
+  34.7100, -78.1300
+  34.7200, -78.1500
+  34.7400, -78.2000
+  34.8900, -78.1500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 11 at 12:20PM EDT by NWS Raleigh NC\nExpires: 2026-05-11 17:00 Z\nAt 1220 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Elizabethtown, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrells and Garland.\nGenerated: 2026-05-11 16:35:15 UTC"
   34.6300, -78.3200
   34.6400, -78.3100
   34.6500, -78.3200
@@ -26,27 +42,4 @@ Line: 2,,"Special Weather Statement issued May 11 at 12:20PM EDT by NWS Raleigh 
   34.6600, -78.1700
   34.6200, -78.3100
   34.6300, -78.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 11 at 11:55AM EDT by NWS Wilmington NC\nExpires: 2026-05-11 16:30 Z\nAt 1155 AM EDT, Doppler radar was tracking a strong thunderstorm over Honey Island, or 13 miles north of Shallotte, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Leland, Northwest, Bishop, Makatoka, Honey Island, Exum, Batarora, Mill Creek, Town Creek, Phoenix, Delco, Winnabow, Belville, Navassa, Sandy Creek, and Bolivia.\nGenerated: 2026-05-11 16:30:20 UTC"
-  34.0800, -77.9600
-  34.0700, -78.4900
-  34.1300, -78.5200
-  34.1800, -78.4800
-  34.2800, -78.4400
-  34.3500, -78.0800
-  34.3400, -78.0800
-  34.3400, -78.0600
-  34.3200, -78.0300
-  34.3200, -78.0100
-  34.2900, -78.0200
-  34.2700, -78.0000
-  34.2700, -77.9900
-  34.2600, -77.9900
-  34.2300, -77.9500
-  34.2100, -77.9600
-  34.1700, -77.9600
-  34.1100, -77.9400
-  34.0800, -77.9600
 End:
