@@ -3,9 +3,40 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-13 22:25:11 UTC
+; Generated: 2026-05-13 22:30:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 4:17PM MDT by NWS Cheyenne WY\nExpires: 2026-05-13 22:45 Z\nAt 416 PM MDT, Doppler radar was tracking a strong thunderstorm near Hartville, or 26 miles southwest of Lusk, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Prairie Center, Rawhide Buttes, and Jay Em.\nGenerated: 2026-05-13 22:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 6:26PM EDT by NWS Blacksburg VA\nExpires: 2026-05-13 23:00 Z\nAt 625 PM EDT, Doppler radar was tracking a strong thunderstorm over Asbury, or near Lewisburg, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lewisburg... White Sulphur Springs... Ronceverte... Alderson... Asbury... Greenbrier River Trail... and Lewisburg Airport.\nGenerated: 2026-05-13 22:30:22 UTC"
+  37.9400, -80.1100
+  37.8800, -80.1500
+  37.8500, -80.1800
+  37.8400, -80.1800
+  37.8000, -80.2300
+  37.7800, -80.2200
+  37.7200, -80.3000
+  37.7000, -80.3800
+  37.7100, -80.3800
+  37.7000, -80.3900
+  37.7200, -80.4000
+  37.7000, -80.4500
+  37.6900, -80.4600
+  37.6900, -80.5100
+  37.7500, -80.7500
+  37.9200, -80.6000
+  37.9400, -80.1100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 13 at 4:25PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-13 23:00 Z\nAt 424 PM MDT, Doppler radar was tracking an elevated thunderstorm near Bingham Canyon Mine, or 10 miles east of Tooele, moving northeast at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Lake City, West Valley City, Sandy, Murray, Tooele, West Jordan, Taylorsville, South Jordan, Lehi, Draper, Riverton, Cottonwood Heights, Midvale, Holladay, South Salt Lake, Herriman, Eagle Mountain, Stansbury Park, Bluffdale, and Camp Williams.  This includes the following highways... Interstate 15 between mile markers 285 and 309. Interstate 80 in Utah between mile markers 96 and 129.\nGenerated: 2026-05-13 22:30:22 UTC"
+  40.3300, -112.0000
+  40.4300, -112.4200
+  40.8200, -112.2500
+  40.7800, -111.8300
+  40.6300, -111.7100
+  40.3300, -112.0000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 13 at 4:17PM MDT by NWS Cheyenne WY\nExpires: 2026-05-13 22:45 Z\nAt 416 PM MDT, Doppler radar was tracking a strong thunderstorm near Hartville, or 26 miles southwest of Lusk, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Prairie Center, Rawhide Buttes, and Jay Em.\nGenerated: 2026-05-13 22:30:22 UTC"
   42.3400, -104.7700
   42.4300, -104.8400
   42.8300, -104.3400
@@ -14,7 +45,7 @@ Line: 2,,"Special Weather Statement issued May 13 at 4:17PM MDT by NWS Cheyenne 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 4:13PM MDT by NWS Riverton WY\nExpires: 2026-05-13 22:45 Z\nAt 412 PM MDT, Doppler radar was tracking a strong thunderstorm over Sinks Canyon State Park, which is near Lander, moving northeast at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Lander around 420 PM MDT. Hudson around 425 PM MDT.  Other locations in the path of this storm include Arapahoe.\nGenerated: 2026-05-13 22:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 4:13PM MDT by NWS Riverton WY\nExpires: 2026-05-13 22:45 Z\nAt 412 PM MDT, Doppler radar was tracking a strong thunderstorm over Sinks Canyon State Park, which is near Lander, moving northeast at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Lander around 420 PM MDT. Hudson around 425 PM MDT.  Other locations in the path of this storm include Arapahoe.\nGenerated: 2026-05-13 22:30:22 UTC"
   42.6300, -108.8100
   42.7900, -109.1100
   43.1200, -108.8300
@@ -23,7 +54,7 @@ Line: 2,,"Special Weather Statement issued May 13 at 4:13PM MDT by NWS Riverton 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 6:12PM EDT by NWS State College PA\nExpires: 2026-05-13 22:45 Z\nAt 612 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Lewistown, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mcalisterville, Spruce Hill, Mexico, Ickesburg, Mifflintown, Port Royal, Thompsontown, Mifflin, and East Salem.\nGenerated: 2026-05-13 22:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 6:12PM EDT by NWS State College PA\nExpires: 2026-05-13 22:45 Z\nAt 612 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Lewistown, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mcalisterville, Spruce Hill, Mexico, Ickesburg, Mifflintown, Port Royal, Thompsontown, Mifflin, and East Salem.\nGenerated: 2026-05-13 22:30:22 UTC"
   40.4700, -77.5400
   40.6900, -77.2300
   40.6900, -77.2100
@@ -33,7 +64,7 @@ Line: 2,,"Special Weather Statement issued May 13 at 6:12PM EDT by NWS State Col
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 6:12PM EDT by NWS State College PA\nExpires: 2026-05-13 22:45 Z\nAt 612 PM EDT, Doppler radar was tracking a strong thunderstorm near Huntingdon, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mount Union, Blacklog, Mapleton, McVeytown, Kistler, Longfellow, Newton Hamilton, and Atkinson Mills.\nGenerated: 2026-05-13 22:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 6:12PM EDT by NWS State College PA\nExpires: 2026-05-13 22:45 Z\nAt 612 PM EDT, Doppler radar was tracking a strong thunderstorm near Huntingdon, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mount Union, Blacklog, Mapleton, McVeytown, Kistler, Longfellow, Newton Hamilton, and Atkinson Mills.\nGenerated: 2026-05-13 22:30:22 UTC"
   40.3000, -77.9400
   40.3500, -77.9600
   40.4500, -77.9100
@@ -43,79 +74,10 @@ Line: 2,,"Special Weather Statement issued May 13 at 6:12PM EDT by NWS State Col
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 3:58PM MDT by NWS Riverton WY\nExpires: 2026-05-13 22:45 Z\nAt 358 PM MDT, Doppler radar was tracking gusty showers near Goldeneye Reservoir, which is 27 miles northwest of Casper, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern Natrona County, including the following locations... Natrona.  This includes Interstate 25 between mile markers 204 and 219.\nGenerated: 2026-05-13 22:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 3:58PM MDT by NWS Riverton WY\nExpires: 2026-05-13 22:45 Z\nAt 358 PM MDT, Doppler radar was tracking gusty showers near Goldeneye Reservoir, which is 27 miles northwest of Casper, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern Natrona County, including the following locations... Natrona.  This includes Interstate 25 between mile markers 204 and 219.\nGenerated: 2026-05-13 22:30:22 UTC"
   42.9700, -106.7600
   43.1000, -106.9200
   43.4300, -106.5500
   43.1100, -106.1700
   42.9700, -106.7600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 3:51PM MDT by NWS Great Falls MT\nExpires: 2026-05-13 22:30 Z\nAt 348 PM MDT, Doppler radar was tracking thunderstorms across northern Gallatin, Broadwater and Meagher counties, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph with locally higher gusts in addition to lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bozeman, White Sulphur Springs, Fort Logan On The Smith River, Newlan Creek Reservoir, Maudlow, Lennep, Ringling, Martinsdale, Trident, Checkerboard, Fort Logan, and Missouri Headwaters State Park.\nGenerated: 2026-05-13 22:25:11 UTC"
-  45.6900, -111.0200
-  46.0200, -111.1800
-  45.9300, -111.2100
-  45.9100, -111.5300
-  46.3300, -111.2500
-  46.6700, -111.5600
-  46.7000, -111.5100
-  46.7000, -111.3700
-  46.7400, -111.3700
-  46.7500, -111.0300
-  46.6900, -110.9200
-  46.7500, -110.8500
-  46.6600, -110.8500
-  46.6900, -110.7000
-  46.6000, -110.2800
-  46.1900, -110.2800
-  46.1900, -110.7800
-  45.6500, -110.8000
-  45.6900, -111.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 3:36PM MDT by NWS Great Falls MT\nExpires: 2026-05-13 22:30 Z\nAt 331 PM MDT, Doppler radar was tracking multiple areas of thunderstorm across southwest Montana, moving northeast at 45 mph. Many of these storms are producing wind gusts in excess of 55 mph with locally higher gusts. This is in addition to overall very windy conditions and a high wind warning continues through 9 PM this evening.  HAZARD...Wind gusts of 50 to 55 mph with localized gusts in excess of 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dillon, Sheridan, Virginia City, Ennis, Twin Bridges, Lima, Monida, Alder, Silver Star, Dell, Big Sky, Bannack Pass, Melrose, Wise River, Dewey, Targhee Pass, Cameron, Waterloo, Snowline, and Glen.\nGenerated: 2026-05-13 22:25:11 UTC"
-  44.4300, -112.9700
-  44.7700, -113.1300
-  44.9200, -113.4900
-  45.8700, -113.2300
-  45.8700, -113.2200
-  45.7600, -112.7700
-  45.6300, -112.7000
-  45.7600, -112.5000
-  45.7600, -112.1200
-  45.5800, -111.7800
-  45.6600, -111.6300
-  45.5100, -111.2400
-  45.5200, -110.9200
-  45.0500, -111.1500
-  44.4900, -111.1000
-  44.4900, -111.1100
-  44.7500, -111.3900
-  44.5300, -111.5100
-  44.5700, -112.2900
-  44.4500, -112.3900
-  44.4300, -112.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 5:27PM EDT by NWS Binghamton NY\nExpires: 2026-05-13 22:30 Z\nAt 527 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Central Square to Bridgeport to near Fabius. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Utica, Rome, Sullivan, Oneida, Kirkland, Lenox, Lee, Verona, Westmoreland, and Vienna.\nGenerated: 2026-05-13 22:25:11 UTC"
-  43.3800, -75.1500
-  43.0700, -75.2000
-  43.0500, -75.2200
-  43.0000, -75.2100
-  42.8600, -75.9000
-  43.0800, -75.9200
-  43.0900, -75.9800
-  43.1300, -75.9500
-  43.1400, -75.9700
-  43.1800, -75.9900
-  43.1600, -75.8800
-  43.3200, -75.8700
-  43.3300, -75.8800
-  43.4800, -75.8100
-  43.4200, -75.5300
-  43.5700, -75.2200
-  43.3800, -75.1500
 End:
