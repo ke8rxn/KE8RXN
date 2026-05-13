@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-13 19:40:19 UTC
+; Generated: 2026-05-13 19:45:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 3:37PM EDT by NWS Binghamton NY\nExpires: 2026-05-13 20:00 Z\nAt 336 PM EDT, Doppler radar was tracking a strong thunderstorm over Fleming, or near Auburn, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Auburn, Owasco, Fleming, Skaneateles, Marcellus, Camillus, Elbridge, Melrose Park, Bennetts Corners, and Cedarvale.\nGenerated: 2026-05-13 19:40:19 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 3:40PM EDT by NWS State College PA\nExpires: 2026-05-13 20:15 Z\nAt 339 PM EDT, Doppler radar was tracking a strong thunderstorm near St. Marys, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Force, Benezette, Medix Run, Brandy Camp, Brockport, Hicks Run, Kersey, and Weedville.\nGenerated: 2026-05-13 19:45:23 UTC"
+  41.4900, -78.4200
+  41.4000, -78.4200
+  41.4000, -78.2500
+  41.3200, -78.2500
+  41.3200, -78.2400
+  41.2700, -78.2400
+  41.2400, -78.4000
+  41.2500, -78.6400
+  41.2200, -78.6500
+  41.2000, -78.7000
+  41.2300, -78.7100
+  41.2300, -78.7400
+  41.2600, -78.7300
+  41.3100, -78.8400
+  41.3800, -78.7200
+  41.4900, -78.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 13 at 3:37PM EDT by NWS Binghamton NY\nExpires: 2026-05-13 20:00 Z\nAt 336 PM EDT, Doppler radar was tracking a strong thunderstorm over Fleming, or near Auburn, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Auburn, Owasco, Fleming, Skaneateles, Marcellus, Camillus, Elbridge, Melrose Park, Bennetts Corners, and Cedarvale.\nGenerated: 2026-05-13 19:45:23 UTC"
   42.7800, -76.5600
   42.8700, -76.6600
   43.1200, -76.4000
@@ -14,7 +34,7 @@ Line: 2,,"Special Weather Statement issued May 13 at 3:37PM EDT by NWS Binghamto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 1:36PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-13 20:00 Z\nAt 135 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Delta, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Delta, Oak City, and Mc Cornick.  This includes the following highways... US Route 6 between mile markers 85 and 98. US Route 50 between mile markers 90 and 109.\nGenerated: 2026-05-13 19:40:19 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 1:36PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-13 20:00 Z\nAt 135 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Delta, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Delta, Oak City, and Mc Cornick.  This includes the following highways... US Route 6 between mile markers 85 and 98. US Route 50 between mile markers 90 and 109.\nGenerated: 2026-05-13 19:45:23 UTC"
   39.0300, -112.4700
   39.1000, -112.7200
   39.4900, -112.5800
@@ -23,7 +43,7 @@ Line: 2,,"Special Weather Statement issued May 13 at 1:36PM MDT by NWS Salt Lake
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 3:31PM EDT by NWS Charleston WV\nExpires: 2026-05-13 20:15 Z\nAt 331 PM EDT, Doppler radar was tracking a strong thunderstorm near Spencer, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Spencer, Arnoldsburg, Millstone, Orma, Nicut, Mount Zion, and Chloe.\nGenerated: 2026-05-13 19:40:19 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 3:31PM EDT by NWS Charleston WV\nExpires: 2026-05-13 20:15 Z\nAt 331 PM EDT, Doppler radar was tracking a strong thunderstorm near Spencer, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Spencer, Arnoldsburg, Millstone, Orma, Nicut, Mount Zion, and Chloe.\nGenerated: 2026-05-13 19:45:23 UTC"
   38.9200, -81.0000
   38.7100, -80.9900
   38.6600, -81.0400
@@ -33,84 +53,10 @@ Line: 2,,"Special Weather Statement issued May 13 at 3:31PM EDT by NWS Charlesto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 1:26PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-13 20:00 Z\nAt 125 PM MDT, Doppler radar was tracking elevated thunderstorms capable of producing gusty and erratic winds over Salt Lake City, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Lake City, Bountiful, Farmington, South Salt Lake, North Salt Lake, Centerville, Woods Cross, West Bountiful, Salt Lake City International Airport, Sugarhouse, University Of Utah, and Antelope Island State Park.  This includes the following highways... Interstate 15 between mile markers 305 and 322. Interstate 80 in Utah between mile markers 108 and 119, and between mile markers 124 and 125.\nGenerated: 2026-05-13 19:40:19 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 1:26PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-13 20:00 Z\nAt 125 PM MDT, Doppler radar was tracking elevated thunderstorms capable of producing gusty and erratic winds over Salt Lake City, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Lake City, Bountiful, Farmington, South Salt Lake, North Salt Lake, Centerville, Woods Cross, West Bountiful, Salt Lake City International Airport, Sugarhouse, University Of Utah, and Antelope Island State Park.  This includes the following highways... Interstate 15 between mile markers 305 and 322. Interstate 80 in Utah between mile markers 108 and 119, and between mile markers 124 and 125.\nGenerated: 2026-05-13 19:45:23 UTC"
   40.7100, -111.8500
   40.7800, -112.1700
   41.0300, -112.1300
   40.9200, -111.7200
   40.7100, -111.8500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 1:23PM MDT by NWS Missoula MT\nExpires: 2026-05-13 19:45 Z\nAt 123 PM MDT, Doppler radar was tracking a strong thunderstorm over Divide, or 21 miles southwest of Butte, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Butte, Divide, Newcomb and Janney.\nGenerated: 2026-05-13 19:40:19 UTC"
-  46.0200, -112.5600
-  45.8900, -112.4100
-  45.8600, -112.4200
-  45.8500, -112.4300
-  45.8200, -112.3800
-  45.6600, -112.7000
-  45.6800, -112.7000
-  45.6800, -112.7200
-  45.7000, -112.7500
-  45.7000, -112.7400
-  45.7100, -112.7500
-  45.7300, -112.7500
-  45.7500, -112.7600
-  45.7600, -112.7800
-  45.7600, -112.8000
-  45.7800, -112.8300
-  45.7800, -112.8700
-  45.7900, -112.8900
-  45.7800, -112.9100
-  45.7900, -112.9200
-  46.0200, -112.5600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 3:10PM EDT by NWS Binghamton NY\nExpires: 2026-05-13 19:45 Z\nAt 308 PM EDT, Doppler radar was tracking a strong thunderstorm over Lodi, or 11 miles northeast of Dundee, moving northeast at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ledyard, Aurora, Ovid, Interlaken, Lodi, Levanna, Venice Center, King Ferry, Lodi Station, and Willard.\nGenerated: 2026-05-13 19:40:19 UTC"
-  42.5700, -76.8000
-  42.6600, -76.9000
-  42.8800, -76.6100
-  42.7400, -76.4600
-  42.5700, -76.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 1:07PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-13 19:45 Z\nAt 106 PM MDT, Doppler radar was tracking an elevated thunderstorm near Oquirrh, capable of producing gusty and erratic outflow winds, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Lake City, West Valley City, Murray, West Jordan, Taylorsville, South Jordan, Riverton, Midvale, South Salt Lake, Herriman, Bluffdale, Millcreek, Kearns, Salt Lake City International Airport, Magna, Bingham Canyon Mine, Oquirrh, Canyon Rim, East Millcreek, and Cottonwood West.  This includes the following highways... Interstate 15 between mile markers 297 and 311. Interstate 80 in Utah between mile markers 106 and 127.\nGenerated: 2026-05-13 19:40:19 UTC"
-  40.7800, -111.7600
-  40.4700, -112.0200
-  40.5700, -112.2100
-  40.5800, -112.2200
-  40.8400, -112.1500
-  40.7800, -111.7600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 2:59PM EDT by NWS State College PA\nExpires: 2026-05-13 19:45 Z\nAt 259 PM EDT, Doppler radar was tracking a strong thunderstorm near Marienville, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Johnsonburg around 320 PM EDT. Wilcox and East Branch Dam around 325 PM EDT.\nGenerated: 2026-05-13 19:40:19 UTC"
-  41.6000, -78.4800
-  41.6000, -78.4200
-  41.5000, -78.4200
-  41.3300, -78.8900
-  41.3700, -78.9700
-  41.3500, -79.0200
-  41.3600, -79.0400
-  41.3400, -79.1000
-  41.4100, -79.1000
-  41.4300, -79.0600
-  41.4500, -79.0600
-  41.4500, -78.9800
-  41.4400, -78.9600
-  41.5300, -78.9600
-  41.6300, -78.7600
-  41.6300, -78.4900
-  41.6000, -78.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 12:59PM MDT by NWS Great Falls MT\nExpires: 2026-05-13 19:45 Z\nAt 1259 PM MDT, Doppler radar was tracking a strong thunderstorm near Sheridan, moving northeast at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheridan, Twin Bridges, Harrison, Pony, Norris, Cardwell, and Lewis And Clark Caverns State Park.\nGenerated: 2026-05-13 19:40:19 UTC"
-  45.4200, -112.5300
-  45.9600, -111.8700
-  45.6600, -111.3800
-  45.2500, -112.3700
-  45.4200, -112.5300
 End:
