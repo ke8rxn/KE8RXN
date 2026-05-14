@@ -3,13 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-14 20:40:20 UTC
+; Generated: 2026-05-14 20:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 14 at 2:11PM MDT by NWS Albuquerque NM\nExpires: 2026-05-14 20:45 Z\nAt 211 PM MDT, Doppler radar was tracking an area of strong showers with gusty outflow winds 8 miles northeast of Hagerman, or 24 miles southeast of Roswell, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hagerman.  This includes Highway 380 between Mile Markers 179 and 188.\nGenerated: 2026-05-14 20:40:20 UTC"
-  32.9600, -104.2800
-  33.3000, -104.3900
-  33.4800, -103.9600
-  32.9900, -103.8300
-  32.9700, -104.2000
-  32.9600, -104.2800
+Line: 2,,"Special Weather Statement issued May 14 at 3:42PM CDT by NWS Amarillo TX\nExpires: 2026-05-14 21:15 Z\nAt 342 PM CDT, Doppler radar was tracking a strong thunderstorm near Adrian, or 16 miles west of Vega, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vega and Adrian.  This includes Interstate 40 between mile markers 16 and 38.\nGenerated: 2026-05-14 20:45:13 UTC"
+  35.1900, -102.7500
+  35.2800, -102.7900
+  35.4600, -102.4900
+  35.2200, -102.3900
+  35.1900, -102.7500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 14 at 3:40PM CDT by NWS Dodge City KS\nExpires: 2026-05-14 21:15 Z\nAt 339 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Ulysses, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Hickok around 345 PM CDT.\nGenerated: 2026-05-14 20:45:13 UTC"
+  37.5600, -101.4000
+  37.6900, -101.4500
+  37.8500, -100.9700
+  37.5200, -100.7400
+  37.4800, -101.1400
+  37.5600, -101.2200
+  37.5600, -101.4000
 End:
