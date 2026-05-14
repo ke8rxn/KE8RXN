@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-14 17:25:31 UTC
+; Generated: 2026-05-14 17:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 14 at 12:15PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-05-14 18:00 Z\nAt 1215 PM CDT, Doppler radar was tracking a line of thunderstorms extending from 6 miles northwest of Boyd to 11 miles southwest of Clarkfield, or extending from 12 miles west of Montevideo to 22 miles southwest of Montevideo, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Providence, St. Leo, Boyd, Spring Creek, Clarkfield, Spellman Lake, Hazel Run, Hanley Falls, Granite Falls, Granite Falls Airport and Wood Lake.\nGenerated: 2026-05-14 17:25:31 UTC"
+Line: 2,,"Special Weather Statement issued May 14 at 12:27PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-05-14 18:15 Z\nAt 1227 PM CDT, Doppler radar was tracking a line of showers extending from 6 miles south of Hancock to 5 miles north of Clarkfield, or extending from 12 miles south of Morris to 7 miles southwest of Montevideo, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Appleton, Lake Oliver, Appleton Airport, Milan, Holloway, Watson, Hagen, Big Bend City, Montevideo, Danvers, Montevideo Airport, Clontarf, Benson Airport, Benson, Granite Falls, Asbury, Lake Hassel, Maynard and Gluek.\nGenerated: 2026-05-14 17:30:17 UTC"
+  45.4100, -96.0500
+  45.4100, -95.4900
+  44.8900, -95.4600
+  44.8900, -95.4800
+  44.7800, -95.4800
+  44.7800, -95.5200
+  44.7900, -95.5000
+  44.8000, -95.5400
+  44.8100, -95.5400
+  44.8400, -95.5700
+  44.8500, -95.6100
+  44.8700, -95.6200
+  44.9100, -95.6800
+  44.9100, -95.7200
+  44.9200, -95.7200
+  44.9400, -95.7400
+  44.9500, -95.8000
+  44.9600, -95.8200
+  45.0000, -95.8300
+  45.1400, -96.0300
+  45.4100, -96.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 14 at 12:15PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-05-14 18:00 Z\nAt 1215 PM CDT, Doppler radar was tracking a line of thunderstorms extending from 6 miles northwest of Boyd to 11 miles southwest of Clarkfield, or extending from 12 miles west of Montevideo to 22 miles southwest of Montevideo, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Providence, St. Leo, Boyd, Spring Creek, Clarkfield, Spellman Lake, Hazel Run, Hanley Falls, Granite Falls, Granite Falls Airport and Wood Lake.\nGenerated: 2026-05-14 17:30:17 UTC"
   44.8900, -96.1300
   44.9600, -95.8200
   44.9500, -95.8000
@@ -27,25 +52,4 @@ Line: 2,,"Special Weather Statement issued May 14 at 12:15PM CDT by NWS Twin Cit
   44.6300, -96.0800
   44.7600, -96.0900
   44.8900, -96.1300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 14 at 11:47AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-05-14 17:30 Z\nAt 1147 AM CDT, Doppler radar was tracking thunderstorms near Madison, or 25 miles west of Montevideo, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The shower will be near... Madison around 1150 AM CDT. Appleton around 1210 PM CDT.  Other locations impacted by this shower include Cerro Gordo.\nGenerated: 2026-05-14 17:25:31 UTC"
-  44.8500, -96.3400
-  45.2600, -96.3500
-  45.2500, -96.2900
-  45.2400, -96.2900
-  45.2200, -96.2700
-  45.2200, -96.2200
-  45.2100, -96.2000
-  45.1900, -96.1700
-  45.2000, -96.1400
-  45.1800, -96.1100
-  45.1800, -96.1000
-  45.2400, -96.1000
-  45.2400, -96.1200
-  45.4100, -96.1200
-  45.4100, -95.8500
-  44.9400, -95.8600
-  44.8500, -96.3400
 End:
