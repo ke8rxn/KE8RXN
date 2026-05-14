@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-14 04:10:22 UTC
+; Generated: 2026-05-14 04:15:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 9:55PM MDT by NWS Billings MT\nExpires: 2026-05-14 05:00 Z\nAt 955 PM MDT, Doppler radar was tracking a line of strong outflow winds extending from 14 miles west of Roundup to 13 miles northwest of Laurel, or extending from 14 miles west of Roundup to 15 miles northeast of Columbus, moving southeast at 45 mph.  HAZARD...Wind gusts of 50 to 60 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Billings, Laurel, Shepherd, Huntley, Lockwood, Billings Heights, Worden, Ballantine, Billings West End, Acton, Comanche and Pompeys Pillar.\nGenerated: 2026-05-14 04:10:22 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 10:11PM MDT by NWS Billings MT\nExpires: 2026-05-14 05:15 Z\nAt 1011 PM MDT, Doppler radar was tracking showers and thunderstorms east of Forsyth  moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 60 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Miles City, Rosebud, Hathaway, Moon Creek Ranch, Matthews Recreation Area, Angela, Strawberry Hill Recreation Area, Twelve Mile Dam, Rock Springs, Cartersville and Locate.\nGenerated: 2026-05-14 04:15:20 UTC"
+  46.1700, -106.1500
+  46.3200, -106.8200
+  46.8500, -106.6000
+  46.8500, -106.0900
+  46.8600, -106.0900
+  46.8600, -105.8300
+  46.8300, -105.8300
+  46.8300, -105.6200
+  46.7500, -105.6200
+  46.7400, -105.5800
+  46.6600, -105.5800
+  46.6600, -105.4900
+  46.6000, -105.4900
+  46.6000, -105.4500
+  46.5700, -105.4500
+  46.5700, -105.2400
+  46.5400, -105.2400
+  46.5400, -105.1500
+  46.0500, -105.6300
+  46.1700, -106.1500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 13 at 9:55PM MDT by NWS Billings MT\nExpires: 2026-05-14 05:00 Z\nAt 955 PM MDT, Doppler radar was tracking a line of strong outflow winds extending from 14 miles west of Roundup to 13 miles northwest of Laurel, or extending from 14 miles west of Roundup to 15 miles northeast of Columbus, moving southeast at 45 mph.  HAZARD...Wind gusts of 50 to 60 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Billings, Laurel, Shepherd, Huntley, Lockwood, Billings Heights, Worden, Ballantine, Billings West End, Acton, Comanche and Pompeys Pillar.\nGenerated: 2026-05-14 04:15:20 UTC"
   45.9900, -108.9200
   46.3100, -108.4900
   46.3800, -108.2000
@@ -22,30 +46,7 @@ Line: 2,,"Special Weather Statement issued May 13 at 9:55PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 9:46PM MDT by NWS Cheyenne WY\nExpires: 2026-05-14 04:15 Z\nAt 945 PM MDT, Doppler radar was tracking gusty showers near Sinclair, or 9 miles southeast of Rawlins, moving northeast at 90 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rawlins, Hanna, Sinclair, Seminoe Campground, Fort Steele Historic Site, Kortes Dam, Rawlins Municipal Airport, Rim Lake, Seminoe State Park, Miracle Mile, Seminoe Dam, Prior Flat Campground, Dugway Campground, Dome Rock, and Carbon County Fairgrounds.  This includes Interstate 80 in Wyoming between mile markers 208 and 252.\nGenerated: 2026-05-14 04:10:22 UTC"
-  42.4300, -106.7700
-  42.4300, -106.3200
-  42.0800, -105.9300
-  41.4700, -107.0200
-  41.7300, -107.3900
-  42.4300, -106.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 9:33PM MDT by NWS Cheyenne WY\nExpires: 2026-05-14 04:15 Z\nAt 932 PM MDT, Doppler radar was tracking gusty showers near Redington, or 29 miles northwest of Sidney, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bridgeport, Dalton, Gurley, Broadwater, Northport, Courthouse And Jail Rock, Bridgeport State Recreation Area, Morrill County Fairgrounds, Redington, and The Intersection Of Highway 385 And 92.\nGenerated: 2026-05-14 04:10:22 UTC"
-  41.3200, -103.3600
-  41.6400, -103.3800
-  41.7600, -102.6800
-  41.7400, -102.6600
-  41.7400, -102.6400
-  41.4000, -102.6300
-  41.3900, -102.6100
-  41.2700, -102.6100
-  41.3200, -103.3600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 9:28PM MDT by NWS Glasgow MT\nExpires: 2026-05-14 04:30 Z\nAt 927 PM MDT, Doppler radar was tracking a strong thunderstorm near Fort Peck, or 11 miles southeast of Glasgow, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Glasgow, Wolf Point, Poplar, Nashua, Fort Peck, Duck Creek Rec Area, Lustre, Fort Peck Marina, Frazer, St. Marie, Rock Creek Rec Area, Oswego, Park Grove, Volt, Baylor, Larslan, and Whatley.\nGenerated: 2026-05-14 04:10:22 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 9:28PM MDT by NWS Glasgow MT\nExpires: 2026-05-14 04:30 Z\nAt 927 PM MDT, Doppler radar was tracking a strong thunderstorm near Fort Peck, or 11 miles southeast of Glasgow, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Glasgow, Wolf Point, Poplar, Nashua, Fort Peck, Duck Creek Rec Area, Lustre, Fort Peck Marina, Frazer, St. Marie, Rock Creek Rec Area, Oswego, Park Grove, Volt, Baylor, Larslan, and Whatley.\nGenerated: 2026-05-14 04:15:20 UTC"
   47.6500, -106.1400
   48.1200, -106.8700
   48.9500, -106.5400
@@ -55,21 +56,11 @@ Line: 2,,"Special Weather Statement issued May 13 at 9:28PM MDT by NWS Glasgow M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 9:24PM MDT by NWS Billings MT\nExpires: 2026-05-14 04:30 Z\nAt 924 PM MDT, Doppler radar was tracking an area of showers and thunderstorms 8 miles northwest of Busby, or 27 miles east of Hardin, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 60 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colstrip, Forsyth, Hysham, Busby, Lame Deer, Crow Agency, Muddy Cluster, Northern Cheyenne Indian Reservation and Crow Indian Reservation.\nGenerated: 2026-05-14 04:10:22 UTC"
+Line: 2,,"Special Weather Statement issued May 13 at 9:24PM MDT by NWS Billings MT\nExpires: 2026-05-14 04:30 Z\nAt 924 PM MDT, Doppler radar was tracking an area of showers and thunderstorms 8 miles northwest of Busby, or 27 miles east of Hardin, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 60 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colstrip, Forsyth, Hysham, Busby, Lame Deer, Crow Agency, Muddy Cluster, Northern Cheyenne Indian Reservation and Crow Indian Reservation.\nGenerated: 2026-05-14 04:15:20 UTC"
   45.5200, -107.5600
   46.3900, -107.1900
   46.2100, -106.2700
   45.4100, -106.7400
   45.5000, -107.5700
   45.5200, -107.5600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 13 at 9:10PM MDT by NWS Glasgow MT\nExpires: 2026-05-14 04:15 Z\nAt 909 PM MDT, Doppler radar was tracking a strong thunderstorm near Richland, or 22 miles east of Opheim, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wolf Point, Plentywood, Scobey, Poplar, Culbertson, Opheim, Richland, Brockton, Medicine Lake, Bainville, Froid, Westby, Flaxville, Archer, Port Of Raymond, Peerless, Port Of Whitetail, Lustre, Madoc, and Bredette.\nGenerated: 2026-05-14 04:10:22 UTC"
-  47.9300, -104.0600
-  48.0000, -105.7500
-  48.9100, -106.5200
-  49.0000, -106.5100
-  49.0000, -104.0500
-  47.9300, -104.0600
 End:
