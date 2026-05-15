@@ -3,9 +3,40 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-15 20:45:13 UTC
+; Generated: 2026-05-15 20:50:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 15 at 2:41PM MDT by NWS Midland/Odessa TX\nExpires: 2026-05-15 21:30 Z\nAt 240 PM MDT, Doppler radar was tracking a strong thunderstorm 19 miles northwest of Maljamar, or 33 miles northeast of Artesia, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lovington, Tatum, McDonald, Gladiola, and Tatum Airport.\nGenerated: 2026-05-15 20:45:13 UTC"
+Line: 2,,"Special Weather Statement issued May 15 at 2:47PM MDT by NWS Glasgow MT\nExpires: 2026-05-15 21:45 Z\nAt 245 PM MDT, Doppler radar was tracking scattered thunderstorms across the area moving southeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Plentywood, Scobey, Culbertson, Opheim, Whitewater, Richland, Brockton, Medicine Lake, Bainville, Saco, Froid, Westby, Flaxville, Peerless, Fort Union Trading Post, Lustre, Port Of Scobey, Redstone, Port Of Morgan, and Whitetail.\nGenerated: 2026-05-15 20:50:22 UTC"
+  47.9700, -104.0400
+  48.5600, -108.3500
+  48.7400, -108.3200
+  48.7500, -108.2600
+  49.0000, -108.2400
+  49.0000, -104.0500
+  47.9700, -104.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 15 at 2:46PM MDT by NWS Albuquerque NM\nExpires: 2026-05-15 21:15 Z\nAt 246 PM MDT, Doppler radar was tracking a strong thunderstorm 26 miles east of Hagerman, or 41 miles southeast of Roswell, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of East Central Chaves County.\nGenerated: 2026-05-15 20:50:22 UTC"
+  32.9700, -104.0600
+  33.3000, -104.0000
+  33.3400, -103.7700
+  32.9700, -103.7700
+  32.9700, -104.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 15 at 2:45PM MDT by NWS Albuquerque NM\nExpires: 2026-05-15 21:30 Z\nAt 245 PM MDT, Emergency management reported a landspout 3 miles south of Nara Visa. Additional landspouts may develop from Nara Visa to Clayton to Grenville.  HAZARD...Landspouts and wind gusts up to 50 mph.  SOURCE...Emergency management reported.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clayton, Amistad, Nara Visa, Grenville, Hayden, Sedan, Mount Dora, Clayton Lake State Park, Seneca and Rosebud.  This includes Highway 64 between Mile Markers 401 and 429.\nGenerated: 2026-05-15 20:50:22 UTC"
+  35.4400, -103.6600
+  36.7500, -103.6500
+  36.7400, -103.0000
+  36.5000, -103.0000
+  36.5000, -103.0400
+  35.4900, -103.0400
+  35.4400, -103.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 15 at 2:41PM MDT by NWS Midland/Odessa TX\nExpires: 2026-05-15 21:30 Z\nAt 240 PM MDT, Doppler radar was tracking a strong thunderstorm 19 miles northwest of Maljamar, or 33 miles northeast of Artesia, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lovington, Tatum, McDonald, Gladiola, and Tatum Airport.\nGenerated: 2026-05-15 20:50:22 UTC"
   32.9700, -103.0600
   32.9600, -103.8100
   32.9700, -103.7600
