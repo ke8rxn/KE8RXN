@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-16 22:40:11 UTC
+; Generated: 2026-05-16 22:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 16 at 6:37PM EDT by NWS Louisville KY\nExpires: 2026-05-16 23:15 Z\nAt 637 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Taylorsville, moving northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shelbyville, Simpsonville, L S Park, Mulberry, Fisherville, Montclair, Joyes, Elk Creek, Wilsonville, and Veachland.\nGenerated: 2026-05-16 22:40:11 UTC"
+Line: 2,,"Special Weather Statement issued May 16 at 4:44PM MDT by NWS Cheyenne WY\nExpires: 2026-05-16 23:15 Z\nAt 444 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Burns, or 26 miles northeast of Cheyenne, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albin and Gun Barrel.\nGenerated: 2026-05-16 22:45:15 UTC"
+  41.1900, -104.3000
+  41.3000, -104.4900
+  41.5500, -104.2900
+  41.5500, -104.1300
+  41.5100, -104.0600
+  41.3900, -104.0600
+  41.1900, -104.3000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 16 at 4:40PM MDT by NWS Denver CO\nExpires: 2026-05-16 23:15 Z\nAt 440 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles north of Iliff to 5 miles southeast of Burdett, or extending from 17 miles northeast of Sterling to 18 miles northeast of Akron, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sterling, Haxtun, Fleming, Iliff, Peetz, Crook, Paoli, St Petersburg, Proctor, Burdett, Twin Buttes, Padroni, Lone Star, Highland Center, North Sterling Reservoir, Fairfield, Reiradon Hill and Dailey.\nGenerated: 2026-05-16 22:45:15 UTC"
+  40.4400, -103.1700
+  40.4600, -103.1700
+  40.6800, -103.3600
+  41.0000, -103.2000
+  41.0000, -102.7300
+  40.6500, -102.3600
+  40.4400, -102.6000
+  40.4400, -102.7800
+  40.3500, -102.7800
+  40.3500, -102.7900
+  40.2700, -102.7900
+  40.2600, -102.8000
+  40.1800, -103.1300
+  40.4400, -103.1700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 16 at 6:37PM EDT by NWS Louisville KY\nExpires: 2026-05-16 23:15 Z\nAt 637 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Taylorsville, moving northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shelbyville, Simpsonville, L S Park, Mulberry, Fisherville, Montclair, Joyes, Elk Creek, Wilsonville, and Veachland.\nGenerated: 2026-05-16 22:45:15 UTC"
   38.0500, -85.4600
   38.1600, -85.5600
   38.3300, -85.1500
@@ -14,7 +43,7 @@ Line: 2,,"Special Weather Statement issued May 16 at 6:37PM EDT by NWS Louisvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 16 at 6:30PM EDT by NWS Louisville KY\nExpires: 2026-05-16 23:00 Z\nAt 630 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles west of Scottsburg to 9 miles north of Prospect to near Woodland Hills. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Louisville, Jeffersonville, New Albany, Jeffersontown, St. Matthews, Lyndon, La Grange, Middletown, Scottsburg, and Douglass Hills.\nGenerated: 2026-05-16 22:40:11 UTC"
+Line: 2,,"Special Weather Statement issued May 16 at 6:30PM EDT by NWS Louisville KY\nExpires: 2026-05-16 23:00 Z\nAt 630 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles west of Scottsburg to 9 miles north of Prospect to near Woodland Hills. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Louisville, Jeffersonville, New Albany, Jeffersontown, St. Matthews, Lyndon, La Grange, Middletown, Scottsburg, and Douglass Hills.\nGenerated: 2026-05-16 22:45:15 UTC"
   38.6400, -85.3400
   38.3200, -85.1600
   38.1300, -85.6300
@@ -26,53 +55,4 @@ Line: 2,,"Special Weather Statement issued May 16 at 6:30PM EDT by NWS Louisvill
   38.8300, -85.6100
   38.8400, -85.6100
   38.6400, -85.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 16 at 4:22PM MDT by NWS North Platte NE\nExpires: 2026-05-16 22:45 Z\nAt 422 PM MDT, Doppler radar was tracking a strong thunderstorm over Pleasant Valley, or 10 miles east of Holyoke, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar and Crete.\nGenerated: 2026-05-16 22:40:11 UTC"
-  40.4600, -102.0500
-  40.5700, -102.0600
-  40.6800, -102.0500
-  40.7100, -101.8500
-  40.4400, -101.8300
-  40.4600, -102.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 16 at 4:20PM MDT by NWS Cheyenne WY\nExpires: 2026-05-16 22:45 Z\nAt 420 PM MDT, Doppler radar was tracking a strong thunderstorm near Hillsdale, or 18 miles east of Cheyenne, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Burns, Egbert, Hillsdale, and Gun Barrel.  This includes Interstate 80 in Wyoming between mile markers 374 and 390.\nGenerated: 2026-05-16 22:40:11 UTC"
-  41.0500, -104.4100
-  41.1600, -104.6000
-  41.4900, -104.3500
-  41.3200, -104.0600
-  41.0500, -104.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 16 at 6:14PM EDT by NWS Louisville KY\nExpires: 2026-05-16 22:45 Z\nAt 614 PM EDT, Doppler radar was tracking a strong thunderstorm over Salem, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salem, Little York, Shorts Corner, South Boston, Hitchcock, Pumpkin Center, Rosebud, Harristown, New Philadelphia, and Becks Mill.\nGenerated: 2026-05-16 22:40:11 UTC"
-  38.7500, -85.9800
-  38.7600, -85.9600
-  38.7500, -85.9500
-  38.7600, -85.9400
-  38.7500, -85.9200
-  38.7500, -85.9100
-  38.6500, -85.8300
-  38.4500, -86.1700
-  38.5600, -86.2700
-  38.7600, -86.0300
-  38.7600, -86.0200
-  38.7700, -86.0200
-  38.7600, -86.0100
-  38.7700, -85.9800
-  38.7500, -85.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 16 at 4:38PM CDT by NWS Paducah KY\nExpires: 2026-05-16 22:45 Z\nAt 437 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles west of Helm, or 10 miles south of Salem, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph, half inch hail, heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Localized street flooding is possible.  Locations impacted include... Mount Vernon, Fairfield, Wayne City, Woodlawn, Cisne, Dix, Jeffersonville, Sims, and Johnsonville.  This includes the following highways... Interstate 57 in Illinois between Mile Markers 96 and 105. Interstate 64 in Illinois between Mile Markers 63 and 73.\nGenerated: 2026-05-16 22:40:11 UTC"
-  38.6000, -88.3400
-  38.3700, -88.3100
-  38.3200, -89.1500
-  38.4700, -89.1500
-  38.4700, -88.7000
-  38.6100, -88.6900
-  38.6000, -88.3400
 End:
