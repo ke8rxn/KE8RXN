@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-16 02:50:13 UTC
+; Generated: 2026-05-16 02:55:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 15 at 9:49PM CDT by NWS Marquette MI\nExpires: 2026-05-16 03:15 Z\nAt 949 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Kentuck Lake Campground, or 9 miles southwest of Iron River, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Iron River, Crystal Falls, Stambaugh, Caspian, Gaastra, Alpha, Way Dam, Bewabic State Park, Stager, Hagerman Lake, Peavy Falls Dam, and Mineral Hills.\nGenerated: 2026-05-16 02:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 15 at 9:51PM CDT by NWS La Crosse WI\nExpires: 2026-05-16 03:15 Z\nAt 950 PM CDT, Doppler radar was tracking a strong thunderstorm over Protivin, or 12 miles south of Cresco, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Spillville and Ridgeway around 955 PM CDT. Decorah around 1005 PM CDT.  Other locations impacted by this storm include State Road 9 And 245th Street, County Roads W 14 And A 34, Jackson Junction, Nordness, Saude, Lake Meyer County Park, County Roads W 20 And A 34, Bluffton, Conover, and Little Turkey.\nGenerated: 2026-05-16 02:55:12 UTC"
+  43.2100, -92.2200
+  43.4300, -91.9100
+  43.2500, -91.6900
+  43.0800, -92.0500
+  43.0800, -92.0800
+  43.2100, -92.2200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 15 at 9:50PM CDT by NWS Norman OK\nExpires: 2026-05-16 03:15 Z\nAt 950 PM CDT, Doppler radar was tracking a strong thunderstorm near Goree, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Seymour, Munday, Goree, Rhineland, and Bomarton.\nGenerated: 2026-05-16 02:55:12 UTC"
+  33.4000, -99.7300
+  33.5200, -99.7600
+  33.6400, -99.2400
+  33.4000, -99.1900
+  33.4000, -99.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 15 at 9:49PM CDT by NWS Marquette MI\nExpires: 2026-05-16 03:15 Z\nAt 949 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Kentuck Lake Campground, or 9 miles southwest of Iron River, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Iron River, Crystal Falls, Stambaugh, Caspian, Gaastra, Alpha, Way Dam, Bewabic State Park, Stager, Hagerman Lake, Peavy Falls Dam, and Mineral Hills.\nGenerated: 2026-05-16 02:55:12 UTC"
   45.9600, -88.1900
   45.9400, -88.2100
   45.9600, -88.3200
@@ -27,7 +46,7 @@ Line: 2,,"Special Weather Statement issued May 15 at 9:49PM CDT by NWS Marquette
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 15 at 9:43PM CDT by NWS Amarillo TX\nExpires: 2026-05-16 03:30 Z\nAt 943 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northwest of Skellytown, or 8 miles southeast of Borger, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pampa, Borger, Fritch, Skellytown, Sanford, and Kingsmill.\nGenerated: 2026-05-16 02:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 15 at 9:43PM CDT by NWS Amarillo TX\nExpires: 2026-05-16 03:30 Z\nAt 943 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northwest of Skellytown, or 8 miles southeast of Borger, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pampa, Borger, Fritch, Skellytown, Sanford, and Kingsmill.\nGenerated: 2026-05-16 02:55:12 UTC"
   35.5300, -101.6600
   35.7000, -101.6600
   35.8000, -100.9100
@@ -36,7 +55,7 @@ Line: 2,,"Special Weather Statement issued May 15 at 9:43PM CDT by NWS Amarillo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 15 at 9:38PM CDT by NWS Tulsa OK\nExpires: 2026-05-16 03:30 Z\nAt 937 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles northwest of Drumright to near Kendrick. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Bristow...                        Mannford... Drumright...                      Oilton... Depew...                          Shamrock... Silver City...                    Milfay...  This includes Interstate 44 between mile markers 178 and 195.\nGenerated: 2026-05-16 02:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 15 at 9:38PM CDT by NWS Tulsa OK\nExpires: 2026-05-16 03:30 Z\nAt 937 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles northwest of Drumright to near Kendrick. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Bristow...                        Mannford... Drumright...                      Oilton... Depew...                          Shamrock... Silver City...                    Milfay...  This includes Interstate 44 between mile markers 178 and 195.\nGenerated: 2026-05-16 02:55:12 UTC"
   36.1600, -96.6200
   36.1600, -96.3000
   35.6400, -96.3600
@@ -45,7 +64,7 @@ Line: 2,,"Special Weather Statement issued May 15 at 9:38PM CDT by NWS Tulsa OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 15 at 9:26PM CDT by NWS Norman OK\nExpires: 2026-05-16 03:00 Z\nAt 926 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Lookeba, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... El Reno, Hinton, Union City, Minco, Binger, Lookeba, Cogar, and Cedar Lake.\nGenerated: 2026-05-16 02:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 15 at 9:26PM CDT by NWS Norman OK\nExpires: 2026-05-16 03:00 Z\nAt 926 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Lookeba, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... El Reno, Hinton, Union City, Minco, Binger, Lookeba, Cogar, and Cedar Lake.\nGenerated: 2026-05-16 02:55:12 UTC"
   35.2900, -98.4200
   35.4700, -98.4300
   35.5400, -97.8800
@@ -54,7 +73,7 @@ Line: 2,,"Special Weather Statement issued May 15 at 9:26PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 15 at 9:25PM CDT by NWS La Crosse WI\nExpires: 2026-05-16 03:15 Z\nAt 925 PM CDT, Doppler radar was tracking a strong thunderstorm over La Crescent, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... La Crosse, Onalaska, La Crosse Airport, and French Island around 930 PM CDT. West Salem around 940 PM CDT. Bangor around 950 PM CDT.  Other locations impacted by this storm include Irish Hill, North Side Of La Crosse, South Side Of La Crosse, The Valley View Mall, The Coulee Experimental Forest, Blue Bird Campground, County Roads M And W, Mindoro Cut, Severson Coulee, and Highway 33 And County O A.  This includes Interstate 90 in Wisconsin between mile markers 1 and 15.\nGenerated: 2026-05-16 02:50:13 UTC"
+Line: 2,,"Special Weather Statement issued May 15 at 9:25PM CDT by NWS La Crosse WI\nExpires: 2026-05-16 03:15 Z\nAt 925 PM CDT, Doppler radar was tracking a strong thunderstorm over La Crescent, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... La Crosse, Onalaska, La Crosse Airport, and French Island around 930 PM CDT. West Salem around 940 PM CDT. Bangor around 950 PM CDT.  Other locations impacted by this storm include Irish Hill, North Side Of La Crosse, South Side Of La Crosse, The Valley View Mall, The Coulee Experimental Forest, Blue Bird Campground, County Roads M And W, Mindoro Cut, Severson Coulee, and Highway 33 And County O A.  This includes Interstate 90 in Wisconsin between mile markers 1 and 15.\nGenerated: 2026-05-16 02:55:12 UTC"
   43.8000, -90.9600
   43.7400, -91.2500
   43.7800, -91.2400
