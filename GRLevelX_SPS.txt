@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-17 18:25:12 UTC
+; Generated: 2026-05-17 18:30:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 2:23PM EDT by NWS Jacksonville FL\nExpires: 2026-05-17 19:00 Z\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm over Screven, or 9 miles northeast of Patterson, moving northwest at 10 mph.  HAZARD...Wind gusts around 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Screven, Odum, and Offerman.\nGenerated: 2026-05-17 18:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 2:28PM EDT by NWS Tallahassee FL\nExpires: 2026-05-17 19:15 Z\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Mayo, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mayo, Cross City, Tennille, Cooks Hammock, Shamrock, Clara, Cross City Airport, Carbur, Hines, Jonesboro, Salem, Eugene, and San Pedro Junction.\nGenerated: 2026-05-17 18:30:16 UTC"
+  29.5800, -83.0400
+  29.5900, -83.1900
+  29.7300, -83.3400
+  30.0200, -83.4900
+  30.0800, -83.3300
+  30.0700, -83.1500
+  29.5800, -83.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 17 at 2:23PM EDT by NWS Jacksonville FL\nExpires: 2026-05-17 19:00 Z\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm over Screven, or 9 miles northeast of Patterson, moving northwest at 10 mph.  HAZARD...Wind gusts around 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Screven, Odum, and Offerman.\nGenerated: 2026-05-17 18:30:16 UTC"
   31.4500, -81.9200
   31.4100, -82.1100
   31.6200, -82.1900
@@ -14,7 +25,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 2:23PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 12:13PM MDT by NWS Grand Junction CO\nExpires: 2026-05-17 18:45 Z\nAt 1213 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Rangely, or 51 miles southeast of Vernal, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Rio Blanco County.  This includes Colorado 139 between mile markers 54 and 68.\nGenerated: 2026-05-17 18:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 12:13PM MDT by NWS Grand Junction CO\nExpires: 2026-05-17 18:45 Z\nAt 1213 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Rangely, or 51 miles southeast of Vernal, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Rio Blanco County.  This includes Colorado 139 between mile markers 54 and 68.\nGenerated: 2026-05-17 18:30:16 UTC"
   39.8200, -108.9300
   39.8900, -109.0000
   40.0700, -108.7300
@@ -23,21 +34,11 @@ Line: 2,,"Special Weather Statement issued May 17 at 12:13PM MDT by NWS Grand Ju
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 1:08PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-17 18:45 Z\nAt 107 PM CDT, Doppler radar was tracking a strong thunderstorm near Theresa, or near Mayville, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated. Juneau airport reported a wind gust to 48 mph at 12:55 PM.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... West Bend, Waupun, Mayville, Kewaskum, Horicon, Lomira, Campbellsport, Theresa, Newburg, Oakfield, Iron Ridge, Addison, Ashford, Byron, Eden, Woodland, Brownsville, Wayne, Kekoskee, and Nenno.\nGenerated: 2026-05-17 18:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 1:08PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-17 18:45 Z\nAt 107 PM CDT, Doppler radar was tracking a strong thunderstorm near Theresa, or near Mayville, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated. Juneau airport reported a wind gust to 48 mph at 12:55 PM.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... West Bend, Waupun, Mayville, Kewaskum, Horicon, Lomira, Campbellsport, Theresa, Newburg, Oakfield, Iron Ridge, Addison, Ashford, Byron, Eden, Woodland, Brownsville, Wayne, Kekoskee, and Nenno.\nGenerated: 2026-05-17 18:30:16 UTC"
   43.4000, -88.0400
   43.3500, -88.5000
   43.4600, -88.6300
   43.6700, -88.7500
   43.7200, -88.0600
   43.4000, -88.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 1:02PM CDT by NWS Rapid City SD\nExpires: 2026-05-17 18:30 Z\nAt 101 PM CDT, Doppler radar was tracking a strong thunderstorm 3 miles east of Wewela, or 12 miles north of Springview, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colome, Millboro, and Wewela.\nGenerated: 2026-05-17 18:25:12 UTC"
-  43.0000, -99.5300
-  43.0000, -99.7900
-  42.9900, -99.8400
-  43.0000, -100.0600
-  43.4400, -99.5400
-  43.0000, -99.5300
 End:
