@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-17 22:27:07 UTC
+; Generated: 2026-05-17 22:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 6:20PM EDT by NWS Tallahassee FL\nExpires: 2026-05-17 23:15 Z\nAt 619 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Alapaha to near Omega to near Doerun. Movement was north at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tifton, Moultrie, Ashburn, Ocilla, Sylvester, Putney, Albany, Sparks, Enigma, Omega, Norman Park, Lenox, Poulan, Doerun, Ty Ty, Alapaha, Phillipsburg, Mystic, Unionville, and East Albany.\nGenerated: 2026-05-17 22:27:07 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 6:29PM EDT by NWS Jacksonville FL\nExpires: 2026-05-17 23:00 Z\nAt 629 PM EDT, Doppler radar was tracking a strong thunderstorm over Belmont, or 11 miles north of White Springs, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph, half inch hail, and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Belmont.\nGenerated: 2026-05-17 22:30:17 UTC"
+  30.4100, -82.7000
+  30.4500, -82.8600
+  30.7000, -82.8300
+  30.6500, -82.6200
+  30.4100, -82.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 17 at 6:29PM EDT by NWS Peachtree City GA\nExpires: 2026-05-17 23:00 Z\nAt 629 PM EDT, a strong thunderstorm was over Wenona, or over Cordele, moving north at 10 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Cordele, Vienna, East Crisp, Tremont, Wenona, and Richwood.\nGenerated: 2026-05-17 22:30:17 UTC"
+  31.8600, -83.6600
+  31.8800, -83.8100
+  32.1000, -83.8600
+  32.1400, -83.7300
+  32.0800, -83.6100
+  31.8600, -83.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 17 at 6:20PM EDT by NWS Tallahassee FL\nExpires: 2026-05-17 23:15 Z\nAt 619 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Alapaha to near Omega to near Doerun. Movement was north at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tifton, Moultrie, Ashburn, Ocilla, Sylvester, Putney, Albany, Sparks, Enigma, Omega, Norman Park, Lenox, Poulan, Doerun, Ty Ty, Alapaha, Phillipsburg, Mystic, Unionville, and East Albany.\nGenerated: 2026-05-17 22:30:17 UTC"
   31.3300, -83.1100
   31.2300, -83.2700
   31.1600, -83.4900
@@ -29,7 +48,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 6:20PM EDT by NWS Tallahass
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 6:14PM EDT by NWS Peachtree City GA\nExpires: 2026-05-17 22:45 Z\nAt 614 PM EDT, a line of strong thunderstorms was along a line extending from Rebie to near Montrose to Dublin, and moving northwest at 10 mph.  HAZARD...40 to 50 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Danville, Montrose, Allentown, Chappells Mill, Rebie, and Nicklesville.\nGenerated: 2026-05-17 22:27:07 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 6:14PM EDT by NWS Peachtree City GA\nExpires: 2026-05-17 22:45 Z\nAt 614 PM EDT, a line of strong thunderstorms was along a line extending from Rebie to near Montrose to Dublin, and moving northwest at 10 mph.  HAZARD...40 to 50 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Danville, Montrose, Allentown, Chappells Mill, Rebie, and Nicklesville.\nGenerated: 2026-05-17 22:30:17 UTC"
   32.5700, -83.3400
   32.7500, -83.2200
   32.7200, -82.9500
@@ -43,7 +62,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 6:14PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 6:13PM EDT by NWS Peachtree City GA\nExpires: 2026-05-17 22:45 Z\nAt 613 PM EDT, a strong thunderstorm was near Ola, or near McDonough, moving north at 15 mph.  HAZARD...40 to 50 mph wind, up to penny sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... McDonough, Conyers, Jackson, Stockbridge, Locust Grove, Jenkinsburg, Blacksville, Rex, Ola, Worthville, Magnet, McKibben, Richardson Park, Hidden Valley Park, Luella, Flippen, Fincherville, Kelleytown, Oak Hill, and Eagles Landing.\nGenerated: 2026-05-17 22:27:07 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 6:13PM EDT by NWS Peachtree City GA\nExpires: 2026-05-17 22:45 Z\nAt 613 PM EDT, a strong thunderstorm was near Ola, or near McDonough, moving north at 15 mph.  HAZARD...40 to 50 mph wind, up to penny sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... McDonough, Conyers, Jackson, Stockbridge, Locust Grove, Jenkinsburg, Blacksville, Rex, Ola, Worthville, Magnet, McKibben, Richardson Park, Hidden Valley Park, Luella, Flippen, Fincherville, Kelleytown, Oak Hill, and Eagles Landing.\nGenerated: 2026-05-17 22:30:17 UTC"
   33.5900, -84.3200
   33.6300, -84.1400
   33.6200, -84.1100
@@ -58,18 +77,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 6:13PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 6:01PM EDT by NWS Peachtree City GA\nExpires: 2026-05-17 22:30 Z\nAt 600 PM EDT, a line of strong thunderstorms was along a line extending from Brewton to near Norristown to Lexsy, and moving northwest at 10 mph.  HAZARD...40 to 50 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Swainsboro, Wrightsville, Adrian, Nunez, Spann, Covena, Tuckers Crossroad, Norristown, Lovett, Norristown Junction, Meeks, Lexsy, Brewton, Blackville, Gillis Springs, and Scott.\nGenerated: 2026-05-17 22:27:07 UTC"
-  32.7700, -82.8900
-  32.6800, -82.5500
-  32.6200, -82.2400
-  32.4200, -82.2900
-  32.4500, -82.5600
-  32.5400, -82.8200
-  32.7700, -82.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 5:00PM CDT by NWS Green Bay WI\nExpires: 2026-05-17 22:45 Z\nAt 459 PM CDT, Doppler radar was tracking a strong thunderstorm near Luxemburg, or 8 miles west of Kewaunee, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Kewaunee around 505 PM CDT. Algoma around 520 PM CDT.  Other locations impacted by this storm include Krok, Norman, Rostok, Slovan, Gregorville, Rankin, Ellisville, Euren, Bolt, and Stangelville.\nGenerated: 2026-05-17 22:27:07 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 5:00PM CDT by NWS Green Bay WI\nExpires: 2026-05-17 22:45 Z\nAt 459 PM CDT, Doppler radar was tracking a strong thunderstorm near Luxemburg, or 8 miles west of Kewaunee, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Kewaunee around 505 PM CDT. Algoma around 520 PM CDT.  Other locations impacted by this storm include Krok, Norman, Rostok, Slovan, Gregorville, Rankin, Ellisville, Euren, Bolt, and Stangelville.\nGenerated: 2026-05-17 22:30:17 UTC"
   44.5400, -87.4100
   44.3500, -87.4700
   44.3300, -87.6500
@@ -84,7 +92,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 5:00PM CDT by NWS Green Bay
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 5:00PM CDT by NWS Jackson MS\nExpires: 2026-05-17 23:00 Z\nAt 459 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Raleigh, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Raleigh and Burns around 505 PM CDT. Pineville around 515 PM CDT.\nGenerated: 2026-05-17 22:27:07 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 5:00PM CDT by NWS Jackson MS\nExpires: 2026-05-17 23:00 Z\nAt 459 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Raleigh, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Raleigh and Burns around 505 PM CDT. Pineville around 515 PM CDT.\nGenerated: 2026-05-17 22:30:17 UTC"
   31.9000, -89.6500
   32.0100, -89.6500
   32.0500, -89.6600
@@ -96,7 +104,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 5:00PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 6:00PM EDT by NWS Tallahassee FL\nExpires: 2026-05-17 22:45 Z\nAt 600 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Lenox to 7 miles northeast of Jasper. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nashville, Lakeland, Adel, Valdosta, Lake Park, Hahira, Sparks, Ray City, Alapaha, Moody Air Force Base, Remerton, Meigs, Dasher, Cecil, Barretts, New Lois, Massee, Glory, Hansell, and Allenville.\nGenerated: 2026-05-17 22:27:07 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 6:00PM EDT by NWS Tallahassee FL\nExpires: 2026-05-17 22:45 Z\nAt 600 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Lenox to 7 miles northeast of Jasper. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nashville, Lakeland, Adel, Valdosta, Lake Park, Hahira, Sparks, Ray City, Alapaha, Moody Air Force Base, Remerton, Meigs, Dasher, Cecil, Barretts, New Lois, Massee, Glory, Hansell, and Allenville.\nGenerated: 2026-05-17 22:30:17 UTC"
   30.8500, -83.0100
   30.8500, -83.0900
   30.8000, -83.1000
@@ -113,13 +121,4 @@ Line: 2,,"Special Weather Statement issued May 17 at 6:00PM EDT by NWS Tallahass
   31.1400, -82.9700
   30.8700, -82.9700
   30.8500, -83.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 5:58PM EDT by NWS Jacksonville FL\nExpires: 2026-05-17 22:30 Z\nAt 558 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near White Springs, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph, pea size hail, and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... White Springs, Belmont, Winfield, and Suwannee Valley.\nGenerated: 2026-05-17 22:27:07 UTC"
-  30.2400, -82.6400
-  30.2500, -82.8000
-  30.6100, -82.8900
-  30.5900, -82.6900
-  30.2400, -82.6400
 End:
