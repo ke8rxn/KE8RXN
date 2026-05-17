@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-17 18:40:14 UTC
+; Generated: 2026-05-17 18:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 2:28PM EDT by NWS Tallahassee FL\nExpires: 2026-05-17 19:15 Z\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Mayo, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mayo, Cross City, Tennille, Cooks Hammock, Shamrock, Clara, Cross City Airport, Carbur, Hines, Jonesboro, Salem, Eugene, and San Pedro Junction.\nGenerated: 2026-05-17 18:40:14 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 1:44PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-17 19:00 Z\nAt 144 PM CDT, Doppler radar was tracking a strong thunderstorm near North Fond Du Lac, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fond Du Lac, North Fond Du Lac, Southern Lake Winnebago, Van Dyne, and Pipe.  This includes Interstate 41 between mile markers 101 and 109.\nGenerated: 2026-05-17 18:45:16 UTC"
+  43.7900, -88.4700
+  43.8900, -88.6600
+  43.8900, -88.4100
+  43.9400, -88.4000
+  43.9400, -88.2500
+  43.7900, -88.4700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 17 at 2:28PM EDT by NWS Tallahassee FL\nExpires: 2026-05-17 19:15 Z\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Mayo, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mayo, Cross City, Tennille, Cooks Hammock, Shamrock, Clara, Cross City Airport, Carbur, Hines, Jonesboro, Salem, Eugene, and San Pedro Junction.\nGenerated: 2026-05-17 18:45:16 UTC"
   29.5800, -83.0400
   29.5900, -83.1900
   29.7300, -83.3400
@@ -16,29 +26,10 @@ Line: 2,,"Special Weather Statement issued May 17 at 2:28PM EDT by NWS Tallahass
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 2:23PM EDT by NWS Jacksonville FL\nExpires: 2026-05-17 19:00 Z\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm over Screven, or 9 miles northeast of Patterson, moving northwest at 10 mph.  HAZARD...Wind gusts around 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Screven, Odum, and Offerman.\nGenerated: 2026-05-17 18:40:14 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 2:23PM EDT by NWS Jacksonville FL\nExpires: 2026-05-17 19:00 Z\nAt 222 PM EDT, Doppler radar was tracking a strong thunderstorm over Screven, or 9 miles northeast of Patterson, moving northwest at 10 mph.  HAZARD...Wind gusts around 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Screven, Odum, and Offerman.\nGenerated: 2026-05-17 18:45:16 UTC"
   31.4500, -81.9200
   31.4100, -82.1100
   31.6200, -82.1900
   31.6800, -81.9900
   31.4500, -81.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 12:13PM MDT by NWS Grand Junction CO\nExpires: 2026-05-17 18:45 Z\nAt 1213 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Rangely, or 51 miles southeast of Vernal, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Rio Blanco County.  This includes Colorado 139 between mile markers 54 and 68.\nGenerated: 2026-05-17 18:40:14 UTC"
-  39.8200, -108.9300
-  39.8900, -109.0000
-  40.0700, -108.7300
-  39.8600, -108.6000
-  39.8200, -108.9300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 1:08PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-17 18:45 Z\nAt 107 PM CDT, Doppler radar was tracking a strong thunderstorm near Theresa, or near Mayville, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated. Juneau airport reported a wind gust to 48 mph at 12:55 PM.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... West Bend, Waupun, Mayville, Kewaskum, Horicon, Lomira, Campbellsport, Theresa, Newburg, Oakfield, Iron Ridge, Addison, Ashford, Byron, Eden, Woodland, Brownsville, Wayne, Kekoskee, and Nenno.\nGenerated: 2026-05-17 18:40:14 UTC"
-  43.4000, -88.0400
-  43.3500, -88.5000
-  43.4600, -88.6300
-  43.6700, -88.7500
-  43.7200, -88.0600
-  43.4000, -88.0400
 End:
