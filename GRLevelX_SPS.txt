@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-18 03:40:12 UTC
+; Generated: 2026-05-18 03:45:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 10:30PM CDT by NWS Topeka KS\nExpires: 2026-05-18 04:00 Z\nAt 1029 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles west of Wakefield to 4 miles southwest of Manchester. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Wakefield, Riley, Milford, Manchester, and Talmage.\nGenerated: 2026-05-18 03:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 10:30PM CDT by NWS Topeka KS\nExpires: 2026-05-18 04:00 Z\nAt 1029 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles west of Wakefield to 4 miles southwest of Manchester. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Wakefield, Riley, Milford, Manchester, and Talmage.\nGenerated: 2026-05-18 03:45:11 UTC"
   39.0700, -97.3700
   39.2800, -97.1500
   39.3000, -96.7900
@@ -15,7 +15,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 10:30PM CDT by NWS Topeka K
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 10:25PM CDT by NWS Topeka KS\nExpires: 2026-05-18 04:30 Z\nAt 1025 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles east of Bern to 3 miles west of Soldier. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Holton, Hiawatha, Sabetha, Seneca, Horton, Onaga, Centralia, Wetmore, Everest, Fairview, Robinson, Morrill, Whiting, Circleville, Bern, Corning, Netawaka, Soldier, Havensville, and Goff.\nGenerated: 2026-05-18 03:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 10:25PM CDT by NWS Topeka KS\nExpires: 2026-05-18 04:30 Z\nAt 1025 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles east of Bern to 3 miles west of Soldier. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Holton, Hiawatha, Sabetha, Seneca, Horton, Onaga, Centralia, Wetmore, Everest, Fairview, Robinson, Morrill, Whiting, Circleville, Bern, Corning, Netawaka, Soldier, Havensville, and Goff.\nGenerated: 2026-05-18 03:45:11 UTC"
   40.0000, -95.3400
   39.6500, -95.3400
   39.6500, -95.5600
@@ -23,27 +23,4 @@ Line: 2,,"Special Weather Statement issued May 17 at 10:25PM CDT by NWS Topeka K
   39.4800, -96.1800
   40.0000, -96.0900
   40.0000, -95.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 9:15PM MDT by NWS Goodland KS\nExpires: 2026-05-18 03:45 Z\nAt 914 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Yuma, moving northeast at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This strong thunderstorm will be near... Eckley around 930 PM MDT.\nGenerated: 2026-05-18 03:40:12 UTC"
-  40.1000, -102.2300
-  39.7400, -102.6800
-  39.8200, -102.8000
-  40.0000, -102.8000
-  40.0000, -102.7900
-  40.0800, -102.8000
-  40.3000, -102.6500
-  40.1000, -102.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 10:14PM CDT by NWS Dodge City KS\nExpires: 2026-05-18 03:45 Z\nAt 1014 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Otis to 12 miles northeast of Kalvesta. These storms were nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... La Crosse, Otis, Bison, Rush Center, Alexander, and Nekoma around 1020 PM CDT.  Other locations in the path of these storms include Bazine.\nGenerated: 2026-05-18 03:40:12 UTC"
-  38.2700, -99.0300
-  38.0500, -100.1000
-  38.3600, -100.1100
-  38.5100, -99.8200
-  38.7000, -99.1500
-  38.7000, -99.0300
-  38.2700, -99.0300
 End:
