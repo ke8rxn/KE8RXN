@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-18 01:10:17 UTC
+; Generated: 2026-05-18 01:15:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 6:01PM PDT by NWS Spokane WA\nExpires: 2026-05-18 01:30 Z\nAt 600 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Chewelah, or 34 miles west of Priest River, moving south at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Springdale, Valley, and Loon Lake.  This includes U.S. Highway 395 in Washington between mile markers 190 and 205.\nGenerated: 2026-05-18 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 6:01PM PDT by NWS Spokane WA\nExpires: 2026-05-18 01:30 Z\nAt 600 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Chewelah, or 34 miles west of Priest River, moving south at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Springdale, Valley, and Loon Lake.  This includes U.S. Highway 395 in Washington between mile markers 190 and 205.\nGenerated: 2026-05-18 01:15:12 UTC"
   48.2600, -117.7200
   48.2400, -117.5600
   48.0400, -117.5500
@@ -14,7 +14,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 6:01PM PDT by NWS Spokane W
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 6:56PM MDT by NWS Denver CO\nExpires: 2026-05-18 01:30 Z\nAt 656 PM MDT, Doppler radar was tracking a strong thunderstorm near Byers, or 38 miles east of Denver, moving northeast at 35 mph.  HAZARD...Wind gusts up to 30 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Byers.\nGenerated: 2026-05-18 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 6:56PM MDT by NWS Denver CO\nExpires: 2026-05-18 01:30 Z\nAt 656 PM MDT, Doppler radar was tracking a strong thunderstorm near Byers, or 38 miles east of Denver, moving northeast at 35 mph.  HAZARD...Wind gusts up to 30 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Byers.\nGenerated: 2026-05-18 01:15:12 UTC"
   39.5800, -104.2100
   39.6500, -104.3300
   39.9300, -104.1200
@@ -23,17 +23,7 @@ Line: 2,,"Special Weather Statement issued May 17 at 6:56PM MDT by NWS Denver CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 7:51PM CDT by NWS Hastings NE\nExpires: 2026-05-18 01:15 Z\nAt 751 PM CDT, Doppler radar was tracking a strong thunderstorm near Shickley, or 32 miles northwest of Fairbury, moving northeast at 60 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Shickley and Strang around 755 PM CDT. Geneva around 800 PM CDT.\nGenerated: 2026-05-18 01:10:17 UTC"
-  40.2500, -97.7300
-  40.2800, -97.8200
-  40.3700, -97.8200
-  40.7000, -97.5900
-  40.5700, -97.3700
-  40.2500, -97.7300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 7:29PM CDT by NWS Jackson MS\nExpires: 2026-05-18 01:30 Z\nAt 729 PM CDT, Doppler radar was tracking a strong thunderstorm near Gluckstadt, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Madison County.\nGenerated: 2026-05-18 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued May 17 at 7:29PM CDT by NWS Jackson MS\nExpires: 2026-05-18 01:30 Z\nAt 729 PM CDT, Doppler radar was tracking a strong thunderstorm near Gluckstadt, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Madison County.\nGenerated: 2026-05-18 01:15:12 UTC"
   32.5900, -89.7900
   32.5900, -89.8000
   32.5800, -89.8200
@@ -51,40 +41,4 @@ Line: 2,,"Special Weather Statement issued May 17 at 7:29PM CDT by NWS Jackson M
   32.7300, -89.8400
   32.6000, -89.7700
   32.5900, -89.7900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 8:24PM EDT by NWS Tallahassee FL\nExpires: 2026-05-18 01:15 Z\nAt 824 PM EDT, Doppler radar was tracking a strong thunderstorm near Luraville, or 8 miles northwest of Mayo. The strong thunderstorm is nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mayo, Townsend, Chancey, Buckville, Day, Alton, and Mayo Junction.\nGenerated: 2026-05-18 01:10:17 UTC"
-  30.0700, -83.3000
-  30.1700, -83.3700
-  30.2600, -83.3700
-  30.2600, -83.2600
-  30.2500, -83.2400
-  30.2400, -83.2500
-  30.2300, -83.2400
-  30.1800, -83.2500
-  30.1700, -83.2300
-  30.1500, -83.2400
-  30.1100, -83.2300
-  30.1000, -83.1800
-  30.1100, -83.1600
-  30.1000, -83.1300
-  30.1000, -83.1200
-  30.0900, -83.1100
-  30.0800, -83.0700
-  30.0600, -83.0700
-  30.0300, -83.0200
-  30.0700, -83.3000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 17 at 7:17PM CDT by NWS Jackson MS\nExpires: 2026-05-18 01:15 Z\nAt 717 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles southeast of Myrleville, or 8 miles northwest of Canton, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Canton around 720 PM CDT. Way around 725 PM CDT. Vaughan around 730 PM CDT.\nGenerated: 2026-05-18 01:10:17 UTC"
-  32.5000, -90.0800
-  32.5000, -90.2400
-  32.5800, -90.2600
-  32.6100, -90.3900
-  32.9200, -90.4200
-  32.8500, -90.0500
-  32.7300, -89.8400
-  32.5000, -90.0800
 End:
