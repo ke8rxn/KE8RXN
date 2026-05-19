@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-19 05:10:13 UTC
+; Generated: 2026-05-19 05:20:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 12:02AM CDT by NWS Green Bay WI\nExpires: 2026-05-19 05:45 Z\nAt 1202 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of Antigo to 6 miles south of Wittenberg to 6 miles east of Amherst to near Redgranite. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Antigo, Waupaca, Redgranite, Wittenberg, and Chain O' Lakes-King around 1205 AM CDT. Fremont, Lake Poygan, and Neopit around 1215 AM CDT. Clintonville around 1220 AM CDT. New London and Embarrass around 1225 AM CDT. Shawano, Big Smokey Falls, Legend Lake, and Keshena around 1230 AM CDT. Navarino Wildlife Area and South Branch around 1240 AM CDT.  Other locations impacted by these storms include Butte Des Morts, Lake Noseum, Northport, Hayes, Borth, Whitcomb, Zittau, Harbor Springs, Allenville, and Iola.\nGenerated: 2026-05-19 05:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 12:09AM CDT by NWS Marquette MI\nExpires: 2026-05-19 05:45 Z\nAt 1209 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Rice Creek Natural Area to 8 miles northwest of Eagle River. Movement was northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Watersmeet, Tamarack Lake, Thousand Island Lake, and Pomeroy Lake.\nGenerated: 2026-05-19 05:20:15 UTC"
+  46.5000, -89.3800
+  46.4900, -89.3600
+  46.3300, -89.3600
+  46.3300, -89.0200
+  46.3200, -88.9900
+  46.1900, -88.9900
+  46.1300, -89.0700
+  46.2600, -89.7200
+  46.5000, -89.3800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 19 at 12:02AM CDT by NWS Green Bay WI\nExpires: 2026-05-19 05:45 Z\nAt 1202 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of Antigo to 6 miles south of Wittenberg to 6 miles east of Amherst to near Redgranite. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Antigo, Waupaca, Redgranite, Wittenberg, and Chain O' Lakes-King around 1205 AM CDT. Fremont, Lake Poygan, and Neopit around 1215 AM CDT. Clintonville around 1220 AM CDT. New London and Embarrass around 1225 AM CDT. Shawano, Big Smokey Falls, Legend Lake, and Keshena around 1230 AM CDT. Navarino Wildlife Area and South Branch around 1240 AM CDT.  Other locations impacted by these storms include Butte Des Morts, Lake Noseum, Northport, Hayes, Borth, Whitcomb, Zittau, Harbor Springs, Allenville, and Iola.\nGenerated: 2026-05-19 05:20:15 UTC"
   43.9800, -88.8900
   43.9800, -89.1300
   45.1100, -89.1600
@@ -13,41 +26,4 @@ Line: 2,,"Special Weather Statement issued May 19 at 12:02AM CDT by NWS Green Ba
   43.9700, -88.4000
   43.9700, -88.8900
   43.9800, -88.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 18 at 11:37PM CDT by NWS Marquette MI\nExpires: 2026-05-19 05:15 Z\nAt 1137 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Squirrel Lake, or 14 miles southeast of Turtle Flambeau Flowage, moving northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marenisco, Watersmeet, Thousand Island Lake, Presque Isle Reservoir, and Pomeroy Lake.\nGenerated: 2026-05-19 05:10:13 UTC"
-  46.5000, -89.7700
-  46.3600, -89.3700
-  46.3300, -89.3600
-  46.3400, -89.3000
-  46.2800, -89.1400
-  46.1800, -89.3200
-  46.3000, -89.9200
-  46.5000, -89.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 18 at 11:33PM CDT by NWS Green Bay WI\nExpires: 2026-05-19 05:15 Z\nAt 1133 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles west of Plainfield, or 14 miles southeast of Wisconsin Rapids, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Plainfield around 1140 PM CDT.  Other locations impacted by this storm include Keene, Heffron, Almond, Mount Morris, Blaine, Bancroft, Wild Rose, Hancock, and Emmons Creek Barrens.\nGenerated: 2026-05-19 05:10:13 UTC"
-  44.2400, -89.6000
-  44.2500, -89.7200
-  44.3000, -89.7200
-  44.4600, -89.2600
-  44.3600, -89.2200
-  44.2500, -89.2300
-  44.2400, -89.1800
-  44.1100, -89.1300
-  44.0700, -89.6000
-  44.2400, -89.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 18 at 11:13PM CDT by NWS Green Bay WI\nExpires: 2026-05-19 05:15 Z\nAt 1112 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Butternut to 12 miles southwest of Mosinee. Movement was northeast at 55 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Tripoli, New Wood Wildlife Area, and Willow Lake around 1120 PM CDT. Merrill and Council Grounds State Park around 1125 PM CDT. Lac Du Flambeau, Tomahawk, Willow Reservoir, Squirrel Lake, and Birch Trails Girl Scout Camp around 1130 PM CDT. Gilbert around 1135 PM CDT. Winchester and Dutch Corners around 1140 PM CDT. Harrison, Woodboro, and Rice Creek Natural Area around 1145 PM CDT. Rhinelander, Newbold, and Parrish around 1150 PM CDT. Boulder Junction, Border Lakes Natural Area, Rainbow Flowage, and Crystal Lake Scout Reservation around 1155 PM CDT.  Other locations impacted by these storms include Sayner, Ackley Wildlife Area, Bradley, Dudley, Kelly Lynn Bog Natural Area, Lower Tomahawk River Natural Area, Harshaw, Ormsby, Hazelhurst, and Upper Buckatabon Springs Natural Area.\nGenerated: 2026-05-19 05:10:13 UTC"
-  46.1900, -89.3500
-  45.1200, -89.2200
-  45.1200, -90.0500
-  45.9800, -90.0500
-  45.9800, -89.9300
-  46.3000, -89.9300
-  46.1900, -89.3500
 End:
