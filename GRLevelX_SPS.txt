@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-19 08:25:18 UTC
+; Generated: 2026-05-19 08:35:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 2:42AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-19 08:45 Z\nAt 241 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near West Sinton to near Robstown to 6 miles northeast of Driscoll to near Kingsville Naval Air Station to 9 miles west of Sarita. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Corpus Christi, Kingsville, Portland, Robstown, Rockport, Sinton, Port Aransas, Taft, Driscoll, Corpus Christi International Airport, Ingleside, Aransas Pass, Bishop, Odem, Gregory, Ingleside On The Bay, San Patricio, Bayside, Palm Harbor, and Corpus Christi North Beach.  This includes the following highways... Interstate 37 between mile markers 1 and 29. US Highway 181 between mile markers 620 and 648. US Highway 77 between mile markers 646 and 708.\nGenerated: 2026-05-19 08:25:18 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 3:26AM CDT by NWS Tulsa OK\nExpires: 2026-05-19 09:00 Z\nAt 325 AM CDT, Doppler radar indicated a strong thunderstorm 3 miles east of Nowata, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Nowata...                         Delaware... Watova...                         Centralia...\nGenerated: 2026-05-19 08:35:16 UTC"
+  36.7700, -95.3200
+  36.6000, -95.6100
+  36.6000, -95.6600
+  36.7000, -95.7600
+  36.9100, -95.5300
+  36.7700, -95.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 19 at 2:42AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-19 08:45 Z\nAt 241 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near West Sinton to near Robstown to 6 miles northeast of Driscoll to near Kingsville Naval Air Station to 9 miles west of Sarita. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Corpus Christi, Kingsville, Portland, Robstown, Rockport, Sinton, Port Aransas, Taft, Driscoll, Corpus Christi International Airport, Ingleside, Aransas Pass, Bishop, Odem, Gregory, Ingleside On The Bay, San Patricio, Bayside, Palm Harbor, and Corpus Christi North Beach.  This includes the following highways... Interstate 37 between mile markers 1 and 29. US Highway 181 between mile markers 620 and 648. US Highway 77 between mile markers 646 and 708.\nGenerated: 2026-05-19 08:35:16 UTC"
   27.2100, -97.9800
   27.2600, -97.9800
   27.2600, -98.0300
@@ -27,17 +37,4 @@ Line: 2,,"Special Weather Statement issued May 19 at 2:42AM CDT by NWS Corpus Ch
   27.2500, -97.8300
   27.2400, -97.9200
   27.2100, -97.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 2:29AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-19 08:30 Z\nAt 229 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Lagarto to near Bayside. Movement was northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beeville, Sinton, Mathis, Refugio, George West, Woodsboro, Skidmore, St. Paul, Lake City, Quintana, Lagarto, River Creek Acres, Tynan, Annarose, Argenta, Papalote, Bonnie View, Mount Lucas, Dinero, and Blanconia.  This includes the following highways... Interstate 37 between mile markers 30 and 64. US Highway 281 between mile markers 626 and 652. US Highway 181 between mile markers 588 and 624. US Highway 183 between mile markers 658 and 668. US Highway 59 between mile markers 692 and 732. US Highway 77 between mile markers 606 and 646.\nGenerated: 2026-05-19 08:25:18 UTC"
-  28.4800, -97.0900
-  28.1100, -97.2000
-  28.0900, -97.2900
-  28.0200, -97.4300
-  28.0400, -97.7200
-  28.0400, -98.1800
-  28.1600, -98.2500
-  28.4400, -98.1600
-  28.4800, -97.0900
 End:
