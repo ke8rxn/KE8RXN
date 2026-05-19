@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-19 07:10:13 UTC
+; Generated: 2026-05-19 07:20:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 2:03AM CDT by NWS Tulsa OK\nExpires: 2026-05-19 07:45 Z\nAt 203 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles south of Shidler to 8 miles northeast of Sooner Lake. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pawhuska...                       Fairfax... Shidler...                        Ralston... Burbank...                        Sooner Lake...\nGenerated: 2026-05-19 07:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 2:11AM CDT by NWS Norman OK\nExpires: 2026-05-19 07:45 Z\nAt 211 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles northwest of Arapaho to 7 miles northeast of Retrop. Movement was east at 20 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clinton, Burns Flat, Arapaho, Dill City, Bessie, Foss, and Stafford.\nGenerated: 2026-05-19 07:20:14 UTC"
+  35.6400, -99.1000
+  35.6500, -98.7400
+  35.1900, -99.1500
+  35.1900, -99.3600
+  35.2800, -99.3700
+  35.6400, -99.1000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 19 at 2:03AM CDT by NWS Tulsa OK\nExpires: 2026-05-19 07:45 Z\nAt 203 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles south of Shidler to 8 miles northeast of Sooner Lake. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pawhuska...                       Fairfax... Shidler...                        Ralston... Burbank...                        Sooner Lake...\nGenerated: 2026-05-19 07:20:14 UTC"
   36.7900, -96.6600
   36.7400, -96.2000
   36.5500, -96.4300
@@ -17,7 +27,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 2:03AM CDT by NWS Tulsa OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 1:52AM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-19 08:15 Z\nAt 150 AM CDT, Doppler radar was tracking gusty winds on the backside of the showers along a line extending from 8 miles northeast of Antigo to near Fort Mc Coy to near Blue Grass. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madison, Sun Prairie, Fitchburg, Middleton, Waunakee, Baraboo, Monroe, Verona, Portage, Oregon, Reedsburg, McFarland, Monona, Mount Horeb, Windsor, Dodgeville, Prairie Du Sac, Sauk City, Brodhead, and Wisconsin Dells.  This includes the following highways... Interstate 90/94 between mile markers 88 and 108. Interstate 39 between mile markers 85 and 119. Interstate 39/90/94 between mile markers 109 and 110, and between mile markers 112 and 137. U.S. Highway 18 between mile markers 49 and 84. U.S. Highway 12 between mile markers 213 and 223, and between mile markers 249 and 267. U.S. Highway 151 between mile markers 23 and 47, and between mile markers 98 and 99. Interstate 39/90 between mile markers 138 and 139.\nGenerated: 2026-05-19 07:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 1:52AM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-05-19 08:15 Z\nAt 150 AM CDT, Doppler radar was tracking gusty winds on the backside of the showers along a line extending from 8 miles northeast of Antigo to near Fort Mc Coy to near Blue Grass. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madison, Sun Prairie, Fitchburg, Middleton, Waunakee, Baraboo, Monroe, Verona, Portage, Oregon, Reedsburg, McFarland, Monona, Mount Horeb, Windsor, Dodgeville, Prairie Du Sac, Sauk City, Brodhead, and Wisconsin Dells.  This includes the following highways... Interstate 90/94 between mile markers 88 and 108. Interstate 39 between mile markers 85 and 119. Interstate 39/90/94 between mile markers 109 and 110, and between mile markers 112 and 137. U.S. Highway 18 between mile markers 49 and 84. U.S. Highway 12 between mile markers 213 and 223, and between mile markers 249 and 267. U.S. Highway 151 between mile markers 23 and 47, and between mile markers 98 and 99. Interstate 39/90 between mile markers 138 and 139.\nGenerated: 2026-05-19 07:20:14 UTC"
   43.8800, -89.1700
   43.8700, -89.2000
   43.7700, -89.1700
@@ -39,16 +49,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 1:52AM CDT by NWS Milwaukee
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 1:50AM CDT by NWS Quad Cities IA IL\nExpires: 2026-05-19 07:15 Z\nAt 149 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Avon to near Littleton. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Strong winds could break small tree limbs and blow around unsecured objects.  Locations impacted include... Macomb, Bushnell, Industry, Good Hope, Prairie City, Bardolph, Western Illinois University, Adair, Fandon, New Philadelphia, Pennington Point, Macomb Municipal Airport, Doddsville, Scottsburg, Spring Lake, Prairie City Airport, and McDonough County 4-H Grounds.\nGenerated: 2026-05-19 07:10:13 UTC"
-  40.2800, -90.8400
-  40.5700, -90.7100
-  40.6200, -90.4500
-  40.2800, -90.4500
-  40.2800, -90.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 1:46AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-19 07:45 Z\nAt 146 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Tilden, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Choke Canyon, Tilden, Calliham, Crowther, and Cross.\nGenerated: 2026-05-19 07:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 1:46AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-19 07:45 Z\nAt 146 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Tilden, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Choke Canyon, Tilden, Calliham, Crowther, and Cross.\nGenerated: 2026-05-19 07:20:14 UTC"
   28.6100, -98.3300
   28.6300, -98.3100
   28.5300, -98.2400
@@ -58,31 +59,4 @@ Line: 2,,"Special Weather Statement issued May 19 at 1:46AM CDT by NWS Corpus Ch
   28.6400, -98.5700
   28.6400, -98.3400
   28.6100, -98.3300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 1:46AM CDT by NWS Lincoln IL\nExpires: 2026-05-19 07:15 Z\nAt 146 AM CDT, Doppler radar was tracking a strong thunderstorm near New Philadelphia, or 14 miles northwest of Lewistown, moving east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lewistown, Cuba, Avon, Fairview, Bernadotte, Smithfield, Marietta, Ellisville, Fiatt, and Middle Grove.\nGenerated: 2026-05-19 07:10:13 UTC"
-  40.6600, -90.4400
-  40.7100, -90.1000
-  40.4000, -90.1200
-  40.3700, -90.4500
-  40.6600, -90.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 1:43AM CDT by NWS Norman OK\nExpires: 2026-05-19 07:15 Z\nAt 142 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southwest of Putnam to near Carter. Movement was southeast at 15 mph.  HAZARD...Wind gusts of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elk City, Clinton, Burns Flat, Thomas, Arapaho, Canute, Custer City, Butler, Carter, Foss, Retrop, Foss Reservoir, and Stafford.\nGenerated: 2026-05-19 07:10:13 UTC"
-  35.8100, -98.7100
-  35.1200, -99.3200
-  35.1200, -99.6700
-  35.8100, -99.1200
-  35.8100, -98.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 1:31AM CDT by NWS Quad Cities IA IL\nExpires: 2026-05-19 07:15 Z\nAt 131 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Orion to near Rio. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Strong winds could break small tree limbs and blow around unsecured objects.  Locations impacted include... Kewanee, Cambridge, Galva, Orion, Atkinson, Annawan, Woodhull, New Windsor, Alpha, Andover, Lynn Center, Osco, Bishop Hill, Henry County Fairgrounds, Ophiem, German Corner, Sunny Hill, Nekoma, Kewanee Municipal Airport, and Ulah.  This includes the following highways... Interstate 80 in Illinois between mile markers 21 and 35. Interstate 74 in Illinois between mile markers 17 and 33.\nGenerated: 2026-05-19 07:10:13 UTC"
-  41.1500, -89.8700
-  41.1500, -90.4400
-  41.3900, -90.4300
-  41.4500, -89.8600
-  41.1500, -89.8700
 End:
