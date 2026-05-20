@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-20 18:20:17 UTC
+; Generated: 2026-05-20 18:25:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 2:12PM EDT by NWS Louisville KY\nExpires: 2026-05-20 18:45 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Nicholasville to near Lancaster to near Stanford. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richmond, Lancaster, Mccreary, Round Hill, Caleast, Peytontown, Gilbert, Buggytown, Cartersville, and Rowland.\nGenerated: 2026-05-20 18:20:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 1:23PM CDT by NWS Louisville KY\nExpires: 2026-05-20 19:00 Z\nAt 123 PM CDT, Doppler radar was tracking a strong thunderstorm near Burkesville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albany, Burkesville, Littrell, Desda, Cartwright, Snow, Cundiff, Ida, Modoc, and Ellington.\nGenerated: 2026-05-20 18:25:16 UTC"
+  36.6400, -85.3900
+  36.8700, -85.4800
+  37.0500, -85.2300
+  36.7300, -85.0400
+  36.6400, -85.3900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 20 at 2:12PM EDT by NWS Louisville KY\nExpires: 2026-05-20 18:45 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Nicholasville to near Lancaster to near Stanford. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richmond, Lancaster, Mccreary, Round Hill, Caleast, Peytontown, Gilbert, Buggytown, Cartersville, and Rowland.\nGenerated: 2026-05-20 18:25:16 UTC"
   37.4800, -84.4400
   37.4800, -84.4500
   37.4700, -84.4500
@@ -18,7 +27,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 2:12PM EDT by NWS Louisvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:00PM CDT by NWS Huntsville AL\nExpires: 2026-05-20 18:45 Z\nAt 100 PM CDT, Doppler radar was tracking a strong thunderstorm near Ider, or 10 miles south of Bridgeport, moving northeast at 10 mph.  HAZARD...Wind gusts of 40-50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bridgeport, Fabius, and Higdon.\nGenerated: 2026-05-20 18:20:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 1:00PM CDT by NWS Huntsville AL\nExpires: 2026-05-20 18:45 Z\nAt 100 PM CDT, Doppler radar was tracking a strong thunderstorm near Ider, or 10 miles south of Bridgeport, moving northeast at 10 mph.  HAZARD...Wind gusts of 40-50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bridgeport, Fabius, and Higdon.\nGenerated: 2026-05-20 18:25:16 UTC"
   34.8400, -85.6100
   34.8300, -85.6300
   34.7900, -85.6400
