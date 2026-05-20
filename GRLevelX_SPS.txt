@@ -3,9 +3,65 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-20 00:25:12 UTC
+; Generated: 2026-05-20 00:30:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 7:20PM CDT by NWS Shreveport LA\nExpires: 2026-05-20 01:00 Z\nAt 720 PM CDT, Doppler radar was tracking an area of strong thunderstorms extending from 10 miles south of Diboll northeast to near Broaddus, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lufkin, Diboll, Huntington, Etoile, Burke, Zavalla, Chireno, Broaddus, Shawnee, Dolan and Homer.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 7:29PM CDT by NWS Lake Charles LA\nExpires: 2026-05-20 01:15 Z\nAt 728 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Anacoco to near Cut And Shoot. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Ridder, Jasper, Leesville, Woodville, Newton, Kirbyville, Rosepine, Merryville, Boyce, Anacoco, Colmesneil, Chester, Rockland, Town Bluff, Thicket, Toledo Bend Dam, Ebenezer, Hineston, Lena, and Fred.  This includes Interstate 49 between mile markers 98 and 109.\nGenerated: 2026-05-20 00:30:14 UTC"
+  30.4900, -94.5400
+  31.0100, -94.6500
+  31.0600, -94.5600
+  31.0300, -94.4700
+  31.1600, -93.9100
+  31.1700, -93.5800
+  31.2800, -93.5300
+  31.2800, -93.4400
+  31.3600, -93.3900
+  31.3500, -92.9500
+  31.5100, -92.7300
+  31.5000, -92.6800
+  31.4500, -92.7100
+  31.4000, -92.6900
+  31.3900, -92.6400
+  31.1400, -92.6200
+  30.2700, -94.6500
+  30.4900, -94.7300
+  30.4900, -94.5400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 19 at 7:26PM CDT by NWS San Angelo TX\nExpires: 2026-05-20 01:15 Z\nAt 726 PM CDT, Doppler radar was tracking a strong thunderstorm near Eldorado, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Eldorado and The Intersection Of Ranch Road 1828 And Ranch Road 915.\nGenerated: 2026-05-20 00:30:14 UTC"
+  30.7900, -100.7400
+  31.0900, -100.6400
+  31.0900, -100.2300
+  30.7100, -100.4700
+  30.7100, -100.4900
+  30.7900, -100.7400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 19 at 8:26PM EDT by NWS Cleveland OH\nExpires: 2026-05-20 01:30 Z\nAt 826 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles northwest of Northwest Harborcreek to near Conneaut to Madison. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Erie, Ashtabula, Meadville, Conneaut, Geneva-On-The-Lake, Corry, Edinboro, Geneva, North East, Union City, Girard, North Kingsville, Cambridge Springs, Orwell, Waterford, Albion, Andover, Linesville, Wattsburg, and Pymatuning Central.\nGenerated: 2026-05-20 00:30:14 UTC"
+  42.0100, -79.7600
+  41.9900, -79.6100
+  41.8200, -79.6200
+  41.5000, -80.5200
+  41.5000, -81.0100
+  41.8600, -81.0000
+  41.8700, -80.9000
+  41.9100, -80.8000
+  41.9200, -80.7200
+  42.0300, -80.3400
+  42.1400, -80.0900
+  42.1500, -80.1100
+  42.1400, -80.1400
+  42.1700, -80.1200
+  42.1700, -80.0800
+  42.1500, -80.1000
+  42.1500, -80.0600
+  42.2700, -79.7600
+  42.0100, -79.7600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 19 at 7:20PM CDT by NWS Shreveport LA\nExpires: 2026-05-20 01:00 Z\nAt 720 PM CDT, Doppler radar was tracking an area of strong thunderstorms extending from 10 miles south of Diboll northeast to near Broaddus, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lufkin, Diboll, Huntington, Etoile, Burke, Zavalla, Chireno, Broaddus, Shawnee, Dolan and Homer.\nGenerated: 2026-05-20 00:30:14 UTC"
   31.2500, -94.8800
   31.4900, -94.3400
   31.1200, -94.0400
@@ -25,7 +81,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 7:20PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 7:20PM CDT by NWS Jackson MS\nExpires: 2026-05-20 01:30 Z\nAt 720 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Liddieville, or 8 miles southwest of Winnsboro, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Winnsboro and Liddieville around 725 PM CDT.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 7:20PM CDT by NWS Jackson MS\nExpires: 2026-05-20 01:30 Z\nAt 720 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Liddieville, or 8 miles southwest of Winnsboro, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Winnsboro and Liddieville around 725 PM CDT.\nGenerated: 2026-05-20 00:30:14 UTC"
   31.9300, -92.0100
   31.9300, -91.9000
   31.9700, -91.9000
@@ -46,7 +102,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 7:20PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 8:14PM EDT by NWS Cleveland OH\nExpires: 2026-05-20 01:15 Z\nAt 814 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Galion to near Ashley to near Plain City. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marion, Mount Vernon, Mount Gilead, Fredericktown, Gambier, Utica, Cardington, Centerburg, Ashley, Danville, Waldo, Chesterville, Sparta, Waterford, Caledonia, Edison, Marengo, Fulton, Martinsburg, and Gann.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 8:14PM EDT by NWS Cleveland OH\nExpires: 2026-05-20 01:15 Z\nAt 814 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Galion to near Ashley to near Plain City. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marion, Mount Vernon, Mount Gilead, Fredericktown, Gambier, Utica, Cardington, Centerburg, Ashley, Danville, Waldo, Chesterville, Sparta, Waterford, Caledonia, Edison, Marengo, Fulton, Martinsburg, and Gann.\nGenerated: 2026-05-20 00:30:14 UTC"
   40.2400, -82.4800
   40.2700, -82.4800
   40.2700, -82.7400
@@ -66,7 +122,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 8:14PM EDT by NWS Cleveland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 8:05PM EDT by NWS Cleveland OH\nExpires: 2026-05-20 01:00 Z\nAt 804 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Willoughby to near Brunswick to near Ashland. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cleveland, Akron, Canton, Mansfield, Wooster, Painesville, Willowick, Ravenna, Chardon, Fairport Harbor, Millersburg, Parma, Cuyahoga Falls, Euclid, Mentor, Cleveland Heights, Massillon, North Royalton, Kent, and Barberton.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 8:05PM EDT by NWS Cleveland OH\nExpires: 2026-05-20 01:00 Z\nAt 804 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Willoughby to near Brunswick to near Ashland. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cleveland, Akron, Canton, Mansfield, Wooster, Painesville, Willowick, Ravenna, Chardon, Fairport Harbor, Millersburg, Parma, Cuyahoga Falls, Euclid, Mentor, Cleveland Heights, Massillon, North Royalton, Kent, and Barberton.\nGenerated: 2026-05-20 00:30:14 UTC"
   40.5200, -82.1800
   40.5700, -82.1800
   40.5500, -82.6200
@@ -86,7 +142,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 8:05PM EDT by NWS Cleveland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 7:03PM CDT by NWS San Angelo TX\nExpires: 2026-05-20 01:00 Z\nAt 702 PM CDT, Doppler radar was tracking strong thunderstorms in southeastern Menard and northeastern Kimble counties, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mason, Art, Pontotoc, Loyal Valley, Yates Crossing, Saline, Streeter, Hedwigs Hill, Hilda, Long Mountain, Grit, London, Hext, Erna, Us- 377 Near The Kimble- Menard County Line, The Intersection Of Highway 29 And Ranch Road 1222, Us-87 Near The Mason-Gillespie County Line, and Koockville.  This includes Interstate 10 between Mile Markers 452 and 455.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 7:03PM CDT by NWS San Angelo TX\nExpires: 2026-05-20 01:00 Z\nAt 702 PM CDT, Doppler radar was tracking strong thunderstorms in southeastern Menard and northeastern Kimble counties, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mason, Art, Pontotoc, Loyal Valley, Yates Crossing, Saline, Streeter, Hedwigs Hill, Hilda, Long Mountain, Grit, London, Hext, Erna, Us- 377 Near The Kimble- Menard County Line, The Intersection Of Highway 29 And Ranch Road 1222, Us-87 Near The Mason-Gillespie County Line, and Koockville.  This includes Interstate 10 between Mile Markers 452 and 455.\nGenerated: 2026-05-20 00:30:14 UTC"
   30.5100, -99.8500
   30.8600, -99.6600
   30.9200, -98.9600
@@ -95,7 +151,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 7:03PM CDT by NWS San Angel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 6:59PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-20 00:45 Z\nAt 658 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Diboll to near Livingston to 8 miles east of New Waverly. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Southeastern Huntsville, Livingston, Shepherd, Onalaska, Corrigan, Groveton, New Waverly, Coldspring, Point Blank, Goodrich, Seven Oaks, Sebastopol, Lake Livingston State Park, Alabama-Coushatta Reservation, West Livingston, Leggett, Moscow, Oakhurst, Segno, and Evergreen.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 6:59PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-20 00:45 Z\nAt 658 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Diboll to near Livingston to 8 miles east of New Waverly. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Southeastern Huntsville, Livingston, Shepherd, Onalaska, Corrigan, Groveton, New Waverly, Coldspring, Point Blank, Goodrich, Seven Oaks, Sebastopol, Lake Livingston State Park, Alabama-Coushatta Reservation, West Livingston, Leggett, Moscow, Oakhurst, Segno, and Evergreen.\nGenerated: 2026-05-20 00:30:14 UTC"
   30.4400, -95.1000
   30.5000, -95.2900
   30.5100, -95.4900
@@ -119,7 +175,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 6:59PM CDT by NWS Houston/G
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 6:53PM CDT by NWS Fort Worth TX\nExpires: 2026-05-20 01:00 Z\nAt 652 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Victor to Bartlett. Movement was northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Lampasas, Salado, and Holland around 700 PM CDT. Stillhouse Hollow Lake around 715 PM CDT. Killeen and Kempner around 720 PM CDT. Copperas Cove around 725 PM CDT. Harker Heights, Belton, and Little River-Academy around 730 PM CDT.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 6:53PM CDT by NWS Fort Worth TX\nExpires: 2026-05-20 01:00 Z\nAt 652 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Victor to Bartlett. Movement was northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Lampasas, Salado, and Holland around 700 PM CDT. Stillhouse Hollow Lake around 715 PM CDT. Killeen and Kempner around 720 PM CDT. Copperas Cove around 725 PM CDT. Harker Heights, Belton, and Little River-Academy around 730 PM CDT.\nGenerated: 2026-05-20 00:30:14 UTC"
   30.8700, -97.6200
   30.9100, -97.8300
   31.0400, -97.9100
@@ -134,31 +190,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 6:53PM CDT by NWS Fort Wort
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 6:49PM CDT by NWS Shreveport LA\nExpires: 2026-05-20 00:30 Z\nAt 649 PM CDT, Doppler radar was tracking a strong thunderstorm near Sterlington, or 11 miles northwest of Swartz, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Swartz, Sterlington, Deshard, Spencer, Loch Lomon, Guthrie, Rocky Branch, Fairbanks, Perryville and Haile.\nGenerated: 2026-05-20 00:25:12 UTC"
-  32.6800, -92.2600
-  32.9600, -92.0800
-  32.9200, -92.0700
-  32.8800, -92.0800
-  32.8400, -92.0600
-  32.8300, -92.0700
-  32.7900, -92.0500
-  32.7400, -92.0500
-  32.7300, -92.0700
-  32.7100, -92.0600
-  32.7000, -92.0600
-  32.7000, -92.0400
-  32.6900, -92.0500
-  32.7000, -92.0300
-  32.7100, -92.0400
-  32.7000, -92.0200
-  32.7100, -91.9700
-  32.6700, -91.9600
-  32.5700, -92.0300
-  32.6800, -92.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 6:48PM CDT by NWS Shreveport LA\nExpires: 2026-05-20 00:45 Z\nAt 648 PM CDT, Doppler radar was tracking a strong thunderstorm near Hemphill, or 37 miles southeast of Center, moving east at 20 mph.  HAZARD...Half inch size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Milam, Many, Zwolle, Hemphill, Pineland, Rosevine, Macune, Florien, Fisher, Columbus, Negreet, Yellowpine, Fairmount, Bronson, Mount Carmel, McElroy, Chinaquapin and Kisatchie.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 6:48PM CDT by NWS Shreveport LA\nExpires: 2026-05-20 00:45 Z\nAt 648 PM CDT, Doppler radar was tracking a strong thunderstorm near Hemphill, or 37 miles southeast of Center, moving east at 20 mph.  HAZARD...Half inch size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Milam, Many, Zwolle, Hemphill, Pineland, Rosevine, Macune, Florien, Fisher, Columbus, Negreet, Yellowpine, Fairmount, Bronson, Mount Carmel, McElroy, Chinaquapin and Kisatchie.\nGenerated: 2026-05-20 00:30:14 UTC"
   31.1200, -94.0500
   31.4300, -94.3000
   31.7400, -93.3500
@@ -173,7 +205,7 @@ Line: 2,,"Special Weather Statement issued May 19 at 6:48PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 6:46PM CDT by NWS Jackson MS\nExpires: 2026-05-20 01:00 Z\nAt 646 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Monroe, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Collinston around 655 PM CDT. Oak Ridge around 705 PM CDT. Mer Rouge around 715 PM CDT. Goodwill around 730 PM CDT.\nGenerated: 2026-05-20 00:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 19 at 6:46PM CDT by NWS Jackson MS\nExpires: 2026-05-20 01:00 Z\nAt 646 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Monroe, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Collinston around 655 PM CDT. Oak Ridge around 705 PM CDT. Mer Rouge around 715 PM CDT. Goodwill around 730 PM CDT.\nGenerated: 2026-05-20 00:30:14 UTC"
   33.0300, -92.0800
   33.0200, -91.4600
   33.0100, -91.4300
@@ -195,58 +227,4 @@ Line: 2,,"Special Weather Statement issued May 19 at 6:46PM CDT by NWS Jackson M
   32.8000, -92.0500
   32.8700, -92.0800
   33.0300, -92.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 6:45PM CDT by NWS Paducah KY\nExpires: 2026-05-20 00:30 Z\nAt 644 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Hillman Ferry Campground, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Benton, Calvert City, Eddyville, Birmingham Ferry Recreation Area, Demumbers Bay Campground, Hillman Ferry Campground, Cravens Bay Campground, Woodlands Nature Station, Land Between The Lakes Area, Kuttawa, and Grand Rivers.  This includes the following highways... Interstate 24 in Kentucky between Mile Markers 24 and 54. Interstate 69 in Kentucky between Mile Markers 42 and 73.\nGenerated: 2026-05-20 00:25:12 UTC"
-  36.8200, -88.3700
-  37.0000, -88.3800
-  37.1800, -88.0500
-  37.0700, -87.9700
-  36.9600, -87.8800
-  36.9600, -87.9000
-  36.9100, -88.0100
-  36.8700, -88.1600
-  36.8600, -88.1600
-  36.8200, -88.3700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 6:21PM CDT by NWS Jackson MS\nExpires: 2026-05-20 00:30 Z\nAt 620 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Monterey, or 19 miles south of Ferriday, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Monterey and Deer Park around 625 PM CDT. Natchez and Ferriday around 655 PM CDT. Ridgecrest around 700 PM CDT. Frogmore around 705 PM CDT.\nGenerated: 2026-05-20 00:25:12 UTC"
-  31.3000, -92.0100
-  31.2900, -92.0100
-  31.3000, -92.0000
-  31.3300, -92.0100
-  31.7400, -92.0100
-  31.5600, -91.3000
-  31.1900, -91.6000
-  31.2400, -91.8200
-  31.2500, -91.8100
-  31.2700, -91.8400
-  31.2600, -91.8500
-  31.2900, -91.8800
-  31.3000, -91.9100
-  31.3000, -91.9300
-  31.2700, -91.9500
-  31.2800, -92.0200
-  31.3000, -92.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 19 at 7:13PM EDT by NWS Cleveland OH\nExpires: 2026-05-20 00:30 Z\nAt 713 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northwest of Willard to Chatfield to near Morral. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mansfield, Marion, Ashland, Bucyrus, Mount Gilead, Wadsworth, Galion, Shelby, Rittman, Willard, Ontario, Lexington, Crestline, Lodi, New London, Creston, Plymouth, West Salem, Prospect, and New Washington.\nGenerated: 2026-05-20 00:25:12 UTC"
-  40.4400, -83.2500
-  40.5100, -83.2500
-  40.5100, -83.4200
-  40.6900, -83.4200
-  40.6900, -83.3100
-  41.0000, -82.9000
-  40.9900, -82.8300
-  41.0700, -82.7900
-  41.0600, -81.6900
-  40.9900, -81.6900
-  40.5200, -82.9600
-  40.4900, -82.9600
-  40.4800, -83.0200
-  40.4300, -83.0300
-  40.4400, -83.2500
 End:
