@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-20 07:10:17 UTC
+; Generated: 2026-05-20 07:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 2:00AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-20 08:00 Z\nAt 200 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Shiner to near Campbellton. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cuero, Gonzales, Floresville, Yoakum, Kenedy, Karnes City, Hallettsville, Poth, Yorktown, Shiner, Stockdale, Moulton, Christine, Kosciusko, Campbellton, Nixon, Runge, Falls City, Smiley, and Nordheim.\nGenerated: 2026-05-20 07:10:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 2:14AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-20 08:00 Z\nAt 213 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pawnee to near Fort Ewell Site to near Chupadera Ranch Airport. Movement was south at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... George West, Three Rivers, Encinal, Tilden, Choke Canyon, Cross, Fort Ewell Site, Artesia Wells, Calliham, Karon, Normanna, Pawnee, Simmons, Ray Point, Mineral, Loma Alta, Fowlerton, La Esperanza Ranch Airport, Chupadera Ranch Airport, and Nell.  This includes the following highways... Interstate 35 between mile markers 31 and 62. Interstate 37 between mile markers 58 and 83. US Highway 281 between mile markers 618 and 632. US Highway 181 between mile markers 572 and 584. US Highway 59 between mile markers 720 and 726. US Highway 83 between mile markers 668 and 686.\nGenerated: 2026-05-20 07:15:15 UTC"
+  28.2000, -99.4000
+  28.3700, -99.3900
+  28.3800, -99.0200
+  28.6500, -98.5000
+  28.6400, -98.3400
+  28.6100, -98.3300
+  28.7900, -98.1000
+  28.6900, -98.0100
+  28.7200, -97.9200
+  28.6700, -97.8000
+  28.5300, -97.7100
+  27.9200, -98.8000
+  27.9200, -99.9100
+  28.0600, -99.9600
+  28.0800, -100.0200
+  28.2000, -100.0900
+  28.2000, -99.4000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 20 at 2:00AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-20 08:00 Z\nAt 200 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Shiner to near Campbellton. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cuero, Gonzales, Floresville, Yoakum, Kenedy, Karnes City, Hallettsville, Poth, Yorktown, Shiner, Stockdale, Moulton, Christine, Kosciusko, Campbellton, Nixon, Runge, Falls City, Smiley, and Nordheim.\nGenerated: 2026-05-20 07:15:15 UTC"
   29.0600, -96.9400
   29.1000, -96.9800
   28.8700, -97.3000
@@ -24,66 +45,4 @@ Line: 2,,"Special Weather Statement issued May 20 at 2:00AM CDT by NWS Austin/Sa
   29.5800, -96.7900
   29.3400, -96.5600
   29.0600, -96.9400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:25AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-20 07:15 Z\nAt 124 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles southwest of Karnes City to near Zella to 6 miles northwest of Gilson Groves. Movement was south at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cotulla, George West, Three Rivers, Encinal, Tilden, Choke Canyon, Cross, Fort Ewell Site, Artesia Wells, Calliham, Karon, Zella, Pawnee, Simmons, Ray Point, Fowlerton, La Esperanza Ranch Airport, Nell, Oakville, and Los Angeles.  This includes the following highways... Interstate 35 between mile markers 35 and 71. Interstate 37 between mile markers 56 and 83. US Highway 281 between mile markers 618 and 632. US Highway 59 between mile markers 712 and 724. US Highway 83 between mile markers 668 and 684.\nGenerated: 2026-05-20 07:10:17 UTC"
-  28.2000, -99.4000
-  28.4500, -99.3900
-  28.5800, -98.7700
-  28.6400, -98.6100
-  28.6400, -98.3400
-  28.6100, -98.3300
-  28.7900, -98.1000
-  28.6900, -98.0100
-  28.7200, -97.9200
-  28.3400, -97.9600
-  28.0900, -98.8900
-  27.8700, -99.9100
-  27.9800, -99.9300
-  28.0000, -99.9900
-  28.1500, -100.0800
-  28.1900, -100.2100
-  28.2000, -99.4000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:09AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-20 07:15 Z\nAt 108 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of San Marcos to 7 miles southeast of Seguin to near Falls City to near Christine. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Braunfels, San Marcos, Schertz, Seguin, Cibolo, Lockhart, Pleasanton, Cuero, Gonzales, Floresville, Yoakum, Luling, Kenedy, Karnes City, Poth, Yorktown, Shiner, Stockdale, Flatonia, and Moulton.\nGenerated: 2026-05-20 07:10:17 UTC"
-  29.1100, -97.1200
-  28.9500, -97.1800
-  28.8700, -97.3000
-  28.9200, -97.3900
-  28.9200, -97.4300
-  28.6800, -97.7700
-  29.0100, -98.5200
-  29.2000, -98.3800
-  29.4800, -98.2000
-  29.9400, -98.1500
-  29.8200, -96.9600
-  29.1100, -97.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:08AM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-20 07:15 Z\nAt 108 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Beasley to 10 miles south of Pierce to near Inez. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Matagorda, western Rosenberg, Bay City, El Campo, Wharton, Edna, Palacios, West Columbia, Sweeny, South Texas Nuclear Plant, Brazoria, Needville, East Bernard, Ganado, Holiday Lakes, Pleak, Fairchilds, Point Comfort, western Bailey's Prairie, and Beasley.\nGenerated: 2026-05-20 07:10:17 UTC"
-  28.3800, -96.3800
-  28.4600, -96.4100
-  28.5100, -96.4800
-  28.5000, -96.5000
-  28.5500, -96.4800
-  28.5800, -96.6200
-  28.6400, -96.6100
-  28.6900, -96.6600
-  28.7200, -96.6500
-  28.8200, -96.7200
-  28.8500, -96.7000
-  28.9200, -96.7900
-  29.0200, -96.8300
-  29.0600, -96.9400
-  29.2800, -96.3200
-  29.6600, -96.0200
-  29.5000, -95.7700
-  29.4400, -95.4700
-  28.7600, -95.6100
-  28.3800, -96.1700
-  28.3800, -96.3800
 End:
