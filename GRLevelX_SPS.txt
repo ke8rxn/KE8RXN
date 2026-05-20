@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-20 18:30:17 UTC
+; Generated: 2026-05-20 18:35:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 2:29PM EDT by NWS Tallahassee FL\nExpires: 2026-05-20 19:15 Z\nAt 229 PM EDT/129 PM CDT/, Doppler radar was tracking a strong thunderstorm 14 miles northeast of Lynn Haven, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nixon, Betts, Fountain, Singer Road, Saunders, Camp Flowers, Gainer Spring, Bennett, Youngstown, Cairo, Porter Lake, Majette, and Bayhead.\nGenerated: 2026-05-20 18:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 1:33PM CDT by NWS Lubbock TX\nExpires: 2026-05-20 19:00 Z\nAt 133 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles northwest of Brownfield to 5 miles southwest of O'Donnell. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Brownfield, Tahoka, O'Donnell, New Moore, Meadow, and Ropesville.\nGenerated: 2026-05-20 18:35:15 UTC"
+  33.3000, -102.3900
+  33.4900, -102.1600
+  33.4300, -102.0800
+  33.3900, -102.0800
+  33.3900, -102.0200
+  33.0600, -101.5600
+  32.9600, -101.5600
+  32.9600, -102.3200
+  33.3000, -102.3900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 20 at 2:29PM EDT by NWS Tallahassee FL\nExpires: 2026-05-20 19:15 Z\nAt 229 PM EDT/129 PM CDT/, Doppler radar was tracking a strong thunderstorm 14 miles northeast of Lynn Haven, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nixon, Betts, Fountain, Singer Road, Saunders, Camp Flowers, Gainer Spring, Bennett, Youngstown, Cairo, Porter Lake, Majette, and Bayhead.\nGenerated: 2026-05-20 18:35:15 UTC"
   30.5100, -85.6000
   30.5700, -85.5300
   30.5700, -85.3800
@@ -21,7 +34,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 2:29PM EDT by NWS Tallahass
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:27PM CDT by NWS Nashville TN\nExpires: 2026-05-20 19:00 Z\nAt 126 PM CDT, Doppler radar was tracking a strong thunderstorm near Carthage, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carthage, Gordonsville, South Carthage, Pleasant Shade, and Dixon Springs.  This includes Interstate 40 between mile markers 250 and 256.\nGenerated: 2026-05-20 18:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 1:27PM CDT by NWS Nashville TN\nExpires: 2026-05-20 19:00 Z\nAt 126 PM CDT, Doppler radar was tracking a strong thunderstorm near Carthage, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carthage, Gordonsville, South Carthage, Pleasant Shade, and Dixon Springs.  This includes Interstate 40 between mile markers 250 and 256.\nGenerated: 2026-05-20 18:35:15 UTC"
   36.4700, -85.8800
   36.3000, -85.7500
   36.1400, -86.0700
@@ -43,7 +56,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 1:27PM CDT by NWS Nashville
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:26PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-20 19:00 Z\nAt 126 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles northeast of Rankin, moving northeast at 15 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Stiles.\nGenerated: 2026-05-20 18:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 1:26PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-20 19:00 Z\nAt 126 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles northeast of Rankin, moving northeast at 15 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Stiles.\nGenerated: 2026-05-20 18:35:15 UTC"
   31.2600, -101.6500
   31.3600, -101.8600
   31.6500, -101.7700
@@ -52,7 +65,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 1:26PM CDT by NWS Midland/O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:23PM CDT by NWS Louisville KY\nExpires: 2026-05-20 19:00 Z\nAt 123 PM CDT, Doppler radar was tracking a strong thunderstorm near Burkesville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albany, Burkesville, Littrell, Desda, Cartwright, Snow, Cundiff, Ida, Modoc, and Ellington.\nGenerated: 2026-05-20 18:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 1:23PM CDT by NWS Louisville KY\nExpires: 2026-05-20 19:00 Z\nAt 123 PM CDT, Doppler radar was tracking a strong thunderstorm near Burkesville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albany, Burkesville, Littrell, Desda, Cartwright, Snow, Cundiff, Ida, Modoc, and Ellington.\nGenerated: 2026-05-20 18:35:15 UTC"
   36.6400, -85.3900
   36.8700, -85.4800
   37.0500, -85.2300
@@ -61,7 +74,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 1:23PM CDT by NWS Louisvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 2:12PM EDT by NWS Louisville KY\nExpires: 2026-05-20 18:45 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Nicholasville to near Lancaster to near Stanford. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richmond, Lancaster, Mccreary, Round Hill, Caleast, Peytontown, Gilbert, Buggytown, Cartersville, and Rowland.\nGenerated: 2026-05-20 18:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 2:12PM EDT by NWS Louisville KY\nExpires: 2026-05-20 18:45 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Nicholasville to near Lancaster to near Stanford. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richmond, Lancaster, Mccreary, Round Hill, Caleast, Peytontown, Gilbert, Buggytown, Cartersville, and Rowland.\nGenerated: 2026-05-20 18:35:15 UTC"
   37.4800, -84.4400
   37.4800, -84.4500
   37.4700, -84.4500
@@ -74,7 +87,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 2:12PM EDT by NWS Louisvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 1:00PM CDT by NWS Huntsville AL\nExpires: 2026-05-20 18:45 Z\nAt 100 PM CDT, Doppler radar was tracking a strong thunderstorm near Ider, or 10 miles south of Bridgeport, moving northeast at 10 mph.  HAZARD...Wind gusts of 40-50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bridgeport, Fabius, and Higdon.\nGenerated: 2026-05-20 18:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 1:00PM CDT by NWS Huntsville AL\nExpires: 2026-05-20 18:45 Z\nAt 100 PM CDT, Doppler radar was tracking a strong thunderstorm near Ider, or 10 miles south of Bridgeport, moving northeast at 10 mph.  HAZARD...Wind gusts of 40-50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bridgeport, Fabius, and Higdon.\nGenerated: 2026-05-20 18:35:15 UTC"
   34.8400, -85.6100
   34.8300, -85.6300
   34.7900, -85.6400
