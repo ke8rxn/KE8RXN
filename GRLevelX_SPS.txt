@@ -3,9 +3,35 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-21 00:00:17 UTC
+; Generated: 2026-05-21 00:05:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 7:59PM EDT by NWS Blacksburg VA\nExpires: 2026-05-21 00:30 Z\nAt 758 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Natural Bridge, or near Glasgow, moving northeast at 20 mph.  HAZARD...Pea size hail and wind gusts up to 30 mph.  SOURCE...Radar indicated.  IMPACT...Winds may knock over loose objects.  Locations impacted include... Lexington... Buena Vista... Glasgow... Collierstown... and Natural Bridge.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 8:03PM EDT by NWS Upton NY\nExpires: 2026-05-21 00:45 Z\nAt 803 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Patchogue, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Shirley, Medford, Manorville, Patchogue, Middle Island, Wading River, Center Moriches, Westhampton, Holbrook, Sayville, Farmingville, Mastic, Mastic Beach, Calverton, and Yaphank.\nGenerated: 2026-05-21 00:05:18 UTC"
+  40.6900, -73.0400
+  40.7000, -73.0000
+  40.7300, -72.9500
+  40.7400, -73.0100
+  40.7200, -73.0300
+  40.7100, -73.0800
+  40.7600, -73.1700
+  40.9900, -72.8300
+  40.9900, -72.7500
+  40.7800, -72.6100
+  40.7300, -72.7900
+  40.6800, -73.0200
+  40.6900, -73.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 20 at 7:03PM CDT by NWS San Angelo TX\nExpires: 2026-05-21 00:30 Z\nAt 703 PM CDT, Doppler radar was tracking a strong thunderstorm near Fort Mckavett, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Mckavett and Camp Sol Mayer.\nGenerated: 2026-05-21 00:05:18 UTC"
+  30.7500, -100.2100
+  31.1700, -100.0700
+  31.0600, -99.7400
+  30.6400, -99.9800
+  30.7500, -100.2100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 20 at 7:59PM EDT by NWS Blacksburg VA\nExpires: 2026-05-21 00:30 Z\nAt 758 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Natural Bridge, or near Glasgow, moving northeast at 20 mph.  HAZARD...Pea size hail and wind gusts up to 30 mph.  SOURCE...Radar indicated.  IMPACT...Winds may knock over loose objects.  Locations impacted include... Lexington... Buena Vista... Glasgow... Collierstown... and Natural Bridge.\nGenerated: 2026-05-21 00:05:18 UTC"
   37.7600, -79.3200
   37.6500, -79.2500
   37.5800, -79.3800
@@ -24,7 +50,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 7:59PM EDT by NWS Blacksbur
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 7:57PM EDT by NWS Charleston WV\nExpires: 2026-05-21 00:30 Z\nAt 757 PM EDT, Doppler radar was tracking a strong thunderstorm near Salem, or 9 miles west of Clarksburg, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clarksburg, Bridgeport, Shinnston, Stonewood, Nutter Fort, Salem, Lumberport, Anmoore, Enterprise, Meadowbrook, Wolf Summit, and Despard.  This includes the following highways... Interstate 79 between mile markers 116 and 127. Route 50 in West Virginia between mile markers 65 and 82.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 7:57PM EDT by NWS Charleston WV\nExpires: 2026-05-21 00:30 Z\nAt 757 PM EDT, Doppler radar was tracking a strong thunderstorm near Salem, or 9 miles west of Clarksburg, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clarksburg, Bridgeport, Shinnston, Stonewood, Nutter Fort, Salem, Lumberport, Anmoore, Enterprise, Meadowbrook, Wolf Summit, and Despard.  This includes the following highways... Interstate 79 between mile markers 116 and 127. Route 50 in West Virginia between mile markers 65 and 82.\nGenerated: 2026-05-21 00:05:18 UTC"
   39.4100, -80.2200
   39.3000, -80.2000
   39.2800, -80.2000
@@ -36,7 +62,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 7:57PM EDT by NWS Charlesto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 6:53PM CDT by NWS Huntsville AL\nExpires: 2026-05-21 00:45 Z\nAt 653 PM CDT, Doppler radar was tracking a strong thunderstorm near Woodville, or 16 miles southeast of Huntsville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Scottsboro, Woodville, Pleasant Groves, Paint Rock, Lim Rock, Trenton, Garth, and Larkinsville.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 6:53PM CDT by NWS Huntsville AL\nExpires: 2026-05-21 00:45 Z\nAt 653 PM CDT, Doppler radar was tracking a strong thunderstorm near Woodville, or 16 miles southeast of Huntsville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Scottsboro, Woodville, Pleasant Groves, Paint Rock, Lim Rock, Trenton, Garth, and Larkinsville.\nGenerated: 2026-05-21 00:05:18 UTC"
   34.5200, -86.3000
   34.6000, -86.4200
   34.8400, -86.2100
@@ -45,7 +71,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 6:53PM CDT by NWS Huntsvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 5:52PM MDT by NWS Pueblo CO\nExpires: 2026-05-21 00:15 Z\nAt 552 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 7 miles southeast of Timpas to 16 miles southwest of Higbee to 20 miles southeast of Thatcher. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Higbee.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 5:52PM MDT by NWS Pueblo CO\nExpires: 2026-05-21 00:15 Z\nAt 552 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 7 miles southeast of Timpas to 16 miles southwest of Higbee to 20 miles southeast of Thatcher. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Higbee.\nGenerated: 2026-05-21 00:05:18 UTC"
   37.9900, -103.1900
   37.6600, -103.2000
   37.2600, -103.3800
@@ -56,7 +82,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 5:52PM MDT by NWS Pueblo CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 7:52PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-21 00:15 Z\nAt 750 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout 8 miles southeast of Greater Sun Center, or 14 miles south of Fish Hawk, moving west at 10 mph.  HAZARD...Landspouts, wind gusts up to 40 mph, and half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fish Hawk, Ruskin, Parrish, Greater Sun Center, Little Manatee River State Park, Alafia River State Park, Gibsonton, Duette, Wimauma, Sun City Center, Fort Lonesome, and Boyette.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 7:52PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-21 00:15 Z\nAt 750 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout 8 miles southeast of Greater Sun Center, or 14 miles south of Fish Hawk, moving west at 10 mph.  HAZARD...Landspouts, wind gusts up to 40 mph, and half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fish Hawk, Ruskin, Parrish, Greater Sun Center, Little Manatee River State Park, Alafia River State Park, Gibsonton, Duette, Wimauma, Sun City Center, Fort Lonesome, and Boyette.\nGenerated: 2026-05-21 00:05:18 UTC"
   27.8200, -82.1100
   27.5800, -82.1000
   27.4600, -82.1700
@@ -67,7 +93,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 7:52PM EDT by NWS Tampa Bay
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 6:44PM CDT by NWS Mobile AL\nExpires: 2026-05-21 00:15 Z\nAt 644 PM CDT, Doppler radar was tracking a strong thunderstorm near Kent, or 9 miles southwest of Meadville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Petrey and Highland Home.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 6:44PM CDT by NWS Mobile AL\nExpires: 2026-05-21 00:15 Z\nAt 644 PM CDT, Doppler radar was tracking a strong thunderstorm near Kent, or 9 miles southwest of Meadville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Petrey and Highland Home.\nGenerated: 2026-05-21 00:05:18 UTC"
   31.8500, -86.1900
   31.8300, -86.2100
   31.9600, -86.3600
@@ -80,7 +106,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 6:44PM CDT by NWS Mobile AL
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 6:43PM CDT by NWS Huntsville AL\nExpires: 2026-05-21 00:30 Z\nAt 642 PM CDT, Doppler radar was tracking a strong thunderstorm near Petersburg, or 8 miles northwest of Fayetteville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lynchburg, Petersburg, Tims Ford Lake, Chestnut Ridge, Howell, Belleville, Booneville, and Mimosa.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 6:43PM CDT by NWS Huntsville AL\nExpires: 2026-05-21 00:30 Z\nAt 642 PM CDT, Doppler radar was tracking a strong thunderstorm near Petersburg, or 8 miles northwest of Fayetteville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lynchburg, Petersburg, Tims Ford Lake, Chestnut Ridge, Howell, Belleville, Booneville, and Mimosa.\nGenerated: 2026-05-21 00:05:18 UTC"
   35.3500, -86.5400
   35.3600, -86.4900
   35.3200, -86.4500
@@ -98,7 +124,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 6:43PM CDT by NWS Huntsvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 6:35PM CDT by NWS Nashville TN\nExpires: 2026-05-21 00:15 Z\nAt 635 PM CDT, Doppler radar was tracking a strong thunderstorm near Ashland City, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Springfield, Ashland City, Goodlettsville, Millersville, Greenbrier, Coopertown, Ridgetop, Joelton, Pleasant View, and Beaman Park.  This includes the following highways... Interstate 65 between mile markers 97 and 98. Interstate 24 between mile markers 22 and 40.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 6:35PM CDT by NWS Nashville TN\nExpires: 2026-05-21 00:15 Z\nAt 635 PM CDT, Doppler radar was tracking a strong thunderstorm near Ashland City, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Springfield, Ashland City, Goodlettsville, Millersville, Greenbrier, Coopertown, Ridgetop, Joelton, Pleasant View, and Beaman Park.  This includes the following highways... Interstate 65 between mile markers 97 and 98. Interstate 24 between mile markers 22 and 40.\nGenerated: 2026-05-21 00:05:18 UTC"
   36.4200, -86.7500
   36.4100, -86.7500
   36.3800, -86.7300
@@ -115,7 +141,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 6:35PM CDT by NWS Nashville
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 6:35PM CDT by NWS Jackson MS\nExpires: 2026-05-21 00:45 Z\nAt 635 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Liberty, or 9 miles southwest of De Kalb, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... De Kalb around 640 PM CDT. Scooba around 710 PM CDT.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 6:35PM CDT by NWS Jackson MS\nExpires: 2026-05-21 00:45 Z\nAt 635 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Liberty, or 9 miles southwest of De Kalb, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... De Kalb around 640 PM CDT. Scooba around 710 PM CDT.\nGenerated: 2026-05-21 00:05:18 UTC"
   32.6800, -88.3800
   32.6300, -88.3900
   32.6400, -88.9100
@@ -126,7 +152,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 6:35PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 7:30PM EDT by NWS Upton NY\nExpires: 2026-05-21 00:15 Z\nAt 729 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Mineola, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Islip, Jamaica, Flushing, Brentwood, Levittown, Freeport, Valley Stream, Commack, Long Beach, Huntington Station, Deer Park, Lindenhurst, Plainview, Garden City, and Massapequa.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 7:30PM EDT by NWS Upton NY\nExpires: 2026-05-21 00:15 Z\nAt 729 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Mineola, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Islip, Jamaica, Flushing, Brentwood, Levittown, Freeport, Valley Stream, Commack, Long Beach, Huntington Station, Deer Park, Lindenhurst, Plainview, Garden City, and Massapequa.\nGenerated: 2026-05-21 00:05:18 UTC"
   40.5900, -73.8100
   40.6600, -73.8600
   40.6900, -73.8700
@@ -151,7 +177,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 7:30PM EDT by NWS Upton NY\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 6:29PM CDT by NWS Huntsville AL\nExpires: 2026-05-21 00:15 Z\nAt 629 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Ardmore, or 12 miles southwest of Fayetteville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fayetteville, Lincoln, Howell, Belleview, Cash Point, Skinem, Molino, Coldwater, Blanche, and Harms.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 6:29PM CDT by NWS Huntsville AL\nExpires: 2026-05-21 00:15 Z\nAt 629 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Ardmore, or 12 miles southwest of Fayetteville, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fayetteville, Lincoln, Howell, Belleview, Cash Point, Skinem, Molino, Coldwater, Blanche, and Harms.\nGenerated: 2026-05-21 00:05:18 UTC"
   35.2700, -86.5800
   35.0200, -86.3900
   34.9900, -86.6300
@@ -161,7 +187,7 @@ Line: 2,,"Special Weather Statement issued May 20 at 6:29PM CDT by NWS Huntsvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 20 at 7:24PM EDT by NWS Morristown TN\nExpires: 2026-05-21 00:15 Z\nAt 723 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Knoxville, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clinton, Maynardville, Plainview, Halls, Norris, Luttrell, Norris Dam State Park, Andersonville, Maloneyville, and Paulette.\nGenerated: 2026-05-21 00:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 20 at 7:24PM EDT by NWS Morristown TN\nExpires: 2026-05-21 00:15 Z\nAt 723 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Knoxville, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clinton, Maynardville, Plainview, Halls, Norris, Luttrell, Norris Dam State Park, Andersonville, Maloneyville, and Paulette.\nGenerated: 2026-05-21 00:05:18 UTC"
   36.2500, -83.6900
   36.2300, -83.6900
   36.2100, -83.7000
