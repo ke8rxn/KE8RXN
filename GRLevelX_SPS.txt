@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-21 10:10:14 UTC
+; Generated: 2026-05-21 10:20:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 21 at 5:07AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-21 10:45 Z\nAt 507 AM CDT, Doppler radar was tracking a strong thunderstorm over Camp Wood, or 16 miles west of Leakey, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Camp Wood, Vance, and Barksdale.\nGenerated: 2026-05-21 10:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 21 at 5:14AM CDT by NWS Brownsville TX\nExpires: 2026-05-21 11:00 Z\nAt 514 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Arroyo City, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Harlingen, San Benito, Mercedes, Raymondville, La Feria, Los Fresnos, Progreso, Santa Rosa, South Padre Island, and Lyford.  This includes the following highways... Interstate Highway 69 E between mile markers 1 and 51. US Highway 77 between mile markers 714 and 762. US Highway 281 between mile markers 804 and 838.\nGenerated: 2026-05-21 10:20:17 UTC"
+  25.9700, -97.1200
+  25.9600, -97.2800
+  25.9200, -97.3300
+  25.9300, -97.3500
+  25.8400, -97.3800
+  25.8500, -97.4500
+  25.8800, -97.4600
+  25.9000, -97.5000
+  25.8900, -97.5200
+  26.0300, -97.6600
+  26.0200, -97.7400
+  26.0700, -97.8600
+  26.0700, -98.0000
+  27.2700, -97.7800
+  27.2600, -97.6400
+  27.2300, -97.5500
+  27.2600, -97.4600
+  27.2400, -97.2800
+  26.9500, -97.2900
+  26.6100, -97.2000
+  25.9700, -97.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 21 at 5:07AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-21 10:45 Z\nAt 507 AM CDT, Doppler radar was tracking a strong thunderstorm over Camp Wood, or 16 miles west of Leakey, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Camp Wood, Vance, and Barksdale.\nGenerated: 2026-05-21 10:20:17 UTC"
   29.8100, -99.7800
   29.6200, -99.9600
   29.6200, -100.0700
@@ -15,7 +40,7 @@ Line: 2,,"Special Weather Statement issued May 21 at 5:07AM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 21 at 4:51AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-21 10:45 Z\nAt 450 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Alfred to near Bishop to 7 miles southeast of Riviera Beach. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Corpus Christi, Kingsville, Alice, Robstown, Driscoll, Corpus Christi International Airport, Bishop, Orange Grove, San Patricio, Edroy, Banquete, Tecalote, Clarkwood, Annaville, Calallen, Kingsville Naval Air Station, Riviera Beach, South Texas Botanical Gardens, Alfred-South La Paloma, and Bluntzer.  This includes the following highways... Interstate 37 between mile markers 10 and 31. US Highway 281 between mile markers 662 and 668. US Highway 77 between mile markers 658 and 694.\nGenerated: 2026-05-21 10:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 21 at 4:51AM CDT by NWS Corpus Christi TX\nExpires: 2026-05-21 10:45 Z\nAt 450 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Alfred to near Bishop to 7 miles southeast of Riviera Beach. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Corpus Christi, Kingsville, Alice, Robstown, Driscoll, Corpus Christi International Airport, Bishop, Orange Grove, San Patricio, Edroy, Banquete, Tecalote, Clarkwood, Annaville, Calallen, Kingsville Naval Air Station, Riviera Beach, South Texas Botanical Gardens, Alfred-South La Paloma, and Bluntzer.  This includes the following highways... Interstate 37 between mile markers 10 and 31. US Highway 281 between mile markers 662 and 668. US Highway 77 between mile markers 658 and 694.\nGenerated: 2026-05-21 10:20:17 UTC"
   27.2400, -97.6300
   27.2800, -97.6500
   27.2600, -97.7200
@@ -36,51 +61,4 @@ Line: 2,,"Special Weather Statement issued May 21 at 4:51AM CDT by NWS Corpus Ch
   27.2400, -97.5000
   27.2300, -97.5400
   27.2400, -97.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 21 at 4:24AM CDT by NWS Brownsville TX\nExpires: 2026-05-21 10:15 Z\nAt 424 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Encino, moving east at 80 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Falfurrias, Armstrong, Encino, Rachal, Sarita, Kenedy County Wind Farms, La Colonia Park, Airport Road Addition, U S 77 Border Patrol Station, and Falfurrias Junior High School.  This includes the following highways... US Highway 77 between mile markers 712 and 736. US Highway 281 between mile markers 710 and 736.\nGenerated: 2026-05-21 10:10:14 UTC"
-  27.2600, -97.7300
-  27.2800, -97.6500
-  27.2400, -97.6300
-  27.2300, -97.5500
-  27.2600, -97.4200
-  27.2500, -97.4200
-  27.2500, -97.3700
-  27.2700, -97.3700
-  27.2700, -97.3600
-  26.9100, -97.2800
-  26.8400, -98.3000
-  27.2600, -98.3800
-  27.2600, -97.9900
-  27.2100, -97.9700
-  27.2400, -97.9200
-  27.2500, -97.8200
-  27.2800, -97.7900
-  27.2600, -97.7300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 21 at 4:21AM CDT by NWS Brownsville TX\nExpires: 2026-05-21 10:15 Z\nAt 420 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Jose Borrego Middle School, or over Hargill, moving east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Edinburg, Mission, Pharr, Harlingen, Weslaco, San Juan, San Benito, Alamo, Donna, and Mercedes.  This includes the following highways... Interstate Highway 69 E between mile markers 1 and 51. Interstate Highway 69 C between mile markers 1 and 12. US Highway 77 between mile markers 738 and 762. US Highway 281 between mile markers 738 and 764. US Highway 281 between mile markers 784 and 838.\nGenerated: 2026-05-21 10:10:14 UTC"
-  25.9500, -97.1500
-  25.9600, -97.2800
-  25.9100, -97.3700
-  25.8400, -97.3700
-  25.8400, -97.4300
-  25.8800, -97.4600
-  25.8900, -97.5200
-  26.0300, -97.6600
-  26.0200, -97.7400
-  26.0700, -97.8600
-  26.0400, -98.0800
-  26.0500, -98.0700
-  26.0600, -98.2000
-  26.1200, -98.3000
-  26.1000, -98.3000
-  26.1700, -98.3400
-  26.1800, -98.4100
-  26.8400, -98.3100
-  26.9200, -97.2900
-  26.3600, -97.1300
-  25.9500, -97.1500
 End:
