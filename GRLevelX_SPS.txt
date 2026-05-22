@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-22 03:55:11 UTC
+; Generated: 2026-05-22 04:00:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 21 at 10:30PM CDT by NWS Dodge City KS\nExpires: 2026-05-22 04:30 Z\nAt 1030 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Pierceville, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northern Finney, southern Scott, southwestern Ness, northwestern Hodgeman and southern Lane Counties.\nGenerated: 2026-05-22 03:55:11 UTC"
+Line: 2,,"Special Weather Statement issued May 21 at 9:58PM MDT by NWS Midland/Odessa TX\nExpires: 2026-05-22 04:45 Z\nAt 958 PM MDT, Doppler radar was tracking a strong thunderstorm near Bronco, or 11 miles east of Tatum, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Gladiola.\nGenerated: 2026-05-22 04:00:17 UTC"
+  33.1500, -103.0600
+  33.1300, -103.0700
+  33.1400, -103.1800
+  33.2700, -103.2600
+  33.3500, -103.0600
+  33.1500, -103.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 21 at 10:30PM CDT by NWS Dodge City KS\nExpires: 2026-05-22 04:30 Z\nAt 1030 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Pierceville, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northern Finney, southern Scott, southwestern Ness, northwestern Hodgeman and southern Lane Counties.\nGenerated: 2026-05-22 04:00:17 UTC"
   37.9700, -100.9500
   38.4300, -101.0500
   38.5300, -99.9300
@@ -14,7 +24,7 @@ Line: 2,,"Special Weather Statement issued May 21 at 10:30PM CDT by NWS Dodge Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 21 at 10:28PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-22 04:15 Z\nAt 1028 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 10 miles southwest of Sanderson, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sanderson, Dryden, and Terrell County Airport.\nGenerated: 2026-05-22 03:55:11 UTC"
+Line: 2,,"Special Weather Statement issued May 21 at 10:28PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-22 04:15 Z\nAt 1028 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 10 miles southwest of Sanderson, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sanderson, Dryden, and Terrell County Airport.\nGenerated: 2026-05-22 04:00:17 UTC"
   29.6400, -102.8800
   30.3300, -102.7100
   30.2900, -101.7600
@@ -36,20 +46,4 @@ Line: 2,,"Special Weather Statement issued May 21 at 10:28PM CDT by NWS Midland/
   29.7500, -102.6700
   29.6500, -102.7200
   29.6400, -102.8800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 21 at 9:55PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-22 04:00 Z\nAt 955 PM CDT, Doppler radar was tracking a strong thunderstorm near Sea World, or 12 miles west of San Antonio, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Antonio, New Braunfels, Schertz, Cibolo, Converse, Universal City, Live Oak, Selma, Castroville, Stinson Municipal Airport, San Antonio Int Airport, Randolph AFB, Canyon Lake, Leon Valley, Helotes, Fair Oaks Ranch, Kirby, Alamo Heights, Windcrest, and Terrell Hills.\nGenerated: 2026-05-22 03:55:11 UTC"
-  29.2800, -98.9000
-  29.6800, -98.9300
-  29.7300, -98.7900
-  29.7200, -98.7400
-  29.7300, -98.7300
-  29.7300, -98.7100
-  29.7500, -98.6500
-  29.7500, -98.6400
-  29.8000, -98.5800
-  29.9100, -98.2600
-  29.2400, -98.1100
-  29.2800, -98.9000
 End:
