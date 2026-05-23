@@ -3,9 +3,63 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-23 21:30:15 UTC
+; Generated: 2026-05-23 21:35:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 5:29PM EDT by NWS Jacksonville FL\nExpires: 2026-05-23 22:00 Z\nAt 528 PM EDT, Doppler radar was tracking a strong thunderstorm near Bostwick, or just west of Hastings. The strong thunderstorm was drifting to the northwest.  HAZARD...Wind gusts 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bostwick and Federal Point.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:34PM CDT by NWS North Platte NE\nExpires: 2026-05-23 22:15 Z\nAt 433 PM CDT/333 PM MDT/, Doppler radar was tracking a strong thunderstorm near Paxton, or 24 miles east of Ogallala, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sutherland, Hershey, Paxton, Sutherland Reservoir State Recreation Area, Sarben, Coker, O'Fallons, and Birdwood.  This includes Interstate 80 in Nebraska between mile markers 144 and 171.\nGenerated: 2026-05-23 21:35:14 UTC"
+  41.0100, -101.4300
+  41.2200, -101.3500
+  41.2500, -100.8600
+  40.8500, -100.9100
+  41.0100, -101.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 4:33PM CDT by NWS New Orleans LA\nExpires: 2026-05-23 22:15 Z\nAt 432 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing waterspouts over marine areas 12 miles southwest of Port Fourchon, or 23 miles southwest of Grand Isle, moving east at 20 mph.  HAZARD...Waterspouts, wind gusts of 50 to 55 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Port Fourchon.\nGenerated: 2026-05-23 21:35:14 UTC"
+  29.1200, -90.2800
+  29.1300, -90.2300
+  29.1400, -90.0800
+  29.0900, -90.1500
+  29.0600, -90.2400
+  29.0600, -90.2500
+  29.1200, -90.2800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 4:33PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-23 22:00 Z\nAt 432 PM CDT, Doppler radar was tracking a strong thunderstorm near Sebastopol, or 23 miles southwest of Apple Springs, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Groveton and Sebastopol.\nGenerated: 2026-05-23 21:35:14 UTC"
+  30.8800, -95.2800
+  31.0100, -95.3800
+  31.1400, -95.2200
+  30.9800, -95.0600
+  30.8800, -95.2800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 5:32PM EDT by NWS Jacksonville FL\nExpires: 2026-05-23 22:00 Z\nAt 531 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Raybon, or 11 miles south of Gardi, moving east at 5 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern Brantley and southeastern Wayne Counties.\nGenerated: 2026-05-23 21:35:14 UTC"
+  31.3600, -81.7000
+  31.3000, -81.9000
+  31.3700, -81.9400
+  31.4800, -81.7200
+  31.3600, -81.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 5:32PM EDT by NWS Tallahassee FL\nExpires: 2026-05-23 22:00 Z\nAt 532 PM EDT, Doppler radar was tracking a strong thunderstorm near Valdosta, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Valdosta, Moody Air Force Base, Naylor, and Barretts.\nGenerated: 2026-05-23 21:35:14 UTC"
+  30.8500, -83.0800
+  30.8500, -83.0900
+  30.8300, -83.0900
+  30.8300, -83.1000
+  30.8000, -83.1100
+  30.8000, -83.1300
+  30.7700, -83.1400
+  30.8200, -83.2900
+  31.0300, -83.2400
+  31.0300, -83.2000
+  30.9800, -83.0000
+  30.8500, -83.0800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 5:29PM EDT by NWS Jacksonville FL\nExpires: 2026-05-23 22:00 Z\nAt 528 PM EDT, Doppler radar was tracking a strong thunderstorm near Bostwick, or just west of Hastings. The strong thunderstorm was drifting to the northwest.  HAZARD...Wind gusts 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bostwick and Federal Point.\nGenerated: 2026-05-23 21:35:14 UTC"
   29.7600, -81.5400
   29.6900, -81.5700
   29.7100, -81.7100
@@ -14,7 +68,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 5:29PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Birmingham AL\nExpires: 2026-05-23 22:15 Z\nAt 426 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pickett to near Barbour County Public Lake Dam to near Lakepoint Resort State Park. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Union Springs, Hurtsboro, Midway, Pickett, Hawkinsville, Aberfoil, Spring Hill, Comer, Barbour County Public Lake Dam, Guerryton, Lakepoint Resort State Park, Tanyard, Batesville, Perote, Twin Springs, Rutherford, Lugo, Three Notch, and Mount Andrew.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Birmingham AL\nExpires: 2026-05-23 22:15 Z\nAt 426 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pickett to near Barbour County Public Lake Dam to near Lakepoint Resort State Park. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Union Springs, Hurtsboro, Midway, Pickett, Hawkinsville, Aberfoil, Spring Hill, Comer, Barbour County Public Lake Dam, Guerryton, Lakepoint Resort State Park, Tanyard, Batesville, Perote, Twin Springs, Rutherford, Lugo, Three Notch, and Mount Andrew.\nGenerated: 2026-05-23 21:35:14 UTC"
   32.2200, -84.9400
   32.2200, -84.9700
   32.2100, -84.9800
@@ -36,7 +90,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-23 22:15 Z\nAt 426 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles southeast of Midland, moving northeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greenwood and Spraberry.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-23 22:15 Z\nAt 426 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles southeast of Midland, moving northeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greenwood and Spraberry.\nGenerated: 2026-05-23 21:35:14 UTC"
   31.6500, -101.8800
   31.6500, -101.9400
   31.7800, -102.1200
@@ -47,7 +101,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Midland/O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-23 22:15 Z\nAt 428 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles southeast of Midland, moving northeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greenwood and Spraberry.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-23 22:15 Z\nAt 428 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles southeast of Midland, moving northeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greenwood and Spraberry.\nGenerated: 2026-05-23 21:35:14 UTC"
   31.7200, -101.8000
   31.6500, -101.9400
   31.7800, -102.1200
@@ -58,7 +112,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:28PM CDT by NWS Midland/O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 5:23PM EDT by NWS Peachtree City GA\nExpires: 2026-05-23 22:00 Z\nAt 523 PM EDT, a strong thunderstorm was near Seminole, or 7 miles southwest of Buena Vista, moving northeast at 25 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Buena Vista, Brantley, Tazewell, Marion Estates, Doyle, Draneville, Oakland, and Zellobee.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 5:23PM EDT by NWS Peachtree City GA\nExpires: 2026-05-23 22:00 Z\nAt 523 PM EDT, a strong thunderstorm was near Seminole, or 7 miles southwest of Buena Vista, moving northeast at 25 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Buena Vista, Brantley, Tazewell, Marion Estates, Doyle, Draneville, Oakland, and Zellobee.\nGenerated: 2026-05-23 21:35:14 UTC"
   32.1700, -84.5400
   32.1700, -84.5600
   32.1900, -84.5700
@@ -83,7 +137,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 5:23PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 3:23PM MDT by NWS Albuquerque NM\nExpires: 2026-05-23 22:00 Z\nAt 323 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Bueyeros, or 17 miles northeast of Mosquero, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bueyeros.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 3:23PM MDT by NWS Albuquerque NM\nExpires: 2026-05-23 22:00 Z\nAt 323 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Bueyeros, or 17 miles northeast of Mosquero, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bueyeros.\nGenerated: 2026-05-23 21:35:14 UTC"
   35.7200, -103.8500
   35.8700, -103.8100
   36.0300, -103.8400
@@ -93,7 +147,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 3:23PM MDT by NWS Albuquerq
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:22PM CDT by NWS Norman OK\nExpires: 2026-05-23 21:45 Z\nAt 422 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Sweetwater, moving southeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Sayre, Sweetwater, Berlin, and Dempsey.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:22PM CDT by NWS Norman OK\nExpires: 2026-05-23 21:45 Z\nAt 422 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Sweetwater, moving southeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Sayre, Sweetwater, Berlin, and Dempsey.\nGenerated: 2026-05-23 21:35:14 UTC"
   35.4300, -99.9400
   35.5600, -99.7800
   35.4200, -99.5000
@@ -102,7 +156,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:22PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:21PM CDT by NWS Jackson MS\nExpires: 2026-05-23 22:15 Z\nAt 421 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Benoit to near Sunflower. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cleveland, Ruleville, Shelby, Shaw, Drew, Mound Bayou, Sunflower, Renova, Boyle, Merigold, Pace, Winstonville, Doddsville, Minter City, Parchman, Rome, and Blaine.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:21PM CDT by NWS Jackson MS\nExpires: 2026-05-23 22:15 Z\nAt 421 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Benoit to near Sunflower. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cleveland, Ruleville, Shelby, Shaw, Drew, Mound Bayou, Sunflower, Renova, Boyle, Merigold, Pace, Winstonville, Doddsville, Minter City, Parchman, Rome, and Blaine.\nGenerated: 2026-05-23 21:35:14 UTC"
   34.0000, -90.6600
   33.9900, -90.6600
   33.9900, -90.4500
@@ -117,7 +171,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:21PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 5:17PM EDT by NWS Peachtree City GA\nExpires: 2026-05-23 21:45 Z\nAt 517 PM EDT, a strong thunderstorm was near Shoulderbone, or 8 miles northwest of Sparta, moving north at 10 mph.  HAZARD...40 to 50 mph wind, nickel sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... White Plains, Springfield, and Shoulderbone.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 5:17PM EDT by NWS Peachtree City GA\nExpires: 2026-05-23 21:45 Z\nAt 517 PM EDT, a strong thunderstorm was near Shoulderbone, or 8 miles northwest of Sparta, moving north at 10 mph.  HAZARD...40 to 50 mph wind, nickel sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... White Plains, Springfield, and Shoulderbone.\nGenerated: 2026-05-23 21:35:14 UTC"
   33.3200, -82.9700
   33.3300, -83.1300
   33.4700, -83.1400
@@ -127,7 +181,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 5:17PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:16PM CDT by NWS Birmingham AL\nExpires: 2026-05-23 22:00 Z\nAt 416 PM CDT, Doppler radar was tracking a strong thunderstorm near Banks, or 9 miles northeast of Troy, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Union Springs, Banks, Linwood, Aberfoil, Beans Crossroads, Sandfield, Simsville, High Ridge, Monticello, Perote, Josie, and Tanyard.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:16PM CDT by NWS Birmingham AL\nExpires: 2026-05-23 22:00 Z\nAt 416 PM CDT, Doppler radar was tracking a strong thunderstorm near Banks, or 9 miles northeast of Troy, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Union Springs, Banks, Linwood, Aberfoil, Beans Crossroads, Sandfield, Simsville, High Ridge, Monticello, Perote, Josie, and Tanyard.\nGenerated: 2026-05-23 21:35:14 UTC"
   31.8000, -85.7300
   31.8100, -85.9200
   32.1400, -85.9200
@@ -136,7 +190,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:16PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 5:15PM EDT by NWS Peachtree City GA\nExpires: 2026-05-23 21:45 Z\nAt 515 PM EDT, a strong thunderstorm was near Warfield, or near Eatonton, moving northeast at 15 mph.  HAZARD...40 to 50 mph wind, nickel sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Eatonton, Rockville, Warfield, Oconee Springs Park, and Resseaus Crossroads.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 5:15PM EDT by NWS Peachtree City GA\nExpires: 2026-05-23 21:45 Z\nAt 515 PM EDT, a strong thunderstorm was near Warfield, or near Eatonton, moving northeast at 15 mph.  HAZARD...40 to 50 mph wind, nickel sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Eatonton, Rockville, Warfield, Oconee Springs Park, and Resseaus Crossroads.\nGenerated: 2026-05-23 21:35:14 UTC"
   33.3300, -83.1500
   33.2800, -83.2100
   33.2800, -83.2300
@@ -153,7 +207,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 5:15PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 5:12PM EDT by NWS Charleston SC\nExpires: 2026-05-23 22:00 Z\nAt 512 PM EDT, Doppler radar was tracking a strong thunderstorm near Denmark, moving northeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Statesboro, Brooklet, Denmark, Georgia Southern, Nevils, Leefield, Emit, Pretoria, Grimshaw and Somerset.  This includes I-16 between mile markers 119 and 128.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 5:12PM EDT by NWS Charleston SC\nExpires: 2026-05-23 22:00 Z\nAt 512 PM EDT, Doppler radar was tracking a strong thunderstorm near Denmark, moving northeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Statesboro, Brooklet, Denmark, Georgia Southern, Nevils, Leefield, Emit, Pretoria, Grimshaw and Somerset.  This includes I-16 between mile markers 119 and 128.\nGenerated: 2026-05-23 21:35:14 UTC"
   32.2100, -81.7200
   32.2600, -81.8700
   32.4700, -81.7900
@@ -162,7 +216,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 5:12PM EDT by NWS Charlesto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:11PM CDT by NWS Norman OK\nExpires: 2026-05-23 21:45 Z\nAt 411 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Durham, moving southeast at 5 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Durham.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:11PM CDT by NWS Norman OK\nExpires: 2026-05-23 21:45 Z\nAt 411 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Durham, moving southeast at 5 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Durham.\nGenerated: 2026-05-23 21:35:14 UTC"
   36.0000, -100.0000
   35.9100, -99.8000
   35.7700, -99.9000
@@ -171,7 +225,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:11PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:04PM CDT by NWS Birmingham AL\nExpires: 2026-05-23 21:45 Z\nAt 404 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles west of Gordonville to near Beechwood to Strata. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montgomery, Mosses, Hayneville, Pike Road, White Hall, Gordonville, Lowndesboro, Benton, Hyundai Motors Of Alabama, Beechwood, Woodcrest, Maxwell Air Force Base, Snowdoun, Sellers, Davenport, Ramer, Pintlala, Hunter, Alabama State University, and Strata.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:04PM CDT by NWS Birmingham AL\nExpires: 2026-05-23 21:45 Z\nAt 404 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles west of Gordonville to near Beechwood to Strata. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montgomery, Mosses, Hayneville, Pike Road, White Hall, Gordonville, Lowndesboro, Benton, Hyundai Motors Of Alabama, Beechwood, Woodcrest, Maxwell Air Force Base, Snowdoun, Sellers, Davenport, Ramer, Pintlala, Hunter, Alabama State University, and Strata.\nGenerated: 2026-05-23 21:35:14 UTC"
   32.0500, -86.3100
   32.0500, -86.4100
   31.9900, -86.4100
@@ -196,7 +250,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:04PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 4:56PM EDT by NWS Wakefield VA\nExpires: 2026-05-23 21:45 Z\nAt 452 PM EDT, radar indicated thunderstorms producing heavy rain were located along a line extending from near Morgans Corner to near Ryland. Movement was north at 15 mph.  Rainfall amounts of 1 to 2 inches in less than an hour and wind gusts up to 30 mph are possible with these storms.  Locations impacted include... Elizabeth City, Camden, Gatesville, Sunbury, South Mills, Ryland, Tyner, Morgans Corner, Hobbsville, Belvidere, Pasquotank, Gliden, Horseshoe, Pierceville, Arrowhead Beach, Peach, Parkville, Tar Corner, Nicanor, and Sharon.  If outdoors, consider seeking shelter inside a building.  Heavy rainfall is also occurring with these storms, and may cause localized flooding. Do not drive your vehicle through flooded roadways.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 4:56PM EDT by NWS Wakefield VA\nExpires: 2026-05-23 21:45 Z\nAt 452 PM EDT, radar indicated thunderstorms producing heavy rain were located along a line extending from near Morgans Corner to near Ryland. Movement was north at 15 mph.  Rainfall amounts of 1 to 2 inches in less than an hour and wind gusts up to 30 mph are possible with these storms.  Locations impacted include... Elizabeth City, Camden, Gatesville, Sunbury, South Mills, Ryland, Tyner, Morgans Corner, Hobbsville, Belvidere, Pasquotank, Gliden, Horseshoe, Pierceville, Arrowhead Beach, Peach, Parkville, Tar Corner, Nicanor, and Sharon.  If outdoors, consider seeking shelter inside a building.  Heavy rainfall is also occurring with these storms, and may cause localized flooding. Do not drive your vehicle through flooded roadways.\nGenerated: 2026-05-23 21:35:14 UTC"
   36.1900, -76.7100
   36.2200, -76.7200
   36.2400, -76.7100
@@ -215,7 +269,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 4:56PM EDT by NWS Wakefield
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 3:55PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-23 21:45 Z\nAt 355 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles west of McCamey, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crane, McCamey, Rankin, Crane County Airport, Upton County Airport, King Mountain, and Girvin.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 3:55PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-23 21:45 Z\nAt 355 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles west of McCamey, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crane, McCamey, Rankin, Crane County Airport, Upton County Airport, King Mountain, and Girvin.\nGenerated: 2026-05-23 21:35:14 UTC"
   31.1900, -101.8300
   31.0800, -102.2900
   31.0900, -102.3700
@@ -229,7 +283,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 3:55PM CDT by NWS Midland/O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 2:54PM MDT by NWS Albuquerque NM\nExpires: 2026-05-23 21:45 Z\nAt 254 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Maes, or 32 miles south of Wagon Mound, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Variadero and Trementina.  This includes State Road 104 between Mile Markers 44 and 52.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 2:54PM MDT by NWS Albuquerque NM\nExpires: 2026-05-23 21:45 Z\nAt 254 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Maes, or 32 miles south of Wagon Mound, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Variadero and Trementina.  This includes State Road 104 between Mile Markers 44 and 52.\nGenerated: 2026-05-23 21:35:14 UTC"
   35.5800, -104.5800
   35.6800, -104.4300
   35.5800, -104.2100
@@ -243,7 +297,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 2:54PM MDT by NWS Albuquerq
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 2:54PM MDT by NWS North Platte NE\nExpires: 2026-05-23 22:00 Z\nAt 253 PM MDT, Doppler radar was tracking a strong thunderstorm near Lemoyne, or 8 miles north of Ogallala, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paxton, Lemoyne, Keystone, Sarben, Roscoe, Kingsley Dam, Big Bald Hill, Nevens, and Broganville.  This includes the following highways... Highway 61 between mile markers 91 and 108. Highway 92 between mile markers 132 and 138. Interstate 80 in Nebraska between mile markers 135 and 150.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 2:54PM MDT by NWS North Platte NE\nExpires: 2026-05-23 22:00 Z\nAt 253 PM MDT, Doppler radar was tracking a strong thunderstorm near Lemoyne, or 8 miles north of Ogallala, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paxton, Lemoyne, Keystone, Sarben, Roscoe, Kingsley Dam, Big Bald Hill, Nevens, and Broganville.  This includes the following highways... Highway 61 between mile markers 91 and 108. Highway 92 between mile markers 132 and 138. Interstate 80 in Nebraska between mile markers 135 and 150.\nGenerated: 2026-05-23 21:35:14 UTC"
   41.2000, -101.8400
   41.3600, -101.8100
   41.3900, -101.2700
@@ -252,7 +306,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 2:54PM MDT by NWS North Pla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 3:43PM CDT by NWS Jackson MS\nExpires: 2026-05-23 21:45 Z\nAt 343 PM CDT, Doppler radar was tracking a strong thunderstorm over Dowdville, or near Pearl River, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Philadelphia, Pearl River, Dowdville, Zama, Edinburg, Madden, and Dixon.\nGenerated: 2026-05-23 21:30:15 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 3:43PM CDT by NWS Jackson MS\nExpires: 2026-05-23 21:45 Z\nAt 343 PM CDT, Doppler radar was tracking a strong thunderstorm over Dowdville, or near Pearl River, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Philadelphia, Pearl River, Dowdville, Zama, Edinburg, Madden, and Dixon.\nGenerated: 2026-05-23 21:35:14 UTC"
   32.5800, -89.1700
   32.5800, -89.2400
   32.5900, -89.4000
