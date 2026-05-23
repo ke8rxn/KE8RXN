@@ -3,9 +3,40 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-23 11:10:14 UTC
+; Generated: 2026-05-23 11:15:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 6:06AM CDT by NWS New Orleans LA\nExpires: 2026-05-23 11:45 Z\nAt 605 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms 10 miles south of Patterson, moving east at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of west central Terrebonne Parish.\nGenerated: 2026-05-23 11:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 6:11AM CDT by NWS Tulsa OK\nExpires: 2026-05-23 12:00 Z\nAt 610 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles north of Krebs to 2 miles west of Hartshorne to 8 miles east of Blanco. Movement was northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Hartshorne...                     Krebs... Alderson...                       Higgins... Blocker...                        Haileyville... Gowen...                          Featherston... Dow...                            Bache...\nGenerated: 2026-05-23 11:15:14 UTC"
+  35.1700, -95.5900
+  35.0500, -95.3900
+  34.7300, -95.4300
+  34.6500, -95.6500
+  34.7900, -95.6800
+  34.9700, -95.7500
+  35.1700, -95.5900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 6:11AM CDT by NWS Lake Charles LA\nExpires: 2026-05-23 12:00 Z\nAt 611 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Patterson, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Morgan City, Patterson, Berwick, Bayou Vista, Patterson Memorial Airport, and Amelia.\nGenerated: 2026-05-23 11:15:14 UTC"
+  29.6200, -91.1200
+  29.6100, -91.1200
+  29.6100, -91.1400
+  29.5900, -91.1600
+  29.6100, -91.1800
+  29.6000, -91.2100
+  29.5800, -91.2300
+  29.5600, -91.2300
+  29.5400, -91.2700
+  29.4700, -91.2700
+  29.4400, -91.3100
+  29.5600, -91.4800
+  29.7700, -91.3300
+  29.7700, -91.3000
+  29.6300, -91.0800
+  29.6200, -91.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 6:06AM CDT by NWS New Orleans LA\nExpires: 2026-05-23 11:45 Z\nAt 605 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms 10 miles south of Patterson, moving east at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of west central Terrebonne Parish.\nGenerated: 2026-05-23 11:15:14 UTC"
   29.4100, -91.2200
   29.4300, -91.2100
   29.4500, -91.2600
@@ -22,18 +53,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 6:06AM CDT by NWS New Orlea
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 5:44AM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-23 11:15 Z\nAt 544 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Spring to Pecan Park to near Holiday Lakes. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pasadena, Pearland, League City, Sugar Land, Baytown, Missouri City, Texas City, Friendswood, La Porte, Deer Park, southeastern Rosenberg, Alvin, Dickinson, Stafford, South Houston, Bellaire, Humble, West University Place, Seabrook, and Galena Park.\nGenerated: 2026-05-23 11:10:14 UTC"
-  30.4100, -95.0300
-  29.6700, -94.6700
-  29.4500, -94.9600
-  29.4400, -95.7100
-  29.6600, -95.7200
-  30.0800, -95.7600
-  30.4100, -95.0300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 5:30AM CDT by NWS Tulsa OK\nExpires: 2026-05-23 11:30 Z\nAt 529 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 6 miles north of Scipio to 7 miles northwest of Daisy. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Mcalester...                      Kiowa... Savanna...                        Hanna... Mcalester Regional Airport...     Haywood... Scipio...                         Blanco... Pittsburg...                      Arpelar...\nGenerated: 2026-05-23 11:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 5:30AM CDT by NWS Tulsa OK\nExpires: 2026-05-23 11:30 Z\nAt 529 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 6 miles north of Scipio to 7 miles northwest of Daisy. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Mcalester...                      Kiowa... Savanna...                        Hanna... Mcalester Regional Airport...     Haywood... Scipio...                         Blanco... Pittsburg...                      Arpelar...\nGenerated: 2026-05-23 11:15:14 UTC"
   34.6800, -95.8800
   34.6800, -95.9800
   34.7400, -96.0300
