@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-24 05:35:11 UTC
+; Generated: 2026-05-24 05:40:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 12:32AM CDT by NWS Louisville KY\nExpires: 2026-05-24 06:00 Z\nAt 1231 AM CDT, Doppler radar was tracking a strong thunderstorm over Byrdstown, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albany, Cartwright, Snow, Cumberland City, Savage, Marlow, Rolan, Browns Crossroads, Nora, and Bug.\nGenerated: 2026-05-24 05:35:11 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 1:36AM EDT by NWS Jackson KY\nExpires: 2026-05-24 06:30 Z\nAt 136 AM EDT, Doppler radar was tracking a strong thunderstorm near Powersburg, or 9 miles northeast of Byrdstown, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Monticello, Whitley City, Parmleysville, Great Meadows Campsites, Slavens, Susie, Parkers Lake, Barrier, Parnell, Gregory, Co- Operative, Pine Knot, Slickford, Ritner, Cabell, Denney, Kidder, Powersburg, Hollyhill, and Wiborg.\nGenerated: 2026-05-24 05:40:12 UTC"
+  36.9200, -84.9600
+  36.9600, -84.9400
+  36.9500, -84.9000
+  37.0000, -84.8400
+  36.9600, -84.7700
+  36.9800, -84.6800
+  36.8900, -84.6200
+  36.8800, -84.6000
+  36.8900, -84.5900
+  36.8700, -84.5800
+  36.9500, -84.4100
+  36.6000, -84.2700
+  36.6000, -84.5700
+  36.6200, -84.9900
+  36.6900, -85.0200
+  36.7600, -85.0100
+  36.8600, -85.0600
+  36.9200, -84.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 12:32AM CDT by NWS Louisville KY\nExpires: 2026-05-24 06:00 Z\nAt 1231 AM CDT, Doppler radar was tracking a strong thunderstorm over Byrdstown, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albany, Cartwright, Snow, Cumberland City, Savage, Marlow, Rolan, Browns Crossroads, Nora, and Bug.\nGenerated: 2026-05-24 05:40:12 UTC"
   36.6300, -85.2900
   36.6300, -85.3000
   36.8600, -85.0700
@@ -22,7 +44,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 12:32AM CDT by NWS Louisvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 12:05AM CDT by NWS New Orleans LA\nExpires: 2026-05-24 05:45 Z\nAt 1205 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas 9 miles southeast of Cocodrie, or 22 miles southwest of Galliano, moving northeast at 20 mph.  HAZARD...Waterspouts, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Houma, Galliano, Golden Meadow, Chauvin, Dulac, Montegut, Leeville, Cocodrie, Bayou Cane, Tambour Bay Buoy, and Lumcon Center Buoy.\nGenerated: 2026-05-24 05:35:11 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 12:05AM CDT by NWS New Orleans LA\nExpires: 2026-05-24 05:45 Z\nAt 1205 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas 9 miles southeast of Cocodrie, or 22 miles southwest of Galliano, moving northeast at 20 mph.  HAZARD...Waterspouts, wind gusts up to 50 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Houma, Galliano, Golden Meadow, Chauvin, Dulac, Montegut, Leeville, Cocodrie, Bayou Cane, Tambour Bay Buoy, and Lumcon Center Buoy.\nGenerated: 2026-05-24 05:40:12 UTC"
   29.1000, -90.2100
   29.2200, -90.2800
   29.2600, -90.3500
