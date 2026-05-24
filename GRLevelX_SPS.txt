@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-24 16:25:12 UTC
+; Generated: 2026-05-24 16:33:46 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 12:10PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 16:45 Z\nAt 1210 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Archer, or 13 miles north of Bronson, moving northeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gainesville, Alachua, High Springs, Archer, University Of Florida, and Newberry.\nGenerated: 2026-05-24 16:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 12:32PM EDT by NWS Tallahassee FL\nExpires: 2026-05-24 17:15 Z\nAt 1232 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Mayo, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mayo, Hatch Bend, Cooks Hammock, San Pedro Junction, Alton, and Fletcher Springs.\nGenerated: 2026-05-24 16:33:46 UTC"
+  29.8300, -82.8900
+  29.8200, -82.9100
+  29.8200, -83.3200
+  29.9800, -83.2600
+  30.1000, -83.1900
+  30.1000, -83.1800
+  30.1100, -83.1600
+  30.0800, -83.0700
+  30.0700, -83.0700
+  30.0400, -83.0300
+  30.0100, -83.0000
+  29.9900, -82.9600
+  29.9600, -82.9500
+  29.9500, -82.9300
+  29.8900, -82.9200
+  29.9000, -82.9000
+  29.8800, -82.8900
+  29.8800, -82.8800
+  29.8300, -82.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 12:10PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 16:45 Z\nAt 1210 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Archer, or 13 miles north of Bronson, moving northeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gainesville, Alachua, High Springs, Archer, University Of Florida, and Newberry.\nGenerated: 2026-05-24 16:33:46 UTC"
   29.9100, -82.5600
   29.7100, -82.2800
   29.4800, -82.5300
@@ -15,46 +38,4 @@ Line: 2,,"Special Weather Statement issued May 24 at 12:10PM EDT by NWS Jacksonv
   29.6000, -82.7200
   29.6700, -82.7300
   29.9100, -82.5600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 12:02PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 16:30 Z\nAt 1202 PM EDT, Doppler radar was tracking a strong thunderstorm near Fort White, or near Ichetucknee Spring, moving northeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bell, Ichetucknee Spring, Fort White, and Hildreth.\nGenerated: 2026-05-24 16:25:12 UTC"
-  29.7000, -82.9600
-  29.7000, -82.9400
-  29.7200, -82.9600
-  29.7200, -82.9400
-  29.7300, -82.9500
-  29.7400, -82.9400
-  29.7700, -82.9500
-  29.8000, -82.9200
-  29.8100, -82.9300
-  29.8300, -82.8900
-  29.8800, -82.8800
-  30.0300, -82.8000
-  29.9600, -82.5500
-  29.9200, -82.5700
-  29.9200, -82.5800
-  29.8900, -82.5800
-  29.6700, -82.8700
-  29.6400, -82.9600
-  29.7000, -82.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 12:00PM EDT by NWS Columbia SC\nExpires: 2026-05-24 16:30 Z\nAt 1159 AM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Bamberg, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bamberg, Rivers Bridge State Park, Ehrhardt, Olar, and Govan.\nGenerated: 2026-05-24 16:25:12 UTC"
-  33.0500, -81.1000
-  33.0600, -81.1300
-  33.1300, -81.2100
-  33.1600, -81.2300
-  33.2400, -81.2200
-  33.3300, -80.9900
-  33.2500, -80.8600
-  33.2100, -80.8400
-  33.1800, -80.8000
-  33.1200, -80.8900
-  33.0900, -80.8800
-  33.0600, -80.9000
-  33.1000, -80.9400
-  33.0300, -81.0800
-  33.0500, -81.1000
 End:
