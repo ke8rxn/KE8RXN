@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-24 08:15:14 UTC
+; Generated: 2026-05-24 08:20:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 2:51AM CDT by NWS Quad Cities IA IL\nExpires: 2026-05-24 08:30 Z\nAt 250 AM CDT, Doppler radar was tracking a strong thunderstorm near Hooppole, or 18 miles southwest of Rock Falls, moving northeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Tampico, Hooppole, Deer Grove, Yorktown, Thomas, and Normandy.\nGenerated: 2026-05-24 08:15:14 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 3:15AM CDT by NWS San Angelo TX\nExpires: 2026-05-24 08:45 Z\nAt 309 AM CDT, Doppler radar was tracking a band of strong thunderstorms and an outflow boundary ahead of the storms, moving southeast at 35 mph. The outflow boundary, marking the strongest winds of 45 to 50 mph, extended from just south of Putnam to Goldsboro. The band of storms extended from just south of Woodson to Albany to the eastern part of the Abilene area. In addition to gusty winds, small hail of pea to half-inch in diameter are possible with the storms.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Abilene, Coleman, Clyde, Albany, Baird, Cross Plains, Hawley, Moran, Woodson, Novice, Putnam, Lake Brownwood Near Thrifty, Burkett, May, Dudley, Cross Cut, Ibex, Rowden, Silver Valley, and Atwell.  This includes Interstate 20 between Mile Markers 281 and 323.\nGenerated: 2026-05-24 08:20:13 UTC"
+  32.9600, -98.9500
+  32.9500, -99.0900
+  32.0800, -99.1200
+  32.0800, -98.9300
+  31.9600, -98.8400
+  31.7300, -99.2700
+  32.0000, -99.7100
+  32.6600, -99.8600
+  32.7800, -99.4100
+  33.1100, -98.9500
+  32.9600, -98.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 2:51AM CDT by NWS Quad Cities IA IL\nExpires: 2026-05-24 08:30 Z\nAt 250 AM CDT, Doppler radar was tracking a strong thunderstorm near Hooppole, or 18 miles southwest of Rock Falls, moving northeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Tampico, Hooppole, Deer Grove, Yorktown, Thomas, and Normandy.\nGenerated: 2026-05-24 08:20:13 UTC"
   41.5700, -89.5900
   41.4700, -89.8700
   41.5500, -89.9400
