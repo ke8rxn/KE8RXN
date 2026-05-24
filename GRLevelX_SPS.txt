@@ -3,9 +3,63 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-24 02:00:16 UTC
+; Generated: 2026-05-24 02:05:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 9:55PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 02:30 Z\nAt 955 PM EDT, Doppler radar was tracking a strong thunderstorm over Taylor, or 25 miles north of Raiford, moving east at 5 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Taylor.\nGenerated: 2026-05-24 02:00:16 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 9:04PM CDT by NWS Amarillo TX\nExpires: 2026-05-24 02:45 Z\nAt 904 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles north of Farnsworth to 19 miles northwest of Codman. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Perryton, Spearman, Wolf Creek Park, Waka, Lora, and Farnsworth.\nGenerated: 2026-05-24 02:05:12 UTC"
+  36.6000, -100.5600
+  35.6800, -100.5200
+  35.8200, -101.2200
+  36.1900, -101.2300
+  36.4600, -101.2800
+  36.5000, -101.0800
+  36.5000, -100.9500
+  36.5200, -100.9500
+  36.6000, -100.5600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 9:02PM CDT by NWS Huntsville AL\nExpires: 2026-05-24 02:45 Z\nAt 901 PM CDT, Doppler radar was tracking a strong thunderstorm near Huntland, moving northeast at 55 mph.  HAZARD...Wind gusts up to 40 mph and dime to nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Winchester, Lynchburg, Decherd, Estill Springs, Huntland, Tims Ford Lake, Lexie Crossroads, Mulberry, Harmony, and Elora.\nGenerated: 2026-05-24 02:05:12 UTC"
+  35.4100, -86.2500
+  35.3900, -86.2800
+  35.3800, -86.2500
+  35.3700, -86.2700
+  35.3400, -86.2400
+  35.3500, -86.2200
+  35.3300, -86.2000
+  35.3600, -86.1600
+  35.3500, -86.0800
+  35.2900, -85.9200
+  34.9900, -86.2700
+  34.9900, -86.3100
+  35.0600, -86.5000
+  35.3300, -86.4600
+  35.3200, -86.4200
+  35.3500, -86.4100
+  35.3600, -86.3300
+  35.4100, -86.2800
+  35.4100, -86.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 9:00PM CDT by NWS San Angelo TX\nExpires: 2026-05-24 03:00 Z\nAt 859 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Us-190 Near The Crockett- Sutton County Line to 7 miles north of Ozona to I- 10 Near The Crockett- Pecos County Line. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ozona, The Intersection Of Us-190 And Ranch Road 1828, I- 10 Near The Crockett-Pecos County Line, I-10 Near The Crockett- Sutton County Line, Ft Lancaster, Us-190 Near The Crockett- Sutton County Line, The Intersection Of I- 10 And Highway 405, and The Intersection Of I-10 And Highway 290.  This includes Interstate 10 between Mile Markers 327 and 386.\nGenerated: 2026-05-24 02:05:12 UTC"
+  30.5200, -101.6800
+  30.5500, -101.6500
+  30.6200, -101.6600
+  30.6500, -101.6900
+  30.6600, -101.7700
+  30.6800, -101.7800
+  30.7000, -101.8100
+  30.7900, -101.8400
+  30.8700, -101.2400
+  31.0200, -100.8500
+  30.7500, -100.5900
+  30.5500, -101.0400
+  30.4800, -101.6900
+  30.5200, -101.6800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 23 at 9:55PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 02:30 Z\nAt 955 PM EDT, Doppler radar was tracking a strong thunderstorm over Taylor, or 25 miles north of Raiford, moving east at 5 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Taylor.\nGenerated: 2026-05-24 02:05:12 UTC"
   30.3900, -82.3400
   30.4300, -82.3300
   30.4900, -82.2900
@@ -16,7 +70,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 9:55PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 8:52PM CDT by NWS Hastings NE\nExpires: 2026-05-24 02:30 Z\nAt 852 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles north of Palmer to near Chapman to near Doniphan. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Giltner, Chapman, Phillips, and Archer around 855 PM CDT. Central City, Fullerton, and Marquette around 900 PM CDT. Aurora around 905 PM CDT. Hampton, Clarks, and Hordville around 910 PM CDT.  Other locations in the path of these storms include Polk, Henderson, Silver Creek and Bradshaw.  This includes Interstate 80 between mile markers 314 and 362.\nGenerated: 2026-05-24 02:00:16 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 8:52PM CDT by NWS Hastings NE\nExpires: 2026-05-24 02:30 Z\nAt 852 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles north of Palmer to near Chapman to near Doniphan. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Giltner, Chapman, Phillips, and Archer around 855 PM CDT. Central City, Fullerton, and Marquette around 900 PM CDT. Aurora around 905 PM CDT. Hampton, Clarks, and Hordville around 910 PM CDT.  Other locations in the path of these storms include Polk, Henderson, Silver Creek and Bradshaw.  This includes Interstate 80 between mile markers 314 and 362.\nGenerated: 2026-05-24 02:05:12 UTC"
   40.6600, -97.4600
   40.7000, -98.3900
   41.0300, -98.2900
@@ -32,7 +86,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 8:52PM CDT by NWS Hastings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 9:34PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 02:15 Z\nAt 933 PM EDT, Doppler radar was tracking an area of strong thunderstorms centered over Citra, moving north at 25 mph.  HAZARD...Wind gusts around 40 to 45 mph, frequent lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Fort McCoy, Citra, Hawthorne, Sparr, Cross Creek, Orange Springs, Micanopy, Reddick, McIntosh, and Hog Valley.\nGenerated: 2026-05-24 02:00:16 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 9:34PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 02:15 Z\nAt 933 PM EDT, Doppler radar was tracking an area of strong thunderstorms centered over Citra, moving north at 25 mph.  HAZARD...Wind gusts around 40 to 45 mph, frequent lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Fort McCoy, Citra, Hawthorne, Sparr, Cross Creek, Orange Springs, Micanopy, Reddick, McIntosh, and Hog Valley.\nGenerated: 2026-05-24 02:05:12 UTC"
   29.3100, -81.9000
   29.3100, -82.0900
   29.4300, -82.3800
@@ -42,7 +96,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 9:34PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 8:29PM CDT by NWS Huntsville AL\nExpires: 2026-05-24 02:15 Z\nAt 828 PM CDT, Doppler radar was tracking a strong thunderstorm near Hazel Green, moving northeast at 30 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Northern Huntsville, Fayetteville, Moores Mill, Meridianville, Hazel Green, Ardmore, Harvest, Lincoln, Elkwood, and Howell.\nGenerated: 2026-05-24 02:00:16 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 8:29PM CDT by NWS Huntsville AL\nExpires: 2026-05-24 02:15 Z\nAt 828 PM CDT, Doppler radar was tracking a strong thunderstorm near Hazel Green, moving northeast at 30 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Northern Huntsville, Fayetteville, Moores Mill, Meridianville, Hazel Green, Ardmore, Harvest, Lincoln, Elkwood, and Howell.\nGenerated: 2026-05-24 02:05:12 UTC"
   35.2000, -86.3000
   35.2000, -86.3100
   35.1800, -86.3000
@@ -61,7 +115,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 8:29PM CDT by NWS Huntsvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 8:22PM CDT by NWS San Angelo TX\nExpires: 2026-05-24 02:15 Z\nAt 822 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sherwood to 11 miles north of Us- 190 Near The Crockett- Sutton County Line to near The Intersection Of Us 190 And Highway 163. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 45 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mertzon, Knickerbocker, Sherwood, The Intersection Of Us- 190 And Ranch Road 1828, The Intersection Of Us 190 And Highway 163, and Us-190 Near The Crockett-Sutton County Line.\nGenerated: 2026-05-24 02:00:16 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 8:22PM CDT by NWS San Angelo TX\nExpires: 2026-05-24 02:15 Z\nAt 822 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sherwood to 11 miles north of Us- 190 Near The Crockett- Sutton County Line to near The Intersection Of Us 190 And Highway 163. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 45 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mertzon, Knickerbocker, Sherwood, The Intersection Of Us- 190 And Ranch Road 1828, The Intersection Of Us 190 And Highway 163, and Us-190 Near The Crockett-Sutton County Line.\nGenerated: 2026-05-24 02:05:12 UTC"
   31.2400, -100.4900
   30.9100, -100.6800
   30.7100, -101.0100
@@ -72,7 +126,7 @@ Line: 2,,"Special Weather Statement issued May 23 at 8:22PM CDT by NWS San Angel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 23 at 8:19PM CDT by NWS San Angelo TX\nExpires: 2026-05-24 02:15 Z\nAt 818 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Us-87 Near The Coke- Tom Green County Line to near Arden to Sherwood. Movement was east at 20 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... San Angelo, Carlsbad, San Angelo State Park, Arden, Twin Buttes Reservoir, O.C. Fisher Reservoir, Lake Nasworthy, Tankersley, Water Valley, Grape Creek, Goodfellow Air Force Base, and Us- 67 Near The Irion-Tom Green County Line.\nGenerated: 2026-05-24 02:00:16 UTC"
+Line: 2,,"Special Weather Statement issued May 23 at 8:19PM CDT by NWS San Angelo TX\nExpires: 2026-05-24 02:15 Z\nAt 818 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Us-87 Near The Coke- Tom Green County Line to near Arden to Sherwood. Movement was east at 20 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... San Angelo, Carlsbad, San Angelo State Park, Arden, Twin Buttes Reservoir, O.C. Fisher Reservoir, Lake Nasworthy, Tankersley, Water Valley, Grape Creek, Goodfellow Air Force Base, and Us- 67 Near The Irion-Tom Green County Line.\nGenerated: 2026-05-24 02:05:12 UTC"
   31.5800, -100.3700
   31.3700, -100.4000
   31.2300, -100.4700
