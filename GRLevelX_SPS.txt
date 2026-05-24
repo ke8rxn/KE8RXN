@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-24 18:40:14 UTC
+; Generated: 2026-05-24 18:50:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 2:26PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 19:00 Z\nAt 226 PM EDT, Doppler radar was tracking a strong thunderstorm near Statenville, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jennings, Statenville, and Mayday.\nGenerated: 2026-05-24 18:40:14 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 12:48PM MDT by NWS Pocatello ID\nExpires: 2026-05-24 19:15 Z\nAt 1248 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Craters Of The Moon, or 14 miles south of Grouse, moving east at 40 mph.  HAZARD...Wind gusts in excess of 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Craters Of The Moon and Butte City.\nGenerated: 2026-05-24 18:50:12 UTC"
+  43.3700, -113.7100
+  43.5500, -113.7400
+  43.6400, -113.1300
+  43.3800, -113.1000
+  43.3700, -113.7100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 2:47PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 19:15 Z\nAt 247 PM EDT, Doppler radar was tracking a strong thunderstorm near Maxville, or 15 miles north of Middleburg, moving northeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cecil Field, Maxville, Cisco Gardens, Bryceville, Baldwin, and Whitehouse Air Field.\nGenerated: 2026-05-24 18:50:12 UTC"
+  30.1200, -81.9300
+  30.2600, -82.1000
+  30.3600, -82.0600
+  30.3700, -82.0400
+  30.4000, -82.0400
+  30.5600, -81.9700
+  30.4300, -81.7300
+  30.1200, -81.9300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 2:26PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 19:00 Z\nAt 226 PM EDT, Doppler radar was tracking a strong thunderstorm near Statenville, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jennings, Statenville, and Mayday.\nGenerated: 2026-05-24 18:50:12 UTC"
   30.6300, -83.1700
   30.6300, -83.1400
   30.6900, -83.1400
@@ -17,13 +38,4 @@ Line: 2,,"Special Weather Statement issued May 24 at 2:26PM EDT by NWS Jacksonvi
   30.5100, -83.0000
   30.6000, -83.1800
   30.6300, -83.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 2:00PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 18:45 Z\nAt 200 PM EDT, Doppler radar was tracking a strong thunderstorm near Raiford, moving northeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raiford, Macclenny, Glen St. Mary, Sanderson, Baldwin, Ellerbee, and Johnstown.\nGenerated: 2026-05-24 18:40:14 UTC"
-  30.0100, -82.2000
-  30.0600, -82.3900
-  30.4000, -82.3100
-  30.3100, -81.9700
-  30.0100, -82.2000
 End:
