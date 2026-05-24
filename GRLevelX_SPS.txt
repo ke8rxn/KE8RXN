@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-24 17:15:14 UTC
+; Generated: 2026-05-24 17:20:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 1:13PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 18:00 Z\nAt 113 PM EDT, Doppler radar was tracking a strong thunderstorm near Lake City, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake City, Columbia, Five Points, Watertown, Winfield, and Suwannee Valley.\nGenerated: 2026-05-24 17:15:14 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 1:16PM EDT by NWS Columbia SC\nExpires: 2026-05-24 17:45 Z\nAt 115 PM EDT, Doppler radar was tracking a strong thunderstorm over Bowman, or 12 miles southeast of Brookdale, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Orangeburg, Brookdale, Bowman, Elloree, Santee State Park, Claflin College, South Carolina State University, Santee, Cameron, Vance, Poplar Creek Landing, Stumphole Landing, Yonder Field, Wilkinson Heights, and Creston.  This includes the following highways... Interstate 26 between mile markers 144 and 167. Interstate 95 between mile markers 88 and 103.\nGenerated: 2026-05-24 17:20:13 UTC"
+  33.3500, -80.4300
+  33.3100, -80.8000
+  33.5800, -80.8900
+  33.6500, -80.4000
+  33.3500, -80.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 1:13PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 18:00 Z\nAt 113 PM EDT, Doppler radar was tracking a strong thunderstorm near Lake City, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake City, Columbia, Five Points, Watertown, Winfield, and Suwannee Valley.\nGenerated: 2026-05-24 17:20:13 UTC"
   30.0300, -82.6700
   30.1300, -82.8400
   30.3700, -82.7200
@@ -17,7 +26,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 1:13PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 12:47PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 17:30 Z\nAt 1247 PM EDT, Doppler radar was tracking a strong thunderstorm near High Springs, or 10 miles west of Worthington Spring, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Butler, Worthington Spring, Alachua, High Springs, Fort White, Worthington Springs, Palestine Community, Groves, Providence, and Beasley.\nGenerated: 2026-05-24 17:15:14 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 12:47PM EDT by NWS Jacksonville FL\nExpires: 2026-05-24 17:30 Z\nAt 1247 PM EDT, Doppler radar was tracking a strong thunderstorm near High Springs, or 10 miles west of Worthington Spring, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Butler, Worthington Spring, Alachua, High Springs, Fort White, Worthington Springs, Palestine Community, Groves, Providence, and Beasley.\nGenerated: 2026-05-24 17:20:13 UTC"
   30.1700, -82.5600
   29.9900, -82.2700
   29.7200, -82.5600
