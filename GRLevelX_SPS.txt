@@ -3,9 +3,45 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-25 22:10:13 UTC
+; Generated: 2026-05-25 22:15:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 6:05PM EDT by NWS Jacksonville FL\nExpires: 2026-05-25 22:45 Z\nAt 604 PM EDT, Doppler radar was tracking a strong thunderstorm near Fort Mudge, or 14 miles southwest of Nahunta, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waycross, Blackshear, Braganza, Boggy Bay, and Fort Mudge.\nGenerated: 2026-05-25 22:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 6:12PM EDT by NWS Wakefield VA\nExpires: 2026-05-25 23:00 Z\nAt 612 PM EDT, Doppler radar was tracking a strong thunderstorm near Wicomico, or near Gloucester Point, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Gloucester Courthouse, Gloucester Point, Hayes, and Wicomico around 615 PM EDT. Mathews and Mobjack around 625 PM EDT. Gwynn around 635 PM EDT.  Other locations impacted by this storm include Lackey, Beulah, Moon, Laban, Camp Peary, Naxera, Grafton, Amburg, Ewell, and Greys Point.\nGenerated: 2026-05-25 22:15:12 UTC"
+  37.2900, -76.2400
+  37.2800, -76.2700
+  37.2900, -76.3300
+  37.2600, -76.3400
+  37.2100, -76.5600
+  37.2200, -76.5900
+  37.2000, -76.5900
+  37.3100, -76.8100
+  37.6700, -76.3500
+  37.6100, -76.2300
+  37.5400, -76.2500
+  37.3800, -76.1900
+  37.2900, -76.2400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 4:11PM MDT by NWS Missoula MT\nExpires: 2026-05-25 22:45 Z\nAt 411 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Hamilton, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hamilton, Woodside, Victor, Pinesdale, Corvallis, Grantsdale and Charlos Heights.\nGenerated: 2026-05-25 22:15:12 UTC"
+  46.1500, -114.2600
+  46.1600, -114.3000
+  46.4300, -114.2400
+  46.3300, -113.8500
+  46.0800, -114.0600
+  46.1500, -114.2600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 4:10PM MDT by NWS Pueblo CO\nExpires: 2026-05-25 22:45 Z\nAt 410 PM MDT, Doppler radar was tracking a strong thunderstorm over Kim, or 42 miles northeast of Des Moines, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph, half inch hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kim.\nGenerated: 2026-05-25 22:15:12 UTC"
+  37.1500, -103.2700
+  37.1800, -103.4900
+  37.4300, -103.4500
+  37.3900, -103.1600
+  37.1500, -103.2700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 6:05PM EDT by NWS Jacksonville FL\nExpires: 2026-05-25 22:45 Z\nAt 604 PM EDT, Doppler radar was tracking a strong thunderstorm near Fort Mudge, or 14 miles southwest of Nahunta, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waycross, Blackshear, Braganza, Boggy Bay, and Fort Mudge.\nGenerated: 2026-05-25 22:15:12 UTC"
   31.0500, -82.0200
   30.9800, -82.3500
   31.2600, -82.4200
@@ -15,7 +51,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 6:05PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 4:04PM MDT by NWS Pueblo CO\nExpires: 2026-05-25 22:30 Z\nAt 404 PM MDT, Doppler radar was tracking a strong thunderstorm near Queens Reservoir, or 14 miles north of Lamar, moving north at 20 mph.  HAZARD...Wind gusts up to 45 mph, half inch hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chivington, Brandon, Neeoshe Reservoir, and Queens Reservoir.\nGenerated: 2026-05-25 22:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 4:04PM MDT by NWS Pueblo CO\nExpires: 2026-05-25 22:30 Z\nAt 404 PM MDT, Doppler radar was tracking a strong thunderstorm near Queens Reservoir, or 14 miles north of Lamar, moving north at 20 mph.  HAZARD...Wind gusts up to 45 mph, half inch hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chivington, Brandon, Neeoshe Reservoir, and Queens Reservoir.\nGenerated: 2026-05-25 22:15:12 UTC"
   38.2000, -102.4800
   38.2300, -102.7000
   38.4700, -102.6900
@@ -25,7 +61,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 4:04PM MDT by NWS Pueblo CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 4:01PM MDT by NWS Missoula MT\nExpires: 2026-05-25 22:30 Z\nAt 401 PM MDT, Doppler radar was tracking a shower over Wye, or near Missoula, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, Evaro and Wye.\nGenerated: 2026-05-25 22:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 4:01PM MDT by NWS Missoula MT\nExpires: 2026-05-25 22:30 Z\nAt 401 PM MDT, Doppler radar was tracking a shower over Wye, or near Missoula, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, Evaro and Wye.\nGenerated: 2026-05-25 22:15:12 UTC"
   46.9100, -114.2600
   47.1600, -114.1300
   47.0600, -113.8300
@@ -34,7 +70,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 4:01PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:58PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-25 22:45 Z\nAt 558 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Laurens, or 5 miles northeast of Waterloo, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Greenwood, Laurens, Clinton, Ware Shoals, Joanna, Gray Court, Cross Hill, Cokesbury, Waterloo, and Hodges.\nGenerated: 2026-05-25 22:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:58PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-25 22:45 Z\nAt 558 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Laurens, or 5 miles northeast of Waterloo, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Greenwood, Laurens, Clinton, Ware Shoals, Joanna, Gray Court, Cross Hill, Cokesbury, Waterloo, and Hodges.\nGenerated: 2026-05-25 22:15:12 UTC"
   34.2400, -82.2600
   34.3800, -82.2900
   34.4100, -82.2500
@@ -49,7 +85,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 5:58PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 3:57PM MDT by NWS Pocatello ID\nExpires: 2026-05-25 22:30 Z\nAt 356 PM MDT, Doppler radar was tracking gusty showers near Atomic City, or 27 miles southwest of Terreton, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Atomic City, Central Inl, Taber, Southeast Inl, Southwest Inl, Kettle Butte, Howe, and East Butte.\nGenerated: 2026-05-25 22:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 3:57PM MDT by NWS Pocatello ID\nExpires: 2026-05-25 22:30 Z\nAt 356 PM MDT, Doppler radar was tracking gusty showers near Atomic City, or 27 miles southwest of Terreton, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Atomic City, Central Inl, Taber, Southeast Inl, Southwest Inl, Kettle Butte, Howe, and East Butte.\nGenerated: 2026-05-25 22:15:12 UTC"
   43.1900, -112.6100
   43.5600, -113.2000
   43.9200, -113.2200
@@ -59,7 +95,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 3:57PM MDT by NWS Pocatello
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 3:53PM MDT by NWS Missoula MT\nExpires: 2026-05-25 22:45 Z\nAt 353 PM MDT, Doppler radar was tracking a strong thunderstorm over Conner, or 21 miles south of Hamilton, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Darby, Conner, Como and Charlos Heights.\nGenerated: 2026-05-25 22:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 3:53PM MDT by NWS Missoula MT\nExpires: 2026-05-25 22:45 Z\nAt 353 PM MDT, Doppler radar was tracking a strong thunderstorm over Conner, or 21 miles south of Hamilton, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Darby, Conner, Como and Charlos Heights.\nGenerated: 2026-05-25 22:15:12 UTC"
   46.0400, -114.2700
   46.2200, -114.2400
   46.1200, -113.8200
@@ -69,7 +105,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 3:53PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:53PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 22:30 Z\nAt 553 PM EDT, a strong thunderstorm was over Ficklin, or near Washington, moving north at 20 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Washington, Rayle, Ficklin, Newtown, Lundberg, Celeste, and Sandy Cross.\nGenerated: 2026-05-25 22:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:53PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 22:30 Z\nAt 553 PM EDT, a strong thunderstorm was over Ficklin, or near Washington, moving north at 20 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Washington, Rayle, Ficklin, Newtown, Lundberg, Celeste, and Sandy Cross.\nGenerated: 2026-05-25 22:15:12 UTC"
   33.5900, -82.7000
   33.5800, -82.7000
   33.5700, -82.8900
@@ -77,126 +113,4 @@ Line: 2,,"Special Weather Statement issued May 25 at 5:53PM EDT by NWS Peachtree
   33.8300, -82.8100
   33.8200, -82.6700
   33.5900, -82.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 3:51PM MDT by NWS Pueblo CO\nExpires: 2026-05-25 22:15 Z\nAt 350 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Pritchett, or 13 miles northwest of Springfield, moving north at 20 mph.  HAZARD...Wind gusts up to 45 mph, half inch hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Prowers, northwestern Baca and southeastern Bent Counties.\nGenerated: 2026-05-25 22:10:13 UTC"
-  37.3900, -102.7500
-  37.4300, -102.9500
-  37.6600, -102.9100
-  37.6800, -102.7900
-  37.6400, -102.6600
-  37.3900, -102.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 4:50PM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 22:15 Z\nAt 450 PM CDT, Doppler radar was tracking a strong thunderstorm near Lake Limestone, or 14 miles south of Teague, moving south at 5 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Lake Limestone around 455 PM CDT.  Other locations impacted by this storm include Cotton Gin, Farrar, Jewett, Oletha, Fallon, Box Church, Seale, Shiloh, Donie, and Freestone.\nGenerated: 2026-05-25 22:10:13 UTC"
-  31.6900, -96.3700
-  31.4100, -96.1000
-  31.1800, -96.3100
-  31.5400, -96.5800
-  31.6900, -96.3700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:49PM EDT by NWS Jacksonville FL\nExpires: 2026-05-25 22:15 Z\nAt 548 PM EDT, Doppler radar was tracking a strong thunderstorm near Nicholls, or near Alma, moving north at 25 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alma and Nicholls.\nGenerated: 2026-05-25 22:10:13 UTC"
-  31.4300, -82.4400
-  31.4200, -82.6500
-  31.6800, -82.7300
-  31.7000, -82.4100
-  31.4300, -82.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:49PM EDT by NWS Marquette MI\nExpires: 2026-05-25 22:15 Z\nAt 549 PM EDT, Doppler radar was tracking a strong thunderstorm over Deerton, or 18 miles west of Grand Island, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Munising, Grand Island, Au Train, Chatham, Deerton, Laughing Whitefish Falls, and Christmas.\nGenerated: 2026-05-25 22:10:13 UTC"
-  46.3900, -87.1500
-  46.5100, -87.1300
-  46.4900, -86.6600
-  46.3100, -86.7000
-  46.3900, -87.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 4:45PM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 22:15 Z\nAt 444 PM CDT, Doppler radar was tracking a strong thunderstorm near Dawson, or 16 miles southwest of Corsicana. This storm was nearly stationary.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Dawson around 450 PM CDT.  Other locations impacted by this storm include Pelham, Silver City, Dresden, Navarro Mills, Purdon, and Malone.\nGenerated: 2026-05-25 22:10:13 UTC"
-  31.9500, -96.8900
-  32.0800, -96.6500
-  31.8500, -96.4100
-  31.7300, -96.6200
-  31.7800, -96.8000
-  31.8800, -96.9000
-  31.9500, -96.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:44PM EDT by NWS Marquette MI\nExpires: 2026-05-25 22:15 Z\nAt 543 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Rock, or 15 miles north of Escanaba, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rapid River, Brampton, Ensign, Maplewood, St. Nicholas, and Perkins.\nGenerated: 2026-05-25 22:10:13 UTC"
-  45.9100, -87.2400
-  46.0200, -87.2400
-  46.0400, -86.7900
-  45.8400, -86.8500
-  45.9100, -87.2400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 3:40PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-05-25 22:15 Z\nAt 339 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles south of the Santa Teresa Port of Entry, moving north at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail. Blowing dust is also likely.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... West El Paso, Santa Teresa, Anthony, Sunland Park, Canutillo, Westway, Vinton, La Union, Union Pacific Intermodal Terminal, and Kilbourne Hole.\nGenerated: 2026-05-25 22:10:13 UTC"
-  31.9600, -106.9700
-  32.0000, -106.5500
-  31.7800, -106.5700
-  31.7900, -106.9400
-  31.9600, -106.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:36PM EDT by NWS Wakefield VA\nExpires: 2026-05-25 22:15 Z\nAt 536 PM EDT, Doppler radar was tracking a strong thunderstorm near Jamestown, or near College Of William And Mary, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Williamsburg, Grove, Kings Point, York Terrace, Carver Gardens, and Busch Gardens around 540 PM EDT. Newport News and Queens Lake around 545 PM EDT. Gloucester Point and Wicomico around 550 PM EDT. Virginia Institute For Marine Sciences around 555 PM EDT. Achilles around 600 PM EDT. Hayes around 605 PM EDT.  Other locations impacted by this storm include Lackey, Ruff, Beulah, Camp Peary, Glass, Naxera, Oriana, Ewell, Newport News Golf Course, and Oyster Point.\nGenerated: 2026-05-25 22:10:13 UTC"
-  37.2900, -76.2300
-  37.2800, -76.2300
-  37.2600, -76.2800
-  37.2900, -76.3300
-  37.1800, -76.3400
-  37.1600, -76.3900
-  37.1600, -76.4000
-  37.1500, -76.4100
-  37.0500, -76.6000
-  37.2000, -76.6300
-  37.2400, -76.7400
-  37.2600, -76.8400
-  37.5300, -76.4800
-  37.3500, -76.2200
-  37.2900, -76.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 3:31PM MDT by NWS Boise ID\nExpires: 2026-05-25 22:15 Z\nAt 330 PM MDT, Doppler radar was tracking a strong thunderstorm over C J Strike Reservoir, or 15 miles southwest of Mountain Home, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  This strong thunderstorm will be near... Mountain Home Air Force Base and C J Strike Reservoir around 340 PM MDT. Mountain Home around 350 PM MDT.\nGenerated: 2026-05-25 22:10:13 UTC"
-  42.7300, -115.6500
-  42.9000, -116.1400
-  43.3400, -115.7700
-  43.1100, -115.2900
-  42.7300, -115.6500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 3:28PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-05-25 22:15 Z\nAt 326 PM MDT, Doppler radar was tracking a strong thunderstorm near Tornillo, moving northeast at 35 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mission Valley, Tornillo, Clint, Horizon City, Fabens, Fort Hancock, Esperanza, San Elizario, Indian Cliffs Ranch, Acala, Socorro, Finlay, McNary, Sparks.\nGenerated: 2026-05-25 22:10:13 UTC"
-  31.1600, -105.7400
-  31.1600, -105.7700
-  31.2900, -105.8700
-  31.3200, -105.9400
-  31.3700, -105.9500
-  31.3900, -106.0100
-  31.4000, -106.0800
-  31.4800, -106.2200
-  31.5400, -106.2500
-  31.5700, -106.2800
-  31.6700, -106.3400
-  31.8400, -106.1500
-  31.3800, -105.5200
-  31.1300, -105.6900
-  31.1600, -105.7400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 3:22PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-05-25 22:15 Z\nAt 321 PM MDT, Doppler radar was tracking a strong thunderstorm near Organ, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Organ, East Mesa, Portions of Jornada Experimental Range, Aguirre Springs, Lake Lucero, and Portions of Organ Mountains Desert Peaks National Monument.\nGenerated: 2026-05-25 22:10:13 UTC"
-  32.3800, -106.5300
-  32.3900, -106.6800
-  32.7200, -106.7400
-  32.7100, -106.4100
-  32.3800, -106.5300
 End:
