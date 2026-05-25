@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-25 23:30:14 UTC
+; Generated: 2026-05-25 23:35:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:28PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-26 00:00 Z\nAt 728 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles east of Hartwell, or 5 miles west of Iva, moving north at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Anderson, Elberton, Hartwell, Homeland Park, Iva, Lake Secession, Starr, Lowndesville, Anderson Airport, and Russell State Park.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:32PM MDT by NWS Missoula MT\nExpires: 2026-05-26 00:00 Z\nAt 532 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles west of Drummond, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Garnet, Nimrod, Bearmouth and Greenough.  This includes the following highways... Highway 200 E between mile markers 19 and 24. Interstate 90 between mile markers 128 and 144.\nGenerated: 2026-05-25 23:35:14 UTC"
+  46.7000, -113.6100
+  46.7000, -113.6200
+  46.9400, -113.4900
+  46.8500, -113.1900
+  46.6200, -113.3800
+  46.6200, -113.3900
+  46.6500, -113.3900
+  46.6700, -113.4600
+  46.6900, -113.5800
+  46.7000, -113.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 7:28PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-26 00:00 Z\nAt 728 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles east of Hartwell, or 5 miles west of Iva, moving north at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Anderson, Elberton, Hartwell, Homeland Park, Iva, Lake Secession, Starr, Lowndesville, Anderson Airport, and Russell State Park.\nGenerated: 2026-05-25 23:35:14 UTC"
   33.9900, -82.8300
   33.9800, -82.8400
   33.9800, -82.8600
@@ -23,7 +37,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:28PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:27PM MDT by NWS Billings MT\nExpires: 2026-05-26 00:30 Z\nAt 527 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Big Timber, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Timber and Greycliff.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:27PM MDT by NWS Billings MT\nExpires: 2026-05-26 00:30 Z\nAt 527 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Big Timber, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Timber and Greycliff.\nGenerated: 2026-05-25 23:35:14 UTC"
   45.9900, -110.0200
   45.9000, -109.6000
   45.5800, -109.8400
@@ -43,7 +57,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 5:27PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:26PM EDT by NWS Peachtree City GA\nExpires: 2026-05-26 00:00 Z\nAt 726 PM EDT, a strong thunderstorm was over Eubank Lake, or 7 miles north of Buchanan, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Antioch and Eubank Lake.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:26PM EDT by NWS Peachtree City GA\nExpires: 2026-05-26 00:00 Z\nAt 726 PM EDT, a strong thunderstorm was over Eubank Lake, or 7 miles north of Buchanan, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Antioch and Eubank Lake.\nGenerated: 2026-05-25 23:35:14 UTC"
   33.8500, -85.1900
   33.9200, -85.2100
   34.0000, -85.1000
@@ -53,7 +67,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:26PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:25PM EDT by NWS Marquette MI\nExpires: 2026-05-26 00:00 Z\nAt 724 PM EDT, Doppler radar was tracking a strong thunderstorm over Shingleton, or 10 miles southeast of Munising, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shingleton and M-28 between Shingleton and Seney.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:25PM EDT by NWS Marquette MI\nExpires: 2026-05-26 00:00 Z\nAt 724 PM EDT, Doppler radar was tracking a strong thunderstorm over Shingleton, or 10 miles southeast of Munising, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shingleton and M-28 between Shingleton and Seney.\nGenerated: 2026-05-25 23:35:14 UTC"
   46.2800, -86.5500
   46.4100, -86.5200
   46.4000, -86.0800
@@ -62,7 +76,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:25PM EDT by NWS Marquette
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:21PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 23:45 Z\nAt 721 PM EDT, a strong thunderstorm was over Forney, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Cave Spring.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:21PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 23:45 Z\nAt 721 PM EDT, a strong thunderstorm was over Forney, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Cave Spring.\nGenerated: 2026-05-25 23:35:14 UTC"
   34.1800, -85.3900
   34.0700, -85.2900
   34.0400, -85.4100
@@ -72,7 +86,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:21PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:19PM MDT by NWS Missoula MT\nExpires: 2026-05-25 23:45 Z\nAt 519 PM MDT, Doppler radar was tracking a line of showers extending from near Lolo to 14 miles south of Bonner-West Riverside, or extending from 10 miles southwest of Missoula to 17 miles southeast of Missoula, moving north at 35 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, Lolo, East Missoula, Bonner-West Riverside, Wye, Evaro, Frenchtown, Turah, Twin Creeks and Clinton.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:19PM MDT by NWS Missoula MT\nExpires: 2026-05-25 23:45 Z\nAt 519 PM MDT, Doppler radar was tracking a line of showers extending from near Lolo to 14 miles south of Bonner-West Riverside, or extending from 10 miles southwest of Missoula to 17 miles southeast of Missoula, moving north at 35 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, Lolo, East Missoula, Bonner-West Riverside, Wye, Evaro, Frenchtown, Turah, Twin Creeks and Clinton.\nGenerated: 2026-05-25 23:35:14 UTC"
   46.7800, -114.3100
   47.0800, -114.2100
   47.0300, -113.8800
@@ -84,7 +98,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 5:19PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:19PM MDT by NWS Pueblo CO\nExpires: 2026-05-26 00:00 Z\nAt 519 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Lamar, moving north at 30 mph.  HAZARD...Wind gusts up to 45 mph, half inch hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:19PM MDT by NWS Pueblo CO\nExpires: 2026-05-26 00:00 Z\nAt 519 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Lamar, moving north at 30 mph.  HAZARD...Wind gusts up to 45 mph, half inch hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar.\nGenerated: 2026-05-25 23:35:14 UTC"
   37.8600, -102.4700
   37.9200, -102.6800
   38.2600, -102.6800
@@ -94,7 +108,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 5:19PM MDT by NWS Pueblo CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:15PM EDT by NWS Jacksonville FL\nExpires: 2026-05-25 23:45 Z\nAt 714 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Nicholls, or 8 miles east of Douglas, moving north at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hazlehurst, Alma, Graham, Nicholls, West Green, Snipesville, and Denton.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:15PM EDT by NWS Jacksonville FL\nExpires: 2026-05-25 23:45 Z\nAt 714 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Nicholls, or 8 miles east of Douglas, moving north at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hazlehurst, Alma, Graham, Nicholls, West Green, Snipesville, and Denton.\nGenerated: 2026-05-25 23:35:14 UTC"
   31.9700, -82.4800
   31.4600, -82.4700
   31.4700, -82.8100
@@ -112,7 +126,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:15PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 6:13PM CDT by NWS Huntsville AL\nExpires: 2026-05-26 00:00 Z\nAt 613 PM CDT, trained weather spotters reported a strong thunderstorm near Henagar, or 15 miles north of Rainsville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Trained weather spotters.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Henagar, Ider, Pisgah, Fabius, Higdon, and Rosalie.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 6:13PM CDT by NWS Huntsville AL\nExpires: 2026-05-26 00:00 Z\nAt 613 PM CDT, trained weather spotters reported a strong thunderstorm near Henagar, or 15 miles north of Rainsville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Trained weather spotters.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Henagar, Ider, Pisgah, Fabius, Higdon, and Rosalie.\nGenerated: 2026-05-25 23:35:14 UTC"
   34.6100, -85.7900
   34.7100, -85.9300
   34.9900, -85.6100
@@ -123,7 +137,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 6:13PM CDT by NWS Huntsvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:01PM MDT by NWS Boise ID\nExpires: 2026-05-25 23:45 Z\nAt 501 PM MDT, Doppler radar was tracking a strong thunderstorm over Big Creek Summit, or 22 miles southeast of McCall, moving north at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... McCall, Cascade, Donnelly, Upper Payette Lake, Poverty Flat Campground, Ponderosa Campground, Pistol Rock, Cascade Reservoir, Warm Lake, Horsethief Reservoir, Paddy Flat Work Center, Payette Lake, Little Payette Lake, Lake Fork Guard Station, Parks Peak, Stibnite, Big Creek Summit, Halfway Station, Lick Creek Summit, and Landmark.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:01PM MDT by NWS Boise ID\nExpires: 2026-05-25 23:45 Z\nAt 501 PM MDT, Doppler radar was tracking a strong thunderstorm over Big Creek Summit, or 22 miles southeast of McCall, moving north at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... McCall, Cascade, Donnelly, Upper Payette Lake, Poverty Flat Campground, Ponderosa Campground, Pistol Rock, Cascade Reservoir, Warm Lake, Horsethief Reservoir, Paddy Flat Work Center, Payette Lake, Little Payette Lake, Lake Fork Guard Station, Parks Peak, Stibnite, Big Creek Summit, Halfway Station, Lick Creek Summit, and Landmark.\nGenerated: 2026-05-25 23:35:14 UTC"
   45.0800, -115.1700
   44.4400, -115.6000
   44.5400, -116.1300
@@ -133,7 +147,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 5:01PM MDT by NWS Boise ID\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 6:55PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-25 23:45 Z\nAt 654 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles southeast of Spartanburg, or over Croft State Park, moving north at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spartanburg, Gaffney, Union, Laurens, Clinton, Boiling Springs SC, Woodruff, Duncan, Lyman, and Pacolet.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 6:55PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-25 23:45 Z\nAt 654 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles southeast of Spartanburg, or over Croft State Park, moving north at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spartanburg, Gaffney, Union, Laurens, Clinton, Boiling Springs SC, Woodruff, Duncan, Lyman, and Pacolet.\nGenerated: 2026-05-25 23:35:14 UTC"
   34.4400, -81.9400
   34.6600, -82.1700
   34.7300, -82.1800
@@ -146,7 +160,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 6:55PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 6:45PM EDT by NWS Tallahassee FL\nExpires: 2026-05-25 23:45 Z\nAt 645 PM EDT/545 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles east of Florala to 12 miles east of Santa Rosa Beach. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Panama City Beach, Vernon, De Funiak Springs, Bonifay, Geneva, Eglin Air Force Base, Union, Live Oak, Freeport, Ponce De Leon, Caryville, Westville, Ebro, Black, Whitehead Crossroads, Cerrogordo, Gulf Resort Beach, Gritney, West Panama City, and Bahama Beach.\nGenerated: 2026-05-25 23:30:14 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 6:45PM EDT by NWS Tallahassee FL\nExpires: 2026-05-25 23:45 Z\nAt 645 PM EDT/545 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles east of Florala to 12 miles east of Santa Rosa Beach. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Panama City Beach, Vernon, De Funiak Springs, Bonifay, Geneva, Eglin Air Force Base, Union, Live Oak, Freeport, Ponce De Leon, Caryville, Westville, Ebro, Black, Whitehead Crossroads, Cerrogordo, Gulf Resort Beach, Gritney, West Panama City, and Bahama Beach.\nGenerated: 2026-05-25 23:35:14 UTC"
   31.1800, -85.8000
   30.6900, -85.6400
   30.1200, -85.7600
