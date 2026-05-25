@@ -3,9 +3,59 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-25 00:20:13 UTC
+; Generated: 2026-05-25 00:25:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 8:19PM EDT by NWS Jacksonville FL\nExpires: 2026-05-25 00:45 Z\nAt 819 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Alachua to near Williston Municipal Airport. Movement was north at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alachua, Archer, Flemington, and Romeo.\nGenerated: 2026-05-25 00:20:13 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 7:23PM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 01:00 Z\nAt 723 PM CDT, Doppler radar was tracking a strong thunderstorm near Palo Pinto Mountains State Park, or 7 miles north of Ranger, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southeastern Stephens County.\nGenerated: 2026-05-25 00:25:12 UTC"
+  32.7400, -98.7700
+  32.7500, -98.5800
+  32.5100, -98.5800
+  32.5100, -98.6400
+  32.5200, -98.8200
+  32.7400, -98.7700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 8:22PM EDT by NWS Columbia SC\nExpires: 2026-05-25 01:00 Z\nAt 820 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Lincolnton, or 19 miles east of Washington, moving northeast at 20 mph.  ...Boaters on Lake Thurmond Should Seek Safe Harbor...  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... McCormick, Lincolnton, Clarks Hill Recreation Area, J. Strom Thurmond Dam, Elijah Clark State Park, Mistletoe State Park, Mccormick County Airport, Hamilton Branch State Park, Parksville, Plum Branch, Bordeaux, Winfield, Modoc, Scott's Landing, Knox Scout Reservation, Double Branches, Curry Hill, Wildwood Park, Modoc Boat Ramp, and Eubank-Blanchard Community Center.\nGenerated: 2026-05-25 00:25:12 UTC"
+  33.8600, -82.5100
+  33.9200, -82.4500
+  33.9800, -82.3200
+  33.8000, -82.1700
+  33.7700, -82.1600
+  33.7600, -82.1700
+  33.7500, -82.1600
+  33.7200, -82.1800
+  33.6900, -82.1700
+  33.6800, -82.1400
+  33.6100, -82.1200
+  33.5600, -82.4000
+  33.8300, -82.6000
+  33.8600, -82.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 8:21PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-25 01:00 Z\nAt 821 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Hartwell, or near Bowman, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hartwell, Elberton, Reed Creek, Bowman, Bowersville, Royston, Canon, Lake Hartwell, Lake Russell, and Dewy Rose.\nGenerated: 2026-05-25 00:25:12 UTC"
+  34.0800, -83.0000
+  34.0800, -83.0100
+  34.2000, -83.1000
+  34.2300, -83.0800
+  34.2600, -83.1100
+  34.3400, -83.1000
+  34.3500, -83.1100
+  34.3700, -83.1000
+  34.4900, -83.0500
+  34.4700, -83.0100
+  34.4900, -82.9800
+  34.4900, -82.9600
+  34.4200, -82.7600
+  34.2600, -82.6600
+  34.2100, -82.7400
+  34.2000, -82.7400
+  34.0500, -82.9800
+  34.0800, -83.0000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 24 at 8:19PM EDT by NWS Jacksonville FL\nExpires: 2026-05-25 00:45 Z\nAt 819 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Alachua to near Williston Municipal Airport. Movement was north at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alachua, Archer, Flemington, and Romeo.\nGenerated: 2026-05-25 00:25:12 UTC"
   29.2200, -82.4600
   29.2200, -82.4000
   29.4800, -82.4100
@@ -19,7 +69,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 8:19PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 7:10PM CDT by NWS San Angelo TX\nExpires: 2026-05-25 00:45 Z\nAt 710 PM CDT, Doppler radar was tracking a strong thunderstorm over Junction, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Junction, Segovia, South Llano River State Park, Us-83 Near The Kerr- Kimble County Line, I-10 Near The Kimble- Kerr County Line, and The Intersection Of I-10 And Us 290.  This includes Interstate 10 between Mile Markers 452 and 478.\nGenerated: 2026-05-25 00:20:13 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 7:10PM CDT by NWS San Angelo TX\nExpires: 2026-05-25 00:45 Z\nAt 710 PM CDT, Doppler radar was tracking a strong thunderstorm over Junction, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Junction, Segovia, South Llano River State Park, Us-83 Near The Kerr- Kimble County Line, I-10 Near The Kimble- Kerr County Line, and The Intersection Of I-10 And Us 290.  This includes Interstate 10 between Mile Markers 452 and 478.\nGenerated: 2026-05-25 00:25:12 UTC"
   30.5000, -99.8800
   30.5900, -99.7000
   30.2900, -99.4100
@@ -29,7 +79,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 7:10PM CDT by NWS San Angel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 8:02PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 00:30 Z\nAt 802 PM EDT, a line of strong thunderstorms was along a line extending from near Gordon to near Tuckers Crossroad, and moving north at 20 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Irwinton, Gordon, Tennille, Ivey, McIntyre, Harrison, Toomsboro, Oconee, Coopers, Hebron, Nicklesville, and Pancras.\nGenerated: 2026-05-25 00:20:13 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 8:02PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 00:30 Z\nAt 802 PM EDT, a line of strong thunderstorms was along a line extending from near Gordon to near Tuckers Crossroad, and moving north at 20 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Irwinton, Gordon, Tennille, Ivey, McIntyre, Harrison, Toomsboro, Oconee, Coopers, Hebron, Nicklesville, and Pancras.\nGenerated: 2026-05-25 00:25:12 UTC"
   32.7100, -82.8000
   32.7100, -82.9000
   32.7000, -82.9900
@@ -42,7 +92,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 8:02PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 7:01PM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 00:30 Z\nAt 700 PM CDT, Doppler radar was tracking a strong thunderstorm near Gordon, or 15 miles northeast of Ranger, moving northeast at 10 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southern Palo Pinto County, including the following locations... Lone Camp, Mingus, Strawn, and Thurber.\nGenerated: 2026-05-25 00:20:13 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 7:01PM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 00:30 Z\nAt 700 PM CDT, Doppler radar was tracking a strong thunderstorm near Gordon, or 15 miles northeast of Ranger, moving northeast at 10 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southern Palo Pinto County, including the following locations... Lone Camp, Mingus, Strawn, and Thurber.\nGenerated: 2026-05-25 00:25:12 UTC"
   32.7900, -98.1600
   32.5100, -98.3800
   32.5200, -98.5700
@@ -51,7 +101,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 7:01PM CDT by NWS Fort Wort
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 7:56PM EDT by NWS Blacksburg VA\nExpires: 2026-05-25 00:30 Z\nAt 756 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Babcock State Park to near Tazewell. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richlands... Bluefield... Tazewell... Hinton... Saltville... Chilhowie... and Rainelle.\nGenerated: 2026-05-25 00:20:13 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 7:56PM EDT by NWS Blacksburg VA\nExpires: 2026-05-25 00:30 Z\nAt 756 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Babcock State Park to near Tazewell. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richlands... Bluefield... Tazewell... Hinton... Saltville... Chilhowie... and Rainelle.\nGenerated: 2026-05-25 00:25:12 UTC"
   37.2200, -81.7000
   37.2100, -81.5600
   37.2700, -81.4200
@@ -76,7 +126,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 7:56PM EDT by NWS Blacksbur
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 5:52PM MDT by NWS Albuquerque NM\nExpires: 2026-05-25 00:30 Z\nAt 552 PM MDT, Doppler radar was tracking showers and thunderstorms about 9 miles west of Clayton, moving east at 25 mph.  HAZARD...These showers and thunderstorms are producing abrupt wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clayton, Clayton Lake State Park, Sedan, Seneca and Moses.  This includes Highway 64 between Mile Markers 413 and 429.\nGenerated: 2026-05-25 00:20:13 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 5:52PM MDT by NWS Albuquerque NM\nExpires: 2026-05-25 00:30 Z\nAt 552 PM MDT, Doppler radar was tracking showers and thunderstorms about 9 miles west of Clayton, moving east at 25 mph.  HAZARD...These showers and thunderstorms are producing abrupt wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clayton, Clayton Lake State Park, Sedan, Seneca and Moses.  This includes Highway 64 between Mile Markers 413 and 429.\nGenerated: 2026-05-25 00:25:12 UTC"
   36.1700, -103.8100
   36.2100, -103.8100
   36.5500, -103.4400
@@ -93,7 +143,7 @@ Line: 2,,"Special Weather Statement issued May 24 at 5:52PM MDT by NWS Albuquerq
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 24 at 6:51PM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 00:30 Z\nAt 651 PM CDT, Doppler radar was tracking a strong thunderstorm near Graford, or 12 miles west of Mineral Wells, moving east at 10 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Graford around 700 PM CDT.  Other locations impacted by this storm include Adell, Whitt, Advance, Authon, Oran, Garner, Salesville, and Peadenville.\nGenerated: 2026-05-25 00:20:13 UTC"
+Line: 2,,"Special Weather Statement issued May 24 at 6:51PM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 00:30 Z\nAt 651 PM CDT, Doppler radar was tracking a strong thunderstorm near Graford, or 12 miles west of Mineral Wells, moving east at 10 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Graford around 700 PM CDT.  Other locations impacted by this storm include Adell, Whitt, Advance, Authon, Oran, Garner, Salesville, and Peadenville.\nGenerated: 2026-05-25 00:25:12 UTC"
   32.7900, -98.4000
   33.0000, -98.4000
   33.0000, -97.9200
