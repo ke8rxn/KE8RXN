@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-25 06:00:17 UTC
+; Generated: 2026-05-25 06:05:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 12:46AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-25 06:30 Z\nAt 1246 AM CDT, Doppler radar was tracking a strong thunderstorm near Colorado Bend State Park, or 13 miles west of Lampasas, moving southeast at 25 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Burnet, Lake Victor, Watson, Sunnylane, Shady Grove, and Colorado Bend State Park.\nGenerated: 2026-05-25 06:00:17 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 1:02AM CDT by NWS Fort Worth TX\nExpires: 2026-05-25 06:30 Z\nAt 102 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles west of Evant to 12 miles northwest of Lampasas to 6 miles east of Colorado Bend State Park. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Copperas Cove, Lampasas, Kempner, Evant, Colorado Bend State Park, Lometa, Moline, Izoro, Rumley, Adamsville, Pearl, South Purmela, Center City, Bee House, Topsey, Nix, and Star.\nGenerated: 2026-05-25 06:05:15 UTC"
+  31.1600, -98.5100
+  31.1700, -98.5300
+  31.2700, -98.4600
+  31.5000, -98.4500
+  31.4700, -98.3200
+  31.4200, -98.2700
+  31.4700, -98.1700
+  31.4800, -97.9700
+  31.0700, -97.9000
+  31.0400, -97.9200
+  31.0300, -98.4400
+  31.0600, -98.4800
+  31.0800, -98.4600
+  31.1000, -98.4700
+  31.1100, -98.4600
+  31.1200, -98.5000
+  31.0900, -98.5300
+  31.1300, -98.5500
+  31.1600, -98.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 12:46AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-25 06:30 Z\nAt 1246 AM CDT, Doppler radar was tracking a strong thunderstorm near Colorado Bend State Park, or 13 miles west of Lampasas, moving southeast at 25 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Burnet, Lake Victor, Watson, Sunnylane, Shady Grove, and Colorado Bend State Park.\nGenerated: 2026-05-25 06:05:15 UTC"
   30.9600, -97.8600
   30.7100, -98.2300
   30.9000, -98.4500
