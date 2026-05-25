@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-25 18:25:11 UTC
+; Generated: 2026-05-25 18:30:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 2:22PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 18:45 Z\nAt 222 PM EDT, a line of strong thunderstorms was along a line extending from White House to Bridges Crossroad to near Sylvester Airport, and moving north at 25 mph.  HAZARD...Winds 40 to 50 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Americus, Lumpkin, Preston, Richland, Plains, Arabi, Leslie, De Soto, Weston, Desoto, Cobb, Sumter, Lamar, Seminole, Westville, Croxton Crossroads, Brooklyn, Huntington, Leveretts, and Troutman.\nGenerated: 2026-05-25 18:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 12:28PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-25 19:00 Z\nAt 1227 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles east of Mapleton, or 17 miles east of Provo, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of central Wasatch and central Utah Counties.  This includes US Route 40 between mile markers 31 and 38.\nGenerated: 2026-05-25 18:30:13 UTC"
+  40.1400, -111.2700
+  40.1400, -111.4100
+  40.3500, -111.4900
+  40.3500, -111.1700
+  40.1400, -111.2700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 2:22PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 18:45 Z\nAt 222 PM EDT, a line of strong thunderstorms was along a line extending from White House to Bridges Crossroad to near Sylvester Airport, and moving north at 25 mph.  HAZARD...Winds 40 to 50 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Americus, Lumpkin, Preston, Richland, Plains, Arabi, Leslie, De Soto, Weston, Desoto, Cobb, Sumter, Lamar, Seminole, Westville, Croxton Crossroads, Brooklyn, Huntington, Leveretts, and Troutman.\nGenerated: 2026-05-25 18:30:13 UTC"
   31.8200, -83.8500
   31.8400, -83.8600
   31.8500, -83.9400
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 2:22PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 2:13PM EDT by NWS Raleigh NC\nExpires: 2026-05-25 19:15 Z\nAt 213 PM EDT, Doppler radar was tracking a strong thunderstorm over Franklinton, or 7 miles west of Louisburg, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Louisburg, Warrenton, Franklinton, Norlina, Littleton, Kittrell, Macon, Centerville, Ingleside, and Gillburg.\nGenerated: 2026-05-25 18:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 2:13PM EDT by NWS Raleigh NC\nExpires: 2026-05-25 19:15 Z\nAt 213 PM EDT, Doppler radar was tracking a strong thunderstorm over Franklinton, or 7 miles west of Louisburg, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Louisburg, Warrenton, Franklinton, Norlina, Littleton, Kittrell, Macon, Centerville, Ingleside, and Gillburg.\nGenerated: 2026-05-25 18:30:13 UTC"
   36.4500, -77.9100
   36.4300, -77.9200
   36.3800, -77.9100
@@ -40,16 +49,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 2:13PM EDT by NWS Raleigh N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 2:03PM EDT by NWS Peachtree City GA\nExpires: 2026-05-25 18:30 Z\nAt 203 PM EDT, a strong thunderstorm was over Harlow, or near Dublin, moving northeast at 20 mph.  HAZARD...Winds 40 to 50 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Dublin, East Dublin, Dexter, Dudley, Rentz, and Harlow.\nGenerated: 2026-05-25 18:25:11 UTC"
-  32.3600, -82.9700
-  32.4300, -83.1200
-  32.6100, -83.0300
-  32.5600, -82.7700
-  32.3600, -82.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 1:56PM EDT by NWS Wakefield VA\nExpires: 2026-05-25 18:45 Z\nAt 154 PM EDT, Doppler radar was tracking a strong thunderstorm over Stevensville, or near King And Queen Court House, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain. Additionally, this storm has been exhibiting weak rotation.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Center Cross around 205 PM EDT. Sharps around 225 PM EDT.  Other locations impacted by this storm include Laneview, Howertons, Wellford, Tidewater, Crouch, Henley Fork, Upright, Bowlers Wharf, Bruington, and Ino.\nGenerated: 2026-05-25 18:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 1:56PM EDT by NWS Wakefield VA\nExpires: 2026-05-25 18:45 Z\nAt 154 PM EDT, Doppler radar was tracking a strong thunderstorm over Stevensville, or near King And Queen Court House, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain. Additionally, this storm has been exhibiting weak rotation.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Center Cross around 205 PM EDT. Sharps around 225 PM EDT.  Other locations impacted by this storm include Laneview, Howertons, Wellford, Tidewater, Crouch, Henley Fork, Upright, Bowlers Wharf, Bruington, and Ino.\nGenerated: 2026-05-25 18:30:13 UTC"
   37.9300, -76.6400
   37.7900, -76.6500
   37.7800, -76.6700
@@ -61,7 +61,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 1:56PM EDT by NWS Wakefield
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 12:47PM CDT by NWS San Angelo TX\nExpires: 2026-05-25 18:45 Z\nAt 1246 PM CDT, Doppler radar was tracking a strong thunderstorm near Vancourt, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... San Angelo, Wall, San Angelo State Park, Twin Buttes Reservoir, Goodfellow Air Force Base, Mereta, Veribest, Vancourt, O.C. Fisher Reservoir, Lake Nasworthy, Eola, The Intersection Of Ranch Road 380 And Ranch Road 381, Vick, and Harriet.\nGenerated: 2026-05-25 18:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 12:47PM CDT by NWS San Angelo TX\nExpires: 2026-05-25 18:45 Z\nAt 1246 PM CDT, Doppler radar was tracking a strong thunderstorm near Vancourt, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... San Angelo, Wall, San Angelo State Park, Twin Buttes Reservoir, Goodfellow Air Force Base, Mereta, Veribest, Vancourt, O.C. Fisher Reservoir, Lake Nasworthy, Eola, The Intersection Of Ranch Road 380 And Ranch Road 381, Vick, and Harriet.\nGenerated: 2026-05-25 18:30:13 UTC"
   31.2300, -100.5100
   31.3800, -100.6400
   31.6200, -100.4500
@@ -72,7 +72,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 12:47PM CDT by NWS San Ange
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 1:46PM EDT by NWS Tallahassee FL\nExpires: 2026-05-25 18:45 Z\nAt 146 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Arlington to near Doerun. Movement was north at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newton, Morgan, Albany, Dawson, Cuthbert, Putney, Sylvester, Leesburg, Edison, Arlington, Shellman, Baconton, Poulan, Doerun, Leary, Smithville, East Albany, Marine Corps Logistics Base, Turner City, and Walker.\nGenerated: 2026-05-25 18:25:11 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 1:46PM EDT by NWS Tallahassee FL\nExpires: 2026-05-25 18:45 Z\nAt 146 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Arlington to near Doerun. Movement was north at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newton, Morgan, Albany, Dawson, Cuthbert, Putney, Sylvester, Leesburg, Edison, Arlington, Shellman, Baconton, Poulan, Doerun, Leary, Smithville, East Albany, Marine Corps Logistics Base, Turner City, and Walker.\nGenerated: 2026-05-25 18:30:13 UTC"
   31.8700, -84.3400
   31.9200, -84.3400
   31.9100, -83.9200
