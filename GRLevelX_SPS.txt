@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-25 12:55:15 UTC
+; Generated: 2026-05-25 13:00:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:54AM CDT by NWS Mobile AL\nExpires: 2026-05-25 13:45 Z\nAt 754 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Rock Hill to 6 miles southwest of Beaumont. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richton, Beaumont, and New Augusta.\nGenerated: 2026-05-25 12:55:15 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:57AM CDT by NWS San Angelo TX\nExpires: 2026-05-25 13:30 Z\nAt 756 AM CDT, Doppler radar was tracking a strong thunderstorm near Santa Anna, moving southwest at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Coleman and Santa Anna.\nGenerated: 2026-05-25 13:00:18 UTC"
+  31.9100, -99.3200
+  31.7100, -99.2100
+  31.5900, -99.3700
+  31.8400, -99.5300
+  31.9100, -99.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 7:54AM CDT by NWS Mobile AL\nExpires: 2026-05-25 13:45 Z\nAt 754 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Rock Hill to 6 miles southwest of Beaumont. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richton, Beaumont, and New Augusta.\nGenerated: 2026-05-25 13:00:18 UTC"
   31.4300, -89.1500
   31.4300, -88.7600
   30.9900, -88.9400
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:54AM CDT by NWS Mobile AL
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:52AM CDT by NWS San Angelo TX\nExpires: 2026-05-25 13:30 Z\nAt 751 AM CDT, Doppler radar was tracking a strong thunderstorm near Echo, or near Coleman, moving west at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central Coleman County.\nGenerated: 2026-05-25 12:55:15 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:52AM CDT by NWS San Angelo TX\nExpires: 2026-05-25 13:30 Z\nAt 751 AM CDT, Doppler radar was tracking a strong thunderstorm near Echo, or near Coleman, moving west at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central Coleman County.\nGenerated: 2026-05-25 13:00:18 UTC"
   32.0000, -99.3900
   31.9100, -99.3200
   31.8400, -99.5200
@@ -25,21 +34,11 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:52AM CDT by NWS San Angel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:44AM CDT by NWS New Orleans LA\nExpires: 2026-05-25 13:15 Z\nAt 744 AM CDT, Doppler radar was tracking a strong thunderstorm capable of producing waterspouts over marine areas 12 miles southwest of Myrtle Grove, or 13 miles east of Galliano, moving north at 10 mph.  HAZARD...Waterspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of central Jefferson Parish.\nGenerated: 2026-05-25 12:55:15 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:44AM CDT by NWS New Orleans LA\nExpires: 2026-05-25 13:15 Z\nAt 744 AM CDT, Doppler radar was tracking a strong thunderstorm capable of producing waterspouts over marine areas 12 miles southwest of Myrtle Grove, or 13 miles east of Galliano, moving north at 10 mph.  HAZARD...Waterspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of central Jefferson Parish.\nGenerated: 2026-05-25 13:00:18 UTC"
   29.5000, -90.0900
   29.5200, -90.1300
   29.5900, -90.1600
   29.5900, -90.0200
   29.4900, -90.0500
   29.5000, -90.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:08AM CDT by NWS San Angelo TX\nExpires: 2026-05-25 13:00 Z\nAt 708 AM CDT, Doppler radar was tracking a strong thunderstorm near Us-283 Near The Coleman- Callahan County Line, or 7 miles south of Rowden. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Us-283 Near The Coleman-Callahan County Line.\nGenerated: 2026-05-25 12:55:15 UTC"
-  31.9500, -99.3500
-  32.1300, -99.4900
-  32.2100, -99.3000
-  32.0600, -99.1900
-  32.0500, -99.2000
-  31.9500, -99.3500
 End:
