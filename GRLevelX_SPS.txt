@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-26 01:30:13 UTC
+; Generated: 2026-05-26 01:35:11 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:29PM MDT by NWS Albuquerque NM\nExpires: 2026-05-26 02:00 Z\nAt 729 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Bottomless Lakes State Park, or 20 miles east of Roswell, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elkins.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:29PM MDT by NWS Albuquerque NM\nExpires: 2026-05-26 02:00 Z\nAt 729 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Bottomless Lakes State Park, or 20 miles east of Roswell, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elkins.\nGenerated: 2026-05-26 01:35:11 UTC"
   33.4300, -104.0700
   33.4400, -104.3100
   33.7200, -104.2800
@@ -14,7 +14,18 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:29PM MDT by NWS Albuquerq
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 9:27PM EDT by NWS Morristown TN\nExpires: 2026-05-26 02:30 Z\nAt 927 PM EDT/827 PM CDT/, Doppler radar was tracking a strong thunderstorm over Fairmount, or 8 miles northwest of Chattanooga, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chattanooga, Soddy-Daisy, Signal Mountain, Walden, Lakesite, Fairmount, Red Bank, Flat Top Mountain, North Chickamauga Creek Gorge, and Lone Oak.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:29PM MDT by NWS Missoula MT\nExpires: 2026-05-26 02:00 Z\nAt 629 PM PDT, Doppler radar was tracking a line of showers extending from 12 miles southeast of White Bird to 53 miles south of Lowell, or extending from 18 miles south of Grangeville to 54 miles southeast of Grangeville, moving northeast at 35 mph.  HAZARD...Wind gusts up to 45 mph have been reported.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grangeville, Orogrande, Fall Creek, Golden, Dixie, Mackay Bar and Harpster.\nGenerated: 2026-05-26 01:35:11 UTC"
+  45.5900, -116.2400
+  45.6000, -116.2700
+  46.0700, -116.1800
+  45.8300, -115.4900
+  45.7000, -114.8200
+  45.2900, -115.2200
+  45.5900, -116.2400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 9:27PM EDT by NWS Morristown TN\nExpires: 2026-05-26 02:30 Z\nAt 927 PM EDT/827 PM CDT/, Doppler radar was tracking a strong thunderstorm over Fairmount, or 8 miles northwest of Chattanooga, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chattanooga, Soddy-Daisy, Signal Mountain, Walden, Lakesite, Fairmount, Red Bank, Flat Top Mountain, North Chickamauga Creek Gorge, and Lone Oak.\nGenerated: 2026-05-26 01:35:11 UTC"
   35.0600, -85.3000
   35.1200, -85.3900
   35.1600, -85.3900
@@ -29,7 +40,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 9:27PM EDT by NWS Morristow
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 8:23PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-26 02:00 Z\nAt 823 PM CDT, Doppler radar was tracking a strong thunderstorm near Forest, or 16 miles north of Apple Springs. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Houston County.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 8:23PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-26 02:00 Z\nAt 823 PM CDT, Doppler radar was tracking a strong thunderstorm near Forest, or 16 miles north of Apple Springs. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Houston County.\nGenerated: 2026-05-26 01:35:11 UTC"
   31.4700, -95.1000
   31.4600, -95.0700
   31.4700, -95.0600
@@ -46,7 +57,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 8:23PM CDT by NWS Houston/G
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 8:21PM CDT by NWS Shreveport LA\nExpires: 2026-05-26 01:45 Z\nAt 821 PM CDT, Doppler radar was tracking a strong thunderstorm near Forest, or 20 miles northwest of Lufkin, moving southwest at 5 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Cherokee County.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 8:21PM CDT by NWS Shreveport LA\nExpires: 2026-05-26 01:45 Z\nAt 821 PM CDT, Doppler radar was tracking a strong thunderstorm near Forest, or 20 miles northwest of Lufkin, moving southwest at 5 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Cherokee County.\nGenerated: 2026-05-26 01:35:11 UTC"
   31.5400, -95.0500
   31.4600, -94.9600
   31.4300, -95.0000
@@ -67,7 +78,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 8:21PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:20PM MDT by NWS North Platte NE\nExpires: 2026-05-26 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking a strong thunderstorm over Lamar, or 17 miles west of Imperial, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 7:20PM MDT by NWS North Platte NE\nExpires: 2026-05-26 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking a strong thunderstorm over Lamar, or 17 miles west of Imperial, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar.\nGenerated: 2026-05-26 01:35:11 UTC"
   40.4900, -102.0500
   40.5700, -102.0600
   40.6100, -102.0500
@@ -78,7 +89,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 7:20PM MDT by NWS North Pla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 8:14PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-26 01:45 Z\nAt 813 PM CDT, Doppler radar was tracking a strong thunderstorm near Paige, or 12 miles northwest of Giddings, moving northwest at 20 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Paige, Camp Swift, Knobb Springs, McDade, Hills, and Manheim.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 8:14PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-26 01:45 Z\nAt 813 PM CDT, Doppler radar was tracking a strong thunderstorm near Paige, or 12 miles northwest of Giddings, moving northwest at 20 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Paige, Camp Swift, Knobb Springs, McDade, Hills, and Manheim.\nGenerated: 2026-05-26 01:35:11 UTC"
   30.2700, -96.9800
   30.1500, -97.0000
   30.2100, -97.3400
@@ -87,7 +98,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 8:14PM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 9:13PM EDT by NWS Blacksburg VA\nExpires: 2026-05-26 01:45 Z\nAt 913 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Pinnacle to Jonesville. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elkin... Jonesville... Pilot Mountain... Boonville... King... Nebo... and Pinnacle.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 9:13PM EDT by NWS Blacksburg VA\nExpires: 2026-05-26 01:45 Z\nAt 913 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Pinnacle to Jonesville. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elkin... Jonesville... Pilot Mountain... Boonville... King... Nebo... and Pinnacle.\nGenerated: 2026-05-26 01:35:11 UTC"
   36.1300, -80.9700
   36.2800, -80.8800
   36.4400, -80.3000
@@ -99,7 +110,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 9:13PM EDT by NWS Blacksbur
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 8:12PM CDT by NWS Shreveport LA\nExpires: 2026-05-26 02:00 Z\nAt 812 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Bullard, or 10 miles southwest of Tyler, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bullard, Noonday and Teaselville.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 8:12PM CDT by NWS Shreveport LA\nExpires: 2026-05-26 02:00 Z\nAt 812 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Bullard, or 10 miles southwest of Tyler, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bullard, Noonday and Teaselville.\nGenerated: 2026-05-26 01:35:11 UTC"
   32.1500, -95.4800
   32.1600, -95.4800
   32.1800, -95.4600
@@ -122,7 +133,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 8:12PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 9:10PM EDT by NWS Blacksburg VA\nExpires: 2026-05-26 01:45 Z\nAt 910 PM EDT, Doppler radar was tracking a strong thunderstorm near Turbeville, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... South Boston... Turbeville... Elmo... Cluster Springs... Alton... and John H Kerr Reservoir.\nGenerated: 2026-05-26 01:30:13 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 9:10PM EDT by NWS Blacksburg VA\nExpires: 2026-05-26 01:45 Z\nAt 910 PM EDT, Doppler radar was tracking a strong thunderstorm near Turbeville, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... South Boston... Turbeville... Elmo... Cluster Springs... Alton... and John H Kerr Reservoir.\nGenerated: 2026-05-26 01:35:11 UTC"
   36.5400, -78.8600
   36.5400, -78.9600
   36.6000, -79.2000
