@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-25 23:55:12 UTC
+; Generated: 2026-05-26 00:00:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 6:54PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-26 00:30 Z\nAt 654 PM CDT, Doppler radar was tracking a strong thunderstorm over Round Rock, moving northwest at 5 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Round Rock, Cedar Park, Georgetown, Serenada, Leander, Hutto, Georgetown Dam, and Brushy Creek.\nGenerated: 2026-05-25 23:55:12 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 6:58PM CDT by NWS Houston/Galveston TX\nExpires: 2026-05-26 00:30 Z\nAt 657 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Austonio, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crockett, Austonio, and Lovelady.\nGenerated: 2026-05-26 00:00:17 UTC"
+  31.2300, -95.2800
+  30.8900, -95.6400
+  31.0800, -95.9300
+  31.0900, -95.9100
+  31.0900, -95.7700
+  31.1400, -95.7700
+  31.1600, -95.7300
+  31.1800, -95.7400
+  31.2100, -95.7500
+  31.2300, -95.7300
+  31.2400, -95.7300
+  31.3600, -95.5700
+  31.2300, -95.2800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 25 at 6:54PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-26 00:30 Z\nAt 654 PM CDT, Doppler radar was tracking a strong thunderstorm over Round Rock, moving northwest at 5 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Round Rock, Cedar Park, Georgetown, Serenada, Leander, Hutto, Georgetown Dam, and Brushy Creek.\nGenerated: 2026-05-26 00:00:17 UTC"
   30.7000, -97.7200
   30.5500, -97.5600
   30.5000, -97.6000
@@ -15,7 +32,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 6:54PM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 6:52PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-26 00:30 Z\nAt 652 PM CDT, Doppler radar was tracking a strong thunderstorm near Segovia, or 13 miles southeast of Junction, moving southeast at 10 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Us-83 Near The Kerr-Kimble County Line.\nGenerated: 2026-05-25 23:55:12 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 6:52PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-26 00:30 Z\nAt 652 PM CDT, Doppler radar was tracking a strong thunderstorm near Segovia, or 13 miles southeast of Junction, moving southeast at 10 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Us-83 Near The Kerr-Kimble County Line.\nGenerated: 2026-05-26 00:00:17 UTC"
   30.2800, -99.3000
   30.1100, -99.6000
   30.2900, -99.7500
@@ -23,39 +40,7 @@ Line: 2,,"Special Weather Statement issued May 25 at 6:52PM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:32PM MDT by NWS Missoula MT\nExpires: 2026-05-26 00:00 Z\nAt 532 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles west of Drummond, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Garnet, Nimrod, Bearmouth and Greenough.  This includes the following highways... Highway 200 E between mile markers 19 and 24. Interstate 90 between mile markers 128 and 144.\nGenerated: 2026-05-25 23:55:12 UTC"
-  46.7000, -113.6100
-  46.7000, -113.6200
-  46.9400, -113.4900
-  46.8500, -113.1900
-  46.6200, -113.3800
-  46.6200, -113.3900
-  46.6500, -113.3900
-  46.6700, -113.4600
-  46.6900, -113.5800
-  46.7000, -113.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:28PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-26 00:00 Z\nAt 728 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles east of Hartwell, or 5 miles west of Iva, moving north at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Anderson, Elberton, Hartwell, Homeland Park, Iva, Lake Secession, Starr, Lowndesville, Anderson Airport, and Russell State Park.\nGenerated: 2026-05-25 23:55:12 UTC"
-  33.9900, -82.8300
-  33.9800, -82.8400
-  33.9800, -82.8600
-  34.0100, -82.9100
-  34.0100, -82.9400
-  34.0300, -82.9400
-  34.0400, -82.9500
-  34.0400, -82.9800
-  34.1000, -83.0300
-  34.5000, -82.8900
-  34.5400, -82.6500
-  34.3600, -82.5000
-  33.9700, -82.7900
-  33.9900, -82.8300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:27PM MDT by NWS Billings MT\nExpires: 2026-05-26 00:30 Z\nAt 527 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Big Timber, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Timber and Greycliff.\nGenerated: 2026-05-25 23:55:12 UTC"
+Line: 2,,"Special Weather Statement issued May 25 at 5:27PM MDT by NWS Billings MT\nExpires: 2026-05-26 00:30 Z\nAt 527 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Big Timber, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Timber and Greycliff.\nGenerated: 2026-05-26 00:00:17 UTC"
   45.9900, -110.0200
   45.9000, -109.6000
   45.5800, -109.8400
@@ -72,44 +57,4 @@ Line: 2,,"Special Weather Statement issued May 25 at 5:27PM MDT by NWS Billings 
   45.6100, -110.0300
   45.6300, -110.1200
   45.9900, -110.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:26PM EDT by NWS Peachtree City GA\nExpires: 2026-05-26 00:00 Z\nAt 726 PM EDT, a strong thunderstorm was over Eubank Lake, or 7 miles north of Buchanan, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Antioch and Eubank Lake.\nGenerated: 2026-05-25 23:55:12 UTC"
-  33.8500, -85.1900
-  33.9200, -85.2100
-  34.0000, -85.1000
-  33.9500, -85.0200
-  33.8800, -84.9900
-  33.8500, -85.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 7:25PM EDT by NWS Marquette MI\nExpires: 2026-05-26 00:00 Z\nAt 724 PM EDT, Doppler radar was tracking a strong thunderstorm over Shingleton, or 10 miles southeast of Munising, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shingleton and M-28 between Shingleton and Seney.\nGenerated: 2026-05-25 23:55:12 UTC"
-  46.2800, -86.5500
-  46.4100, -86.5200
-  46.4000, -86.0800
-  46.2000, -86.1900
-  46.2800, -86.5500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 5:19PM MDT by NWS Pueblo CO\nExpires: 2026-05-26 00:00 Z\nAt 519 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Lamar, moving north at 30 mph.  HAZARD...Wind gusts up to 45 mph, half inch hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar.\nGenerated: 2026-05-25 23:55:12 UTC"
-  37.8600, -102.4700
-  37.9200, -102.6800
-  38.2600, -102.6800
-  38.2600, -102.3700
-  38.0800, -102.3600
-  37.8600, -102.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 25 at 6:13PM CDT by NWS Huntsville AL\nExpires: 2026-05-26 00:00 Z\nAt 613 PM CDT, trained weather spotters reported a strong thunderstorm near Henagar, or 15 miles north of Rainsville, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Trained weather spotters.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Henagar, Ider, Pisgah, Fabius, Higdon, and Rosalie.\nGenerated: 2026-05-25 23:55:12 UTC"
-  34.6100, -85.7900
-  34.7100, -85.9300
-  34.9900, -85.6100
-  34.9800, -85.6000
-  34.8600, -85.5900
-  34.7300, -85.5600
-  34.6100, -85.7900
 End:
