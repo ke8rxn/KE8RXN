@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-27 02:40:16 UTC
+; Generated: 2026-05-27 02:45:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 9:31PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 04:00 Z\nAt 931 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Holland to Timberwood Park. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Austin, Round Rock, New Braunfels, Cedar Park, Georgetown, San Marcos, Pflugerville, Kyle, Seguin, Taylor, Buda, Boerne, Lockhart, Elgin, Bastrop, Luling, Giddings, Smithville, Dripping Springs, and Wimberley.\nGenerated: 2026-05-27 02:40:16 UTC"
+Line: 2,,"Special Weather Statement issued May 26 at 10:40PM EDT by NWS Jackson KY\nExpires: 2026-05-27 03:15 Z\nAt 1040 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Bandy to Valley Oak to near Bent to Elihu. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Somerset, Mount Vernon, Burnside, Sand Springs, Bobtown, Bandy, Pongo, Bronston, Woodstock, Spiro, Wabp, Mount Victory, Lake Linville, Hansford, Dabney, Renfro Valley, Valley Oak, Willailla, Somerset Pulaski Airport, and Bee Lick.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Interstate 75 in east central Kentucky between mile markers 56 and 64. Kentucky Highway 80 in Pulaski County between mile markers 18 and 39.\nGenerated: 2026-05-27 02:45:14 UTC"
+  37.1700, -84.5800
+  37.2900, -84.5800
+  37.4200, -84.3200
+  37.2500, -84.2600
+  37.1500, -84.3000
+  36.9800, -84.3900
+  36.9800, -84.7500
+  37.1700, -84.5800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 26 at 9:31PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 04:00 Z\nAt 931 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Holland to Timberwood Park. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Austin, Round Rock, New Braunfels, Cedar Park, Georgetown, San Marcos, Pflugerville, Kyle, Seguin, Taylor, Buda, Boerne, Lockhart, Elgin, Bastrop, Luling, Giddings, Smithville, Dripping Springs, and Wimberley.\nGenerated: 2026-05-27 02:45:14 UTC"
   30.9100, -97.8300
   30.7400, -97.2700
   30.4600, -97.1500
@@ -30,19 +42,7 @@ Line: 2,,"Special Weather Statement issued May 26 at 9:31PM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 9:30PM CDT by NWS Aberdeen SD\nExpires: 2026-05-27 02:45 Z\nAt 930 PM CDT, Doppler radar was tracking a strong thunderstorm over Bitter Lake, or near Waubay, moving southeast at 10 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Waubay, Rush Lake, Bitter Lake, and Blue Dog Lake.\nGenerated: 2026-05-27 02:40:16 UTC"
-  45.2500, -97.0600
-  45.0700, -97.2900
-  45.2400, -97.5000
-  45.3600, -97.3500
-  45.3100, -97.2300
-  45.3000, -97.2200
-  45.3000, -97.1800
-  45.2500, -97.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 9:29PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 04:00 Z\nAt 928 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lakehills to Leming to 9 miles north of Fort Ewell Site. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Antonio, New Braunfels, Schertz, Seguin, Cibolo, Converse, Universal City, Live Oak, Pleasanton, Selma, Floresville, Jourdanton, Poteet, Kenedy, Karnes City, Poth, Yorktown, Charlotte, Stockdale, and Christine.\nGenerated: 2026-05-27 02:40:16 UTC"
+Line: 2,,"Special Weather Statement issued May 26 at 9:29PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 04:00 Z\nAt 928 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lakehills to Leming to 9 miles north of Fort Ewell Site. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Antonio, New Braunfels, Schertz, Seguin, Cibolo, Converse, Universal City, Live Oak, Pleasanton, Selma, Floresville, Jourdanton, Poteet, Kenedy, Karnes City, Poth, Yorktown, Charlotte, Stockdale, and Christine.\nGenerated: 2026-05-27 02:45:14 UTC"
   28.6400, -98.3400
   28.6500, -98.9700
   29.0900, -98.6900
@@ -60,7 +60,7 @@ Line: 2,,"Special Weather Statement issued May 26 at 9:29PM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 10:25PM EDT by NWS Jackson KY\nExpires: 2026-05-27 03:15 Z\nAt 1025 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Reynoldsville to Hope to Pilot. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Sterling, Morehead, Stanton, Flemingsburg, Owingsville, Frenchburg, Marshall, Henry, Jeffersonville, Camargo, Wellington, Sharpsburg, Salt Lick, Campsites in the Indian Creek area of the Daniel Boone National Forrest, Pilot, Zag, Pecks Ridge, Bowen, Cornwell, and Rothwell.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 23 and 39. Interstate 64 in eastern Kentucky between mile markers 107 and 147.\nGenerated: 2026-05-27 02:40:16 UTC"
+Line: 2,,"Special Weather Statement issued May 26 at 10:25PM EDT by NWS Jackson KY\nExpires: 2026-05-27 03:15 Z\nAt 1025 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Reynoldsville to Hope to Pilot. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Sterling, Morehead, Stanton, Flemingsburg, Owingsville, Frenchburg, Marshall, Henry, Jeffersonville, Camargo, Wellington, Sharpsburg, Salt Lick, Campsites in the Indian Creek area of the Daniel Boone National Forrest, Pilot, Zag, Pecks Ridge, Bowen, Cornwell, and Rothwell.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 23 and 39. Interstate 64 in eastern Kentucky between mile markers 107 and 147.\nGenerated: 2026-05-27 02:45:14 UTC"
   38.4800, -83.5800
   38.4300, -83.5800
   38.4000, -83.4800
@@ -80,38 +80,7 @@ Line: 2,,"Special Weather Statement issued May 26 at 10:25PM EDT by NWS Jackson 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 9:17PM CDT by NWS Louisville KY\nExpires: 2026-05-27 02:45 Z\nAt 916 PM CDT, Doppler radar was tracking gusty showers 11 miles east of Santa Claus, moving northeast at 10 mph.  HAZARD...Funnel Clouds Possible and Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Pleasant, Leopold, Ranger, Sassafras, Bristow, Celina, Adyeville, Apalona, Uniontown, and Kitterman Corners.\nGenerated: 2026-05-27 02:40:16 UTC"
-  38.1600, -86.8000
-  38.1700, -86.8000
-  38.2500, -86.7100
-  38.2500, -86.6800
-  38.2600, -86.6800
-  38.2600, -86.6400
-  38.1200, -86.5000
-  38.0600, -86.7500
-  38.0900, -86.7700
-  38.1000, -86.7700
-  38.1000, -86.7800
-  38.1100, -86.7800
-  38.1200, -86.8000
-  38.1500, -86.8100
-  38.1600, -86.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 8:15PM MDT by NWS Boise ID\nExpires: 2026-05-27 02:45 Z\nAt 813 PM MDT, Doppler radar was tracking a strong thunderstorm near Flat Top Butte, or 12 miles north of Gooding, moving north at 30 mph.  HAZARD...Wind gusts up to 40 mph, half inch hail and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Heavy rain will reduce visibility and result in localized flooding.  This strong thunderstorm will be near... Flat Top Butte around 820 PM MDT. Selby around 830 PM MDT. Fairfield and Soldier around 840 PM MDT.\nGenerated: 2026-05-27 02:40:16 UTC"
-  43.2000, -114.5400
-  43.1900, -114.6000
-  43.0400, -114.6000
-  43.0300, -114.8000
-  43.3500, -114.9600
-  43.4000, -114.5300
-  43.3300, -114.5300
-  43.2000, -114.5400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 8:12PM MDT by NWS Billings MT\nExpires: 2026-05-27 03:00 Z\nAt 812 PM MDT, Doppler radar was tracking a line of showers extending from 23 miles north of Gardiner to 28 miles northwest of Cooke City moving north at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston, Chico Hot Springs, Pine Creek, Springdale, Emigrant, Chico and Mc Leod.\nGenerated: 2026-05-27 02:40:16 UTC"
+Line: 2,,"Special Weather Statement issued May 26 at 8:12PM MDT by NWS Billings MT\nExpires: 2026-05-27 03:00 Z\nAt 812 PM MDT, Doppler radar was tracking a line of showers extending from 23 miles north of Gardiner to 28 miles northwest of Cooke City moving north at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston, Chico Hot Springs, Pine Creek, Springdale, Emigrant, Chico and Mc Leod.\nGenerated: 2026-05-27 02:45:14 UTC"
   45.5300, -110.9200
   45.5300, -110.8600
   45.5900, -110.8600
@@ -129,68 +98,10 @@ Line: 2,,"Special Weather Statement issued May 26 at 8:12PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 10:11PM EDT by NWS Jackson KY\nExpires: 2026-05-27 02:45 Z\nAt 1011 PM EDT, Doppler radar was tracking a strong thunderstorm over Cooper, or near Monticello, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Monticello, Parmleysville, Oil Valley, Slavens, Coopersville, Burfield, Barrier, Kidds Crossing, Gregory, Rockeybranch, Slickford, Ritner, Delta, Denney, Griffin, and Cooper.\nGenerated: 2026-05-27 02:40:16 UTC"
-  36.6500, -84.9200
-  36.7900, -84.9400
-  36.9200, -84.6900
-  36.7200, -84.5300
-  36.6500, -84.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 10:01PM EDT by NWS Jackson KY\nExpires: 2026-05-27 02:45 Z\nAt 1000 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sideview to near Clay City to Foxtown. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Sterling, Stanton, Irvine, Beattyville, Frenchburg, Jeffersonville, Camargo, Clay City, Ravenna, Sharpsburg, Campsites in the Indian Creek area of the Daniel Boone National Forrest, Pilot, Levee, White Ash, Bowen, Cornwell, Leeco, Rothwell, Fagan, and Virden.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 12 and 37. Interstate 64 in eastern Kentucky between mile markers 105 and 117.\nGenerated: 2026-05-27 02:40:16 UTC"
-  37.9300, -83.6100
-  37.5200, -83.7100
-  37.5300, -84.0800
-  37.8900, -83.9600
-  37.9200, -83.9900
-  37.9300, -83.9700
-  38.1200, -84.0800
-  38.1400, -84.0600
-  38.1700, -83.9900
-  38.2200, -83.9500
-  38.2200, -83.9300
-  37.9300, -83.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 7:54PM MDT by NWS Glasgow MT\nExpires: 2026-05-27 03:00 Z\nAt 754 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Bredette, or 19 miles south of Scobey, moving northwest at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scobey, Richland, Flaxville, Port Of Whitetail, Madoc, Bredette, Port Of Scobey, Redstone, Whitetail, Peerless, Daleview, Four Buttes, West Fork, and Navajo.\nGenerated: 2026-05-27 02:40:16 UTC"
+Line: 2,,"Special Weather Statement issued May 26 at 7:54PM MDT by NWS Glasgow MT\nExpires: 2026-05-27 03:00 Z\nAt 754 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Bredette, or 19 miles south of Scobey, moving northwest at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scobey, Richland, Flaxville, Port Of Whitetail, Madoc, Bredette, Port Of Scobey, Redstone, Whitetail, Peerless, Daleview, Four Buttes, West Fork, and Navajo.\nGenerated: 2026-05-27 02:45:14 UTC"
   48.3500, -104.8400
   48.4300, -106.0500
   49.0000, -106.2800
   49.0000, -104.8900
   48.3500, -104.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 8:50PM CDT by NWS Midland/Odessa TX\nExpires: 2026-05-27 02:45 Z\nAt 849 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing a landspout along a line extending from 12 miles northeast of Mentone to 18 miles southeast of Balmorhea Lake. Movement was east at 35 mph.  HAZARD...Landspouts, wind gusts of 50 to 55 mph, and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pecos, Fort Stockton, Monahans, Wink, Thorntonville, Grandfalls, Barstow, Pyote, Wickett, Fort Stockton-Pecos County Airport, Toyah Lake, Coyanosa, Imperial Reservoir, Roy Hurd Memorial Airport, Monahans Sandhills State Park, Royalty, B F Goodrich Testing Track, Firestone Test Track, Imperial, and Winkler County Airport.  This includes the following highways... Interstate 10 between mile markers 220 and 275. Interstate 20 between mile markers 42 and 97.\nGenerated: 2026-05-27 02:40:16 UTC"
-  31.3000, -103.4700
-  31.8000, -103.5500
-  31.8100, -102.6500
-  30.5600, -102.6200
-  30.7700, -103.5900
-  31.3000, -103.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 8:26PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 02:45 Z\nAt 826 PM CDT, Doppler radar was tracking a strong thunderstorm near Florence, or 11 miles north of Serenada, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Georgetown, Granger, Bartlett, Jarrell, Florence, Andice, Granger Dam, Theon, Laneport, Hare, Walburg, and Schwertner.\nGenerated: 2026-05-27 02:40:16 UTC"
-  30.8700, -97.6300
-  30.7400, -97.2700
-  30.6300, -97.2300
-  30.7900, -97.9600
-  30.9100, -97.8300
-  30.8700, -97.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 8:15PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 02:45 Z\nAt 814 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Liberty Hill to near Bandera. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Antonio, Austin, Round Rock, New Braunfels, Cedar Park, Georgetown, San Marcos, Pflugerville, Medina, Schertz, Kyle, Cibolo, Kerrville, Converse, Universal City, Taylor, Live Oak, Buda, Boerne, and Selma.\nGenerated: 2026-05-27 02:40:16 UTC"
-  30.6200, -97.2200
-  30.5800, -97.2100
-  29.9400, -97.8000
-  29.8800, -97.8900
-  29.8600, -97.8800
-  29.2900, -98.3900
-  29.6900, -99.4200
-  30.8200, -98.0700
-  30.6200, -97.2200
 End:
