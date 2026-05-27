@@ -3,9 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-27 20:25:14 UTC
+; Generated: 2026-05-27 20:30:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 4:23PM EDT by NWS Wilmington NC\nExpires: 2026-05-27 21:00 Z\nAt 422 PM EDT, Doppler radar was tracking a strong thunderstorm over Plantersville, or near Murrells Inlet, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Surfside Beach, Pawleys Island, Garden City, Murrells Inlet, Plantersville, Burgess, Litchfield Beach, Oatland, and Waccamaw Community Hospital.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 4:27PM EDT by NWS Wakefield VA\nExpires: 2026-05-27 21:15 Z\nAt 427 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Alton to near Virgilina to near Staunton River State Park. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph, heavy rain, and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible. Frequent cloud to ground lightning strikes.  Locations impacted include... Clarksville, Boydton, Buffalo Springs, Nelson, John H Kerr Dam, Finchley, Skipwith, Rogers Corner, Richardson, Buffalo Junction, Keats, Eppes Fork, John H Kerr Reservoir, and Baskerville.\nGenerated: 2026-05-27 20:30:15 UTC"
+  36.5700, -78.7300
+  36.5800, -78.7200
+  36.6800, -78.7000
+  36.6900, -78.6500
+  36.6400, -78.5800
+  36.6400, -78.5600
+  36.7000, -78.6500
+  36.7700, -78.5900
+  36.7800, -78.5700
+  36.7300, -78.2200
+  36.5400, -78.3000
+  36.5400, -78.7300
+  36.5500, -78.7400
+  36.5700, -78.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 4:24PM EDT by NWS Wilmington NC\nExpires: 2026-05-27 21:00 Z\nAt 424 PM EDT, Doppler radar was tracking a strong thunderstorm over Hallsboro, or 8 miles east of Whiteville, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Lake Waccamaw around 430 PM EDT. Council around 435 PM EDT. Sandyfield and Kelly around 450 PM EDT.  Other locations impacted by this storm include Bolton and East Arcadia.\nGenerated: 2026-05-27 20:30:15 UTC"
+  34.2500, -78.5700
+  34.3800, -78.6100
+  34.5300, -78.3300
+  34.3000, -78.2400
+  34.2500, -78.5700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 4:23PM EDT by NWS Wilmington NC\nExpires: 2026-05-27 21:00 Z\nAt 422 PM EDT, Doppler radar was tracking a strong thunderstorm over Plantersville, or near Murrells Inlet, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Surfside Beach, Pawleys Island, Garden City, Murrells Inlet, Plantersville, Burgess, Litchfield Beach, Oatland, and Waccamaw Community Hospital.\nGenerated: 2026-05-27 20:30:15 UTC"
   33.3900, -79.3100
   33.5000, -79.3900
   33.6200, -79.1200
@@ -20,7 +47,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 4:23PM EDT by NWS Wilmingto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 4:23PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-05-27 21:00 Z\nAt 423 PM EDT, Doppler radar was tracking a strong thunderstorm over Verona, or near New River Station, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, New River Station, Pumpkin Center, Camp Lejeune Center, Piney Green, Swansboro, Midway Park, Verona, Dixon, Onslow Beach, Sneads Ferry, and Haws Run.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 4:23PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-05-27 21:00 Z\nAt 423 PM EDT, Doppler radar was tracking a strong thunderstorm over Verona, or near New River Station, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, New River Station, Pumpkin Center, Camp Lejeune Center, Piney Green, Swansboro, Midway Park, Verona, Dixon, Onslow Beach, Sneads Ferry, and Haws Run.\nGenerated: 2026-05-27 20:30:15 UTC"
   34.5900, -77.5800
   34.7200, -77.6000
   34.8300, -77.2600
@@ -29,7 +56,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 4:23PM EDT by NWS Newport/M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 4:19PM EDT by NWS Raleigh NC\nExpires: 2026-05-27 21:30 Z\nAt 416 PM EDT, Doppler radar was tracking a line of strong thunderstorms from Yanceyville to near Clarksville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Henderson, Oxford, Roxboro, Concord, Stovall, Middleburg, Mayo Reservoir, Steele Creek Marina & Campground, Kerr Lake, and Bethel Hill.  This includes Interstate 85 between Mile Markers 204 and 224.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 4:19PM EDT by NWS Raleigh NC\nExpires: 2026-05-27 21:30 Z\nAt 416 PM EDT, Doppler radar was tracking a line of strong thunderstorms from Yanceyville to near Clarksville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Henderson, Oxford, Roxboro, Concord, Stovall, Middleburg, Mayo Reservoir, Steele Creek Marina & Campground, Kerr Lake, and Bethel Hill.  This includes Interstate 85 between Mile Markers 204 and 224.\nGenerated: 2026-05-27 20:30:15 UTC"
   36.3200, -78.2600
   36.2400, -79.0900
   36.2400, -79.1500
@@ -39,7 +66,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 4:19PM EDT by NWS Raleigh N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 3:15PM CDT by NWS Green Bay WI\nExpires: 2026-05-27 21:00 Z\nAt 314 PM CDT, Doppler radar was tracking a strong thunderstorm near Dutch Corners, or 14 miles northeast of Wausau, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Lincoln, eastern Marathon and southwestern Langlade Counties, including the following locations... Ringle, Glandon, Ackley Wildlife Area, Schofield, Nutterville, Otis, Hatley, Sunset, Camp Phillips Scout Camp, and Gleason.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 3:15PM CDT by NWS Green Bay WI\nExpires: 2026-05-27 21:00 Z\nAt 314 PM CDT, Doppler radar was tracking a strong thunderstorm near Dutch Corners, or 14 miles northeast of Wausau, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Lincoln, eastern Marathon and southwestern Langlade Counties, including the following locations... Ringle, Glandon, Ackley Wildlife Area, Schofield, Nutterville, Otis, Hatley, Sunset, Camp Phillips Scout Camp, and Gleason.\nGenerated: 2026-05-27 20:30:15 UTC"
   45.4000, -89.6000
   45.0300, -89.1700
   45.0300, -89.2200
@@ -50,7 +77,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 3:15PM CDT by NWS Green Bay
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 4:15PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-27 20:45 Z\nAt 414 PM EDT, Doppler radar was tracking a strong thunderstorm near Southeast Arcadia, or near Arcadia, moving north at 25 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Arcadia, Wauchula, Southeast Arcadia, Ona, Sweetwater, Zolfo Springs, Nocatee, Myakka Head, Limestone, Brownville, and Gardner.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 4:15PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-27 20:45 Z\nAt 414 PM EDT, Doppler radar was tracking a strong thunderstorm near Southeast Arcadia, or near Arcadia, moving north at 25 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Arcadia, Wauchula, Southeast Arcadia, Ona, Sweetwater, Zolfo Springs, Nocatee, Myakka Head, Limestone, Brownville, and Gardner.\nGenerated: 2026-05-27 20:30:15 UTC"
   27.0700, -81.6300
   27.0400, -81.8800
   27.5300, -82.1400
@@ -59,7 +86,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 4:15PM EDT by NWS Tampa Bay
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 4:12PM EDT by NWS Wilmington OH\nExpires: 2026-05-27 20:45 Z\nAt 412 PM EDT, a strong thunderstorm was located over Camp Dennison, moving southeast at 20 mph.  HAZARD...Wind gusts up to 45 mph and very heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Visibility will be poor and hydroplaning is possible.  Locations impacted include... Cincinnati, Norwood, Sharonville, Blue Ash, Loveland, Reading, Montgomery, Madeira, Milford, Deer Park, Forestville, Amelia, Mariemont, Terrace Park, Batavia, Camp Dennison, Remington, Plainville, Concorde Hills, and Withamsville.  This includes the following Interstates... I-71 in Ohio between mile markers 5 and 17. I-75 in Ohio near mile marker 8.  If outdoors, consider seeking shelter inside a sturdy building.  Motorists should slow down and use extra caution.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 4:12PM EDT by NWS Wilmington OH\nExpires: 2026-05-27 20:45 Z\nAt 412 PM EDT, a strong thunderstorm was located over Camp Dennison, moving southeast at 20 mph.  HAZARD...Wind gusts up to 45 mph and very heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Visibility will be poor and hydroplaning is possible.  Locations impacted include... Cincinnati, Norwood, Sharonville, Blue Ash, Loveland, Reading, Montgomery, Madeira, Milford, Deer Park, Forestville, Amelia, Mariemont, Terrace Park, Batavia, Camp Dennison, Remington, Plainville, Concorde Hills, and Withamsville.  This includes the following Interstates... I-71 in Ohio between mile markers 5 and 17. I-75 in Ohio near mile marker 8.  If outdoors, consider seeking shelter inside a sturdy building.  Motorists should slow down and use extra caution.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-05-27 20:30:15 UTC"
   39.1600, -84.5100
   39.2800, -84.3700
   39.2000, -84.0000
@@ -69,7 +96,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 4:12PM EDT by NWS Wilmingto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:10PM MDT by NWS Boise ID\nExpires: 2026-05-27 21:00 Z\nAt 210 PM MDT, Doppler radar was tracking a strong thunderstorm near Sage Hen Reservoir, or 36 miles northwest of Lowman, moving northwest at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Four Bit Summit around 220 PM MDT. Indian Valley around 240 PM MDT.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 2:10PM MDT by NWS Boise ID\nExpires: 2026-05-27 21:00 Z\nAt 210 PM MDT, Doppler radar was tracking a strong thunderstorm near Sage Hen Reservoir, or 36 miles northwest of Lowman, moving northwest at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Four Bit Summit around 220 PM MDT. Indian Valley around 240 PM MDT.\nGenerated: 2026-05-27 20:30:15 UTC"
   44.4000, -116.0400
   44.2800, -116.3000
   44.5400, -116.6800
@@ -78,16 +105,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 2:10PM MDT by NWS Boise ID\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:05PM MDT by NWS Pocatello ID\nExpires: 2026-05-27 20:30 Z\nAt 204 PM MDT, Doppler radar was tracking a strong thunderstorm near Southeast Inl, or 18 miles southwest of Terreton, moving northwest at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Southeast Inl, Northwest Inl, and Howe.\nGenerated: 2026-05-27 20:25:14 UTC"
-  43.6700, -112.5400
-  43.5400, -112.7100
-  43.7200, -113.1800
-  43.9800, -112.8600
-  43.6700, -112.5400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 4:01PM EDT by NWS Wilmington NC\nExpires: 2026-05-27 20:45 Z\nAt 400 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Mollie to Nakina to near Longwood. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shallotte, Iredell, Bethel, Lake Waccamaw, Makatoka, Freeland, Nakina, Old Dock, Exum, Mollie, Bughill, Longwood, Pireway, Dulah, Ash, and Crusoe Island.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 4:01PM EDT by NWS Wilmington NC\nExpires: 2026-05-27 20:45 Z\nAt 400 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Mollie to Nakina to near Longwood. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shallotte, Iredell, Bethel, Lake Waccamaw, Makatoka, Freeland, Nakina, Old Dock, Exum, Mollie, Bughill, Longwood, Pireway, Dulah, Ash, and Crusoe Island.\nGenerated: 2026-05-27 20:30:15 UTC"
   34.3700, -78.4800
   34.0100, -78.2800
   33.9200, -78.6100
@@ -96,7 +114,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 4:01PM EDT by NWS Wilmingto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 3:59PM EDT by NWS Wakefield VA\nExpires: 2026-05-27 20:45 Z\nAt 359 PM EDT, Doppler radar was tracking a strong thunderstorm near Gum Spring, or near Hadensville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Locations impacted include... Ashland, Hadensville, Randolph Macon College, Tuckahoe, Gum Spring, Oilville, Glen Allen, Montpelier, Laurel, Wyndham, Lakeside, Orchid, Vontay, Gum Tree, Johnsons Springs, Elmont, Gilman, Othma, Dumbarton, and Sandy Hook.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 3:59PM EDT by NWS Wakefield VA\nExpires: 2026-05-27 20:45 Z\nAt 359 PM EDT, Doppler radar was tracking a strong thunderstorm near Gum Spring, or near Hadensville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Locations impacted include... Ashland, Hadensville, Randolph Macon College, Tuckahoe, Gum Spring, Oilville, Glen Allen, Montpelier, Laurel, Wyndham, Lakeside, Orchid, Vontay, Gum Tree, Johnsons Springs, Elmont, Gilman, Othma, Dumbarton, and Sandy Hook.\nGenerated: 2026-05-27 20:30:15 UTC"
   37.9600, -77.9500
   37.8900, -77.4900
   37.8800, -77.4800
@@ -108,7 +126,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 3:59PM EDT by NWS Wakefield
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:58PM CDT by NWS Shreveport LA\nExpires: 2026-05-27 20:45 Z\nAt 258 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Gillham, or 9 miles west of Dierks, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Dierks, Umpire, Gillham, Athens, Center Point, Lebanon, Burg, Provo and Geneva.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 2:58PM CDT by NWS Shreveport LA\nExpires: 2026-05-27 20:45 Z\nAt 258 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Gillham, or 9 miles west of Dierks, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Dierks, Umpire, Gillham, Athens, Center Point, Lebanon, Burg, Provo and Geneva.\nGenerated: 2026-05-27 20:30:15 UTC"
   33.9700, -94.2500
   34.1900, -94.4400
   34.1900, -94.2400
@@ -122,28 +140,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 2:58PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:56PM CDT by NWS Amarillo TX\nExpires: 2026-05-27 20:30 Z\nAt 255 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout 11 miles north of Pampa, moving northeast at 15 mph.  HAZARD...Landspouts, wind gusts up to 40 mph, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Hutchinson, northwestern Gray and southwestern Roberts Counties.\nGenerated: 2026-05-27 20:25:14 UTC"
-  35.5600, -101.0000
-  35.6000, -101.0900
-  35.6300, -101.0900
-  35.6300, -101.1500
-  35.6400, -101.1800
-  35.9500, -101.1000
-  35.8500, -100.7300
-  35.5600, -101.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:56PM CDT by NWS Green Bay WI\nExpires: 2026-05-27 20:30 Z\nAt 256 PM CDT, Doppler radar was tracking a strong thunderstorm near Rhinelander, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Parrish around 315 PM CDT.  Other locations impacted by this storm include Crescent Corner, Kelly Lynn Bog Natural Area, and Jeffris.\nGenerated: 2026-05-27 20:25:14 UTC"
-  45.5900, -89.5300
-  45.6400, -89.4600
-  45.4200, -89.2100
-  45.3400, -89.4300
-  45.5900, -89.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 3:49PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 20:45 Z\nAt 349 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Wilkesboro, or near Love Valley, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Love Valley and Union Grove.\nGenerated: 2026-05-27 20:25:14 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 3:49PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 20:45 Z\nAt 349 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Wilkesboro, or near Love Valley, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Love Valley and Union Grove.\nGenerated: 2026-05-27 20:30:15 UTC"
   36.0500, -80.7700
   35.9700, -80.7800
   35.9700, -81.0000
@@ -152,70 +149,4 @@ Line: 2,,"Special Weather Statement issued May 27 at 3:49PM EDT by NWS Greenvill
   36.0500, -81.0200
   36.0600, -80.9800
   36.0500, -80.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 3:48PM EDT by NWS Columbia SC\nExpires: 2026-05-27 20:30 Z\nAt 348 PM EDT, Doppler radar was tracking a strong thunderstorm near Holly Hill, or 16 miles northeast of Saint George, moving northeast at 30 mph.  ...Boaters on Lake Marion Should Seek Safe Harbor...  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Manning, Holly Hill, Summerton, Santee Cooper Regional Airport, Santee, Eutawville, Vance, Rocks Pond Campground and Marina, Eautaw Springs, Indian Bluff Recreation Park, Davis Station, Blounts Landing, Mill Creek Marina and Campground, and Foreston.  This includes Interstate 95 between mile markers 89 and 98, and between mile markers 109 and 114.\nGenerated: 2026-05-27 20:25:14 UTC"
-  33.5000, -80.1000
-  33.5000, -80.1200
-  33.4800, -80.1500
-  33.4600, -80.1300
-  33.4600, -80.1500
-  33.4500, -80.1500
-  33.4600, -80.1600
-  33.4500, -80.1700
-  33.4500, -80.2000
-  33.4400, -80.2000
-  33.4500, -80.2200
-  33.4000, -80.2200
-  33.3700, -80.2400
-  33.2600, -80.4200
-  33.4000, -80.5700
-  33.7400, -80.1800
-  33.6100, -80.0400
-  33.5000, -80.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 3:45PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 20:30 Z\nAt 345 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Downtown Asheville, or near B.R. Parkway-East Asheville To Craggy Gardens, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... North Asheville, Black Mountain, Woodfin, Swannanoa, Weaverville, Leicester, Mount Mitchell State Park, B.R. Parkway-East Asheville To Craggy Gardens, B.R. Parkway-Craggy To Little Switzerland, and UNC-Asheville.\nGenerated: 2026-05-27 20:25:14 UTC"
-  35.7900, -82.1700
-  35.7800, -82.1600
-  35.7300, -82.1900
-  35.7000, -82.2600
-  35.7000, -82.2900
-  35.6800, -82.2900
-  35.6700, -82.2800
-  35.6500, -82.2900
-  35.6200, -82.2700
-  35.5900, -82.2900
-  35.5700, -82.2700
-  35.6400, -82.7300
-  35.7400, -82.6200
-  35.7900, -82.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 1:41PM MDT by NWS Boise ID\nExpires: 2026-05-27 20:30 Z\nAt 139 PM MDT, Doppler radar was tracking a strong thunderstorm near Letha, or near Emmett, moving west at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Letha around 140 PM MDT. New Plymouth around 150 PM MDT. Fruitland around 200 PM MDT. Ontario around 210 PM MDT. Vale around 220 PM MDT.\nGenerated: 2026-05-27 20:25:14 UTC"
-  43.9900, -116.4300
-  43.8200, -116.4800
-  43.8700, -117.3000
-  44.1600, -117.2000
-  43.9900, -116.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 3:36PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 20:30 Z\nAt 336 PM EDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Boomer, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vashti.\nGenerated: 2026-05-27 20:25:14 UTC"
-  35.9900, -81.0000
-  35.9700, -81.0100
-  35.9600, -81.2700
-  36.0200, -81.2800
-  36.0400, -81.2000
-  36.0300, -81.1800
-  36.0300, -81.1700
-  36.0400, -81.1300
-  36.0400, -81.1100
-  36.0300, -81.1000
-  36.0300, -81.0700
-  36.0500, -81.0300
-  35.9900, -81.0000
 End:
