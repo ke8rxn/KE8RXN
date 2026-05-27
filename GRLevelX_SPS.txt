@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-27 18:45:15 UTC
+; Generated: 2026-05-27 18:50:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:44PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 19:30 Z\nAt 244 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Burnsville, or near Bakersville, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bakersville, Green Mountain, Buladean, Poplar, and Bandana.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 2:46PM EDT by NWS Blacksburg VA\nExpires: 2026-05-27 19:00 Z\nAt 246 PM EDT, Doppler radar was tracking a strong thunderstorm near Chalk Level, or near Gretna, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Gretna... Mt Airy... Java... and Chalk Level.\nGenerated: 2026-05-27 18:50:16 UTC"
+  36.8700, -79.4600
+  37.0200, -79.4200
+  37.0300, -79.1800
+  36.8800, -79.1600
+  36.7600, -79.2500
+  36.8700, -79.4600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 1:45PM CDT by NWS Dodge City KS\nExpires: 2026-05-27 19:30 Z\nAt 145 PM CDT, Doppler radar was tracking a strong thunderstorm near Ft. Dodge, moving northwest at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Dodge City around 150 PM CDT. Howell around 205 PM CDT.\nGenerated: 2026-05-27 18:50:16 UTC"
+  37.7000, -100.2100
+  37.9100, -100.2200
+  37.7400, -99.8300
+  37.6300, -99.9300
+  37.7000, -100.2100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 2:44PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 19:30 Z\nAt 244 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Burnsville, or near Bakersville, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bakersville, Green Mountain, Buladean, Poplar, and Bandana.\nGenerated: 2026-05-27 18:50:16 UTC"
   36.1100, -82.1300
   36.1100, -82.1000
   36.1000, -82.0800
@@ -21,7 +40,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 2:44PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 11:38AM PDT by NWS Elko NV\nExpires: 2026-05-27 19:15 Z\nAt 1138 AM PDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Orovada, moving west at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Thacker Pass.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 11:38AM PDT by NWS Elko NV\nExpires: 2026-05-27 19:15 Z\nAt 1138 AM PDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Orovada, moving west at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Thacker Pass.\nGenerated: 2026-05-27 18:50:16 UTC"
   41.7300, -117.5300
   41.5600, -117.6200
   41.6800, -118.2000
@@ -30,7 +49,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 11:38AM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 1:33PM CDT by NWS Dodge City KS\nExpires: 2026-05-27 19:15 Z\nAt 133 PM CDT, Doppler radar was tracking a strong thunderstorm near Cimarron, moving northwest at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Cimarron around 140 PM CDT. Ingalls around 145 PM CDT.  Other locations in the path of this storm include Charleston.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 1:33PM CDT by NWS Dodge City KS\nExpires: 2026-05-27 19:15 Z\nAt 133 PM CDT, Doppler radar was tracking a strong thunderstorm near Cimarron, moving northwest at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Cimarron around 140 PM CDT. Ingalls around 145 PM CDT.  Other locations in the path of this storm include Charleston.\nGenerated: 2026-05-27 18:50:16 UTC"
   37.7900, -100.2200
   37.6700, -100.2600
   37.7100, -100.6500
@@ -39,7 +58,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 1:33PM CDT by NWS Dodge Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:31PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 19:15 Z\nAt 231 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Marshall, or 8 miles southwest of Hot Springs, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spring Creek, Walnut, Luck, and Max Patch.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 2:31PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 19:15 Z\nAt 231 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Marshall, or 8 miles southwest of Hot Springs, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spring Creek, Walnut, Luck, and Max Patch.\nGenerated: 2026-05-27 18:50:16 UTC"
   35.8800, -82.7200
   35.7400, -82.7100
   35.7300, -82.7100
@@ -55,7 +74,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 2:31PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 12:31PM MDT by NWS Goodland KS\nExpires: 2026-05-27 19:00 Z\nAt 1231 PM MDT/131 PM CDT/, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 9 miles southeast of Bonny Reservoir to 5 miles northwest of Kanorado. Movement was northwest at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Bonny Reservoir around 1240 PM MDT.  This includes Highway 385 between mile markers 199 and 222.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 12:31PM MDT by NWS Goodland KS\nExpires: 2026-05-27 19:00 Z\nAt 1231 PM MDT/131 PM CDT/, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 9 miles southeast of Bonny Reservoir to 5 miles northwest of Kanorado. Movement was northwest at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Bonny Reservoir around 1240 PM MDT.  This includes Highway 385 between mile markers 199 and 222.\nGenerated: 2026-05-27 18:50:16 UTC"
   39.8500, -102.2100
   39.5300, -102.4900
   39.3400, -101.9700
@@ -64,7 +83,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 12:31PM MDT by NWS Goodland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:28PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 19:15 Z\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Blowing Rock, or 4 miles west of Darby, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of north central Caldwell County.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 2:28PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 19:15 Z\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Blowing Rock, or 4 miles west of Darby, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of north central Caldwell County.\nGenerated: 2026-05-27 18:50:16 UTC"
   36.1000, -81.5200
   36.1000, -81.5000
   36.0900, -81.4700
@@ -81,7 +100,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 2:28PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:28PM EDT by NWS Wakefield VA\nExpires: 2026-05-27 19:30 Z\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm over Troy, or 8 miles north of Palmyra, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Locations impacted include... Louisa, Mineral, Hadensville, Lake Monticello, Gum Spring, Ferncliff, Bumpass, Boswells Tavern, Kents Store, Troy, Orchid, Louisa Airport, Green Springs, Irwin, Waldrop, Tabscott, Trevilians, Othma, Wilmington, and Pendleton.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 2:28PM EDT by NWS Wakefield VA\nExpires: 2026-05-27 19:30 Z\nAt 228 PM EDT, Doppler radar was tracking a strong thunderstorm over Troy, or 8 miles north of Palmyra, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Locations impacted include... Louisa, Mineral, Hadensville, Lake Monticello, Gum Spring, Ferncliff, Bumpass, Boswells Tavern, Kents Store, Troy, Orchid, Louisa Airport, Green Springs, Irwin, Waldrop, Tabscott, Trevilians, Othma, Wilmington, and Pendleton.\nGenerated: 2026-05-27 18:50:16 UTC"
   38.1000, -78.2300
   38.1200, -78.0800
   37.9700, -77.7000
@@ -92,7 +111,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 2:28PM EDT by NWS Wakefield
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 2:24PM EDT by NWS Charleston WV\nExpires: 2026-05-27 19:00 Z\nAt 224 PM EDT, Doppler radar was tracking a strong thunderstorm near Ranger, or 7 miles southwest of Hamlin, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hamlin, St. Albans, Ranger, Alum Creek, Spurlockville, Tornado, Julian, West Hamlin, Sweetland, Sod, Woodville, Branchland, Palermo, Griffithsville, Alkol, Yawkey, and Myra.  This includes Route 119 between mile markers 55 and 68.\nGenerated: 2026-05-27 18:45:15 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 2:24PM EDT by NWS Charleston WV\nExpires: 2026-05-27 19:00 Z\nAt 224 PM EDT, Doppler radar was tracking a strong thunderstorm near Ranger, or 7 miles southwest of Hamlin, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hamlin, St. Albans, Ranger, Alum Creek, Spurlockville, Tornado, Julian, West Hamlin, Sweetland, Sod, Woodville, Branchland, Palermo, Griffithsville, Alkol, Yawkey, and Myra.  This includes Route 119 between mile markers 55 and 68.\nGenerated: 2026-05-27 18:50:16 UTC"
   38.1000, -82.3000
   38.2800, -82.3300
   38.3900, -81.8200
