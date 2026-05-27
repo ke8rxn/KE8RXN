@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-27 03:55:12 UTC
+; Generated: 2026-05-27 04:00:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 11:42PM EDT by NWS Charleston WV\nExpires: 2026-05-27 04:15 Z\nAt 1142 PM EDT, Doppler radar was tracking a strong thunderstorm over Farley, or 8 miles northwest of Sandy Hook, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Olive Hill, Globe, and Soldier.  This includes Interstate 64 in Kentucky near mile marker 158.\nGenerated: 2026-05-27 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued May 26 at 11:58PM EDT by NWS Charleston WV\nExpires: 2026-05-27 04:30 Z\nAt 1158 PM EDT, Doppler radar was tracking a strong thunderstorm near Stark, or near Olive Hill, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grayson, Olive Hill, Grayson Lake State Park, Carter Caves State Park, Gesling, Carter, Grahn, Soldier, Globe, Hopewell, Brushart, and Hitchins.  This includes Interstate 64 in Kentucky between mile markers 149 and 179.\nGenerated: 2026-05-27 04:00:16 UTC"
+  38.3300, -83.3200
+  38.3300, -83.2700
+  38.3400, -83.2300
+  38.4300, -83.2300
+  38.4700, -83.1900
+  38.4900, -83.1900
+  38.5400, -83.1400
+  38.5400, -83.1200
+  38.3500, -82.7800
+  38.1900, -83.0000
+  38.2000, -83.0100
+  38.2000, -83.0400
+  38.1800, -83.0500
+  38.2300, -83.0900
+  38.2400, -83.1400
+  38.2700, -83.1700
+  38.2300, -83.2200
+  38.2100, -83.2200
+  38.2600, -83.3200
+  38.3100, -83.3400
+  38.3300, -83.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 26 at 11:42PM EDT by NWS Charleston WV\nExpires: 2026-05-27 04:15 Z\nAt 1142 PM EDT, Doppler radar was tracking a strong thunderstorm over Farley, or 8 miles northwest of Sandy Hook, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Olive Hill, Globe, and Soldier.  This includes Interstate 64 in Kentucky near mile marker 158.\nGenerated: 2026-05-27 04:00:16 UTC"
   38.3300, -83.1800
   38.2200, -83.0500
   38.2000, -83.0700
@@ -25,7 +50,7 @@ Line: 2,,"Special Weather Statement issued May 26 at 11:42PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 10:13PM CDT by NWS Corpus Christi TX\nExpires: 2026-05-27 04:15 Z\nAt 1013 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Tilden, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... George West, Three Rivers, Tilden, Choke Canyon, Loma Alta, Cross, Fowlerton, Calliham, Annarose, Crowther, Simmons, Whitsett, and Clegg.  This includes the following highways... Interstate 37 between mile markers 68 and 83. US Highway 281 between mile markers 618 and 648. US Highway 59 between mile markers 722 and 746.\nGenerated: 2026-05-27 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued May 26 at 10:13PM CDT by NWS Corpus Christi TX\nExpires: 2026-05-27 04:15 Z\nAt 1013 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Tilden, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... George West, Three Rivers, Tilden, Choke Canyon, Loma Alta, Cross, Fowlerton, Calliham, Annarose, Crowther, Simmons, Whitsett, and Clegg.  This includes the following highways... Interstate 37 between mile markers 68 and 83. US Highway 281 between mile markers 618 and 648. US Highway 59 between mile markers 722 and 746.\nGenerated: 2026-05-27 04:00:16 UTC"
   28.6600, -98.1300
   28.0700, -98.0900
   28.0600, -98.8800
@@ -35,67 +60,4 @@ Line: 2,,"Special Weather Statement issued May 26 at 10:13PM CDT by NWS Corpus C
   28.6100, -98.3300
   28.6600, -98.2800
   28.6600, -98.1300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 11:08PM EDT by NWS Jackson KY\nExpires: 2026-05-27 04:00 Z\nAt 1108 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Ringos Mills to Bluestone to Stoll. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morehead, West Liberty, Henry, Wellington, Zag, Ramey, Fannin Valley, Elliottville, Yale, Lick Branch, Index, Triplett, Christy, Pekin, Omer, Hilda, Sharkey, Bangor, Muses Mills, and Zilpo.  THIS INCLUDES Interstate 64 in eastern Kentucky between mile markers 129 and 149.\nGenerated: 2026-05-27 03:55:12 UTC"
-  38.4000, -83.4800
-  38.3800, -83.4500
-  38.4000, -83.4200
-  38.3900, -83.4000
-  38.3000, -83.3300
-  38.2100, -83.3000
-  38.1900, -83.2700
-  38.1900, -83.2400
-  38.2400, -83.2200
-  38.2600, -83.1800
-  37.9000, -83.1800
-  37.8500, -83.5600
-  38.0900, -83.5800
-  38.2900, -83.7100
-  38.4200, -83.5600
-  38.4000, -83.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 9:31PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 04:00 Z\nAt 931 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Holland to Timberwood Park. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Austin, Round Rock, New Braunfels, Cedar Park, Georgetown, San Marcos, Pflugerville, Kyle, Seguin, Taylor, Buda, Boerne, Lockhart, Elgin, Bastrop, Luling, Giddings, Smithville, Dripping Springs, and Wimberley.\nGenerated: 2026-05-27 03:55:12 UTC"
-  30.9100, -97.8300
-  30.7400, -97.2700
-  30.4600, -97.1500
-  30.5600, -96.9600
-  30.5400, -96.9200
-  30.4600, -96.9000
-  30.3900, -96.7900
-  30.3200, -96.7400
-  30.3000, -96.6700
-  30.2500, -96.6800
-  30.2400, -96.7400
-  30.1900, -96.7600
-  30.0400, -97.0200
-  30.0500, -97.0300
-  29.7900, -97.3200
-  29.7700, -97.3000
-  29.3700, -97.8300
-  29.6900, -98.0900
-  29.7000, -98.9300
-  30.9500, -97.9000
-  30.9100, -97.8300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 26 at 9:29PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-05-27 04:00 Z\nAt 928 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lakehills to Leming to 9 miles north of Fort Ewell Site. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Antonio, New Braunfels, Schertz, Seguin, Cibolo, Converse, Universal City, Live Oak, Pleasanton, Selma, Floresville, Jourdanton, Poteet, Kenedy, Karnes City, Poth, Yorktown, Charlotte, Stockdale, and Christine.\nGenerated: 2026-05-27 03:55:12 UTC"
-  28.6400, -98.3400
-  28.6500, -98.9700
-  29.0900, -98.6900
-  29.6900, -98.9800
-  29.6800, -98.1000
-  29.3700, -97.8400
-  29.3500, -97.8600
-  28.9200, -97.4200
-  28.6700, -97.7800
-  28.7200, -97.9200
-  28.6900, -98.0100
-  28.7900, -98.1000
-  28.6200, -98.3300
-  28.6400, -98.3400
 End:
