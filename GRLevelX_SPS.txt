@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-27 17:40:16 UTC
+; Generated: 2026-05-27 17:45:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 1:39PM EDT by NWS Columbia SC\nExpires: 2026-05-27 18:30 Z\nAt 139 PM EDT, Doppler radar was tracking a strong thunderstorm near Elloree, or 10 miles east of Brookdale, moving northeast at 45 mph.  ...Boaters on Lake Marion Should Seek Safe Harbor...  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sumter, Manning, South Sumter, Summerton, Elloree, Alcolu, Santee State Park, Santee Cooper Regional Airport, Mulberry, Millwood, Santee, Pinewood, Cameron, Paxville, Vance, Poplar Creek Landing, Rimini, Stumphole Landing, Brogdon, and Lone Star.  This includes the following highways... Interstate 26 near mile marker 147, near mile marker 150, and between mile markers 156 and 167. Interstate 95 between mile markers 89 and 128.\nGenerated: 2026-05-27 17:40:16 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 1:42PM EDT by NWS Wakefield VA\nExpires: 2026-05-27 18:30 Z\nAt 142 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles north of Louisa to 9 miles northwest of Boswells Tavern. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Boswells Tavern around 145 PM EDT. Louisa around 155 PM EDT. Mineral around 200 PM EDT. Bumpass around 220 PM EDT.  Other locations impacted by these storms include Pendleton, Louisa Airport, Green Springs, Cuckoo, Yanceyville, Fredericks Hall, Waldrop, Byrd Mill, Trevilians, and Wares Crossroads.\nGenerated: 2026-05-27 17:45:18 UTC"
+  38.1300, -78.2100
+  38.1400, -78.1200
+  38.1500, -78.0900
+  38.1300, -78.0500
+  38.1400, -78.0100
+  38.1200, -77.9800
+  38.1200, -77.9200
+  38.1000, -77.8600
+  38.1000, -77.8400
+  38.0700, -77.7800
+  38.0600, -77.7800
+  38.0500, -77.7500
+  38.0200, -77.7500
+  38.0300, -77.7300
+  38.0100, -77.7200
+  38.0100, -77.6900
+  37.9800, -77.7000
+  37.8700, -77.9000
+  38.0200, -78.2900
+  38.1300, -78.2100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 1:39PM EDT by NWS Columbia SC\nExpires: 2026-05-27 18:30 Z\nAt 139 PM EDT, Doppler radar was tracking a strong thunderstorm near Elloree, or 10 miles east of Brookdale, moving northeast at 45 mph.  ...Boaters on Lake Marion Should Seek Safe Harbor...  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sumter, Manning, South Sumter, Summerton, Elloree, Alcolu, Santee State Park, Santee Cooper Regional Airport, Mulberry, Millwood, Santee, Pinewood, Cameron, Paxville, Vance, Poplar Creek Landing, Rimini, Stumphole Landing, Brogdon, and Lone Star.  This includes the following highways... Interstate 26 near mile marker 147, near mile marker 150, and between mile markers 156 and 167. Interstate 95 between mile markers 89 and 128.\nGenerated: 2026-05-27 17:45:18 UTC"
   33.6100, -80.0400
   33.3200, -80.5900
   33.5400, -80.8100
@@ -15,7 +39,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 1:39PM EDT by NWS Columbia 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 1:38PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 18:30 Z\nAt 138 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Marshall, or near Mars Hill, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mars Hill, Flat Creek, and Barnardsville.\nGenerated: 2026-05-27 17:40:16 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 1:38PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-27 18:30 Z\nAt 138 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Marshall, or near Mars Hill, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mars Hill, Flat Creek, and Barnardsville.\nGenerated: 2026-05-27 17:45:18 UTC"
   35.8600, -82.4200
   35.8400, -82.4200
   35.8200, -82.4100
@@ -24,15 +48,4 @@ Line: 2,,"Special Weather Statement issued May 27 at 1:38PM EDT by NWS Greenvill
   35.8400, -82.6500
   35.9000, -82.4600
   35.8600, -82.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 1:30PM EDT by NWS Blacksburg VA\nExpires: 2026-05-27 17:45 Z\nAt 130 PM EDT, Doppler radar was tracking a strong thunderstorm over Rocky Mount, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount... Western Smith Mountain Lake... Sontag... and Union Hall.\nGenerated: 2026-05-27 17:40:16 UTC"
-  36.9900, -80.0000
-  37.0400, -79.9100
-  37.1000, -79.8600
-  37.0600, -79.6900
-  36.9500, -79.7400
-  36.9200, -79.8800
-  36.9900, -80.0000
 End:
