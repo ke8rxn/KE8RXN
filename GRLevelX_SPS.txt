@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-28 01:30:17 UTC
+; Generated: 2026-05-28 01:35:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 9:27PM EDT by NWS Jacksonville FL\nExpires: 2026-05-28 02:15 Z\nAt 927 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Ocala, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ocala, Rainbow Lakes Estates, Interlachen, Fort McCoy, Salt Springs, Citra, Lynne, Hawthorne, Archer, and Lake Delancy.\nGenerated: 2026-05-28 01:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 6:32PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 02:00 Z\nAt 631 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles east of La Pine to 7 miles west of Brothers to 8 miles southwest of Paulina. Movement was west at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... La Pine, Millican, and Brothers.  This includes Highway 20 between mile markers 22 and 53.\nGenerated: 2026-05-28 01:35:13 UTC"
+  43.6200, -121.6200
+  43.8500, -121.1600
+  44.1000, -120.4000
+  44.0700, -119.7800
+  43.8000, -120.3400
+  43.6200, -120.6000
+  43.6200, -121.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 9:27PM EDT by NWS Jacksonville FL\nExpires: 2026-05-28 02:15 Z\nAt 927 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Ocala, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ocala, Rainbow Lakes Estates, Interlachen, Fort McCoy, Salt Springs, Citra, Lynne, Hawthorne, Archer, and Lake Delancy.\nGenerated: 2026-05-28 01:35:13 UTC"
   28.9700, -82.3200
   29.0200, -82.4000
   29.0200, -82.4200
@@ -26,7 +37,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 9:27PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 7:21PM MDT by NWS Great Falls MT\nExpires: 2026-05-28 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles northwest of Dillon to 13 miles southeast of Jackson. Movement was northwest at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wisdom, Jackson, and Polaris.\nGenerated: 2026-05-28 01:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 7:21PM MDT by NWS Great Falls MT\nExpires: 2026-05-28 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles northwest of Dillon to 13 miles southeast of Jackson. Movement was northwest at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wisdom, Jackson, and Polaris.\nGenerated: 2026-05-28 01:35:13 UTC"
   45.7100, -112.8600
   45.5700, -113.7300
   45.1700, -113.2500
@@ -35,7 +46,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 7:21PM MDT by NWS Great Fal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 9:16PM EDT by NWS Jacksonville FL\nExpires: 2026-05-28 01:45 Z\nAt 916 PM EDT, Doppler radar was tracking a strong thunderstorm near Lynne, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort McCoy, Citra, Lynne, Lake Delancy, Sparr, Santos, Anthony, Moss Bluff, Silver Springs Shores, and Belleview.\nGenerated: 2026-05-28 01:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 9:16PM EDT by NWS Jacksonville FL\nExpires: 2026-05-28 01:45 Z\nAt 916 PM EDT, Doppler radar was tracking a strong thunderstorm near Lynne, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort McCoy, Citra, Lynne, Lake Delancy, Sparr, Santos, Anthony, Moss Bluff, Silver Springs Shores, and Belleview.\nGenerated: 2026-05-28 01:35:13 UTC"
   29.0600, -82.1000
   29.4300, -82.1400
   29.4300, -82.1200
@@ -52,7 +63,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 9:16PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 8:10PM CDT by NWS Norman OK\nExpires: 2026-05-28 02:00 Z\nAt 809 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Eldorado to 3 miles southwest of Goodlett to 5 miles northeast of Swearingen. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Quanah, Eldorado, Goodlett, and Lazare.\nGenerated: 2026-05-28 01:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 8:10PM CDT by NWS Norman OK\nExpires: 2026-05-28 02:00 Z\nAt 809 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Eldorado to 3 miles southwest of Goodlett to 5 miles northeast of Swearingen. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Quanah, Eldorado, Goodlett, and Lazare.\nGenerated: 2026-05-28 01:35:13 UTC"
   34.2300, -100.0500
   34.2400, -100.0300
   34.2400, -100.0100
@@ -68,7 +79,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 8:10PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 5:57PM PDT by NWS Boise ID\nExpires: 2026-05-28 01:45 Z\nAt 557 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Crow Flat Guard Station to near Dry Mountain. Movement was northwest at 35 mph.  HAZARD...Wind gusts up to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Yellowjacket Campground, Emigrant Campground, Burnt Mountain, and Emigrant Butte around 600 PM PDT. Delintment Lake and Buck Springs around 610 PM PDT. Williams Reservoir around 630 PM PDT.\nGenerated: 2026-05-28 01:30:17 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 5:57PM PDT by NWS Boise ID\nExpires: 2026-05-28 01:45 Z\nAt 557 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Crow Flat Guard Station to near Dry Mountain. Movement was northwest at 35 mph.  HAZARD...Wind gusts up to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Yellowjacket Campground, Emigrant Campground, Burnt Mountain, and Emigrant Butte around 600 PM PDT. Delintment Lake and Buck Springs around 610 PM PDT. Williams Reservoir around 630 PM PDT.\nGenerated: 2026-05-28 01:35:13 UTC"
   43.7000, -119.7800
   43.9600, -119.7700
   43.9600, -118.8200
