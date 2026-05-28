@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-28 22:15:16 UTC
+; Generated: 2026-05-28 22:20:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 28 at 4:14PM MDT by NWS Denver CO\nExpires: 2026-05-28 23:00 Z\nAt 414 PM MDT, Doppler radar was tracking a strong thunderstorm near Deckers, or 38 miles southwest of Denver, moving northeast at 10 mph.  HAZARD...Wind gusts up to 30 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Deckers, Cheesman Reservoir and Devil's Head.\nGenerated: 2026-05-28 22:15:16 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 6:15PM EDT by NWS Melbourne FL\nExpires: 2026-05-28 22:45 Z\nAt 614 PM EDT, Doppler radar was tracking a strong thunderstorm near Daytona Beach, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Daytona Beach, Port Orange, Ormond Beach, DeLand, and South Daytona.\nGenerated: 2026-05-28 22:20:15 UTC"
+  29.1300, -80.9200
+  29.0100, -81.3400
+  29.1300, -81.2900
+  29.2500, -81.2700
+  29.2600, -81.2500
+  29.2700, -81.1500
+  29.3400, -81.1500
+  29.4100, -81.0600
+  29.1300, -80.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 28 at 4:14PM MDT by NWS Denver CO\nExpires: 2026-05-28 23:00 Z\nAt 414 PM MDT, Doppler radar was tracking a strong thunderstorm near Deckers, or 38 miles southwest of Denver, moving northeast at 10 mph.  HAZARD...Wind gusts up to 30 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Deckers, Cheesman Reservoir and Devil's Head.\nGenerated: 2026-05-28 22:20:15 UTC"
   39.1300, -105.2300
   39.2100, -105.3700
   39.2200, -105.3600
@@ -24,7 +37,7 @@ Line: 2,,"Special Weather Statement issued May 28 at 4:14PM MDT by NWS Denver CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 28 at 4:14PM MDT by NWS Missoula MT\nExpires: 2026-05-28 22:45 Z\nAt 414 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Ovando, or 18 miles north of Drummond, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ovando, Woodworth and Clearwater.\nGenerated: 2026-05-28 22:15:16 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 4:14PM MDT by NWS Missoula MT\nExpires: 2026-05-28 22:45 Z\nAt 414 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Ovando, or 18 miles north of Drummond, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ovando, Woodworth and Clearwater.\nGenerated: 2026-05-28 22:20:15 UTC"
   46.9400, -113.3000
   47.0300, -113.4900
   47.2200, -113.2400
@@ -34,7 +47,7 @@ Line: 2,,"Special Weather Statement issued May 28 at 4:14PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 28 at 4:13PM MDT by NWS Pueblo CO\nExpires: 2026-05-28 22:45 Z\nAt 412 PM MDT, Doppler radar was tracking a strong thunderstorm near Starkville, or near Trinidad. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Trinidad, Cokedale, and Starkville.\nGenerated: 2026-05-28 22:15:16 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 4:13PM MDT by NWS Pueblo CO\nExpires: 2026-05-28 22:45 Z\nAt 412 PM MDT, Doppler radar was tracking a strong thunderstorm near Starkville, or near Trinidad. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Trinidad, Cokedale, and Starkville.\nGenerated: 2026-05-28 22:20:15 UTC"
   37.0400, -104.5100
   37.1100, -104.7300
   37.2700, -104.6400
@@ -43,7 +56,7 @@ Line: 2,,"Special Weather Statement issued May 28 at 4:13PM MDT by NWS Pueblo CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 28 at 3:04PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 22:30 Z\nAt 304 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hamilton to 6 miles east of Lehman Hot Springs. Movement was northwest at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ukiah, Monument, Lehman Hot Springs, Dale, Ritter, and Hamilton.  This includes Highway 395 between mile markers 46 and 89.\nGenerated: 2026-05-28 22:15:16 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 3:04PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 22:30 Z\nAt 304 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hamilton to 6 miles east of Lehman Hot Springs. Movement was northwest at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ukiah, Monument, Lehman Hot Springs, Dale, Ritter, and Hamilton.  This includes Highway 395 between mile markers 46 and 89.\nGenerated: 2026-05-28 22:20:15 UTC"
   44.7900, -119.5900
   45.3700, -118.6700
   45.1500, -118.3400
@@ -52,7 +65,7 @@ Line: 2,,"Special Weather Statement issued May 28 at 3:04PM PDT by NWS Pendleton
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 28 at 2:59PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 22:30 Z\nAt 258 PM PDT, Doppler radar was tracking a strong thunderstorm over northwestern Yakama Reservation, or 22 miles southeast of Packwood. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Yakima County.\nGenerated: 2026-05-28 22:15:16 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 2:59PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 22:30 Z\nAt 258 PM PDT, Doppler radar was tracking a strong thunderstorm over northwestern Yakama Reservation, or 22 miles southeast of Packwood. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Yakima County.\nGenerated: 2026-05-28 22:20:15 UTC"
   46.3900, -121.3900
   46.4500, -121.4100
   46.4800, -121.4400
@@ -67,7 +80,7 @@ Line: 2,,"Special Weather Statement issued May 28 at 2:59PM PDT by NWS Pendleton
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 28 at 3:54PM MDT by NWS Missoula MT\nExpires: 2026-05-28 22:30 Z\nAt 254 PM PDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Riggins, or 26 miles south of Grangeville, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lucile and Slate Creek.\nGenerated: 2026-05-28 22:15:16 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 3:54PM MDT by NWS Missoula MT\nExpires: 2026-05-28 22:30 Z\nAt 254 PM PDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Riggins, or 26 miles south of Grangeville, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lucile and Slate Creek.\nGenerated: 2026-05-28 22:20:15 UTC"
   45.4600, -116.2600
   45.5200, -116.5400
   45.5500, -116.5300
@@ -88,7 +101,7 @@ Line: 2,,"Special Weather Statement issued May 28 at 3:54PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 28 at 4:36PM CDT by NWS San Angelo TX\nExpires: 2026-05-28 22:30 Z\nAt 436 PM CDT, Doppler radar was tracking a strong thunderstorm along the Callahan-Shackelford County Line, or 7 miles northeast of Clyde, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Baird, Moran, Putnam, Us-283 Near The Callahan- Shackelford County Line, and I-20 Near The Callahan- Eastland County Line.  This includes Interstate 20 between Mile Markers 303 and 323.\nGenerated: 2026-05-28 22:15:16 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 4:36PM CDT by NWS San Angelo TX\nExpires: 2026-05-28 22:30 Z\nAt 436 PM CDT, Doppler radar was tracking a strong thunderstorm along the Callahan-Shackelford County Line, or 7 miles northeast of Clyde, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Baird, Moran, Putnam, Us-283 Near The Callahan- Shackelford County Line, and I-20 Near The Callahan- Eastland County Line.  This includes Interstate 20 between Mile Markers 303 and 323.\nGenerated: 2026-05-28 22:20:15 UTC"
   32.5100, -99.1100
   32.2900, -99.1200
   32.3800, -99.4100
