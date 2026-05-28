@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-28 01:40:12 UTC
+; Generated: 2026-05-28 01:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 7:37PM MDT by NWS Missoula MT\nExpires: 2026-05-28 02:00 Z\nAt 737 PM MDT, Doppler radar was tracking a strong thunderstorm near Stevensville, or 19 miles north of Hamilton, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Stevensville and Florence.\nGenerated: 2026-05-28 01:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 8:43PM CDT by NWS Norman OK\nExpires: 2026-05-28 02:30 Z\nAt 843 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles northwest of Medicine Mound to 10 miles northwest of Margaret to 11 miles southeast of Swearingen. Movement was southeast at 25 mph.  HAZARD...Wind gusts of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Crowell, Thalia, Margaret, Medicine Mound, Copper Breaks State Park, and Rayland.\nGenerated: 2026-05-28 01:45:15 UTC"
+  34.1900, -100.0500
+  34.2400, -100.0300
+  34.2400, -100.0100
+  34.2300, -100.0000
+  34.2400, -100.0000
+  34.2800, -99.6400
+  34.2200, -99.4700
+  33.9600, -99.4800
+  33.8500, -99.7600
+  33.9900, -100.0500
+  34.1900, -100.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 6:42PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 02:15 Z\nAt 642 PM PDT, Doppler radar was tracking a strong thunderstorm over Imnaha, or 21 miles northeast of Enterprise, moving west at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Imnaha.\nGenerated: 2026-05-28 01:45:15 UTC"
+  45.6300, -116.7300
+  45.4600, -116.8300
+  45.5200, -117.2500
+  45.8000, -117.0500
+  45.6300, -116.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 7:37PM MDT by NWS Missoula MT\nExpires: 2026-05-28 02:00 Z\nAt 737 PM MDT, Doppler radar was tracking a strong thunderstorm near Stevensville, or 19 miles north of Hamilton, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Stevensville and Florence.\nGenerated: 2026-05-28 01:45:15 UTC"
   46.4600, -114.2200
   46.4600, -114.2800
   46.6500, -114.3000
@@ -15,7 +39,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 7:37PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 6:37PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 02:00 Z\nAt 637 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Izee, or 28 miles northwest of Burns, moving northwest at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Izee.\nGenerated: 2026-05-28 01:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 6:37PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 02:00 Z\nAt 637 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Izee, or 28 miles northwest of Burns, moving northwest at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Izee.\nGenerated: 2026-05-28 01:45:15 UTC"
   43.9800, -119.6800
   44.2000, -119.4900
   43.9900, -119.1600
@@ -25,7 +49,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 6:37PM PDT by NWS Pendleton
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 6:32PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 02:00 Z\nAt 631 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles east of La Pine to 7 miles west of Brothers to 8 miles southwest of Paulina. Movement was west at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... La Pine, Millican, and Brothers.  This includes Highway 20 between mile markers 22 and 53.\nGenerated: 2026-05-28 01:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 6:32PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 02:00 Z\nAt 631 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles east of La Pine to 7 miles west of Brothers to 8 miles southwest of Paulina. Movement was west at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... La Pine, Millican, and Brothers.  This includes Highway 20 between mile markers 22 and 53.\nGenerated: 2026-05-28 01:45:15 UTC"
   43.6200, -121.6200
   43.8500, -121.1600
   44.1000, -120.4000
@@ -36,7 +60,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 6:32PM PDT by NWS Pendleton
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 9:27PM EDT by NWS Jacksonville FL\nExpires: 2026-05-28 02:15 Z\nAt 927 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Ocala, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ocala, Rainbow Lakes Estates, Interlachen, Fort McCoy, Salt Springs, Citra, Lynne, Hawthorne, Archer, and Lake Delancy.\nGenerated: 2026-05-28 01:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 9:27PM EDT by NWS Jacksonville FL\nExpires: 2026-05-28 02:15 Z\nAt 927 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Ocala, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ocala, Rainbow Lakes Estates, Interlachen, Fort McCoy, Salt Springs, Citra, Lynne, Hawthorne, Archer, and Lake Delancy.\nGenerated: 2026-05-28 01:45:15 UTC"
   28.9700, -82.3200
   29.0200, -82.4000
   29.0200, -82.4200
@@ -57,7 +81,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 9:27PM EDT by NWS Jacksonvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 7:21PM MDT by NWS Great Falls MT\nExpires: 2026-05-28 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles northwest of Dillon to 13 miles southeast of Jackson. Movement was northwest at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wisdom, Jackson, and Polaris.\nGenerated: 2026-05-28 01:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 7:21PM MDT by NWS Great Falls MT\nExpires: 2026-05-28 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles northwest of Dillon to 13 miles southeast of Jackson. Movement was northwest at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wisdom, Jackson, and Polaris.\nGenerated: 2026-05-28 01:45:15 UTC"
   45.7100, -112.8600
   45.5700, -113.7300
   45.1700, -113.2500
@@ -66,24 +90,7 @@ Line: 2,,"Special Weather Statement issued May 27 at 7:21PM MDT by NWS Great Fal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 9:16PM EDT by NWS Jacksonville FL\nExpires: 2026-05-28 01:45 Z\nAt 916 PM EDT, Doppler radar was tracking a strong thunderstorm near Lynne, moving north at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort McCoy, Citra, Lynne, Lake Delancy, Sparr, Santos, Anthony, Moss Bluff, Silver Springs Shores, and Belleview.\nGenerated: 2026-05-28 01:40:12 UTC"
-  29.0600, -82.1000
-  29.4300, -82.1400
-  29.4300, -82.1200
-  29.4400, -82.1000
-  29.4300, -82.0900
-  29.4400, -82.0900
-  29.4300, -82.0700
-  29.4400, -82.0700
-  29.4500, -81.7800
-  29.4300, -81.7700
-  29.4300, -81.7500
-  29.0600, -81.7600
-  29.0600, -82.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 8:10PM CDT by NWS Norman OK\nExpires: 2026-05-28 02:00 Z\nAt 809 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Eldorado to 3 miles southwest of Goodlett to 5 miles northeast of Swearingen. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Quanah, Eldorado, Goodlett, and Lazare.\nGenerated: 2026-05-28 01:40:12 UTC"
+Line: 2,,"Special Weather Statement issued May 27 at 8:10PM CDT by NWS Norman OK\nExpires: 2026-05-28 02:00 Z\nAt 809 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Eldorado to 3 miles southwest of Goodlett to 5 miles northeast of Swearingen. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Quanah, Eldorado, Goodlett, and Lazare.\nGenerated: 2026-05-28 01:45:15 UTC"
   34.2300, -100.0500
   34.2400, -100.0300
   34.2400, -100.0100
@@ -96,17 +103,4 @@ Line: 2,,"Special Weather Statement issued May 27 at 8:10PM CDT by NWS Norman OK
   34.0400, -99.9900
   34.0800, -100.0500
   34.2300, -100.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 5:57PM PDT by NWS Boise ID\nExpires: 2026-05-28 01:45 Z\nAt 557 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Crow Flat Guard Station to near Dry Mountain. Movement was northwest at 35 mph.  HAZARD...Wind gusts up to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Yellowjacket Campground, Emigrant Campground, Burnt Mountain, and Emigrant Butte around 600 PM PDT. Delintment Lake and Buck Springs around 610 PM PDT. Williams Reservoir around 630 PM PDT.\nGenerated: 2026-05-28 01:40:12 UTC"
-  43.7000, -119.7800
-  43.9600, -119.7700
-  43.9600, -118.8200
-  43.9900, -118.8100
-  43.8100, -118.7100
-  43.5700, -119.5700
-  43.6100, -119.9000
-  43.7000, -119.8900
-  43.7000, -119.7800
 End:
