@@ -3,26 +3,58 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-28 04:25:12 UTC
+; Generated: 2026-05-28 04:30:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 10:04PM MDT by NWS Missoula MT\nExpires: 2026-05-28 04:45 Z\nAt 904 PM PDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Kooskia, or 16 miles northeast of Grangeville, moving northwest at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kooskia, East Kamiah, Clearwater, Stites, Glenwood and Winona.\nGenerated: 2026-05-28 04:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 28 at 12:28AM EDT by NWS Wakefield VA\nExpires: 2026-05-28 05:15 Z\nAt 1228 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Indiantown to near Elizabeth City State University to near Chapanoke. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Elizabeth City, Weeksville, Whitehall Shores, Indiantown, Nixonton, and Shiloh around 1235 AM EDT. Old Trap around 1240 AM EDT. Grandy around 1250 AM EDT.  Other locations impacted by these storms include Bob White Fork, Poplar Branch, Spot, Glen Cove, Gregory, Barco, Pasquotank, Jacocks, Spences Corner, and Goose Creek.\nGenerated: 2026-05-28 04:30:14 UTC"
+  36.1700, -75.9100
+  36.1800, -76.0000
+  36.1400, -76.0000
+  36.1500, -76.0600
+  36.1300, -76.1100
+  36.1200, -76.1700
+  36.1000, -76.2100
+  36.1100, -76.2700
+  36.1000, -76.3000
+  36.1900, -76.5500
+  36.2800, -76.3400
+  36.5200, -76.1400
+  36.5100, -75.8000
+  36.2400, -75.7200
+  36.2200, -75.7300
+  36.2200, -75.7700
+  36.2000, -75.7700
+  36.1900, -75.7900
+  36.0900, -75.7600
+  36.0700, -75.8000
+  36.1700, -75.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 9:26PM PDT by NWS Pendleton OR\nExpires: 2026-05-28 05:00 Z\nAt 926 PM PDT, Doppler radar was tracking a strong thunderstorm 11 miles south of Paulina, or 42 miles south of Mitchell, moving west at 45 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Crook County.\nGenerated: 2026-05-28 04:30:14 UTC"
+  44.0600, -119.9500
+  43.8900, -119.9900
+  43.9000, -120.5500
+  44.1900, -120.4700
+  44.0600, -119.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 9:26PM PDT by NWS Spokane WA\nExpires: 2026-05-28 05:00 Z\nAt 926 PM PDT, Doppler radar was tracking a strong thunderstorm near Craigmont, or 17 miles west of Kamiah, moving north at 20 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Craigmont, Reubens, and Mohler.  This includes U.S. Highway 95 in Idaho between mile markers 268 and 274, and near mile marker 285.\nGenerated: 2026-05-28 04:30:14 UTC"
+  46.3300, -116.6000
+  46.4100, -116.3300
+  46.2100, -116.3000
+  46.1800, -116.3900
+  46.2000, -116.4200
+  46.1900, -116.4500
+  46.1900, -116.4600
+  46.3300, -116.6000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 27 at 10:04PM MDT by NWS Missoula MT\nExpires: 2026-05-28 04:45 Z\nAt 904 PM PDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Kooskia, or 16 miles northeast of Grangeville, moving northwest at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kooskia, East Kamiah, Clearwater, Stites, Glenwood and Winona.\nGenerated: 2026-05-28 04:30:14 UTC"
   45.9800, -115.9400
   46.1500, -116.1400
   46.2700, -115.8400
   46.0700, -115.7100
   45.9800, -115.9400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 27 at 11:49PM EDT by NWS Wakefield VA\nExpires: 2026-05-28 04:30 Z\nAt 1148 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Corapeake to near Hobbsville to Harrellsville. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Ryland, Tyner, and Hobbsville around 1155 PM EDT. South Mills, Belvidere, and Morgans Corner around 1200 AM EDT. Elizabeth City, Hertford, Winfall, and Chapanoke around 1210 AM EDT. Camden and Elizabeth City State University around 1220 AM EDT.  Other locations impacted by these storms include Bob White Fork, Gliden, Horseshoe, Pierceville, Newsome Store, Savage, Peach, Parkville, Tar Corner, and Nicanor.\nGenerated: 2026-05-28 04:25:12 UTC"
-  36.2300, -76.7100
-  36.2400, -76.7100
-  36.2700, -76.8800
-  36.4000, -76.7200
-  36.5500, -76.5900
-  36.5500, -76.3000
-  36.4900, -75.9100
-  36.2300, -76.1000
-  36.1100, -76.3400
-  36.2300, -76.7100
 End:
