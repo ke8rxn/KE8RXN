@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-29 23:10:14 UTC
+; Generated: 2026-05-29 23:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 6:08PM CDT by NWS Dodge City KS\nExpires: 2026-05-29 23:45 Z\nAt 608 PM CDT, Doppler radar was tracking a strong thunderstorm very near Spearville, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Bellefont around 615 PM CDT.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 5:14PM MDT by NWS Glasgow MT\nExpires: 2026-05-30 00:15 Z\nAt 513 PM MDT, Doppler radar was tracking a strong thunderstorm near Zortman, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Zortman and Landusky.\nGenerated: 2026-05-29 23:15:16 UTC"
+  47.9200, -108.8900
+  47.9300, -108.6600
+  47.9200, -108.6300
+  47.9600, -108.6200
+  47.9900, -108.6100
+  47.9800, -108.5500
+  47.9800, -108.4300
+  47.9600, -108.4000
+  47.7700, -108.5600
+  47.8300, -108.8900
+  47.9200, -108.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 29 at 6:08PM CDT by NWS Dodge City KS\nExpires: 2026-05-29 23:45 Z\nAt 608 PM CDT, Doppler radar was tracking a strong thunderstorm very near Spearville, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Bellefont around 615 PM CDT.\nGenerated: 2026-05-29 23:15:16 UTC"
   37.7700, -99.7400
   37.8300, -99.8500
   38.0800, -99.6800
@@ -14,7 +29,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 6:08PM CDT by NWS Dodge Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Great Falls MT\nExpires: 2026-05-29 23:30 Z\nAt 503 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Grass Range, or 28 miles southeast of Lewistown, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Fergus County.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Great Falls MT\nExpires: 2026-05-29 23:30 Z\nAt 503 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Grass Range, or 28 miles southeast of Lewistown, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Fergus County.\nGenerated: 2026-05-29 23:15:16 UTC"
   46.7900, -108.8500
   46.7600, -108.9600
   46.9500, -109.0900
@@ -23,7 +38,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Great Fal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Missoula MT\nExpires: 2026-05-29 23:45 Z\nAt 504 PM MDT, Doppler radar was tracking a strong thunderstorm 20 miles north of Plains, or 17 miles northeast of Thompson Falls, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bend.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Missoula MT\nExpires: 2026-05-29 23:45 Z\nAt 504 PM MDT, Doppler radar was tracking a strong thunderstorm 20 miles north of Plains, or 17 miles northeast of Thompson Falls, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bend.\nGenerated: 2026-05-29 23:15:16 UTC"
   47.6600, -114.9600
   47.6700, -115.1200
   47.9300, -115.1600
@@ -32,7 +47,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Billings MT\nExpires: 2026-05-29 23:45 Z\nAt 504 PM MDT, Doppler radar was tracking a strong thunderstorm 18 miles southeast of Ashland, or 29 miles west of Broadus, and is mostly stationary.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Northwestern Powder River County.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Billings MT\nExpires: 2026-05-29 23:45 Z\nAt 504 PM MDT, Doppler radar was tracking a strong thunderstorm 18 miles southeast of Ashland, or 29 miles west of Broadus, and is mostly stationary.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Northwestern Powder River County.\nGenerated: 2026-05-29 23:15:16 UTC"
   45.3500, -106.2300
   45.7100, -106.2300
   45.7000, -105.7200
@@ -41,7 +56,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 5:04PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:03PM MDT by NWS Missoula MT\nExpires: 2026-05-29 23:30 Z\nAt 503 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Plains, or 18 miles southeast of Thompson Falls, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Weeksville and Eddy.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 5:03PM MDT by NWS Missoula MT\nExpires: 2026-05-29 23:30 Z\nAt 503 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Plains, or 18 miles southeast of Thompson Falls, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Weeksville and Eddy.\nGenerated: 2026-05-29 23:15:16 UTC"
   47.4200, -114.9000
   47.3900, -115.0400
   47.5800, -115.2200
@@ -53,7 +68,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 5:03PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 4:59PM MDT by NWS Denver CO\nExpires: 2026-05-29 23:30 Z\nAt 459 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Cope, or 30 miles southeast of Akron, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of East Central Washington County.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 4:59PM MDT by NWS Denver CO\nExpires: 2026-05-29 23:30 Z\nAt 459 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Cope, or 30 miles southeast of Akron, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of East Central Washington County.\nGenerated: 2026-05-29 23:15:16 UTC"
   39.7700, -102.8000
   39.8300, -102.9200
   40.0700, -102.8400
@@ -64,7 +79,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 4:59PM MDT by NWS Denver CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 4:57PM MDT by NWS Pueblo CO\nExpires: 2026-05-29 23:30 Z\nAt 455 PM MDT, Doppler radar was tracking thunderstorms along a line extending from 6 miles north of John Martin Reservoir to near Higbee to 11 miles east of Thatcher. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph. weak brief landspout tornadoes may also occur with the stronger storms along this line.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Las Animas, McClave, Higbee, Hasty, John Martin Reservoir, Fort Lyon, and Caddoa.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 4:57PM MDT by NWS Pueblo CO\nExpires: 2026-05-29 23:30 Z\nAt 455 PM MDT, Doppler radar was tracking thunderstorms along a line extending from 6 miles north of John Martin Reservoir to near Higbee to 11 miles east of Thatcher. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph. weak brief landspout tornadoes may also occur with the stronger storms along this line.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Las Animas, McClave, Higbee, Hasty, John Martin Reservoir, Fort Lyon, and Caddoa.\nGenerated: 2026-05-29 23:15:16 UTC"
   38.1000, -102.7100
   37.6200, -103.1400
   37.3000, -103.7000
@@ -75,7 +90,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 4:57PM MDT by NWS Pueblo CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:56PM CDT by NWS Amarillo TX\nExpires: 2026-05-29 23:30 Z\nAt 555 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Easter, or 6 miles south of Hereford, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hereford, Umbarger, Buffalo Lake, and Dawn.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 5:56PM CDT by NWS Amarillo TX\nExpires: 2026-05-29 23:30 Z\nAt 555 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Easter, or 6 miles south of Hereford, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hereford, Umbarger, Buffalo Lake, and Dawn.\nGenerated: 2026-05-29 23:15:16 UTC"
   34.7600, -102.4800
   35.0100, -102.0800
   34.7500, -101.9000
@@ -84,7 +99,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 5:56PM CDT by NWS Amarillo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 4:56PM MDT by NWS Missoula MT\nExpires: 2026-05-30 00:00 Z\nAt 456 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 17 miles southwest of Big Arm to 9 miles east of Ronan, or extending from 20 miles west of Polson to 16 miles southeast of Polson, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Polson, Ronan, Kerr, Jette, Rocky Point, Kings Point, Pablo, Turtle Lake, Big Arm, Finley Point, Round Butte, Dayton, Elmo, Kicking Horse, Niarada and Lonepine.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 4:56PM MDT by NWS Missoula MT\nExpires: 2026-05-30 00:00 Z\nAt 456 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 17 miles southwest of Big Arm to 9 miles east of Ronan, or extending from 20 miles west of Polson to 16 miles southeast of Polson, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Polson, Ronan, Kerr, Jette, Rocky Point, Kings Point, Pablo, Turtle Lake, Big Arm, Finley Point, Round Butte, Dayton, Elmo, Kicking Horse, Niarada and Lonepine.\nGenerated: 2026-05-29 23:15:16 UTC"
   47.6000, -113.8300
   47.4000, -113.9300
   47.4800, -114.1400
@@ -101,16 +116,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 4:56PM MDT by NWS Missoula 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:49PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-05-29 23:15 Z\nAt 549 PM CDT, Doppler radar was tracking a strong thunderstorm near Rantoul, or 7 miles northwest of Osawatomie. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paola and Osawatomie.\nGenerated: 2026-05-29 23:10:14 UTC"
-  38.4700, -95.0700
-  38.6800, -95.0600
-  38.7300, -94.8800
-  38.4600, -94.8400
-  38.4700, -95.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 4:48PM MDT by NWS Cheyenne WY\nExpires: 2026-05-29 23:30 Z\nAt 448 PM MDT, Doppler radar was tracking strong thunderstorms capable of producing a landspout along a line extending from near Albin to near Pine Bluffs. Movement was north at 15 mph.  HAZARD...Landspouts, wind gusts up to 40 mph, and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pine Bluffs, La Grange, and Albin.  This includes Interstate 80 in Nebraska between mile markers 2 and 5.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 4:48PM MDT by NWS Cheyenne WY\nExpires: 2026-05-29 23:30 Z\nAt 448 PM MDT, Doppler radar was tracking strong thunderstorms capable of producing a landspout along a line extending from near Albin to near Pine Bluffs. Movement was north at 15 mph.  HAZARD...Landspouts, wind gusts up to 40 mph, and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pine Bluffs, La Grange, and Albin.  This includes Interstate 80 in Nebraska between mile markers 2 and 5.\nGenerated: 2026-05-29 23:15:16 UTC"
   41.6700, -104.2700
   41.6500, -103.8500
   41.1800, -103.9600
@@ -119,17 +125,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 4:48PM MDT by NWS Cheyenne 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:48PM CDT by NWS Dodge City KS\nExpires: 2026-05-29 23:15 Z\nAt 548 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 7 miles northwest of Hardtner to near Burlington. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Kiowa around 555 PM CDT. Hazelton around 600 PM CDT.\nGenerated: 2026-05-29 23:10:14 UTC"
-  37.0000, -98.7100
-  37.0800, -98.8300
-  37.3300, -98.6000
-  37.1600, -98.3500
-  37.0000, -98.3500
-  37.0000, -98.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 4:47PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-29 23:30 Z\nAt 446 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles east of Woodland Hills to 18 miles southeast of Clawson. Movement was north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Provo, Payson, Price, Nephi, Moroni, Orem, Spanish Fork, Springville, Heber, Lindon, Santaquin, Mapleton, Salem, Mount Pleasant, Elk Ridge, Helper, Huntington, Wellington, Woodland Hills, and Daniel.  This includes the following highways... Interstate 15 between mile markers 228 and 271. Interstate 70 between mile markers 110 and 129. US Route 6 between mile markers 147 and 254. US Route 40 between mile markers 19 and 52. US Route 89 between mile markers 268 and 312. Utah Route 10 between mile markers 19 and 68.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 4:47PM MDT by NWS Salt Lake City UT\nExpires: 2026-05-29 23:30 Z\nAt 446 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles east of Woodland Hills to 18 miles southeast of Clawson. Movement was north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Provo, Payson, Price, Nephi, Moroni, Orem, Spanish Fork, Springville, Heber, Lindon, Santaquin, Mapleton, Salem, Mount Pleasant, Elk Ridge, Helper, Huntington, Wellington, Woodland Hills, and Daniel.  This includes the following highways... Interstate 15 between mile markers 228 and 271. Interstate 70 between mile markers 110 and 129. US Route 6 between mile markers 147 and 254. US Route 40 between mile markers 19 and 52. US Route 89 between mile markers 268 and 312. Utah Route 10 between mile markers 19 and 68.\nGenerated: 2026-05-29 23:15:16 UTC"
   40.5900, -111.2400
   39.1400, -110.3600
   38.6900, -110.9100
@@ -138,7 +134,7 @@ Line: 2,,"Special Weather Statement issued May 29 at 4:47PM MDT by NWS Salt Lake
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 5:38PM CDT by NWS Jackson MS\nExpires: 2026-05-29 23:30 Z\nAt 537 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wallace Ridge to near Lee Bayou. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Ferriday, Clayton, Spokane, Wildsville, and Frogmore around 545 PM CDT. Natchez and Ridgecrest around 550 PM CDT. Vidalia around 555 PM CDT. Deer Park around 610 PM CDT.\nGenerated: 2026-05-29 23:10:14 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 5:38PM CDT by NWS Jackson MS\nExpires: 2026-05-29 23:30 Z\nAt 537 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wallace Ridge to near Lee Bayou. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Ferriday, Clayton, Spokane, Wildsville, and Frogmore around 545 PM CDT. Natchez and Ridgecrest around 550 PM CDT. Vidalia around 555 PM CDT. Deer Park around 610 PM CDT.\nGenerated: 2026-05-29 23:15:16 UTC"
   31.8200, -92.0100
   32.0300, -91.5000
   31.8000, -91.3600
@@ -160,62 +156,4 @@ Line: 2,,"Special Weather Statement issued May 29 at 5:38PM CDT by NWS Jackson M
   31.4200, -91.8500
   31.6300, -92.0100
   31.8200, -92.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 6:32PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-05-29 23:15 Z\nAt 631 PM EDT, Doppler radar was tracking a strong thunderstorm near Sebring Regional Airport, or near Sebring, moving south at 10 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sebring, Avon Park, Lake Placid, Sebring Regional Airport, Sylvan Shores, Lake Istokpoga, Brighton, Cornwell, Sebring Shores, Lake Josephine, Lorida, Avon Park Executive Airport, Avon Park Air Force Range, Crewsville, and Placid Lakes.\nGenerated: 2026-05-29 23:10:14 UTC"
-  27.2100, -81.1500
-  27.2800, -81.6900
-  27.6300, -81.5200
-  27.5600, -81.1800
-  27.5600, -81.1900
-  27.5300, -81.2100
-  27.5100, -81.2000
-  27.4900, -81.2100
-  27.4400, -81.1400
-  27.4100, -81.1400
-  27.3900, -81.1200
-  27.3800, -81.0700
-  27.3600, -81.0300
-  27.3400, -81.0500
-  27.3000, -81.0300
-  27.3000, -81.0000
-  27.2600, -81.0000
-  27.2300, -80.9800
-  27.2100, -80.9500
-  27.2100, -81.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 6:31PM EDT by NWS Burlington VT\nExpires: 2026-05-29 23:15 Z\nAt 631 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hopkinton to near Rossie. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Richville, Gouverneur Village, Tupper Lake Village, Hermon Village, Tupper Lake, Piercefield, Clifton, Russell, Hopkinton, Clare, Gouverneur, Colton, Hermon, Rossie, Fowler, Pitcairn, Edwards, Fine, Macomb, and Pierrepont.\nGenerated: 2026-05-29 23:10:14 UTC"
-  44.5600, -74.6100
-  44.3500, -74.3100
-  44.1100, -74.3400
-  44.0500, -75.0700
-  44.3500, -75.7500
-  44.3900, -75.7700
-  44.5600, -74.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 4:24PM MDT by NWS Great Falls MT\nExpires: 2026-05-29 23:15 Z\nAt 424 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles north of Stanford to 9 miles northwest of Hobson. Movement was northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  These storms will remain over mainly rural areas of northeastern Judith Basin and western Fergus Counties.\nGenerated: 2026-05-29 23:10:14 UTC"
-  47.0400, -110.0800
-  47.2200, -110.2800
-  47.3600, -110.1700
-  47.3600, -110.1200
-  47.2700, -110.1300
-  47.2800, -110.1100
-  47.2700, -110.0300
-  47.1700, -109.9300
-  47.0400, -110.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 4:23PM MDT by NWS Riverton WY\nExpires: 2026-05-29 23:15 Z\nAt 423 PM MDT, Doppler radar was tracking a strong thunderstorm near Fort Reno Historical Site, which is 24 miles northeast of Kaycee, moving northwest at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of east central Johnson County.  This includes Interstate 25 between mile markers 276 and 277.\nGenerated: 2026-05-29 23:10:14 UTC"
-  43.8300, -106.1800
-  44.0300, -106.6700
-  44.1700, -106.4500
-  44.1700, -106.2000
-  43.8900, -106.1100
-  43.8300, -106.1800
 End:
