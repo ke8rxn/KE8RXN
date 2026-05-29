@@ -3,16 +3,40 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-29 17:55:14 UTC
+; Generated: 2026-05-29 18:00:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 29 at 12:29PM CDT by NWS Tallahassee FL\nExpires: 2026-05-29 18:00 Z\nAt 1228 PM CDT, Doppler radar was tracking a strong thunderstorm near Vernon, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Live Oak, Red Head, Holmes Valley, Millers Ferry, Hinsons Crossroads, Five Points, and Whitehead Crossroads.\nGenerated: 2026-05-29 17:55:14 UTC"
-  30.6900, -85.8600
-  30.7400, -85.8100
-  30.7300, -85.7000
-  30.4600, -85.7200
-  30.4600, -85.8700
-  30.4900, -85.8700
-  30.4900, -85.8600
-  30.5000, -85.8700
-  30.6900, -85.8600
+Line: 2,,"Special Weather Statement issued May 29 at 1:59PM EDT by NWS Peachtree City GA\nExpires: 2026-05-29 18:30 Z\nAt 157 PM EDT, a strong thunderstorm was over Hawkinsville, moving northeast at 10 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Hawkinsville, Browndale, Wallace, Ocmulgee Public Fishing Area, Hartford, Pulaski State Prison, and Mobley Crossing.\nGenerated: 2026-05-29 18:00:17 UTC"
+  32.2900, -83.6100
+  32.3500, -83.5700
+  32.4000, -83.5200
+  32.3900, -83.5000
+  32.4000, -83.5000
+  32.2700, -83.3500
+  32.2500, -83.3700
+  32.2400, -83.3700
+  32.1800, -83.5000
+  32.2900, -83.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 29 at 12:58PM CDT by NWS Huntsville AL\nExpires: 2026-05-29 19:00 Z\nAt 1258 PM CDT, Doppler radar was tracking a strong thunderstorm near Scottsboro, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scottsboro, Hollywood, Skyline, Pleasant Groves, Hytop, Martintown, Lim Rock, Estillfork, Fackler, and Larkinsville.\nGenerated: 2026-05-29 18:00:17 UTC"
+  34.5700, -86.0200
+  34.6400, -86.2300
+  34.9500, -86.2200
+  34.8400, -85.8300
+  34.5700, -86.0200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 29 at 1:56PM EDT by NWS Peachtree City GA\nExpires: 2026-05-29 18:30 Z\nAt 155 PM EDT, a strong thunderstorm was over Middle Georgia Regional Airport, or 7 miles south of Macon, moving northeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Macon, Warner Robins, Centerville, Cross Keys, Skipperton, Rutland, Elberta, Franklinton, Middle Georgia Regional Airport, and Huber.\nGenerated: 2026-05-29 18:00:17 UTC"
+  32.6800, -83.7000
+  32.6900, -83.7000
+  32.6900, -83.7200
+  32.7200, -83.7400
+  32.8800, -83.6000
+  32.8700, -83.5800
+  32.8700, -83.5700
+  32.7100, -83.4400
+  32.6300, -83.6600
+  32.6800, -83.7000
 End:
