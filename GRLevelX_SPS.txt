@@ -3,9 +3,37 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-30 20:25:12 UTC
+; Generated: 2026-05-30 20:30:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 3:20PM CDT by NWS Springfield MO\nExpires: 2026-05-30 21:00 Z\nAt 320 PM CDT, Doppler radar was tracking a strong thunderstorm near Jasper, or 11 miles southwest of Lamar, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar, Jasper, Nashville, Carytown, Lamar Heights, Kenoma, Oakton, and Boston.\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 4:27PM EDT by NWS Tallahassee FL\nExpires: 2026-05-30 21:15 Z\nAt 427 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 12 miles south of Quitman to 12 miles southeast of Monticello to 19 miles northwest of Perry to 13 miles east of Woodville. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madison, Greenville, Lee, Ebb, Iddo, Moseley Hall, Secotan, Boyd, Lamont, Hopewell, Aucilla, Cherry Lake, Hamburg, Pinetta, Eridu, Cabbage Grove, Lovett, Lake Bird, Hanson, and Ashville.\nGenerated: 2026-05-30 20:30:13 UTC"
+  30.3000, -83.3400
+  30.1900, -83.4500
+  30.1000, -83.7700
+  30.3000, -84.0300
+  30.3500, -83.9000
+  30.4500, -83.8000
+  30.6500, -83.7100
+  30.6300, -83.2700
+  30.6200, -83.2700
+  30.5900, -83.2600
+  30.5500, -83.2600
+  30.5200, -83.2400
+  30.4900, -83.2500
+  30.4700, -83.2400
+  30.3000, -83.3400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 30 at 2:25PM MDT by NWS Cheyenne WY\nExpires: 2026-05-30 21:00 Z\nAt 225 PM MDT, Doppler radar was tracking a strong thunderstorm over Red Cloud Campground, or 8 miles south of Chadron, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chadron, Chadron Municipal Airport, Red Cloud Campground, Chadron State Park, Dawes County Fairgrounds, and Chadron State Park Campground.\nGenerated: 2026-05-30 20:30:13 UTC"
+  42.6300, -102.8300
+  42.5900, -103.0600
+  42.9000, -103.2400
+  42.9700, -102.8800
+  42.6300, -102.8300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 30 at 3:20PM CDT by NWS Springfield MO\nExpires: 2026-05-30 21:00 Z\nAt 320 PM CDT, Doppler radar was tracking a strong thunderstorm near Jasper, or 11 miles southwest of Lamar, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lamar, Jasper, Nashville, Carytown, Lamar Heights, Kenoma, Oakton, and Boston.\nGenerated: 2026-05-30 20:30:13 UTC"
   37.2800, -94.5000
   37.4600, -94.5200
   37.5200, -94.1800
@@ -14,7 +42,7 @@ Line: 2,,"Special Weather Statement issued May 30 at 3:20PM CDT by NWS Springfie
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 3:16PM CDT by NWS Tulsa OK\nExpires: 2026-05-30 21:00 Z\nAt 315 PM CDT, Doppler radar indicated a cluster of strong thunderstorms over Red Bank, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Green Forest...                   Carrollton... Osage...                          Rule... Blue Eye...                       Coin... Delmar...                         Denver... Connor...\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 3:16PM CDT by NWS Tulsa OK\nExpires: 2026-05-30 21:00 Z\nAt 315 PM CDT, Doppler radar indicated a cluster of strong thunderstorms over Red Bank, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Green Forest...                   Carrollton... Osage...                          Rule... Blue Eye...                       Coin... Delmar...                         Denver... Connor...\nGenerated: 2026-05-30 20:30:13 UTC"
   36.1300, -93.4700
   36.5000, -93.4600
   36.5000, -93.3000
@@ -23,7 +51,7 @@ Line: 2,,"Special Weather Statement issued May 30 at 3:16PM CDT by NWS Tulsa OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 3:16PM CDT by NWS Little Rock AR\nExpires: 2026-05-30 21:00 Z\nAt 316 PM CDT, Doppler radar was tracking a strong thunderstorm near Fourche Valley, or 13 miles southwest of Danville, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ola...                            Plainview in Yell County... Fourche Valley...                 Carter Cove Park... Rover...                          Wing... Fourche Junction...               Onyx... Fourche Mountain Recreation Are...Briggsville... Sunlight Bay Park...              Garden Point Recreation Area...\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 3:16PM CDT by NWS Little Rock AR\nExpires: 2026-05-30 21:00 Z\nAt 316 PM CDT, Doppler radar was tracking a strong thunderstorm near Fourche Valley, or 13 miles southwest of Danville, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ola...                            Plainview in Yell County... Fourche Valley...                 Carter Cove Park... Rover...                          Wing... Fourche Junction...               Onyx... Fourche Mountain Recreation Are...Briggsville... Sunlight Bay Park...              Garden Point Recreation Area...\nGenerated: 2026-05-30 20:30:13 UTC"
   34.8100, -93.5700
   34.9500, -93.5600
   35.0500, -93.1500
@@ -32,7 +60,7 @@ Line: 2,,"Special Weather Statement issued May 30 at 3:16PM CDT by NWS Little Ro
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 3:13PM CDT by NWS Little Rock AR\nExpires: 2026-05-30 21:00 Z\nAt 313 PM CDT, Doppler radar was tracking a strong thunderstorm near Piercetown, or near Jasper, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jasper...                         Eula... Piercetown...                     Carver... Bass...                           Crossroad... Vendor...                         Parthenon... Gum Springs in Newton County...   Mt Judea... Cowell...                         Hasty... Lurton...\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 3:13PM CDT by NWS Little Rock AR\nExpires: 2026-05-30 21:00 Z\nAt 313 PM CDT, Doppler radar was tracking a strong thunderstorm near Piercetown, or near Jasper, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jasper...                         Eula... Piercetown...                     Carver... Bass...                           Crossroad... Vendor...                         Parthenon... Gum Springs in Newton County...   Mt Judea... Cowell...                         Hasty... Lurton...\nGenerated: 2026-05-30 20:30:13 UTC"
   35.8900, -92.8500
   35.7300, -93.1000
   35.7300, -93.1200
@@ -42,7 +70,7 @@ Line: 2,,"Special Weather Statement issued May 30 at 3:13PM CDT by NWS Little Ro
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 3:13PM CDT by NWS Dodge City KS\nExpires: 2026-05-30 21:00 Z\nAt 313 PM CDT, Doppler radar was tracking a strong thunderstorm near Hanston, moving north at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Ness and northeastern Hodgeman Counties.\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 3:13PM CDT by NWS Dodge City KS\nExpires: 2026-05-30 21:00 Z\nAt 313 PM CDT, Doppler radar was tracking a strong thunderstorm near Hanston, moving north at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Ness and northeastern Hodgeman Counties.\nGenerated: 2026-05-30 20:30:13 UTC"
   38.3600, -99.5900
   38.3100, -99.5900
   38.1200, -99.7200
@@ -53,7 +81,7 @@ Line: 2,,"Special Weather Statement issued May 30 at 3:13PM CDT by NWS Dodge Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 2:13PM MDT by NWS Billings MT\nExpires: 2026-05-30 21:00 Z\nAt 213 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Laurel, or 18 miles southwest of Billings, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail. Heavy rainfall is occuring with this storm.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible. Brief heavy rainfall could produce localized flooding.  Locations impacted include... Laurel and Silesia. This does not include the city of Billings.\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 2:13PM MDT by NWS Billings MT\nExpires: 2026-05-30 21:00 Z\nAt 213 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Laurel, or 18 miles southwest of Billings, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail. Heavy rainfall is occuring with this storm.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible. Brief heavy rainfall could produce localized flooding.  Locations impacted include... Laurel and Silesia. This does not include the city of Billings.\nGenerated: 2026-05-30 20:30:13 UTC"
   45.6100, -108.8400
   45.6400, -108.8400
   45.6400, -108.8600
@@ -72,7 +100,7 @@ Line: 2,,"Special Weather Statement issued May 30 at 2:13PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 4:08PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-30 20:45 Z\nAt 407 PM EDT, Doppler radar was tracking a strong thunderstorm 15 miles northeast of Laurens, or 8 miles southeast of Woodruff, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Cross Keys, Enoree, and Cross Anchor.\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 4:08PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-05-30 20:45 Z\nAt 407 PM EDT, Doppler radar was tracking a strong thunderstorm 15 miles northeast of Laurens, or 8 miles southeast of Woodruff, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Cross Keys, Enoree, and Cross Anchor.\nGenerated: 2026-05-30 20:30:13 UTC"
   34.6700, -82.0100
   34.7700, -81.9000
   34.6900, -81.7000
@@ -81,7 +109,7 @@ Line: 2,,"Special Weather Statement issued May 30 at 4:08PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 3:05PM CDT by NWS Dodge City KS\nExpires: 2026-05-30 20:45 Z\nAt 305 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Buttermilk, moving north at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Barber and southern Comanche Counties.\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 3:05PM CDT by NWS Dodge City KS\nExpires: 2026-05-30 20:45 Z\nAt 305 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Buttermilk, moving north at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Barber and southern Comanche Counties.\nGenerated: 2026-05-30 20:30:13 UTC"
   37.2000, -99.5200
   37.2600, -99.2400
   37.2000, -98.9500
@@ -91,38 +119,11 @@ Line: 2,,"Special Weather Statement issued May 30 at 3:05PM CDT by NWS Dodge Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 1:57PM MDT by NWS Cheyenne WY\nExpires: 2026-05-30 20:30 Z\nAt 157 PM MDT, Doppler radar was tracking a strong thunderstorm near Montrose, or 24 miles south of Edgemont, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montrose.\nGenerated: 2026-05-30 20:25:12 UTC"
-  42.8900, -103.6900
-  42.8500, -103.9300
-  43.0000, -103.9800
-  43.0000, -103.7000
-  42.8900, -103.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 2:55PM CDT by NWS Dodge City KS\nExpires: 2026-05-30 20:45 Z\nAt 255 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Ft. Dodge, moving north at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Dodge City and Ft. Dodge around 305 PM CDT. Wright around 315 PM CDT.\nGenerated: 2026-05-30 20:25:12 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 2:55PM CDT by NWS Dodge City KS\nExpires: 2026-05-30 20:45 Z\nAt 255 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Ft. Dodge, moving north at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Dodge City and Ft. Dodge around 305 PM CDT. Wright around 315 PM CDT.\nGenerated: 2026-05-30 20:30:13 UTC"
   37.5500, -99.7900
   37.5500, -100.0100
   37.7800, -100.1900
   37.8600, -99.9300
   37.7600, -99.6300
   37.5500, -99.7900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 1:50PM MDT by NWS Cheyenne WY\nExpires: 2026-05-30 20:30 Z\nAt 150 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Prairie Center, or 18 miles north of Torrington, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Prairie Center and Jay Em.\nGenerated: 2026-05-30 20:25:12 UTC"
-  42.3200, -104.0600
-  42.2700, -104.2600
-  42.6600, -104.5300
-  42.6500, -104.0600
-  42.3200, -104.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 2:39PM CDT by NWS Springfield MO\nExpires: 2026-05-30 20:30 Z\nAt 238 PM CDT, Doppler radar was tracking a strong thunderstorm over Chetopa, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Baxter Springs, Columbus, Treece, Neutral, Melrose, Hallowell, Sherwin, Faulkner, and Stippville.\nGenerated: 2026-05-30 20:25:12 UTC"
-  37.2600, -94.8500
-  37.0000, -94.7200
-  37.0000, -95.0700
-  37.1800, -95.0800
-  37.2600, -94.8500
 End:
