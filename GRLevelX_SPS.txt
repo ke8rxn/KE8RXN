@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-30 05:40:11 UTC
+; Generated: 2026-05-30 05:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 12:15AM CDT by NWS Norman OK\nExpires: 2026-05-30 06:00 Z\nAt 1212 AM CDT, Doppler radar was tracking the leading edge of winds from strong thunderstorms along a line extending from 3 miles west of Eakly to near Mountain Park to 6 miles northwest of Odell. Strong winds may occur far away from the thunderstorms without any rain. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Altus, Weatherford, Clinton, Hobart, Cordell, Hinton, Cache, Carnegie, Snyder, Hydro, Tipton, Mountain View, Chillicothe, Binger, Fort Cobb, Olustee, Dill City, Corn, Eldorado, and Mountain Park.\nGenerated: 2026-05-30 05:40:11 UTC"
+Line: 2,,"Special Weather Statement issued May 29 at 9:39PM AKDT by NWS Fairbanks AK\nExpires: 2026-05-30 06:15 Z\nAt 939 PM AKDT, Doppler radar was tracking gusty showers near Fort Wainwright, moving south at 10 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Fort Wainwright.\nGenerated: 2026-05-30 05:45:16 UTC"
+  64.8400, -147.7700
+  64.8400, -147.4500
+  64.7300, -147.3900
+  64.7500, -147.7400
+  64.8400, -147.7700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 30 at 12:15AM CDT by NWS Norman OK\nExpires: 2026-05-30 06:00 Z\nAt 1212 AM CDT, Doppler radar was tracking the leading edge of winds from strong thunderstorms along a line extending from 3 miles west of Eakly to near Mountain Park to 6 miles northwest of Odell. Strong winds may occur far away from the thunderstorms without any rain. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Altus, Weatherford, Clinton, Hobart, Cordell, Hinton, Cache, Carnegie, Snyder, Hydro, Tipton, Mountain View, Chillicothe, Binger, Fort Cobb, Olustee, Dill City, Corn, Eldorado, and Mountain Park.\nGenerated: 2026-05-30 05:45:16 UTC"
   34.7600, -99.3200
   34.8300, -99.2000
   34.9300, -99.1400
@@ -16,13 +25,4 @@ Line: 2,,"Special Weather Statement issued May 30 at 12:15AM CDT by NWS Norman O
   34.2200, -99.5000
   34.4200, -99.7500
   34.7600, -99.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 12:14AM CDT by NWS Tulsa OK\nExpires: 2026-05-30 05:45 Z\nAt 1213 AM CDT, Doppler radar indicated a strong thunderstorm 4 miles east of Nowata, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Vinita...                         Nowata... Chelsea...                        Adair... Delaware...                       Lenapah... Big Cabin...                      New Alluwe... Watova...                         White Oak... Centralia...  This includes Interstate 44 between mile markers 267 and 281.\nGenerated: 2026-05-30 05:40:11 UTC"
-  36.7000, -95.9000
-  36.8900, -95.7800
-  36.7900, -95.0900
-  36.4200, -95.2700
-  36.7000, -95.9000
 End:
