@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-31 02:10:13 UTC
+; Generated: 2026-05-31 02:15:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 9:04PM CDT by NWS Hastings NE\nExpires: 2026-05-31 02:45 Z\nAt 904 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles north of Ansley to near Loup City. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Arcadia around 910 PM CDT.  Other locations in the path of these storms include North Loup and Ord.\nGenerated: 2026-05-31 02:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 9:09PM CDT by NWS Hastings NE\nExpires: 2026-05-31 02:45 Z\nAt 909 PM CDT, Doppler radar was tracking a strong thunderstorm over Belvidere, or 23 miles west of Fairbury, moving north at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Bruning and Carleton around 915 PM CDT. Strang around 920 PM CDT.  Other locations in the path of this storm include Geneva.\nGenerated: 2026-05-31 02:15:14 UTC"
+  40.1100, -97.4200
+  40.1800, -97.8100
+  40.6200, -97.7300
+  40.5800, -97.3700
+  40.3300, -97.3700
+  40.1100, -97.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 30 at 9:04PM CDT by NWS Hastings NE\nExpires: 2026-05-31 02:45 Z\nAt 904 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles north of Ansley to near Loup City. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Arcadia around 910 PM CDT.  Other locations in the path of these storms include North Loup and Ord.\nGenerated: 2026-05-31 02:15:14 UTC"
   41.6200, -98.6400
   41.3100, -98.9000
   41.2700, -99.0200
@@ -15,44 +25,10 @@ Line: 2,,"Special Weather Statement issued May 30 at 9:04PM CDT by NWS Hastings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 8:54PM CDT by NWS Little Rock AR\nExpires: 2026-05-31 02:30 Z\nAt 854 PM CDT, Doppler radar was tracking a strong thunderstorm near Hampton, moving east at 5 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hampton...                        Lanark... Weeks...                          Hampton Municipal Airport... Banks...                          Tinsman...\nGenerated: 2026-05-31 02:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 30 at 8:54PM CDT by NWS Little Rock AR\nExpires: 2026-05-31 02:30 Z\nAt 854 PM CDT, Doppler radar was tracking a strong thunderstorm near Hampton, moving east at 5 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hampton...                        Lanark... Weeks...                          Hampton Municipal Airport... Banks...                          Tinsman...\nGenerated: 2026-05-31 02:15:14 UTC"
   33.5300, -92.5200
   33.6900, -92.4800
   33.6900, -92.1700
   33.5100, -92.2200
   33.5300, -92.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 8:45PM CDT by NWS Little Rock AR\nExpires: 2026-05-31 02:15 Z\nAt 845 PM CDT, Doppler radar was tracking a strong thunderstorm near Hilo, or 10 miles southeast of Hampton, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hermitage...                      Harrell... Ingalls...                        Hilo... Moro Bay...                       Moro Bay State Park... Vick...                           Gravelridge... Marsden...                        Jersey...\nGenerated: 2026-05-31 02:10:13 UTC"
-  33.1700, -92.1700
-  33.2100, -92.1800
-  33.2000, -92.1900
-  33.2100, -92.2200
-  33.2200, -92.2100
-  33.2600, -92.2300
-  33.2500, -92.2700
-  33.2700, -92.2700
-  33.2800, -92.3000
-  33.2600, -92.3300
-  33.2800, -92.3300
-  33.2800, -92.3600
-  33.3000, -92.3500
-  33.2700, -92.4300
-  33.2900, -92.4700
-  33.5100, -92.4300
-  33.5000, -92.0800
-  33.2100, -92.1000
-  33.2000, -92.1300
-  33.1600, -92.1400
-  33.1700, -92.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 30 at 8:24PM CDT by NWS Tulsa OK\nExpires: 2026-05-31 02:15 Z\nAt 824 PM CDT, Doppler radar indicated a cluster of strong thunderstorms 7 miles west of Eureka Springs, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Eureka Springs...                 Garfield... Beaver...                         Grandview... Gateway...                        Rockhouse... Hill Top...                       Beaver Lake... Walnut Hill...                    Larue... Lookout...                        Oak Hill... Busch...\nGenerated: 2026-05-31 02:10:13 UTC"
-  36.2300, -93.6800
-  36.3200, -94.0600
-  36.5000, -93.9900
-  36.4700, -93.6000
-  36.2300, -93.6800
 End:
