@@ -3,9 +3,43 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-05-31 19:10:13 UTC
+; Generated: 2026-05-31 19:15:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 31 at 2:52PM EDT by NWS Peachtree City GA\nExpires: 2026-05-31 19:30 Z\nAt 252 PM EDT, a strong thunderstorm was near Warwick, or 12 miles southwest of Cordele, moving east at 20 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Arabi and Hatley.\nGenerated: 2026-05-31 19:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 31 at 3:13PM EDT by NWS Peachtree City GA\nExpires: 2026-05-31 19:45 Z\nAt 313 PM EDT, a strong thunderstorm was over Fort Benning/Lawson Army Air Fld, or 9 miles south of Columbus, moving southeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Cusseta, Fort Benning/Lawson Army Air Fld, Custer Road Terrace, Jamestown/South Fort Benning, Battle Park, Carter Acres, and Benning Hills.\nGenerated: 2026-05-31 19:15:12 UTC"
+  32.2200, -84.9300
+  32.2400, -84.9100
+  32.2500, -84.9200
+  32.2600, -84.9000
+  32.2600, -84.8900
+  32.3000, -84.9400
+  32.3300, -85.0100
+  32.3500, -85.0000
+  32.3800, -84.9700
+  32.3800, -84.9900
+  32.3900, -84.9700
+  32.4000, -84.9800
+  32.4200, -84.9700
+  32.3700, -84.7400
+  32.2500, -84.7500
+  32.1800, -84.8600
+  32.2200, -84.9300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 31 at 2:12PM CDT by NWS Mobile AL\nExpires: 2026-05-31 20:15 Z\nAt 212 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles north of Baker to 11 miles east of Jay to 7 miles northeast of Molino. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Crestview, Baker, Laurel Hill, Point Baker, and Roeville.\nGenerated: 2026-05-31 19:15:12 UTC"
+  30.6600, -87.2200
+  30.7900, -87.3100
+  30.8100, -87.2900
+  30.8400, -87.3000
+  30.9700, -87.0300
+  30.9900, -86.6500
+  30.9900, -86.3900
+  30.7200, -86.3900
+  30.6600, -87.2200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued May 31 at 2:52PM EDT by NWS Peachtree City GA\nExpires: 2026-05-31 19:30 Z\nAt 252 PM EDT, a strong thunderstorm was near Warwick, or 12 miles southwest of Cordele, moving east at 20 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Arabi and Hatley.\nGenerated: 2026-05-31 19:15:12 UTC"
   31.8100, -83.8200
   31.8100, -83.8300
   31.8300, -83.8400
@@ -19,33 +53,7 @@ Line: 2,,"Special Weather Statement issued May 31 at 2:52PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 31 at 1:49PM CDT by NWS New Orleans LA\nExpires: 2026-05-31 19:15 Z\nAt 149 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing waterspouts over marine areas 16 miles east of Shell Beach, or 25 miles south of Waveland. This thunderstorm was nearly stationary.  HAZARD...Waterspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern St. Bernard Parish.\nGenerated: 2026-05-31 19:10:13 UTC"
-  29.8900, -89.2100
-  29.8300, -89.2600
-  29.8000, -89.5500
-  29.8200, -89.6500
-  29.8900, -89.6400
-  29.9000, -89.6200
-  29.9600, -89.6100
-  30.0000, -89.5100
-  30.0000, -89.3700
-  29.9800, -89.3600
-  29.9500, -89.3700
-  29.9300, -89.3500
-  29.8900, -89.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 31 at 12:48PM MDT by NWS Rapid City SD\nExpires: 2026-05-31 19:15 Z\nAt 1246 PM MDT, Doppler radar was tracking a strong thunderstorm near Hayward, or 12 miles south of Rapid City, moving southeast at 15 MPH.  HAZARD...Wind gusts up to 40 MPH and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hermosa, Hayward, Bear Country, and Hart Ranch.\nGenerated: 2026-05-31 19:10:13 UTC"
-  43.8700, -103.4000
-  43.9900, -103.3300
-  43.9200, -103.0000
-  43.7100, -103.1400
-  43.8700, -103.4000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 31 at 1:48PM CDT by NWS Huntsville AL\nExpires: 2026-05-31 19:30 Z\nAt 148 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Cullman, moving south at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cullman, Hanceville, Good Hope, Holly Pond, Vinemont, Garden City, Phelan, and Walter.\nGenerated: 2026-05-31 19:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 31 at 1:48PM CDT by NWS Huntsville AL\nExpires: 2026-05-31 19:30 Z\nAt 148 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Cullman, moving south at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cullman, Hanceville, Good Hope, Holly Pond, Vinemont, Garden City, Phelan, and Walter.\nGenerated: 2026-05-31 19:15:12 UTC"
   34.2400, -86.8700
   34.2900, -86.7000
   34.1800, -86.5500
@@ -66,7 +74,7 @@ Line: 2,,"Special Weather Statement issued May 31 at 1:48PM CDT by NWS Huntsvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 31 at 2:43PM EDT by NWS Tallahassee FL\nExpires: 2026-05-31 19:30 Z\nAt 243 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Arabi, or 8 miles west of Ashburn, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ashburn, Worth, Sycamore, Amboy, Hobby, Turner Co Airport, Dakota, Sibley, and Doles.\nGenerated: 2026-05-31 19:10:13 UTC"
+Line: 2,,"Special Weather Statement issued May 31 at 2:43PM EDT by NWS Tallahassee FL\nExpires: 2026-05-31 19:30 Z\nAt 243 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Arabi, or 8 miles west of Ashburn, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ashburn, Worth, Sycamore, Amboy, Hobby, Turner Co Airport, Dakota, Sibley, and Doles.\nGenerated: 2026-05-31 19:15:12 UTC"
   31.6400, -83.5900
   31.6600, -83.9700
   31.8100, -83.9600
@@ -81,15 +89,4 @@ Line: 2,,"Special Weather Statement issued May 31 at 2:43PM EDT by NWS Tallahass
   31.8500, -83.6100
   31.8500, -83.5700
   31.6400, -83.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued May 31 at 2:42PM EDT by NWS Melbourne FL\nExpires: 2026-05-31 19:15 Z\nAt 242 PM EDT, Doppler radar was tracking a strong thunderstorm near Suntree, or 7 miles south of Rockledge, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palm Bay, Melbourne, Rockledge, Satellite Beach, and Malabar.\nGenerated: 2026-05-31 19:10:13 UTC"
-  27.9600, -80.5000
-  28.1800, -80.8600
-  28.3000, -80.8000
-  28.2700, -80.5600
-  28.1900, -80.5600
-  28.0100, -80.4800
-  27.9600, -80.5000
 End:
