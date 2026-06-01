@@ -3,9 +3,64 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-01 21:40:15 UTC
+; Generated: 2026-06-01 21:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:39PM MDT by NWS Pueblo CO\nExpires: 2026-06-01 22:15 Z\nAt 339 PM MDT, Doppler radar was tracking a strong thunderstorm over Westcreek, or 26 miles northwest of Colorado Springs. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Woodland Park.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:43PM CDT by NWS Birmingham AL\nExpires: 2026-06-01 22:45 Z\nAt 443 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Livingston, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston, York, Cuba, Forkland, Boligee, Gainesville, Epes, Emelle, Panola, Walden Quarters, The University Of West Alabama, Thornhill, Dug Hill, Tishabee, New West Greene, Boyd, Allison, Bluffport, Coatopa, and Kinterbish.\nGenerated: 2026-06-01 21:45:15 UTC"
+  32.9800, -88.3400
+  32.9900, -88.2800
+  32.7900, -87.8300
+  32.7600, -87.8700
+  32.7500, -87.8100
+  32.7100, -87.8300
+  32.7100, -87.8000
+  32.6600, -87.7900
+  32.6500, -87.7700
+  32.6200, -87.8100
+  32.5900, -87.7400
+  32.5800, -87.7900
+  32.5200, -87.8200
+  32.5400, -87.8200
+  32.5200, -87.9100
+  32.4300, -88.0400
+  32.3800, -88.0400
+  32.3100, -87.9400
+  32.3100, -88.4200
+  32.9800, -88.3400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 1 at 4:43PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-01 22:15 Z\nAt 443 PM CDT, Doppler radar was tracking a strong thunderstorm over Alpine, moving south at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Alpine and Alpine-Casparis Municipal Airport.\nGenerated: 2026-06-01 21:45:15 UTC"
+  30.4100, -103.8000
+  30.4700, -103.6300
+  30.2200, -103.4600
+  30.2100, -103.4600
+  30.1500, -103.7900
+  30.4100, -103.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 1 at 3:40PM MDT by NWS Billings MT\nExpires: 2026-06-01 22:30 Z\nAt 340 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Ballantine, or 20 miles west of Hardin, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph, penny size hail, and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Central Yellowstone and North Central Big Horn Counties.\nGenerated: 2026-06-01 21:45:15 UTC"
+  45.7300, -108.0700
+  45.7800, -108.1200
+  45.8500, -108.0500
+  45.9000, -107.9500
+  45.9600, -107.8000
+  45.9200, -107.7500
+  45.8300, -107.6700
+  45.7300, -108.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 1 at 4:40PM CDT by NWS Dodge City KS\nExpires: 2026-06-01 22:15 Z\nAt 440 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Amy, moving north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Lane County.\nGenerated: 2026-06-01 21:45:15 UTC"
+  38.3700, -100.3300
+  38.2600, -100.4300
+  38.2700, -100.5700
+  38.4200, -100.5300
+  38.3700, -100.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 1 at 3:39PM MDT by NWS Pueblo CO\nExpires: 2026-06-01 22:15 Z\nAt 339 PM MDT, Doppler radar was tracking a strong thunderstorm over Westcreek, or 26 miles northwest of Colorado Springs. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Woodland Park.\nGenerated: 2026-06-01 21:45:15 UTC"
   39.0000, -105.0200
   39.0600, -105.2200
   39.1300, -105.2200
@@ -14,7 +69,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 3:39PM MDT by NWS Pueblo CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:36PM MDT by NWS Pueblo CO\nExpires: 2026-06-01 22:00 Z\nAt 336 PM MDT, Doppler radar was tracking a strong thunderstorm near Gleneagle, or 16 miles north of Colorado Springs, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Monument, Gleneagle, and Black Forest.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 3:36PM MDT by NWS Pueblo CO\nExpires: 2026-06-01 22:00 Z\nAt 336 PM MDT, Doppler radar was tracking a strong thunderstorm near Gleneagle, or 16 miles north of Colorado Springs, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Monument, Gleneagle, and Black Forest.\nGenerated: 2026-06-01 21:45:15 UTC"
   38.9900, -104.7300
   39.0300, -104.8400
   39.1300, -104.8300
@@ -23,7 +78,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 3:36PM MDT by NWS Pueblo CO
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:36PM MDT by NWS Cheyenne WY\nExpires: 2026-06-01 22:30 Z\nAt 336 PM MDT, Doppler radar was tracking a strong thunderstorm over Natural Fort, or 13 miles south of Cheyenne, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cheyenne, Burns, Egbert, Laramie County Fairgrounds at Archer, Hillsdale, Fox Farm-College, Cheyenne Regional Airport, Winchester Hills, South Greeley Highway, Ranchettes, Warren AFB, Frontier Park, North Cheyenne, South Cheyenne, Bison Crossing, Grass Hills, and Cowboy Ranch South.  This includes the following highways... Interstate 25 in Wyoming between mile markers 1 and 17. Interstate 80 in Wyoming between mile markers 356 and 390.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 3:36PM MDT by NWS Cheyenne WY\nExpires: 2026-06-01 22:30 Z\nAt 336 PM MDT, Doppler radar was tracking a strong thunderstorm over Natural Fort, or 13 miles south of Cheyenne, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cheyenne, Burns, Egbert, Laramie County Fairgrounds at Archer, Hillsdale, Fox Farm-College, Cheyenne Regional Airport, Winchester Hills, South Greeley Highway, Ranchettes, Warren AFB, Frontier Park, North Cheyenne, South Cheyenne, Bison Crossing, Grass Hills, and Cowboy Ranch South.  This includes the following highways... Interstate 25 in Wyoming between mile markers 1 and 17. Interstate 80 in Wyoming between mile markers 356 and 390.\nGenerated: 2026-06-01 21:45:15 UTC"
   41.0000, -105.0200
   41.4000, -104.7100
   41.1800, -104.2300
@@ -32,7 +87,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 3:36PM MDT by NWS Cheyenne 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:36PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 436 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lakeway to Bergman to near Carrollton. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Harrison...                       Yellville... Flippin...                        Bergman... Pyatt...                          Valley Springs... Olvey...                          Lakeway... Red Bank...                       Winington... Clark Hill...                     Dodd City... Capps...                          Willis... Crawford...                       Cotter... Summit...                         Bellefonte... Alpena...                         Everton...\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:36PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 436 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lakeway to Bergman to near Carrollton. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Harrison...                       Yellville... Flippin...                        Bergman... Pyatt...                          Valley Springs... Olvey...                          Lakeway... Red Bank...                       Winington... Clark Hill...                     Dodd City... Capps...                          Willis... Crawford...                       Cotter... Summit...                         Bellefonte... Alpena...                         Everton...\nGenerated: 2026-06-01 21:45:15 UTC"
   36.2800, -92.5500
   36.2700, -92.5400
   36.2700, -92.5300
@@ -48,7 +103,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:36PM CDT by NWS Little Ro
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:35PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 435 PM CDT, Doppler radar was tracking a strong thunderstorm near Cherokee Village, moving southeast at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cherokee Village...               Ash Flat... Highland in Sharp County...       Agnos... Kittle...                         Saddle...\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:35PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 435 PM CDT, Doppler radar was tracking a strong thunderstorm near Cherokee Village, moving southeast at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cherokee Village...               Ash Flat... Highland in Sharp County...       Agnos... Kittle...                         Saddle...\nGenerated: 2026-06-01 21:45:15 UTC"
   36.3000, -91.7300
   36.3700, -91.6300
   36.2600, -91.4400
@@ -57,7 +112,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:35PM CDT by NWS Little Ro
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 5:29PM EDT by NWS Columbia SC\nExpires: 2026-06-01 22:00 Z\nAt 528 PM EDT, Doppler radar was tracking a strong thunderstorm near Lincolnton, or 11 miles east of Washington, moving south at 30 mph.  ...Boaters on Lake Strom Thurmond Should Seek Safe Harbor...  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lincolnton, Mistletoe State Park, Loce, Leah, Winfield, Clay Hill Campground, Phinizy, Woodlawn, Wildwood Park, Pollards Corner, Eubank-Blanchard Community Center, Amity Recreation Area, New Hope, and Cherokee Boat Ramp.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 5:29PM EDT by NWS Columbia SC\nExpires: 2026-06-01 22:00 Z\nAt 528 PM EDT, Doppler radar was tracking a strong thunderstorm near Lincolnton, or 11 miles east of Washington, moving south at 30 mph.  ...Boaters on Lake Strom Thurmond Should Seek Safe Harbor...  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lincolnton, Mistletoe State Park, Loce, Leah, Winfield, Clay Hill Campground, Phinizy, Woodlawn, Wildwood Park, Pollards Corner, Eubank-Blanchard Community Center, Amity Recreation Area, New Hope, and Cherokee Boat Ramp.\nGenerated: 2026-06-01 21:45:15 UTC"
   33.6200, -82.6400
   33.6100, -82.6300
   33.6400, -82.6100
@@ -78,7 +133,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 5:29PM EDT by NWS Columbia 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:28PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:15 Z\nAt 428 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Brandon, moving east at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Jackson and Brandon around 435 PM CDT.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:28PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:15 Z\nAt 428 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Brandon, moving east at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Jackson and Brandon around 435 PM CDT.\nGenerated: 2026-06-01 21:45:15 UTC"
   32.2100, -90.1900
   32.2300, -90.1900
   32.2300, -90.2000
@@ -93,7 +148,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:28PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:27PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 427 PM CDT, Doppler radar was tracking a strong thunderstorm near Jacksonport, or 8 miles west of Newport, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Newport...                        Diaz... Oil Trough...                     Jacksonport... Tupelo...                         Algoa... McFadden...                       Campbell Station... Beedeville...                     Amagon... Weldon...                         Balch... Blackville...                     Olyphant... Shoffner...                       Thida... Ingleside...                      Stegall... Erwin...                          Macks...\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:27PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 427 PM CDT, Doppler radar was tracking a strong thunderstorm near Jacksonport, or 8 miles west of Newport, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Newport...                        Diaz... Oil Trough...                     Jacksonport... Tupelo...                         Algoa... McFadden...                       Campbell Station... Beedeville...                     Amagon... Weldon...                         Balch... Blackville...                     Olyphant... Shoffner...                       Thida... Ingleside...                      Stegall... Erwin...                          Macks...\nGenerated: 2026-06-01 21:45:15 UTC"
   35.2600, -91.0400
   35.5800, -91.5200
   35.7200, -91.3800
@@ -102,7 +157,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:27PM CDT by NWS Little Ro
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 5:27PM EDT by NWS Peachtree City GA\nExpires: 2026-06-01 22:00 Z\nAt 527 PM EDT, a strong thunderstorm was over Metasville, or 7 miles east of Washington, moving south at 25 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Aonia, Rocky Creek Fire Dept., Metasville, and Holliday Park.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 5:27PM EDT by NWS Peachtree City GA\nExpires: 2026-06-01 22:00 Z\nAt 527 PM EDT, a strong thunderstorm was over Metasville, or 7 miles east of Washington, moving south at 25 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Aonia, Rocky Creek Fire Dept., Metasville, and Holliday Park.\nGenerated: 2026-06-01 21:45:15 UTC"
   33.6600, -82.5100
   33.6500, -82.5200
   33.6500, -82.5400
@@ -123,7 +178,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 5:27PM EDT by NWS Peachtree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:22PM CDT by NWS Birmingham AL\nExpires: 2026-06-01 22:15 Z\nAt 421 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Paul M Grist State Park to near Bluffport. Movement was south at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Selma, Demopolis, Valley Grande, Linden, Uniontown, Selmont-West Selmont, Jefferson, Thomaston, Sweet Water, Orrville, Myrtlewood, Faunsdale, Dayton, Bogue Chitto, Nanafalia, Tyler, Consul, Dannelly Reservoir, Paul M Grist State Park, and Magnolia.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:22PM CDT by NWS Birmingham AL\nExpires: 2026-06-01 22:15 Z\nAt 421 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Paul M Grist State Park to near Bluffport. Movement was south at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Selma, Demopolis, Valley Grande, Linden, Uniontown, Selmont-West Selmont, Jefferson, Thomaston, Sweet Water, Orrville, Myrtlewood, Faunsdale, Dayton, Bogue Chitto, Nanafalia, Tyler, Consul, Dannelly Reservoir, Paul M Grist State Park, and Magnolia.\nGenerated: 2026-06-01 21:45:15 UTC"
   32.1100, -88.0500
   32.2800, -88.0200
   32.2900, -87.9300
@@ -148,18 +203,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:22PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 5:21PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-01 21:45 Z\nAt 520 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles north of York, or near Clover, moving south at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... York, Rock Hill, Clover, Newport, Sharon, Hickory Grove, Smyrna, Kings Mountain State Park, Kings Creek, and Bethany.\nGenerated: 2026-06-01 21:40:15 UTC"
-  34.8900, -81.2000
-  34.8900, -81.4600
-  35.0600, -81.4900
-  35.1300, -81.4100
-  35.1600, -81.1800
-  34.9700, -81.0300
-  34.8900, -81.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:20PM CDT by NWS Amarillo TX\nExpires: 2026-06-01 22:00 Z\nAt 419 PM CDT, Doppler radar was tracking a strong thunderstorm near Stinnett, or 10 miles northwest of Borger, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stinnett, Sanford, and Pringle.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:20PM CDT by NWS Amarillo TX\nExpires: 2026-06-01 22:00 Z\nAt 419 PM CDT, Doppler radar was tracking a strong thunderstorm near Stinnett, or 10 miles northwest of Borger, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stinnett, Sanford, and Pringle.\nGenerated: 2026-06-01 21:45:15 UTC"
   35.6800, -101.4500
   35.7100, -101.6200
   36.0400, -101.5600
@@ -168,7 +212,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:20PM CDT by NWS Amarillo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:19PM MDT by NWS Albuquerque NM\nExpires: 2026-06-01 22:15 Z\nAt 319 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles northeast of Arabela to 8 miles south of Tinnie, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Arabela, Tinnie, Hondo, San Patricio and Sunset.  This includes Highway 380 between Mile Markers 102 and 107.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 3:19PM MDT by NWS Albuquerque NM\nExpires: 2026-06-01 22:15 Z\nAt 319 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles northeast of Arabela to 8 miles south of Tinnie, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Arabela, Tinnie, Hondo, San Patricio and Sunset.  This includes Highway 380 between Mile Markers 102 and 107.\nGenerated: 2026-06-01 21:45:15 UTC"
   33.3100, -105.3400
   33.6200, -105.3300
   33.7700, -105.1800
@@ -180,7 +224,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 3:19PM MDT by NWS Albuquerq
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:18PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:15 Z\nAt 418 PM CDT, Doppler radar was tracking a strong thunderstorm over Brookhaven. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Brookhaven around 425 PM CDT.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:18PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:15 Z\nAt 418 PM CDT, Doppler radar was tracking a strong thunderstorm over Brookhaven. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Brookhaven around 425 PM CDT.\nGenerated: 2026-06-01 21:45:15 UTC"
   31.5800, -90.6300
   31.5900, -90.6300
   31.7000, -90.5500
@@ -193,7 +237,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:18PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:15PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 414 PM CDT, Doppler radar was tracking a strong thunderstorm over Hardy, or 7 miles east of Cherokee Village, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cherokee Village...               Highland in Sharp County... Hardy...                          Ravenden... Williford...                      Ozark Acres...\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:15PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 22:00 Z\nAt 414 PM CDT, Doppler radar was tracking a strong thunderstorm over Hardy, or 7 miles east of Cherokee Village, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cherokee Village...               Highland in Sharp County... Hardy...                          Ravenden... Williford...                      Ozark Acres...\nGenerated: 2026-06-01 21:45:15 UTC"
   36.3100, -91.5500
   36.4200, -91.4300
   36.2500, -91.1700
@@ -202,26 +246,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:15PM CDT by NWS Little Ro
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:14PM MDT by NWS Pueblo CO\nExpires: 2026-06-01 21:45 Z\nAt 314 PM MDT, Doppler radar was tracking a strong thunderstorm near Bristol, or 11 miles east of Lamar, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bristol.\nGenerated: 2026-06-01 21:40:15 UTC"
-  38.0500, -102.3400
-  38.0900, -102.5100
-  38.3900, -102.4400
-  38.3100, -102.0900
-  38.0500, -102.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:11PM CDT by NWS Little Rock AR\nExpires: 2026-06-01 21:45 Z\nAt 411 PM CDT, Doppler radar was tracking a strong thunderstorm near Diamond City, or 15 miles northeast of Harrison, moving southeast at 25 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Diamond City...                   Bergman... Lead Hill...                      Dodd City... Lakeway...                        Willis... Winington...                      Clark Hill... Crumpler Subdivision...           Zinc... South Lead Hill...                Monarch... Bull Shoals Lake...\nGenerated: 2026-06-01 21:40:15 UTC"
-  36.3800, -92.7000
-  36.2300, -92.9300
-  36.4500, -93.1400
-  36.5000, -92.9300
-  36.5000, -92.8700
-  36.3800, -92.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:11PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:15 Z\nAt 411 PM CDT, Doppler radar was tracking a strong thunderstorm near Tallulah. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Tallulah around 415 PM CDT.  Other locations impacted by this storm include Richmond.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:11PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:15 Z\nAt 411 PM CDT, Doppler radar was tracking a strong thunderstorm near Tallulah. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Tallulah around 415 PM CDT.  Other locations impacted by this storm include Richmond.\nGenerated: 2026-06-01 21:45:15 UTC"
   32.5000, -91.3500
   32.4500, -91.0900
   32.2500, -91.1700
@@ -231,7 +256,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:11PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:09PM MDT by NWS Billings MT\nExpires: 2026-06-01 22:00 Z\nAt 309 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 15 miles northeast of Fort Smith to 9 miles east of Fort Smith, or extending from 17 miles southwest of Hardin to 27 miles south of Hardin, moving northeast at 30 mph.  HAZARD...Half inch size hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Crow Agency, St. Xavier and portions of the Crow Indian Reservation.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 3:09PM MDT by NWS Billings MT\nExpires: 2026-06-01 22:00 Z\nAt 309 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 15 miles northeast of Fort Smith to 9 miles east of Fort Smith, or extending from 17 miles southwest of Hardin to 27 miles south of Hardin, moving northeast at 30 mph.  HAZARD...Half inch size hail and brief heavy rain.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Crow Agency, St. Xavier and portions of the Crow Indian Reservation.\nGenerated: 2026-06-01 21:45:15 UTC"
   45.2900, -107.8800
   45.4200, -107.8600
   45.4700, -107.9000
@@ -242,17 +267,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 3:09PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:08PM CDT by NWS Dodge City KS\nExpires: 2026-06-01 21:45 Z\nAt 408 PM CDT, Doppler radar was tracking a strong thunderstorm near Grigston, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Grigston around 415 PM CDT.\nGenerated: 2026-06-01 21:40:15 UTC"
-  38.5900, -100.6200
-  38.5600, -100.4800
-  38.2800, -100.6700
-  38.3200, -100.9000
-  38.6000, -100.7400
-  38.5900, -100.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 4:04PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:00 Z\nAt 404 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Ackerman, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Sturgis and Mcmillan around 410 PM CDT. Louisville and Betheden around 420 PM CDT. Craig Springs around 435 PM CDT.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 4:04PM CDT by NWS Jackson MS\nExpires: 2026-06-01 22:00 Z\nAt 404 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Ackerman, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Sturgis and Mcmillan around 410 PM CDT. Louisville and Betheden around 420 PM CDT. Craig Springs around 435 PM CDT.\nGenerated: 2026-06-01 21:45:15 UTC"
   33.2800, -88.8100
   33.0900, -89.0200
   33.0500, -89.1500
@@ -263,16 +278,7 @@ Line: 2,,"Special Weather Statement issued June 1 at 4:04PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:01PM MDT by NWS Billings MT\nExpires: 2026-06-01 21:45 Z\nAt 301 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Lockwood, or 14 miles southeast of Billings, moving northeast at 10 mph.  HAZARD...Half inch size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Yellowstone County.\nGenerated: 2026-06-01 21:40:15 UTC"
-  45.5600, -108.4500
-  45.6000, -108.5400
-  45.7400, -108.3500
-  45.6400, -108.1600
-  45.5600, -108.4500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 3:57PM CDT by NWS Springfield MO\nExpires: 2026-06-01 22:00 Z\nAt 356 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms across south-central Missouri, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... West Plains, Bryant Creek State Park, Grand Gulf State Park, Lake Taneycomo, Bull Shoals Lake, Norfork Lake, Forsyth, Thayer, Willow Springs, Kissee Mills, Gainesville, Pomona, Taneyville, Bakersfield, Theodosia, South Fork, Koshkonong, Pontiac, Brandsville, and Wasola.\nGenerated: 2026-06-01 21:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 3:57PM CDT by NWS Springfield MO\nExpires: 2026-06-01 22:00 Z\nAt 356 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms across south-central Missouri, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... West Plains, Bryant Creek State Park, Grand Gulf State Park, Lake Taneycomo, Bull Shoals Lake, Norfork Lake, Forsyth, Thayer, Willow Springs, Kissee Mills, Gainesville, Pomona, Taneyville, Bakersfield, Theodosia, South Fork, Koshkonong, Pontiac, Brandsville, and Wasola.\nGenerated: 2026-06-01 21:45:15 UTC"
   36.5100, -93.0500
   36.7200, -93.1000
   36.8900, -92.5000
