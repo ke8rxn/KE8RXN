@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-01 15:55:42 UTC
+; Generated: 2026-06-01 16:00:28 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 10:44AM CDT by NWS Huntsville AL\nExpires: 2026-06-01 16:30 Z\nAt 1044 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Lewisburg, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fayetteville, Lynchburg, Ardmore, Petersburg, Mulberry, Chestnut Ridge, Howell, Belleville, Dellrose, and Lois.\nGenerated: 2026-06-01 15:55:42 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 10:59AM CDT by NWS Memphis TN\nExpires: 2026-06-01 16:45 Z\nAt 1059 AM CDT, Doppler radar was tracking a strong thunderstorm over Glen, or near Corinth, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Corinth, Iuka, Burnsville, Glen, Tishomingo, Burton, Midway, Leedy, Farmington, Paden, Bacon Springs, Oldham, Doskie, Strickland, Blythe Crossing, Biggersville, Jobes, Carter Branch, Hazard Switch, and Walker Siding.\nGenerated: 2026-06-01 16:00:28 UTC"
+  34.7100, -88.1200
+  34.5600, -88.2600
+  34.8500, -88.5900
+  35.0000, -88.4600
+  35.0000, -88.4500
+  34.8800, -88.1000
+  34.7100, -88.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 1 at 10:44AM CDT by NWS Huntsville AL\nExpires: 2026-06-01 16:30 Z\nAt 1044 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Lewisburg, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fayetteville, Lynchburg, Ardmore, Petersburg, Mulberry, Chestnut Ridge, Howell, Belleville, Dellrose, and Lois.\nGenerated: 2026-06-01 16:00:28 UTC"
   35.3500, -86.5400
   35.3600, -86.4900
   35.3300, -86.4600
@@ -25,42 +36,11 @@ Line: 2,,"Special Weather Statement issued June 1 at 10:44AM CDT by NWS Huntsvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 11:29AM EDT by NWS Jacksonville FL\nExpires: 2026-06-01 16:15 Z\nAt 1128 AM EDT, Doppler radar was tracking a strong thunderstorm near Santos, or near Ocala, moving east at 30 mph.  HAZARD...Wind gusts around 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ocala, Weirsdale, Santos, The Village of Briar Meadow, Ocklawaha, Moss Bluff, Silver Springs Shores, Lake Weir, Belleview, and Summerfield.\nGenerated: 2026-06-01 15:55:42 UTC"
+Line: 2,,"Special Weather Statement issued June 1 at 11:29AM EDT by NWS Jacksonville FL\nExpires: 2026-06-01 16:15 Z\nAt 1128 AM EDT, Doppler radar was tracking a strong thunderstorm near Santos, or near Ocala, moving east at 30 mph.  HAZARD...Wind gusts around 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ocala, Weirsdale, Santos, The Village of Briar Meadow, Ocklawaha, Moss Bluff, Silver Springs Shores, Lake Weir, Belleview, and Summerfield.\nGenerated: 2026-06-01 16:00:28 UTC"
   29.0500, -82.3500
   29.1800, -82.1900
   29.1300, -81.8200
   28.9600, -81.8500
   28.9600, -82.1500
   29.0500, -82.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 10:24AM CDT by NWS Memphis TN\nExpires: 2026-06-01 16:00 Z\nAt 1024 AM CDT, Doppler radar was tracking a strong thunderstorm near Bruceton, or 9 miles southwest of Camden, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lexington, Huntingdon, Camden, Natchez Trace State Park, Natchez Trace State Forest, Parsons, New Johnsonville, Bruceton, Decaturville, Parkers Crossroads, Darden, Wildersville, Hollow Rock, Clarksburg, Howley, Hillard, Dollar, Busseltown, Jeannette, and Holladay.  This includes Interstate 40 in Tennessee between mile markers 106 and 134.\nGenerated: 2026-06-01 15:55:42 UTC"
-  36.1300, -87.9200
-  36.0500, -87.9900
-  36.0000, -88.0000
-  35.9700, -88.0200
-  35.9400, -88.0000
-  35.9400, -87.9300
-  35.8700, -87.9400
-  35.8300, -87.9700
-  35.7800, -87.9800
-  35.7200, -88.0300
-  35.6800, -88.0200
-  35.6500, -88.0200
-  35.6200, -88.0400
-  35.5300, -88.2100
-  35.9500, -88.6100
-  36.1800, -87.9300
-  36.1700, -87.9200
-  36.1300, -87.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 1 at 10:15AM CDT by NWS Nashville TN\nExpires: 2026-06-01 16:00 Z\nAt 1015 AM CDT, Doppler radar was tracking a strong thunderstorm near Columbia, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Columbia, Lewisburg, Mount Pleasant, Cornersville, Lynnville, and Culleoka.  This includes Interstate 65 between mile markers 19 and 41.\nGenerated: 2026-06-01 15:55:42 UTC"
-  35.4900, -87.2300
-  35.6600, -87.0500
-  35.4600, -86.7000
-  35.2500, -86.8800
-  35.4900, -87.2300
 End:
