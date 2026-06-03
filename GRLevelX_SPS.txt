@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-03 04:25:16 UTC
+; Generated: 2026-06-03 04:30:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 11:15PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-03 05:00 Z\nAt 1115 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Lost Maples State Natural Area to 6 miles north of Yancey. Movement was west at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Uvalde, Hondo, Leakey, Vanderpool, Sabinal, Camp Wood, Knippa, D'Hanis, Barksdale, Tuff, Rio Frio, Concan, Vance, Uvalde Estates, Montell, Garner State Park, Reagan Wells, Utopia, and Lost Maples State Natural Area.\nGenerated: 2026-06-03 04:25:16 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 11:28PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-03 05:15 Z\nAt 1128 PM CDT/1028 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Seagraves to Andrews to near Goldsmith to 9 miles southeast of Kermit. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midland, Odessa, Andrews, Seminole, Kermit, Seagraves, Jal, Wink, Goldsmith, Seagraves Airport, Jal Airport, Midland International Air and Space Port, Gaines County Airport, Welch, West Odessa, Cotton Flat, Patricia, McKenzie Lake, Midland Airpark, and Bennett.  This includes Interstate 20 between mile markers 93 and 143.\nGenerated: 2026-06-03 04:30:14 UTC"
+  32.9600, -103.0600
+  32.9600, -102.0300
+  32.2300, -101.9800
+  31.9200, -101.9900
+  31.6700, -102.1500
+  31.6700, -103.2900
+  32.0000, -103.2900
+  32.2700, -103.1000
+  33.0700, -103.1100
+  33.0700, -103.0600
+  32.9600, -103.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 2 at 11:15PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-03 05:00 Z\nAt 1115 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Lost Maples State Natural Area to 6 miles north of Yancey. Movement was west at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Uvalde, Hondo, Leakey, Vanderpool, Sabinal, Camp Wood, Knippa, D'Hanis, Barksdale, Tuff, Rio Frio, Concan, Vance, Uvalde Estates, Montell, Garner State Park, Reagan Wells, Utopia, and Lost Maples State Natural Area.\nGenerated: 2026-06-03 04:30:14 UTC"
   29.8200, -100.2100
   29.9100, -99.6200
   29.9100, -99.5300
@@ -15,7 +30,7 @@ Line: 2,,"Special Weather Statement issued June 2 at 11:15PM CDT by NWS Austin/S
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 10:58PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-03 04:45 Z\nAt 1058 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 8 miles west of Snyder, moving west at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Snyder, Gail, Fluvanna, J B Thomas Reservoir, Dunn, Randalls Corner, Winston Field, Ira, and Knapp.\nGenerated: 2026-06-03 04:25:16 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 10:58PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-03 04:45 Z\nAt 1058 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 8 miles west of Snyder, moving west at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Snyder, Gail, Fluvanna, J B Thomas Reservoir, Dunn, Randalls Corner, Winston Field, Ira, and Knapp.\nGenerated: 2026-06-03 04:30:14 UTC"
   32.4600, -100.8600
   32.7400, -101.6300
   32.9600, -101.5200
@@ -23,67 +38,4 @@ Line: 2,,"Special Weather Statement issued June 2 at 10:58PM CDT by NWS Midland/
   32.9700, -101.0600
   32.7600, -100.7700
   32.4600, -100.8600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 9:55PM MDT by NWS Rapid City SD\nExpires: 2026-06-03 04:30 Z\nAt 954 PM MDT, Doppler radar was tracking a strong thunderstorm over eastern Custer State Park, or 12 miles east of Custer, moving northeast at 35 MPH.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Hermosa, Fairburn, Caputa, Center Lake, Custer State Park, Legion Lake, State Game Lodge, Black Hills Playhouse, and Thompson Butte.\nGenerated: 2026-06-03 04:25:16 UTC"
-  43.6500, -103.4400
-  43.7900, -103.4900
-  44.0100, -102.9700
-  43.7400, -102.8600
-  43.6500, -103.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 10:51PM CDT by NWS Tulsa OK\nExpires: 2026-06-03 04:30 Z\nAt 1051 PM CDT, Doppler radar indicated a strong thunderstorm over Warner, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Stigler...                        Checotah... Warner...                         Porum... Whitefield...                     Oktaha... Rentiesville...                   Briartown... Enterprise...                     Keefeton...  This includes Interstate 40 in Oklahoma between mile markers 264 and 283.\nGenerated: 2026-06-03 04:25:16 UTC"
-  35.5600, -95.6000
-  35.6700, -95.2200
-  35.2400, -95.1200
-  35.2100, -95.4000
-  35.5600, -95.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 10:48PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-03 04:30 Z\nAt 1047 PM CDT/947 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southwest of Bronco to 11 miles east of Nadine to 8 miles northwest of Kermit. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hobbs, Lovington, Seminole, Kermit, Eunice, Jal, Monument, Humble City, Eunice Airport, Jal Airport, Nadine, Gaines County Airport, Florey, Knowles, Notrees, Bennett, Frankel City, Lea County Regional Airport, Industrial Airpark, and Oil Center.\nGenerated: 2026-06-03 04:25:16 UTC"
-  33.0200, -103.0600
-  32.9600, -103.0600
-  32.9600, -102.6400
-  32.5200, -102.5200
-  31.7900, -102.7700
-  31.9200, -103.6600
-  32.6900, -103.4200
-  33.0500, -103.5400
-  33.0200, -103.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 10:39PM CDT by NWS Grand Forks ND\nExpires: 2026-06-03 04:30 Z\nAt 1039 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Minto to near Manvel to 6 miles south of Emerado. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Grand Forks, East Grand Forks, Grand Forks AFB, Warren, Thompson, Stephen, and Argyle.\nGenerated: 2026-06-03 04:25:16 UTC"
-  48.2200, -96.6400
-  47.7500, -96.8500
-  47.7400, -97.5200
-  48.0300, -97.3600
-  48.3400, -97.5400
-  48.5400, -96.9900
-  48.5400, -96.8300
-  48.2200, -96.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 9:24PM MDT by NWS Rapid City SD\nExpires: 2026-06-03 04:30 Z\nAt 924 PM MDT/1024 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Murdo to near Upper Cut Meat. Movement was east at 25 MPH.  HAZARD...Wind gusts up to 50 MPH and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mission, White River, Rosebud, Parmelee, Okreek, Wood, Cedar Butte, Mosher, Upper Cut Meat, He Dog, Soldier Creek, Butte Creek, Swift Bear, Ring Thunder, Fairgrounds Housing, Antelope, Horse Creek, Grass Mountain, Two Strike, and Haystack Butte.\nGenerated: 2026-06-03 04:25:16 UTC"
-  43.2600, -101.3100
-  43.8300, -100.9400
-  43.7900, -100.8900
-  43.7600, -100.8100
-  43.7200, -100.7900
-  43.7400, -100.7500
-  43.7100, -100.6800
-  43.7500, -100.6400
-  43.7400, -100.6400
-  43.7700, -100.5800
-  43.7200, -100.4700
-  43.7400, -100.3600
-  43.7000, -100.2900
-  43.7000, -100.1500
-  43.1200, -100.5100
-  43.2600, -101.3100
 End:
