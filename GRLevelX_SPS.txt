@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-03 02:10:27 UTC
+; Generated: 2026-06-03 02:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 9:06PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-03 03:00 Z\nAt 906 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of New Berlin to near Pandora to near Westhoff. Movement was southwest at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Floresville, Poth, Stockdale, Kosciusko, Nixon, St. Hedwig, Elmendorf, La Vernia, Falls City, Smiley, New Berlin, Pandora, Calaveras Lake, Gillett, Cestohowa, Sutherland Springs, Canada Verde, Ecleto, Helena, and Pana Maria.\nGenerated: 2026-06-03 02:10:27 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 10:11PM EDT by NWS Tallahassee FL\nExpires: 2026-06-03 02:45 Z\nAt 1010 PM EDT/910 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles east of Santa Rosa Beach to 9 miles northeast of Panama City Beach. Movement was southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Panama City Beach, Santa Rosa Beach, West Bay, Inlet Beach, Seminole Hills, Gulf Lagoon Beach, Gulf Resort Beach, West Panama City, Blue Mountain Beach, Seaside, Bahama Beach, Biltmore Beach, Point Washington, Pine Log, Edgewater Gulf Beach, Sunnyside, Bunker, Laird, Laguna Beach, and Grayton Beach.\nGenerated: 2026-06-03 02:15:15 UTC"
+  30.4000, -86.2100
+  30.3800, -86.1600
+  30.3800, -86.1200
+  30.3900, -86.1100
+  30.4200, -86.1400
+  30.4300, -86.1200
+  30.4300, -86.1500
+  30.4400, -86.1600
+  30.4700, -86.1400
+  30.4400, -85.9700
+  30.3900, -86.0000
+  30.3900, -85.9900
+  30.4100, -85.9600
+  30.4100, -85.9000
+  30.4200, -85.8700
+  30.3800, -85.6300
+  30.1100, -85.7700
+  30.1400, -85.9300
+  30.2200, -86.0500
+  30.2900, -86.3300
+  30.4000, -86.2100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 2 at 9:06PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-03 03:00 Z\nAt 906 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of New Berlin to near Pandora to near Westhoff. Movement was southwest at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Floresville, Poth, Stockdale, Kosciusko, Nixon, St. Hedwig, Elmendorf, La Vernia, Falls City, Smiley, New Berlin, Pandora, Calaveras Lake, Gillett, Cestohowa, Sutherland Springs, Canada Verde, Ecleto, Helena, and Pana Maria.\nGenerated: 2026-06-03 02:15:15 UTC"
   29.0000, -98.3000
   29.2700, -98.4300
   29.5200, -97.9700
@@ -19,7 +44,7 @@ Line: 2,,"Special Weather Statement issued June 2 at 9:06PM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 9:05PM CDT by NWS Tulsa OK\nExpires: 2026-06-03 02:45 Z\nAt 905 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Coweta to Porter to 4 miles southeast of Wagoner. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Muskogee...                       Wagoner... Coweta...                         Haskell... Okay...                           Porter... Taft...                           Tullahassee... Redbird...                        Choska...\nGenerated: 2026-06-03 02:10:27 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 9:05PM CDT by NWS Tulsa OK\nExpires: 2026-06-03 02:45 Z\nAt 905 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Coweta to Porter to 4 miles southeast of Wagoner. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Muskogee...                       Wagoner... Coweta...                         Haskell... Okay...                           Porter... Taft...                           Tullahassee... Redbird...                        Choska...\nGenerated: 2026-06-03 02:15:15 UTC"
   35.8200, -95.7400
   35.7400, -95.5400
   35.7700, -95.2600
@@ -30,7 +55,7 @@ Line: 2,,"Special Weather Statement issued June 2 at 9:05PM CDT by NWS Tulsa OK\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 9:01PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-03 02:45 Z\nAt 901 PM CDT/801 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northwest of Maljamar to 21 miles northeast of Loving to 16 miles west of Orla. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carlsbad, Loving, Avalon, Maljamar, Malaga, Caprock, Carlsbad North, Red Bluff Reservoir, Orla, Whites City, Carlsbad Caverns National Park, Lea County Zip Franklin Memorial Airport, Loco Hills, Otis, Cavern City Air Terminal, Living Desert State Park, Halfway, Lake Avalon, and Red Bluff.\nGenerated: 2026-06-03 02:10:27 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 9:01PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-03 02:45 Z\nAt 901 PM CDT/801 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northwest of Maljamar to 21 miles northeast of Loving to 16 miles west of Orla. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carlsbad, Loving, Avalon, Maljamar, Malaga, Caprock, Carlsbad North, Red Bluff Reservoir, Orla, Whites City, Carlsbad Caverns National Park, Lea County Zip Franklin Memorial Airport, Loco Hills, Otis, Cavern City Air Terminal, Living Desert State Park, Halfway, Lake Avalon, and Red Bluff.\nGenerated: 2026-06-03 02:15:15 UTC"
   32.5800, -103.3900
   31.6800, -103.7600
   31.6700, -104.5000
@@ -44,7 +69,7 @@ Line: 2,,"Special Weather Statement issued June 2 at 9:01PM CDT by NWS Midland/O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 9:00PM CDT by NWS Bismarck ND\nExpires: 2026-06-03 02:30 Z\nAt 800 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Mud Buttes, or 26 miles west of Bowman, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Rhame and Sunset Butte.\nGenerated: 2026-06-03 02:10:27 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 9:00PM CDT by NWS Bismarck ND\nExpires: 2026-06-03 02:30 Z\nAt 800 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Mud Buttes, or 26 miles west of Bowman, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Rhame and Sunset Butte.\nGenerated: 2026-06-03 02:15:15 UTC"
   46.0200, -104.0400
   46.1300, -104.0500
   46.2100, -104.0500
@@ -54,22 +79,7 @@ Line: 2,,"Special Weather Statement issued June 2 at 9:00PM CDT by NWS Bismarck 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 9:00PM CDT by NWS New Orleans LA\nExpires: 2026-06-03 02:15 Z\nAt 900 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas along a line extending from near Kenner to near Norco. Movement was southwest at 5 mph.  HAZARD...Waterspouts.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters.  Locations impacted include... Laplace.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 210 and 217. Interstate 55 in Louisiana between mile markers 1 and 2.\nGenerated: 2026-06-03 02:10:27 UTC"
-  30.0300, -90.3800
-  30.0500, -90.4100
-  30.0900, -90.4400
-  30.1200, -90.4500
-  30.1200, -90.3800
-  30.1000, -90.3800
-  30.0900, -90.3700
-  30.0700, -90.2800
-  30.0300, -90.3300
-  30.0200, -90.3300
-  30.0300, -90.3800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 7:59PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-06-03 02:30 Z\nAt 759 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Chaparral, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northeast El Paso, Chaparral, and McGregor Range Base.\nGenerated: 2026-06-03 02:10:27 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 7:59PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-06-03 02:30 Z\nAt 759 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Chaparral, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northeast El Paso, Chaparral, and McGregor Range Base.\nGenerated: 2026-06-03 02:15:15 UTC"
   31.9300, -106.3100
   31.9900, -106.3700
   32.2100, -106.2900
@@ -78,29 +88,7 @@ Line: 2,,"Special Weather Statement issued June 2 at 7:59PM MDT by NWS El Paso T
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 8:49PM CDT by NWS New Orleans LA\nExpires: 2026-06-03 02:15 Z\nAt 849 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing waterspouts over marine areas north of Kenner, moving southwest at 10 mph.  HAZARD...Waterspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kenner and Metairie.  This includes Interstate 10 in Louisiana between mile markers 223 and 226.\nGenerated: 2026-06-03 02:10:27 UTC"
-  30.0200, -90.3200
-  30.0300, -90.3300
-  30.0700, -90.2700
-  30.0500, -90.1800
-  30.0100, -90.1800
-  30.0000, -90.2000
-  30.0200, -90.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 7:48PM MDT by NWS Albuquerque NM\nExpires: 2026-06-03 02:15 Z\nAt 748 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Bellview, or 35 miles north of Clovis, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bellview.\nGenerated: 2026-06-03 02:10:27 UTC"
-  34.9500, -103.2600
-  35.1500, -103.0500
-  35.1500, -103.0400
-  34.7900, -103.0400
-  34.7600, -103.0700
-  34.9400, -103.2800
-  34.9500, -103.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 8:45PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-03 02:45 Z\nAt 845 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Rocky Creek to Lockhart. Movement was southwest at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... New Braunfels, San Marcos, Schertz, Kyle, Seguin, Cibolo, Buda, Lockhart, Dripping Springs, Wimberley, Blanco, Canyon Lake Dam, Canyon Lake, Bulverde, Garden Ridge, McQueeney, Johnson City, Woodcreek, Martindale, and Marion.\nGenerated: 2026-06-03 02:10:27 UTC"
+Line: 2,,"Special Weather Statement issued June 2 at 8:45PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-03 02:45 Z\nAt 845 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Rocky Creek to Lockhart. Movement was southwest at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... New Braunfels, San Marcos, Schertz, Kyle, Seguin, Cibolo, Buda, Lockhart, Dripping Springs, Wimberley, Blanco, Canyon Lake Dam, Canyon Lake, Bulverde, Garden Ridge, McQueeney, Johnson City, Woodcreek, Martindale, and Marion.\nGenerated: 2026-06-03 02:15:15 UTC"
   30.1900, -97.9400
   30.0200, -97.7100
   29.9600, -97.5200
@@ -114,47 +102,4 @@ Line: 2,,"Special Weather Statement issued June 2 at 8:45PM CDT by NWS Austin/Sa
   30.0200, -98.9200
   30.3400, -98.3900
   30.1900, -97.9400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 8:32PM CDT by NWS Tulsa OK\nExpires: 2026-06-03 02:15 Z\nAt 832 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Tulsa to 3 miles northeast of Broken Arrow to 4 miles southwest of Inola. Movement was south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tulsa...                          Broken Arrow... Bixby...                          Jenks... Glenpool...                       Coweta... Inola...                          Jenks Riverside Airport... Oneta...                          Leonard...  This includes Interstate 44 between mile markers 222 and 230.\nGenerated: 2026-06-03 02:10:27 UTC"
-  35.9900, -96.0200
-  35.8900, -95.7700
-  35.9500, -95.4700
-  36.1700, -95.5500
-  36.1500, -95.7300
-  36.1500, -95.9400
-  35.9900, -96.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 8:25PM CDT by NWS Lake Charles LA\nExpires: 2026-06-03 02:15 Z\nAt 824 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Grand Prairie to near Cecilia to Bayou Sorrel. Movement was southwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Lafayette, Opelousas, Catahoula, Eunice, Scott, Breaux Bridge, Carencro, Ville Platte, St. Martinville, Church Point, Leonville, Arnaudville, Broussard, Sunset, Henderson, Washington, Grand Coteau, Loreauville, Cankton, and Chataignier.  This includes the following highways... Interstate 10 in Louisiana between mile markers 94 and 121. Interstate 49 between mile markers 1 and 25.\nGenerated: 2026-06-03 02:10:27 UTC"
-  29.9600, -91.4200
-  29.9600, -91.4500
-  30.1600, -92.1000
-  30.5500, -92.4400
-  30.7400, -92.1700
-  30.4000, -91.8200
-  30.3100, -91.6200
-  30.2500, -91.5800
-  30.2300, -91.4800
-  30.2000, -91.4900
-  30.1900, -91.4700
-  30.1400, -91.4700
-  30.1300, -91.4600
-  30.1100, -91.4700
-  30.1000, -91.4700
-  30.1000, -91.3800
-  30.0600, -91.3700
-  30.0600, -91.3100
-  29.9600, -91.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 2 at 8:24PM CDT by NWS San Angelo TX\nExpires: 2026-06-03 02:15 Z\nAt 822 PM CDT, Doppler radar was tracking a strong thunderstorm near Fort Griffin, moving west at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Griffin.\nGenerated: 2026-06-03 02:10:27 UTC"
-  32.9600, -99.0900
-  32.7700, -99.1000
-  32.8200, -99.4400
-  33.0200, -99.3900
-  32.9600, -99.0900
 End:
