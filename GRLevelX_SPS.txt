@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-04 21:40:14 UTC
+; Generated: 2026-06-04 21:45:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:38PM CDT by NWS Lubbock TX\nExpires: 2026-06-04 22:15 Z\nAt 438 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout 6 miles northeast of Levelland, moving northeast at 10 mph.  HAZARD...Landspouts and wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Levelland, Smyer, and Opdyke West.\nGenerated: 2026-06-04 21:40:14 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 3:44PM MDT by NWS Glasgow MT\nExpires: 2026-06-04 22:45 Z\nAt 344 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northeast of Fallon to 29 miles southeast of Terry. Movement was northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Glendive, Wibaux, Carlyle, West Glendive, Hoyt, Hodges, Mildred, Marsh, Saint Phillip, and Yates.\nGenerated: 2026-06-04 21:45:18 UTC"
+  46.6400, -104.3500
+  46.6700, -104.3600
+  46.6800, -104.4200
+  46.6900, -104.6100
+  46.6600, -104.6100
+  46.6600, -104.7300
+  46.6100, -104.7400
+  46.6100, -104.8600
+  46.5700, -104.8600
+  46.5700, -104.9800
+  46.5400, -104.9900
+  46.5400, -105.0300
+  46.9700, -105.0300
+  47.4100, -104.0500
+  46.6400, -104.0500
+  46.6400, -104.3500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 4 at 4:40PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-04 22:15 Z\nAt 440 PM CDT, Doppler radar was tracking a strong thunderstorm 18 miles southwest of Orla, or 29 miles northwest of Toyah, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Reeves and northeastern Culberson Counties.\nGenerated: 2026-06-04 21:45:18 UTC"
+  31.5100, -104.1700
+  31.7300, -104.3200
+  31.8900, -104.0100
+  31.7000, -103.8300
+  31.5100, -104.1700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 4 at 4:38PM CDT by NWS Lubbock TX\nExpires: 2026-06-04 22:15 Z\nAt 438 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout 6 miles northeast of Levelland, moving northeast at 10 mph.  HAZARD...Landspouts and wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Levelland, Smyer, and Opdyke West.\nGenerated: 2026-06-04 21:45:18 UTC"
   33.5800, -102.3600
   33.7900, -102.3100
   33.6900, -102.0800
@@ -15,7 +44,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 4:38PM CDT by NWS Lubbock T
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:33PM CDT by NWS Shreveport LA\nExpires: 2026-06-04 22:00 Z\nAt 433 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Saratoga, or 12 miles east of Ashdown, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Nashville, Mineral Springs, Tollette, Fulton, Ben Lomond, Saratoga, McNab, Bright Star, Millwood, Red Bluff and Browntown.\nGenerated: 2026-06-04 21:40:14 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 4:33PM CDT by NWS Shreveport LA\nExpires: 2026-06-04 22:00 Z\nAt 433 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Saratoga, or 12 miles east of Ashdown, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Nashville, Mineral Springs, Tollette, Fulton, Ben Lomond, Saratoga, McNab, Bright Star, Millwood, Red Bluff and Browntown.\nGenerated: 2026-06-04 21:45:18 UTC"
   33.7900, -94.1000
   33.9600, -94.1200
   33.9600, -93.7200
@@ -25,7 +54,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 4:33PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:29PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-04 22:15 Z\nAt 429 PM CDT, Doppler radar was tracking a strong thunderstorm over Canby, or 34 miles southwest of Montevideo, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Canby, Clarkfield, Porter, Boyd, Providence, Spring Creek, St. Leo, Burr and Spellman Lake.\nGenerated: 2026-06-04 21:40:14 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 4:29PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-04 22:15 Z\nAt 429 PM CDT, Doppler radar was tracking a strong thunderstorm over Canby, or 34 miles southwest of Montevideo, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Canby, Clarkfield, Porter, Boyd, Providence, Spring Creek, St. Leo, Burr and Spellman Lake.\nGenerated: 2026-06-04 21:45:18 UTC"
   44.8100, -96.4500
   44.9200, -95.7700
   44.6300, -95.7000
@@ -34,56 +63,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 4:29PM CDT by NWS Twin Citi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:22PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-04 21:45 Z\nAt 422 PM CDT, Doppler radar was tracking a strong thunderstorm 20 miles north of Kent, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Reeves and east central Culberson Counties.\nGenerated: 2026-06-04 21:40:14 UTC"
-  31.2100, -104.4300
-  31.4800, -104.4500
-  31.5700, -104.0100
-  31.2000, -104.0000
-  31.2100, -104.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:17PM CDT by NWS La Crosse WI\nExpires: 2026-06-04 21:45 Z\nAt 417 PM CDT, Doppler radar was tracking a strong thunderstorm near Elma, or 13 miles northwest of New Hampton, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elma, Alta Vista, Maple Leaf, Lourdes, County Roads B 28 And V 18, Highway 63 And County B 22, Deerfield, Davis Corners and County B 17 And Bell Avenue.\nGenerated: 2026-06-04 21:40:14 UTC"
-  43.2400, -92.5500
-  43.3800, -92.3000
-  43.2100, -92.1700
-  43.1100, -92.5500
-  43.2400, -92.5500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:16PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-04 21:45 Z\nAt 415 PM CDT, Doppler radar was tracking a strong thunderstorm over Nemaha, or 11 miles east of Auburn, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tarkio, Rock Port, Fairfax, Blanchard, Westboro, Watson, Indian Cave State Park, and Phelps City.  This includes Interstate 29 between mile markers 99 and 122.\nGenerated: 2026-06-04 21:40:14 UTC"
-  40.5800, -95.2000
-  40.4800, -95.2000
-  40.4800, -95.1800
-  40.4600, -95.1800
-  40.2600, -95.4500
-  40.2600, -95.5500
-  40.3000, -95.5600
-  40.3200, -95.6600
-  40.3400, -95.6200
-  40.4100, -95.6600
-  40.4600, -95.6400
-  40.4600, -95.6800
-  40.4800, -95.7000
-  40.4900, -95.6800
-  40.5100, -95.6900
-  40.5200, -95.6600
-  40.5800, -95.6400
-  40.5800, -95.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 3:12PM MDT by NWS Cheyenne WY\nExpires: 2026-06-04 21:45 Z\nAt 312 PM MDT, Doppler radar was tracking a strong thunderstorm near Albin, or 20 miles northwest of Kimball, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Kimball, southwestern Banner and eastern Laramie Counties.\nGenerated: 2026-06-04 21:40:14 UTC"
-  41.3200, -104.0300
-  41.4100, -104.0900
-  41.5600, -103.8100
-  41.3800, -103.6700
-  41.3200, -104.0300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:07PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-04 22:00 Z\nAt 407 PM CDT, Doppler radar was tracking a strong thunderstorm over Appleton, or 21 miles northwest of Montevideo, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Appleton, Appleton Airport, Milan, Holloway, Hagen, Big Bend City, Danvers, Clontarf, Benson Airport, Benson, Lake Hassel and De Graff.\nGenerated: 2026-06-04 21:40:14 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 4:07PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-04 22:00 Z\nAt 407 PM CDT, Doppler radar was tracking a strong thunderstorm over Appleton, or 21 miles northwest of Montevideo, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Appleton, Appleton Airport, Milan, Holloway, Hagen, Big Bend City, Danvers, Clontarf, Benson Airport, Benson, Lake Hassel and De Graff.\nGenerated: 2026-06-04 21:45:18 UTC"
   45.2600, -96.1200
   45.3300, -95.9000
   45.4100, -95.5100
@@ -98,31 +78,10 @@ Line: 2,,"Special Weather Statement issued June 4 at 4:07PM CDT by NWS Twin Citi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 3:06PM MDT by NWS Glasgow MT\nExpires: 2026-06-04 22:00 Z\nAt 306 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Fourchette, or 28 miles east of Zortman, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Devils Creek Rec Area and Sun Prairie.\nGenerated: 2026-06-04 21:40:14 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 3:06PM MDT by NWS Glasgow MT\nExpires: 2026-06-04 22:00 Z\nAt 306 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Fourchette, or 28 miles east of Zortman, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Devils Creek Rec Area and Sun Prairie.\nGenerated: 2026-06-04 21:45:18 UTC"
   47.8500, -108.0600
   48.0000, -107.9200
   47.8700, -107.3200
   47.4900, -107.6500
   47.8500, -108.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:01PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-04 21:45 Z\nAt 401 PM CDT, Doppler radar was tracking a strong thunderstorm 15 miles northwest of Marietta, or 43 miles southwest of Morris, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Stone National Wildlife Refuge, Bellingham and Louisburg.\nGenerated: 2026-06-04 21:40:14 UTC"
-  45.1700, -96.0800
-  45.1300, -96.0800
-  45.1200, -96.4500
-  45.2700, -96.4500
-  45.2700, -96.4200
-  45.2600, -96.4000
-  45.2600, -96.3700
-  45.2500, -96.2900
-  45.2500, -96.2800
-  45.2400, -96.2900
-  45.2200, -96.2700
-  45.2200, -96.2200
-  45.2100, -96.2000
-  45.1900, -96.1700
-  45.2000, -96.1400
-  45.1900, -96.1100
-  45.1700, -96.0800
 End:
