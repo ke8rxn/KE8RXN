@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-04 22:45:15 UTC
+; Generated: 2026-06-04 22:50:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 5:44PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-04 23:30 Z\nAt 544 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near New London to over Raymond, or extending from 15 miles north of Willmar to 15 miles southwest of Willmar, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sibley State Park, Pennock, Raymond, Willmar Airport, New London, Willmar, Priam, Spicer, Green Lake, Prinsburg, Hawick, Kandiyohi, Svea, Lake Koronis Regional Park, Blomkest, Atwater, Manannah, Lake Lillian and Grove City.\nGenerated: 2026-06-04 22:45:15 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 5:44PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-04 23:30 Z\nAt 544 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near New London to over Raymond, or extending from 15 miles north of Willmar to 15 miles southwest of Willmar, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sibley State Park, Pennock, Raymond, Willmar Airport, New London, Willmar, Priam, Spicer, Green Lake, Prinsburg, Hawick, Kandiyohi, Svea, Lake Koronis Regional Park, Blomkest, Atwater, Manannah, Lake Lillian and Grove City.\nGenerated: 2026-06-04 22:50:13 UTC"
   44.9300, -95.3600
   45.3200, -95.0800
   45.3300, -94.7600
@@ -17,7 +17,32 @@ Line: 2,,"Special Weather Statement issued June 4 at 5:44PM CDT by NWS Twin Citi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:42PM MDT by NWS Cheyenne WY\nExpires: 2026-06-04 23:15 Z\nAt 441 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Courthouse And Jail Rock to near Sidney Municipal Airport. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sidney, Lodgepole, Dalton, Gurley, Broadwater, Colton, Sunol, Brownson, Sidney Municipal Airport, Lorenzo, and Cheyenne County Fairgrounds.  This includes Interstate 80 in Nebraska between mile markers 46 and 77.\nGenerated: 2026-06-04 22:45:15 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 5:44PM CDT by NWS Shreveport LA\nExpires: 2026-06-04 23:30 Z\nAt 544 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near Zwolle to near Montgomery, or extending from 31 miles south of Mansfield to 8 miles east of Natchitoches, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Natchitoches, Many, Zwolle, Campti, Converse, Allen, Oak Grove, Pleasant Hill, Provencal, Natchez, Clarence, Goldonna, Noble, Robeline, Powhatan, Marthaville, Hagewood, Ajax and Lake End.\nGenerated: 2026-06-04 22:50:13 UTC"
+  31.9200, -93.8100
+  32.0300, -93.1700
+  32.0500, -92.9000
+  32.0200, -92.8900
+  31.9900, -92.9000
+  31.9800, -92.8800
+  31.9400, -92.8800
+  31.8600, -92.9000
+  31.8600, -92.9500
+  31.8300, -92.9400
+  31.7800, -92.9700
+  31.7100, -92.9800
+  31.7000, -92.9600
+  31.6800, -92.9600
+  31.6600, -92.9000
+  31.6200, -92.9100
+  31.6100, -92.8500
+  31.5800, -92.8500
+  31.5800, -93.1500
+  31.5000, -93.6200
+  31.9200, -93.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 4 at 4:42PM MDT by NWS Cheyenne WY\nExpires: 2026-06-04 23:15 Z\nAt 441 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Courthouse And Jail Rock to near Sidney Municipal Airport. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sidney, Lodgepole, Dalton, Gurley, Broadwater, Colton, Sunol, Brownson, Sidney Municipal Airport, Lorenzo, and Cheyenne County Fairgrounds.  This includes Interstate 80 in Nebraska between mile markers 46 and 77.\nGenerated: 2026-06-04 22:50:13 UTC"
   41.0400, -103.1700
   41.5700, -103.2200
   41.6200, -102.6300
@@ -28,7 +53,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 4:42PM MDT by NWS Cheyenne 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 5:40PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-04 23:15 Z\nAt 540 PM CDT, Doppler radar was tracking a strong thunderstorm near Troy, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Savannah, Highland, Troy, Oregon, Amazonia, Fillmore, Rosendale, and Fanning.  This includes the following highways... Interstate 29 between mile markers 55 and 72. Interstate 229 between mile markers 13 and 14.\nGenerated: 2026-06-04 22:45:15 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 5:40PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-04 23:15 Z\nAt 540 PM CDT, Doppler radar was tracking a strong thunderstorm near Troy, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Savannah, Highland, Troy, Oregon, Amazonia, Fillmore, Rosendale, and Fanning.  This includes the following highways... Interstate 29 between mile markers 55 and 72. Interstate 229 between mile markers 13 and 14.\nGenerated: 2026-06-04 22:50:13 UTC"
   40.1300, -94.9500
   40.1300, -94.9000
   39.9100, -94.6900
@@ -38,7 +63,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 5:40PM CDT by NWS Kansas Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 5:39PM CDT by NWS Shreveport LA\nExpires: 2026-06-04 23:00 Z\nAt 539 PM CDT, Doppler radar was tracking a strong thunderstorm over Haughton, or 8 miles east of Bossier City, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bossier City, Haughton, Eastwood, Bellevue, Princeton, Fillmore, Red Chute, Linton and Bodcau.\nGenerated: 2026-06-04 22:45:15 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 5:39PM CDT by NWS Shreveport LA\nExpires: 2026-06-04 23:00 Z\nAt 539 PM CDT, Doppler radar was tracking a strong thunderstorm over Haughton, or 8 miles east of Bossier City, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bossier City, Haughton, Eastwood, Bellevue, Princeton, Fillmore, Red Chute, Linton and Bodcau.\nGenerated: 2026-06-04 22:50:13 UTC"
   32.5100, -93.4500
   32.4800, -93.6200
   32.7200, -93.7000
@@ -47,7 +72,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 5:39PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 5:35PM CDT by NWS Topeka KS\nExpires: 2026-06-04 23:00 Z\nAt 535 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Blaine to 4 miles northeast of Westmoreland. Movement was northeast at 40 mph.  HAZARD...Strong wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Westmoreland, Blaine, Frankfort, Onaga, Havensville, Vermillion, Wheaton, and Lillis.\nGenerated: 2026-06-04 22:45:15 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 5:35PM CDT by NWS Topeka KS\nExpires: 2026-06-04 23:00 Z\nAt 535 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Blaine to 4 miles northeast of Westmoreland. Movement was northeast at 40 mph.  HAZARD...Strong wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Westmoreland, Blaine, Frankfort, Onaga, Havensville, Vermillion, Wheaton, and Lillis.\nGenerated: 2026-06-04 22:50:13 UTC"
   39.8300, -96.2600
   39.5100, -96.0600
   39.3800, -96.4100
@@ -56,7 +81,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 5:35PM CDT by NWS Topeka KS
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:34PM MDT by NWS Billings MT\nExpires: 2026-06-04 23:15 Z\nAt 434 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles west of Ridgeway, or 29 miles east of Broadus, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ridgeway.\nGenerated: 2026-06-04 22:45:15 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 4:34PM MDT by NWS Billings MT\nExpires: 2026-06-04 23:15 Z\nAt 434 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles west of Ridgeway, or 29 miles east of Broadus, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ridgeway.\nGenerated: 2026-06-04 22:50:13 UTC"
   45.3900, -104.9500
   45.4900, -104.9500
   45.6000, -104.8500
@@ -66,7 +91,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 4:34PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 4:32PM MDT by NWS Denver CO\nExpires: 2026-06-04 23:00 Z\nAt 432 PM MDT, Doppler radar was tracking a strong thunderstorm over Sterling, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations impacted include... Sterling, Atwood and Reiradon Hill.\nGenerated: 2026-06-04 22:45:15 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 4:32PM MDT by NWS Denver CO\nExpires: 2026-06-04 23:00 Z\nAt 432 PM MDT, Doppler radar was tracking a strong thunderstorm over Sterling, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations impacted include... Sterling, Atwood and Reiradon Hill.\nGenerated: 2026-06-04 22:50:13 UTC"
   40.5300, -103.3100
   40.6900, -103.3000
   40.7600, -103.0200
