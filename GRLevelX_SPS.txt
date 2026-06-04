@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-04 18:20:19 UTC
+; Generated: 2026-06-04 18:25:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 1:10PM CDT by NWS Norman OK\nExpires: 2026-06-04 18:45 Z\nAt 110 PM CDT, Doppler radar was tracking a strong thunderstorm near Goltry, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Helena, Goltry, Jet, Nash, Hillsdale, and Great Salt Plains Lake.\nGenerated: 2026-06-04 18:20:19 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 1:22PM CDT by NWS Amarillo TX\nExpires: 2026-06-04 19:00 Z\nAt 122 PM CDT, Doppler radar was tracking a strong thunderstorm near Mclean, or 20 miles west of Shamrock, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mclean, Lela, and Kellerville.  This includes Interstate 40 between mile markers 139 and 159.\nGenerated: 2026-06-04 18:25:15 UTC"
+  35.0900, -100.6100
+  35.1800, -100.7100
+  35.4600, -100.4900
+  35.2500, -100.2500
+  35.0900, -100.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 4 at 1:10PM CDT by NWS Norman OK\nExpires: 2026-06-04 18:45 Z\nAt 110 PM CDT, Doppler radar was tracking a strong thunderstorm near Goltry, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Helena, Goltry, Jet, Nash, Hillsdale, and Great Salt Plains Lake.\nGenerated: 2026-06-04 18:25:15 UTC"
   36.7000, -97.8600
   36.4600, -98.0800
   36.4600, -98.3300
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 1:10PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 1:06PM CDT by NWS Amarillo TX\nExpires: 2026-06-04 18:45 Z\nAt 106 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Brice, or 13 miles west of Memphis, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hedley and Lelia Lake.\nGenerated: 2026-06-04 18:20:19 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 1:06PM CDT by NWS Amarillo TX\nExpires: 2026-06-04 18:45 Z\nAt 106 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Brice, or 13 miles west of Memphis, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hedley and Lelia Lake.\nGenerated: 2026-06-04 18:25:15 UTC"
   34.9900, -100.7800
   34.9200, -100.5400
   34.8600, -100.5400
@@ -24,7 +33,7 @@ Line: 2,,"Special Weather Statement issued June 4 at 1:06PM CDT by NWS Amarillo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 4 at 12:58PM CDT by NWS Aberdeen SD\nExpires: 2026-06-04 18:45 Z\nAt 1258 PM CDT, the public reported a strong thunderstorm near Highmore, moving northeast at 30 mph.  HAZARD...Half inch hail.  SOURCE...Public.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Ree Heights.\nGenerated: 2026-06-04 18:20:19 UTC"
+Line: 2,,"Special Weather Statement issued June 4 at 12:58PM CDT by NWS Aberdeen SD\nExpires: 2026-06-04 18:45 Z\nAt 1258 PM CDT, the public reported a strong thunderstorm near Highmore, moving northeast at 30 mph.  HAZARD...Half inch hail.  SOURCE...Public.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Ree Heights.\nGenerated: 2026-06-04 18:25:15 UTC"
   44.4700, -99.3400
   44.5900, -99.5100
   44.8600, -99.2800
