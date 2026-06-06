@@ -3,9 +3,17 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-06 08:55:13 UTC
+; Generated: 2026-06-06 09:00:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 3:44AM CDT by NWS Norman OK\nExpires: 2026-06-06 09:15 Z\nAt 343 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Lake Diversion, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Electra.\nGenerated: 2026-06-06 08:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 3:55AM CDT by NWS Topeka KS\nExpires: 2026-06-06 09:45 Z\nAt 354 AM CDT, Doppler radar was tracking a strong thunderstorm near Byron, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down twigs or small limbs and blow around objects. Minor damage to vegetation is possible.  Locations impacted include... Courtland and Republic.\nGenerated: 2026-06-06 09:00:15 UTC"
+  40.0000, -97.5200
+  39.7700, -97.9300
+  40.0000, -97.9300
+  40.0000, -97.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 6 at 3:44AM CDT by NWS Norman OK\nExpires: 2026-06-06 09:15 Z\nAt 343 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Lake Diversion, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Electra.\nGenerated: 2026-06-06 09:00:15 UTC"
   33.8400, -98.7500
   33.8400, -98.9500
   34.0900, -98.9500
@@ -14,7 +22,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 3:44AM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 4:44AM EDT by NWS Northern Indiana\nExpires: 2026-06-06 09:15 Z\nAt 443 AM EDT, Doppler radar was tracking a strong thunderstorm near North Liberty, or 7 miles southwest of South Bend, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... South Bend, Mishawaka, Gulivoire Park, Osceola, North Liberty, Lakeville, Lydick, Chain-o-lakes, Crumstown, Wyatt, and Woodland.\nGenerated: 2026-06-06 08:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 4:44AM EDT by NWS Northern Indiana\nExpires: 2026-06-06 09:15 Z\nAt 443 AM EDT, Doppler radar was tracking a strong thunderstorm near North Liberty, or 7 miles southwest of South Bend, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... South Bend, Mishawaka, Gulivoire Park, Osceola, North Liberty, Lakeville, Lydick, Chain-o-lakes, Crumstown, Wyatt, and Woodland.\nGenerated: 2026-06-06 09:00:15 UTC"
   41.5700, -86.4900
   41.6400, -86.4900
   41.7300, -86.4000
@@ -27,7 +35,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 4:44AM EDT by NWS Northern 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 3:41AM CDT by NWS Norman OK\nExpires: 2026-06-06 09:15 Z\nAt 341 AM CDT, Doppler radar was tracking a strong thunderstorm near Chickasha, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chickasha, Verden, Amber, Pocasset, Norge, Tabler, and Ninnekah.\nGenerated: 2026-06-06 08:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 3:41AM CDT by NWS Norman OK\nExpires: 2026-06-06 09:15 Z\nAt 341 AM CDT, Doppler radar was tracking a strong thunderstorm near Chickasha, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chickasha, Verden, Amber, Pocasset, Norge, Tabler, and Ninnekah.\nGenerated: 2026-06-06 09:00:15 UTC"
   34.9100, -97.9600
   35.0300, -98.0900
   35.1000, -98.0900
@@ -35,13 +43,4 @@ Line: 2,,"Special Weather Statement issued June 6 at 3:41AM CDT by NWS Norman OK
   35.1600, -97.8300
   35.0400, -97.7300
   34.9100, -97.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 3:10AM CDT by NWS Hastings NE\nExpires: 2026-06-06 09:00 Z\nAt 310 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Nelson, or 32 miles southeast of Hastings, moving south at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Nora around 315 AM CDT.  Other locations in the path of this storm include Hardy.\nGenerated: 2026-06-06 08:55:13 UTC"
-  40.0000, -98.2700
-  40.4500, -98.2700
-  40.4400, -97.6800
-  40.0000, -97.6300
-  40.0000, -98.2700
 End:
