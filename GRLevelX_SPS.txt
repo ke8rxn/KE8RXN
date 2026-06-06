@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-06 06:25:11 UTC
+; Generated: 2026-06-06 06:30:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 1:13AM CDT by NWS Hastings NE\nExpires: 2026-06-06 07:00 Z\nAt 113 AM CDT, Doppler radar was tracking a strong thunderstorm near Geneva, or 24 miles south of York, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Geneva around 120 AM CDT.\nGenerated: 2026-06-06 06:25:11 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 1:29AM CDT by NWS Hastings NE\nExpires: 2026-06-06 07:15 Z\nAt 128 AM CDT, Doppler radar was tracking a strong thunderstorm near Cairo, or 11 miles northwest of Grand Island, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Grand Island.\nGenerated: 2026-06-06 06:30:16 UTC"
+  40.9500, -98.6000
+  41.0500, -98.6000
+  41.1100, -98.2900
+  40.9000, -98.2900
+  40.9500, -98.6000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 6 at 1:13AM CDT by NWS Hastings NE\nExpires: 2026-06-06 07:00 Z\nAt 113 AM CDT, Doppler radar was tracking a strong thunderstorm near Geneva, or 24 miles south of York, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Geneva around 120 AM CDT.\nGenerated: 2026-06-06 06:30:16 UTC"
   40.2900, -97.3700
   40.3800, -97.8300
   40.4600, -97.8300
@@ -15,32 +24,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 1:13AM CDT by NWS Hastings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 12:52AM CDT by NWS Hastings NE\nExpires: 2026-06-06 06:30 Z\nAt 1252 AM CDT, Doppler radar was tracking a strong thunderstorm over Cairo, or 12 miles west of Grand Island, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Hamilton, southwestern Merrick, southeastern Howard and Hall Counties.  This includes Interstate 80 between mile markers 307 and 317.\nGenerated: 2026-06-06 06:25:11 UTC"
-  40.8500, -98.6800
-  41.0700, -98.6800
-  41.1100, -98.2600
-  40.7500, -98.2700
-  40.8500, -98.6800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 12:43AM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-06 06:30 Z\nAt 1243 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Richland Center, moving east at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Prairie Du Sac, Sauk City, Lake Wisconsin, Plain, Bluffview, Merrimac, Loganville, Lime Ridge, and Hill Point.\nGenerated: 2026-06-06 06:25:11 UTC"
-  43.5000, -90.1900
-  43.3700, -89.6200
-  43.3600, -89.6500
-  43.3600, -89.6700
-  43.3100, -89.7300
-  43.2800, -89.7100
-  43.2400, -89.7700
-  43.2400, -89.8000
-  43.2000, -89.8500
-  43.1900, -89.8900
-  43.3100, -90.1900
-  43.5000, -90.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 1:21AM EDT by NWS Grand Rapids MI\nExpires: 2026-06-06 07:15 Z\nAt 116 AM EDT, Doppler radar was tracking thunderstorm outlfow winds along a line extending from near Stanton to 7 miles north of Holland State Park. Movement was southeast at 40 mph. Initial hazards include winds to in excess of 40 mph, pea size hail and heavy rain.  Additional development may include storms to severe levels with large hail and damaging winds. In general thunderstorms are expected to increase in coverage across Southern Lower Michigan through 400 AM.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Grand Rapids...        Lansing...             Kalamazoo... Portage...             Jackson...             Holland... Ionia...               Alma...                Charlotte... Albion...              Greenville...          Mason... St. Johns...           Hastings...            Marshall... Battle Creek...        Eaton Rapids...        Allegan... South Haven...         Portland...\nGenerated: 2026-06-06 06:25:11 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 1:21AM EDT by NWS Grand Rapids MI\nExpires: 2026-06-06 07:15 Z\nAt 116 AM EDT, Doppler radar was tracking thunderstorm outlfow winds along a line extending from near Stanton to 7 miles north of Holland State Park. Movement was southeast at 40 mph. Initial hazards include winds to in excess of 40 mph, pea size hail and heavy rain.  Additional development may include storms to severe levels with large hail and damaging winds. In general thunderstorms are expected to increase in coverage across Southern Lower Michigan through 400 AM.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Grand Rapids...        Lansing...             Kalamazoo... Portage...             Jackson...             Holland... Ionia...               Alma...                Charlotte... Albion...              Greenville...          Mason... St. Johns...           Hastings...            Marshall... Battle Creek...        Eaton Rapids...        Allegan... South Haven...         Portland...\nGenerated: 2026-06-06 06:30:16 UTC"
   42.0800, -84.1300
   42.0700, -86.2200
   42.2400, -86.2200
