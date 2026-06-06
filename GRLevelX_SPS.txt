@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-06 18:40:13 UTC
+; Generated: 2026-06-06 18:45:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 2:34PM EDT by NWS State College PA\nExpires: 2026-06-06 19:30 Z\nAt 234 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Ridgway, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Ridgway, Force, Benezette, Medix Run, Brandy Camp, Portland Mills, Brockport, Hicks Run, Kersey, and Weedville.\nGenerated: 2026-06-06 18:40:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 1:42PM CDT by NWS New Orleans LA\nExpires: 2026-06-06 19:15 Z\nAt 142 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds and waterspouts over Waveland, moving northeast at 10 mph.  HAZARD...Waterspouts and funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Long Beach, Bay St. Louis, Waveland, Pass Christian, Diamondhead, and Shoreline Park.  This includes Interstate 10 in Mississippi between mile markers 13 and 24.\nGenerated: 2026-06-06 18:45:12 UTC"
+  30.2800, -89.2600
+  30.2800, -89.2700
+  30.2900, -89.3100
+  30.2400, -89.3900
+  30.2600, -89.4500
+  30.3900, -89.4100
+  30.4100, -89.2700
+  30.3800, -89.1700
+  30.2800, -89.2600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 6 at 2:34PM EDT by NWS State College PA\nExpires: 2026-06-06 19:30 Z\nAt 234 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Ridgway, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Ridgway, Force, Benezette, Medix Run, Brandy Camp, Portland Mills, Brockport, Hicks Run, Kersey, and Weedville.\nGenerated: 2026-06-06 18:45:12 UTC"
   41.4300, -79.0600
   41.4500, -79.0100
   41.4400, -78.9600
@@ -28,7 +41,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 2:34PM EDT by NWS State Col
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 2:25PM EDT by NWS Charleston WV\nExpires: 2026-06-06 19:00 Z\nAt 224 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Paden City to near Belmont. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Middlebourne, Paden City, Sistersville, Matamoras, Friendly, Fly, Alma, Arvilla, Point Lookout, New Matamoras, Wick, and Lima.\nGenerated: 2026-06-06 18:40:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 2:25PM EDT by NWS Charleston WV\nExpires: 2026-06-06 19:00 Z\nAt 224 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Paden City to near Belmont. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Middlebourne, Paden City, Sistersville, Matamoras, Friendly, Fly, Alma, Arvilla, Point Lookout, New Matamoras, Wick, and Lima.\nGenerated: 2026-06-06 18:45:12 UTC"
   39.5800, -80.8900
   39.6000, -80.8500
   39.5600, -80.8200
@@ -47,67 +60,4 @@ Line: 2,,"Special Weather Statement issued June 6 at 2:25PM EDT by NWS Charlesto
   39.5400, -81.0400
   39.6100, -80.9500
   39.5800, -80.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 1:16PM CDT by NWS New Orleans LA\nExpires: 2026-06-06 18:45 Z\nAt 116 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds over Mcneil, or 10 miles north of Picayune, moving southeast at 15 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mcneil.  This includes Interstate 59 in Mississippi between mile markers 10 and 19.\nGenerated: 2026-06-06 18:40:13 UTC"
-  30.6900, -89.7300
-  30.7600, -89.6200
-  30.6500, -89.4800
-  30.5700, -89.5400
-  30.5600, -89.6200
-  30.6900, -89.7300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 2:13PM EDT by NWS State College PA\nExpires: 2026-06-06 18:45 Z\nAt 213 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near St. Marys to near Punxsutawney. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, DuBois, Clearfield, Ridgway, Johnsonburg, Sandy, Cameron, Wharton, Woodland, Curwensville, Emporium, Penfield, Hyde, Plymptonville, Rockton, Force, Benezette, Hicks Run, Jeffries, and Lecontes Mills.\nGenerated: 2026-06-06 18:40:13 UTC"
-  41.6400, -77.9800
-  40.7500, -78.4300
-  40.7600, -78.8100
-  41.1400, -78.8000
-  41.2000, -78.7700
-  41.2000, -78.7100
-  41.2300, -78.7100
-  41.2300, -78.7400
-  41.2600, -78.7400
-  41.3200, -78.8700
-  41.4700, -78.8300
-  41.6400, -77.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 2:01PM EDT by NWS State College PA\nExpires: 2026-06-06 18:45 Z\nAt 201 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles southeast of Olean to 17 miles southeast of Bradford to near Kane. Movement was east at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kane, Johnsonburg, Coudersport, Port Allegany, Smethport, Wetmore, Roulette, Galeton, Shinglehouse, Genesee, Betula, Wilcox, James City, Rew, Harrison Valley, Crosby, East Branch Dam, Kinzua Bridge State Park, Denton Hill State Park, and Lyman Run State Park.\nGenerated: 2026-06-06 18:40:13 UTC"
-  41.9900, -77.6100
-  41.7100, -77.6100
-  41.4200, -78.9400
-  41.4500, -78.9600
-  41.6200, -78.9600
-  41.6300, -79.0800
-  42.0000, -78.4800
-  41.9900, -77.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 2:00PM EDT by NWS Charleston WV\nExpires: 2026-06-06 18:45 Z\nAt 159 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Caldwell to Chesterhill. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marietta, St. Marys, Beverly, Chesterhill, Williamstown, Belmont, Newport, Matamoras, Lowell, Stockport, Bristol, Macksburg, Lower Salem, Hackney, and Devola.  This includes Interstate 77 in Ohio between mile markers 1 and 17.\nGenerated: 2026-06-06 18:40:13 UTC"
-  39.7500, -81.6400
-  39.6700, -81.6400
-  39.6600, -81.5900
-  39.5900, -81.5800
-  39.5800, -81.4800
-  39.6400, -81.4700
-  39.6500, -81.4500
-  39.6300, -81.4500
-  39.6300, -81.4200
-  39.6000, -81.3900
-  39.5900, -81.3500
-  39.5900, -81.2800
-  39.6100, -81.2700
-  39.5800, -81.2500
-  39.5700, -81.0400
-  39.3700, -81.1800
-  39.4100, -81.4400
-  39.4000, -81.4700
-  39.4500, -81.9300
-  39.7600, -81.7300
-  39.7500, -81.6400
 End:
