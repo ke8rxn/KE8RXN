@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-06 23:55:13 UTC
+; Generated: 2026-06-07 00:00:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 6:53PM CDT by NWS Norman OK\nExpires: 2026-06-07 00:45 Z\nAt 652 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Texoma to near Colbert to 5 miles south of Denison. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Durant, Tishomingo, Colbert, Caddo, Achille, Silo, Milburn, Kenefic, Kemp, Mead, Armstrong, Hendrix, Cartwright, Fillmore, Utica, Albany, Blue, Woodville, Coleman, and Little City.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 5:57PM MDT by NWS Billings MT\nExpires: 2026-06-07 00:30 Z\nAt 557 PM MDT, Doppler radar was tracking a thunderstorm 13 miles south of Ridgeway, or 40 miles south of Ekalaka, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ridgeway.  Strong winds may occur with little to no precipitation.\nGenerated: 2026-06-07 00:00:18 UTC"
+  45.1600, -104.5800
+  45.2600, -104.7900
+  45.6900, -104.5100
+  45.4700, -104.0400
+  45.4500, -104.0400
+  45.1600, -104.5800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 6 at 6:53PM CDT by NWS Norman OK\nExpires: 2026-06-07 00:45 Z\nAt 652 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Texoma to near Colbert to 5 miles south of Denison. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Durant, Tishomingo, Colbert, Caddo, Achille, Silo, Milburn, Kenefic, Kemp, Mead, Armstrong, Hendrix, Cartwright, Fillmore, Utica, Albany, Blue, Woodville, Coleman, and Little City.\nGenerated: 2026-06-07 00:00:18 UTC"
   33.7800, -96.4300
   33.7700, -96.5000
   33.8200, -96.5300
@@ -29,7 +39,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 6:53PM CDT by NWS Norman OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:53PM MDT by NWS Rapid City SD\nExpires: 2026-06-07 00:30 Z\nAt 553 PM MDT, Doppler radar was tracking a strong thunderstorm over Cold Brook Reservoir, or near Hot Springs, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hot Springs, Wind Cave National Park, and Cold Brook Reservoir.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 5:53PM MDT by NWS Rapid City SD\nExpires: 2026-06-07 00:30 Z\nAt 553 PM MDT, Doppler radar was tracking a strong thunderstorm over Cold Brook Reservoir, or near Hot Springs, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hot Springs, Wind Cave National Park, and Cold Brook Reservoir.\nGenerated: 2026-06-07 00:00:18 UTC"
   43.4000, -103.4400
   43.4300, -103.5500
   43.6400, -103.5500
@@ -38,17 +48,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 5:53PM MDT by NWS Rapid Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 7:49PM EDT by NWS Indianapolis IN\nExpires: 2026-06-07 00:00 Z\nAt 749 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing a landspout 7 miles west of Crawfordsville, moving southeast at 10 mph.  HAZARD...Landspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alamo and Shades State Park.\nGenerated: 2026-06-06 23:55:13 UTC"
-  40.0800, -87.0300
-  40.0000, -86.9100
-  39.9200, -87.0700
-  39.9900, -87.0900
-  40.0200, -87.0900
-  40.0800, -87.0300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 6:46PM CDT by NWS Shreveport LA\nExpires: 2026-06-07 00:30 Z\nAt 646 PM CDT, Doppler radar was tracking a strong thunderstorm over Blanchard, or 10 miles north of Shreveport, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blanchard, Benton, Oil City, Mooringsport, Belcher, Gilliam, Dixie, Cavett, Caddo Lake, Alden Bridge, Bethany and Rocky Mount.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 6:46PM CDT by NWS Shreveport LA\nExpires: 2026-06-07 00:30 Z\nAt 646 PM CDT, Doppler radar was tracking a strong thunderstorm over Blanchard, or 10 miles north of Shreveport, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blanchard, Benton, Oil City, Mooringsport, Belcher, Gilliam, Dixie, Cavett, Caddo Lake, Alden Bridge, Bethany and Rocky Mount.\nGenerated: 2026-06-07 00:00:18 UTC"
   32.8300, -93.7900
   32.8200, -93.6300
   32.5400, -93.7000
@@ -58,7 +58,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 6:46PM CDT by NWS Shrevepor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:45PM MDT by NWS Albuquerque NM\nExpires: 2026-06-07 00:15 Z\nAt 545 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Montoya, or 28 miles southwest of Tucumcari, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Northeastern De Baca, Eastern Guadalupe and Southwestern Quay Counties.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 5:45PM MDT by NWS Albuquerque NM\nExpires: 2026-06-07 00:15 Z\nAt 545 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Montoya, or 28 miles southwest of Tucumcari, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Northeastern De Baca, Eastern Guadalupe and Southwestern Quay Counties.\nGenerated: 2026-06-07 00:00:18 UTC"
   34.7800, -104.2200
   34.9300, -104.2200
   34.9700, -104.0200
@@ -68,7 +68,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 5:45PM MDT by NWS Albuquerq
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 7:40PM EDT by NWS Indianapolis IN\nExpires: 2026-06-07 00:15 Z\nAt 740 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Veedersburg, or 10 miles west of Crawfordsville, moving southeast at 15 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crawfordsville, Veedersburg, Waynetown, New Market, Hillsboro, Kingman, Waveland, Wingate, Mellott, Wallace, Alamo, Yeddo, and Shades State Park.  This includes Interstate 74 between mile markers 13 and 45.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 7:40PM EDT by NWS Indianapolis IN\nExpires: 2026-06-07 00:15 Z\nAt 740 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Veedersburg, or 10 miles west of Crawfordsville, moving southeast at 15 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crawfordsville, Veedersburg, Waynetown, New Market, Hillsboro, Kingman, Waveland, Wingate, Mellott, Wallace, Alamo, Yeddo, and Shades State Park.  This includes Interstate 74 between mile markers 13 and 45.\nGenerated: 2026-06-07 00:00:18 UTC"
   40.1100, -87.3300
   40.2200, -87.0500
   40.2100, -87.0300
@@ -80,7 +80,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 7:40PM EDT by NWS Indianapo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:38PM MDT by NWS Rapid City SD\nExpires: 2026-06-07 00:15 Z\nAt 538 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Hulett, or 28 miles northwest of Sundance, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hulett.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 5:38PM MDT by NWS Rapid City SD\nExpires: 2026-06-07 00:15 Z\nAt 538 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Hulett, or 28 miles northwest of Sundance, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hulett.\nGenerated: 2026-06-07 00:00:18 UTC"
   45.0000, -104.7500
   45.0000, -104.5500
   44.9500, -104.2600
@@ -90,7 +90,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 5:38PM MDT by NWS Rapid Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 6:38PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-07 00:30 Z\nAt 638 PM CDT, Doppler radar was tracking a strong thunderstorm near Normandy, or 7 miles south of Quemado, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Eagle Pass, Quemado, Paloma, Radar Base, Normandy, Siesta Acres, Fabrica, Elm Creek, and Seco Mines.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 6:38PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-06-07 00:30 Z\nAt 638 PM CDT, Doppler radar was tracking a strong thunderstorm near Normandy, or 7 miles south of Quemado, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Eagle Pass, Quemado, Paloma, Radar Base, Normandy, Siesta Acres, Fabrica, Elm Creek, and Seco Mines.\nGenerated: 2026-06-07 00:00:18 UTC"
   28.7300, -100.5100
   28.7500, -100.5100
   28.7600, -100.5300
@@ -110,116 +110,7 @@ Line: 2,,"Special Weather Statement issued June 6 at 6:38PM CDT by NWS Austin/Sa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 6:36PM CDT by NWS Norman OK\nExpires: 2026-06-07 00:00 Z\nAt 636 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles south of Sasakwa to 9 miles east of Ada to near Stonewall. Movement was northeast at 10 mph.  HAZARD...Wind gusts of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Allen, Stonewall, Francis, and Sasakwa.\nGenerated: 2026-06-06 23:55:13 UTC"
-  35.0100, -96.4100
-  34.8500, -96.3500
-  34.6600, -96.3800
-  34.5900, -96.6000
-  34.7000, -96.5600
-  34.8700, -96.6500
-  35.0100, -96.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 6:32PM CDT by NWS San Angelo TX\nExpires: 2026-06-07 00:00 Z\nAt 631 PM CDT, Doppler radar was tracking a strong thunderstorm near Santa Anna, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Coleman, Santa Anna, Bangs, Valera, Fisk, and Thrifty.\nGenerated: 2026-06-06 23:55:13 UTC"
-  31.5800, -99.4700
-  31.7300, -99.5900
-  31.9700, -99.2500
-  31.7400, -99.0800
-  31.5800, -99.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 7:28PM EDT by NWS Charleston WV\nExpires: 2026-06-07 00:00 Z\nAt 728 PM EDT, Doppler radar was tracking a strong thunderstorm over New Lexington, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... New Lexington, Corning, and Rendville.\nGenerated: 2026-06-06 23:55:13 UTC"
-  39.6600, -82.2600
-  39.7500, -82.2500
-  39.7100, -81.9800
-  39.5500, -82.0000
-  39.6600, -82.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:26PM MDT by NWS Albuquerque NM\nExpires: 2026-06-07 00:00 Z\nAt 526 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 18 miles southwest of Hayden to 15 miles northwest of Tucumcari, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tucumcari, Logan, Ute Lake State Park and Rosebud.  This includes the following highways... Interstate 40 between Mile Markers 328 and 338. State Road 104 between Mile Markers 88 and 105.\nGenerated: 2026-06-06 23:55:13 UTC"
-  35.3900, -104.0500
-  35.5100, -103.7300
-  35.8600, -103.4600
-  35.7800, -103.3700
-  35.7400, -103.3700
-  35.7400, -103.3300
-  35.5500, -103.1300
-  35.2100, -103.4500
-  35.1300, -103.8000
-  35.3900, -104.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:23PM MDT by NWS Cheyenne WY\nExpires: 2026-06-07 00:00 Z\nAt 523 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Twin Buttes, or 10 miles southeast of Sidney, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Cheyenne County.  This includes Interstate 80 in Nebraska between mile markers 64 and 69.\nGenerated: 2026-06-06 23:55:13 UTC"
-  41.0000, -103.0000
-  41.1600, -102.8400
-  41.0200, -102.6200
-  41.0000, -102.6200
-  41.0000, -103.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:22PM MDT by NWS Denver CO\nExpires: 2026-06-07 00:00 Z\nAt 522 PM MDT, Doppler radar was tracking an area of strong thunderstorms 6 miles northwest of Cottonwood Valley, or 32 miles north of Limon, moving northeast at 10 mph.  HAZARD...Landspouts, wind gusts up to 50 mph, and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cottonwood Valley.\nGenerated: 2026-06-06 23:55:13 UTC"
-  39.5700, -104.0000
-  39.6000, -104.0100
-  39.8300, -103.9800
-  39.7900, -103.7100
-  39.6500, -103.7100
-  39.5100, -103.7800
-  39.4700, -103.9800
-  39.5700, -104.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:19PM MDT by NWS Billings MT\nExpires: 2026-06-07 00:00 Z\nAt 519 PM MDT, Doppler radar was tracking a strong thunderstorm 21 miles west of Alzada, or 39 miles southeast of Broadus, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar and Mesonet indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hammond and Ridge.  Gusty winds will likely occur with minimal to no precipitation.\nGenerated: 2026-06-06 23:55:13 UTC"
-  45.0500, -105.0400
-  45.3700, -104.8900
-  45.2900, -104.4500
-  45.0000, -104.6300
-  45.0000, -105.0400
-  45.0500, -105.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:14PM MDT by NWS Salt Lake City UT\nExpires: 2026-06-07 00:00 Z\nAt 512 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles west of Utah Test and Training Range South to 18 miles west of Dugway Proving Ground Test Range. Movement was north at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Utah Test and Training Range South, Knolls, Utah Test and Training Range North, Clive, Dugway Proving Ground Test Range, and Bonneville Salt Flats.  This includes Interstate 80 in Utah between mile markers 14 and 65.\nGenerated: 2026-06-06 23:55:13 UTC"
-  41.1200, -113.6400
-  41.0100, -113.0100
-  40.6300, -112.7200
-  40.0500, -113.5800
-  40.5300, -113.8800
-  41.1200, -113.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 7:13PM EDT by NWS Upton NY\nExpires: 2026-06-07 00:00 Z\nAt 712 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Walden to near Sloatsburg to Millington. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New City, Newburgh, Middletown, Ossining, Peekskill, Haverstraw, Mahopac, Monroe, Walden, West Point, Warwick, Goshen, Sloatsburg, Cold Spring, and Howells.\nGenerated: 2026-06-06 23:55:13 UTC"
-  41.6300, -74.2500
-  41.6000, -74.2500
-  41.5800, -74.1300
-  41.6100, -74.1300
-  41.6000, -74.0900
-  41.6100, -74.0700
-  41.5800, -74.0500
-  41.5900, -73.9500
-  41.5300, -74.0000
-  41.4600, -74.0000
-  41.4400, -73.9800
-  41.4900, -73.9300
-  41.5100, -73.6900
-  41.2300, -73.7100
-  41.1100, -73.8500
-  41.1700, -74.2900
-  41.3300, -74.6400
-  41.5000, -74.5800
-  41.5000, -74.4800
-  41.5700, -74.4200
-  41.6300, -74.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 7:11PM EDT by NWS Cleveland OH\nExpires: 2026-06-07 00:15 Z\nAt 711 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Genoa to 6 miles northwest of New London. Movement was south at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sandusky, Norwalk, Fremont, Port Clinton, Bellevue, Clyde, Northwood, Oak Harbor, Gibsonburg, Genoa, Woodville, Elmore, Northern Milan, Milan, Castalia, Ballville, Monroeville, Millbury, Berlin Heights, and Bay View.\nGenerated: 2026-06-06 23:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 6 at 7:11PM EDT by NWS Cleveland OH\nExpires: 2026-06-07 00:15 Z\nAt 711 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Genoa to 6 miles northwest of New London. Movement was south at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sandusky, Norwalk, Fremont, Port Clinton, Bellevue, Clyde, Northwood, Oak Harbor, Gibsonburg, Genoa, Woodville, Elmore, Northern Milan, Milan, Castalia, Ballville, Monroeville, Millbury, Berlin Heights, and Bay View.\nGenerated: 2026-06-07 00:00:18 UTC"
   41.6200, -83.4200
   41.6200, -83.2600
   41.5200, -82.9700
@@ -240,54 +131,4 @@ Line: 2,,"Special Weather Statement issued June 6 at 7:11PM EDT by NWS Cleveland
   41.2600, -82.9800
   41.4200, -83.4200
   41.6200, -83.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 6:10PM CDT by NWS Norman OK\nExpires: 2026-06-07 00:00 Z\nAt 610 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Gene Autry to 6 miles south of Willis to 7 miles northeast of Whitesboro. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madill, Tishomingo, Kingston, Dickson, Colbert, Mannsville, Ravia, Silo, Milburn, Gene Autry, Mead, Hendrix, Cartwright, Woodville, Reagan, Lebanon, Russett, Willis, Little City, and Lake Texoma.\nGenerated: 2026-06-06 23:55:13 UTC"
-  33.7800, -96.4400
-  33.7700, -96.5000
-  33.8200, -96.5300
-  33.8400, -96.6200
-  33.8500, -96.6300
-  33.8800, -96.5900
-  33.9000, -96.5900
-  33.9200, -96.6700
-  33.8400, -96.7000
-  33.8300, -96.7600
-  33.8700, -96.8000
-  33.8700, -96.8300
-  33.8500, -96.8500
-  33.8700, -96.8800
-  33.9600, -96.9200
-  33.9400, -96.9800
-  34.3100, -97.0600
-  34.3800, -96.5700
-  33.7900, -96.4000
-  33.7600, -96.4100
-  33.7800, -96.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 6 at 5:55PM CDT by NWS Fort Worth TX\nExpires: 2026-06-07 00:00 Z\nAt 555 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Callisburg to Fort Worth. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea to half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Fort Worth, Denton, Flower Mound, Haltom City, Keller, Hurst, Southlake, Watauga, Colleyville, and Corinth around 600 PM CDT. Bedford, Grapevine, Highland Village, Pilot Point, Hickory Creek, Shady Shores, Aubrey, Collinsville, and Cross Roads around 605 PM CDT. Lewisville, Euless, Lake Dallas, and Krugerville around 610 PM CDT. Arlington, Little Elm, Pottsboro, and DFW Intl Airport around 615 PM CDT. Irving, Coppell, The Colony, and Lake Lewisville around 620 PM CDT. Dallas, Grand Prairie, Frisco, Prosper, Celina, and Hackberry around 625 PM CDT. Carrollton, Sherman, Gunter, Hebron, and Dorchester around 630 PM CDT. Farmers Branch, Denison, and Eisenhower State Park around 635 PM CDT.  Other locations impacted by these storms include Preston, Tioga, Valley View, Ida, Sadler, Elmont, Mountain Creek Lake, Locust, Providence Village, and Ponder.  This includes the following highways... Interstate 35 between mile markers 468 and 503. Interstate 35W between mile markers 47 and 85. Interstate 35E between mile markers 422 and 466. Interstate 20 between mile markers 427 and 431. Interstate 30 between mile markers 6 and 51. Interstate 45 between mile markers 280 and 284.\nGenerated: 2026-06-06 23:55:13 UTC"
-  33.9600, -96.9100
-  33.8700, -96.8800
-  33.8700, -96.8000
-  33.8200, -96.7600
-  33.8400, -96.6900
-  33.9200, -96.6700
-  33.9000, -96.5900
-  33.8400, -96.6200
-  33.7700, -96.5000
-  33.7600, -96.4100
-  32.7100, -96.7300
-  32.6800, -97.4900
-  33.7500, -97.1800
-  33.7200, -97.1600
-  33.7300, -97.0900
-  33.8000, -97.1000
-  33.8200, -97.0500
-  33.8500, -97.0900
-  33.8500, -97.0100
-  33.9600, -96.9800
-  33.9600, -96.9100
 End:
