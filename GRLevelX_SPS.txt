@@ -3,9 +3,45 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-07 19:25:12 UTC
+; Generated: 2026-06-07 19:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 7 at 2:15PM CDT by NWS Little Rock AR\nExpires: 2026-06-07 20:00 Z\nAt 214 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northwest of Opal to near Caney Creek Wilderness. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Ida...                      Glenwood... Amity...                          Norman... Oden...                           Opal... Mimosa...                         Little Missouri Falls Recreatio... Shady...                          Bard Springs Recreation Area... Caney Creek Wilderness...         Mauldin... Albert Pike Recreation Area...    Black Springs... Big Fork...                       Board Camp... Ink...                            Fannie... Lodi...                           Pine Ridge...\nGenerated: 2026-06-07 19:25:12 UTC"
+Line: 2,,"Special Weather Statement issued June 7 at 2:27PM CDT by NWS Shreveport LA\nExpires: 2026-06-07 20:00 Z\nAt 227 PM CDT, Doppler radar was tracking a strong thunderstorm over Omaha, or 14 miles east of Mount Pleasant, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... New Boston, De Kalb, Naples, Omaha, Dalby Springs, Us 259 And I 30 Intersection and Spring Hill.\nGenerated: 2026-06-07 19:30:19 UTC"
+  33.1100, -94.8100
+  33.2700, -94.8100
+  33.3200, -94.7800
+  33.3200, -94.7600
+  33.3300, -94.7500
+  33.3700, -94.7500
+  33.6100, -94.6000
+  33.4100, -94.3000
+  33.2700, -94.5400
+  33.2600, -94.5700
+  33.2500, -94.5700
+  33.2600, -94.6000
+  33.2500, -94.6200
+  33.2600, -94.6500
+  33.2000, -94.6500
+  33.1100, -94.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 7 at 1:25PM MDT by NWS Riverton WY\nExpires: 2026-06-07 20:00 Z\nAt 125 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Worland Municipal Airport, which is 8 miles southeast of Worland, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Washakie County, including the following locations... Wigwam Fish Rearing Station.\nGenerated: 2026-06-07 19:30:19 UTC"
+  44.1200, -107.4300
+  44.1100, -107.4300
+  44.1100, -107.4100
+  44.0900, -107.4000
+  44.0700, -107.3600
+  44.0600, -107.3700
+  44.0500, -107.3600
+  43.9100, -107.7300
+  43.9200, -107.8600
+  43.9800, -107.9100
+  44.2400, -107.7700
+  44.1200, -107.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 7 at 2:15PM CDT by NWS Little Rock AR\nExpires: 2026-06-07 20:00 Z\nAt 214 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northwest of Opal to near Caney Creek Wilderness. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Ida...                      Glenwood... Amity...                          Norman... Oden...                           Opal... Mimosa...                         Little Missouri Falls Recreatio... Shady...                          Bard Springs Recreation Area... Caney Creek Wilderness...         Mauldin... Albert Pike Recreation Area...    Black Springs... Big Fork...                       Board Camp... Ink...                            Fannie... Lodi...                           Pine Ridge...\nGenerated: 2026-06-07 19:30:19 UTC"
   34.7100, -94.1300
   34.7300, -93.3700
   34.4000, -93.3900
@@ -17,14 +53,4 @@ Line: 2,,"Special Weather Statement issued June 7 at 2:15PM CDT by NWS Little Ro
   34.3500, -93.9400
   34.3600, -94.1400
   34.7100, -94.1300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 7 at 12:53PM MDT by NWS Riverton WY\nExpires: 2026-06-07 19:30 Z\nAt 1253 PM MDT, Doppler radar was tracking a strong thunderstorm over Lucerne, which is near Thermopolis, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of east central Hot Springs and central Washakie Counties.\nGenerated: 2026-06-07 19:25:12 UTC"
-  43.6800, -108.1000
-  43.6800, -108.2300
-  43.7500, -108.3300
-  44.0100, -108.1100
-  43.8800, -107.6800
-  43.6800, -108.1000
 End:
