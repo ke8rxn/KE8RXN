@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-08 08:10:16 UTC
+; Generated: 2026-06-08 08:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 1:53AM MDT by NWS North Platte NE\nExpires: 2026-06-08 08:45 Z\nAt 152 AM MDT, Doppler radar was tracking a strong thunderstorm over Crescent Lake National Wildlife Refuge, or 22 miles north of Oshkosh, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crescent Lake National Wildlife Refuge, Mumper, Rackett, Dogtown Flats, Deer Lake, Adams Flats, and Britton Lake.\nGenerated: 2026-06-08 08:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:14AM CDT by NWS Aberdeen SD\nExpires: 2026-06-08 08:45 Z\nAt 314 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Stratford to near Chelsea to near Faulkton to 10 miles east of Stone Lake. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Redfield, Ipswich, Faulkton, Warner, Mina Lake Rec Area, Mellette, Northville, Conde, Pembrook Colony, Ashton, Brentwood Colony, Evergreen Colony, Cresbard, Mansfield, Brentford, Athol, Zell, Orient, Seneca, and Tolstoy.\nGenerated: 2026-06-08 08:15:17 UTC"
+  45.1300, -98.0300
+  44.9100, -98.4000
+  44.7600, -98.8400
+  44.6100, -99.3600
+  45.2700, -99.6700
+  45.4200, -99.2300
+  45.5200, -98.9100
+  45.3400, -98.4600
+  45.1300, -98.0300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 8 at 1:53AM MDT by NWS North Platte NE\nExpires: 2026-06-08 08:45 Z\nAt 152 AM MDT, Doppler radar was tracking a strong thunderstorm over Crescent Lake National Wildlife Refuge, or 22 miles north of Oshkosh, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Crescent Lake National Wildlife Refuge, Mumper, Rackett, Dogtown Flats, Deer Lake, Adams Flats, and Britton Lake.\nGenerated: 2026-06-08 08:15:17 UTC"
   41.5700, -102.5700
   41.9000, -102.4700
   41.8800, -101.9700
@@ -14,21 +27,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 1:53AM MDT by NWS North Pla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 2:52AM CDT by NWS Paducah KY\nExpires: 2026-06-08 08:15 Z\nAt 252 AM CDT, Doppler radar was tracking a strong thunderstorm over Fremont, or 7 miles southwest of Van Buren, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Van Buren and Fremont.\nGenerated: 2026-06-08 08:10:16 UTC"
-  37.0200, -91.2200
-  37.0900, -91.0900
-  37.1000, -91.0100
-  37.1000, -90.9600
-  37.0500, -90.9600
-  37.0500, -90.7900
-  36.9500, -90.7300
-  36.8400, -91.1600
-  36.9400, -91.2200
-  37.0200, -91.2200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 2:45AM CDT by NWS Aberdeen SD\nExpires: 2026-06-08 08:30 Z\nAt 244 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hecla to near Westport to near Mina Lake Rec Area. Movement was southeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Aberdeen, Groton, Mina Lake Rec Area, Hecla, Frederick, Bath, Sunset Colony, Columbia, Westport, Claremont, Newport Colony, Putney, Hutterville Colony, Stratford, Barnard, Houghton, Tacoma Park, Amherst, Sand Lake Wildlife Refuge, and Richmond Lake Rec Area.\nGenerated: 2026-06-08 08:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 2:45AM CDT by NWS Aberdeen SD\nExpires: 2026-06-08 08:30 Z\nAt 244 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hecla to near Westport to near Mina Lake Rec Area. Movement was southeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Aberdeen, Groton, Mina Lake Rec Area, Hecla, Frederick, Bath, Sunset Colony, Columbia, Westport, Claremont, Newport Colony, Putney, Hutterville Colony, Stratford, Barnard, Houghton, Tacoma Park, Amherst, Sand Lake Wildlife Refuge, and Richmond Lake Rec Area.\nGenerated: 2026-06-08 08:15:17 UTC"
   45.6400, -97.8800
   45.5900, -97.9200
   45.5900, -97.9800
@@ -43,26 +42,4 @@ Line: 2,,"Special Weather Statement issued June 8 at 2:45AM CDT by NWS Aberdeen 
   45.9400, -98.5500
   45.9300, -97.7800
   45.6400, -97.8800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 2:41AM CDT by NWS Tulsa OK\nExpires: 2026-06-08 08:15 Z\nAt 241 AM CDT, Doppler radar indicated a strong thunderstorm 3 miles southwest of Honey Creek State Park, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Jay...                            Grove... Honey Creek State Park...         Dodge... Cayuga...                         Zena...\nGenerated: 2026-06-08 08:10:16 UTC"
-  36.5000, -94.6200
-  36.4500, -94.6100
-  36.4500, -94.9000
-  36.5800, -94.9200
-  36.6700, -94.6700
-  36.6700, -94.6200
-  36.5000, -94.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 2:40AM CDT by NWS Aberdeen SD\nExpires: 2026-06-08 08:15 Z\nAt 240 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Mina Lake Rec Area to 6 miles southeast of Pembrook Colony to Norbeck. Movement was southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ipswich, Faulkton, Warner, Mina Lake Rec Area, Mellette, Northville, Pembrook Colony, Evergreen Colony, Cresbard, Mansfield, Orient, Chelsea, Devoe, Mina, Miranda, Blumengard Colony, South Scatterwood Lake, Cravens Corner, and North Scatterwood Lake.\nGenerated: 2026-06-08 08:10:16 UTC"
-  45.2500, -98.1900
-  45.0400, -98.5800
-  44.8900, -99.0400
-  44.9000, -99.1200
-  45.4300, -99.2600
-  45.5700, -99.0200
-  45.2500, -98.1900
 End:
