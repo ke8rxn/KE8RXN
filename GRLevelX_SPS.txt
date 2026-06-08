@@ -3,12 +3,44 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-08 06:40:15 UTC
+; Generated: 2026-06-08 06:45:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 1:15AM CDT by NWS Aberdeen SD\nExpires: 2026-06-08 06:45 Z\nAt 115 AM CDT, Doppler radar was tracking a strong thunderstorm over Herreid, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Eureka, Herreid, Mound City, Artas, and Greenway.\nGenerated: 2026-06-08 06:40:15 UTC"
-  45.6000, -100.3400
-  45.9400, -100.0000
-  45.9400, -99.4900
-  45.6000, -99.6200
-  45.6000, -100.3400
+Line: 2,,"Special Weather Statement issued June 8 at 12:44AM MDT by NWS Cheyenne WY\nExpires: 2026-06-08 07:30 Z\nAt 1244 AM MDT, Doppler radar was tracking a strong thunderstorm near Bridgeport State Recreation Area, or 27 miles east of Scottsbluff, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bridgeport, Bridgeport State Recreation Area, Northport, Angora, and The Intersection Of Highway 385 And L62.\nGenerated: 2026-06-08 06:45:17 UTC"
+  41.6600, -103.1800
+  41.8400, -103.2900
+  42.0000, -102.8000
+  41.7600, -102.6800
+  41.6600, -103.1800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 8 at 1:42AM CDT by NWS Aberdeen SD\nExpires: 2026-06-08 07:15 Z\nAt 141 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Glenham to 6 miles southwest of Selby to 10 miles southwest of Hoven to near Gorman. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mobridge, Gettysburg, Selby, Hoven, Java, Glenham, Lebanon, Akaska, Tolstoy, Lowry, New Everets Resort, Gorman, Indian Creek Rec Area, Revheim Bay Rec Area, and Lake Hiddenwood Rec Area.\nGenerated: 2026-06-08 06:45:17 UTC"
+  45.5400, -99.7300
+  45.2700, -99.5800
+  44.9200, -99.6100
+  44.9200, -100.0800
+  45.2600, -100.1800
+  45.3700, -100.2800
+  45.3900, -100.2800
+  45.4400, -100.3300
+  45.4900, -100.3500
+  45.5100, -100.3800
+  45.5100, -100.4100
+  45.5700, -100.4600
+  45.5700, -100.4500
+  45.7000, -99.9400
+  45.5400, -99.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 8 at 1:39AM CDT by NWS Tulsa OK\nExpires: 2026-06-08 07:15 Z\nAt 139 AM CDT, Doppler radar indicated a strong thunderstorm 4 miles southeast of Wann, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... South Coffeyville...              Lenapah...\nGenerated: 2026-06-08 06:45:17 UTC"
+  36.8500, -95.4300
+  36.8300, -95.4300
+  36.7800, -95.7400
+  36.9400, -95.8100
+  36.9400, -95.7900
+  36.9600, -95.7900
+  37.0000, -95.7100
+  37.0000, -95.5100
+  36.8500, -95.4300
 End:
