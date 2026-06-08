@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-08 21:00:19 UTC
+; Generated: 2026-06-08 21:05:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:58PM CDT by NWS Lubbock TX\nExpires: 2026-06-08 21:30 Z\nAt 358 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles west of Cotton Center, or 13 miles south of Olton, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hale Center, Cotton Center, and Spade.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:58PM CDT by NWS Lubbock TX\nExpires: 2026-06-08 21:30 Z\nAt 358 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles west of Cotton Center, or 13 miles south of Olton, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hale Center, Cotton Center, and Spade.\nGenerated: 2026-06-08 21:05:14 UTC"
   33.8800, -102.1400
   33.9700, -102.2100
   34.1700, -101.9800
@@ -14,7 +14,16 @@ Line: 2,,"Special Weather Statement issued June 8 at 3:58PM CDT by NWS Lubbock T
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:57PM CDT by NWS Jackson MS\nExpires: 2026-06-08 22:00 Z\nAt 356 PM CDT, Doppler radar was tracking a strong thunderstorm near Dermott, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Winterville, Scott, and Lamont around 425 PM CDT. Greenville around 430 PM CDT.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 2:57PM MDT by NWS Cheyenne WY\nExpires: 2026-06-08 21:30 Z\nAt 256 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Bordeaux, or 15 miles south of Wheatland, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Slater, Bordeaux, and Antelope Gap.  This includes Interstate 25 in Wyoming between mile markers 58 and 72.\nGenerated: 2026-06-08 21:05:14 UTC"
+  41.7200, -105.1300
+  41.7900, -105.1600
+  42.0600, -104.8100
+  41.8000, -104.7100
+  41.7200, -105.1300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 8 at 3:57PM CDT by NWS Jackson MS\nExpires: 2026-06-08 22:00 Z\nAt 356 PM CDT, Doppler radar was tracking a strong thunderstorm near Dermott, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Winterville, Scott, and Lamont around 425 PM CDT. Greenville around 430 PM CDT.\nGenerated: 2026-06-08 21:05:14 UTC"
   33.6300, -91.0100
   33.3100, -91.0500
   33.3900, -91.4600
@@ -33,16 +42,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 3:57PM CDT by NWS Jackson M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 2:57PM MDT by NWS Cheyenne WY\nExpires: 2026-06-08 21:30 Z\nAt 256 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Bordeaux, or 15 miles south of Wheatland, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Slater, Bordeaux, and Antelope Gap.  This includes Interstate 25 in Wyoming between mile markers 58 and 72.\nGenerated: 2026-06-08 21:00:19 UTC"
-  41.7200, -105.1300
-  41.7900, -105.1600
-  42.0600, -104.8100
-  41.8000, -104.7100
-  41.7200, -105.1300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:55PM CDT by NWS Lubbock TX\nExpires: 2026-06-08 21:30 Z\nAt 355 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Spade, or 14 miles south of Olton, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hale Center, Cotton Center, and Spade.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:55PM CDT by NWS Lubbock TX\nExpires: 2026-06-08 21:30 Z\nAt 355 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Spade, or 14 miles south of Olton, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hale Center, Cotton Center, and Spade.\nGenerated: 2026-06-08 21:05:14 UTC"
   33.8800, -102.1400
   33.9700, -102.2100
   34.1700, -101.9800
@@ -51,7 +51,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 3:55PM CDT by NWS Lubbock T
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:54PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-08 21:45 Z\nAt 354 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Muscoda to 11 miles southwest of Spring Green to near Dodgeville to 14 miles northeast of Belmont to near Mineral Point. Movement was north at 25 mph.  HAZARD...Brief funnel clouds and wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dodgeville, Mineral Point, Highland, Avoca, Orion, Linden, Cobb, Clyde, Blackhawk Lake Rec Area, London, Governor Dodge St Park, and Edmund.  This includes U.S. Highway 151 between mile markers 33 and 44.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:54PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-08 21:45 Z\nAt 354 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Muscoda to 11 miles southwest of Spring Green to near Dodgeville to 14 miles northeast of Belmont to near Mineral Point. Movement was north at 25 mph.  HAZARD...Brief funnel clouds and wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dodgeville, Mineral Point, Highland, Avoca, Orion, Linden, Cobb, Clyde, Blackhawk Lake Rec Area, London, Governor Dodge St Park, and Edmund.  This includes U.S. Highway 151 between mile markers 33 and 44.\nGenerated: 2026-06-08 21:05:14 UTC"
   43.2000, -90.4300
   43.2100, -90.2900
   43.1900, -90.2800
@@ -67,7 +67,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 3:54PM CDT by NWS Milwaukee
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 4:53PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-08 21:30 Z\nAt 452 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Salisbury, or near Cleveland, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... East Statesville, Cooleemee, Cleveland, Mount Ulla, Piedmont Research Station, Woodleaf, and Cool Springs.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 4:53PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-08 21:30 Z\nAt 452 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Salisbury, or near Cleveland, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... East Statesville, Cooleemee, Cleveland, Mount Ulla, Piedmont Research Station, Woodleaf, and Cool Springs.\nGenerated: 2026-06-08 21:05:14 UTC"
   35.8200, -80.5100
   35.6400, -80.5700
   35.6700, -80.8500
@@ -76,7 +76,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 4:53PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:50PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-08 21:45 Z\nAt 349 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Mineral Point to 10 miles southeast of Dodgeville to near Blanchardville to near Monroe. Movement was north at 25 mph.  HAZARD...Brief funnel clouds and wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Monroe, Dodgeville, New Glarus, Argyle, Blanchardville, Barneveld, Blue Mounds, Ridgeway, Waldwick, Hollandale, Browntown, Jordan Center, Blue Mound St Park, Yellowstone Lake St Park, Jonesdale, and Woodford.  This includes the following highways... U.S. Highway 18 between mile markers 49 and 63. U.S. Highway 151 between mile markers 45 and 47.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:50PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-08 21:45 Z\nAt 349 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Mineral Point to 10 miles southeast of Dodgeville to near Blanchardville to near Monroe. Movement was north at 25 mph.  HAZARD...Brief funnel clouds and wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Monroe, Dodgeville, New Glarus, Argyle, Blanchardville, Barneveld, Blue Mounds, Ridgeway, Waldwick, Hollandale, Browntown, Jordan Center, Blue Mound St Park, Yellowstone Lake St Park, Jonesdale, and Woodford.  This includes the following highways... U.S. Highway 18 between mile markers 49 and 63. U.S. Highway 151 between mile markers 45 and 47.\nGenerated: 2026-06-08 21:05:14 UTC"
   42.6600, -89.9100
   42.7700, -89.9900
   42.7700, -90.1300
@@ -92,17 +92,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 3:50PM CDT by NWS Milwaukee
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:46PM CDT by NWS Lubbock TX\nExpires: 2026-06-08 21:15 Z\nAt 345 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Levelland, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Levelland, Whitharral, Smyer, and Opdyke West.\nGenerated: 2026-06-08 21:00:19 UTC"
-  33.7100, -102.5000
-  33.8300, -102.2100
-  33.8300, -102.2000
-  33.5400, -102.1200
-  33.5400, -102.5000
-  33.7100, -102.5000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:46PM CDT by NWS Lincoln IL\nExpires: 2026-06-08 21:15 Z\nAt 345 PM CDT, Doppler radar was tracking a strong thunderstorm near Willow Hill, or 8 miles northeast of Newton, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newton, Oblong, Willow Hill, Hidalgo, Bogota, Hunt City, Stoy, Yale, Rose Hill, and Sam Parr State Park.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:46PM CDT by NWS Lincoln IL\nExpires: 2026-06-08 21:15 Z\nAt 345 PM CDT, Doppler radar was tracking a strong thunderstorm near Willow Hill, or 8 miles northeast of Newton, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newton, Oblong, Willow Hill, Hidalgo, Bogota, Hunt City, Stoy, Yale, Rose Hill, and Sam Parr State Park.\nGenerated: 2026-06-08 21:05:14 UTC"
   38.9000, -88.3000
   39.1600, -88.2100
   39.1700, -88.1500
@@ -112,7 +102,17 @@ Line: 2,,"Special Weather Statement issued June 8 at 3:46PM CDT by NWS Lincoln I
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 4:43PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-08 21:30 Z\nAt 443 PM EDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Huntersville, or over Ramsey Creek Park, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Huntersville, Cornelius, Davidson, Westport, Lake Norman, Denver, Ramsey Creek Park, Lowesville, Terrell, and Lucia.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:46PM CDT by NWS Lubbock TX\nExpires: 2026-06-08 21:15 Z\nAt 345 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Levelland, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Levelland, Whitharral, Smyer, and Opdyke West.\nGenerated: 2026-06-08 21:05:14 UTC"
+  33.7100, -102.5000
+  33.8300, -102.2100
+  33.8300, -102.2000
+  33.5400, -102.1200
+  33.5400, -102.5000
+  33.7100, -102.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 8 at 4:43PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-08 21:30 Z\nAt 443 PM EDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Huntersville, or over Ramsey Creek Park, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Huntersville, Cornelius, Davidson, Westport, Lake Norman, Denver, Ramsey Creek Park, Lowesville, Terrell, and Lucia.\nGenerated: 2026-06-08 21:05:14 UTC"
   35.5300, -80.8000
   35.3700, -80.8500
   35.3700, -81.1300
@@ -121,7 +121,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 4:43PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 4:42PM EDT by NWS Raleigh NC\nExpires: 2026-06-08 21:15 Z\nAt 441 PM EDT, Doppler radar was tracking a strong thunderstorm over Carthage, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carthage, Whispering Pines, Robbins, and Seven Lakes.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 4:42PM EDT by NWS Raleigh NC\nExpires: 2026-06-08 21:15 Z\nAt 441 PM EDT, Doppler radar was tracking a strong thunderstorm over Carthage, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carthage, Whispering Pines, Robbins, and Seven Lakes.\nGenerated: 2026-06-08 21:05:14 UTC"
   35.4200, -79.3300
   35.2700, -79.3300
   35.2500, -79.6000
@@ -130,7 +130,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 4:42PM EDT by NWS Raleigh N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:42PM CDT by NWS La Crosse WI\nExpires: 2026-06-08 22:00 Z\nAt 340 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Prairie Du Chien to 11 miles south of Muscoda. Movement was north at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Prairie Du Chien around 345 PM CDT. Boscobel around 355 PM CDT. Muscoda around 400 PM CDT. Richland Center around 425 PM CDT.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:42PM CDT by NWS La Crosse WI\nExpires: 2026-06-08 22:00 Z\nAt 340 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Prairie Du Chien to 11 miles south of Muscoda. Movement was north at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Prairie Du Chien around 345 PM CDT. Boscobel around 355 PM CDT. Muscoda around 400 PM CDT. Richland Center around 425 PM CDT.\nGenerated: 2026-06-08 21:05:14 UTC"
   43.4200, -91.5400
   43.4200, -90.6800
   43.4300, -90.6700
@@ -146,7 +146,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 3:42PM CDT by NWS La Crosse
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 4:40PM EDT by NWS Raleigh NC\nExpires: 2026-06-08 21:15 Z\nAt 439 PM EDT, Doppler radar was tracking a strong thunderstorm near Troy, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Troy and Lake Tillery.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 4:40PM EDT by NWS Raleigh NC\nExpires: 2026-06-08 21:15 Z\nAt 439 PM EDT, Doppler radar was tracking a strong thunderstorm near Troy, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Troy and Lake Tillery.\nGenerated: 2026-06-08 21:05:14 UTC"
   35.4200, -80.0900
   35.4700, -79.8700
   35.2900, -79.7600
@@ -160,7 +160,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 4:40PM EDT by NWS Raleigh N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 4:36PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-08 21:15 Z\nAt 435 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms centered 8 miles north of Hickory, or near Bethlehem, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, Lenoir, St. Stephens, Sawmills, Granite Falls, Bethlehem, Hudson, Rhodhiss, Cedar Rock, and Lake Hickory.\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 4:36PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-08 21:15 Z\nAt 435 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms centered 8 miles north of Hickory, or near Bethlehem, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, Lenoir, St. Stephens, Sawmills, Granite Falls, Bethlehem, Hudson, Rhodhiss, Cedar Rock, and Lake Hickory.\nGenerated: 2026-06-08 21:05:14 UTC"
   35.8900, -81.1900
   35.7400, -81.2500
   35.7600, -81.5300
@@ -170,7 +170,7 @@ Line: 2,,"Special Weather Statement issued June 8 at 4:36PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 3:30PM CDT by NWS Little Rock AR\nExpires: 2026-06-08 21:15 Z\nAt 330 PM CDT, Doppler radar was tracking a strong thunderstorm near Rohwer, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Rohwer...                         Arkansas City... Lucca Landing...                  McGehee... Jersey Point...                   Kelso... McArthur...                       Masonville...\nGenerated: 2026-06-08 21:00:19 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 3:30PM CDT by NWS Little Rock AR\nExpires: 2026-06-08 21:15 Z\nAt 330 PM CDT, Doppler radar was tracking a strong thunderstorm near Rohwer, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Rohwer...                         Arkansas City... Lucca Landing...                  McGehee... Jersey Point...                   Kelso... McArthur...                       Masonville...\nGenerated: 2026-06-08 21:05:14 UTC"
   33.7600, -91.0200
   33.7800, -91.1300
   33.7700, -91.1500
