@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-08 14:10:21 UTC
+; Generated: 2026-06-08 14:15:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 8:49AM CDT by NWS Hastings NE\nExpires: 2026-06-08 14:30 Z\nAt 848 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles southwest of Oconto to near Cozad to near Eustis. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Cozad, Gothenburg, Eddyville, Willow Island, and Farnam.  This includes Interstate 80 between mile markers 209 and 240.\nGenerated: 2026-06-08 14:10:21 UTC"
+Line: 2,,"Special Weather Statement issued June 8 at 9:13AM CDT by NWS Tulsa OK\nExpires: 2026-06-08 14:45 Z\nAt 913 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 6 miles northwest of Tahlequah to 5 miles north of Christie. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tahlequah...                      Stilwell... Westville...                      Hulbert... Watts...                          Adair State Park... Eldon...                          Proctor... Christie...                       Cincinnati... Maryetta...                       Baron... Ballard...                        Lost City... Summers...                        Morrow...\nGenerated: 2026-06-08 14:15:18 UTC"
+  35.7700, -95.0900
+  35.8600, -94.3900
+  36.1100, -94.5600
+  36.0300, -95.1900
+  35.7700, -95.0900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 8 at 8:49AM CDT by NWS Hastings NE\nExpires: 2026-06-08 14:30 Z\nAt 848 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles southwest of Oconto to near Cozad to near Eustis. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Cozad, Gothenburg, Eddyville, Willow Island, and Farnam.  This includes Interstate 80 between mile markers 209 and 240.\nGenerated: 2026-06-08 14:15:18 UTC"
   41.0500, -100.2200
   41.0500, -99.5200
   40.8700, -99.6200
@@ -13,38 +22,4 @@ Line: 2,,"Special Weather Statement issued June 8 at 8:49AM CDT by NWS Hastings 
   40.7000, -99.7100
   40.7000, -100.2200
   41.0500, -100.2200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 8:48AM CDT by NWS Tulsa OK\nExpires: 2026-06-08 14:15 Z\nAt 848 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles northeast of Peggs to 3 miles east of Scraper. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tahlequah...                      Stilwell... Oaks...                           Adair State Park... Eldon...                          Proctor... Christie...                       Scraper... Peggs...                          Baron... Maryetta...\nGenerated: 2026-06-08 14:10:21 UTC"
-  35.7900, -94.5000
-  35.7700, -95.1000
-  36.1500, -95.1100
-  36.1600, -94.9600
-  36.1600, -94.7500
-  35.7900, -94.5000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 8 at 8:27AM CDT by NWS Tulsa OK\nExpires: 2026-06-08 14:15 Z\nAt 827 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Leach to 2 miles north of Blackburn to 3 miles west of Kingston. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Fayetteville...                   Springdale... Siloam Springs...                 Stilwell... Huntsville...                     Farmington... Prairie Grove...                  Elkins... Tontitown...                      West Fork... Lincoln...                        Westville... Greenland...                      West Siloam Springs... Kansas...                         Winslow... Watts...                          Oaks... St. Paul...                       Hindsville...  This includes Interstate 49 between mile markers 36 and 73.\nGenerated: 2026-06-08 14:10:21 UTC"
-  35.9500, -93.4900
-  35.9300, -93.4900
-  35.9200, -93.5100
-  35.8800, -93.5100
-  35.8800, -93.5200
-  35.7600, -93.5200
-  35.7700, -93.7000
-  35.6600, -93.7000
-  35.6000, -93.8200
-  35.6200, -93.8400
-  35.6300, -93.8800
-  35.6300, -93.9200
-  35.8500, -94.8300
-  36.1600, -95.0200
-  36.2500, -95.0100
-  36.2000, -94.1700
-  36.1100, -93.5500
-  36.0700, -93.4500
-  35.9700, -93.4500
-  35.9500, -93.4900
 End:
