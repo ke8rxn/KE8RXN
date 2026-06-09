@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-09 18:05:22 UTC
+; Generated: 2026-06-09 18:10:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 9 at 12:52PM CDT by NWS Paducah KY\nExpires: 2026-06-09 18:30 Z\nAt 1251 PM CDT, Doppler radar was tracking a strong thunderstorm over Wickliffe, moving east at 20 mph. Another storm storm was located southeast of Blandville in northeastern Carlisle County.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wickliffe, Lovelaceville, Lowes, and Blandville.\nGenerated: 2026-06-09 18:05:22 UTC"
+Line: 2,,"Special Weather Statement issued June 9 at 12:52PM CDT by NWS Paducah KY\nExpires: 2026-06-09 18:30 Z\nAt 1251 PM CDT, Doppler radar was tracking a strong thunderstorm over Wickliffe, moving east at 20 mph. Another storm storm was located southeast of Blandville in northeastern Carlisle County.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wickliffe, Lovelaceville, Lowes, and Blandville.\nGenerated: 2026-06-09 18:10:18 UTC"
   36.9000, -89.1700
   36.9700, -89.1800
   36.9800, -89.1300
@@ -17,7 +17,17 @@ Line: 2,,"Special Weather Statement issued June 9 at 12:52PM CDT by NWS Paducah 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 9 at 1:46PM EDT by NWS Louisville KY\nExpires: 2026-06-09 18:30 Z\nAt 145 PM EDT/1245 PM CDT/, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Campbellsville, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jericho, Windsor, Teddy, Webbs Cross Roads, Gilpin, Cantown, Decatur, Evans Ford, Mannsville, and Honey Acre.\nGenerated: 2026-06-09 18:05:22 UTC"
+Line: 2,,"Special Weather Statement issued June 9 at 11:46AM MDT by NWS Albuquerque NM\nExpires: 2026-06-09 18:15 Z\nAt 1146 AM MDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of McIntosh, or 7 miles southwest of Moriarty, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moriarty, McIntosh, Clines Corners, Chilili, Escabosa and Miera.  This includes the following highways... Interstate 40 between Mile Markers 191 and 220. Highway 285 between Mile Markers 243 and 261.\nGenerated: 2026-06-09 18:10:18 UTC"
+  34.7900, -106.2000
+  34.9400, -106.3400
+  35.2200, -105.8100
+  34.9300, -105.5500
+  34.7800, -106.1900
+  34.7900, -106.2000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 9 at 1:46PM EDT by NWS Louisville KY\nExpires: 2026-06-09 18:30 Z\nAt 145 PM EDT/1245 PM CDT/, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Campbellsville, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jericho, Windsor, Teddy, Webbs Cross Roads, Gilpin, Cantown, Decatur, Evans Ford, Mannsville, and Honey Acre.\nGenerated: 2026-06-09 18:10:18 UTC"
   37.2100, -85.3500
   37.3800, -85.1900
   37.2100, -84.7600
@@ -29,17 +39,7 @@ Line: 2,,"Special Weather Statement issued June 9 at 1:46PM EDT by NWS Louisvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 9 at 11:46AM MDT by NWS Albuquerque NM\nExpires: 2026-06-09 18:15 Z\nAt 1146 AM MDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of McIntosh, or 7 miles southwest of Moriarty, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moriarty, McIntosh, Clines Corners, Chilili, Escabosa and Miera.  This includes the following highways... Interstate 40 between Mile Markers 191 and 220. Highway 285 between Mile Markers 243 and 261.\nGenerated: 2026-06-09 18:05:22 UTC"
-  34.7900, -106.2000
-  34.9400, -106.3400
-  35.2200, -105.8100
-  34.9300, -105.5500
-  34.7800, -106.1900
-  34.7900, -106.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 9 at 1:44PM EDT by NWS Charleston WV\nExpires: 2026-06-09 18:30 Z\nAt 142 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near South Charleston to near Burnwell to near Oceana to 10 miles southeast of Argo. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Charleston, Fayetteville, Welch, Oak Hill, Sissonville, Montgomery, Mullens, Chesapeake, Marmet, Mount Hope, Oceana, Sophia, and Belle.  This includes the following highways... Interstate 79 between mile markers 1 and 21. Interstate 77 in West Virginia between mile markers 96 and 110. Interstate 64 in West Virginia between mile markers 51 and 57. West Virginia Turnpike between mile markers 42 and 95. Route 119 between mile markers 72 and 80. Route 19 between mile markers 1 and 26.\nGenerated: 2026-06-09 18:05:22 UTC"
+Line: 2,,"Special Weather Statement issued June 9 at 1:44PM EDT by NWS Charleston WV\nExpires: 2026-06-09 18:30 Z\nAt 142 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near South Charleston to near Burnwell to near Oceana to 10 miles southeast of Argo. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Charleston, Fayetteville, Welch, Oak Hill, Sissonville, Montgomery, Mullens, Chesapeake, Marmet, Mount Hope, Oceana, Sophia, and Belle.  This includes the following highways... Interstate 79 between mile markers 1 and 21. Interstate 77 in West Virginia between mile markers 96 and 110. Interstate 64 in West Virginia between mile markers 51 and 57. West Virginia Turnpike between mile markers 42 and 95. Route 119 between mile markers 72 and 80. Route 19 between mile markers 1 and 26.\nGenerated: 2026-06-09 18:10:18 UTC"
   37.3000, -82.0300
   37.5800, -81.7300
   37.7800, -81.6400
