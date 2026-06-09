@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-09 08:40:15 UTC
+; Generated: 2026-06-09 08:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 9 at 3:37AM CDT by NWS Topeka KS\nExpires: 2026-06-09 09:00 Z\nAt 337 AM CDT, Doppler radar was tracking a strong thunderstorm near Keats, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Manhattan, Riley, St. George, Tuttle Creek Lake, and Keats.\nGenerated: 2026-06-09 08:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 9 at 3:41AM CDT by NWS Goodland KS\nExpires: 2026-06-09 09:15 Z\nAt 341 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 3 miles northwest of Morland to 4 miles southwest of Hill City. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Strong thunderstorms will be near... Hill City and Morland around 345 AM CDT. Bogue around 355 AM CDT.  Other locations in the path of these storms include Nicodemus.\nGenerated: 2026-06-09 08:45:16 UTC"
+  39.2900, -99.8700
+  39.3500, -100.1600
+  39.4800, -100.1600
+  39.5600, -100.0100
+  39.4900, -99.6000
+  39.3400, -99.6000
+  39.2900, -99.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 9 at 3:37AM CDT by NWS Topeka KS\nExpires: 2026-06-09 09:00 Z\nAt 337 AM CDT, Doppler radar was tracking a strong thunderstorm near Keats, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Manhattan, Riley, St. George, Tuttle Creek Lake, and Keats.\nGenerated: 2026-06-09 08:45:16 UTC"
   39.3800, -96.3500
   39.1700, -96.3800
   39.1700, -96.3900
@@ -15,24 +26,4 @@ Line: 2,,"Special Weather Statement issued June 9 at 3:37AM CDT by NWS Topeka KS
   39.2200, -96.8800
   39.3800, -96.8000
   39.3800, -96.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 9 at 3:22AM CDT by NWS Goodland KS\nExpires: 2026-06-09 08:45 Z\nAt 322 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms 9 miles east of Hoxie, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of east central Sheridan and northwestern Graham Counties, including the following locations... Tasco, Studley, and Penokee.\nGenerated: 2026-06-09 08:40:15 UTC"
-  39.2500, -100.3500
-  39.3800, -100.4100
-  39.5200, -100.0800
-  39.4100, -99.8200
-  39.2500, -100.0100
-  39.2500, -100.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 9 at 1:59AM MDT by NWS Denver CO\nExpires: 2026-06-09 08:45 Z\nAt 159 AM MDT, Doppler radar was tracking a strong thunderstorm 6 miles southeast of Briggsdale, or 27 miles east of Greeley, moving northeast at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Keota and Buckingham.\nGenerated: 2026-06-09 08:40:15 UTC"
-  40.5200, -104.3200
-  40.5600, -104.3800
-  40.8200, -104.1800
-  40.6200, -103.9300
-  40.5200, -104.1300
-  40.5200, -104.3200
 End:
