@@ -3,16 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-10 11:10:19 UTC
+; Generated: 2026-06-10 11:15:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 5:31AM CDT by NWS La Crosse WI\nExpires: 2026-06-10 11:15 Z\nAt 531 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Jump River to 9 miles southeast of Sheldon to near Stanley. Movement was northeast at 70 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Jump River around 535 AM CDT.  Other locations impacted by these storms include Polley, The Mondeaux Flowage, Perkinstown, Highway M And Joe Martin Road, Esadore Lake, Eidsvold, Donald, North Twin Lake, Gilman, and County Roads D And N.\nGenerated: 2026-06-10 11:10:19 UTC"
-  45.1200, -90.0400
-  45.1200, -90.2000
-  45.0300, -90.2000
-  45.0300, -90.3100
-  45.0000, -90.3200
-  44.9000, -90.9200
-  45.3800, -90.9200
-  45.3800, -90.0400
-  45.1200, -90.0400
+Line: 2,,"Special Weather Statement issued June 10 at 6:14AM CDT by NWS La Crosse WI\nExpires: 2026-06-10 11:45 Z\nAt 614 AM CDT, Doppler radar was tracking a strong thunderstorm near Blair, or 11 miles southeast of Whitehall, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Merrillan and Alma Center around 630 AM CDT. Hatfield around 640 AM CDT.  Other locations impacted by this storm include Franklin, Hixton, East Fork Campground, Sand Pillow, Wildcat Mound, Taylor, Highway 10 And Bald Peak Road, Vaudreuil, Lake Arbutus, and Perry Creek Recreation Area.  This includes Interstate 94 between mile markers 102 and 117.\nGenerated: 2026-06-10 11:15:18 UTC"
+  44.1400, -91.1500
+  44.2800, -91.2900
+  44.6300, -90.7700
+  44.4100, -90.5400
+  44.1400, -91.1500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 10 at 7:10AM EDT by NWS Charleston WV\nExpires: 2026-06-10 11:45 Z\nAt 710 AM EDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Lake Vesuvius, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Vesuvius, Milton, Buffalo, Ona, Waterloo, Aid, Crown City, Athalia, Grimms Landing, Green Bottom, Scottown, and Ashton.  This includes Interstate 64 in West Virginia between mile markers 21 and 27.\nGenerated: 2026-06-10 11:15:18 UTC"
+  38.6100, -82.6700
+  38.7400, -82.4500
+  38.6800, -81.9400
+  38.3800, -82.1600
+  38.6100, -82.6700
 End:
