@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-10 06:55:22 UTC
+; Generated: 2026-06-10 07:00:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 1:46AM CDT by NWS Dodge City KS\nExpires: 2026-06-10 08:15 Z\nAt 146 AM CDT, Doppler radar was tracking gusty showers 8 miles southeast of Meade State Park, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph with locally higher gusts of 60 to 65 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Englewood and Acres.\nGenerated: 2026-06-10 06:55:22 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 2:59AM EDT by NWS Charleston WV\nExpires: 2026-06-10 07:30 Z\nAt 259 AM EDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Mill Creek, or 19 miles southwest of Elkins, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mill Creek, Dailey, Beverly, and Huttonsville.\nGenerated: 2026-06-10 07:00:24 UTC"
+  38.6400, -80.1700
+  38.7900, -80.1700
+  38.9100, -79.7400
+  38.6100, -79.7000
+  38.6400, -80.1700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 10 at 1:46AM CDT by NWS Dodge City KS\nExpires: 2026-06-10 08:15 Z\nAt 146 AM CDT, Doppler radar was tracking gusty showers 8 miles southeast of Meade State Park, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph with locally higher gusts of 60 to 65 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Englewood and Acres.\nGenerated: 2026-06-10 07:00:24 UTC"
   37.1400, -100.6500
   37.4200, -98.9100
   37.0000, -98.9000
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 1:46AM CDT by NWS Dodge Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 1:31AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 07:15 Z\nAt 131 AM CDT, Doppler radar was tracking an area of strong thunderstorms near Prinsburg, or 19 miles southwest of Willmar, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Maynard, Renville, Olivia, Clara City, Bird Island, Prinsburg, Hector, Raymond, Kerkhoven, Murdock, Willmar, Cosmos, Greenleaf, Atwater, New London, Spicer, Green Lake, Grove City, Litchfield and Dassel.\nGenerated: 2026-06-10 06:55:22 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 1:31AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 07:15 Z\nAt 131 AM CDT, Doppler radar was tracking an area of strong thunderstorms near Prinsburg, or 19 miles southwest of Willmar, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Maynard, Renville, Olivia, Clara City, Bird Island, Prinsburg, Hector, Raymond, Kerkhoven, Murdock, Willmar, Cosmos, Greenleaf, Atwater, New London, Spicer, Green Lake, Grove City, Litchfield and Dassel.\nGenerated: 2026-06-10 07:00:24 UTC"
   45.1500, -95.6800
   45.4100, -95.4900
   45.1000, -94.2600
@@ -22,40 +31,4 @@ Line: 2,,"Special Weather Statement issued June 10 at 1:31AM CDT by NWS Twin Cit
   44.6500, -94.8700
   45.0200, -95.7700
   45.1500, -95.6800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 2:29AM EDT by NWS Charleston WV\nExpires: 2026-06-10 07:00 Z\nAt 229 AM EDT, Doppler radar was tracking a strong thunderstorm over Holly River State Park, or 13 miles north of Webster Springs, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Holly River State Park, Alexander, Hacker Valley, Kanawha Head, Eden, Helvetia, Pickens, and Cleveland.\nGenerated: 2026-06-10 06:55:22 UTC"
-  38.5700, -80.0200
-  38.5800, -80.4100
-  38.7200, -80.4300
-  38.7300, -80.4300
-  38.7200, -80.4100
-  38.7300, -80.4000
-  38.7300, -80.3900
-  38.7700, -80.4100
-  38.8400, -80.0600
-  38.5700, -80.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 2:25AM EDT by NWS Charleston WV\nExpires: 2026-06-10 07:00 Z\nAt 225 AM EDT, Doppler radar was tracking a strong thunderstorm over Chillicothe, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Creola and Eagle Mills.\nGenerated: 2026-06-10 06:55:22 UTC"
-  39.3700, -82.7500
-  39.3600, -82.6400
-  39.3700, -82.6300
-  39.3700, -82.5200
-  39.4000, -82.5100
-  39.3900, -82.4300
-  39.3000, -82.4000
-  39.2600, -82.7600
-  39.3700, -82.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 1:17AM CDT by NWS Norman OK\nExpires: 2026-06-10 07:00 Z\nAt 115 AM CDT, Doppler radar was tracking showers and thunderstorms along a line from near Selman to near the Antelope Hills and Durham. Movement was east-northeast at 40 mph. Some of these showers and thunderstorms can produce winds of 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Woodward, Shattuck, Laverne, Buffalo, Arnett, Mooreland, Vici, Gage, Fargo, Fort Supply, Freedom, Sharon, May, Rosston, Alabaster Caverns State Park, Selman, Crawford, Harmon, Durham, and Tangier.\nGenerated: 2026-06-10 06:55:22 UTC"
-  37.0000, -98.9000
-  35.9700, -99.3600
-  35.7200, -100.0000
-  37.0000, -100.0000
-  37.0000, -98.9000
 End:
