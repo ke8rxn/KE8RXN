@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-10 22:25:14 UTC
+; Generated: 2026-06-10 22:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 5:20PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 23:15 Z\nAt 520 PM CDT, Doppler radar was tracking a strong thunderstorm near Ham Lake, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ham Lake, Oak Grove, East Bethel, Wyoming, Forest Lake, Stacy, Chisago City, Lindstrom, Center City and Shafer.\nGenerated: 2026-06-10 22:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 5:26PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 23:00 Z\nAt 526 PM CDT, Doppler radar was tracking a strong thunderstorm over Minneapolis, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Minneapolis, St. Paul, Maplewood, Roseville, Oakdale, Shoreview, White Bear Lake, New Brighton, Golden Valley, Columbia Heights, Vadnais Heights, Arden Hills, St. Anthony, Robbinsdale and North St. Paul.\nGenerated: 2026-06-10 22:30:19 UTC"
+  44.9100, -93.3100
+  45.0200, -93.3500
+  45.0400, -93.2700
+  45.0400, -93.2300
+  45.0900, -93.0000
+  45.0600, -92.9800
+  44.9400, -92.9800
+  44.9100, -93.3100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 10 at 5:20PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 23:15 Z\nAt 520 PM CDT, Doppler radar was tracking a strong thunderstorm near Ham Lake, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ham Lake, Oak Grove, East Bethel, Wyoming, Forest Lake, Stacy, Chisago City, Lindstrom, Center City and Shafer.\nGenerated: 2026-06-10 22:30:19 UTC"
   45.2400, -93.2700
   45.3700, -93.3200
   45.4100, -93.1600
@@ -23,7 +35,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 5:20PM CDT by NWS Twin Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 6:19PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-10 22:45 Z\nAt 618 PM EDT, Doppler radar was tracking a strong thunderstorm near Downtown Concord, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Kannapolis, Downtown Concord, West Concord, Landis, Enochville, Coddle Creek Reservoir, and Harrisburg.\nGenerated: 2026-06-10 22:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 6:19PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-10 22:45 Z\nAt 618 PM EDT, Doppler radar was tracking a strong thunderstorm near Downtown Concord, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Kannapolis, Downtown Concord, West Concord, Landis, Enochville, Coddle Creek Reservoir, and Harrisburg.\nGenerated: 2026-06-10 22:30:19 UTC"
   35.4100, -80.7500
   35.5500, -80.7100
   35.5400, -80.3900
@@ -32,7 +44,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 6:19PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 6:13PM EDT by NWS Charleston WV\nExpires: 2026-06-10 22:45 Z\nAt 613 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Wellston, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Athens, Pomeroy, Albany, Rutland, Wilkesville, Dyesville, Darwin, Salem Center, Radcliffe, Harrisonville, Dexter, and Carpenter.\nGenerated: 2026-06-10 22:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 6:13PM EDT by NWS Charleston WV\nExpires: 2026-06-10 22:45 Z\nAt 613 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Wellston, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Athens, Pomeroy, Albany, Rutland, Wilkesville, Dyesville, Darwin, Salem Center, Radcliffe, Harrisonville, Dexter, and Carpenter.\nGenerated: 2026-06-10 22:30:19 UTC"
   39.3200, -82.1000
   39.0400, -81.9800
   39.0200, -82.3200
@@ -43,23 +55,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 6:13PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 6:12PM EDT by NWS Wakefield VA\nExpires: 2026-06-10 22:30 Z\nAt 612 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles northeast of Norfolk International to near Princess Anne to 8 miles northeast of Corapeake. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Virginia Beach, Great Bridge, Chesapeake, Fentress, and Princess Anne around 620 PM EDT.  Other locations impacted by these storms include South Norfolk, Rudee Heights, Portlock, Mount Pleasant, Princess Anne Plaza, Sigma, Sandbridge Beach, Herberts Corner, Oceana NAS, and Munden.\nGenerated: 2026-06-10 22:25:14 UTC"
-  36.5500, -75.8500
-  36.5900, -76.4500
-  36.8200, -76.2800
-  36.8400, -76.2600
-  36.8400, -76.2400
-  36.8500, -76.2400
-  36.9600, -76.1200
-  36.9500, -76.0800
-  36.9700, -75.9800
-  36.9700, -75.9600
-  36.5900, -75.8400
-  36.5500, -75.8500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 6:08PM EDT by NWS Albany NY\nExpires: 2026-06-10 22:45 Z\nAt 608 PM EDT, Doppler radar was tracking a strong thunderstorm over Tribes Hill, or near Fonda, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Amsterdam, Hagaman, Fort Johnson, Tribes Hill, Glen, Auriesville, Rockton, Square Barn Corners, Snooks Corners, Cranesville, Stairs Corners, South Amsterdam, Scotch Bush, Manny Corners, Young Corners, Scotch Church, Mill Point, Wallins Corners, Minaville, and Harrower.  This includes Interstate 90 between exits 27 and 28.\nGenerated: 2026-06-10 22:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 6:08PM EDT by NWS Albany NY\nExpires: 2026-06-10 22:45 Z\nAt 608 PM EDT, Doppler radar was tracking a strong thunderstorm over Tribes Hill, or near Fonda, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Amsterdam, Hagaman, Fort Johnson, Tribes Hill, Glen, Auriesville, Rockton, Square Barn Corners, Snooks Corners, Cranesville, Stairs Corners, South Amsterdam, Scotch Bush, Manny Corners, Young Corners, Scotch Church, Mill Point, Wallins Corners, Minaville, and Harrower.  This includes Interstate 90 between exits 27 and 28.\nGenerated: 2026-06-10 22:30:19 UTC"
   42.8500, -74.4000
   42.9200, -74.4300
   43.0300, -74.1400
@@ -68,7 +64,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 6:08PM EDT by NWS Albany N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 5:54PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-06-10 23:00 Z\nAt 554 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Winter Haven, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Winter Haven, Haines City, Bartow, Lake Wales, Auburndale, Fussels Corner, Jan Phyl Village, Poinciana, Lake Alfred, Dundee, Davenport, Eagle Lake, Polk City, Lake Hamilton, Highland Park, Alturas, Inwood, Cypress Gardens, Winter Haven Airport, and Lake Wales Municipal Airport.\nGenerated: 2026-06-10 22:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 5:54PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-06-10 23:00 Z\nAt 554 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Winter Haven, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Winter Haven, Haines City, Bartow, Lake Wales, Auburndale, Fussels Corner, Jan Phyl Village, Poinciana, Lake Alfred, Dundee, Davenport, Eagle Lake, Polk City, Lake Hamilton, Highland Park, Alturas, Inwood, Cypress Gardens, Winter Haven Airport, and Lake Wales Municipal Airport.\nGenerated: 2026-06-10 22:30:19 UTC"
   27.9100, -81.3200
   27.8200, -81.8500
   28.1700, -81.8800
@@ -89,7 +85,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 5:54PM EDT by NWS Tampa Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 5:54PM EDT by NWS Marquette MI\nExpires: 2026-06-10 22:45 Z\nAt 554 PM EDT, Doppler radar was tracking a strong thunderstorm over Sidnaw, or 20 miles southwest of L'anse, moving northeast at 35 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Covington, Sidnaw, Canyon Falls, and Watton.\nGenerated: 2026-06-10 22:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 5:54PM EDT by NWS Marquette MI\nExpires: 2026-06-10 22:45 Z\nAt 554 PM EDT, Doppler radar was tracking a strong thunderstorm over Sidnaw, or 20 miles southwest of L'anse, moving northeast at 35 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Covington, Sidnaw, Canyon Falls, and Watton.\nGenerated: 2026-06-10 22:30:19 UTC"
   46.4200, -88.7200
   46.5300, -88.8600
   46.7100, -88.5700
