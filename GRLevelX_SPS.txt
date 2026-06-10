@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-10 16:45:25 UTC
+; Generated: 2026-06-10 16:50:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 11:40AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 17:30 Z\nAt 1140 AM CDT, Doppler radar was tracking a strong thunderstorm over Goodhue, or 10 miles south of Red Wing, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Goodhue, Bellechester, Red Wing, Wacouta, Frontenac State Park, Frontenac and Central Point.\nGenerated: 2026-06-10 16:45:25 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 12:49PM EDT by NWS Gaylord MI\nExpires: 2026-06-10 17:45 Z\nAt 1249 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Frankfort, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Frankfort, Thompsonville, Empire, Beulah, Sleeping Bear Point, Arcadia, Glen Arbor, Benzonia, Elberta, Honor, Lake Ann, Copemish, Burdickville, Maple City, Platte Township, Glen Haven, Bendon, Pere Marquette State Forest, Wallin, and Blaine Township.\nGenerated: 2026-06-10 16:50:16 UTC"
+  44.7100, -86.3000
+  44.7700, -86.1900
+  44.7800, -86.1300
+  44.9200, -86.1100
+  44.9200, -85.8200
+  44.3800, -85.8200
+  44.4900, -86.2900
+  44.5800, -86.2700
+  44.6600, -86.3100
+  44.7100, -86.3000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 10 at 11:40AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 17:30 Z\nAt 1140 AM CDT, Doppler radar was tracking a strong thunderstorm over Goodhue, or 10 miles south of Red Wing, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Goodhue, Bellechester, Red Wing, Wacouta, Frontenac State Park, Frontenac and Central Point.\nGenerated: 2026-06-10 16:50:16 UTC"
   44.4600, -92.7500
   44.6000, -92.5600
   44.5700, -92.5500
@@ -27,7 +41,16 @@ Line: 2,,"Special Weather Statement issued June 10 at 11:40AM CDT by NWS Twin Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 11:34AM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-10 17:00 Z\nAt 1134 AM CDT, Doppler radar was tracking a strong thunderstorm near Fairfax, or 9 miles southeast of Tarkio, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fairfax, Burlington Junction, Hopkins, Braddyville, Clearmont, Elmo, Pickering, and Quitman.\nGenerated: 2026-06-10 16:45:25 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 12:34PM EDT by NWS Jacksonville FL\nExpires: 2026-06-10 17:00 Z\nAt 1234 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Maxville, or 12 miles north of Middleburg, moving northwest at 5 mph.  HAZARD...Landspouts and wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Macclenny, Glen St. Mary, Cecil Field, Maxville, Bryceville, Oakleaf Plantation, Baldwin, and Whitehouse Air Field.\nGenerated: 2026-06-10 16:50:16 UTC"
+  30.0900, -81.8400
+  30.0600, -82.0300
+  30.3200, -82.2100
+  30.4100, -81.8800
+  30.0900, -81.8400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 10 at 11:34AM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-10 17:00 Z\nAt 1134 AM CDT, Doppler radar was tracking a strong thunderstorm near Fairfax, or 9 miles southeast of Tarkio, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fairfax, Burlington Junction, Hopkins, Braddyville, Clearmont, Elmo, Pickering, and Quitman.\nGenerated: 2026-06-10 16:50:16 UTC"
   40.5700, -94.6300
   40.2600, -95.1800
   40.2600, -95.3800
@@ -37,16 +60,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 11:34AM CDT by NWS Kansas 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 12:34PM EDT by NWS Jacksonville FL\nExpires: 2026-06-10 17:00 Z\nAt 1234 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Maxville, or 12 miles north of Middleburg, moving northwest at 5 mph.  HAZARD...Landspouts and wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Macclenny, Glen St. Mary, Cecil Field, Maxville, Bryceville, Oakleaf Plantation, Baldwin, and Whitehouse Air Field.\nGenerated: 2026-06-10 16:45:25 UTC"
-  30.0900, -81.8400
-  30.0600, -82.0300
-  30.3200, -82.2100
-  30.4100, -81.8800
-  30.0900, -81.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 12:31PM EDT by NWS Blacksburg VA\nExpires: 2026-06-10 17:30 Z\nAt 1230 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Shipman to near Naola to near Chamblissburg. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lynchburg... Buckingham... Bedford... Altavista... Amherst... Appomattox... and Dillwyn.\nGenerated: 2026-06-10 16:45:25 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 12:31PM EDT by NWS Blacksburg VA\nExpires: 2026-06-10 17:30 Z\nAt 1230 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Shipman to near Naola to near Chamblissburg. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lynchburg... Buckingham... Bedford... Altavista... Amherst... Appomattox... and Dillwyn.\nGenerated: 2026-06-10 16:50:16 UTC"
   37.5100, -78.3400
   37.1000, -79.2000
   37.1200, -79.2100
