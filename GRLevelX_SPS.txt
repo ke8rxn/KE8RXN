@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-10 09:35:15 UTC
+; Generated: 2026-06-10 09:40:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 5:30AM EDT by NWS Charleston WV\nExpires: 2026-06-10 10:00 Z\nAt 530 AM EDT, Doppler radar was tracking a strong thunderstorm over Rio Grande, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jackson, Point Pleasant, Gallipolis, Pomeroy, Rio Grande, Rutland, New Haven, Mason, Middleport, Syracuse, Hartford City, Henderson, Vinton, Wilkesville, Cheshire, Adamsville, Lakin, Dyesville, Salem Center, and Harrisonville.\nGenerated: 2026-06-10 09:35:15 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 4:36AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 10:30 Z\nAt 436 AM CDT, Doppler radar was tracking an area of strong thunderstorms 8 miles south of Menomonie, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Arkansaw, Eau Galle, Durand, Weston, Downsville, Menomonie, Menomonie Airport, Rock Falls, Cedar Falls, Caryville, Tainter Lake, Hoffman Hills Rec Area, Elk Mound, Colfax, Eau Claire, Eau Claire Airport, Seymour and Altoona.\nGenerated: 2026-06-10 09:40:14 UTC"
+  44.8700, -92.1400
+  45.1700, -91.7300
+  44.8400, -91.4200
+  44.6000, -91.4100
+  44.6000, -92.0000
+  44.5900, -92.0100
+  44.5900, -92.0300
+  44.5700, -92.0400
+  44.5700, -92.1300
+  44.8700, -92.1400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 10 at 5:30AM EDT by NWS Charleston WV\nExpires: 2026-06-10 10:00 Z\nAt 530 AM EDT, Doppler radar was tracking a strong thunderstorm over Rio Grande, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jackson, Point Pleasant, Gallipolis, Pomeroy, Rio Grande, Rutland, New Haven, Mason, Middleport, Syracuse, Hartford City, Henderson, Vinton, Wilkesville, Cheshire, Adamsville, Lakin, Dyesville, Salem Center, and Harrisonville.\nGenerated: 2026-06-10 09:40:14 UTC"
   38.7900, -82.4400
   39.0600, -82.6900
   39.1500, -82.0100
@@ -14,7 +28,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 5:30AM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 4:21AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 10:45 Z\nAt 421 AM CDT, Doppler radar was tracking an area of strong thunderstorms extending from near Barron to 6 miles east of Durand, or extending from 13 miles southwest of Rice Lake to 21 miles south of Menomonie, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Barron, Cameron, Rice Lake, Chetek, Bloomer, New Auburn, Lake Hallie, Chippewa Falls, Altoona, Lake Wissota, Fall Creek, Cadott, Cornell, Bruce, Boyd, Augusta, Stanley, Ladysmith and Fairchild.\nGenerated: 2026-06-10 09:35:15 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 4:21AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 10:45 Z\nAt 421 AM CDT, Doppler radar was tracking an area of strong thunderstorms extending from near Barron to 6 miles east of Durand, or extending from 13 miles southwest of Rice Lake to 21 miles south of Menomonie, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Barron, Cameron, Rice Lake, Chetek, Bloomer, New Auburn, Lake Hallie, Chippewa Falls, Altoona, Lake Wissota, Fall Creek, Cadott, Cornell, Bruce, Boyd, Augusta, Stanley, Ladysmith and Fairchild.\nGenerated: 2026-06-10 09:40:14 UTC"
   45.2100, -91.7700
   45.4700, -92.0200
   45.6400, -91.6800
@@ -30,7 +44,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 4:21AM CDT by NWS Twin Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 4:17AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 10:30 Z\nAt 417 AM CDT, Doppler radar was tracking heavy rain with possible minor flooding over the Twin Cities metropolitan area.  Locations impacted include... Eden Prairie, Bloomington, Minnetonka, Edina, Richfield, St. Louis Park, Eagan, Plymouth, Inver Grove Heights, Minneapolis, Maple Grove, St. Paul, Fridley, Brooklyn Center, Brooklyn Park, Roseville, Maplewood, Woodbury and Oakdale.\nGenerated: 2026-06-10 09:35:15 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 4:17AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 10:30 Z\nAt 417 AM CDT, Doppler radar was tracking heavy rain with possible minor flooding over the Twin Cities metropolitan area.  Locations impacted include... Eden Prairie, Bloomington, Minnetonka, Edina, Richfield, St. Louis Park, Eagan, Plymouth, Inver Grove Heights, Minneapolis, Maple Grove, St. Paul, Fridley, Brooklyn Center, Brooklyn Park, Roseville, Maplewood, Woodbury and Oakdale.\nGenerated: 2026-06-10 09:40:14 UTC"
   45.0900, -93.4600
   45.0900, -93.1900
   45.0500, -92.9600
@@ -45,7 +59,7 @@ Line: 2,,"Special Weather Statement issued June 10 at 4:17AM CDT by NWS Twin Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 10 at 3:52AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 09:45 Z\nAt 352 AM CDT, Doppler radar was tracking an area of strong thunderstorms over Osceola, or 28 miles southeast of Cambridge, moving northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chisago City, Lindstrom, Center City, Shafer, Osceola, Dresser, Taylors Falls, St. Croix Falls, Centuria, Amery, Balsam Lake, Milltown, Luck, Frederic, Clam Falls, Cumberland, Barronett and Haugen.\nGenerated: 2026-06-10 09:35:15 UTC"
+Line: 2,,"Special Weather Statement issued June 10 at 3:52AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-10 09:45 Z\nAt 352 AM CDT, Doppler radar was tracking an area of strong thunderstorms over Osceola, or 28 miles southeast of Cambridge, moving northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chisago City, Lindstrom, Center City, Shafer, Osceola, Dresser, Taylors Falls, St. Croix Falls, Centuria, Amery, Balsam Lake, Milltown, Luck, Frederic, Clam Falls, Cumberland, Barronett and Haugen.\nGenerated: 2026-06-10 09:40:14 UTC"
   45.5600, -92.8200
   45.6400, -92.7100
   45.6400, -92.5300
