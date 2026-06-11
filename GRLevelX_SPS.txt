@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-11 22:25:12 UTC
+; Generated: 2026-06-11 22:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 6:22PM EDT by NWS Raleigh NC\nExpires: 2026-06-11 23:15 Z\nAt 620 PM EDT, Doppler radar was tracking rapidly developing thunderstorms from Wilson to 15 miles northwest of Farmville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wilson, Elm City, Pinetops, Lucama, Stantonsburg, Black Creek, Macclesfield, Saratoga, Willbanks, and New Hope.  This includes the following highways... Interstate 95 near Mile Marker 119. NC Highway 264 between Mile Markers 43 and 56.\nGenerated: 2026-06-11 22:25:12 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 6:28PM EDT by NWS Charleston WV\nExpires: 2026-06-11 23:15 Z\nAt 627 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Birch River, or 8 miles north of Summersville, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Camden-On-gauley, Camden On Gauley, Craigsville, Cowen, Boggs, Calvin, Muddlety, and Erbacon.  This includes Route 19 between mile markers 46 and 56.\nGenerated: 2026-06-11 22:30:19 UTC"
+  38.3100, -80.5700
+  38.3400, -80.8700
+  38.4500, -80.8600
+  38.5400, -80.5600
+  38.3500, -80.5100
+  38.3100, -80.5700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 11 at 6:28PM EDT by NWS Blacksburg VA\nExpires: 2026-06-11 23:00 Z\nAt 628 PM EDT, Doppler radar was tracking a strong thunderstorm over Chamblissburg, or near Stewartsville, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bedford... Stewartsville... Huddleston... Goodview... and Chamblissburg.\nGenerated: 2026-06-11 22:30:19 UTC"
+  37.3700, -79.4600
+  37.1700, -79.4700
+  37.2200, -79.7500
+  37.2300, -79.7800
+  37.2300, -79.8100
+  37.3200, -79.7900
+  37.3700, -79.4600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 11 at 6:22PM EDT by NWS Raleigh NC\nExpires: 2026-06-11 23:15 Z\nAt 620 PM EDT, Doppler radar was tracking rapidly developing thunderstorms from Wilson to 15 miles northwest of Farmville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wilson, Elm City, Pinetops, Lucama, Stantonsburg, Black Creek, Macclesfield, Saratoga, Willbanks, and New Hope.  This includes the following highways... Interstate 95 near Mile Marker 119. NC Highway 264 between Mile Markers 43 and 56.\nGenerated: 2026-06-11 22:30:19 UTC"
   35.5700, -77.8200
   35.5900, -77.8200
   35.5800, -77.9600
@@ -17,7 +38,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 6:22PM EDT by NWS Raleigh 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 6:18PM EDT by NWS Charleston WV\nExpires: 2026-06-11 23:00 Z\nAt 618 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Snowshoe, or 13 miles northwest of Cass Scenic Railroad, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Green Bank, Mingo, Durbin, Monterville, Cheat Bridge, Arbovale, Bartow, Valley Head, Waneta, and Boyer.\nGenerated: 2026-06-11 22:25:12 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 6:18PM EDT by NWS Charleston WV\nExpires: 2026-06-11 23:00 Z\nAt 618 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Snowshoe, or 13 miles northwest of Cass Scenic Railroad, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Green Bank, Mingo, Durbin, Monterville, Cheat Bridge, Arbovale, Bartow, Valley Head, Waneta, and Boyer.\nGenerated: 2026-06-11 22:30:19 UTC"
   38.4200, -79.7300
   38.4200, -80.2000
   38.6200, -80.2700
@@ -27,7 +48,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 6:18PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 5:17PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-11 23:00 Z\nAt 516 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Saragosa, or 18 miles south of Pecos. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Saragosa, Verhalen, Toyah Lake, and B F Goodrich Testing Track.  This includes the following highways... Interstate 10 near mile marker 210. Interstate 20 between mile markers 28 and 31.\nGenerated: 2026-06-11 22:25:12 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 5:17PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-11 23:00 Z\nAt 516 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Saragosa, or 18 miles south of Pecos. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Saragosa, Verhalen, Toyah Lake, and B F Goodrich Testing Track.  This includes the following highways... Interstate 10 near mile marker 210. Interstate 20 between mile markers 28 and 31.\nGenerated: 2026-06-11 22:30:19 UTC"
   31.3400, -103.2000
   31.1900, -103.1900
   30.9800, -103.3800
@@ -37,7 +58,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 5:17PM CDT by NWS Midland/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 6:07PM EDT by NWS Charleston WV\nExpires: 2026-06-11 22:45 Z\nAt 607 PM EDT, Doppler radar was tracking a strong thunderstorm near Grafton, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grafton, Valley Falls, Knottsville, and Thornton.\nGenerated: 2026-06-11 22:25:12 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 6:07PM EDT by NWS Charleston WV\nExpires: 2026-06-11 22:45 Z\nAt 607 PM EDT, Doppler radar was tracking a strong thunderstorm near Grafton, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grafton, Valley Falls, Knottsville, and Thornton.\nGenerated: 2026-06-11 22:30:19 UTC"
   39.2200, -79.8500
   39.4000, -80.1200
   39.4100, -80.1100
@@ -55,7 +76,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 6:07PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 5:03PM CDT by NWS Norman OK\nExpires: 2026-06-11 22:45 Z\nAt 503 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles east of Morrison to near Lake Carl Blackwell. Movement was east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Stillwater, Morrison, Glencoe, Lake Carl Blackwell, and Lake Mcmurtry.\nGenerated: 2026-06-11 22:25:12 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 5:03PM CDT by NWS Norman OK\nExpires: 2026-06-11 22:45 Z\nAt 503 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles east of Morrison to near Lake Carl Blackwell. Movement was east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Stillwater, Morrison, Glencoe, Lake Carl Blackwell, and Lake Mcmurtry.\nGenerated: 2026-06-11 22:30:19 UTC"
   36.3300, -96.9200
   36.2500, -96.9200
   36.2500, -96.9000
@@ -65,56 +86,4 @@ Line: 2,,"Special Weather Statement issued June 11 at 5:03PM CDT by NWS Norman O
   36.1500, -97.3500
   36.3400, -96.9800
   36.3300, -96.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 4:56PM CDT by NWS Tulsa OK\nExpires: 2026-06-11 22:30 Z\nAt 456 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles northeast of Morrison, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pawnee...                         Maramec... Skedee...\nGenerated: 2026-06-11 22:25:12 UTC"
-  36.3600, -97.0200
-  36.4400, -96.7100
-  36.2100, -96.6700
-  36.2100, -96.8200
-  36.2500, -96.8200
-  36.2500, -96.9200
-  36.3300, -96.9300
-  36.3300, -97.0300
-  36.3600, -97.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 5:55PM EDT by NWS Charleston WV\nExpires: 2026-06-11 22:30 Z\nAt 554 PM EDT, Doppler radar was tracking a strong thunderstorm near Big Otter, or near Clay, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clay, Gassaway, Birch River, Harrison, Frametown, Strange Creek, and Ivydale.  This includes the following highways... Interstate 79 between mile markers 46 and 58. Route 19 between mile markers 57 and 59.\nGenerated: 2026-06-11 22:25:12 UTC"
-  38.4700, -81.0800
-  38.5700, -81.0900
-  38.6900, -80.7500
-  38.4700, -80.7400
-  38.4700, -81.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 5:42PM EDT by NWS Wakefield VA\nExpires: 2026-06-11 22:30 Z\nAt 542 PM EDT, Doppler radar was tracking a strong thunderstorm near Valhalla, or near Hertford, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Hertford around 550 PM EDT. Burgess and Snug Harbor around 605 PM EDT.  Other locations impacted by this storm include Holiday Island, Beach Springs, Light Nixon Fork, Mavaton, Cisco, Macedonia, Hancock, Center Hill, Yeopim Station, and Somerset.\nGenerated: 2026-06-11 22:25:12 UTC"
-  36.1900, -76.7500
-  36.2000, -76.7500
-  36.2400, -76.6000
-  36.2300, -76.4700
-  36.1100, -76.2600
-  36.0800, -76.3900
-  36.0800, -76.4100
-  36.0700, -76.4100
-  36.0300, -76.6000
-  36.0500, -76.6100
-  36.0600, -76.6200
-  36.0400, -76.6400
-  36.0400, -76.6600
-  36.0100, -76.6900
-  36.1900, -76.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 4:39PM CDT by NWS Norman OK\nExpires: 2026-06-11 22:30 Z\nAt 439 PM CDT, Doppler radar was tracking a strong thunderstorm near Morrison, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morrison and Sooner Lake.\nGenerated: 2026-06-11 22:25:12 UTC"
-  36.4200, -97.0300
-  36.3300, -97.0300
-  36.3300, -96.9200
-  36.2800, -96.9300
-  36.3000, -97.1600
-  36.3900, -97.1300
-  36.4200, -97.0300
 End:
