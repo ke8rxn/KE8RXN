@@ -3,9 +3,25 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-12 10:55:13 UTC
+; Generated: 2026-06-12 11:00:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 5:36AM CDT by NWS Shreveport LA\nExpires: 2026-06-12 11:30 Z\nAt 536 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 18 miles northwest of Gillham to 26 miles northwest of Broken Bow, or extending from 24 miles northwest of De Queen to 45 miles north of Clarksville, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wright City, Hochatown, Sherwood, Mount Herman, Bethel, Glover, Watson, Plunketville, Slim, Ringold and Rufe.\nGenerated: 2026-06-12 10:55:13 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 5:58AM CDT by NWS Tulsa OK\nExpires: 2026-06-12 11:45 Z\nAt 558 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Antlers to 7 miles northeast of Fort Towson. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Hugo...                           Antlers... Fort Towson...                    Sawyer... Rattan...                         Snow... Hugo Lake State Park...           Kellond... Kent...                           Messer... Moyers...                         Raymond Gary State Park... Kosoma...                         Oleta... Cloudy...                         Fallon... Sobol...                          Eubanks... Corinne...                        Swink...\nGenerated: 2026-06-12 11:00:19 UTC"
+  34.0100, -95.6500
+  34.4800, -95.7200
+  34.3300, -95.0500
+  34.2500, -95.0500
+  34.2400, -95.1500
+  33.9400, -95.1600
+  33.9500, -95.1900
+  33.9600, -95.2300
+  33.9500, -95.2300
+  33.9400, -95.2500
+  33.9100, -95.2500
+  34.0100, -95.6500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 12 at 5:36AM CDT by NWS Shreveport LA\nExpires: 2026-06-12 11:30 Z\nAt 536 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 18 miles northwest of Gillham to 26 miles northwest of Broken Bow, or extending from 24 miles northwest of De Queen to 45 miles north of Clarksville, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wright City, Hochatown, Sherwood, Mount Herman, Bethel, Glover, Watson, Plunketville, Slim, Ringold and Rufe.\nGenerated: 2026-06-12 11:00:19 UTC"
   34.3500, -95.0500
   34.3800, -94.9000
   34.4600, -94.4600
@@ -19,17 +35,4 @@ Line: 2,,"Special Weather Statement issued June 12 at 5:36AM CDT by NWS Shrevepo
   34.2400, -95.1500
   34.2400, -95.0500
   34.3500, -95.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 5:25AM CDT by NWS Tulsa OK\nExpires: 2026-06-12 11:00 Z\nAt 524 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles south of Dunbar to 3 miles southwest of Cloudy to 19 miles northwest of Broken Bow. Movement was southwest at 20 to 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Rattan...                         Stanley... Snow...                           Nashoba... Oleta...                          Cloudy... Kosoma...                         Corinne... Apple...                          Dela... Sobol...                          Finley...\nGenerated: 2026-06-12 10:55:13 UTC"
-  34.2800, -95.6600
-  34.5800, -95.4500
-  34.5000, -95.1900
-  34.4800, -95.0500
-  34.2500, -95.0500
-  34.2400, -95.1500
-  34.0900, -95.1600
-  34.0900, -95.3800
-  34.2800, -95.6600
 End:
