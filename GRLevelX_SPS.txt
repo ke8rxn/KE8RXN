@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-12 16:55:15 UTC
+; Generated: 2026-06-12 17:00:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 12:52PM EDT by NWS Morristown TN\nExpires: 2026-06-12 17:30 Z\nAt 1252 PM EDT/1152 AM CDT/, Doppler radar was tracking a strong thunderstorm near Dunlap, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chattanooga, Dunlap, Soddy-Daisy, Signal Mountain, Walden, Fairmount, Red Bank, Cartwright, Flat Top Mountain, and North Chickamauga Creek Gorge.\nGenerated: 2026-06-12 16:55:15 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 11:55AM CDT by NWS Huntsville AL\nExpires: 2026-06-12 18:00 Z\nAt 1155 AM CDT, Doppler radar was tracking a strong thunderstorm near New Market, or 9 miles northeast of Moores Mill, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Market, Princeton, Plevna, Elora, Estillfork, Hollytree, and Larkin.\nGenerated: 2026-06-12 17:00:23 UTC"
+  35.0400, -86.3200
+  34.9900, -86.3200
+  34.9900, -86.2700
+  34.9500, -86.2300
+  34.9200, -86.1100
+  34.7300, -86.2200
+  34.9200, -86.5300
+  35.0500, -86.4500
+  35.0400, -86.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 12 at 12:52PM EDT by NWS Morristown TN\nExpires: 2026-06-12 17:30 Z\nAt 1252 PM EDT/1152 AM CDT/, Doppler radar was tracking a strong thunderstorm near Dunlap, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chattanooga, Dunlap, Soddy-Daisy, Signal Mountain, Walden, Fairmount, Red Bank, Cartwright, Flat Top Mountain, and North Chickamauga Creek Gorge.\nGenerated: 2026-06-12 17:00:23 UTC"
   35.0600, -85.2600
   35.3100, -85.6100
   35.3200, -85.5600
@@ -20,7 +33,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 12:52PM EDT by NWS Morrist
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 11:50AM CDT by NWS Huntsville AL\nExpires: 2026-06-12 17:45 Z\nAt 1149 AM CDT, Doppler radar was tracking a strong thunderstorm over Huntland, or 12 miles southwest of Winchester, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntland, Anderson, Hytop, Bass, Francisco, Beans Creek, Jericho, Maxwell, Sherwood, and Belvidere.\nGenerated: 2026-06-12 16:55:15 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 11:50AM CDT by NWS Huntsville AL\nExpires: 2026-06-12 17:45 Z\nAt 1149 AM CDT, Doppler radar was tracking a strong thunderstorm over Huntland, or 12 miles southwest of Winchester, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntland, Anderson, Hytop, Bass, Francisco, Beans Creek, Jericho, Maxwell, Sherwood, and Belvidere.\nGenerated: 2026-06-12 17:00:23 UTC"
   34.9900, -85.8600
   34.8500, -85.8700
   34.9400, -86.2600
@@ -35,7 +48,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 11:50AM CDT by NWS Huntsvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 11:40AM CDT by NWS Tulsa OK\nExpires: 2026-06-12 17:15 Z\nAt 1140 AM CDT, Doppler radar indicated a strong thunderstorm 7 miles northeast of Lamar, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Scipio...\nGenerated: 2026-06-12 16:55:15 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 11:40AM CDT by NWS Tulsa OK\nExpires: 2026-06-12 17:15 Z\nAt 1140 AM CDT, Doppler radar indicated a strong thunderstorm 7 miles northeast of Lamar, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Scipio...\nGenerated: 2026-06-12 17:00:23 UTC"
   35.1100, -96.0400
   35.1200, -96.0300
   35.1200, -96.0100
@@ -46,18 +59,4 @@ Line: 2,,"Special Weather Statement issued June 12 at 11:40AM CDT by NWS Tulsa O
   35.0300, -95.9000
   35.0800, -96.0600
   35.1100, -96.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 11:32AM CDT by NWS Norman OK\nExpires: 2026-06-12 17:00 Z\nAt 1132 AM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Lamar, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lamar.\nGenerated: 2026-06-12 16:55:15 UTC"
-  35.1400, -96.0100
-  35.1200, -96.0100
-  35.1200, -96.0300
-  35.0900, -96.0600
-  35.0600, -96.0700
-  35.0900, -96.1500
-  35.2400, -96.1100
-  35.2300, -95.9800
-  35.1500, -95.9800
-  35.1400, -96.0100
 End:
