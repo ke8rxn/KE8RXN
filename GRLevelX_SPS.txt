@@ -3,22 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-12 11:40:20 UTC
+; Generated: 2026-06-12 11:45:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 7:13AM EDT by NWS Louisville KY\nExpires: 2026-06-12 11:45 Z\nAt 712 AM EDT, Doppler radar was tracking a strong thunderstorm near Taylorsville, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Taylorsville, Wakefield, Yoder, Sinai, Wayside, Southville, Rivals, Gee, Anderson City, and Glensboro.\nGenerated: 2026-06-12 11:40:20 UTC"
-  37.9500, -84.9300
-  37.9400, -84.9600
-  37.9600, -85.1700
-  37.9700, -85.1700
-  37.9600, -85.2400
-  37.9700, -85.3700
-  38.1100, -85.3600
-  38.1300, -84.9300
-  37.9500, -84.9300
+Line: 2,,"Special Weather Statement issued June 12 at 6:43AM CDT by NWS Tulsa OK\nExpires: 2026-06-12 12:15 Z\nAt 643 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 9 miles north of Boswell to 5 miles northwest of Arthur City to 2 miles southeast of Raymond Gary State Park. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Hugo...                           Antlers... Fort Towson...                    Sawyer... Rattan...                         Soper... Hugo Lake State Park...           Kellond... Kent...                           Goodland... Messer...                         Raymond Gary State Park... Oleta...                          Grant... Ord...                            Fallon... Sobol...                          Frogville... Darwin...                         Unger...\nGenerated: 2026-06-12 11:45:14 UTC"
+  33.8800, -95.5400
+  33.9300, -95.5600
+  33.9400, -95.6000
+  33.8900, -95.6900
+  33.9000, -95.7500
+  33.8700, -95.7700
+  33.8700, -95.8400
+  34.1600, -95.8700
+  34.1600, -95.7800
+  34.3000, -95.7800
+  34.1600, -95.1500
+  33.9400, -95.1600
+  33.9600, -95.2300
+  33.8900, -95.2600
+  33.9000, -95.2600
+  33.9100, -95.2700
+  33.8700, -95.2900
+  33.8900, -95.3300
+  33.8700, -95.3900
+  33.8800, -95.5400
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 6:12AM CDT by NWS Shreveport LA\nExpires: 2026-06-12 12:15 Z\nAt 612 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles west of Gillham to 14 miles north of Manchester, or extending from 11 miles northwest of De Queen to 30 miles north of Clarksville, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... De Queen, Horatio, Idabel, Broken Bow, Manchester, Wright City, Valliant, Millerton, Haworth, Garvin, Holly Creek, Oak Hill, Golden, Glover, Eagletown, Goodwater, Hochatown, Farmers Hill and Shinewell.\nGenerated: 2026-06-12 11:40:20 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 6:12AM CDT by NWS Shreveport LA\nExpires: 2026-06-12 12:15 Z\nAt 612 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles west of Gillham to 14 miles north of Manchester, or extending from 11 miles northwest of De Queen to 30 miles north of Clarksville, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... De Queen, Horatio, Idabel, Broken Bow, Manchester, Wright City, Valliant, Millerton, Haworth, Garvin, Holly Creek, Oak Hill, Golden, Glover, Eagletown, Goodwater, Hochatown, Farmers Hill and Shinewell.\nGenerated: 2026-06-12 11:45:14 UTC"
   34.1300, -95.1600
   34.2700, -94.4700
   34.1900, -94.4700
@@ -36,20 +47,4 @@ Line: 2,,"Special Weather Statement issued June 12 at 6:12AM CDT by NWS Shrevepo
   33.9600, -95.2300
   33.9400, -95.1600
   34.1300, -95.1600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 5:58AM CDT by NWS Tulsa OK\nExpires: 2026-06-12 11:45 Z\nAt 558 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Antlers to 7 miles northeast of Fort Towson. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Hugo...                           Antlers... Fort Towson...                    Sawyer... Rattan...                         Snow... Hugo Lake State Park...           Kellond... Kent...                           Messer... Moyers...                         Raymond Gary State Park... Kosoma...                         Oleta... Cloudy...                         Fallon... Sobol...                          Eubanks... Corinne...                        Swink...\nGenerated: 2026-06-12 11:40:20 UTC"
-  34.0100, -95.6500
-  34.4800, -95.7200
-  34.3300, -95.0500
-  34.2500, -95.0500
-  34.2400, -95.1500
-  33.9400, -95.1600
-  33.9500, -95.1900
-  33.9600, -95.2300
-  33.9500, -95.2300
-  33.9400, -95.2500
-  33.9100, -95.2500
-  34.0100, -95.6500
 End:
