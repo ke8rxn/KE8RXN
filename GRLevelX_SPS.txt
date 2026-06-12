@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-12 01:10:17 UTC
+; Generated: 2026-06-12 01:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 8:06PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-12 01:30 Z\nAt 806 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Appleton City, or 12 miles east of Rich Hill, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clinton, Deepwater, Montrose, Rockville, Brownington, La Due, and Truman Lake.\nGenerated: 2026-06-12 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 9:14PM EDT by NWS Albany NY\nExpires: 2026-06-12 02:15 Z\nAt 912 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Arkville to near Hartwood. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ellenville, Wallkill, Hurley, Woodstock, High Falls, Kerhonkson, West Hurley, Napanoch, Woodland Valley Campground, West Shokan, Kenneth L Wilson Campground, Phoenicia, Mount Tremper, Lanesville, Olivebridge, Wawarsing, Crawford, Gardiner, Marbletown, and Shandaken.\nGenerated: 2026-06-12 01:15:17 UTC"
+  41.6000, -74.2500
+  41.6300, -74.2600
+  41.6000, -74.3300
+  41.5900, -74.3600
+  41.6500, -74.4000
+  41.7400, -74.5700
+  41.8800, -74.4500
+  42.0200, -74.7800
+  42.1200, -74.5600
+  42.1400, -74.5400
+  42.1600, -73.9800
+  41.5900, -74.1600
+  41.6000, -74.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 11 at 8:12PM CDT by NWS Tulsa OK\nExpires: 2026-06-12 01:45 Z\nAt 812 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 5 miles north of Foyil to 2 miles northeast of Owasso. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Claremore...                      Chelsea... Foyil...                          Tiawah... Bushyhead...  This includes Interstate 44 between mile markers 245 and 272.\nGenerated: 2026-06-12 01:15:17 UTC"
+  36.5500, -95.3300
+  36.5100, -95.3300
+  36.5100, -95.2600
+  36.2100, -95.5000
+  36.3000, -95.8100
+  36.3200, -95.8100
+  36.5800, -95.5600
+  36.5500, -95.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 11 at 8:06PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-12 01:30 Z\nAt 806 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Appleton City, or 12 miles east of Rich Hill, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clinton, Deepwater, Montrose, Rockville, Brownington, La Due, and Truman Lake.\nGenerated: 2026-06-12 01:15:17 UTC"
   38.0500, -94.1000
   38.0400, -94.1100
   38.0600, -94.1300
@@ -21,7 +50,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 8:06PM CDT by NWS Kansas C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 8:02PM CDT by NWS Green Bay WI\nExpires: 2026-06-12 02:00 Z\nAt 802 PM CDT, Doppler radar was tracking a line of showers extending from 8 miles northeast of Bear Paw Scout Camp to over Rush Lake, or extending from 35 miles west of Marinette to 14 miles southwest of Oshkosh, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The shower will be near... Rush Lake, Navarino Wildlife Area, Bear Paw Scout Camp, Legend Lake and Keshena around 805 PM CDT. Gillett around 815 PM CDT. Black Creek around 820 PM CDT. Appleton, Pulaski, Menasha and Northern Lake Winnebago around 835 PM CDT. Central Lake Winnebago around 840 PM CDT. Little Chute around 845 PM CDT. Kimberly and Pound around 850 PM CDT.  Other locations impacted by this shower include Navarino, Omro, Waukau, Winneconne, Suring, Medina, Stephensville, Bonduel, Landstad and Underhill.\nGenerated: 2026-06-12 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 8:02PM CDT by NWS Green Bay WI\nExpires: 2026-06-12 02:00 Z\nAt 802 PM CDT, Doppler radar was tracking a line of showers extending from 8 miles northeast of Bear Paw Scout Camp to over Rush Lake, or extending from 35 miles west of Marinette to 14 miles southwest of Oshkosh, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The shower will be near... Rush Lake, Navarino Wildlife Area, Bear Paw Scout Camp, Legend Lake and Keshena around 805 PM CDT. Gillett around 815 PM CDT. Black Creek around 820 PM CDT. Appleton, Pulaski, Menasha and Northern Lake Winnebago around 835 PM CDT. Central Lake Winnebago around 840 PM CDT. Little Chute around 845 PM CDT. Kimberly and Pound around 850 PM CDT.  Other locations impacted by this shower include Navarino, Omro, Waukau, Winneconne, Suring, Medina, Stephensville, Bonduel, Landstad and Underhill.\nGenerated: 2026-06-12 01:15:17 UTC"
   44.0500, -88.8900
   44.7300, -88.5800
   45.3400, -88.4100
@@ -40,51 +69,10 @@ Line: 2,,"Special Weather Statement issued June 11 at 8:02PM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 8:01PM CDT by NWS Norman OK\nExpires: 2026-06-12 01:30 Z\nAt 801 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Goodlett, moving southeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Quanah and Goodlett.\nGenerated: 2026-06-12 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 8:01PM CDT by NWS Norman OK\nExpires: 2026-06-12 01:30 Z\nAt 801 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Goodlett, moving southeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Quanah and Goodlett.\nGenerated: 2026-06-12 01:15:17 UTC"
   34.4200, -99.9900
   34.5500, -99.8000
   34.3700, -99.5700
   34.2100, -99.9200
   34.4200, -99.9900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 8:35PM EDT by NWS Wakefield VA\nExpires: 2026-06-12 01:15 Z\nAt 834 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Saint Charles to near Potomac Creek to 10 miles east of Orange. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Colonial Beach and Port Royal around 855 PM EDT. Fort Walker around 905 PM EDT.  Other locations impacted by these storms include Madison, Currioman Landing, Hustle, Guinea, Corbin, Supply, Church Creek, Penola, Stratford Hall, and Great Mills.\nGenerated: 2026-06-12 01:10:17 UTC"
-  38.5500, -76.0900
-  38.1300, -76.6000
-  37.9400, -77.3600
-  38.0300, -77.6000
-  38.2500, -77.3500
-  38.2500, -77.2300
-  38.1400, -77.0800
-  38.2800, -76.9800
-  38.1700, -76.8700
-  38.1500, -76.6100
-  38.4900, -76.3400
-  38.1800, -76.5800
-  38.4000, -76.2800
-  38.5500, -76.2100
-  38.5700, -76.3100
-  38.5800, -76.3000
-  38.5500, -76.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 8:29PM EDT by NWS State College PA\nExpires: 2026-06-12 01:15 Z\nAt 828 PM EDT, Doppler radar was tracking strong gusty winds ahead of showers and thunderstorms along a line extending from near Ephrata to 11 miles southeast of Parkville. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lancaster, Ephrata, Columbia, Lititz, Millersville, Willow Street, Red Lion, New Holland, Spry, East Petersburg, Dallastown, Akron, Leola, Paradise, Salunga-Landisville, Denver, Shrewsbury, Reamstown, Rothsville, and Strasburg.\nGenerated: 2026-06-12 01:10:17 UTC"
-  39.7200, -76.8900
-  40.2900, -76.2200
-  40.3100, -76.1400
-  40.1400, -75.8700
-  40.1000, -75.9400
-  40.0400, -75.9400
-  39.9300, -76.0000
-  39.8700, -75.9900
-  39.8700, -76.0000
-  39.8500, -76.0200
-  39.7600, -76.0600
-  39.7600, -76.0800
-  39.7300, -76.1000
-  39.7400, -76.1100
-  39.7200, -76.1400
-  39.7200, -76.8900
 End:
