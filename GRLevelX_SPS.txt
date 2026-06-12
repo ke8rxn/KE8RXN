@@ -3,9 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-12 00:30:23 UTC
+; Generated: 2026-06-12 00:35:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 8:29PM EDT by NWS State College PA\nExpires: 2026-06-12 01:15 Z\nAt 828 PM EDT, Doppler radar was tracking strong gusty winds ahead of showers and thunderstorms along a line extending from near Ephrata to 11 miles southeast of Parkville. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lancaster, Ephrata, Columbia, Lititz, Millersville, Willow Street, Red Lion, New Holland, Spry, East Petersburg, Dallastown, Akron, Leola, Paradise, Salunga-Landisville, Denver, Shrewsbury, Reamstown, Rothsville, and Strasburg.\nGenerated: 2026-06-12 00:30:23 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 8:33PM EDT by NWS State College PA\nExpires: 2026-06-12 01:00 Z\nAt 833 PM EDT, Doppler radar was tracking a strong thunderstorm over Lehighton, moving northeast at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pottsville, Tamaqua, Schuylkill Haven, St. Clair, Orwigsburg, Port Carbon, Tuscarora, New Philadelphia, Friedensburg, Renningers, McKeansburg, Coaldale, Snyders, Lake Wynonah, Cressona, Palo Alto, Auburn, Deer Lake, Cumbola, and Middleport.\nGenerated: 2026-06-12 00:35:12 UTC"
+  40.7000, -75.8100
+  40.6400, -75.9800
+  40.5700, -76.0200
+  40.5800, -76.0400
+  40.5700, -76.0500
+  40.5800, -76.0700
+  40.5700, -76.0800
+  40.5600, -76.1200
+  40.5400, -76.1600
+  40.5400, -76.1700
+  40.6500, -76.2900
+  40.8400, -75.9100
+  40.7300, -75.7600
+  40.7000, -75.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 11 at 7:30PM CDT by NWS Tulsa OK\nExpires: 2026-06-12 01:00 Z\nAt 730 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 6 miles northwest of White Oak to 3 miles northeast of Vera. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Chelsea...                        Oologah... Foyil...                          Talala... Vera...                           New Alluwe... Bushyhead...  This includes Interstate 44 between mile markers 270 and 272.\nGenerated: 2026-06-12 00:35:12 UTC"
+  36.5000, -95.2600
+  36.4000, -95.5600
+  36.4700, -95.9900
+  36.7200, -95.4000
+  36.5000, -95.2600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 11 at 8:29PM EDT by NWS State College PA\nExpires: 2026-06-12 01:15 Z\nAt 828 PM EDT, Doppler radar was tracking strong gusty winds ahead of showers and thunderstorms along a line extending from near Ephrata to 11 miles southeast of Parkville. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lancaster, Ephrata, Columbia, Lititz, Millersville, Willow Street, Red Lion, New Holland, Spry, East Petersburg, Dallastown, Akron, Leola, Paradise, Salunga-Landisville, Denver, Shrewsbury, Reamstown, Rothsville, and Strasburg.\nGenerated: 2026-06-12 00:35:12 UTC"
   39.7200, -76.8900
   40.2900, -76.2200
   40.3100, -76.1400
@@ -25,7 +52,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 8:29PM EDT by NWS State Co
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 8:25PM EDT by NWS Indianapolis IN\nExpires: 2026-06-12 00:45 Z\nAt 825 PM EDT, Doppler radar was tracking a strong thunderstorm near Hoopeston, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tab.\nGenerated: 2026-06-12 00:30:23 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 8:25PM EDT by NWS Indianapolis IN\nExpires: 2026-06-12 00:45 Z\nAt 825 PM EDT, Doppler radar was tracking a strong thunderstorm near Hoopeston, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tab.\nGenerated: 2026-06-12 00:35:12 UTC"
   40.4800, -87.5200
   40.4700, -87.2800
   40.3600, -87.5300
@@ -33,7 +60,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 8:25PM EDT by NWS Indianap
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 7:13PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-12 00:45 Z\nAt 713 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles east of Cleveland to near Elkhart Lake. Movement was northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheboygan, Plymouth, Sheboygan Falls, Howards Grove, Oostburg, Kohler, Cedar Grove, Random Lake, Cascade, Adell, Waldo, Haven, Silver Creek, Johnsonville, Gibbsville, Batavia, and Hingham.  This includes Interstate 43 between mile markers 111 and 135.\nGenerated: 2026-06-12 00:30:23 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 7:13PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-12 00:45 Z\nAt 713 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles east of Cleveland to near Elkhart Lake. Movement was northeast at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheboygan, Plymouth, Sheboygan Falls, Howards Grove, Oostburg, Kohler, Cedar Grove, Random Lake, Cascade, Adell, Waldo, Haven, Silver Creek, Johnsonville, Gibbsville, Batavia, and Hingham.  This includes Interstate 43 between mile markers 111 and 135.\nGenerated: 2026-06-12 00:35:12 UTC"
   43.5700, -87.7900
   43.5400, -87.7900
   43.5400, -88.0800
@@ -47,7 +74,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 7:13PM CDT by NWS Milwauke
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 6:56PM CDT by NWS Green Bay WI\nExpires: 2026-06-12 01:00 Z\nAt 656 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles northeast of Valders to 7 miles northeast of Cleveland, or extending from 6 miles west of Manitowoc to 10 miles south of Manitowoc, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The strong thunderstorm will be near... Valders around 700 PM CDT. Rawley Point Light around 730 PM CDT.  Other locations impacted by this strong thunderstorm include Clover, Whitelaw, Newtonberg, Madsen, Cato, Newton, Clarks Mills, Taus, Grimms and Kellners Corners.\nGenerated: 2026-06-12 00:30:23 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 6:56PM CDT by NWS Green Bay WI\nExpires: 2026-06-12 01:00 Z\nAt 656 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles northeast of Valders to 7 miles northeast of Cleveland, or extending from 6 miles west of Manitowoc to 10 miles south of Manitowoc, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The strong thunderstorm will be near... Valders around 700 PM CDT. Rawley Point Light around 730 PM CDT.  Other locations impacted by this strong thunderstorm include Clover, Whitelaw, Newtonberg, Madsen, Cato, Newton, Clarks Mills, Taus, Grimms and Kellners Corners.\nGenerated: 2026-06-12 00:35:12 UTC"
   43.8900, -87.9400
   43.9000, -87.9900
   44.1200, -88.0100
@@ -65,7 +92,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 6:56PM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 6:49PM CDT by NWS Green Bay WI\nExpires: 2026-06-12 00:45 Z\nAt 649 PM CDT, Doppler radar was tracking a line of showers extending from 7 miles southeast of Merrill to 5 miles south of Lake Wazeecha, or extending from 9 miles north of Wausau to 8 miles southeast of Wisconsin Rapids, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The shower will be near... Wausau, Rib Mountain, Mosinee, Lake Wazeecha and Wisconsin Rapids around 650 PM CDT. Weston and Whiting around 700 PM CDT. Stevens Point around 705 PM CDT. Bevent around 725 PM CDT. Amherst around 735 PM CDT.  Other locations impacted by this shower include Knowlton, Rib Mountain State Park, Dancy, Biron, Junction City, Rudolph, Moon, Port Edwards, Schofield and Rothschild.\nGenerated: 2026-06-12 00:30:23 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 6:49PM CDT by NWS Green Bay WI\nExpires: 2026-06-12 00:45 Z\nAt 649 PM CDT, Doppler radar was tracking a line of showers extending from 7 miles southeast of Merrill to 5 miles south of Lake Wazeecha, or extending from 9 miles north of Wausau to 8 miles southeast of Wisconsin Rapids, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The shower will be near... Wausau, Rib Mountain, Mosinee, Lake Wazeecha and Wisconsin Rapids around 650 PM CDT. Weston and Whiting around 700 PM CDT. Stevens Point around 705 PM CDT. Bevent around 725 PM CDT. Amherst around 735 PM CDT.  Other locations impacted by this shower include Knowlton, Rib Mountain State Park, Dancy, Biron, Junction City, Rudolph, Moon, Port Edwards, Schofield and Rothschild.\nGenerated: 2026-06-12 00:35:12 UTC"
   44.2500, -89.9000
   44.7200, -89.8200
   45.1200, -89.7700
@@ -77,7 +104,7 @@ Line: 2,,"Special Weather Statement issued June 11 at 6:49PM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 11 at 6:40PM CDT by NWS Duluth MN\nExpires: 2026-06-12 01:00 Z\nAt 640 PM CDT, Doppler radar was tracking two broken lines of thunderstorms capable of producing pea to penny size hail, wind gusts to 40 mph, and occasional lightning. The first line extended from Boundary Waters Canoe Area Wilderness to 9 miles northwest of Isabella to 6 miles northeast of Brimson to 6 miles northwest of Knife River to near Foxboro. The second line extended from near Ely to Virginia to Floodwood to Aitkin to Brainerd. The lines of storms were moving east-northeast at 30 mph.  HAZARD...Pea to penny size hail, wind gusts to 40 mph. Weak, brief tornadoes are possible from these storms as well.  SOURCE...Radar indicated. Spotters reported minor wind damage near Iron Junction MN and there were several reports of pea to half-inch diameter hail in the past 2 hours with these storms.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Duluth, Superior, Brainerd, Cloquet, Ely, Big Sandy Lake, Gunflint Lake, Lake Vermilion, Hermantown, Virginia, Baxter, Two Harbors, Eveleth, Proctor, Crosby, Aitkin, Hoyt Lakes, Silver Bay, Gilbert, and Aurora.\nGenerated: 2026-06-12 00:30:23 UTC"
+Line: 2,,"Special Weather Statement issued June 11 at 6:40PM CDT by NWS Duluth MN\nExpires: 2026-06-12 01:00 Z\nAt 640 PM CDT, Doppler radar was tracking two broken lines of thunderstorms capable of producing pea to penny size hail, wind gusts to 40 mph, and occasional lightning. The first line extended from Boundary Waters Canoe Area Wilderness to 9 miles northwest of Isabella to 6 miles northeast of Brimson to 6 miles northwest of Knife River to near Foxboro. The second line extended from near Ely to Virginia to Floodwood to Aitkin to Brainerd. The lines of storms were moving east-northeast at 30 mph.  HAZARD...Pea to penny size hail, wind gusts to 40 mph. Weak, brief tornadoes are possible from these storms as well.  SOURCE...Radar indicated. Spotters reported minor wind damage near Iron Junction MN and there were several reports of pea to half-inch diameter hail in the past 2 hours with these storms.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Duluth, Superior, Brainerd, Cloquet, Ely, Big Sandy Lake, Gunflint Lake, Lake Vermilion, Hermantown, Virginia, Baxter, Two Harbors, Eveleth, Proctor, Crosby, Aitkin, Hoyt Lakes, Silver Bay, Gilbert, and Aurora.\nGenerated: 2026-06-12 00:35:12 UTC"
   47.3500, -92.6000
   48.2400, -91.9300
   48.2000, -91.7200
