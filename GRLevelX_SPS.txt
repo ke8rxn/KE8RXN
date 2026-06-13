@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-13 23:40:22 UTC
+; Generated: 2026-06-13 23:45:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:32PM CDT by NWS Nashville TN\nExpires: 2026-06-14 00:15 Z\nAt 631 PM CDT, Doppler radar was tracking a strong thunderstorm over New Johnsonville, or near Camden, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Waverly, Camden, New Johnsonville, McEwen, Hurricane Mills, and I-40 Near The Tennessee River.  This includes Interstate 40 between mile markers 136 and 148, and between mile markers 159 and 160.\nGenerated: 2026-06-13 23:40:22 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 6:42PM CDT by NWS Paducah KY\nExpires: 2026-06-14 00:15 Z\nAt 641 PM CDT, Doppler radar was tracking a strong thunderstorm over Grayville, or near Albion, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Grayville and Keensburg.\nGenerated: 2026-06-13 23:45:19 UTC"
+  38.3700, -87.8100
+  38.2300, -87.8300
+  38.2300, -87.9900
+  38.2400, -87.9800
+  38.2500, -87.9800
+  38.2600, -87.9900
+  38.2600, -88.0900
+  38.3400, -88.0800
+  38.3700, -87.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 13 at 6:41PM CDT by NWS Tallahassee FL\nExpires: 2026-06-14 00:15 Z\nAt 641 PM CDT, Doppler radar was tracking a strong thunderstorm over Hartford, or 12 miles east of Geneva, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hartford, Slocomb, Malvern, Esto, Black, Hendrix Crossroad, Fadette, Kellys Crossroads, Bailey Crossroad, High Bluff, Dundee, and Bald Hill.\nGenerated: 2026-06-13 23:45:19 UTC"
+  31.2000, -85.7200
+  31.2000, -85.5100
+  31.0600, -85.4800
+  31.0000, -85.4900
+  30.9900, -85.5800
+  31.0000, -85.7500
+  31.1800, -85.7800
+  31.2000, -85.7200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 13 at 6:32PM CDT by NWS Nashville TN\nExpires: 2026-06-14 00:15 Z\nAt 631 PM CDT, Doppler radar was tracking a strong thunderstorm over New Johnsonville, or near Camden, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Waverly, Camden, New Johnsonville, McEwen, Hurricane Mills, and I-40 Near The Tennessee River.  This includes Interstate 40 between mile markers 136 and 148, and between mile markers 159 and 160.\nGenerated: 2026-06-13 23:45:19 UTC"
   36.0500, -87.9900
   36.1300, -87.9200
   36.1800, -87.9300
@@ -30,29 +55,7 @@ Line: 2,,"Special Weather Statement issued June 13 at 6:32PM CDT by NWS Nashvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:25PM CDT by NWS Little Rock AR\nExpires: 2026-06-13 23:45 Z\nAt 625 PM CDT, Doppler radar was tracking a strong thunderstorm near Rosetta, or 19 miles south of Jasper, moving northeast at 30 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Dillen...                         Moore... Walnut...                         Bertha... Rosetta...                        Ben Hur... Fort Douglas...                   Crossroad... Haw Creek Falls Campground...     Gum Springs in Newton County... Deer...                           Cowell... Nail...                           Sand Gap... Lurton...                         Mineral Springs Recreation Area...\nGenerated: 2026-06-13 23:40:22 UTC"
-  35.6500, -93.3600
-  35.7500, -93.4100
-  35.9800, -93.1300
-  35.7300, -92.9600
-  35.6500, -93.3600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:20PM CDT by NWS Springfield MO\nExpires: 2026-06-13 23:45 Z\nAt 620 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Baxter Springs to near Fairview to 8 miles west of Galena. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Neosho, Monett, Cassville, Seneca, Granby, Purdy, Loma Linda, Wheaton, Butterfield, Fairview, Newtonia, Pioneer, Stella, Stark City, Ritchey, Wheelerville, Jenkins, Mcdowell, Pleasant Ridge, and Rocky Comfort.  This includes Interstate 44 near mile marker 0.\nGenerated: 2026-06-13 23:40:22 UTC"
-  36.7800, -94.6200
-  37.0000, -94.6200
-  36.8900, -93.6400
-  36.8700, -93.6100
-  36.8300, -93.6100
-  36.8100, -93.5800
-  36.6600, -93.5800
-  36.6400, -93.5900
-  36.7800, -94.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 7:20PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-14 00:00 Z\nAt 720 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Pickens, or 4 miles southwest of Table Rock State Park, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Pickens, Six Mile, Keowee Toxaway State Park, Table Rock State Park, Jocassee Gorges, Lake Keowee, Sunset, Pumpkintown, Nine Times, and Rocky Bottom.\nGenerated: 2026-06-13 23:40:22 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 7:20PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-14 00:00 Z\nAt 720 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Pickens, or 4 miles southwest of Table Rock State Park, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Pickens, Six Mile, Keowee Toxaway State Park, Table Rock State Park, Jocassee Gorges, Lake Keowee, Sunset, Pumpkintown, Nine Times, and Rocky Bottom.\nGenerated: 2026-06-13 23:45:19 UTC"
   35.0100, -82.9000
   35.0700, -82.7600
   35.0500, -82.7500
@@ -67,31 +70,7 @@ Line: 2,,"Special Weather Statement issued June 13 at 7:20PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:18PM CDT by NWS Springfield MO\nExpires: 2026-06-13 23:45 Z\nAt 618 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Taneyville to near Forsyth to near Hollister to near Indian Point. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Branson, Lake Taneycomo, Table Rock State Park, Bull Shoals Lake, Table Rock Lake, Hollister, Forsyth, Merriam Woods, Kissee Mills, Rockaway Beach, Bull Creek, Taneyville, Table Rock, Kirbyville, Powersite, Protem, Rueter, Ridgedale, Ozark Beach, and Walnut Shade.\nGenerated: 2026-06-13 23:40:22 UTC"
-  36.5000, -93.2800
-  36.5200, -93.3100
-  36.6300, -93.3100
-  36.7000, -93.2200
-  36.8100, -93.1500
-  36.8100, -93.0600
-  36.7400, -92.7600
-  36.5000, -92.7800
-  36.5000, -93.2800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:16PM CDT by NWS Tulsa OK\nExpires: 2026-06-13 23:45 Z\nAt 616 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles west of Cleora, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Vinita...                         Langley... Ketchum...                        Disney... Big Cabin...                      Cherokee State Park... Disney Little Blue State Park...  This includes Interstate 44 between mile markers 276 and 290.\nGenerated: 2026-06-13 23:40:22 UTC"
-  36.6800, -95.0000
-  36.6000, -95.0000
-  36.5800, -95.0100
-  36.4500, -95.0100
-  36.5200, -95.2400
-  36.6900, -95.2300
-  36.6800, -95.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:15PM CDT by NWS Dodge City KS\nExpires: 2026-06-14 00:45 Z\nAt 614 PM CDT, conditions are becoming favorable for the development of landspout tornadoes. However, at this time it is unknown which if any storm would produce a landspout. Any landspouts which develop are expected to pose a limited threat. Previous landspouts have been reported near Ford and Hodgeman counties.  Locations impacted include... Dodge City, Gray, Larned, Kinsley, La Crosse, Jetmore, Bucklin, Spearville, Macksville, Lewis, Otis, Mullinville, Bison, Burdett, Ford, Hanston, Offerle, Garfield, Rush Center, and Rozel.  Landspout tornadoes can form with a developing thunderstorm before rain, hail, and even thunder is observed. Landspout tornadoes are not usually associated with a wall cloud and are often difficult to detect with weather radar.\nGenerated: 2026-06-13 23:40:22 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 6:15PM CDT by NWS Dodge City KS\nExpires: 2026-06-14 00:45 Z\nAt 614 PM CDT, conditions are becoming favorable for the development of landspout tornadoes. However, at this time it is unknown which if any storm would produce a landspout. Any landspouts which develop are expected to pose a limited threat. Previous landspouts have been reported near Ford and Hodgeman counties.  Locations impacted include... Dodge City, Gray, Larned, Kinsley, La Crosse, Jetmore, Bucklin, Spearville, Macksville, Lewis, Otis, Mullinville, Bison, Burdett, Ford, Hanston, Offerle, Garfield, Rush Center, and Rozel.  Landspout tornadoes can form with a developing thunderstorm before rain, hail, and even thunder is observed. Landspout tornadoes are not usually associated with a wall cloud and are often difficult to detect with weather radar.\nGenerated: 2026-06-13 23:45:19 UTC"
   37.4400, -99.5900
   37.7200, -100.2700
   38.3000, -99.9600
@@ -102,7 +81,7 @@ Line: 2,,"Special Weather Statement issued June 13 at 6:15PM CDT by NWS Dodge Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 7:10PM EDT by NWS Tallahassee FL\nExpires: 2026-06-14 00:00 Z\nAt 709 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Tifton. These storms were nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tifton, Ashburn, Ocilla, Fitzgerald, Sylvester, Enigma, Omega, Norman Park, Lenox, Poulan, Ty Ty, Alapaha, Phillipsburg, Mystic, Unionville, Worth, Terrell, Sycamore, Sumner, and Rebecca.\nGenerated: 2026-06-13 23:40:22 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 7:10PM EDT by NWS Tallahassee FL\nExpires: 2026-06-14 00:00 Z\nAt 709 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Tifton. These storms were nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tifton, Ashburn, Ocilla, Fitzgerald, Sylvester, Enigma, Omega, Norman Park, Lenox, Poulan, Ty Ty, Alapaha, Phillipsburg, Mystic, Unionville, Worth, Terrell, Sycamore, Sumner, and Rebecca.\nGenerated: 2026-06-13 23:45:19 UTC"
   31.6600, -83.0000
   31.6100, -83.0600
   31.5500, -83.0600
@@ -127,56 +106,11 @@ Line: 2,,"Special Weather Statement issued June 13 at 7:10PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:10PM CDT by NWS Dodge City KS\nExpires: 2026-06-13 23:45 Z\nAt 610 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Woods, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of central Seward County.\nGenerated: 2026-06-13 23:40:22 UTC"
-  37.2900, -101.0500
-  37.3200, -100.9100
-  37.2300, -100.6400
-  37.0500, -100.8700
-  37.1800, -101.0600
-  37.2900, -101.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 4:10PM MST by NWS Phoenix AZ\nExpires: 2026-06-14 00:00 Z\nAt 409 PM MST, Doppler radar was tracking a strong thunderstorm near Aguila, or 25 miles west of Wickenburg, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aguila.  This includes US Highway 60 between mile markers 79 and 97.\nGenerated: 2026-06-13 23:40:22 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 4:10PM MST by NWS Phoenix AZ\nExpires: 2026-06-14 00:00 Z\nAt 409 PM MST, Doppler radar was tracking a strong thunderstorm near Aguila, or 25 miles west of Wickenburg, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aguila.  This includes US Highway 60 between mile markers 79 and 97.\nGenerated: 2026-06-13 23:45:19 UTC"
   33.8100, -112.8900
   33.7600, -113.1900
   33.9300, -113.2700
   34.0100, -113.1200
   34.0000, -112.9800
   33.8100, -112.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 6:08PM CDT by NWS Tulsa OK\nExpires: 2026-06-13 23:45 Z\nAt 608 PM CDT, Doppler radar indicated strong thunderstorms near Miami tand also 3 miles west of Seneca. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Miami...                          Baxter Springs... Commerce...                       Quapaw... Wyandotte...                      Treece... Ottawa...                         Peoria... Picher...                         Cardin... Twin Bridges State Park...  This includes Interstate 44 between mile markers 306 and 324.\nGenerated: 2026-06-13 23:40:22 UTC"
-  36.7800, -94.6200
-  36.7800, -94.6300
-  36.8400, -94.9800
-  37.0000, -94.9000
-  37.0000, -94.6200
-  36.7800, -94.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 7:02PM EDT by NWS Charleston SC\nExpires: 2026-06-13 23:45 Z\nAt 702 PM EDT, Doppler radar was tracking a strong thunderstorm near Ashepoo, moving southeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ritter, Green Pond, White Hall, Ashepoo, Hendersonville, Jacksonboro, Drawdy, Neyles and Thayer.  This includes I-95 in South Carolina between mile markers 42 and 52.\nGenerated: 2026-06-13 23:40:22 UTC"
-  32.8100, -80.8900
-  32.8400, -80.8300
-  32.8900, -80.5800
-  32.8600, -80.4000
-  32.8500, -80.3900
-  32.7400, -80.4500
-  32.7200, -80.4300
-  32.7100, -80.4400
-  32.7200, -80.4200
-  32.6900, -80.4200
-  32.6300, -80.6800
-  32.6400, -80.6600
-  32.6500, -80.6800
-  32.6600, -80.6800
-  32.6600, -80.6700
-  32.6700, -80.6700
-  32.6700, -80.7000
-  32.6800, -80.7200
-  32.6800, -80.7700
-  32.7000, -80.8200
-  32.8100, -80.8900
 End:
