@@ -3,9 +3,58 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-13 01:20:18 UTC
+; Generated: 2026-06-13 01:25:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 8:12PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-13 01:45 Z\nAt 811 PM CDT/711 PM MDT/, Doppler radar was tracking a strong thunderstorm over McKittrick Canyon, or 7 miles north of Pine Springs, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Guadalupe Mountains National Park, McKittrick Canyon, Carlsbad Caverns National Park, Lincoln National Forest, and Queen.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 9:23PM EDT by NWS Tallahassee FL\nExpires: 2026-06-13 02:00 Z\nAt 923 PM EDT, Doppler radar was tracking a strong thunderstorm near Ty Ty, or 7 miles northwest of Tifton, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tifton, Omega, Ty Ty, Phillipsburg, Unionville, Vanceville, Hillsdale, Eldorado, Chula, Harding, Tift Airport, Fender, Brookfield, and Sunsweet.\nGenerated: 2026-06-13 01:25:16 UTC"
+  31.5900, -83.5000
+  31.5700, -83.5000
+  31.5500, -83.4200
+  31.5100, -83.3900
+  31.4900, -83.3800
+  31.4800, -83.3400
+  31.4700, -83.3400
+  31.4600, -83.3700
+  31.4000, -83.3700
+  31.3500, -83.4400
+  31.3300, -83.4600
+  31.3300, -83.6000
+  31.4200, -83.6500
+  31.4300, -83.6500
+  31.4400, -83.6700
+  31.4800, -83.6700
+  31.4900, -83.6500
+  31.5900, -83.6500
+  31.6000, -83.6400
+  31.5900, -83.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 12 at 7:20PM MDT by NWS Billings MT\nExpires: 2026-06-13 01:45 Z\nAt 720 PM MDT, Doppler radar was tracking a thunderstorm outflow.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Big Timber, Melville and Greycliff.\nGenerated: 2026-06-13 01:25:16 UTC"
+  45.9700, -110.1400
+  45.9900, -110.1700
+  46.0900, -110.1200
+  46.2100, -110.2100
+  46.2200, -110.2000
+  46.2200, -109.6600
+  46.0500, -109.6000
+  46.0400, -109.4200
+  45.9600, -109.4300
+  45.9600, -109.5100
+  45.8700, -109.5100
+  45.8700, -109.5500
+  45.6900, -109.5600
+  45.6500, -109.6400
+  45.7700, -109.9900
+  45.8000, -109.9800
+  45.7400, -110.2200
+  45.7800, -110.2200
+  45.7900, -110.2900
+  45.8900, -110.2900
+  45.9700, -110.1400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 12 at 8:12PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-13 01:45 Z\nAt 811 PM CDT/711 PM MDT/, Doppler radar was tracking a strong thunderstorm over McKittrick Canyon, or 7 miles north of Pine Springs, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Guadalupe Mountains National Park, McKittrick Canyon, Carlsbad Caverns National Park, Lincoln National Forest, and Queen.\nGenerated: 2026-06-13 01:25:16 UTC"
   32.0000, -104.9100
   32.0000, -104.8500
   32.2400, -104.8500
@@ -18,7 +67,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 8:12PM CDT by NWS Midland/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 7:05PM MDT by NWS Albuquerque NM\nExpires: 2026-06-13 01:30 Z\nAt 705 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 15 miles south of Mount Dora to 9 miles west of Bueyeros, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bueyeros.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 7:05PM MDT by NWS Albuquerque NM\nExpires: 2026-06-13 01:30 Z\nAt 705 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 15 miles south of Mount Dora to 9 miles west of Bueyeros, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bueyeros.\nGenerated: 2026-06-13 01:25:16 UTC"
   35.9500, -103.9700
   36.3200, -103.7200
   36.3900, -103.2100
@@ -27,7 +76,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 7:05PM MDT by NWS Albuquer
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 7:04PM MDT by NWS Midland/Odessa TX\nExpires: 2026-06-13 01:30 Z\nAt 703 PM MDT, Doppler radar was tracking a strong thunderstorm near Avalon, or 13 miles north of Carlsbad, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Avalon and Lake Avalon.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 7:04PM MDT by NWS Midland/Odessa TX\nExpires: 2026-06-13 01:30 Z\nAt 703 PM MDT, Doppler radar was tracking a strong thunderstorm near Avalon, or 13 miles north of Carlsbad, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Avalon and Lake Avalon.\nGenerated: 2026-06-13 01:25:16 UTC"
   32.4500, -104.1200
   32.4800, -104.3500
   32.7700, -104.3400
@@ -36,7 +85,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 7:04PM MDT by NWS Midland/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 6:56PM MDT by NWS Glasgow MT\nExpires: 2026-06-13 02:00 Z\nAt 655 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles east of Roy, or 21 miles northwest of Winnett, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Winnett, Flatwillow, Sand Springs, U L Bend Rec Area, Mosby, Crooked Creek Rec Area, Petrolia Lake, Fred Robinson Bridge, Cat Creek, and Tiegen.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 6:56PM MDT by NWS Glasgow MT\nExpires: 2026-06-13 02:00 Z\nAt 655 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles east of Roy, or 21 miles northwest of Winnett, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Winnett, Flatwillow, Sand Springs, U L Bend Rec Area, Mosby, Crooked Creek Rec Area, Petrolia Lake, Fred Robinson Bridge, Cat Creek, and Tiegen.\nGenerated: 2026-06-13 01:25:16 UTC"
   47.6800, -108.7600
   47.7100, -107.7500
   46.8600, -107.1400
@@ -57,7 +106,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 6:56PM MDT by NWS Glasgow 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 6:56PM MDT by NWS Pueblo CO\nExpires: 2026-06-13 01:30 Z\nAt 655 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 10 miles north of Elkhart to near Black Mesa Park. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Campo and Stonington.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 6:56PM MDT by NWS Pueblo CO\nExpires: 2026-06-13 01:30 Z\nAt 655 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 10 miles north of Elkhart to near Black Mesa Park. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Campo and Stonington.\nGenerated: 2026-06-13 01:25:16 UTC"
   37.0000, -102.9800
   37.4500, -102.0400
   36.9900, -102.0400
@@ -65,7 +114,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 6:56PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 7:53PM CDT by NWS Shreveport LA\nExpires: 2026-06-13 01:45 Z\nAt 753 PM CDT, Doppler radar was tracking a strong thunderstorm over Grambling, moving southeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ruston, Grambling, Simsboro and Vienna.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 7:53PM CDT by NWS Shreveport LA\nExpires: 2026-06-13 01:45 Z\nAt 753 PM CDT, Doppler radar was tracking a strong thunderstorm over Grambling, moving southeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ruston, Grambling, Simsboro and Vienna.\nGenerated: 2026-06-13 01:25:16 UTC"
   32.6000, -92.8300
   32.6700, -92.7700
   32.5800, -92.5400
@@ -75,7 +124,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 7:53PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 8:52PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-13 01:30 Z\nAt 852 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Greenville Downtown, or near Greer, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Greer, Duncan, Lyman, Wellford, GSP Airport, and Reidville.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 8:52PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-13 01:30 Z\nAt 852 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Greenville Downtown, or near Greer, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Greer, Duncan, Lyman, Wellford, GSP Airport, and Reidville.\nGenerated: 2026-06-13 01:25:16 UTC"
   34.8500, -82.2200
   35.0200, -82.2900
   35.0600, -82.2100
@@ -85,7 +134,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 8:52PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 6:46PM MDT by NWS Missoula MT\nExpires: 2026-06-13 01:30 Z\nAt 646 PM MDT, Doppler radar was tracking a line of showers extending from 5 miles south of Seeley Lake to 6 miles south of Alberton, or extending from 32 miles northwest of Drummond to 20 miles west of Missoula, moving south at 15 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, Lolo, Alberton, East Missoula, Bonner-West Riverside, Wye, Florence, Seeley Lake, Tarkio, Riverbend, Turah, Twin Creeks, Clinton, Ninemile, Potomac, Lolo Hot Springs, Nimrod, Greenough, Cyr and Clearwater.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 6:46PM MDT by NWS Missoula MT\nExpires: 2026-06-13 01:30 Z\nAt 646 PM MDT, Doppler radar was tracking a line of showers extending from 5 miles south of Seeley Lake to 6 miles south of Alberton, or extending from 32 miles northwest of Drummond to 20 miles west of Missoula, moving south at 15 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, Lolo, Alberton, East Missoula, Bonner-West Riverside, Wye, Florence, Seeley Lake, Tarkio, Riverbend, Turah, Twin Creeks, Clinton, Ninemile, Potomac, Lolo Hot Springs, Nimrod, Greenough, Cyr and Clearwater.\nGenerated: 2026-06-13 01:25:16 UTC"
   47.1400, -114.8300
   46.9800, -114.1400
   47.2200, -113.3400
@@ -106,7 +155,7 @@ Line: 2,,"Special Weather Statement issued June 12 at 6:46PM MDT by NWS Missoula
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 7:43PM CDT by NWS Amarillo TX\nExpires: 2026-06-13 01:30 Z\nAt 743 PM CDT, Doppler radar was tracking a strong thunderstorm over Black Mesa Park, or 21 miles west of Boise City, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Black Mesa Park, Kenton, and Wheeless.\nGenerated: 2026-06-13 01:20:18 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 7:43PM CDT by NWS Amarillo TX\nExpires: 2026-06-13 01:30 Z\nAt 743 PM CDT, Doppler radar was tracking a strong thunderstorm over Black Mesa Park, or 21 miles west of Boise City, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Black Mesa Park, Kenton, and Wheeless.\nGenerated: 2026-06-13 01:25:16 UTC"
   36.9900, -102.3200
   36.6300, -102.6900
   36.7200, -103.0000
