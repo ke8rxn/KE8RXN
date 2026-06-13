@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-13 06:25:21 UTC
+; Generated: 2026-06-13 06:30:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 1:05AM CDT by NWS Dodge City KS\nExpires: 2026-06-13 07:00 Z\nAt 104 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wellsford to 6 miles south of Aetna. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Coats and Sun City around 110 AM CDT. Lake City around 115 AM CDT. Hardtner around 120 AM CDT.  Other locations in the path of these storms include Sawyer, Medicine Lodge, Isabel, Kiowa, Sharon and Hazelton.\nGenerated: 2026-06-13 06:25:21 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 1:25AM CDT by NWS Amarillo TX\nExpires: 2026-06-13 07:15 Z\nAt 122 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Boys Ranch to Glenrio. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph and heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Heavy rainfall with rates exceeding 1 inch per hour may lead to flooding of low lying and poor drainage areas.  Locations impacted include... Vega, Adrian, Boys Ranch, Glenrio, Wildorado, and Valley De Oro.  This includes Interstate 40 between mile markers 1 and 54.\nGenerated: 2026-06-13 06:30:21 UTC"
+  35.2500, -103.0400
+  35.6200, -102.4100
+  35.6100, -101.6200
+  35.6000, -101.6200
+  35.1800, -102.1400
+  35.1800, -102.1700
+  35.1600, -102.1700
+  35.0900, -102.2500
+  35.0400, -103.0400
+  35.2500, -103.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 13 at 1:05AM CDT by NWS Dodge City KS\nExpires: 2026-06-13 07:00 Z\nAt 104 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wellsford to 6 miles south of Aetna. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Coats and Sun City around 110 AM CDT. Lake City around 115 AM CDT. Hardtner around 120 AM CDT.  Other locations in the path of these storms include Sawyer, Medicine Lodge, Isabel, Kiowa, Sharon and Hazelton.\nGenerated: 2026-06-13 06:30:21 UTC"
   37.0000, -99.0900
   37.6000, -99.1200
   37.6800, -98.4600
@@ -13,13 +27,4 @@ Line: 2,,"Special Weather Statement issued June 13 at 1:05AM CDT by NWS Dodge Ci
   37.3800, -98.3500
   37.0000, -98.3500
   37.0000, -99.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 1:48AM EDT by NWS Newport/Morehead City NC\nExpires: 2026-06-13 06:30 Z\nAt 147 AM EDT, Doppler radar was tracking a strong thunderstorm over Rodanthe, or 15 miles east of Stumpy Point, moving east at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Salvo, Waves, Rodanthe, and Hatteras Island Fishing Pier.\nGenerated: 2026-06-13 06:25:21 UTC"
-  35.3800, -75.6100
-  35.7300, -75.6100
-  35.7400, -75.4300
-  35.3800, -75.4200
-  35.3800, -75.6100
 End:
