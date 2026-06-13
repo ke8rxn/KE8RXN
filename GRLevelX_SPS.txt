@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-13 03:55:21 UTC
+; Generated: 2026-06-13 04:00:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 9:44PM MDT by NWS Albuquerque NM\nExpires: 2026-06-13 04:15 Z\nAt 944 PM MDT, Doppler radar was tracking a thunderstorm outflow boundary extending from 22 miles northeast of San Jon to 13 miles east of Conchas, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Strong crosswinds could make travel difficult, especially for high-profile vehicles.  Locations impacted include... Tucumcari, Logan, San Jon, Montoya and Bard.  This includes the following highways... Interstate 40 between Mile Markers 309 and 373. State Road 104 between Mile Markers 83 and 105.\nGenerated: 2026-06-13 03:55:21 UTC"
+Line: 2,,"Special Weather Statement issued June 12 at 10:55PM CDT by NWS Dodge City KS\nExpires: 2026-06-13 04:30 Z\nAt 1054 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Ryus to near Plains to 6 miles north of Forgan. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Sublette and Meade State Park around 1100 PM CDT. Meade, Missler, and Tice around 1105 PM CDT.  Other locations in the path of these storms include Copeland and Fowler.\nGenerated: 2026-06-13 04:00:20 UTC"
+  37.6100, -100.6900
+  37.3600, -100.1400
+  37.0100, -100.1100
+  37.0000, -101.0700
+  37.2900, -101.0600
+  37.5700, -101.2900
+  37.6100, -100.6900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 12 at 9:44PM MDT by NWS Albuquerque NM\nExpires: 2026-06-13 04:15 Z\nAt 944 PM MDT, Doppler radar was tracking a thunderstorm outflow boundary extending from 22 miles northeast of San Jon to 13 miles east of Conchas, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Strong crosswinds could make travel difficult, especially for high-profile vehicles.  Locations impacted include... Tucumcari, Logan, San Jon, Montoya and Bard.  This includes the following highways... Interstate 40 between Mile Markers 309 and 373. State Road 104 between Mile Markers 83 and 105.\nGenerated: 2026-06-13 04:00:20 UTC"
   35.1500, -104.1100
   35.4700, -104.0300
   35.3600, -103.4900
@@ -15,15 +26,4 @@ Line: 2,,"Special Weather Statement issued June 12 at 9:44PM MDT by NWS Albuquer
   35.0500, -104.1300
   35.0700, -104.1300
   35.1500, -104.1100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 12 at 10:29PM CDT by NWS Dodge City KS\nExpires: 2026-06-13 04:00 Z\nAt 1029 PM CDT, Doppler radar was tracking a strong thunderstorm near Hayne, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Hayne around 1035 PM CDT.\nGenerated: 2026-06-13 03:55:21 UTC"
-  37.0000, -101.3400
-  37.2600, -101.3400
-  37.3900, -100.6900
-  37.3900, -100.6500
-  37.4100, -100.5700
-  37.0000, -100.5500
-  37.0000, -101.3400
 End:
