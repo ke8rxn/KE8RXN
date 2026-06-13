@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-13 18:10:16 UTC
+; Generated: 2026-06-13 18:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 2:08PM EDT by NWS Jacksonville FL\nExpires: 2026-06-13 18:45 Z\nAt 207 PM EDT, Doppler radar was tracking a strong thunderstorm over Crescent Beach, or 9 miles south of Saint Augustine, moving south at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine Beach, Marineland, Crescent Beach, Saint Augustine Shores, Butler Beach, and Dupont Center.\nGenerated: 2026-06-13 18:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 2:14PM EDT by NWS Wilmington NC\nExpires: 2026-06-13 18:45 Z\nAt 212 PM EDT, Doppler radar was tracking a strong thunderstorm over Wilmington. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wilmington, Leland, Bishop, Mayfaire, Hightsville, Cape Fear Community College North Campus, Wrightsboro, Wilmington International Airport, Silver Lake, Murrayville, Castle Hayne, University Of North Carolina At Wilmington, Windemere, Bayshore, Ogden, Porters Neck, Kings Grant, Masonboro, Seagate, and Belville.  This includes the following highways... Interstate 40 between mile markers 414 and 416. Interstate 140 between mile markers 15 and 20.\nGenerated: 2026-06-13 18:15:16 UTC"
+  34.1600, -77.8900
+  34.1000, -77.9500
+  34.2100, -78.1600
+  34.3600, -77.9100
+  34.3700, -77.9000
+  34.3700, -77.8800
+  34.3800, -77.8600
+  34.3900, -77.8200
+  34.3700, -77.8100
+  34.3700, -77.8200
+  34.3500, -77.8100
+  34.3100, -77.7700
+  34.1600, -77.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 13 at 2:08PM EDT by NWS Jacksonville FL\nExpires: 2026-06-13 18:45 Z\nAt 207 PM EDT, Doppler radar was tracking a strong thunderstorm over Crescent Beach, or 9 miles south of Saint Augustine, moving south at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine Beach, Marineland, Crescent Beach, Saint Augustine Shores, Butler Beach, and Dupont Center.\nGenerated: 2026-06-13 18:15:16 UTC"
   29.5700, -81.1900
   29.5600, -81.3000
   29.8000, -81.3600
@@ -15,7 +32,7 @@ Line: 2,,"Special Weather Statement issued June 13 at 2:08PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 2:00PM EDT by NWS Jacksonville FL\nExpires: 2026-06-13 18:30 Z\nAt 159 PM EDT, Doppler radar was tracking a strong thunderstorm near Jasper, moving southeast at 5 mph.  HAZARD...Wind gusts around 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jasper.\nGenerated: 2026-06-13 18:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 2:00PM EDT by NWS Jacksonville FL\nExpires: 2026-06-13 18:30 Z\nAt 159 PM EDT, Doppler radar was tracking a strong thunderstorm near Jasper, moving southeast at 5 mph.  HAZARD...Wind gusts around 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jasper.\nGenerated: 2026-06-13 18:15:16 UTC"
   30.4800, -83.0000
   30.5400, -82.9200
   30.4400, -82.8100
@@ -24,7 +41,7 @@ Line: 2,,"Special Weather Statement issued June 13 at 2:00PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 2:00PM EDT by NWS Gaylord MI\nExpires: 2026-06-13 18:30 Z\nAt 200 PM EDT, Doppler radar was tracking a strong thunderstorm near Mikado, or 9 miles east of Glennie, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Harrisville, Mikado, Lincoln, and Harrisville State Park around 205 PM EDT.\nGenerated: 2026-06-13 18:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 2:00PM EDT by NWS Gaylord MI\nExpires: 2026-06-13 18:30 Z\nAt 200 PM EDT, Doppler radar was tracking a strong thunderstorm near Mikado, or 9 miles east of Glennie, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Harrisville, Mikado, Lincoln, and Harrisville State Park around 205 PM EDT.\nGenerated: 2026-06-13 18:15:16 UTC"
   44.6100, -83.2600
   44.5100, -83.2700
   44.5100, -83.5800
@@ -36,48 +53,10 @@ Line: 2,,"Special Weather Statement issued June 13 at 2:00PM EDT by NWS Gaylord 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 12:50PM CDT by NWS Quad Cities IA IL\nExpires: 2026-06-13 18:30 Z\nAt 1250 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Williamsburg to Hayesville. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could cause minor tree limb damage and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sigourney, Williamsburg, Wellman, North English, Richland, Delta, Keswick, South English, Parnell, Millersburg, Harper, Kinross, Hayesville, Keota, Ollie, West Chester, Webster, Frytown, Windham, and Lancaster.  This includes Interstate 80 in Iowa between mile markers 209 and 233.\nGenerated: 2026-06-13 18:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 12:50PM CDT by NWS Quad Cities IA IL\nExpires: 2026-06-13 18:30 Z\nAt 1250 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Williamsburg to Hayesville. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could cause minor tree limb damage and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sigourney, Williamsburg, Wellman, North English, Richland, Delta, Keswick, South English, Parnell, Millersburg, Harper, Kinross, Hayesville, Keota, Ollie, West Chester, Webster, Frytown, Windham, and Lancaster.  This includes Interstate 80 in Iowa between mile markers 209 and 233.\nGenerated: 2026-06-13 18:15:16 UTC"
   41.6900, -91.6600
   41.1900, -91.8900
   41.1900, -92.4000
   41.7100, -92.2200
   41.6900, -91.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 1:46PM EDT by NWS Jacksonville FL\nExpires: 2026-06-13 18:15 Z\nAt 145 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Kings Bay Base, moving southeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... High Point and Cumberland Island.\nGenerated: 2026-06-13 18:10:16 UTC"
-  30.7900, -81.4200
-  30.6900, -81.4100
-  30.6700, -81.4400
-  30.8800, -81.5100
-  30.9400, -81.4000
-  30.7900, -81.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 1:45PM EDT by NWS Wilmington NC\nExpires: 2026-06-13 18:15 Z\nAt 145 PM EDT, Doppler radar was tracking a strong thunderstorm near Mill Creek, or 7 miles northwest of Snows Cut. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wilmington, Carolina Beach, Kure Beach, Snows Cut, Boiling Spring Lakes, Bishop, Mill Creek, Myrtle Grove, Silver Lake, Town Creek, Sea Breeze, University Of North Carolina At Wilmington, Winnabow, Kings Grant, Masonboro, Belville, Bolivia, and New Hanover Regional Medical Center.\nGenerated: 2026-06-13 18:10:16 UTC"
-  34.0100, -77.9000
-  34.0300, -78.1400
-  34.1600, -78.1500
-  34.2600, -77.8600
-  34.0100, -77.9000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 1:45PM EDT by NWS Gaylord MI\nExpires: 2026-06-13 18:15 Z\nAt 145 PM EDT, Doppler radar was tracking a strong thunderstorm over Atlanta, moving east at 60 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Hillman and Fletcher Pond around 150 PM EDT. Spratt around 155 PM EDT. Lachine around 200 PM EDT.\nGenerated: 2026-06-13 18:10:16 UTC"
-  44.9100, -83.5000
-  44.9300, -84.2200
-  45.0300, -84.2300
-  45.1200, -83.5900
-  44.9100, -83.5000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 12:35PM CDT by NWS Little Rock AR\nExpires: 2026-06-13 18:15 Z\nAt 1234 PM CDT, Doppler radar was tracking a strong thunderstorm near Ozark Isle, or near Bull Shoals, moving east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mountain Home...                  Bull Shoals... Yellville...                      Gassville... Flippin...                        Lakeview in Baxter County... Norfork...                        Salesville... Briarcliff...                     Pyatt... Arkawana...                       Norfork Dam... Diamond Bay...                    Ozark Regional Airport... Ozark Isle...                     Gamaliel Landing... Lakeway...                        Fawn Park... Bull Shoals State Park...         Clark Hill...\nGenerated: 2026-06-13 18:10:16 UTC"
-  36.2200, -92.1600
-  36.2300, -92.8900
-  36.4200, -92.8800
-  36.5000, -92.6800
-  36.5000, -92.1500
-  36.2200, -92.1600
 End:
