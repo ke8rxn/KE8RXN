@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-14 09:15:24 UTC
+; Generated: 2026-06-14 09:20:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 4:08AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 10:00 Z\nAt 408 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from Eubanks to Stanley to Clayton, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bethel, Mount Herman, Sherwood, Battiest, Pickens, Smithville, Ringold, Watson, Slim and Rufe.\nGenerated: 2026-06-14 09:15:24 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 4:16AM CDT by NWS Tulsa OK\nExpires: 2026-06-14 09:45 Z\nAt 415 AM CDT, Doppler radar indicated a cluster of strong thunderstorms 7 miles north of Big Cedar, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Poteau...                         Heavener... Wister...                         Howe... Fanshawe...                       Octavia... Talimena State Park...            Big Cedar... Lake Wister State Park...         Whitesboro... Muse...                           Summerfield... Hodgen...\nGenerated: 2026-06-14 09:20:19 UTC"
+  34.6300, -94.9400
+  34.6800, -94.9400
+  34.6800, -94.9700
+  34.8100, -95.0600
+  34.8500, -95.0600
+  34.8500, -95.0000
+  34.8900, -95.0000
+  35.1200, -94.6200
+  35.1100, -94.5600
+  34.9600, -94.3700
+  34.9500, -94.3800
+  34.9500, -94.4100
+  34.9300, -94.4500
+  34.5200, -94.4600
+  34.5100, -94.4700
+  34.5100, -94.8600
+  34.6300, -94.9400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 4:08AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 10:00 Z\nAt 408 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from Eubanks to Stanley to Clayton, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bethel, Mount Herman, Sherwood, Battiest, Pickens, Smithville, Ringold, Watson, Slim and Rufe.\nGenerated: 2026-06-14 09:20:19 UTC"
   34.4400, -94.4600
   34.2600, -94.7700
   34.0100, -95.1600
@@ -16,46 +37,4 @@ Line: 2,,"Special Weather Statement issued June 14 at 4:08AM CDT by NWS Shrevepo
   34.5100, -95.0500
   34.5100, -94.4600
   34.4400, -94.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 3:30AM CDT by NWS Tulsa OK\nExpires: 2026-06-14 09:15 Z\nAt 329 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Fanshawe to Daisy. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Wilburton...                      Clayton... Hartshorne...                     Talihina... Red Oak...                        Albion... Octavia...                        Talimena State Park... Higgins...                        Snow... Tuskahoma...                      Big Cedar... Stanley...                        Kiamichi... Whitesboro...                     Kellond... Clayton Lake State Park...        Damon... Bengal...                         Yanush...\nGenerated: 2026-06-14 09:15:24 UTC"
-  34.2400, -95.7800
-  34.5000, -95.7800
-  34.5100, -95.6700
-  34.5900, -95.6700
-  34.5900, -95.8800
-  34.6800, -95.8800
-  34.6800, -95.9500
-  35.0600, -95.2600
-  35.0600, -95.1900
-  34.9000, -95.0000
-  34.8500, -94.9900
-  34.8500, -94.9200
-  34.5200, -94.4600
-  34.5100, -95.0400
-  34.3600, -95.0500
-  34.2400, -95.7800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 3:25AM CDT by NWS Tulsa OK\nExpires: 2026-06-14 09:15 Z\nAt 325 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 3 miles east of Lequire to 7 miles east of Heavener to 5 miles northeast of Cardiff. Movement was south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Poteau...                         Greenwood... Pocola...                         Heavener... Spiro...                          Panama... Mansfield...                      Wister... Hackett...                        Howe... Hartford...                       Huntington... Bonanza...                        Red Oak... Mccurtain...                      Bokoshe... Fanshawe...                       Midland... Cameron...                        Kinta...\nGenerated: 2026-06-14 09:15:24 UTC"
-  35.1400, -94.1400
-  35.1000, -94.1400
-  35.0600, -94.2500
-  35.0600, -94.2300
-  34.9700, -94.2400
-  34.9500, -94.3400
-  34.9600, -94.3700
-  34.9500, -94.3800
-  34.9500, -94.4100
-  34.9300, -94.4500
-  34.5100, -94.4600
-  35.0900, -95.3000
-  35.3300, -94.6900
-  35.2900, -94.6600
-  35.2900, -94.6300
-  35.3100, -94.6100
-  35.1400, -94.0800
-  35.1400, -94.1400
 End:
