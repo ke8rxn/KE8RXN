@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-14 05:55:14 UTC
+; Generated: 2026-06-14 06:00:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 11:50PM MDT by NWS Albuquerque NM\nExpires: 2026-06-14 06:15 Z\nAt 1150 PM MDT, Doppler radar was tracking a strong thunderstorm over Causey, or 24 miles southeast of Portales, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Causey and Lingo.\nGenerated: 2026-06-14 05:55:14 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 12:59AM CDT by NWS Tulsa OK\nExpires: 2026-06-14 06:30 Z\nAt 1259 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles south of Hulbert to 3 miles west of Keefeton to 2 miles west of Stidham. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Muskogee...                       Eufaula... Henryetta...                      Fort Gibson... Checotah...                       Haskell... Warner...                         Morris... Gore...                           Dewar... Porum...                          Webbers Falls... Porter...                         Schulter... Crowder...                        Oktaha... Braggs...                         Taft... Boynton...                        Canadian...  This includes Interstate 40 in Oklahoma between mile markers 232 and 293.\nGenerated: 2026-06-14 06:00:23 UTC"
+  35.7200, -95.7400
+  35.9000, -95.5900
+  35.7000, -94.8100
+  35.3100, -95.1800
+  35.0100, -95.7200
+  35.3000, -95.9800
+  35.3800, -95.9800
+  35.3800, -96.0500
+  35.4200, -96.0900
+  35.4400, -96.0900
+  35.7200, -95.7400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 12:56AM CDT by NWS Lubbock TX\nExpires: 2026-06-14 06:30 Z\nAt 1255 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles east of Causey, or 18 miles northwest of Morton, moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morton, Bledsoe, Bula, Muleshoe Wildlife Refuge, Enochs, Lehman, and Maple.\nGenerated: 2026-06-14 06:00:23 UTC"
+  34.0200, -103.0400
+  33.9400, -102.6100
+  33.7800, -102.6100
+  33.4300, -102.9300
+  33.6000, -103.0500
+  34.0200, -103.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 13 at 11:50PM MDT by NWS Albuquerque NM\nExpires: 2026-06-14 06:15 Z\nAt 1150 PM MDT, Doppler radar was tracking a strong thunderstorm over Causey, or 24 miles southeast of Portales, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Causey and Lingo.\nGenerated: 2026-06-14 06:00:23 UTC"
   33.7600, -103.1800
   34.0100, -103.1600
   34.0200, -103.0400
@@ -14,7 +39,7 @@ Line: 2,,"Special Weather Statement issued June 13 at 11:50PM MDT by NWS Albuque
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 12:38AM CDT by NWS Norman OK\nExpires: 2026-06-14 06:30 Z\nAt 1238 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Edmond to near Newalla. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Northeastern Oklahoma City, Edmond, Midwest City, Guthrie, Chandler, Choctaw, Harrah, McLoud, Spencer, Jones, Stroud, Nicoma Park, Langston, Luther, Meeker, Davenport, Wellston, Carney, Tryon, and Agra.\nGenerated: 2026-06-14 05:55:14 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 12:38AM CDT by NWS Norman OK\nExpires: 2026-06-14 06:30 Z\nAt 1238 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Edmond to near Newalla. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Northeastern Oklahoma City, Edmond, Midwest City, Guthrie, Chandler, Choctaw, Harrah, McLoud, Spencer, Jones, Stroud, Nicoma Park, Langston, Luther, Meeker, Davenport, Wellston, Carney, Tryon, and Agra.\nGenerated: 2026-06-14 06:00:23 UTC"
   35.3700, -97.1800
   35.3800, -97.2700
   35.7000, -97.5600
@@ -25,32 +50,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 12:38AM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 12:29AM CDT by NWS Tulsa OK\nExpires: 2026-06-14 06:00 Z\nAt 1228 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from near Wagoner to near Tullahassee to 5 miles southwest of Boynton. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Muskogee...                       Tahlequah... Wagoner...                        Fort Gibson... Checotah...                       Haskell... Morris...                         Okay... Hulbert...                        Porter... Oktaha...                         Braggs... Taft...                           Boynton... Council Hill...                   Rentiesville... Tullahassee...                    Pumpkin Center... Keefeton...                       Sequoyah State Park...  This includes Interstate 40 in Oklahoma between mile markers 259 and 272.\nGenerated: 2026-06-14 05:55:14 UTC"
-  35.9400, -95.0000
-  35.7400, -95.0200
-  35.4100, -95.4400
-  35.5500, -95.9700
-  35.8700, -95.6600
-  36.0200, -95.5800
-  35.9400, -95.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 12:27AM CDT by NWS Norman OK\nExpires: 2026-06-14 06:00 Z\nAt 1226 AM CDT, Doppler radar was tracking the leading edge of winds from strong outflow winds along a line extending from 6 miles south of Cordell to 3 miles north of Headrick to 7 miles southwest of Olustee. Movement was east at 40 mph.  HAZARD...Wind gusts of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Altus, Hobart, Snyder, Tipton, Mountain View, Olustee, Mountain Park, Roosevelt, Gotebo, Elmer, Headrick, Cooperton, Tom Steed Reservoir, Humphreys, Altus Air Force Base, western Fort Sill, Cowden, Wichita Mountains Wildlife Refuge, Hess, and Doris Campground.\nGenerated: 2026-06-14 05:55:14 UTC"
-  34.4400, -99.6700
-  34.6900, -99.2200
-  35.2300, -99.0100
-  35.2700, -98.6300
-  34.7300, -98.6200
-  34.4000, -99.2800
-  34.4600, -99.3700
-  34.4400, -99.3900
-  34.3900, -99.4000
-  34.4400, -99.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 1:26AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 06:30 Z\nAt 126 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Freeland to near Ithaca to near Carson City. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Saginaw, Freeland, and Zilwaukee around 130 AM EDT. St. Charles and Marion Springs around 135 AM EDT. Bridgeport around 140 AM EDT. Chesaning around 155 AM EDT. Frankenmuth and Oakley around 200 AM EDT. Birch Run around 210 AM EDT.  Other locations impacted by these storms include Brant, Nelson, Carrollton, Garfield, Arthur, Fenmore, Burt, Buena Vista Township, Gera, and Layton Corners.\nGenerated: 2026-06-14 05:55:14 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 1:26AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 06:30 Z\nAt 126 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Freeland to near Ithaca to near Carson City. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Saginaw, Freeland, and Zilwaukee around 130 AM EDT. St. Charles and Marion Springs around 135 AM EDT. Bridgeport around 140 AM EDT. Chesaning around 155 AM EDT. Frankenmuth and Oakley around 200 AM EDT. Birch Run around 210 AM EDT.  Other locations impacted by these storms include Brant, Nelson, Carrollton, Garfield, Arthur, Fenmore, Burt, Buena Vista Township, Gera, and Layton Corners.\nGenerated: 2026-06-14 06:00:23 UTC"
   43.4800, -84.3700
   43.4800, -84.1700
   43.5700, -84.1700
@@ -67,7 +67,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 1:26AM EDT by NWS Detroit/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 1:05AM EDT by NWS Grand Rapids MI\nExpires: 2026-06-14 06:30 Z\nAt 102 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Allendale through Rockford to near Stanton. Movement was east at 30 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Grand Rapids...        Holland...             Ionia... Grand Haven...         Alma...                Greenville... St. Johns...           Portland...            Ithaca... Stanton...             Wyoming...             Kentwood... Walker...              Grandville...          East Grand Rapids... Grand Ledge...         St. Louis...           Hudsonville... Belding...             Rockford...\nGenerated: 2026-06-14 05:55:14 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 1:05AM EDT by NWS Grand Rapids MI\nExpires: 2026-06-14 06:30 Z\nAt 102 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Allendale through Rockford to near Stanton. Movement was east at 30 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Grand Rapids...        Holland...             Ionia... Grand Haven...         Alma...                Greenville... St. Johns...           Portland...            Ithaca... Stanton...             Wyoming...             Kentwood... Walker...              Grandville...          East Grand Rapids... Grand Ledge...         St. Louis...           Hudsonville... Belding...             Rockford...\nGenerated: 2026-06-14 06:00:23 UTC"
   42.7700, -86.2100
   43.1200, -86.2700
   43.1200, -85.9100
