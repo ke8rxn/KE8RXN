@@ -3,9 +3,53 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-14 15:55:17 UTC
+; Generated: 2026-06-14 16:00:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:45AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 16:45 Z\nAt 1144 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Livonia to near Canton to near Saline. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Warren, Ann Arbor, Livonia, Southfield, Taylor, St. Clair Shores, Romulus, Ypsilanti, Flat Rock, Saline, Milan, Grosse Pointe, Downtown Detroit, Canton, Detroit, Dearborn, Wyandotte, Trenton, Grosse Ile, and Northville.\nGenerated: 2026-06-14 15:55:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:56AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 17:15 Z\nAt 1156 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Tecumseh to near Adrian to near Hudson. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Adrian, Monroe, Flat Rock, Tecumseh, Milan, Dundee, Blissfield, Carleton, Hudson, Morenci, Temperance, Ida, Luna Pier, Petersburg, Onsted, Deerfield, Britton, Maybee, Clayton, and Lambertville.\nGenerated: 2026-06-14 16:00:24 UTC"
+  41.9600, -84.3600
+  42.0800, -84.0000
+  42.0900, -83.2900
+  42.0300, -83.1900
+  42.1100, -83.1900
+  42.0900, -83.1500
+  42.1100, -83.1300
+  42.0500, -83.1500
+  42.0100, -83.1300
+  41.9000, -83.2400
+  41.9000, -83.3000
+  41.8400, -83.3500
+  41.7200, -83.4100
+  41.7300, -83.4700
+  41.7100, -84.3600
+  41.9600, -84.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 10:56AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 16:30 Z\nAt 1056 AM CDT, Doppler radar was tracking a strong thunderstorm near Diana, or 10 miles north of Longview, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Longview, Hallsville, Ore City, Harleton, Diana, Judson and Nesbitt.\nGenerated: 2026-06-14 16:00:24 UTC"
+  32.5800, -94.8300
+  32.8000, -94.7900
+  32.7600, -94.3600
+  32.4100, -94.5600
+  32.5800, -94.8300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 10:55AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 16:45 Z\nAt 1055 AM CDT, Doppler radar was tracking a strong thunderstorm near Fosters, or near Bossier City, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Shreveport, Bossier City, Haughton, Sibley, Doyline, Eastwood, Fosters, Sligo, Bodcau, Koran, Taylortown, Curtis, Elm Grove, Fillmore, Princeton, Red Chute, Barksdale Air Force Base, Robson and Mc Dade.\nGenerated: 2026-06-14 16:00:24 UTC"
+  32.4200, -93.8000
+  32.5900, -93.7300
+  32.5800, -93.2700
+  32.3900, -93.3900
+  32.4000, -93.4200
+  32.4000, -93.4300
+  32.3800, -93.4300
+  32.3700, -93.4200
+  32.3700, -93.4100
+  32.2500, -93.4900
+  32.4200, -93.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 11:45AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 16:45 Z\nAt 1144 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Livonia to near Canton to near Saline. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Warren, Ann Arbor, Livonia, Southfield, Taylor, St. Clair Shores, Romulus, Ypsilanti, Flat Rock, Saline, Milan, Grosse Pointe, Downtown Detroit, Canton, Detroit, Dearborn, Wyandotte, Trenton, Grosse Ile, and Northville.\nGenerated: 2026-06-14 16:00:24 UTC"
   42.0300, -83.1700
   42.0100, -83.2100
   42.0400, -83.2000
@@ -24,7 +68,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 11:45AM EDT by NWS Detroit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:43AM EDT by NWS Northern Indiana\nExpires: 2026-06-14 16:30 Z\nAt 1142 AM EDT, Doppler radar was tracking a line of showers with a few embedded thunderstorms along a line extending from 9 miles southeast of Columbia City to near Huntington to near Andrews. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Wayne, Huntington, New Haven, Ossian, Andrews, Markle, Aboite, Middletown, Roanoke, Zanesville, Uniondale, Laud, Yoder, Kingsland, Rolling Hills, Nine Mile, Bowerstown, Poe, Servia, and Goblesville.  This includes the following highways... Interstate 469 between mile markers 0 and 19. Interstate 69 in Indiana between mile markers 285 and 304.\nGenerated: 2026-06-14 15:55:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:43AM EDT by NWS Northern Indiana\nExpires: 2026-06-14 16:30 Z\nAt 1142 AM EDT, Doppler radar was tracking a line of showers with a few embedded thunderstorms along a line extending from 9 miles southeast of Columbia City to near Huntington to near Andrews. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Wayne, Huntington, New Haven, Ossian, Andrews, Markle, Aboite, Middletown, Roanoke, Zanesville, Uniondale, Laud, Yoder, Kingsland, Rolling Hills, Nine Mile, Bowerstown, Poe, Servia, and Goblesville.  This includes the following highways... Interstate 469 between mile markers 0 and 19. Interstate 69 in Indiana between mile markers 285 and 304.\nGenerated: 2026-06-14 16:00:24 UTC"
   40.7900, -85.7600
   40.9000, -85.6100
   41.0600, -85.5200
@@ -38,7 +82,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 11:43AM EDT by NWS Norther
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:41AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-14 16:15 Z\nAt 1140 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northeast of Clayton to 6 miles east of Clarkesville. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walhalla, Toccoa, Westminster, Sky Valley, Tallulah Falls, Salem, Tallulah Gorge State Park, Oconee State Park, Devils Fork State Park, and Lake Jocassee.\nGenerated: 2026-06-14 15:55:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:41AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-14 16:15 Z\nAt 1140 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northeast of Clayton to 6 miles east of Clarkesville. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walhalla, Toccoa, Westminster, Sky Valley, Tallulah Falls, Salem, Tallulah Gorge State Park, Oconee State Park, Devils Fork State Park, and Lake Jocassee.\nGenerated: 2026-06-14 16:00:24 UTC"
   34.9900, -83.3500
   35.0000, -83.1100
   35.0200, -83.0400
