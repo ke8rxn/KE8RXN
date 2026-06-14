@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-14 04:40:15 UTC
+; Generated: 2026-06-14 04:45:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 11:26PM CDT by NWS Norman OK\nExpires: 2026-06-14 05:00 Z\nAt 1126 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Sweetwater, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sayre, Cheyenne, Reydon, Sweetwater, Strong City, Berlin, and Dempsey.\nGenerated: 2026-06-14 04:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 11:41PM CDT by NWS Norman OK\nExpires: 2026-06-14 05:15 Z\nAt 1140 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles west of Marland to 3 miles northeast of Carrier. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Enid, Tonkawa, Pond Creek, Garber, Billings, Lamont, Kremlin, Breckenridge, Hunter, Jefferson, North Enid, and Ceres.\nGenerated: 2026-06-14 04:45:20 UTC"
+  36.4800, -97.0900
+  36.4000, -97.9500
+  36.7500, -98.0200
+  36.7300, -97.3200
+  36.4800, -97.0900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 13 at 11:26PM CDT by NWS Norman OK\nExpires: 2026-06-14 05:00 Z\nAt 1126 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Sweetwater, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sayre, Cheyenne, Reydon, Sweetwater, Strong City, Berlin, and Dempsey.\nGenerated: 2026-06-14 04:45:20 UTC"
   35.2600, -99.9600
   35.7000, -100.0000
   35.7700, -99.4800
@@ -14,21 +23,7 @@ Line: 2,,"Special Weather Statement issued June 13 at 11:26PM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 11:17PM CDT by NWS Norman OK\nExpires: 2026-06-14 04:45 Z\nAt 1117 PM CDT, Doppler radar was tracking the leading edge of winds from strong thunderstorms along a line extending from 3 miles southwest of Lucien to 4 miles northwest of Drumright. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Stillwater, Cushing, Perry, Perkins, Yale, Glencoe, Covington, Ripley, Marshall, Breckenridge, Mulhall, Orlando, Fairmont, Douglas, Lake Carl Blackwell, Lake Mcmurtry, Lucien, Quay, Avery, and Ingalls.\nGenerated: 2026-06-14 04:40:15 UTC"
-  36.2900, -97.0400
-  36.2800, -96.9200
-  36.2500, -96.9200
-  36.2500, -96.8200
-  36.1600, -96.8200
-  36.1600, -96.6200
-  35.8500, -96.6200
-  36.1000, -97.7200
-  36.4400, -97.7400
-  36.2900, -97.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 13 at 11:12PM CDT by NWS Amarillo TX\nExpires: 2026-06-14 05:00 Z\nAt 1111 PM CDT, Doppler radar was tracking a strong thunderstorm over Greenbelt Lake, or 4 miles north of Clarendon, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clarendon, Groom, Howardwick, Hedley, Lelia Lake, Greenbelt Lake, and Goodnight.  This includes Interstate 40 between mile markers 112 and 128.\nGenerated: 2026-06-14 04:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 13 at 11:12PM CDT by NWS Amarillo TX\nExpires: 2026-06-14 05:00 Z\nAt 1111 PM CDT, Doppler radar was tracking a strong thunderstorm over Greenbelt Lake, or 4 miles north of Clarendon, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clarendon, Groom, Howardwick, Hedley, Lelia Lake, Greenbelt Lake, and Goodnight.  This includes Interstate 40 between mile markers 112 and 128.\nGenerated: 2026-06-14 04:45:20 UTC"
   34.9900, -101.2400
   35.3700, -101.0500
   34.8900, -100.5200
