@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-14 16:15:17 UTC
+; Generated: 2026-06-14 16:20:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 12:10PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-14 17:00 Z\nAt 1209 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Walhalla to 9 miles northeast of Toccoa. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clemson, Seneca, Pickens, Easley, Central, Northlake, Pendleton, Liberty, Norris, and Six Mile.\nGenerated: 2026-06-14 16:15:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 12:19PM EDT by NWS Blacksburg VA\nExpires: 2026-06-14 16:45 Z\nAt 1219 PM EDT, Doppler radar was tracking a strong thunderstorm near Reese, or near Sugar Grove, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jefferson... West Jefferson... Lansing... Glendale Springs... Sugar Grove... Todd... and Ashland.\nGenerated: 2026-06-14 16:20:17 UTC"
+  36.3400, -81.8500
+  36.3600, -81.8000
+  36.3400, -81.7700
+  36.3400, -81.7100
+  36.3800, -81.7300
+  36.3900, -81.7300
+  36.4100, -81.7400
+  36.4300, -81.7200
+  36.4600, -81.7100
+  36.4700, -81.7000
+  36.5000, -81.7000
+  36.5800, -81.4600
+  36.4800, -81.3500
+  36.3200, -81.3700
+  36.2200, -81.8600
+  36.3400, -81.8500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 12:17PM EDT by NWS Northern Indiana\nExpires: 2026-06-14 16:45 Z\nAt 1217 PM EDT, Doppler radar was tracking a strong thunderstorm near Ossian, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Decatur, Monroeville, Monroe, Middletown, Preble, Dixon, Magley, Poe, Peterson, Monmouth, Tocsin, Hoagland, Rivare, Curryville, and Pleasant Mills.\nGenerated: 2026-06-14 16:20:17 UTC"
+  40.8000, -85.1600
+  40.9400, -85.1000
+  41.0000, -84.8000
+  40.7200, -84.8000
+  40.8000, -85.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 12:10PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-14 17:00 Z\nAt 1209 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Walhalla to 9 miles northeast of Toccoa. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clemson, Seneca, Pickens, Easley, Central, Northlake, Pendleton, Liberty, Norris, and Six Mile.\nGenerated: 2026-06-14 16:20:17 UTC"
   34.9900, -82.5700
   34.5400, -82.6800
   34.5000, -83.0500
@@ -14,7 +43,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 12:10PM EDT by NWS Greenvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:56AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 17:15 Z\nAt 1156 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Tecumseh to near Adrian to near Hudson. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Adrian, Monroe, Flat Rock, Tecumseh, Milan, Dundee, Blissfield, Carleton, Hudson, Morenci, Temperance, Ida, Luna Pier, Petersburg, Onsted, Deerfield, Britton, Maybee, Clayton, and Lambertville.\nGenerated: 2026-06-14 16:15:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:56AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 17:15 Z\nAt 1156 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Tecumseh to near Adrian to near Hudson. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Adrian, Monroe, Flat Rock, Tecumseh, Milan, Dundee, Blissfield, Carleton, Hudson, Morenci, Temperance, Ida, Luna Pier, Petersburg, Onsted, Deerfield, Britton, Maybee, Clayton, and Lambertville.\nGenerated: 2026-06-14 16:20:17 UTC"
   41.9600, -84.3600
   42.0800, -84.0000
   42.0900, -83.2900
@@ -34,7 +63,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 11:56AM EDT by NWS Detroit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 10:56AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 16:30 Z\nAt 1056 AM CDT, Doppler radar was tracking a strong thunderstorm near Diana, or 10 miles north of Longview, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Longview, Hallsville, Ore City, Harleton, Diana, Judson and Nesbitt.\nGenerated: 2026-06-14 16:15:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 10:56AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 16:30 Z\nAt 1056 AM CDT, Doppler radar was tracking a strong thunderstorm near Diana, or 10 miles north of Longview, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Longview, Hallsville, Ore City, Harleton, Diana, Judson and Nesbitt.\nGenerated: 2026-06-14 16:20:17 UTC"
   32.5800, -94.8300
   32.8000, -94.7900
   32.7600, -94.3600
@@ -43,7 +72,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 10:56AM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 10:55AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 16:45 Z\nAt 1055 AM CDT, Doppler radar was tracking a strong thunderstorm near Fosters, or near Bossier City, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Shreveport, Bossier City, Haughton, Sibley, Doyline, Eastwood, Fosters, Sligo, Bodcau, Koran, Taylortown, Curtis, Elm Grove, Fillmore, Princeton, Red Chute, Barksdale Air Force Base, Robson and Mc Dade.\nGenerated: 2026-06-14 16:15:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 10:55AM CDT by NWS Shreveport LA\nExpires: 2026-06-14 16:45 Z\nAt 1055 AM CDT, Doppler radar was tracking a strong thunderstorm near Fosters, or near Bossier City, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Shreveport, Bossier City, Haughton, Sibley, Doyline, Eastwood, Fosters, Sligo, Bodcau, Koran, Taylortown, Curtis, Elm Grove, Fillmore, Princeton, Red Chute, Barksdale Air Force Base, Robson and Mc Dade.\nGenerated: 2026-06-14 16:20:17 UTC"
   32.4200, -93.8000
   32.5900, -93.7300
   32.5800, -93.2700
@@ -58,7 +87,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 10:55AM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:45AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 16:45 Z\nAt 1144 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Livonia to near Canton to near Saline. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Warren, Ann Arbor, Livonia, Southfield, Taylor, St. Clair Shores, Romulus, Ypsilanti, Flat Rock, Saline, Milan, Grosse Pointe, Downtown Detroit, Canton, Detroit, Dearborn, Wyandotte, Trenton, Grosse Ile, and Northville.\nGenerated: 2026-06-14 16:15:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:45AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-06-14 16:45 Z\nAt 1144 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Livonia to near Canton to near Saline. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Warren, Ann Arbor, Livonia, Southfield, Taylor, St. Clair Shores, Romulus, Ypsilanti, Flat Rock, Saline, Milan, Grosse Pointe, Downtown Detroit, Canton, Detroit, Dearborn, Wyandotte, Trenton, Grosse Ile, and Northville.\nGenerated: 2026-06-14 16:20:17 UTC"
   42.0300, -83.1700
   42.0100, -83.2100
   42.0400, -83.2000
@@ -77,7 +106,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 11:45AM EDT by NWS Detroit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:43AM EDT by NWS Northern Indiana\nExpires: 2026-06-14 16:30 Z\nAt 1142 AM EDT, Doppler radar was tracking a line of showers with a few embedded thunderstorms along a line extending from 9 miles southeast of Columbia City to near Huntington to near Andrews. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Wayne, Huntington, New Haven, Ossian, Andrews, Markle, Aboite, Middletown, Roanoke, Zanesville, Uniondale, Laud, Yoder, Kingsland, Rolling Hills, Nine Mile, Bowerstown, Poe, Servia, and Goblesville.  This includes the following highways... Interstate 469 between mile markers 0 and 19. Interstate 69 in Indiana between mile markers 285 and 304.\nGenerated: 2026-06-14 16:15:17 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:43AM EDT by NWS Northern Indiana\nExpires: 2026-06-14 16:30 Z\nAt 1142 AM EDT, Doppler radar was tracking a line of showers with a few embedded thunderstorms along a line extending from 9 miles southeast of Columbia City to near Huntington to near Andrews. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Wayne, Huntington, New Haven, Ossian, Andrews, Markle, Aboite, Middletown, Roanoke, Zanesville, Uniondale, Laud, Yoder, Kingsland, Rolling Hills, Nine Mile, Bowerstown, Poe, Servia, and Goblesville.  This includes the following highways... Interstate 469 between mile markers 0 and 19. Interstate 69 in Indiana between mile markers 285 and 304.\nGenerated: 2026-06-14 16:20:17 UTC"
   40.7900, -85.7600
   40.9000, -85.6100
   41.0600, -85.5200
