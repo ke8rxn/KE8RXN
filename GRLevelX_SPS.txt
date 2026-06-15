@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-15 03:40:16 UTC
+; Generated: 2026-06-15 03:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:15PM EDT by NWS Burlington VT\nExpires: 2026-06-15 04:00 Z\nAt 1115 PM EDT, Doppler radar was tracking a strong thunderstorm over Wallingford, moving northeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rutland, Woodstock, Killington, Ludlow Village, Rutland City, Wallingford, Rutland - Southern Vermont Airport, Pomfret, Plymouth, Hartland, West Rutland, Ira, Mount Holly, Sharon, Mount Tabor, Shrewsbury, Danby, Lake St. Catherine, Bridgewater, and Pittsfield.  This includes the following highways... Interstate 89 between mile markers 1 and 33. Interstate 91 between mile markers 59 and 61, and between mile markers 63 and 78.\nGenerated: 2026-06-15 03:40:16 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:43PM EDT by NWS Raleigh NC\nExpires: 2026-06-15 04:45 Z\nAt 1143 PM EDT, Doppler radar was tracking a strong thunderstorm near Cooleemee, or 8 miles north of Salisbury, moving east at 35 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greensboro, Winston-Salem, High Point, Asheboro, Lexington, Randleman, North Carolina Zoo, Thomasville, Clemmons, and Bermuda Run.  This includes the following highways... Interstate 85 between Mile Markers 33 and 35, and between Mile Markers 84 and 127. Interstate 40 between Mile Markers 182 and 186. Interstate 73 between Mile Markers 60 and 100. Interstate 74 between Mile Markers 60 and 79.\nGenerated: 2026-06-15 03:45:15 UTC"
+  36.0200, -79.7200
+  35.5100, -79.7600
+  35.5200, -80.1800
+  35.5800, -80.2100
+  35.6800, -80.3300
+  35.7200, -80.3300
+  35.7400, -80.4600
+  35.7700, -80.4500
+  35.8300, -80.4900
+  35.8400, -80.4800
+  35.8300, -80.4300
+  35.8500, -80.4200
+  35.8400, -80.3900
+  35.8600, -80.3900
+  35.8800, -80.4200
+  35.8900, -80.3700
+  35.9300, -80.3700
+  36.0600, -80.4600
+  36.0400, -80.4900
+  36.0700, -80.5100
+  36.0200, -79.7200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 11:15PM EDT by NWS Burlington VT\nExpires: 2026-06-15 04:00 Z\nAt 1115 PM EDT, Doppler radar was tracking a strong thunderstorm over Wallingford, moving northeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rutland, Woodstock, Killington, Ludlow Village, Rutland City, Wallingford, Rutland - Southern Vermont Airport, Pomfret, Plymouth, Hartland, West Rutland, Ira, Mount Holly, Sharon, Mount Tabor, Shrewsbury, Danby, Lake St. Catherine, Bridgewater, and Pittsfield.  This includes the following highways... Interstate 89 between mile markers 1 and 33. Interstate 91 between mile markers 59 and 61, and between mile markers 63 and 78.\nGenerated: 2026-06-15 03:45:15 UTC"
   43.3000, -72.8200
   43.3000, -72.9700
   43.2900, -72.9900
@@ -23,7 +48,7 @@ Line: 2,,"Special Weather Statement issued June 14 at 11:15PM EDT by NWS Burling
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:14PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-15 04:00 Z\nAt 1114 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Mocksville, or 7 miles west of Cooleemee, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Statesville, Mocksville, Cooleemee, Harmony, Fork Church, Turnersburg, Sheffield, Cool Springs, Olin, and Farmington.\nGenerated: 2026-06-15 03:40:16 UTC"
+Line: 2,,"Special Weather Statement issued June 14 at 11:14PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-15 04:00 Z\nAt 1114 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Mocksville, or 7 miles west of Cooleemee, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Statesville, Mocksville, Cooleemee, Harmony, Fork Church, Turnersburg, Sheffield, Cool Springs, Olin, and Farmington.\nGenerated: 2026-06-15 03:45:15 UTC"
   35.8300, -80.4500
   35.8400, -80.4700
   35.8300, -80.4900
@@ -34,25 +59,4 @@ Line: 2,,"Special Weather Statement issued June 14 at 11:14PM EDT by NWS Greenvi
   36.0200, -80.4600
   35.9400, -80.4300
   35.8300, -80.4500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 11:07PM EDT by NWS Albany NY\nExpires: 2026-06-15 03:45 Z\nAt 1106 PM EDT, Doppler radar was tracking a strong thunderstorm over Middleburgh, or 8 miles southeast of Cobleskill, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Schenectady, Clifton Park, Rotterdam, Scotia, Cobleskill, Glenville, Niskayuna, Duanesburg, Berne, Altamont, Middleburgh, Schoharie, Richmondville, Delanson, Breakabeen, Rotterdam Junction, East Glenville, Burnt Hills, North Blenheim, and Country Knolls.  This includes the following highways... Interstate 88 between exits 20 and 25. Interstate 90 between exits 25 and 26. Interstate 890 between exits 1a and 9. Interstate 87 between exits 8A and 10.\nGenerated: 2026-06-15 03:40:16 UTC"
-  42.4300, -74.5100
-  42.6200, -74.5900
-  43.0300, -73.9200
-  42.8200, -73.7000
-  42.4300, -74.5100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 10:54PM EDT by NWS Albany NY\nExpires: 2026-06-15 03:45 Z\nAt 1052 PM EDT, Doppler radar was tracking a strong thunderstorm near Mechanicville, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mechanicville, Salem, Manchester, Cambridge, Greenwich, Round Lake, Manchester Center, Gates, Malta, Porter, Lee, Northumberland, Easton, Stillwater, Schuylerville, Rupert, Victory, Schaghticoke, Valley Falls, and Sandgate.  This includes Interstate 87 near exit 12.\nGenerated: 2026-06-15 03:40:16 UTC"
-  42.8300, -73.6900
-  42.9800, -73.8400
-  43.3900, -73.2700
-  43.3700, -73.2500
-  43.3200, -73.2500
-  43.3100, -73.1800
-  43.1700, -73.0200
-  42.8300, -73.6900
 End:
