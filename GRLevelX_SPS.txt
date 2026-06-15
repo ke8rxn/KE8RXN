@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-15 05:55:22 UTC
+; Generated: 2026-06-15 06:00:25 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 14 at 10:41PM MST by NWS Phoenix AZ\nExpires: 2026-06-15 06:15 Z\nAt 1041 PM MST, Doppler radar was tracking a strong thunderstorm near Black Canyon City, or 7 miles north of New River, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New River, Black Canyon City Trailhead, Horseshoe Reservoir, and Seven Springs.  This includes AZ Interstate 17 between mile markers 233 and 241.\nGenerated: 2026-06-15 05:55:22 UTC"
+Line: 2,,"Special Weather Statement issued June 15 at 1:57AM EDT by NWS Tallahassee FL\nExpires: 2026-06-15 06:45 Z\nAt 157 AM EDT/1257 AM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Blakely to near Slocomb. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colquitt, Cottonwood, Graceville, Dothan, Donalsonville, Taylor, Ashford, Slocomb, Cowarts, Webb, Columbia, Centerville, Malone, Malvern, Rehobeth, Avon, Madrid, Gordon, Iron City, and Damascus.\nGenerated: 2026-06-15 06:00:25 UTC"
+  31.2300, -85.6900
+  31.2300, -85.5500
+  31.3100, -84.8800
+  31.2800, -84.5800
+  31.2200, -84.4000
+  31.2000, -84.4000
+  31.1700, -84.4700
+  31.1300, -84.5000
+  30.9700, -84.5000
+  30.9300, -84.9100
+  30.9400, -85.5300
+  30.9700, -85.5300
+  30.9900, -85.5000
+  31.0000, -85.5700
+  31.2300, -85.6900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 14 at 10:41PM MST by NWS Phoenix AZ\nExpires: 2026-06-15 06:15 Z\nAt 1041 PM MST, Doppler radar was tracking a strong thunderstorm near Black Canyon City, or 7 miles north of New River, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New River, Black Canyon City Trailhead, Horseshoe Reservoir, and Seven Springs.  This includes AZ Interstate 17 between mile markers 233 and 241.\nGenerated: 2026-06-15 06:00:25 UTC"
   34.0300, -112.0400
   33.9900, -111.6200
   33.8600, -112.1200
@@ -13,20 +32,4 @@ Line: 2,,"Special Weather Statement issued June 14 at 10:41PM MST by NWS Phoenix
   34.0200, -112.1600
   34.0500, -112.1500
   34.0300, -112.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 15 at 1:32AM EDT by NWS Tallahassee FL\nExpires: 2026-06-15 06:00 Z\nAt 131 AM EDT/1231 AM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Arlington to near Daleville. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Daleville, Colquitt, Cottonwood, Morgan, Headland, Dothan, Blakely, Taylor, Midland City, Kinsey, Ashford, Slocomb, Cowarts, Arlington, Webb, Columbia, Pinckard, Leary, Douglasville, and Centerville.\nGenerated: 2026-06-15 05:55:22 UTC"
-  31.5500, -84.5300
-  31.2300, -84.3900
-  31.2200, -84.4100
-  31.2000, -84.4100
-  31.1900, -84.4200
-  31.1900, -84.4300
-  31.1800, -84.4500
-  31.1700, -84.4600
-  31.1700, -84.5000
-  31.0000, -85.5700
-  31.2700, -85.7300
-  31.5500, -84.5300
 End:
