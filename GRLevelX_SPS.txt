@@ -3,9 +3,37 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-16 01:25:16 UTC
+; Generated: 2026-06-16 01:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 15 at 8:15PM CDT by NWS Amarillo TX\nExpires: 2026-06-16 01:45 Z\nAt 815 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles northwest of Dawn to 3 miles west of Easter. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hereford, Dawn, and Buffalo Lake.\nGenerated: 2026-06-16 01:25:16 UTC"
+Line: 2,,"Special Weather Statement issued June 15 at 6:29PM MST by NWS Phoenix AZ\nExpires: 2026-06-16 02:00 Z\nAt 629 PM MST, Doppler radar was tracking a strong thunderstorm near Wenden, or 31 miles south of Alamo Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gladden and Wenden.  This includes US Highway 60 between mile markers 63 and 78.\nGenerated: 2026-06-16 01:30:19 UTC"
+  33.7200, -113.5000
+  33.8900, -113.5500
+  33.9700, -113.2800
+  33.7700, -113.2100
+  33.7200, -113.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 15 at 6:26PM MST by NWS Phoenix AZ\nExpires: 2026-06-16 03:30 Z\nAt 625 PM MST, radar indicated clusters of strong thunderstorms were located along a line extending from near Coolidge to 7 miles southeast of Maricopa to 11 miles south of Estrella Mountain Ranch. Movement was south at 15 mph.  Conditions are becoming more favorable for the development of additional thunderstorms.  Winds in excess of 40 mph will be possible.  Strong, gusty winds will be capable of producing areas of blowing dust with reduced visibilities.  Locations impacted include... Chandler, Gilbert, Goodyear, Casa Grande, Florence, Coolidge, Sun Lakes, Maricopa, Queen Creek, Estrella, Arizona City, La Palma, Big Horn, San Tan Valley, Seville, Bapchule, Estrella Sailport, Olberg, Arizola, and San Tan Mountain Park.  This includes the following highways... AZ Interstate 10 between mile markers 166 and 204. AZ Interstate 8 between mile markers 129 and 178. AZ Route 87 between mile markers 124 and 162.  If outdoors, consider seeking shelter inside a building.\nGenerated: 2026-06-16 01:30:19 UTC"
+  33.2500, -112.5100
+  33.2400, -111.9100
+  33.3100, -111.4200
+  33.0000, -111.3000
+  32.7300, -111.6700
+  32.7300, -111.7400
+  32.8000, -111.7800
+  32.7600, -112.0500
+  32.7200, -112.0700
+  32.7200, -112.1400
+  32.6800, -112.1500
+  32.6800, -112.2000
+  32.6400, -112.2100
+  32.6300, -112.5200
+  33.2500, -112.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 15 at 8:15PM CDT by NWS Amarillo TX\nExpires: 2026-06-16 01:45 Z\nAt 815 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles northwest of Dawn to 3 miles west of Easter. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hereford, Dawn, and Buffalo Lake.\nGenerated: 2026-06-16 01:30:19 UTC"
   34.7500, -102.6700
   35.0600, -102.5400
   34.9400, -102.0800
@@ -14,7 +42,7 @@ Line: 2,,"Special Weather Statement issued June 15 at 8:15PM CDT by NWS Amarillo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 15 at 7:14PM MDT by NWS Albuquerque NM\nExpires: 2026-06-16 02:15 Z\nAt 714 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles southeast of Arch to 13 miles north of Elkins, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elida, Dora, Causey, Pep, Kenna, Milnesand, Lingo, Elkins, Arch and Rogers.\nGenerated: 2026-06-16 01:25:16 UTC"
+Line: 2,,"Special Weather Statement issued June 15 at 7:14PM MDT by NWS Albuquerque NM\nExpires: 2026-06-16 02:15 Z\nAt 714 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles southeast of Arch to 13 miles north of Elkins, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elida, Dora, Causey, Pep, Kenna, Milnesand, Lingo, Elkins, Arch and Rogers.\nGenerated: 2026-06-16 01:30:19 UTC"
   33.9400, -104.1400
   33.9700, -103.4600
   34.2200, -103.0400
@@ -25,13 +53,4 @@ Line: 2,,"Special Weather Statement issued June 15 at 7:14PM MDT by NWS Albuquer
   33.4400, -103.9500
   33.6700, -104.0900
   33.9400, -104.1400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 15 at 6:53PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-06-16 01:30 Z\nAt 653 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Dell City, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dell City.\nGenerated: 2026-06-16 01:25:16 UTC"
-  31.8300, -105.3800
-  31.9800, -105.4300
-  32.1800, -105.1300
-  31.8100, -105.0000
-  31.8300, -105.3800
 End:
