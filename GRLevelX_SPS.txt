@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-17 15:45:24 UTC
+; Generated: 2026-06-17 15:50:29 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 17 at 10:15AM CDT by NWS Tallahassee FL\nExpires: 2026-06-17 16:00 Z\nAt 1015 AM CDT, Doppler radar was tracking a strong thunderstorm over Vernon, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Chipley, Bonifay, Bradford, Alford, Wausau, Brock Crossroad, Chipley Municipal Airport, Orange Hill, Holmes County Airport, Ridgetop, Greenhead, Holmes Valley, Steele City, Gilberts Mill, Round Lake, Smyrna, Spring Hollow, Bahoma, and Sunny Hills.\nGenerated: 2026-06-17 15:45:24 UTC"
+Line: 2,,"Special Weather Statement issued June 17 at 11:48AM EDT by NWS Tallahassee FL\nExpires: 2026-06-17 16:30 Z\nAt 1148 AM EDT/1048 AM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Clayton to 8 miles south of Georgetown. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cuthbert, Georgetown, Wire Bridge, Standleys Store, Watson Crossroads, Scottsboro Crossroads, Double Bridges, Crossroads, Ricks Place, Thomas Mill Creek, Hatcher, Morris, Benevolence, Springvale, Cotton Hill, Wades, Days Crossroads, Springvale Station, Otho, and Peterson Hill.\nGenerated: 2026-06-17 15:50:29 UTC"
+  31.9700, -84.9600
+  31.9400, -84.9600
+  31.9200, -84.9100
+  31.9300, -84.8000
+  31.9200, -84.8000
+  31.9200, -84.6900
+  31.9300, -84.6800
+  31.9200, -84.6600
+  31.7500, -84.7600
+  31.6500, -85.2200
+  31.7000, -85.3500
+  31.7000, -85.2200
+  31.7400, -85.2000
+  31.7700, -85.1600
+  31.7700, -85.1200
+  31.8900, -85.1300
+  31.9400, -85.0800
+  31.9900, -85.0700
+  31.9700, -84.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 17 at 10:15AM CDT by NWS Tallahassee FL\nExpires: 2026-06-17 16:00 Z\nAt 1015 AM CDT, Doppler radar was tracking a strong thunderstorm over Vernon, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Chipley, Bonifay, Bradford, Alford, Wausau, Brock Crossroad, Chipley Municipal Airport, Orange Hill, Holmes County Airport, Ridgetop, Greenhead, Holmes Valley, Steele City, Gilberts Mill, Round Lake, Smyrna, Spring Hollow, Bahoma, and Sunny Hills.\nGenerated: 2026-06-17 15:50:29 UTC"
   30.8500, -85.6500
   30.8300, -85.4700
   30.6400, -85.3200
