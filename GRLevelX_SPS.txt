@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-18 07:25:26 UTC
+; Generated: 2026-06-18 07:30:28 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 2:23AM CDT by NWS Jackson MS\nExpires: 2026-06-18 08:30 Z\nAt 223 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Ovett, or 9 miles northwest of Richton, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Tuckers Crossing and Mill Creek around 235 AM CDT. Goodwater around 300 AM CDT. Shubuta and Stafford Springs around 305 AM CDT.\nGenerated: 2026-06-18 07:25:26 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 3:27AM EDT by NWS Charleston WV\nExpires: 2026-06-18 08:00 Z\nAt 327 AM EDT, Doppler radar was tracking a strong thunderstorm near Waverly, moving east at 65 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Athens, Wellston, Mcarthur, Albany, Lake Hope State Park, Chauncey, Hamden, Coalton, Zaleski, Wilkesville, Creola, Radcliffe, Stroud Run State Park, Dyesville, Darwin, Allensville, Harrisonville, Dexter, Byer, and Carpenter.\nGenerated: 2026-06-18 07:30:28 UTC"
+  39.1700, -82.7900
+  39.1700, -82.7700
+  39.3200, -82.7500
+  39.4100, -82.0000
+  39.0600, -81.9700
+  39.0900, -82.8000
+  39.1700, -82.7900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 18 at 2:23AM CDT by NWS Jackson MS\nExpires: 2026-06-18 08:30 Z\nAt 223 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Ovett, or 9 miles northwest of Richton, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Tuckers Crossing and Mill Creek around 235 AM CDT. Goodwater around 300 AM CDT. Shubuta and Stafford Springs around 305 AM CDT.\nGenerated: 2026-06-18 07:30:28 UTC"
   31.8900, -88.4900
   31.8200, -88.9400
   31.4300, -88.9400
@@ -18,62 +29,4 @@ Line: 2,,"Special Weather Statement issued June 18 at 2:23AM CDT by NWS Jackson 
   31.9900, -89.5200
   31.9300, -88.4700
   31.8900, -88.4900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 3:01AM EDT by NWS Indianapolis IN\nExpires: 2026-06-18 07:30 Z\nAt 300 AM EDT, Doppler radar was tracking a strong thunderstorm over Shoals, or 18 miles southwest of Bedford, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shoals, Mitchell, Huron, Spring Mill State Park, and Lacy.\nGenerated: 2026-06-18 07:25:26 UTC"
-  38.6100, -86.8500
-  38.7700, -86.8400
-  38.7600, -86.2800
-  38.7400, -86.2900
-  38.7300, -86.3100
-  38.6900, -86.3100
-  38.6900, -86.6800
-  38.5900, -86.6800
-  38.6100, -86.8500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 2:59AM EDT by NWS Wilmington OH\nExpires: 2026-06-18 07:30 Z\nAt 259 AM EDT, a strong thunderstorm was located over Aurora, moving east at 40 mph.  HAZARD...Wind gusts up to 45 mph and very heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Visibility will be poor and hydroplaning is possible.  Locations impacted include... Cincinnati, Covington, Florence, Independence, Norwood, Erlanger, Fort Thomas, Newport, Edgewood, Elsmere, Cheviot, Fort Mitchell, Villa Hills, Highland Heights, Taylor Mill, Bellevue, Fort Wright, Dayton, Lawrenceburg, and Greendale.  This includes the following Interstates... I-71 in Ohio between mile markers 0 and 6. I-75 in Kentucky between mile markers 177 and 191. I-75 in Ohio between mile markers 0 and 4.\nGenerated: 2026-06-18 07:25:26 UTC"
-  38.9700, -84.9800
-  39.1600, -84.9800
-  39.1500, -84.4300
-  38.9100, -84.4200
-  38.9700, -84.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 2:57AM EDT by NWS Wilmington OH\nExpires: 2026-06-18 07:30 Z\nAt 257 AM EDT, a strong thunderstorm was located over Milford, moving east at 50 mph.  HAZARD...Wind gusts up to 45 mph and very heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Visibility will be poor and hydroplaning is possible.  Locations impacted include... Sharonville, Blue Ash, Loveland, Reading, Montgomery, Madeira, Milford, Deer Park, Forestville, Mount Orab, Mariemont, Williamsburg, Terrace Park, Batavia, Camp Dennison, Remington, Plainville, Concorde Hills, and Rossmoyne.  This includes I-71 in Ohio between mile markers 10 and 16.\nGenerated: 2026-06-18 07:25:26 UTC"
-  39.0900, -84.4200
-  39.2600, -84.4100
-  39.2500, -83.9300
-  39.2500, -83.8600
-  39.0300, -83.8700
-  39.0900, -84.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 2:53AM EDT by NWS Charleston WV\nExpires: 2026-06-18 07:30 Z\nAt 253 AM EDT, Doppler radar was tracking a strong thunderstorm near Mcarthur, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Athens, Jackson, Wellston, Mcarthur, Albany, Lake Hope State Park, Nelsonville, Chauncey, Hamden, Coalton, Zaleski, Creola, Eagle Mills, Radcliffe, Dyesville, Darwin, Allensville, Harrisonville, Byer, and Carpenter.\nGenerated: 2026-06-18 07:25:26 UTC"
-  39.1700, -82.7900
-  39.1700, -82.7700
-  39.3700, -82.7500
-  39.3600, -82.6400
-  39.3700, -82.6300
-  39.3700, -82.5200
-  39.4000, -82.5100
-  39.3900, -82.2900
-  39.4300, -82.2900
-  39.4600, -82.0200
-  39.1200, -82.0000
-  39.0400, -82.8000
-  39.1700, -82.7900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 1:32AM CDT by NWS Jackson MS\nExpires: 2026-06-18 07:30 Z\nAt 132 AM CDT, Doppler radar was tracking a strong thunderstorm over Baxterville, or 11 miles west of Purvis, moving north at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Pine Burr around 135 AM CDT. Hattiesburg and Pine Ridge around 145 AM CDT. Sumrall and Improve around 200 AM CDT. Melba around 205 AM CDT. Sanford around 215 AM CDT.\nGenerated: 2026-06-18 07:25:26 UTC"
-  31.0200, -89.4600
-  31.0100, -89.7200
-  31.5400, -89.8000
-  31.5500, -89.3000
-  31.0200, -89.4600
 End:
