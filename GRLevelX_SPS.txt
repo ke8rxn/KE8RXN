@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-18 14:25:22 UTC
+; Generated: 2026-06-18 14:30:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 10:18AM EDT by NWS State College PA\nExpires: 2026-06-18 14:45 Z\nAt 1018 AM EDT, Doppler radar was tracking a strong thunderstorm over Danville, moving east at 60 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bloomsburg, Berwick, Danville, Mifflinville, Lightstreet, Almedia, Fernville, Mechanicsville, Buckhorn, Rupert, Mainville, Eyers Grove, Mooresburg, Espy, Lime Ridge, Briar Creek, Orangeville, Washingtonville, and Bloomsburg University.\nGenerated: 2026-06-18 14:25:22 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 10:25AM EDT by NWS Blacksburg VA\nExpires: 2026-06-18 15:00 Z\nAt 1024 AM EDT, Doppler radar was tracking a strong thunderstorm over Westlake Corner, or 8 miles southwest of Moneta, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moneta... Penhook... Huddleston... Burnt Chimney... Northwest Smith Mountain Lake... Westlake Corner... and Southern Smith Mountain Lake.\nGenerated: 2026-06-18 14:30:21 UTC"
+  36.9100, -79.5100
+  37.0700, -79.9500
+  37.2100, -79.7700
+  37.1500, -79.3800
+  37.0600, -79.4400
+  37.0600, -79.4000
+  37.0900, -79.4000
+  37.0900, -79.3900
+  37.1100, -79.3700
+  37.1200, -79.3800
+  37.1200, -79.3500
+  37.1400, -79.3400
+  37.1200, -79.3200
+  36.9100, -79.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 18 at 10:18AM EDT by NWS State College PA\nExpires: 2026-06-18 14:45 Z\nAt 1018 AM EDT, Doppler radar was tracking a strong thunderstorm over Danville, moving east at 60 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bloomsburg, Berwick, Danville, Mifflinville, Lightstreet, Almedia, Fernville, Mechanicsville, Buckhorn, Rupert, Mainville, Eyers Grove, Mooresburg, Espy, Lime Ridge, Briar Creek, Orangeville, Washingtonville, and Bloomsburg University.\nGenerated: 2026-06-18 14:30:21 UTC"
   40.9800, -76.5400
   40.9500, -76.7900
   41.0400, -76.7600
@@ -18,7 +36,7 @@ Line: 2,,"Special Weather Statement issued June 18 at 10:18AM EDT by NWS State C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 9:11AM CDT by NWS Birmingham AL\nExpires: 2026-06-18 14:45 Z\nAt 911 AM CDT, Doppler radar was tracking gusty showers along a line extending from Orrville to near Belknap to 11 miles northeast of Pine Apple. Movement was north at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Selma, Valley Grande, Mosses, Selmont-West Selmont, White Hall, Gordonville, Orrville, Benton, Bogue Chitto, Gardner Island, Tyler, Old Cahaba Park, Dallas County Horse Arena, Belknap, Paul M Grist State Park, Dallas Lake, Memorial Stadium, Burnsville, Potter Station, and Hazen.\nGenerated: 2026-06-18 14:25:22 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 9:11AM CDT by NWS Birmingham AL\nExpires: 2026-06-18 14:45 Z\nAt 911 AM CDT, Doppler radar was tracking gusty showers along a line extending from Orrville to near Belknap to 11 miles northeast of Pine Apple. Movement was north at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Selma, Valley Grande, Mosses, Selmont-West Selmont, White Hall, Gordonville, Orrville, Benton, Bogue Chitto, Gardner Island, Tyler, Old Cahaba Park, Dallas County Horse Arena, Belknap, Paul M Grist State Park, Dallas Lake, Memorial Stadium, Burnsville, Potter Station, and Hazen.\nGenerated: 2026-06-18 14:30:21 UTC"
   32.0500, -86.8600
   32.0500, -86.9400
   32.1300, -86.9900
@@ -40,56 +58,4 @@ Line: 2,,"Special Weather Statement issued June 18 at 9:11AM CDT by NWS Birmingh
   31.9600, -86.7900
   31.9600, -86.8600
   32.0500, -86.8600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 10:10AM EDT by NWS Blacksburg VA\nExpires: 2026-06-18 14:30 Z\nAt 1009 AM EDT, Doppler radar was tracking a strong thunderstorm over Gratton, or near Tazewell, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bluefield... Tazewell... Ceres... Burkes Garden... Clear Fork... Gratton... and Tiptop.\nGenerated: 2026-06-18 14:25:22 UTC"
-  37.2200, -81.4800
-  37.2200, -81.2000
-  37.1000, -81.1800
-  37.0600, -81.2200
-  37.0500, -81.2200
-  37.0200, -81.2800
-  37.0200, -81.2900
-  36.9900, -81.3300
-  37.0400, -81.5500
-  37.2200, -81.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 9:00AM CDT by NWS Tulsa OK\nExpires: 2026-06-18 14:30 Z\nAt 859 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles northeast of Edna to 4 miles east of Delaware to 5 miles west of Watova. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Miami...                          Vinita... Baxter Springs...                 Nowata... Commerce...                       Chelsea... Fairland...                       Afton... Quapaw...                         Adair... Welch...                          Delaware... Bluejacket...                     Lenapah... Big Cabin...                      Treece... New Alluwe...                     Watova... White Oak...                      Narcissa...  This includes Interstate 44 between mile markers 268 and 323.\nGenerated: 2026-06-18 14:25:22 UTC"
-  36.6900, -94.8600
-  36.4300, -95.1900
-  36.6200, -95.9300
-  36.8100, -95.6800
-  37.0000, -95.5100
-  37.0000, -94.6200
-  36.6900, -94.8600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 9:54AM EDT by NWS Jackson KY\nExpires: 2026-06-18 14:30 Z\nAt 954 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Dock to Vest to Buckhorn Lake S.P.. Movement was southeast at 55 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pikeville, Hazard, Prestonsburg, Hindman, Estill, Bath, Coal Run Village, Wheelwright, Fleming-Neon, Martin, Pippa Passes, Wayland, Vicco, Allen, Buckhorn, Elic, Meta, Cody, Handshoe, and Carr Creek.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Hal Rogers Parkway between mile markers 55 and 59. Kentucky Highway 80 in Floyd County between mile markers 1 and 14. Kentucky Highway 80 in Knott County between mile markers 1 and 20. Kentucky Highway 80 in Perry County between mile markers 9 and 15. U.S. Highway 119 in Pike County between mile markers 1 and 8. U.S. Highway 23 in Floyd County between mile markers 1 and 15. U.S. Highway 23 in Lethcher County between mile markers 6 and 7. U.S. Highway 23 in Pike County between mile markers 0 and 32.\nGenerated: 2026-06-18 14:25:22 UTC"
-  37.2300, -82.5300
-  37.1400, -83.0200
-  37.2900, -83.3600
-  37.3000, -83.3500
-  37.3000, -83.3700
-  37.3200, -83.4000
-  37.3100, -83.4200
-  37.3500, -83.5000
-  37.4500, -83.0600
-  37.6700, -82.8300
-  37.5300, -82.2600
-  37.2300, -82.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 9:46AM EDT by NWS State College PA\nExpires: 2026-06-18 14:30 Z\nAt 945 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bradford to 10 miles north of Marienville. Movement was east at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph. There is also the potential for a brief, isolated tornado to develop.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warren, Bradford, Kane, Allegany State Park, Sheffield, Youngsville, Smethport, Wetmore, Russell, Shinglehouse, Rew, Ludlow, Marshburg, Kinzua Bridge State Park, Scandia, Coryville, Cyclone, Grand Valley, Westline, and Warren South.\nGenerated: 2026-06-18 14:25:22 UTC"
-  42.0000, -78.2000
-  41.9500, -78.2100
-  41.6300, -78.6300
-  41.6300, -79.6100
-  41.8100, -79.5200
-  42.0000, -79.2900
-  42.0000, -78.2000
 End:
