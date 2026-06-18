@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-18 16:05:23 UTC
+; Generated: 2026-06-18 16:10:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 12:02PM EDT by NWS Blacksburg VA\nExpires: 2026-06-18 16:30 Z\nAt 1202 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Nathalie to Ingram to near Swansonville. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Danville... South Boston... Halifax... Clover... Blairs... Ingram... and Nathalie.\nGenerated: 2026-06-18 16:05:23 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 11:08AM CDT by NWS Birmingham AL\nExpires: 2026-06-18 17:00 Z\nAt 1108 AM CDT, Doppler radar was tracking gusty showers along a line extending from Hoover Metropolitan Stadium to Inverness to near Chelsea. Movement was north at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Birmingham, Hoover, Vestavia Hills, Bessemer, Homewood, Pelham, Mountain Brook, Trussville, Helena, Gardendale, Irondale, Leeds, Moody, Fairfield, Chelsea, Fultondale, Springville, Odenville, Wilsonville, and Center Point.\nGenerated: 2026-06-18 16:10:22 UTC"
+  33.8400, -86.7700
+  33.8300, -86.7400
+  33.7800, -86.6500
+  33.7700, -86.6500
+  33.7700, -86.5700
+  33.6900, -86.3500
+  33.2300, -86.5300
+  33.3000, -86.9300
+  33.8400, -86.8800
+  33.8400, -86.7700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 18 at 11:08AM CDT by NWS Tulsa OK\nExpires: 2026-06-18 16:45 Z\nAt 1108 AM CDT, Doppler radar indicated a strong thunderstorm 12 miles east of Delaware, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Welch...                          Bluejacket... Hollow...                         Pyramid Corners... Centralia...  This includes Interstate 44 between mile markers 290 and 293.\nGenerated: 2026-06-18 16:10:22 UTC"
+  36.6700, -95.0000
+  36.7200, -95.5500
+  37.0000, -95.5700
+  37.0000, -94.9900
+  36.6700, -95.0000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 18 at 12:02PM EDT by NWS Blacksburg VA\nExpires: 2026-06-18 16:30 Z\nAt 1202 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Nathalie to Ingram to near Swansonville. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Danville... South Boston... Halifax... Clover... Blairs... Ingram... and Nathalie.\nGenerated: 2026-06-18 16:10:22 UTC"
   36.6800, -78.8300
   36.5400, -79.2800
   36.5400, -79.4800
@@ -18,7 +41,7 @@ Line: 2,,"Special Weather Statement issued June 18 at 12:02PM EDT by NWS Blacksb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 11:01AM CDT by NWS Norman OK\nExpires: 2026-06-18 16:30 Z\nAt 1101 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northeast of Medford, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Medford, Deer Creek, and Renfrow.\nGenerated: 2026-06-18 16:05:23 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 11:01AM CDT by NWS Norman OK\nExpires: 2026-06-18 16:30 Z\nAt 1101 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northeast of Medford, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Medford, Deer Creek, and Renfrow.\nGenerated: 2026-06-18 16:10:22 UTC"
   36.7600, -97.4700
   36.7800, -97.7800
   37.0000, -97.8200
@@ -27,7 +50,7 @@ Line: 2,,"Special Weather Statement issued June 18 at 11:01AM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 10:46AM CDT by NWS Tulsa OK\nExpires: 2026-06-18 16:15 Z\nAt 1046 AM CDT, Doppler radar indicated a strong thunderstorm over Lenapah, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... South Coffeyville...              Delaware... Lenapah...                        Hollow... Centralia...\nGenerated: 2026-06-18 16:05:23 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 10:46AM CDT by NWS Tulsa OK\nExpires: 2026-06-18 16:15 Z\nAt 1046 AM CDT, Doppler radar indicated a strong thunderstorm over Lenapah, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... South Coffeyville...              Delaware... Lenapah...                        Hollow... Centralia...\nGenerated: 2026-06-18 16:10:22 UTC"
   36.6900, -95.2100
   36.7400, -95.7400
   37.0000, -95.7700
@@ -36,7 +59,7 @@ Line: 2,,"Special Weather Statement issued June 18 at 10:46AM CDT by NWS Tulsa O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 10:45AM CDT by NWS Birmingham AL\nExpires: 2026-06-18 16:15 Z\nAt 1045 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms over American Village, or near Calera, moving north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Birmingham, Hoover, Vestavia Hills, Alabaster, Homewood, Pelham, Mountain Brook, Helena, Irondale, Calera, Chelsea, Montevallo, Columbiana, Indian Springs Village, Westover, Wilton, Birmingham Fairgounds, American Village, Five Points South, and Oak Mountain State Park.\nGenerated: 2026-06-18 16:05:23 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 10:45AM CDT by NWS Birmingham AL\nExpires: 2026-06-18 16:15 Z\nAt 1045 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms over American Village, or near Calera, moving north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Birmingham, Hoover, Vestavia Hills, Alabaster, Homewood, Pelham, Mountain Brook, Helena, Irondale, Calera, Chelsea, Montevallo, Columbiana, Indian Springs Village, Westover, Wilton, Birmingham Fairgounds, American Village, Five Points South, and Oak Mountain State Park.\nGenerated: 2026-06-18 16:10:22 UTC"
   33.4700, -86.4400
   33.0700, -86.6800
   33.0700, -86.7600
@@ -46,7 +69,7 @@ Line: 2,,"Special Weather Statement issued June 18 at 10:45AM CDT by NWS Birming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 18 at 11:39AM EDT by NWS Morristown TN\nExpires: 2026-06-18 16:45 Z\nAt 1138 AM EDT, Doppler radar was tracking gusty showers along a line extending from 8 miles southwest of Cleveland Va to 8 miles northeast of Elizabethton. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bristol Tn, Bristol Va, Elizabethton, Abingdon, Lebanon, Mountain City, Cleveland Va, Walnut Hill, Glade Spring, and Honaker.\nGenerated: 2026-06-18 16:05:23 UTC"
+Line: 2,,"Special Weather Statement issued June 18 at 11:39AM EDT by NWS Morristown TN\nExpires: 2026-06-18 16:45 Z\nAt 1138 AM EDT, Doppler radar was tracking gusty showers along a line extending from 8 miles southwest of Cleveland Va to 8 miles northeast of Elizabethton. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bristol Tn, Bristol Va, Elizabethton, Abingdon, Lebanon, Mountain City, Cleveland Va, Walnut Hill, Glade Spring, and Honaker.\nGenerated: 2026-06-18 16:10:22 UTC"
   36.5900, -81.6800
   36.5300, -81.7100
   36.4700, -81.7000
