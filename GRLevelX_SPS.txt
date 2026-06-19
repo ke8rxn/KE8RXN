@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-19 16:10:18 UTC
+; Generated: 2026-06-19 16:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 11:06AM CDT by NWS Shreveport LA\nExpires: 2026-06-19 16:45 Z\nAt 1106 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from over McLeod to 9 miles south of Marshall, or extending from 15 miles southeast of Atlanta to 9 miles south of Marshall, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shreveport, Bossier City, Marshall, Vivian, Hallsville, Greenwood, Blanchard, Waskom, Jefferson, Benton, Plain Dealing, Oil City, Mooringsport, Hosston, Rodessa, Belcher, Ida, Gilliam, Karnack and Smithland.\nGenerated: 2026-06-19 16:10:18 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 11:12AM CDT by NWS Fort Worth TX\nExpires: 2026-06-19 16:45 Z\nAt 1111 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Hamilton, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Hamilton around 1115 AM CDT.  Other locations impacted by this storm include Pancake, Shive, Olin, Purmela, Whiteway, Aleman, Arnett, Indian Gap, Levita, and Pearl.\nGenerated: 2026-06-19 16:15:17 UTC"
+  31.7200, -98.3900
+  31.8400, -98.1600
+  31.9100, -98.2000
+  31.9200, -98.2000
+  31.9300, -98.1900
+  31.8000, -97.8500
+  31.6700, -97.7700
+  31.6800, -97.7500
+  31.4400, -97.6900
+  31.0800, -97.9100
+  31.5300, -98.2200
+  31.6700, -98.4400
+  31.7200, -98.3900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 19 at 11:10AM CDT by NWS Shreveport LA\nExpires: 2026-06-19 17:00 Z\nAt 1110 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles west of Wilton to over Garland, or extending from 8 miles northwest of Ashdown to 7 miles west of Lewisville, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Texarkana, Hope, Ashdown, Stamps, Lewisville, Mineral Springs, Foreman, Lockesburg, Wilton, Garland, Tollette, Fulton, Ogden, Ben Lomond, Mandeville, Saratoga, Genoa and Richmond.\nGenerated: 2026-06-19 16:15:17 UTC"
+  33.4100, -94.0400
+  33.4500, -94.1000
+  33.6900, -94.4200
+  34.0100, -94.1400
+  33.8000, -93.7200
+  33.4500, -93.3800
+  33.1800, -93.7200
+  33.4100, -94.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 19 at 11:06AM CDT by NWS Shreveport LA\nExpires: 2026-06-19 16:45 Z\nAt 1106 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from over McLeod to 9 miles south of Marshall, or extending from 15 miles southeast of Atlanta to 9 miles south of Marshall, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shreveport, Bossier City, Marshall, Vivian, Hallsville, Greenwood, Blanchard, Waskom, Jefferson, Benton, Plain Dealing, Oil City, Mooringsport, Hosston, Rodessa, Belcher, Ida, Gilliam, Karnack and Smithland.\nGenerated: 2026-06-19 16:15:17 UTC"
   32.4300, -94.6700
   32.7400, -94.3700
   33.0400, -94.1500
@@ -21,7 +50,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 11:06AM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 12:03PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 16:45 Z\nAt 1203 PM EDT, Doppler radar was tracking a strong thunderstorm near Race Pond, or 10 miles northeast of Stephen Foster State Park, moving east at 35 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hilliard, Folkston, Homeland, and Kings Ferry.\nGenerated: 2026-06-19 16:10:18 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 12:03PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 16:45 Z\nAt 1203 PM EDT, Doppler radar was tracking a strong thunderstorm near Race Pond, or 10 miles northeast of Stephen Foster State Park, moving east at 35 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hilliard, Folkston, Homeland, and Kings Ferry.\nGenerated: 2026-06-19 16:15:17 UTC"
   30.7200, -82.3500
   31.0100, -82.3100
   30.9300, -81.7400
@@ -30,18 +59,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 12:03PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 11:57AM EDT by NWS Newport/Morehead City NC\nExpires: 2026-06-19 16:15 Z\nAt 1156 AM EDT, Doppler radar was tracking strong thunderstorms capable of producing a waterspout over Sea Level along a line extending from near Whortonsville to near Atlantic to 6 miles southeast of Davis. Movement was northeast at 50 mph.  HAZARD...Waterspouts and wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cedar Island, Sealevel, Atlantic, Whortonsville, Portsmouth Village, Ocracoke Light House, and Cedar Island Ferry Terminal.\nGenerated: 2026-06-19 16:10:18 UTC"
-  34.6300, -76.4400
-  34.8600, -76.4100
-  35.1000, -76.6600
-  35.3300, -76.4100
-  35.1100, -76.0300
-  34.8600, -76.0400
-  34.6300, -76.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 11:45AM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 16:30 Z\nAt 1145 AM EDT, Doppler radar was tracking a strong thunderstorm over Boggy Bay, or near Waycross, moving east at 30 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waycross, Nahunta, Hickox, Boggy Bay, Braganza, Waynesville, Race Pond, Fort Mudge, Atkinson, and Needham.\nGenerated: 2026-06-19 16:10:18 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 11:45AM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 16:30 Z\nAt 1145 AM EDT, Doppler radar was tracking a strong thunderstorm over Boggy Bay, or near Waycross, moving east at 30 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waycross, Nahunta, Hickox, Boggy Bay, Braganza, Waynesville, Race Pond, Fort Mudge, Atkinson, and Needham.\nGenerated: 2026-06-19 16:15:17 UTC"
   31.0300, -82.4800
   31.2700, -82.4100
   31.2500, -81.7800
