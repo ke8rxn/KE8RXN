@@ -3,20 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-19 17:50:14 UTC
+; Generated: 2026-06-19 17:55:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 12:48PM CDT by NWS Mobile AL\nExpires: 2026-06-19 18:30 Z\nAt 1248 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles west of Red Level to 4 miles southwest of Elba. Movement was south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Andalusia, Opp, Florala, River Falls, Red Level, Laurel Hill, Lockhart, Heath, and Gantt.\nGenerated: 2026-06-19 17:50:14 UTC"
-  30.9900, -86.3900
-  30.9200, -86.3900
-  30.9300, -86.9500
-  31.4500, -86.7400
-  31.4400, -86.1900
-  30.9900, -86.1900
-  30.9900, -86.3900
+Line: 2,,"Special Weather Statement issued June 19 at 1:50PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 18:15 Z\nAt 150 PM EDT, Doppler radar was tracking a strong thunderstorm over Craig Field, or near Arlington, moving east at 30 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Unf, Arlington, Jacksonville Beach, Atlantic Beach, Neptune Beach, Baymeadows, Mayport, Craig Field, San Pablo, and Little Talbot Island.\nGenerated: 2026-06-19 17:55:15 UTC"
+  30.2200, -81.5700
+  30.3400, -81.6600
+  30.5000, -81.3700
+  30.2600, -81.3300
+  30.2200, -81.5700
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 12:48PM CDT by NWS Tallahassee FL\nExpires: 2026-06-19 18:45 Z\nAt 1247 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Andalusia to near Geneva to 9 miles south of Hartford to near Marianna. Movement was south at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cottonwood, Bonifay, Geneva, Marianna, Chipley, Graceville, De Funiak Springs, Hartford, Slocomb, Samson, Union, Liberty, Malone, Sneads, Cottondale, Grand Ridge, Greenwood, Paxton, Ponce De Leon, and Kinston.\nGenerated: 2026-06-19 17:50:14 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 12:48PM CDT by NWS Tallahassee FL\nExpires: 2026-06-19 18:45 Z\nAt 1247 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Andalusia to near Geneva to 9 miles south of Hartford to near Marianna. Movement was south at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cottonwood, Bonifay, Geneva, Marianna, Chipley, Graceville, De Funiak Springs, Hartford, Slocomb, Samson, Union, Liberty, Malone, Sneads, Cottondale, Grand Ridge, Greenwood, Paxton, Ponce De Leon, and Kinston.\nGenerated: 2026-06-19 17:55:15 UTC"
   30.9900, -86.3900
   31.0000, -86.1900
   31.2800, -86.1900
@@ -30,7 +28,18 @@ Line: 2,,"Special Weather Statement issued June 19 at 12:48PM CDT by NWS Tallaha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 1:46PM EDT by NWS Tallahassee FL\nExpires: 2026-06-19 18:15 Z\nAt 146 PM EDT, Doppler radar was tracking a strong thunderstorm near Moultrie, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moultrie, Adel, Hahira, Sparks, Morven, Berlin, Cecil, Ellenton, Reed Bingham State Park, Cook Co A/P, Barney, Cool Spring, Pineboro, Massee, Autreyville, Barneyville, Greggs, Pine Valley, Flat Ford, and Spence Airport.\nGenerated: 2026-06-19 17:50:14 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 12:48PM CDT by NWS Mobile AL\nExpires: 2026-06-19 18:30 Z\nAt 1248 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles west of Red Level to 4 miles southwest of Elba. Movement was south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Andalusia, Opp, Florala, River Falls, Red Level, Laurel Hill, Lockhart, Heath, and Gantt.\nGenerated: 2026-06-19 17:55:15 UTC"
+  30.9900, -86.3900
+  30.9200, -86.3900
+  30.9300, -86.9500
+  31.4500, -86.7400
+  31.4400, -86.1900
+  30.9900, -86.1900
+  30.9900, -86.3900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 19 at 1:46PM EDT by NWS Tallahassee FL\nExpires: 2026-06-19 18:15 Z\nAt 146 PM EDT, Doppler radar was tracking a strong thunderstorm near Moultrie, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moultrie, Adel, Hahira, Sparks, Morven, Berlin, Cecil, Ellenton, Reed Bingham State Park, Cook Co A/P, Barney, Cool Spring, Pineboro, Massee, Autreyville, Barneyville, Greggs, Pine Valley, Flat Ford, and Spence Airport.\nGenerated: 2026-06-19 17:55:15 UTC"
   30.9100, -83.3900
   31.0300, -83.7400
   31.0400, -83.7400
@@ -43,7 +52,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 1:46PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 1:40PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 18:15 Z\nAt 140 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles south of Stephen Foster State Park to near Taylor. Movement was northeast at 15 mph.  HAZARD...Wind gusts around 40 mph and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring.  These storms will remain over mainly rural areas of northwestern Baker, southeastern Ware and south central Charlton Counties.\nGenerated: 2026-06-19 17:50:14 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 1:40PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 18:15 Z\nAt 140 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles south of Stephen Foster State Park to near Taylor. Movement was northeast at 15 mph.  HAZARD...Wind gusts around 40 mph and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring.  These storms will remain over mainly rural areas of northwestern Baker, southeastern Ware and south central Charlton Counties.\nGenerated: 2026-06-19 17:55:15 UTC"
   30.5800, -82.4200
   30.6600, -82.4200
   30.6900, -82.0500
@@ -53,7 +62,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 1:40PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 1:25PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 18:00 Z\nAt 125 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Blue Springs to 7 miles northwest of Dowling Park. Movement was east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Live Oak, Jasper, Jennings, Suwannee Springs, Suwannee River State Park, Blue Springs, Crossroads, Newburn, and Houston.\nGenerated: 2026-06-19 17:50:14 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 1:25PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 18:00 Z\nAt 125 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Blue Springs to 7 miles northwest of Dowling Park. Movement was east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Live Oak, Jasper, Jennings, Suwannee Springs, Suwannee River State Park, Blue Springs, Crossroads, Newburn, and Houston.\nGenerated: 2026-06-19 17:55:15 UTC"
   30.6300, -83.1400
   30.6400, -83.1400
   30.6600, -82.7300
@@ -78,7 +87,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 1:25PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 1:24PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 18:00 Z\nAt 124 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Hilliard to near Callahan to near St. George. Movement was east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Callahan, Jacksonville International Arpt, Yulee, Ratliff, and Nassau Village-Ratliff.\nGenerated: 2026-06-19 17:50:14 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 1:24PM EDT by NWS Jacksonville FL\nExpires: 2026-06-19 18:00 Z\nAt 124 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Hilliard to near Callahan to near St. George. Movement was east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Callahan, Jacksonville International Arpt, Yulee, Ratliff, and Nassau Village-Ratliff.\nGenerated: 2026-06-19 17:55:15 UTC"
   30.5000, -81.5600
   30.4600, -81.6700
   30.4700, -82.0200
