@@ -3,9 +3,37 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-19 19:55:15 UTC
+; Generated: 2026-06-19 20:00:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 1:48PM MDT by NWS Albuquerque NM\nExpires: 2026-06-19 20:15 Z\nAt 148 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of El Porvenir, or 13 miles west of Las Vegas, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... El Porvenir, Mineral Hill, San Geronimo, San Pablo and Gallinas.\nGenerated: 2026-06-19 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 3:57PM EDT by NWS Tallahassee FL\nExpires: 2026-06-19 20:45 Z\nAt 357 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 16 miles south of Monticello to 13 miles east of St. Marks to near Crawfordville. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Woodville, St. Marks, Perry, Crawfordville, Wakulla, Newport, Shadeville, Hells Half Acre, Wakulla Springs, Eridu, Cabbage Grove, Panacea, Scanlon, Medart, Foley, Bethel, Perry-Foley Airport, Liveoak Island, Hampton Springs, and Goose Pasture.\nGenerated: 2026-06-19 20:00:20 UTC"
+  29.9000, -83.8100
+  30.0200, -84.0400
+  30.0100, -84.2200
+  29.9800, -84.2400
+  30.0200, -84.4400
+  30.2900, -84.4200
+  30.3000, -84.2500
+  30.2700, -84.2400
+  30.2700, -84.0800
+  30.3100, -84.0700
+  30.3300, -83.7900
+  30.3100, -83.8200
+  30.3000, -83.6900
+  30.0800, -83.4900
+  29.9000, -83.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 19 at 3:57PM EDT by NWS Miami FL\nExpires: 2026-06-19 20:45 Z\nAt 356 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near Felda, or 8 miles north of Immokalee. These storms are nearly stationary.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Labelle, Port La Belle, Ortona, Felda, and Keri.\nGenerated: 2026-06-19 20:00:20 UTC"
+  26.8100, -81.5600
+  26.8100, -81.1700
+  26.5000, -81.2800
+  26.4800, -81.5600
+  26.8100, -81.5600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 19 at 1:48PM MDT by NWS Albuquerque NM\nExpires: 2026-06-19 20:15 Z\nAt 148 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of El Porvenir, or 13 miles west of Las Vegas, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... El Porvenir, Mineral Hill, San Geronimo, San Pablo and Gallinas.\nGenerated: 2026-06-19 20:00:20 UTC"
   35.7000, -105.5400
   35.7500, -105.3900
   35.5600, -105.2500
@@ -17,7 +45,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 1:48PM MDT by NWS Albuquer
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 3:41PM EDT by NWS Melbourne FL\nExpires: 2026-06-19 20:15 Z\nAt 341 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Lake Kissimmee, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake Kissimmee, Lake Marian, Holopaw, Kenansville, and Harmony.\nGenerated: 2026-06-19 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 3:41PM EDT by NWS Melbourne FL\nExpires: 2026-06-19 20:15 Z\nAt 341 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Lake Kissimmee, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake Kissimmee, Lake Marian, Holopaw, Kenansville, and Harmony.\nGenerated: 2026-06-19 20:00:20 UTC"
   28.0100, -81.3800
   28.0700, -81.3700
   28.0700, -81.3500
@@ -42,7 +70,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 3:41PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 2:25PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-19 20:15 Z\nAt 225 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Vineland, or 23 miles east of Little Falls, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Onamia, Isle, Wahkon, Vineland, Hillman, Bayview, Lake Mille Lacs, Mille Lacs Kathio State Park, Rum River State Forest and Father Hennepin State Park.\nGenerated: 2026-06-19 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 2:25PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-19 20:15 Z\nAt 225 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Vineland, or 23 miles east of Little Falls, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Onamia, Isle, Wahkon, Vineland, Hillman, Bayview, Lake Mille Lacs, Mille Lacs Kathio State Park, Rum River State Forest and Father Hennepin State Park.\nGenerated: 2026-06-19 20:00:20 UTC"
   46.0100, -93.9000
   46.1600, -93.8900
   46.1600, -93.8100
@@ -56,7 +84,7 @@ Line: 2,,"Special Weather Statement issued June 19 at 2:25PM CDT by NWS Twin Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 2:20PM CDT by NWS Mobile AL\nExpires: 2026-06-19 20:15 Z\nAt 220 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Monroeville to 7 miles southwest of Laurel Hill. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Crestview, Monroeville, Brewton, Evergreen, Florala, Frisco City, Baker, Peterman, East Brewton, Castleberry, Excel, Laurel Hill, Lockhart, Beatrice, Repton, Riverview, I65 And US 84, and I65 And AL 113.\nGenerated: 2026-06-19 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued June 19 at 2:20PM CDT by NWS Mobile AL\nExpires: 2026-06-19 20:15 Z\nAt 220 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Monroeville to 7 miles southwest of Laurel Hill. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Crestview, Monroeville, Brewton, Evergreen, Florala, Frisco City, Baker, Peterman, East Brewton, Castleberry, Excel, Laurel Hill, Lockhart, Beatrice, Repton, Riverview, I65 And US 84, and I65 And AL 113.\nGenerated: 2026-06-19 20:00:20 UTC"
   30.9900, -86.3900
   30.6800, -86.3900
   30.5000, -86.6600
@@ -64,56 +92,4 @@ Line: 2,,"Special Weather Statement issued June 19 at 2:20PM CDT by NWS Mobile A
   31.7700, -87.2400
   31.0000, -86.2500
   30.9900, -86.3900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 3:19PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-06-19 20:00 Z\nAt 319 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Lake Wales, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake Wales, Hillcrest Heights, Highland Park, and Babson Park.\nGenerated: 2026-06-19 19:55:15 UTC"
-  27.7700, -81.5200
-  27.9100, -81.6000
-  28.0300, -81.4400
-  28.0000, -81.4200
-  28.0000, -81.3900
-  28.0300, -81.3900
-  28.0400, -81.4200
-  28.0800, -81.3500
-  28.0700, -81.3500
-  28.0700, -81.3600
-  28.0400, -81.3600
-  28.0200, -81.3800
-  27.9900, -81.3800
-  27.9500, -81.3400
-  27.9400, -81.3500
-  27.9200, -81.3100
-  27.8700, -81.3000
-  27.7700, -81.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 2:18PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-19 20:00 Z\nAt 217 PM CDT/117 PM MDT/, Doppler radar was tracking a strong thunderstorm 17 miles southeast of Pine Springs, moving west at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pine Springs, McKittrick Canyon, and Guadalupe Mountains National Park.\nGenerated: 2026-06-19 19:55:15 UTC"
-  31.9900, -104.6100
-  31.6500, -104.4900
-  31.5300, -104.7100
-  31.9700, -104.8800
-  31.9900, -104.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 19 at 2:02PM CDT by NWS Mobile AL\nExpires: 2026-06-19 20:00 Z\nAt 200 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Wilmer, or 11 miles east of Lucedale, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Saraland, Satsuma, Lucedale, Creola, Chunchula, Gulfcrest, Axis, Semmes, Tanner Williams, I65 And AL 158, Mobile Regional Airport, and Wilmer.\nGenerated: 2026-06-19 19:55:15 UTC"
-  30.7200, -88.4100
-  30.7400, -88.4100
-  30.7400, -88.4400
-  30.9100, -88.6600
-  31.0000, -88.5200
-  31.0000, -88.4300
-  31.0600, -88.4300
-  31.1000, -88.3600
-  30.9300, -87.9200
-  30.9300, -87.9300
-  30.9200, -87.9400
-  30.9300, -87.9500
-  30.9200, -87.9600
-  30.9000, -87.9600
-  30.8700, -87.9800
-  30.6100, -88.2800
-  30.7200, -88.4100
 End:
