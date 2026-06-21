@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-21 16:40:15 UTC
+; Generated: 2026-06-21 16:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 11:36AM CDT by NWS Jackson MS\nExpires: 2026-06-21 17:15 Z\nAt 1135 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Brownsville to near Ridgeland to near Pearl. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Madison, Ridgeland, Brandon, Gluckstadt, Flora, Annandale, and Pocahontas around 1140 AM CDT. Canton around 1145 AM CDT. Fannin around 1150 AM CDT. Goshen Springs around 1200 PM CDT.\nGenerated: 2026-06-21 16:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 11:43AM CDT by NWS Shreveport LA\nExpires: 2026-06-21 17:45 Z\nAt 1143 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Benton, or 11 miles northwest of Bossier City, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bossier City, Minden, Springhill, Homer, Vivian, Haughton, Haynesville, Benton, Cullen, Plain Dealing, Cotton Valley, Oil City, Sarepta, Fouke, Doyline, Mooringsport and Bradley.\nGenerated: 2026-06-21 16:45:16 UTC"
+  32.6900, -94.0800
+  33.3200, -94.0300
+  33.3200, -93.5500
+  33.1000, -93.1300
+  32.8200, -92.9900
+  32.3300, -93.5700
+  32.5300, -93.7000
+  32.6400, -93.9300
+  32.6500, -94.0400
+  32.6900, -94.0400
+  32.6900, -94.0800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 21 at 11:36AM CDT by NWS Jackson MS\nExpires: 2026-06-21 17:15 Z\nAt 1135 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Brownsville to near Ridgeland to near Pearl. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Madison, Ridgeland, Brandon, Gluckstadt, Flora, Annandale, and Pocahontas around 1140 AM CDT. Canton around 1145 AM CDT. Fannin around 1150 AM CDT. Goshen Springs around 1200 PM CDT.\nGenerated: 2026-06-21 16:45:16 UTC"
   32.2300, -89.9700
   32.4000, -90.2500
   32.4900, -90.4500
@@ -18,7 +33,7 @@ Line: 2,,"Special Weather Statement issued June 21 at 11:36AM CDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 12:36PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 17:30 Z\nAt 1236 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Madison to 12 miles east of Tallahassee to 10 miles northeast of Carrabelle. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Woodville, Monticello, St. Marks, Madison, Crawfordville, Wakulla, Greenville, Sopchoppy, Lee, Cody, Panacea, Drifton, Scanlon, Medart, Hanson, Natural Bridge, Liveoak Island, Curtis Mill, and Lake Miccosukee.\nGenerated: 2026-06-21 16:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 12:36PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 17:30 Z\nAt 1236 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Madison to 12 miles east of Tallahassee to 10 miles northeast of Carrabelle. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Woodville, Monticello, St. Marks, Madison, Crawfordville, Wakulla, Greenville, Sopchoppy, Lee, Cody, Panacea, Drifton, Scanlon, Medart, Hanson, Natural Bridge, Liveoak Island, Curtis Mill, and Lake Miccosukee.\nGenerated: 2026-06-21 16:45:16 UTC"
   30.2600, -83.2400
   30.2400, -83.6900
   30.0100, -84.0200
@@ -35,42 +50,4 @@ Line: 2,,"Special Weather Statement issued June 21 at 12:36PM EDT by NWS Tallaha
   30.4200, -83.2200
   30.3900, -83.1700
   30.2600, -83.2400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 11:05AM CDT by NWS Jackson MS\nExpires: 2026-06-21 16:45 Z\nAt 1104 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bolton to near Clinton to near Florence. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Clinton, Richland, Brownsville, and Monterey around 1110 AM CDT. Pearl around 1115 AM CDT. Flowood around 1120 AM CDT. Brandon and Pocahontas around 1125 AM CDT.\nGenerated: 2026-06-21 16:40:15 UTC"
-  32.2100, -90.3400
-  32.3700, -90.6400
-  32.3800, -90.6300
-  32.5100, -90.5500
-  32.5000, -90.5200
-  32.5200, -90.5200
-  32.5200, -90.5000
-  32.5400, -90.4800
-  32.5400, -90.4700
-  32.5600, -90.4500
-  32.5800, -90.4500
-  32.5900, -90.4300
-  32.5800, -90.4000
-  32.4400, -90.1500
-  32.2700, -89.9000
-  32.0800, -90.2300
-  32.2100, -90.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 10:49AM CDT by NWS Shreveport LA\nExpires: 2026-06-21 16:45 Z\nAt 1049 AM CDT, Doppler radar was tracking an area of strong thunderstorms 10 miles south of Deberry, or 10 miles east of Carthage, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shreveport, Bossier City, Marshall, Carthage, Hallsville, Greenwood, Blanchard, Waskom, Stonewall, Logansport, Tatum, Beckville, Deberry, Elysian Fields, Pinehill, Easton, Scottsville, Keachi, Longstreet and Midyett.\nGenerated: 2026-06-21 16:40:15 UTC"
-  32.3700, -94.6200
-  32.5900, -94.5500
-  32.6600, -94.2300
-  32.6400, -93.9300
-  32.5300, -93.7000
-  32.3300, -93.5700
-  31.9600, -93.9900
-  31.9800, -94.0100
-  31.9800, -94.0300
-  32.0600, -94.2000
-  32.0900, -94.3600
-  32.0700, -94.7200
-  32.3700, -94.6200
 End:
