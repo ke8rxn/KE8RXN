@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-21 10:25:15 UTC
+; Generated: 2026-06-21 10:30:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 5:22AM CDT by NWS Norman OK\nExpires: 2026-06-21 11:00 Z\nAt 521 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles south of Winfield to near Arkansas City to 7 miles southwest of Chilocco. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newkirk, Kaw City, Chilocco, Hardy, northern Kaw Lake, and Peckham.\nGenerated: 2026-06-21 10:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 5:29AM CDT by NWS Tulsa OK\nExpires: 2026-06-21 11:30 Z\nAt 529 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 6 miles east of Burden to 2 miles east of Dexter to 2 miles south of Chilocco. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Shidler...                        Elgin... Grainola...                       Foraker... Bigheart...                       Pearsonia... Hulah...                          Sunset Lake... Webb City...                      Wah Sha She State Park... Apperson...\nGenerated: 2026-06-21 10:30:16 UTC"
+  37.0000, -96.0000
+  36.9200, -96.0000
+  36.8900, -96.0100
+  36.6200, -96.4600
+  36.7600, -96.8200
+  36.7800, -96.7900
+  36.7800, -96.7500
+  37.0000, -96.7500
+  37.0000, -96.0000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 21 at 5:22AM CDT by NWS Norman OK\nExpires: 2026-06-21 11:00 Z\nAt 521 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles south of Winfield to near Arkansas City to 7 miles southwest of Chilocco. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newkirk, Kaw City, Chilocco, Hardy, northern Kaw Lake, and Peckham.\nGenerated: 2026-06-21 10:30:16 UTC"
   36.7800, -96.7500
   36.7800, -96.7900
   36.7700, -96.7900
@@ -14,37 +27,4 @@ Line: 2,,"Special Weather Statement issued June 21 at 5:22AM CDT by NWS Norman O
   37.0000, -97.2000
   37.0000, -96.7500
   36.7800, -96.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 4:49AM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-21 10:30 Z\nAt 449 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Cleveland to 10 miles southeast of Linn Valley to near Hume. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raymore, Harrisonville, Pleasant Hill, Peculiar, Louisburg, Butler, Holden, Adrian, Garden City, Rich Hill, Archie, Drexel, Cleveland, Urich, Freeman, Montrose, Creighton, Hume, East Lynne, and Kingsville.  This includes Interstate 49 between mile markers 118 and 172.\nGenerated: 2026-06-21 10:25:15 UTC"
-  38.0300, -94.2300
-  38.0500, -94.2500
-  38.0600, -94.6000
-  38.3900, -94.5900
-  38.7500, -94.7900
-  38.8500, -94.0100
-  38.3200, -93.8400
-  38.2100, -93.8300
-  38.2100, -94.0500
-  38.0300, -94.0600
-  38.0500, -94.1000
-  38.0400, -94.1100
-  38.0600, -94.1300
-  38.0400, -94.2000
-  38.0500, -94.2100
-  38.0300, -94.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 4:45AM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-06-21 10:30 Z\nAt 444 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles southwest of Leavenworth to near Lansing to Bonner Springs. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Leavenworth, Lansing, Bonner Springs, Parkville, Edwardsville, Riverside, Weatherby Lake, Kansas City, Farley, Wolcott, Pomeroy, Waldron, Muncie, Beverly Hills, Maywood, and Piper.  This includes the following highways... Interstate 70 in Kansas between mile markers 410 and 421. Interstate 35 in Kansas near mile marker 233. Interstate 635 between mile markers 1 and 9. Interstate 435 between mile markers 9 and 24. Kansas Turnpike between mile markers 225 and 226.\nGenerated: 2026-06-21 10:25:15 UTC"
-  39.2900, -94.8300
-  39.2000, -94.6500
-  39.0500, -94.6200
-  39.0500, -94.8200
-  39.0600, -94.8400
-  39.0600, -94.8600
-  39.2000, -94.9000
-  39.2600, -95.0300
-  39.2900, -94.8300
 End:
