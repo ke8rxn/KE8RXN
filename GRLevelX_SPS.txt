@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-21 22:40:15 UTC
+; Generated: 2026-06-21 22:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 6:24PM EDT by NWS Melbourne FL\nExpires: 2026-06-21 23:15 Z\nAt 624 PM EDT, Doppler radar was tracking a strong thunderstorm near Fellsmere, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Port Saint Lucie, Palm Bay, Walton, Fort Pierce, and Sebastian.\nGenerated: 2026-06-21 22:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 5:44PM CDT by NWS Mobile AL\nExpires: 2026-06-21 23:30 Z\nAt 544 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 15 miles east of Castleberry to East Brewton. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Andalusia, Brewton, East Brewton, Laurel Hill, Lockhart, and Riverview.\nGenerated: 2026-06-21 22:45:16 UTC"
+  30.9900, -86.3500
+  30.9900, -86.3900
+  30.9400, -86.3900
+  30.8800, -86.5600
+  31.0100, -87.0900
+  31.0500, -87.2000
+  31.3300, -86.8400
+  31.3200, -86.3500
+  31.1800, -86.2800
+  30.9900, -86.3500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 21 at 6:24PM EDT by NWS Melbourne FL\nExpires: 2026-06-21 23:15 Z\nAt 624 PM EDT, Doppler radar was tracking a strong thunderstorm near Fellsmere, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Port Saint Lucie, Palm Bay, Walton, Fort Pierce, and Sebastian.\nGenerated: 2026-06-21 22:45:16 UTC"
   27.2800, -80.5200
   27.6900, -80.6900
   27.7600, -80.8200
@@ -16,7 +30,7 @@ Line: 2,,"Special Weather Statement issued June 21 at 6:24PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 5:13PM CDT by NWS Birmingham AL\nExpires: 2026-06-21 23:00 Z\nAt 513 PM CDT, Doppler radar was tracking gusty showers along a line extending from Eldridge to near West Jefferson to 7 miles southeast of Calera. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Birmingham, Hoover, Vestavia Hills, Homewood, Pelham, Mountain Brook, Trussville, Jasper, Gardendale, Irondale, Leeds, Moody, Chelsea, Fultondale, Columbiana, Sumiton, Dora, Wilsonville, Arley, and Center Point.\nGenerated: 2026-06-21 22:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 5:13PM CDT by NWS Birmingham AL\nExpires: 2026-06-21 23:00 Z\nAt 513 PM CDT, Doppler radar was tracking gusty showers along a line extending from Eldridge to near West Jefferson to 7 miles southeast of Calera. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Birmingham, Hoover, Vestavia Hills, Homewood, Pelham, Mountain Brook, Trussville, Jasper, Gardendale, Irondale, Leeds, Moody, Chelsea, Fultondale, Columbiana, Sumiton, Dora, Wilsonville, Arley, and Center Point.\nGenerated: 2026-06-21 22:45:16 UTC"
   34.0400, -87.1100
   33.9900, -87.1500
   33.9100, -87.0900
@@ -41,7 +55,7 @@ Line: 2,,"Special Weather Statement issued June 21 at 5:13PM CDT by NWS Birmingh
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 5:12PM CDT by NWS Mobile AL\nExpires: 2026-06-21 23:00 Z\nAt 511 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles south of I65 And AL 113, or 10 miles north of Flomaton, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brewton, East Brewton, Pollard, Riverview, and I65 And AL 113.\nGenerated: 2026-06-21 22:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 5:12PM CDT by NWS Mobile AL\nExpires: 2026-06-21 23:00 Z\nAt 511 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles south of I65 And AL 113, or 10 miles north of Flomaton, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brewton, East Brewton, Pollard, Riverview, and I65 And AL 113.\nGenerated: 2026-06-21 22:45:16 UTC"
   31.0000, -87.0200
   31.0000, -87.2000
   31.0900, -87.4400
@@ -51,18 +65,7 @@ Line: 2,,"Special Weather Statement issued June 21 at 5:12PM CDT by NWS Mobile A
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 4:10PM MDT by NWS North Platte NE\nExpires: 2026-06-21 22:45 Z\nAt 409 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 22 miles southeast of Rushville to 22 miles northwest of Ashby to 6 miles north of Ellsworth. Movement was southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ellsworth, Ashby, Watson Lake, Big Hill, Dipping Vat Meadow, Billys Lake, Finnegan Lake, Kincaid Lake, Kennedy Lake, Mother Lake, Bingham, Wolf Hill, Dominick Lake, and Argo Hill.  This includes the following highways... Highway 250 between mile markers 4 and 8. Highway 2 between mile markers 114 and 137.\nGenerated: 2026-06-21 22:40:15 UTC"
-  42.4300, -101.7700
-  42.1200, -101.8300
-  41.8600, -102.0600
-  42.1200, -102.4500
-  42.3200, -102.2700
-  42.5700, -102.2300
-  42.4300, -101.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 6:09PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 23:00 Z\nAt 609 PM EDT/509 PM CDT/, Doppler radar was tracking a strong thunderstorm 13 miles southwest of Vernon, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Nixon, Betts, Bayhead, West Bay, Fountain, Singer Road, Recota Beach, Saunders, Greenhead, Camp Flowers, Gainer Spring, Bennett, Youngstown, Porter Lake, Vicksburg, Smyrna, Spring Hollow, and Riverside.\nGenerated: 2026-06-21 22:40:15 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 6:09PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 23:00 Z\nAt 609 PM EDT/509 PM CDT/, Doppler radar was tracking a strong thunderstorm 13 miles southwest of Vernon, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Nixon, Betts, Bayhead, West Bay, Fountain, Singer Road, Recota Beach, Saunders, Greenhead, Camp Flowers, Gainer Spring, Bennett, Youngstown, Porter Lake, Vicksburg, Smyrna, Spring Hollow, and Riverside.\nGenerated: 2026-06-21 22:45:16 UTC"
   30.3000, -85.9100
   30.6100, -85.7100
   30.6000, -85.4400
@@ -74,14 +77,4 @@ Line: 2,,"Special Weather Statement issued June 21 at 6:09PM EDT by NWS Tallahas
   30.2400, -85.8600
   30.2700, -85.9500
   30.3000, -85.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 5:56PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 22:45 Z\nAt 556 PM EDT/456 PM CDT/, Doppler radar was tracking a strong thunderstorm near Fort Gaines, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Gaines, Cuthbert, Edison, Bellville, Bluffton, Shorterville, Walter F. George Lock And Dam, Parksville, Carnegie, Hayes, Pecan, Randolph Co A/p, Jones Crossing, Bethel, Fort Gaines-Clay Airport, Suttons Corner, Harrisons Mill, Barnes, Hardwickburg, and Zetto.\nGenerated: 2026-06-21 22:40:15 UTC"
-  31.4600, -85.1700
-  31.6100, -85.2300
-  31.7900, -84.7600
-  31.6600, -84.6700
-  31.5200, -84.6500
-  31.4600, -85.1700
 End:
