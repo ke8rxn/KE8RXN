@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-21 00:15:15 UTC
+; Generated: 2026-06-21 00:20:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 8:13PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 01:00 Z\nAt 813 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Ashburn to near Pavo to 6 miles west of Boston. Movement was east at 60 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tallahassee, Monticello, Tifton, Nashville, Moultrie, Adel, Thomasville, Havana, Valdosta, Ocilla, Quitman, Ashburn, Sylvester, Hahira, Sparks, Boston, Enigma, Omega, Ray City, and Norman Park.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 8:18PM EDT by NWS Charleston WV\nExpires: 2026-06-21 01:00 Z\nAt 817 PM EDT, Doppler radar was tracking a strong thunderstorm near Racine, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ripley, Racine, Ravenswood, New Haven, Sandyville, Syracuse, Hartford City, Mount Alto, Given, Cottageville, Evans, Leroy, Fairplain, and Letart.  This includes Interstate 77 in West Virginia between mile markers 131 and 148.\nGenerated: 2026-06-21 00:20:14 UTC"
+  38.9000, -81.5300
+  38.8700, -81.5300
+  38.6900, -81.7400
+  38.9100, -82.0500
+  39.0400, -81.9600
+  38.9000, -81.5300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 20 at 8:18PM EDT by NWS State College PA\nExpires: 2026-06-21 01:00 Z\nAt 817 PM EDT, Doppler radar was tracking a strong thunderstorm over Marienville, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kane, Johnsonburg, Smethport, Betula, Wilcox, James City, East Branch Dam, Elk River, Kinzua Bridge State Park, and Mount Jewett.\nGenerated: 2026-06-21 00:20:14 UTC"
+  41.5500, -78.3300
+  41.4000, -79.0900
+  41.4200, -79.0900
+  41.4300, -79.0600
+  41.4500, -79.0600
+  41.4500, -78.9800
+  41.4400, -78.9800
+  41.4400, -78.9600
+  41.6400, -78.9600
+  41.8100, -78.4500
+  41.5500, -78.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 20 at 8:13PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 01:00 Z\nAt 813 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Ashburn to near Pavo to 6 miles west of Boston. Movement was east at 60 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tallahassee, Monticello, Tifton, Nashville, Moultrie, Adel, Thomasville, Havana, Valdosta, Ocilla, Quitman, Ashburn, Sylvester, Hahira, Sparks, Boston, Enigma, Omega, Ray City, and Norman Park.\nGenerated: 2026-06-21 00:20:14 UTC"
   31.6100, -83.0600
   31.5500, -83.0600
   31.4900, -83.1000
@@ -27,7 +52,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 8:13PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 7:01PM CDT by NWS Shreveport LA\nExpires: 2026-06-21 00:30 Z\nAt 701 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles south of Huntington, or 14 miles east of Diboll, moving northeast at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Huntington, Zavalla and Shawnee.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 7:01PM CDT by NWS Shreveport LA\nExpires: 2026-06-21 00:30 Z\nAt 701 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles south of Huntington, or 14 miles east of Diboll, moving northeast at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Huntington, Zavalla and Shawnee.\nGenerated: 2026-06-21 00:20:14 UTC"
   31.1600, -94.6800
   31.3900, -94.5400
   31.1900, -94.3200
@@ -47,7 +72,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 7:01PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 5:59PM MDT by NWS Riverton WY\nExpires: 2026-06-21 00:45 Z\nAt 559 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 12 miles north of Calpet, which is 12 miles southwest of Big Piney, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Big Piney around 615 PM MDT.  Other locations in the path of this storm include Marbleton.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 5:59PM MDT by NWS Riverton WY\nExpires: 2026-06-21 00:45 Z\nAt 559 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 12 miles north of Calpet, which is 12 miles southwest of Big Piney, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Big Piney around 615 PM MDT.  Other locations in the path of this storm include Marbleton.\nGenerated: 2026-06-21 00:20:14 UTC"
   43.0200, -111.0400
   43.0700, -110.2600
   42.9000, -109.9700
@@ -61,7 +86,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 5:59PM MDT by NWS Riverton
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 5:59PM MDT by NWS Pueblo CO\nExpires: 2026-06-21 00:30 Z\nAt 559 PM MDT, Doppler radar was tracking a strong thunderstorm over Two Buttes, or 18 miles west of The Saunders Elevator, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Two Buttes.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 5:59PM MDT by NWS Pueblo CO\nExpires: 2026-06-21 00:30 Z\nAt 559 PM MDT, Doppler radar was tracking a strong thunderstorm over Two Buttes, or 18 miles west of The Saunders Elevator, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Two Buttes.\nGenerated: 2026-06-21 00:20:14 UTC"
   37.5000, -102.4200
   37.6500, -102.4400
   37.6800, -102.0400
@@ -70,7 +95,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 5:59PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 4:56PM PDT by NWS Elko NV\nExpires: 2026-06-21 00:45 Z\nAt 456 PM PDT, Doppler radar was tracking a strong thunderstorm near Kings River Valley, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy Rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kings River Valley and Thacker Pass.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 4:56PM PDT by NWS Elko NV\nExpires: 2026-06-21 00:45 Z\nAt 456 PM PDT, Doppler radar was tracking a strong thunderstorm near Kings River Valley, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy Rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kings River Valley and Thacker Pass.\nGenerated: 2026-06-21 00:20:14 UTC"
   41.7200, -118.4100
   41.9200, -118.3500
   41.9100, -117.7500
@@ -79,7 +104,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 4:56PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 7:53PM EDT by NWS Charleston WV\nExpires: 2026-06-21 00:30 Z\nAt 753 PM EDT, Doppler radar was tracking a strong thunderstorm near Beverly, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marietta, Beverly, Williamstown, Lowell, Macksburg, Lower Salem, Hackney, and Devola.  This includes Interstate 77 in Ohio between mile markers 1 and 16.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 7:53PM EDT by NWS Charleston WV\nExpires: 2026-06-21 00:30 Z\nAt 753 PM EDT, Doppler radar was tracking a strong thunderstorm near Beverly, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marietta, Beverly, Williamstown, Lowell, Macksburg, Lower Salem, Hackney, and Devola.  This includes Interstate 77 in Ohio between mile markers 1 and 16.\nGenerated: 2026-06-21 00:20:14 UTC"
   39.6800, -81.6400
   39.6700, -81.6400
   39.6600, -81.5900
@@ -99,7 +124,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 7:53PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 5:53PM MDT by NWS Great Falls MT\nExpires: 2026-06-21 00:30 Z\nAt 552 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles northwest of Lewistown, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Danvers and Hilger.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 5:53PM MDT by NWS Great Falls MT\nExpires: 2026-06-21 00:30 Z\nAt 552 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles northwest of Lewistown, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Danvers and Hilger.\nGenerated: 2026-06-21 00:20:14 UTC"
   47.1700, -109.3300
   47.1700, -109.3600
   47.1400, -109.3900
@@ -113,7 +138,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 5:53PM MDT by NWS Great Fa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 7:52PM EDT by NWS Charleston WV\nExpires: 2026-06-21 00:30 Z\nAt 752 PM EDT, Doppler radar was tracking a strong thunderstorm near St. Marys, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrisville, St. Marys, Pennsboro, Belmont, West Union, North Bend State Park, Newport, Ellenboro, Pullman, Auburn, Greenwood, Blandville, Maxwell, Avon, Grove, Schultz, New Milton, Smithburg, Hebron, and Pike.  This includes Route 50 in West Virginia between mile markers 29 and 53.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 7:52PM EDT by NWS Charleston WV\nExpires: 2026-06-21 00:30 Z\nAt 752 PM EDT, Doppler radar was tracking a strong thunderstorm near St. Marys, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrisville, St. Marys, Pennsboro, Belmont, West Union, North Bend State Park, Newport, Ellenboro, Pullman, Auburn, Greenwood, Blandville, Maxwell, Avon, Grove, Schultz, New Milton, Smithburg, Hebron, and Pike.  This includes Route 50 in West Virginia between mile markers 29 and 53.\nGenerated: 2026-06-21 00:20:14 UTC"
   39.2300, -80.6000
   39.1000, -80.7900
   39.1100, -80.8100
@@ -127,7 +152,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 7:52PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 7:52PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 00:30 Z\nAt 752 PM EDT/652 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles northwest of Chattahoochee to near Greensboro. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tallahassee, Tallahassee State College, Midway, Quincy, Havana, Bainbridge, Greensboro, Chattahoochee, Sneads, Gretna, Attapulgus, Juniper, Douglas City, Florence, Jamieson, Recovery, Lovedale, Laingkat, Quincy Airport, and Sawdust.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 7:52PM EDT by NWS Tallahassee FL\nExpires: 2026-06-21 00:30 Z\nAt 752 PM EDT/652 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles northwest of Chattahoochee to near Greensboro. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tallahassee, Tallahassee State College, Midway, Quincy, Havana, Bainbridge, Greensboro, Chattahoochee, Sneads, Gretna, Attapulgus, Juniper, Douglas City, Florence, Jamieson, Recovery, Lovedale, Laingkat, Quincy Airport, and Sawdust.\nGenerated: 2026-06-21 00:20:14 UTC"
   30.8900, -84.5600
   30.7200, -84.4500
   30.4200, -84.3300
@@ -138,7 +163,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 7:52PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 7:43PM EDT by NWS Charleston WV\nExpires: 2026-06-21 00:30 Z\nAt 742 PM EDT, Doppler radar was tracking a strong thunderstorm near Rutland, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pomeroy, Racine, Rutland, New Haven, Mason, Middleport, Syracuse, Hartford City, Cheshire, Lakin, Dyesville, Salem Center, Harrisonville, Dexter, Letart, and Kyger.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 7:43PM EDT by NWS Charleston WV\nExpires: 2026-06-21 00:30 Z\nAt 742 PM EDT, Doppler radar was tracking a strong thunderstorm near Rutland, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pomeroy, Racine, Rutland, New Haven, Mason, Middleport, Syracuse, Hartford City, Cheshire, Lakin, Dyesville, Salem Center, Harrisonville, Dexter, Letart, and Kyger.\nGenerated: 2026-06-21 00:20:14 UTC"
   39.0400, -81.8000
   39.0200, -81.7700
   38.8500, -81.9900
@@ -148,7 +173,7 @@ Line: 2,,"Special Weather Statement issued June 20 at 7:43PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 20 at 5:23PM MDT by NWS Riverton WY\nExpires: 2026-06-21 00:30 Z\nAt 522 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 10 miles east of Montpelier, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southwestern Sublette and Lincoln Counties, including the following locations... Fairview, Afton Municipal Airport, Lincoln County Fairgrounds, Kemmerer Municipal Airport, Auburn, Bedford, Sacajawea Campground, and Cokeville Municipal Airport.\nGenerated: 2026-06-21 00:15:15 UTC"
+Line: 2,,"Special Weather Statement issued June 20 at 5:23PM MDT by NWS Riverton WY\nExpires: 2026-06-21 00:30 Z\nAt 522 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 10 miles east of Montpelier, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southwestern Sublette and Lincoln Counties, including the following locations... Fairview, Afton Municipal Airport, Lincoln County Fairgrounds, Kemmerer Municipal Airport, Auburn, Bedford, Sacajawea Campground, and Cokeville Municipal Airport.\nGenerated: 2026-06-21 00:20:14 UTC"
   42.9400, -111.0500
   43.0600, -110.3800
   42.9200, -110.3800
