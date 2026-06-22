@@ -3,18 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-22 06:20:14 UTC
+; Generated: 2026-06-22 06:25:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 12:15AM MDT by NWS Pueblo CO\nExpires: 2026-06-22 06:45 Z\nAt 1215 AM MDT, Doppler radar was tracking a strong thunderstorm 17 miles south of John Martin Reservoir, or 25 miles southeast of North La Junta, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Bent County.\nGenerated: 2026-06-22 06:20:14 UTC"
-  37.7700, -103.2300
-  37.9400, -103.1100
-  37.8600, -102.9000
-  37.6900, -103.0400
-  37.7700, -103.2300
+Line: 2,,"Special Weather Statement issued June 22 at 1:20AM CDT by NWS Amarillo TX\nExpires: 2026-06-22 06:45 Z\nAt 120 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Boyd, or 20 miles west of Beaver, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bryans Corner, Balko, and Boyd.\nGenerated: 2026-06-22 06:25:17 UTC"
+  36.6800, -101.1000
+  36.8400, -101.0400
+  36.8500, -100.5800
+  36.5200, -100.6400
+  36.6800, -101.1000
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 1:15AM CDT by NWS Tulsa OK\nExpires: 2026-06-22 07:00 Z\nAt 115 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles north of Newkirk to 3 miles southeast of Ponca City to 2 miles east of Red Rock. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Fairfax...                        Ralston... Burbank...                        Sooner Lake... Southern Kaw Lake...              Webb City... Apperson...\nGenerated: 2026-06-22 06:20:14 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 1:15AM CDT by NWS Tulsa OK\nExpires: 2026-06-22 07:00 Z\nAt 115 AM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles north of Newkirk to 3 miles southeast of Ponca City to 2 miles east of Red Rock. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Fairfax...                        Ralston... Burbank...                        Sooner Lake... Southern Kaw Lake...              Webb City... Apperson...\nGenerated: 2026-06-22 06:25:17 UTC"
   37.0000, -96.7400
   36.6600, -96.6500
   36.3700, -96.8200
@@ -39,7 +39,16 @@ Line: 2,,"Special Weather Statement issued June 22 at 1:15AM CDT by NWS Tulsa OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 2:14AM EDT by NWS Louisville KY\nExpires: 2026-06-22 06:45 Z\nAt 213 AM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Richmond, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Richmond, Harris Ferry, Peytontown, Valley View, Jackson Ferry, Panola, Stone, Locust Grove, and Hunt.\nGenerated: 2026-06-22 06:20:14 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 12:15AM MDT by NWS Pueblo CO\nExpires: 2026-06-22 06:45 Z\nAt 1215 AM MDT, Doppler radar was tracking a strong thunderstorm 17 miles south of John Martin Reservoir, or 25 miles southeast of North La Junta, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of south central Bent County.\nGenerated: 2026-06-22 06:25:17 UTC"
+  37.7700, -103.2300
+  37.9400, -103.1100
+  37.8600, -102.9000
+  37.6900, -103.0400
+  37.7700, -103.2300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 22 at 2:14AM EDT by NWS Louisville KY\nExpires: 2026-06-22 06:45 Z\nAt 213 AM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Richmond, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Richmond, Harris Ferry, Peytontown, Valley View, Jackson Ferry, Panola, Stone, Locust Grove, and Hunt.\nGenerated: 2026-06-22 06:25:17 UTC"
   37.8600, -84.0100
   37.8700, -84.0300
   37.8300, -84.0000
@@ -64,7 +73,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 2:14AM EDT by NWS Louisvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 12:10AM MDT by NWS Great Falls MT\nExpires: 2026-06-22 07:00 Z\nAt 1210 AM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 10 miles northeast of Fort Benton to 16 miles south of The Knees. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 35 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Benton, Carter, Loma, and Virgelle.\nGenerated: 2026-06-22 06:20:14 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 12:10AM MDT by NWS Great Falls MT\nExpires: 2026-06-22 07:00 Z\nAt 1210 AM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 10 miles northeast of Fort Benton to 16 miles south of The Knees. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 35 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Benton, Carter, Loma, and Virgelle.\nGenerated: 2026-06-22 06:25:17 UTC"
   48.1200, -110.1500
   47.9600, -111.0000
   47.8000, -111.3200
@@ -74,7 +83,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 12:10AM MDT by NWS Great F
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 1:59AM EDT by NWS Charleston WV\nExpires: 2026-06-22 06:30 Z\nAt 159 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Head of Grassy, or near Carter Caves State Park, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grayson, Olive Hill, Carter Caves State Park, Load, Coalton, Denton, Gesling, Greenbo Lake, Oldtown, Rush, Carter, Grahn, Hopewell, Brushart, Warnock, Hitchins, Soldier, and Globe.  This includes Interstate 64 in Kentucky between mile markers 149 and 181.\nGenerated: 2026-06-22 06:20:14 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 1:59AM EDT by NWS Charleston WV\nExpires: 2026-06-22 06:30 Z\nAt 159 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Head of Grassy, or near Carter Caves State Park, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grayson, Olive Hill, Carter Caves State Park, Load, Coalton, Denton, Gesling, Greenbo Lake, Oldtown, Rush, Carter, Grahn, Hopewell, Brushart, Warnock, Hitchins, Soldier, and Globe.  This includes Interstate 64 in Kentucky between mile markers 149 and 181.\nGenerated: 2026-06-22 06:25:17 UTC"
   38.3300, -83.3200
   38.3300, -83.2700
   38.3400, -83.2300
@@ -98,7 +107,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 1:59AM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 21 at 11:55PM MDT by NWS Pueblo CO\nExpires: 2026-06-22 06:30 Z\nAt 1155 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Two Buttes Reservoir, or 19 miles northwest of Springfield, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Two Buttes Reservoir.\nGenerated: 2026-06-22 06:20:14 UTC"
+Line: 2,,"Special Weather Statement issued June 21 at 11:55PM MDT by NWS Pueblo CO\nExpires: 2026-06-22 06:30 Z\nAt 1155 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Two Buttes Reservoir, or 19 miles northwest of Springfield, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Two Buttes Reservoir.\nGenerated: 2026-06-22 06:25:17 UTC"
   37.5400, -102.9200
   37.7100, -102.9300
   37.7700, -102.5600
@@ -107,7 +116,7 @@ Line: 2,,"Special Weather Statement issued June 21 at 11:55PM MDT by NWS Pueblo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 1:50AM EDT by NWS Louisville KY\nExpires: 2026-06-22 06:30 Z\nAt 150 AM EDT/1250 AM CDT/, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Hardinsburg, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Webster, Vine Grove, Irvington, Ekron, Guston, Raymond, Garfield, Rock Haven, Grahamton, and Big Spring.\nGenerated: 2026-06-22 06:20:14 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 1:50AM EDT by NWS Louisville KY\nExpires: 2026-06-22 06:30 Z\nAt 150 AM EDT/1250 AM CDT/, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Hardinsburg, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Webster, Vine Grove, Irvington, Ekron, Guston, Raymond, Garfield, Rock Haven, Grahamton, and Big Spring.\nGenerated: 2026-06-22 06:25:17 UTC"
   37.7700, -86.3800
   37.9500, -86.3800
   37.9500, -86.0100
