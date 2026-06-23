@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-23 02:20:16 UTC
+; Generated: 2026-06-23 02:25:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 10:14PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-06-23 03:15 Z\nAt 1013 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Como to near Rich Square to 6 miles east of Elm City. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hamilton, Oak City, and Hassell.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 9:23PM CDT by NWS Shreveport LA\nExpires: 2026-06-23 03:15 Z\nAt 923 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Homer, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Homer, Simsboro, Athens, Lisbon, Aycock, Corinth, Lake Clairborne, Mount Zion and Spring Lake.\nGenerated: 2026-06-23 02:25:18 UTC"
+  32.6800, -93.1300
+  32.8700, -93.0400
+  32.7900, -92.6300
+  32.4800, -92.7700
+  32.5400, -92.8800
+  32.5900, -92.8800
+  32.5800, -92.9600
+  32.6800, -93.1300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 22 at 10:22PM EDT by NWS Wakefield VA\nExpires: 2026-06-23 03:00 Z\nAt 1021 PM EDT, Doppler radar was tracking a strong thunderstorm over Cape Charles, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Cape Charles, Cheriton, and Bay View around 1025 PM EDT.  Other locations impacted by this storm include Capeville, Birdsnest, Kiptopeke State Park, Jamesville, Silver Beach, Eastville, Machipongo, Wardtown, Franktown, and Simpkins.\nGenerated: 2026-06-23 02:25:18 UTC"
+  37.2700, -75.7400
+  37.1800, -75.7500
+  37.0700, -75.9100
+  37.0600, -75.9900
+  37.1300, -76.0400
+  37.2800, -76.0800
+  37.5100, -76.0100
+  37.5400, -75.5500
+  37.2700, -75.7400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 22 at 10:14PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-06-23 03:15 Z\nAt 1013 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Como to near Rich Square to 6 miles east of Elm City. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hamilton, Oak City, and Hassell.\nGenerated: 2026-06-23 02:25:18 UTC"
   36.0600, -77.3200
   36.0100, -77.2100
   35.9900, -77.2100
@@ -27,7 +52,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 10:14PM EDT by NWS Newport
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 8:13PM MDT by NWS Cheyenne WY\nExpires: 2026-06-23 03:00 Z\nAt 812 PM MDT, Doppler radar was tracking a strong thunderstorm near Esterbrook, or 23 miles south of Douglas, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glendo, Orin, Esterbrook, Sibley Peak, Glendo State Park, Reno Cove Campground, Curtis Gulch Campground, Two Moon Campground, Laramie Peak, Esterbrook Campground, Bennett Hill Campground, Harris Park, and Cassa.  This includes Interstate 25 in Wyoming between mile markers 98 and 127.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 8:13PM MDT by NWS Cheyenne WY\nExpires: 2026-06-23 03:00 Z\nAt 812 PM MDT, Doppler radar was tracking a strong thunderstorm near Esterbrook, or 23 miles south of Douglas, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glendo, Orin, Esterbrook, Sibley Peak, Glendo State Park, Reno Cove Campground, Curtis Gulch Campground, Two Moon Campground, Laramie Peak, Esterbrook Campground, Bennett Hill Campground, Harris Park, and Cassa.  This includes Interstate 25 in Wyoming between mile markers 98 and 127.\nGenerated: 2026-06-23 02:25:18 UTC"
   42.2000, -105.3800
   42.3500, -105.5800
   42.4500, -105.8000
@@ -38,7 +63,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 8:13PM MDT by NWS Cheyenne
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 9:06PM CDT by NWS Shreveport LA\nExpires: 2026-06-23 02:45 Z\nAt 906 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Farmerville, or 12 miles northwest of Claiborne, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Claiborne, Downsville, Eureka, Folksville, Drew, Cheniere and Rocky Branch.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 9:06PM CDT by NWS Shreveport LA\nExpires: 2026-06-23 02:45 Z\nAt 906 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Farmerville, or 12 miles northwest of Claiborne, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Claiborne, Downsville, Eureka, Folksville, Drew, Cheniere and Rocky Branch.\nGenerated: 2026-06-23 02:25:18 UTC"
   32.6400, -92.4900
   32.7600, -92.3600
   32.6400, -92.1000
@@ -47,7 +72,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 9:06PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 8:54PM CDT by NWS Jackson MS\nExpires: 2026-06-23 02:45 Z\nAt 854 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Enterprise to near Snell. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Stonewall, Enterprise, Snell, Middleton, and Sable around 900 PM CDT. Sykes around 910 PM CDT.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 8:54PM CDT by NWS Jackson MS\nExpires: 2026-06-23 02:45 Z\nAt 854 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Enterprise to near Snell. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Stonewall, Enterprise, Snell, Middleton, and Sable around 900 PM CDT. Sykes around 910 PM CDT.\nGenerated: 2026-06-23 02:25:18 UTC"
   32.0400, -88.4600
   32.0400, -88.8300
   32.1500, -88.9200
@@ -59,7 +84,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 8:54PM CDT by NWS Jackson 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:52PM MDT by NWS Billings MT\nExpires: 2026-06-23 02:30 Z\nAt 752 PM MDT, Doppler radar was tracking a line of thunderstorms extending from 11 miles northeast of Baker to 19 miles west of Ridgeway, or extending from 11 miles northeast of Baker to 26 miles east of Broadus, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Baker, Ekalaka, Ridgeway, Belltower, Mill Iron, Medicine Rocks State Park, Webster, Willard, Capitol and Albion.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:52PM MDT by NWS Billings MT\nExpires: 2026-06-23 02:30 Z\nAt 752 PM MDT, Doppler radar was tracking a line of thunderstorms extending from 11 miles northeast of Baker to 19 miles west of Ridgeway, or extending from 11 miles northeast of Baker to 26 miles east of Broadus, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Baker, Ekalaka, Ridgeway, Belltower, Mill Iron, Medicine Rocks State Park, Webster, Willard, Capitol and Albion.\nGenerated: 2026-06-23 02:25:18 UTC"
   45.6200, -104.9800
   46.0900, -104.6700
   46.5600, -104.1800
@@ -76,7 +101,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:52PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 9:50PM EDT by NWS Wakefield VA\nExpires: 2026-06-23 02:30 Z\nAt 950 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Jarratt to near Seaboard to 8 miles southeast of Halifax. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Strong thunderstorms will be near... Rich Square, Conway, and Woodland around 1000 PM EDT. Boykins around 1005 PM EDT. Newsoms around 1010 PM EDT. Murfreesboro, Courtland, and Chowan University around 1015 PM EDT. Como around 1020 PM EDT.  Other locations impacted by these storms include Eagletown, Vicksville, Milwaukee, Kelford, Grizzard, Menola, Chowan Beach, Jackson, Bryantown, and Pleasant Grove.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 9:50PM EDT by NWS Wakefield VA\nExpires: 2026-06-23 02:30 Z\nAt 950 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Jarratt to near Seaboard to 8 miles southeast of Halifax. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Strong thunderstorms will be near... Rich Square, Conway, and Woodland around 1000 PM EDT. Boykins around 1005 PM EDT. Newsoms around 1010 PM EDT. Murfreesboro, Courtland, and Chowan University around 1015 PM EDT. Como around 1020 PM EDT.  Other locations impacted by these storms include Eagletown, Vicksville, Milwaukee, Kelford, Grizzard, Menola, Chowan Beach, Jackson, Bryantown, and Pleasant Grove.\nGenerated: 2026-06-23 02:25:18 UTC"
   36.1600, -77.2600
   36.2100, -77.3900
   36.2400, -77.3800
@@ -101,7 +126,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 9:50PM EDT by NWS Wakefiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 8:49PM CDT by NWS Shreveport LA\nExpires: 2026-06-23 02:30 Z\nAt 849 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Sterlington, or 15 miles northwest of Swartz, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sterlington, Spencer, Deshard, Loch Lomon, Rocky Branch, Haile, Guthrie and Perryville.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 8:49PM CDT by NWS Shreveport LA\nExpires: 2026-06-23 02:30 Z\nAt 849 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Sterlington, or 15 miles northwest of Swartz, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sterlington, Spencer, Deshard, Loch Lomon, Rocky Branch, Haile, Guthrie and Perryville.\nGenerated: 2026-06-23 02:25:18 UTC"
   32.7200, -92.2600
   32.8600, -92.1500
   32.8300, -92.0600
@@ -123,7 +148,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 8:49PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 9:44PM EDT by NWS Morristown TN\nExpires: 2026-06-23 02:30 Z\nAt 943 PM EDT/843 PM CDT/, Doppler radar was tracking a cluster of strong thunderstorms 7 miles northwest of Jasper, moving northeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dunlap, Jasper, South Pittsburg, Whitwell, Kimball, Monteagle, Powells Crossroads, Martin Springs, Cartwright, and Fiery Gizzard State Park.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 9:44PM EDT by NWS Morristown TN\nExpires: 2026-06-23 02:30 Z\nAt 943 PM EDT/843 PM CDT/, Doppler radar was tracking a cluster of strong thunderstorms 7 miles northwest of Jasper, moving northeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dunlap, Jasper, South Pittsburg, Whitwell, Kimball, Monteagle, Powells Crossroads, Martin Springs, Cartwright, and Fiery Gizzard State Park.\nGenerated: 2026-06-23 02:25:18 UTC"
   35.2400, -85.8200
   35.2200, -85.7400
   35.2400, -85.6900
@@ -148,7 +173,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 9:44PM EDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 9:33PM EDT by NWS Raleigh NC\nExpires: 2026-06-23 02:30 Z\nAt 933 PM EDT, Doppler radar was tracking a strong thunderstorm over Bermuda Run, or 9 miles northeast of Mocksville, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greensboro, Winston-Salem, High Point, Asheboro, Lexington, Randleman, Thomasville, Kernersville, Clemmons, and Bermuda Run.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 9:33PM EDT by NWS Raleigh NC\nExpires: 2026-06-23 02:30 Z\nAt 933 PM EDT, Doppler radar was tracking a strong thunderstorm over Bermuda Run, or 9 miles northeast of Mocksville, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greensboro, Winston-Salem, High Point, Asheboro, Lexington, Randleman, Thomasville, Kernersville, Clemmons, and Bermuda Run.\nGenerated: 2026-06-23 02:25:18 UTC"
   36.1900, -79.5300
   35.7000, -79.5500
   35.6300, -80.2800
@@ -173,7 +198,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 9:33PM EDT by NWS Raleigh 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 9:30PM EDT by NWS Raleigh NC\nExpires: 2026-06-23 02:30 Z\nAt 929 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Roanoke Rapids to near Nashville to near Fuquay-Varina. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh, Rocky Mount, Goldsboro, Roanoke Rapids, Tarboro, Smithfield, Nashville, Lillington, Halifax, and Wilson.\nGenerated: 2026-06-23 02:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 9:30PM EDT by NWS Raleigh NC\nExpires: 2026-06-23 02:30 Z\nAt 929 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Roanoke Rapids to near Nashville to near Fuquay-Varina. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh, Rocky Mount, Goldsboro, Roanoke Rapids, Tarboro, Smithfield, Nashville, Lillington, Halifax, and Wilson.\nGenerated: 2026-06-23 02:25:18 UTC"
   36.0000, -77.4100
   35.9000, -77.3400
   35.8200, -77.3500
