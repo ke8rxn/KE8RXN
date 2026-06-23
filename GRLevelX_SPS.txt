@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-23 06:30:19 UTC
+; Generated: 2026-06-23 06:35:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 1:18AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 07:00 Z\nAt 118 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Clarksville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clarksville, Bogata, Annona, Cuthand and Harts Bluff.\nGenerated: 2026-06-23 06:30:19 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 12:31AM MDT by NWS Cheyenne WY\nExpires: 2026-06-23 07:00 Z\nAt 1231 AM MDT, Doppler radar was tracking a strong thunderstorm near Whitney Lake, or 14 miles west of Chadron, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chadron, Whitney, Chadron Municipal Airport, Chadron State Park, Whitney Lake, Red Cloud Campground, Dawes County Fairgrounds, and Chadron State Park Campground.\nGenerated: 2026-06-23 06:35:15 UTC"
+  42.8200, -103.4100
+  42.9900, -103.3100
+  42.9400, -102.7900
+  42.8200, -102.8000
+  42.7800, -102.7700
+  42.5900, -102.7700
+  42.8200, -103.4100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 23 at 1:18AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 07:00 Z\nAt 118 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Clarksville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clarksville, Bogata, Annona, Cuthand and Harts Bluff.\nGenerated: 2026-06-23 06:35:15 UTC"
   33.5000, -95.2600
   33.6500, -95.1700
   33.6200, -94.8300
@@ -14,7 +25,16 @@ Line: 2,,"Special Weather Statement issued June 23 at 1:18AM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 1:17AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 06:45 Z\nAt 117 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Bradley, or 20 miles northwest of Springhill, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Plain Dealing, Bradley, Canfield, Gin City, Pleasant Valley, Canale, Fort Lynn and Bolinger.\nGenerated: 2026-06-23 06:30:19 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 1:17AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 07:00 Z\nAt 117 AM CDT, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Brownsville-Bawcomville, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Brownsville-Bawcomville, Chatham, Eros, Lapine, Caderville, Luna, Mineral Springs and Vixen.\nGenerated: 2026-06-23 06:35:15 UTC"
+  32.3400, -92.5200
+  32.4900, -92.4200
+  32.4600, -92.1000
+  32.1500, -92.2800
+  32.3400, -92.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 23 at 1:17AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 06:45 Z\nAt 117 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Bradley, or 20 miles northwest of Springhill, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Plain Dealing, Bradley, Canfield, Gin City, Pleasant Valley, Canale, Fort Lynn and Bolinger.\nGenerated: 2026-06-23 06:35:15 UTC"
   33.0900, -93.9100
   33.2400, -93.8800
   33.2200, -93.4900
@@ -26,16 +46,7 @@ Line: 2,,"Special Weather Statement issued June 23 at 1:17AM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 1:17AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 07:00 Z\nAt 117 AM CDT, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Brownsville-Bawcomville, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Brownsville-Bawcomville, Chatham, Eros, Lapine, Caderville, Luna, Mineral Springs and Vixen.\nGenerated: 2026-06-23 06:30:19 UTC"
-  32.3400, -92.5200
-  32.4900, -92.4200
-  32.4600, -92.1000
-  32.1500, -92.2800
-  32.3400, -92.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 2:15AM EDT by NWS Peachtree City GA\nExpires: 2026-06-23 06:45 Z\nAt 215 AM EDT, a strong thunderstorm was over Eelbeck/West Fort Benning, or 9 miles north of Cusseta, moving east at 40 mph.  HAZARD...40 to 50 mph wind and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Buena Vista, North Fort Benning, Upatoi, Brantley, Christopher, Tazewell, Marion Estates, Eelbeck/West Fort Benning, Oakland, and Zellobee.\nGenerated: 2026-06-23 06:30:19 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 2:15AM EDT by NWS Peachtree City GA\nExpires: 2026-06-23 06:45 Z\nAt 215 AM EDT, a strong thunderstorm was over Eelbeck/West Fort Benning, or 9 miles north of Cusseta, moving east at 40 mph.  HAZARD...40 to 50 mph wind and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Buena Vista, North Fort Benning, Upatoi, Brantley, Christopher, Tazewell, Marion Estates, Eelbeck/West Fort Benning, Oakland, and Zellobee.\nGenerated: 2026-06-23 06:35:15 UTC"
   32.3600, -84.8800
   32.5600, -84.7600
   32.5500, -84.6800
@@ -54,7 +65,7 @@ Line: 2,,"Special Weather Statement issued June 23 at 2:15AM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 12:09AM MDT by NWS Rapid City SD\nExpires: 2026-06-23 06:45 Z\nAt 1209 AM MDT, Doppler radar was tracking a strong thunderstorm over Elk Mountain Lookout, or 13 miles southeast of Newcastle, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pringle, Argyle, Jewel Cave National Monument, Blue Bell, Elk Mountain Lookout, western Wind Cave National Park and southern Custer State Park.\nGenerated: 2026-06-23 06:30:19 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 12:09AM MDT by NWS Rapid City SD\nExpires: 2026-06-23 06:45 Z\nAt 1209 AM MDT, Doppler radar was tracking a strong thunderstorm over Elk Mountain Lookout, or 13 miles southeast of Newcastle, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pringle, Argyle, Jewel Cave National Monument, Blue Bell, Elk Mountain Lookout, western Wind Cave National Park and southern Custer State Park.\nGenerated: 2026-06-23 06:35:15 UTC"
   43.8300, -104.0600
   43.7200, -103.3900
   43.4900, -103.5300
@@ -63,7 +74,7 @@ Line: 2,,"Special Weather Statement issued June 23 at 12:09AM MDT by NWS Rapid C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 12:54AM CDT by NWS Jackson MS\nExpires: 2026-06-23 07:00 Z\nAt 1254 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Goshen Springs to near Richland. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Brandon, Florence, Pisgah, and Monterey around 100 AM CDT. Leesburg around 105 AM CDT. Pelahatchie and Star around 110 AM CDT. Piney Woods around 115 AM CDT. Morton around 120 AM CDT. Johns and Cato around 125 AM CDT. Polkville around 130 AM CDT. Puckett and Pulaski around 135 AM CDT.\nGenerated: 2026-06-23 06:30:19 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 12:54AM CDT by NWS Jackson MS\nExpires: 2026-06-23 07:00 Z\nAt 1254 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Goshen Springs to near Richland. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Brandon, Florence, Pisgah, and Monterey around 100 AM CDT. Leesburg around 105 AM CDT. Pelahatchie and Star around 110 AM CDT. Piney Woods around 115 AM CDT. Morton around 120 AM CDT. Johns and Cato around 125 AM CDT. Polkville around 130 AM CDT. Puckett and Pulaski around 135 AM CDT.\nGenerated: 2026-06-23 06:35:15 UTC"
   32.0400, -89.7600
   32.0500, -90.0200
   32.1600, -90.2400
