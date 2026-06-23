@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-23 05:25:15 UTC
+; Generated: 2026-06-23 05:30:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 11:18PM MDT by NWS Rapid City SD\nExpires: 2026-06-23 05:45 Z\nAt 1118 PM MDT /1218 AM CDT/, Doppler radar was tracking a strong thunderstorm near Hisle, or 13 miles north of Martin, moving east at 40 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Parmelee, Upper Cut Meat, He Dog, Hisle and northwestern Rosebud Reservation.\nGenerated: 2026-06-23 05:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 12:29AM CDT by NWS Norman OK\nExpires: 2026-06-23 06:00 Z\nAt 1229 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles north of Duke, moving southeast at 15 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Altus, Olustee, Martha, and Duke.\nGenerated: 2026-06-23 05:30:18 UTC"
+  34.7700, -99.6600
+  34.8000, -99.4200
+  34.5800, -99.2600
+  34.5100, -99.6400
+  34.7700, -99.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 22 at 11:28PM MDT by NWS Rapid City SD\nExpires: 2026-06-23 06:15 Z\nAt 1128 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles west of Provo, or 19 miles southwest of Edgemont, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Provo.\nGenerated: 2026-06-23 05:30:18 UTC"
+  43.2500, -104.0500
+  43.2300, -103.7300
+  43.0000, -103.7700
+  43.0000, -104.0500
+  43.2500, -104.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 22 at 11:18PM MDT by NWS Rapid City SD\nExpires: 2026-06-23 05:45 Z\nAt 1118 PM MDT /1218 AM CDT/, Doppler radar was tracking a strong thunderstorm near Hisle, or 13 miles north of Martin, moving east at 40 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Parmelee, Upper Cut Meat, He Dog, Hisle and northwestern Rosebud Reservation.\nGenerated: 2026-06-23 05:30:18 UTC"
   43.3900, -101.7600
   43.4200, -101.7600
   43.4500, -100.9900
@@ -15,7 +33,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 11:18PM MDT by NWS Rapid C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 12:09AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 05:45 Z\nAt 1209 AM CDT, Doppler radar was tracking an area of strong thunderstorms 11 miles southwest of Brownsville-Bawcomville, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Monroe, Ruston, Claiborne, West Monroe, Grambling, Brownsville-Bawcomville, Brownsville-Bawcom, Richwood, Arcadia, Dubach, Choudrant, Simsboro, Chatham, Vienna, Eros, Downsville, Mineral Springs and Calhoun.\nGenerated: 2026-06-23 05:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 12:09AM CDT by NWS Shreveport LA\nExpires: 2026-06-23 05:45 Z\nAt 1209 AM CDT, Doppler radar was tracking an area of strong thunderstorms 11 miles southwest of Brownsville-Bawcomville, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Monroe, Ruston, Claiborne, West Monroe, Grambling, Brownsville-Bawcomville, Brownsville-Bawcom, Richwood, Arcadia, Dubach, Choudrant, Simsboro, Chatham, Vienna, Eros, Downsville, Mineral Springs and Calhoun.\nGenerated: 2026-06-23 05:30:18 UTC"
   32.5200, -92.9400
   32.8300, -92.7300
   32.5100, -91.9100
@@ -40,51 +58,7 @@ Line: 2,,"Special Weather Statement issued June 23 at 12:09AM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 12:06AM CDT by NWS Fort Worth TX\nExpires: 2026-06-23 05:30 Z\nAt 1206 AM CDT, Doppler radar was tracking a strong thunderstorm near Lake Bonham, or 10 miles north of Bonham, moving east at 5 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Lake Bonham around 1220 AM CDT.  Other locations impacted by this storm include Ridings, Sowells Bluff, Ivanhoe, Lamasco, Duplex, Carson, and Lannius.\nGenerated: 2026-06-23 05:25:15 UTC"
-  33.7600, -95.9600
-  33.6100, -96.0500
-  33.7200, -96.2600
-  33.7500, -96.2400
-  33.7500, -96.2200
-  33.7600, -96.1900
-  33.7700, -96.1700
-  33.7900, -96.1600
-  33.8000, -96.1700
-  33.7900, -96.1400
-  33.7600, -95.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 12:04AM CDT by NWS Amarillo TX\nExpires: 2026-06-23 05:30 Z\nAt 1204 AM CDT, Doppler radar was tracking a strong thunderstorm over Lutie, or 10 miles north of Wellington. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lutie.\nGenerated: 2026-06-23 05:25:15 UTC"
-  34.9500, -100.2700
-  35.0600, -100.2100
-  35.0200, -100.0100
-  34.8600, -100.0800
-  34.9500, -100.2700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 1:02AM EDT by NWS Peachtree City GA\nExpires: 2026-06-23 05:30 Z\nAt 102 AM EDT, a strong thunderstorm was over Lake Harding, or 7 miles south of Valley, moving east at 45 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Hamilton, Goat Rock Lake, Ellerslie, Flat Rock, Midland, Mountain Hill, Cataula, Fortson, Mulberry Grove, and Lake Harding.\nGenerated: 2026-06-23 05:25:15 UTC"
-  32.8000, -85.1500
-  32.7500, -84.7300
-  32.5100, -84.8300
-  32.6000, -85.0800
-  32.6200, -85.0900
-  32.6300, -85.0800
-  32.6400, -85.1100
-  32.6600, -85.0900
-  32.6700, -85.0900
-  32.6900, -85.1200
-  32.7200, -85.1200
-  32.7400, -85.1100
-  32.7400, -85.1300
-  32.7600, -85.1400
-  32.7800, -85.1200
-  32.8000, -85.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 11:01PM MDT by NWS Cheyenne WY\nExpires: 2026-06-23 05:45 Z\nAt 1100 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Ardmore, or 25 miles southeast of Edgemont, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chadron, Chadron Municipal Airport, and Dawes County Fairgrounds.\nGenerated: 2026-06-23 05:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 11:01PM MDT by NWS Cheyenne WY\nExpires: 2026-06-23 05:45 Z\nAt 1100 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Ardmore, or 25 miles southeast of Edgemont, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chadron, Chadron Municipal Airport, and Dawes County Fairgrounds.\nGenerated: 2026-06-23 05:30:18 UTC"
   42.8000, -102.9900
   42.9200, -103.6300
   43.0000, -103.6000
@@ -93,7 +67,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 11:01PM MDT by NWS Cheyenn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 12:58AM EDT by NWS Newport/Morehead City NC\nExpires: 2026-06-23 05:45 Z\nAt 1258 AM EDT, Doppler radar was tracking a strong thunderstorm over Bruce, or 7 miles northeast of Farmville, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greenville, Washington, Winterville, Farmville, River Road, Stokes, Bell Arthur, House, Pactolus, Black Jack, Bruce, Bunyan, Old Ford, East Carolina University, Pitt Greenville Airport, Dowdy Ficklen Stadium, Chocowinity, Jamesville, Washington Park, and Grimesland.\nGenerated: 2026-06-23 05:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 12:58AM EDT by NWS Newport/Morehead City NC\nExpires: 2026-06-23 05:45 Z\nAt 1258 AM EDT, Doppler radar was tracking a strong thunderstorm over Bruce, or 7 miles northeast of Farmville, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greenville, Washington, Winterville, Farmville, River Road, Stokes, Bell Arthur, House, Pactolus, Black Jack, Bruce, Bunyan, Old Ford, East Carolina University, Pitt Greenville Airport, Dowdy Ficklen Stadium, Chocowinity, Jamesville, Washington Park, and Grimesland.\nGenerated: 2026-06-23 05:30:18 UTC"
   35.8100, -76.9000
   35.8100, -76.8800
   35.4400, -76.9600
