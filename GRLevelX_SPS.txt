@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-23 00:20:16 UTC
+; Generated: 2026-06-23 00:25:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 8:14PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-23 00:45 Z\nAt 814 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Danielsville, or 5 miles west of Bowman, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elberton, Hartwell, Royston, Bowman, Franklin Springs, Russell State Park, Middleton, Lake Russell, Lake Hartwell, and Dewy Rose.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 8:23PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-23 01:00 Z\nAt 822 PM EDT, Doppler radar was tracking a strong thunderstorm near Taylorsville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Taylorsville, Bethlehem, Stony Point, Love Valley, Lake Hickory, St. Stephens, Hiddenite, Little River In Alexander County, Millersville, and Ellendale.\nGenerated: 2026-06-23 00:25:15 UTC"
+  35.9300, -80.8600
+  35.8200, -80.8800
+  35.7700, -81.3500
+  35.7800, -81.3600
+  35.7900, -81.3500
+  35.8000, -81.3300
+  35.8200, -81.3400
+  35.8900, -81.3300
+  35.9200, -81.3400
+  35.9600, -81.3300
+  36.0000, -80.9000
+  35.9300, -80.8600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 22 at 6:20PM MDT by NWS Billings MT\nExpires: 2026-06-23 01:00 Z\nAt 620 PM MDT, Doppler radar was tracking a thunderstorm 22 miles southwest of Volborg, or 23 miles west of Broadus, moving southeast at 60 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Broadus, Olive and Sonnette.\nGenerated: 2026-06-23 00:25:15 UTC"
+  45.5100, -106.0800
+  45.7100, -105.9400
+  45.4600, -104.9900
+  45.1100, -105.2700
+  45.5100, -106.0800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 22 at 8:14PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-23 00:45 Z\nAt 814 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Danielsville, or 5 miles west of Bowman, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elberton, Hartwell, Royston, Bowman, Franklin Springs, Russell State Park, Middleton, Lake Russell, Lake Hartwell, and Dewy Rose.\nGenerated: 2026-06-23 00:25:15 UTC"
   34.1500, -83.0600
   34.1700, -83.1000
   34.2300, -83.0800
@@ -27,7 +52,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 8:14PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:07PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-23 00:45 Z\nAt 707 PM CDT, Doppler radar was tracking a strong thunderstorm over Midland, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midland, Greenwood, Stanton, Lenorah, Courtney, Cotton Flat, Midland Airpark, and Stanton Municipal Aiport.  This includes Interstate 20 between mile markers 132 and 160.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:07PM CDT by NWS Midland/Odessa TX\nExpires: 2026-06-23 00:45 Z\nAt 707 PM CDT, Doppler radar was tracking a strong thunderstorm over Midland, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midland, Greenwood, Stanton, Lenorah, Courtney, Cotton Flat, Midland Airpark, and Stanton Municipal Aiport.  This includes Interstate 20 between mile markers 132 and 160.\nGenerated: 2026-06-23 00:25:15 UTC"
   32.0800, -101.7100
   32.0900, -101.7700
   32.0500, -101.7800
@@ -40,7 +65,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:07PM CDT by NWS Midland/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 8:01PM EDT by NWS Wakefield VA\nExpires: 2026-06-23 01:00 Z\nAt 801 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near West Point to near Charles City to near McKenney. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Petersburg, Dinwiddie, Charles City, West Point, Fort Gregg-Adams, Prince George, Garysville, Holdcroft, Ruthville, and Dewitt around 805 PM EDT. Toano, Saluda, Burrowsville, Rustic, and Glenns around 810 PM EDT. Claremont, Disputanta, Norge, and Carson around 815 PM EDT. Cabin Point around 820 PM EDT. Williamsburg and Hartfield around 825 PM EDT. Gloucester Courthouse around 830 PM EDT. Queens Lake, College Of William And Mary, Deltaville, Hayes, and Blakes around 835 PM EDT. Gloucester Point, Jamestown, Kings Point, York Terrace, and Gwynn around 840 PM EDT.  Other locations impacted by these storms include Eltham, Croaker, Moon, Wayside, Laban, Camp Peary, Grafton, Amburg, Glendale, and Rose Garden.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 8:01PM EDT by NWS Wakefield VA\nExpires: 2026-06-23 01:00 Z\nAt 801 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near West Point to near Charles City to near McKenney. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Petersburg, Dinwiddie, Charles City, West Point, Fort Gregg-Adams, Prince George, Garysville, Holdcroft, Ruthville, and Dewitt around 805 PM EDT. Toano, Saluda, Burrowsville, Rustic, and Glenns around 810 PM EDT. Claremont, Disputanta, Norge, and Carson around 815 PM EDT. Cabin Point around 820 PM EDT. Williamsburg and Hartfield around 825 PM EDT. Gloucester Courthouse around 830 PM EDT. Queens Lake, College Of William And Mary, Deltaville, Hayes, and Blakes around 835 PM EDT. Gloucester Point, Jamestown, Kings Point, York Terrace, and Gwynn around 840 PM EDT.  Other locations impacted by these storms include Eltham, Croaker, Moon, Wayside, Laban, Camp Peary, Grafton, Amburg, Glendale, and Rose Garden.\nGenerated: 2026-06-23 00:25:15 UTC"
   37.3200, -77.5200
   37.6800, -77.0500
   37.5700, -76.2500
@@ -52,7 +77,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 8:01PM EDT by NWS Wakefiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:59PM EDT by NWS Columbia SC\nExpires: 2026-06-23 00:45 Z\nAt 759 PM EDT, Doppler radar was tracking a strong thunderstorm over South Augusta, or over Fort Gordon, moving northeast at 30 mph.  HAZARD...Wind gusts 35 to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, North Augusta, Aiken Mall, Fort Gordon, Augusta, Clearwater, Belvedere, Martinez, Hephzibah, Glendale, South Augusta, Midtown, Summerville, Augusta Mall, Daniel Field, Citizens Park, Augusta Regional Airport, Village Plaza Shopping Center, Augusta National Golf Club, and USC Aiken.  This includes the following highways... Interstate 20 in Georgia between mile markers 195 and 201. Interstate 20 in South Carolina between mile markers 0 and 16. Interstate 520 in Georgia between mile markers 1 and 15. Interstate 520 in South Carolina between mile markers 16 and 23.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:59PM EDT by NWS Columbia SC\nExpires: 2026-06-23 00:45 Z\nAt 759 PM EDT, Doppler radar was tracking a strong thunderstorm over South Augusta, or over Fort Gordon, moving northeast at 30 mph.  HAZARD...Wind gusts 35 to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, North Augusta, Aiken Mall, Fort Gordon, Augusta, Clearwater, Belvedere, Martinez, Hephzibah, Glendale, South Augusta, Midtown, Summerville, Augusta Mall, Daniel Field, Citizens Park, Augusta Regional Airport, Village Plaza Shopping Center, Augusta National Golf Club, and USC Aiken.  This includes the following highways... Interstate 20 in Georgia between mile markers 195 and 201. Interstate 20 in South Carolina between mile markers 0 and 16. Interstate 520 in Georgia between mile markers 1 and 15. Interstate 520 in South Carolina between mile markers 16 and 23.\nGenerated: 2026-06-23 00:25:15 UTC"
   33.2800, -82.1200
   33.4000, -82.2200
   33.7200, -81.8200
@@ -61,7 +86,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:59PM EDT by NWS Columbia
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:58PM EDT by NWS Charleston WV\nExpires: 2026-06-23 00:45 Z\nAt 758 PM EDT, Doppler radar was tracking a strong thunderstorm over Jackson Mill, or near Weston, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckhannon, Weston, Philippi, Jackson Mill, West Milford, Lost Creek, Jane Lew, Camden, Volga, Lorentz, Century, Overhill, Hodgesville, and Horner.  This includes the following highways... Interstate 79 between mile markers 97 and 115. Route 33 between mile markers 1 and 17.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:58PM EDT by NWS Charleston WV\nExpires: 2026-06-23 00:45 Z\nAt 758 PM EDT, Doppler radar was tracking a strong thunderstorm over Jackson Mill, or near Weston, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckhannon, Weston, Philippi, Jackson Mill, West Milford, Lost Creek, Jane Lew, Camden, Volga, Lorentz, Century, Overhill, Hodgesville, and Horner.  This includes the following highways... Interstate 79 between mile markers 97 and 115. Route 33 between mile markers 1 and 17.\nGenerated: 2026-06-23 00:25:15 UTC"
   39.0600, -80.6000
   39.2500, -80.4700
   39.1800, -80.0100
@@ -70,7 +95,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:58PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 6:57PM CDT by NWS Huntsville AL\nExpires: 2026-06-23 00:45 Z\nAt 657 PM CDT, Doppler radar was tracking a strong thunderstorm near Madison, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, Madison, Athens, Scottsboro, Moores Mill, Redstone Arsenal, Meridianville, Hazel Green, Skyline, and Gurley.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 6:57PM CDT by NWS Huntsville AL\nExpires: 2026-06-23 00:45 Z\nAt 657 PM CDT, Doppler radar was tracking a strong thunderstorm near Madison, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, Madison, Athens, Scottsboro, Moores Mill, Redstone Arsenal, Meridianville, Hazel Green, Skyline, and Gurley.\nGenerated: 2026-06-23 00:25:15 UTC"
   34.6100, -86.1000
   34.6400, -87.0100
   34.8200, -86.9900
@@ -80,7 +105,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 6:57PM CDT by NWS Huntsvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:53PM EDT by NWS Raleigh NC\nExpires: 2026-06-23 00:45 Z\nAt 749 PM EDT, Doppler radar was tracking outflow winds from strong thunderstorms along a line extending from Roxboro to near Rougemont to near Hillsborough to 10 miles northeast of Siler City. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh, Durham, Cary, Chapel Hill, Henderson, Oxford, Creedmoor, Wake Forest, Butner, and Franklinton.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:53PM EDT by NWS Raleigh NC\nExpires: 2026-06-23 00:45 Z\nAt 749 PM EDT, Doppler radar was tracking outflow winds from strong thunderstorms along a line extending from Roxboro to near Rougemont to near Hillsborough to 10 miles northeast of Siler City. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh, Durham, Cary, Chapel Hill, Henderson, Oxford, Creedmoor, Wake Forest, Butner, and Franklinton.\nGenerated: 2026-06-23 00:25:15 UTC"
   36.3100, -78.2800
   35.8700, -78.4800
   35.6400, -78.8400
@@ -96,7 +121,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:53PM EDT by NWS Raleigh 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 6:52PM CDT by NWS Shreveport LA\nExpires: 2026-06-23 00:30 Z\nAt 652 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Homer, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Homer, Lisbon, Lake Clairborne and Antioch.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 6:52PM CDT by NWS Shreveport LA\nExpires: 2026-06-23 00:30 Z\nAt 652 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Homer, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Homer, Lisbon, Lake Clairborne and Antioch.\nGenerated: 2026-06-23 00:25:15 UTC"
   32.8000, -93.1500
   32.9700, -93.0700
   32.8900, -92.8200
@@ -105,7 +130,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 6:52PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:51PM EDT by NWS Peachtree City GA\nExpires: 2026-06-23 00:30 Z\nAt 751 PM EDT, a strong thunderstorm was over Nicholson, or near Commerce, moving east at 25 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Commerce, Danielsville, Nicholson, Comer, Colbert, Ila, Hull, Pocataligo, Diamond Hill, Neese, Paoli, and Banks Crossing.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:51PM EDT by NWS Peachtree City GA\nExpires: 2026-06-23 00:30 Z\nAt 751 PM EDT, a strong thunderstorm was over Nicholson, or near Commerce, moving east at 25 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Commerce, Danielsville, Nicholson, Comer, Colbert, Ila, Hull, Pocataligo, Diamond Hill, Neese, Paoli, and Banks Crossing.\nGenerated: 2026-06-23 00:25:15 UTC"
   34.3200, -83.3900
   34.2700, -83.3400
   34.2400, -83.3400
@@ -130,7 +155,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:51PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:49PM EDT by NWS Melbourne FL\nExpires: 2026-06-23 00:30 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Lake Marian, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Forever Florida.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:49PM EDT by NWS Melbourne FL\nExpires: 2026-06-23 00:30 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Lake Marian, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Forever Florida.\nGenerated: 2026-06-23 00:25:15 UTC"
   27.9200, -81.1600
   27.9900, -81.2100
   28.1400, -81.1200
@@ -139,7 +164,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:49PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:48PM EDT by NWS Charleston WV\nExpires: 2026-06-23 00:30 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm near Grafton, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grafton, Philippi, Montrose, Moatsville, Tygart Lake State Park, Thornton, Knottsville, and Nestorville.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:48PM EDT by NWS Charleston WV\nExpires: 2026-06-23 00:30 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm near Grafton, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grafton, Philippi, Montrose, Moatsville, Tygart Lake State Park, Thornton, Knottsville, and Nestorville.\nGenerated: 2026-06-23 00:25:15 UTC"
   39.1000, -80.0100
   39.1800, -80.1500
   39.4000, -79.9700
@@ -159,7 +184,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:48PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:43PM EDT by NWS Charleston WV\nExpires: 2026-06-23 00:30 Z\nAt 743 PM EDT, Doppler radar was tracking a strong thunderstorm near Pinch, or 13 miles east of Charleston, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fayetteville, Clay, Montgomery, Chesapeake, Marmet, Ansted, Belle, Clendenin, Cedar Grove, East Bank, Glasgow, Smithers, Gauley Bridge, Pratt, Glen, Hawks Nest State Park, Coal Fork, Powellton, Handley, and Procious.  This includes the following highways... West Virginia Turnpike near mile marker 83, and between mile markers 87 and 90. Route 19 between mile markers 18 and 20, between mile markers 47 and 48, and between mile markers 50 and 52.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:43PM EDT by NWS Charleston WV\nExpires: 2026-06-23 00:30 Z\nAt 743 PM EDT, Doppler radar was tracking a strong thunderstorm near Pinch, or 13 miles east of Charleston, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fayetteville, Clay, Montgomery, Chesapeake, Marmet, Ansted, Belle, Clendenin, Cedar Grove, East Bank, Glasgow, Smithers, Gauley Bridge, Pratt, Glen, Hawks Nest State Park, Coal Fork, Powellton, Handley, and Procious.  This includes the following highways... West Virginia Turnpike near mile marker 83, and between mile markers 87 and 90. Route 19 between mile markers 18 and 20, between mile markers 47 and 48, and between mile markers 50 and 52.\nGenerated: 2026-06-23 00:25:15 UTC"
   38.2400, -81.5900
   38.5400, -81.3200
   38.5300, -81.3000
@@ -171,7 +196,7 @@ Line: 2,,"Special Weather Statement issued June 22 at 7:43PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 22 at 7:40PM EDT by NWS Blacksburg VA\nExpires: 2026-06-23 00:30 Z\nAt 740 PM EDT, Doppler radar was tracking a strong thunderstorm over Potts Creek, or near Jordan Mines, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alleghany... Covington... Paint Bank... Eagle Rock... Jordan Mines... Oriskany... and Fincastle.\nGenerated: 2026-06-23 00:20:16 UTC"
+Line: 2,,"Special Weather Statement issued June 22 at 7:40PM EDT by NWS Blacksburg VA\nExpires: 2026-06-23 00:30 Z\nAt 740 PM EDT, Doppler radar was tracking a strong thunderstorm over Potts Creek, or near Jordan Mines, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alleghany... Covington... Paint Bank... Eagle Rock... Jordan Mines... Oriskany... and Fincastle.\nGenerated: 2026-06-23 00:25:15 UTC"
   37.7700, -79.6900
   37.7600, -79.6700
   37.7400, -79.6900
