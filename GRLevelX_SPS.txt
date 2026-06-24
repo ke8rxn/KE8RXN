@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-24 19:15:19 UTC
+; Generated: 2026-06-24 19:20:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 2:13PM CDT by NWS Green Bay WI\nExpires: 2026-06-24 19:45 Z\nAt 213 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Green Bay, moving east at 25 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Bellevue Town and Long Tail Point Light around 230 PM CDT.  Other locations impacted by this strong thunderstorm include Hobart, Anston, Oneida, Kunesh, Pittsfield, Howard, Lambeau Field, Ashwaubenon, De Pere and Allouez.\nGenerated: 2026-06-24 19:15:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 2:15PM CDT by NWS New Orleans LA\nExpires: 2026-06-24 20:00 Z\nAt 215 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Varnado to near Sun. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bogalusa, Picayune, Poplarville, Varnado, Sun, Bush, Mcneil, Crossroads, and Angie.  This includes Interstate 59 in Mississippi between mile markers 4 and 36.\nGenerated: 2026-06-24 19:20:19 UTC"
+  31.0000, -89.4700
+  30.9800, -89.4700
+  30.9800, -89.4500
+  30.8600, -89.4500
+  30.6900, -89.5200
+  30.5000, -89.6300
+  30.4900, -89.6500
+  30.5800, -89.9400
+  30.6800, -90.0000
+  30.8200, -89.9100
+  31.0000, -89.8300
+  31.0000, -89.5500
+  31.0100, -89.5500
+  31.0100, -89.5100
+  31.0000, -89.4700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 24 at 3:15PM EDT by NWS Melbourne FL\nExpires: 2026-06-24 19:45 Z\nAt 315 PM EDT, Doppler radar was tracking a strong thunderstorm over Malabar, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Palm Bay, Melbourne, Malabar, Indialantic, and West Melbourne.\nGenerated: 2026-06-24 19:20:19 UTC"
+  27.8900, -80.5700
+  28.0100, -80.7100
+  28.1300, -80.5900
+  28.1100, -80.5300
+  27.9900, -80.4700
+  27.8900, -80.5700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 24 at 2:13PM CDT by NWS Green Bay WI\nExpires: 2026-06-24 19:45 Z\nAt 213 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Green Bay, moving east at 25 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Bellevue Town and Long Tail Point Light around 230 PM CDT.  Other locations impacted by this strong thunderstorm include Hobart, Anston, Oneida, Kunesh, Pittsfield, Howard, Lambeau Field, Ashwaubenon, De Pere and Allouez.\nGenerated: 2026-06-24 19:20:19 UTC"
   44.6300, -88.4400
   44.6500, -87.9400
   44.6300, -87.9400
@@ -19,7 +48,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 2:13PM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 1:00PM MDT by NWS Albuquerque NM\nExpires: 2026-06-24 19:30 Z\nAt 100 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 10 miles northeast of Datil to 24 miles east of Beaverhead, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Datil, National Radio Astronomy Observatory, Dusty and Alamo.  This includes Highway 60 between Mile Markers 66 and 104.\nGenerated: 2026-06-24 19:15:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 1:00PM MDT by NWS Albuquerque NM\nExpires: 2026-06-24 19:30 Z\nAt 100 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 10 miles northeast of Datil to 24 miles east of Beaverhead, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Datil, National Radio Astronomy Observatory, Dusty and Alamo.  This includes Highway 60 between Mile Markers 66 and 104.\nGenerated: 2026-06-24 19:20:19 UTC"
   34.3000, -107.9700
   34.3500, -107.8500
   34.3500, -107.7800
@@ -37,7 +66,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 1:00PM MDT by NWS Albuquer
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 2:58PM EDT by NWS Melbourne FL\nExpires: 2026-06-24 19:45 Z\nAt 258 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Wedgefield to near Narcoossee to 7 miles south of Saint Cloud. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Orlando, Saint Cloud, East Lake Toho, Holopaw, and Narcoossee.\nGenerated: 2026-06-24 19:15:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 2:58PM EDT by NWS Melbourne FL\nExpires: 2026-06-24 19:45 Z\nAt 258 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Wedgefield to near Narcoossee to 7 miles south of Saint Cloud. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Orlando, Saint Cloud, East Lake Toho, Holopaw, and Narcoossee.\nGenerated: 2026-06-24 19:20:19 UTC"
   28.4100, -81.2500
   28.4100, -80.9800
   28.1700, -80.9400
@@ -51,7 +80,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 2:58PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 2:58PM EDT by NWS Caribou ME\nExpires: 2026-06-24 19:30 Z\nAt 258 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Deblois to 15 miles east of Dedham. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ellsworth, Bucksport, Machias, Cherryfield, Dedham, Jonesport, Steuben, Harrington, Jonesboro, Columbia Falls, Columbia, Deblois, Millbridge, Centerville, Hancock, Franklin, Holden, Eddington, Lamoine, and Trenton.  This includes the following highways... US Highway 1 between Ellsworth and Jonesboro. State Highway 9 near Junction 193.\nGenerated: 2026-06-24 19:15:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 2:58PM EDT by NWS Caribou ME\nExpires: 2026-06-24 19:30 Z\nAt 258 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Deblois to 15 miles east of Dedham. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ellsworth, Bucksport, Machias, Cherryfield, Dedham, Jonesport, Steuben, Harrington, Jonesboro, Columbia Falls, Columbia, Deblois, Millbridge, Centerville, Hancock, Franklin, Holden, Eddington, Lamoine, and Trenton.  This includes the following highways... US Highway 1 between Ellsworth and Jonesboro. State Highway 9 near Junction 193.\nGenerated: 2026-06-24 19:20:19 UTC"
   44.6400, -67.4400
   44.3800, -68.4100
   44.7500, -68.7300
@@ -60,7 +89,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 2:58PM EDT by NWS Caribou 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 1:57PM CDT by NWS Green Bay WI\nExpires: 2026-06-24 19:30 Z\nAt 157 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Spencer, or 38 miles west of Wausau, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Abbotsford around 205 PM CDT. Spencer around 210 PM CDT. Marshfield around 225 PM CDT.  Other locations impacted by this strong thunderstorm include Colby, Unity, Cherokee, March Rapids and Stratford.\nGenerated: 2026-06-24 19:15:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 1:57PM CDT by NWS Green Bay WI\nExpires: 2026-06-24 19:30 Z\nAt 157 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Spencer, or 38 miles west of Wausau, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Abbotsford around 205 PM CDT. Spencer around 210 PM CDT. Marshfield around 225 PM CDT.  Other locations impacted by this strong thunderstorm include Colby, Unity, Cherokee, March Rapids and Stratford.\nGenerated: 2026-06-24 19:20:19 UTC"
   44.9300, -90.3200
   44.9200, -89.9100
   44.6900, -89.9500
@@ -72,7 +101,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 1:57PM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 1:57PM CDT by NWS Lincoln IL\nExpires: 2026-06-24 19:30 Z\nAt 156 PM CDT, Doppler radar was tracking a strong thunderstorm over Stanford, or 15 miles southwest of Normal, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bloomington, Normal, Minier, Danvers, Downs, Stanford, Carlock, Shirley, and Central Illinois Regional Airport.  This includes the following highways... Interstate 39 between mile markers 0 and 4. Interstate 55 between mile markers 148 and 167. Interstate 74 between mile markers 120 and 144.\nGenerated: 2026-06-24 19:15:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 1:57PM CDT by NWS Lincoln IL\nExpires: 2026-06-24 19:30 Z\nAt 156 PM CDT, Doppler radar was tracking a strong thunderstorm over Stanford, or 15 miles southwest of Normal, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bloomington, Normal, Minier, Danvers, Downs, Stanford, Carlock, Shirley, and Central Illinois Regional Airport.  This includes the following highways... Interstate 39 between mile markers 0 and 4. Interstate 55 between mile markers 148 and 167. Interstate 74 between mile markers 120 and 144.\nGenerated: 2026-06-24 19:20:19 UTC"
   40.3300, -89.2900
   40.5100, -89.3500
   40.6300, -89.0300
@@ -81,7 +110,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 1:57PM CDT by NWS Lincoln 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 1:48PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-24 19:30 Z\nAt 147 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Mount Horeb, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mount Horeb, Black Earth, Barneveld, Blue Mounds, Ridgeway, and Blue Mound St Park.  This includes U.S. Highway 18 between mile markers 53 and 70.\nGenerated: 2026-06-24 19:15:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 1:48PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-06-24 19:30 Z\nAt 147 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Mount Horeb, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mount Horeb, Black Earth, Barneveld, Blue Mounds, Ridgeway, and Blue Mound St Park.  This includes U.S. Highway 18 between mile markers 53 and 70.\nGenerated: 2026-06-24 19:20:19 UTC"
   43.1400, -90.1500
   43.1300, -89.6900
   42.9200, -89.6700
