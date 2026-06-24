@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-24 06:40:19 UTC
+; Generated: 2026-06-24 06:45:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 1:36AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-24 07:00 Z\nAt 136 AM CDT, Doppler radar was tracking a strong thunderstorm over Browerville, or 24 miles west of Little Falls, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Long Prairie and Browerville.\nGenerated: 2026-06-24 06:40:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 12:44AM MDT by NWS Pueblo CO\nExpires: 2026-06-24 07:15 Z\nAt 1244 AM MDT, Doppler radar was tracking a strong thunderstorm 17 miles northwest of Delhi, or 35 miles southeast of Pueblo Airport, moving southeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Delhi, Timpas, and Thatcher.\nGenerated: 2026-06-24 06:45:18 UTC"
+  37.8100, -104.5000
+  38.0900, -104.1800
+  37.8600, -103.6100
+  37.4900, -103.9400
+  37.8100, -104.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 24 at 1:43AM CDT by NWS Amarillo TX\nExpires: 2026-06-24 07:30 Z\nAt 143 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Morse, or 20 miles west of Spearman, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Spearman, Gruver, and Morse.\nGenerated: 2026-06-24 06:45:18 UTC"
+  36.0700, -101.6600
+  36.2700, -101.6300
+  36.2600, -101.1500
+  35.8900, -101.2700
+  36.0700, -101.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 24 at 1:36AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-06-24 07:00 Z\nAt 136 AM CDT, Doppler radar was tracking a strong thunderstorm over Browerville, or 24 miles west of Little Falls, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Long Prairie and Browerville.\nGenerated: 2026-06-24 06:45:18 UTC"
   46.1900, -94.8500
   46.1100, -94.5300
   45.9000, -94.7500
@@ -14,7 +32,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 1:36AM CDT by NWS Twin Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 12:31AM MDT by NWS Pueblo CO\nExpires: 2026-06-24 07:00 Z\nAt 1231 AM MDT, Doppler radar was tracking a strong thunderstorm near Pueblo Reservoir, or 11 miles southwest of Pueblo, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Southwestern Pueblo, Salt Creek, and Pueblo Reservoir.\nGenerated: 2026-06-24 06:40:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 12:31AM MDT by NWS Pueblo CO\nExpires: 2026-06-24 07:00 Z\nAt 1231 AM MDT, Doppler radar was tracking a strong thunderstorm near Pueblo Reservoir, or 11 miles southwest of Pueblo, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Southwestern Pueblo, Salt Creek, and Pueblo Reservoir.\nGenerated: 2026-06-24 06:45:18 UTC"
   38.2000, -104.9300
   38.2700, -104.8700
   38.2300, -104.4700
@@ -23,36 +41,7 @@ Line: 2,,"Special Weather Statement issued June 24 at 12:31AM MDT by NWS Pueblo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 12:20AM MDT by NWS Pueblo CO\nExpires: 2026-06-24 06:45 Z\nAt 1220 AM MDT, Doppler radar was tracking a strong thunderstorm 11 miles south of Pueblo Reservoir, or 15 miles southwest of Pueblo, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Pueblo County.\nGenerated: 2026-06-24 06:40:19 UTC"
-  38.0700, -104.8800
-  38.1500, -104.8800
-  38.2000, -104.5700
-  38.0000, -104.5800
-  38.0700, -104.8800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 1:16AM CDT by NWS Shreveport LA\nExpires: 2026-06-24 06:45 Z\nAt 116 AM CDT, Doppler radar was tracking a strong thunderstorm near Jonesboro, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jonesboro, Chatham, Hodge, North Hodge, East Hodge and Sikes.\nGenerated: 2026-06-24 06:40:19 UTC"
-  32.1500, -92.7700
-  32.2300, -92.7800
-  32.2400, -92.7700
-  32.3000, -92.7700
-  32.3800, -92.4000
-  32.0700, -92.4300
-  32.1500, -92.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 1:09AM CDT by NWS Amarillo TX\nExpires: 2026-06-24 06:45 Z\nAt 109 AM CDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Sunray, or 22 miles southeast of Stratford, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morse.\nGenerated: 2026-06-24 06:40:19 UTC"
-  36.1000, -101.8400
-  36.2800, -101.7700
-  36.2300, -101.3700
-  35.9600, -101.5000
-  36.1000, -101.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 24 at 12:07AM MDT by NWS Cheyenne WY\nExpires: 2026-06-24 07:00 Z\nAt 1206 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles east of Albin to North Cheyenne. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cheyenne, Kimball, Pine Bluffs, Burns, Dix, Albin, Bushnell, Rocking Star Ranch, Silver Sage Estates, Egbert, Fox Farm-College, Cheyenne Regional Airport, Panorama Point, Ranchettes, Oliver Reservoir, Warren AFB, Frontier Park, Pine Bluffs Municipal Airport, North Cheyenne, and Laramie County Fairgrounds at Archer.  This includes the following highways... Interstate 25 in Wyoming between mile markers 10 and 21. Interstate 80 in Wyoming between mile markers 361 and 402. Interstate 80 in Nebraska between mile markers 1 and 34.\nGenerated: 2026-06-24 06:40:19 UTC"
+Line: 2,,"Special Weather Statement issued June 24 at 12:07AM MDT by NWS Cheyenne WY\nExpires: 2026-06-24 07:00 Z\nAt 1206 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles east of Albin to North Cheyenne. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cheyenne, Kimball, Pine Bluffs, Burns, Dix, Albin, Bushnell, Rocking Star Ranch, Silver Sage Estates, Egbert, Fox Farm-College, Cheyenne Regional Airport, Panorama Point, Ranchettes, Oliver Reservoir, Warren AFB, Frontier Park, Pine Bluffs Municipal Airport, North Cheyenne, and Laramie County Fairgrounds at Archer.  This includes the following highways... Interstate 25 in Wyoming between mile markers 10 and 21. Interstate 80 in Wyoming between mile markers 361 and 402. Interstate 80 in Nebraska between mile markers 1 and 34.\nGenerated: 2026-06-24 06:45:18 UTC"
   41.2400, -105.0800
   41.5000, -103.9100
   41.4300, -103.3900
