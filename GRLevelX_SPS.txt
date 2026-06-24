@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-24 01:35:12 UTC
+; Generated: 2026-06-24 01:40:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 23 at 9:18PM EDT by NWS Jacksonville FL\nExpires: 2026-06-24 02:00 Z\nAt 918 PM EDT, Doppler radar was tracking a strong thunderstorm near Luraville, or near Mayo, moving southeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Luraville, Obrien, and Branford.\nGenerated: 2026-06-24 01:35:12 UTC"
+Line: 2,,"Special Weather Statement issued June 23 at 9:34PM EDT by NWS Tallahassee FL\nExpires: 2026-06-24 02:00 Z\nAt 934 PM EDT, Doppler radar was tracking a strong thunderstorm near Obrien, or 8 miles east of Mayo, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grady.\nGenerated: 2026-06-24 01:40:16 UTC"
+  29.8500, -82.9400
+  30.0300, -83.1400
+  30.0900, -83.1000
+  30.0800, -83.0700
+  30.0700, -83.0700
+  30.0500, -83.0300
+  30.0100, -83.0000
+  30.0100, -82.9800
+  29.9900, -82.9600
+  29.9600, -82.9500
+  29.9600, -82.9300
+  29.9500, -82.9200
+  29.8900, -82.9100
+  29.9000, -82.9000
+  29.8900, -82.8900
+  29.8500, -82.9400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 23 at 9:18PM EDT by NWS Jacksonville FL\nExpires: 2026-06-24 02:00 Z\nAt 918 PM EDT, Doppler radar was tracking a strong thunderstorm near Luraville, or near Mayo, moving southeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Luraville, Obrien, and Branford.\nGenerated: 2026-06-24 01:40:16 UTC"
   30.1900, -83.1600
   29.9600, -82.8000
   29.9000, -82.9100
