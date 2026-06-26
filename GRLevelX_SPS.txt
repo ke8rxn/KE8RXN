@@ -3,9 +3,58 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-26 17:10:15 UTC
+; Generated: 2026-06-26 17:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 1:01PM EDT by NWS Tallahassee FL\nExpires: 2026-06-26 18:15 Z\nAt 101 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Whigham to Doak Campbell Stadium to 13 miles southwest of Crawfordville. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Woodville, Monticello, Tallahassee State College, Florida State University, Thomasville, Havana, St. Marks, Crawfordville, Florida A and M, Cairo, Moultrie, Boston, Ochlocknee, Pavo, Coolidge, Whigham, Doak Campbell Stadium, Wakulla, and Greenville.\nGenerated: 2026-06-26 17:10:15 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 1:12PM EDT by NWS Columbia SC\nExpires: 2026-06-26 18:00 Z\nAt 112 PM EDT, Doppler radar was tracking a strong thunderstorm near Elliott, or 7 miles south of Bishopville, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bishopville, Lee State Park, Elliott, Mayesville, Lynchburg, Ashwood, Oswego, Manville, St. Charles, Wisacky, and East Sumter.  This includes the following highways... Interstate 20 in South Carolina between mile markers 113 and 126. Interstate 95 near mile marker 146.\nGenerated: 2026-06-26 17:15:15 UTC"
+  33.9100, -80.2700
+  34.1500, -80.4000
+  34.3300, -80.1800
+  34.2800, -80.1300
+  34.2300, -80.1100
+  34.2000, -80.1100
+  34.1600, -80.1600
+  34.1500, -80.1500
+  34.0900, -80.0800
+  34.0800, -80.0300
+  34.0300, -79.9800
+  33.9100, -80.2700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 26 at 1:11PM EDT by NWS Jacksonville FL\nExpires: 2026-06-26 17:45 Z\nAt 110 PM EDT, Doppler radar was tracking a strong thunderstorm near Starke, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Starke, Keystone Heights, Middleburg, Kingsley, Camp Blanding, Penney Farms, Lawtey, and Asbury Lake.\nGenerated: 2026-06-26 17:15:15 UTC"
+  29.9700, -81.7200
+  29.7900, -82.0300
+  29.9600, -82.2000
+  30.1900, -81.9900
+  30.1900, -81.9300
+  29.9700, -81.7200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 26 at 1:09PM EDT by NWS Charleston SC\nExpires: 2026-06-26 17:45 Z\nAt 109 PM EDT, Doppler radar was tracking a strong thunderstorm near Hampton Plantation State Park, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hampton Plantation State Park, Newland, Shulerville and Germantown.\nGenerated: 2026-06-26 17:15:15 UTC"
+  33.1800, -79.7000
+  33.2800, -79.5900
+  33.2700, -79.5600
+  33.2600, -79.5600
+  33.2700, -79.5500
+  33.2500, -79.5500
+  33.2400, -79.4900
+  33.2500, -79.4800
+  33.2400, -79.4800
+  33.2400, -79.4700
+  33.2300, -79.4700
+  33.2400, -79.4600
+  33.2300, -79.4600
+  33.2200, -79.4500
+  33.2200, -79.4600
+  33.2100, -79.4300
+  33.1900, -79.4100
+  33.0800, -79.6000
+  33.1800, -79.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 26 at 1:01PM EDT by NWS Tallahassee FL\nExpires: 2026-06-26 18:15 Z\nAt 101 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Whigham to Doak Campbell Stadium to 13 miles southwest of Crawfordville. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Woodville, Monticello, Tallahassee State College, Florida State University, Thomasville, Havana, St. Marks, Crawfordville, Florida A and M, Cairo, Moultrie, Boston, Ochlocknee, Pavo, Coolidge, Whigham, Doak Campbell Stadium, Wakulla, and Greenville.\nGenerated: 2026-06-26 17:15:15 UTC"
   29.9900, -84.5900
   30.0000, -84.5500
   30.0200, -84.5600
@@ -25,24 +74,7 @@ Line: 2,,"Special Weather Statement issued June 26 at 1:01PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 12:46PM EDT by NWS Wilmington NC\nExpires: 2026-06-26 17:15 Z\nAt 1245 PM EDT, Doppler radar was tracking a strong thunderstorm near Bucksville, or near Red Hill, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Myrtle Beach, Conway, Socastee, Red Hill, Myrtle Beach Airport, Hickory Grove, Homewood, Horry Georgetown Technical College Conway Campus, Bucksville, Nixonville, Bucksport, Dongola, Forestbrook, Coastal Carolina University, Lighthouse Care Center Of Conway, Conway Medical Center, and Grand Strand Regional Medical Center.\nGenerated: 2026-06-26 17:10:15 UTC"
-  33.6100, -79.0900
-  33.6400, -79.1300
-  33.6500, -79.1200
-  33.6500, -79.1300
-  33.6800, -79.1600
-  33.6900, -79.1800
-  33.7000, -79.1800
-  33.7100, -79.1900
-  33.7300, -79.1900
-  33.7500, -79.2200
-  33.9600, -79.0000
-  33.7500, -78.8000
-  33.6100, -79.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 12:40PM EDT by NWS Jacksonville FL\nExpires: 2026-06-26 17:30 Z\nAt 1240 PM EDT, Doppler radar was tracking a strong thunderstorm over Orange Heights, or near Melrose, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Interlachen, Keystone Heights, Melrose, Citra, Hawthorne, Lake Geneva, Rochelle, Melrose Landing, Cross Creek, and Orange Heights.\nGenerated: 2026-06-26 17:10:15 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 12:40PM EDT by NWS Jacksonville FL\nExpires: 2026-06-26 17:30 Z\nAt 1240 PM EDT, Doppler radar was tracking a strong thunderstorm over Orange Heights, or near Melrose, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Interlachen, Keystone Heights, Melrose, Citra, Hawthorne, Lake Geneva, Rochelle, Melrose Landing, Cross Creek, and Orange Heights.\nGenerated: 2026-06-26 17:15:15 UTC"
   29.3900, -82.2400
   29.4300, -82.2600
   29.5900, -82.2700
@@ -50,27 +82,4 @@ Line: 2,,"Special Weather Statement issued June 26 at 12:40PM EDT by NWS Jackson
   29.6800, -81.8400
   29.3400, -82.1300
   29.3900, -82.2400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 12:19PM EDT by NWS Tallahassee FL\nExpires: 2026-06-26 17:15 Z\nAt 1218 PM EDT/1118 AM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Richards Crossroads to near Fort Gaines to 13 miles southwest of Cuthbert to 6 miles southwest of Edison. Movement was northeast at 15 to 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Gaines, Morgan, Georgetown, Cuthbert, Edison, Shellman, Bellville, Bluffton, Wire Bridge, Parksville, Carnegie, Watson Crossroads, Scottsboro Crossroads, Ricks Place, Pecan, Thomas Mill Creek, Hatcher, Morris, Bethel, and Suttons Corner.\nGenerated: 2026-06-26 17:10:15 UTC"
-  31.8900, -84.7900
-  31.7800, -84.6400
-  31.6600, -84.5400
-  31.5700, -84.5400
-  31.3800, -84.8600
-  31.5500, -84.9500
-  31.6300, -85.0700
-  31.6800, -85.2900
-  31.7000, -85.2700
-  31.7000, -85.2200
-  31.7400, -85.2100
-  31.7700, -85.1600
-  31.7700, -85.1200
-  31.7800, -85.1400
-  31.7900, -85.1300
-  31.8900, -85.1300
-  31.9000, -85.1100
-  31.9600, -85.0800
-  31.8900, -84.7900
 End:
