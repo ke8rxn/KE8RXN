@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-27 08:30:19 UTC
+; Generated: 2026-06-27 08:35:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 3:17AM CDT by NWS Norman OK\nExpires: 2026-06-27 08:45 Z\nAt 317 AM CDT, Doppler radar was tracking a strong thunderstorm near Washington, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Norman, Newcastle, Purcell, Noble, Slaughterville, Goldsby, Washington, Cole, and southwestern Lake Thunderbird.\nGenerated: 2026-06-27 08:30:19 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 2:33AM MDT by NWS Cheyenne WY\nExpires: 2026-06-27 09:15 Z\nAt 232 AM MDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Red Cloud Campground, or 7 miles southeast of Chadron, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chadron, Red Cloud Campground, Chadron State Park, Dawes County Fairgrounds, and Chadron State Park Campground.\nGenerated: 2026-06-27 08:35:14 UTC"
+  42.5800, -103.0100
+  42.8100, -103.1300
+  42.9100, -102.8000
+  42.7900, -102.7900
+  42.7800, -102.7700
+  42.6100, -102.7800
+  42.5800, -103.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 27 at 3:32AM CDT by NWS Norman OK\nExpires: 2026-06-27 09:00 Z\nAt 332 AM CDT, Doppler radar was tracking a strong thunderstorm near Middleberg, moving east at 40 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Southwestern Norman, Chickasha, Newcastle, Blanchard, Noble, Slaughterville, Goldsby, Dibble, Washington, Cole, Amber, Middleberg, and Tabler.\nGenerated: 2026-06-27 08:35:14 UTC"
+  35.0200, -97.9200
+  35.1700, -98.0300
+  35.2900, -97.4200
+  35.0800, -97.3300
+  35.0200, -97.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 27 at 3:17AM CDT by NWS Norman OK\nExpires: 2026-06-27 08:45 Z\nAt 317 AM CDT, Doppler radar was tracking a strong thunderstorm near Washington, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Norman, Newcastle, Purcell, Noble, Slaughterville, Goldsby, Washington, Cole, and southwestern Lake Thunderbird.\nGenerated: 2026-06-27 08:35:14 UTC"
   35.0100, -97.5100
   35.1300, -97.6000
   35.3200, -97.3600
