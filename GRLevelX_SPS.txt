@@ -3,9 +3,63 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-27 04:25:14 UTC
+; Generated: 2026-06-27 04:30:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 10:19PM MDT by NWS Boise ID\nExpires: 2026-06-27 05:00 Z\nAt 1019 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Arrowrock Reservoir to near Tollgate. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  Locations impacted include... Prairie, Corral, Pine, Anderson Dam, Bennett Mountain, Rocky Bar, Tollgate, Hill City, Featherville, Little Camas Reservoir, Anderson Ranch Reservoir, Cat Creek Summit, Baumgartner Campground, Trinity Lakes, James Creek Summit, Danskin Peak, and Arrowrock Reservoir.\nGenerated: 2026-06-27 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 10:29PM MDT by NWS Denver CO\nExpires: 2026-06-27 05:00 Z\nAt 1029 PM MDT, Doppler radar was tracking a line of showers extending from near Meeker Park to near Central City, or extending from 32 miles southwest of Fort Collins to 33 miles west of Denver, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Western Boulder, Lyons, Nederland, Jamestown, Ward, Gold Hill, Summerville, Wallstreet, Salina, Sunshine, Crisman, Raymond, Peaceful Valley, Allenspark, Brainard Lake, Pinecliffe and Rollinsville.\nGenerated: 2026-06-27 04:30:15 UTC"
+  40.3400, -105.6100
+  40.3400, -105.2500
+  40.3100, -105.2500
+  40.2900, -105.2600
+  40.3100, -105.2700
+  40.3000, -105.2800
+  40.3000, -105.2900
+  40.3100, -105.2900
+  40.3100, -105.3100
+  40.2900, -105.3000
+  40.2600, -105.3000
+  40.2600, -105.2500
+  39.8200, -105.2500
+  39.8200, -105.5800
+  40.0600, -105.6100
+  40.3400, -105.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 26 at 11:29PM CDT by NWS Lubbock TX\nExpires: 2026-06-27 05:00 Z\nAt 1129 PM CDT, Doppler radar was tracking a line of strong thunderstorms along a line extending from 5 miles northeast of Halfway to 8 miles south of Anton to 8 miles southwest of Locketville. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lubbock, Plainview, Levelland, Brownfield, Abernathy, Hale Center, Wolfforth, Shallowater, Sundown, Anton, Cotton Center, Spade, Lubbock South Plains Mall, Locketville, Halfway, Reese Center, Lubbock International Airport, Texas Tech University, Whitharral, and Downtown Lubbock.\nGenerated: 2026-06-27 04:30:15 UTC"
+  33.1200, -102.2800
+  33.3400, -102.6000
+  33.5900, -102.6100
+  33.7800, -102.3400
+  34.3100, -102.0200
+  34.2400, -101.5700
+  34.0200, -101.5700
+  33.5700, -101.8000
+  33.3900, -101.9900
+  33.3900, -102.0800
+  33.3100, -102.0800
+  33.1200, -102.2800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 26 at 11:29PM CDT by NWS Tulsa OK\nExpires: 2026-06-27 05:15 Z\nAt 1129 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles south of Stroud, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Bristow...                        Depew... Milfay...  This includes Interstate 44 between mile markers 178 and 183.\nGenerated: 2026-06-27 04:30:15 UTC"
+  35.7900, -96.6200
+  35.8400, -96.3900
+  35.6400, -96.3800
+  35.6400, -96.6200
+  35.7900, -96.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 26 at 10:25PM MDT by NWS Goodland KS\nExpires: 2026-06-27 04:45 Z\nAt 1025 PM MDT/1125 PM CDT/, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Tribune, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of Wichita and Greeley Counties, including the following locations... Lydia and Selkirk.\nGenerated: 2026-06-27 04:30:15 UTC"
+  38.6400, -102.0400
+  38.6400, -101.2400
+  38.2600, -101.2500
+  38.2600, -102.0500
+  38.6400, -102.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 26 at 10:19PM MDT by NWS Boise ID\nExpires: 2026-06-27 05:00 Z\nAt 1019 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Arrowrock Reservoir to near Tollgate. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  Locations impacted include... Prairie, Corral, Pine, Anderson Dam, Bennett Mountain, Rocky Bar, Tollgate, Hill City, Featherville, Little Camas Reservoir, Anderson Ranch Reservoir, Cat Creek Summit, Baumgartner Campground, Trinity Lakes, James Creek Summit, Danskin Peak, and Arrowrock Reservoir.\nGenerated: 2026-06-27 04:30:15 UTC"
   43.8500, -115.1500
   43.2900, -114.9100
   43.1800, -115.6200
@@ -14,7 +68,7 @@ Line: 2,,"Special Weather Statement issued June 26 at 10:19PM MDT by NWS Boise I
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 11:14PM CDT by NWS Norman OK\nExpires: 2026-06-27 04:45 Z\nAt 1114 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles west of Aline to 3 miles southwest of Jet to 3 miles east of Lahoma to 3 miles southwest of Douglas. Movement was east at 30 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Enid, Fairview, Helena, Waukomis, Pond Creek, Garber, Lahoma, Covington, Ringwood, Drummond, Carmen, Cleo Springs, Kremlin, Goltry, Breckenridge, Ames, Meno, Jet, Aline, and Nash.\nGenerated: 2026-06-27 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 11:14PM CDT by NWS Norman OK\nExpires: 2026-06-27 04:45 Z\nAt 1114 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles west of Aline to 3 miles southwest of Jet to 3 miles east of Lahoma to 3 miles southwest of Douglas. Movement was east at 30 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Enid, Fairview, Helena, Waukomis, Pond Creek, Garber, Lahoma, Covington, Ringwood, Drummond, Carmen, Cleo Springs, Kremlin, Goltry, Breckenridge, Ames, Meno, Jet, Aline, and Nash.\nGenerated: 2026-06-27 04:30:15 UTC"
   36.5000, -97.6100
   36.2600, -97.4700
   36.1600, -97.7000
@@ -26,7 +80,7 @@ Line: 2,,"Special Weather Statement issued June 26 at 11:14PM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 10:09PM MDT by NWS Boise ID\nExpires: 2026-06-27 04:45 Z\nAt 1006 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Bruneau Sand Dunes to 7 miles northeast of Rogerson. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible.  Locations impacted include... Twin Falls, Jerome, Gooding, Glenns Ferry, Buhl, Kimberly, Wendell, Filer, Hansen, Hagerman, Hazelton, Eden, Bruneau, Bliss, Hollister, Castleford, Murtaugh, Little Camas Reservoir, Rock Creek, and Twentymile Butte.\nGenerated: 2026-06-27 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 10:09PM MDT by NWS Boise ID\nExpires: 2026-06-27 04:45 Z\nAt 1006 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Bruneau Sand Dunes to 7 miles northeast of Rogerson. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible.  Locations impacted include... Twin Falls, Jerome, Gooding, Glenns Ferry, Buhl, Kimberly, Wendell, Filer, Hansen, Hagerman, Hazelton, Eden, Bruneau, Bliss, Hollister, Castleford, Murtaugh, Little Camas Reservoir, Rock Creek, and Twentymile Butte.\nGenerated: 2026-06-27 04:30:15 UTC"
   42.4100, -114.1600
   42.4200, -114.2900
   42.2800, -114.2800
@@ -44,16 +98,7 @@ Line: 2,,"Special Weather Statement issued June 26 at 10:09PM MDT by NWS Boise I
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 9:07PM PDT by NWS Elko NV\nExpires: 2026-06-27 04:30 Z\nAt 906 PM PDT, Doppler radar was tracking a strong thunderstorm near Tuscarora, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tuscarora.\nGenerated: 2026-06-27 04:25:14 UTC"
-  41.2600, -116.2600
-  41.3500, -116.4700
-  41.6100, -116.3000
-  41.4700, -116.0700
-  41.2600, -116.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 11:05PM CDT by NWS Dodge City KS\nExpires: 2026-06-27 04:45 Z\nAt 1105 PM CDT/1005 PM MDT/, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Kendall, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Hamilton, southern Kearny, northern Grant and northeastern Stanton Counties.\nGenerated: 2026-06-27 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 11:05PM CDT by NWS Dodge City KS\nExpires: 2026-06-27 04:45 Z\nAt 1105 PM CDT/1005 PM MDT/, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Kendall, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Hamilton, southern Kearny, northern Grant and northeastern Stanton Counties.\nGenerated: 2026-06-27 04:30:15 UTC"
   37.5400, -101.8400
   38.0700, -101.6900
   38.0600, -101.1500
@@ -62,16 +107,7 @@ Line: 2,,"Special Weather Statement issued June 26 at 11:05PM CDT by NWS Dodge C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 9:00PM PDT by NWS Spokane WA\nExpires: 2026-06-27 04:30 Z\nAt 900 PM PDT, Doppler radar was tracking a strong thunderstorm 14 miles northeast of Davenport, or 29 miles northwest of Spokane, moving northeast at 20 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Little Falls Dam and Wellpinit.\nGenerated: 2026-06-27 04:25:14 UTC"
-  47.7800, -118.0300
-  47.8800, -118.1000
-  48.0200, -117.9300
-  47.8100, -117.7800
-  47.7800, -118.0300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 10:00PM MDT by NWS Billings MT\nExpires: 2026-06-27 04:45 Z\nAt 1000 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Hysham, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vananda.\nGenerated: 2026-06-27 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 10:00PM MDT by NWS Billings MT\nExpires: 2026-06-27 04:45 Z\nAt 1000 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Hysham, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vananda.\nGenerated: 2026-06-27 04:30:15 UTC"
   46.4000, -107.1300
   46.7200, -106.8800
   46.5300, -106.4800
@@ -81,49 +117,11 @@ Line: 2,,"Special Weather Statement issued June 26 at 10:00PM MDT by NWS Billing
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 10:59PM CDT by NWS Amarillo TX\nExpires: 2026-06-27 04:30 Z\nAt 1059 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles southeast of Morse to 5 miles east of Borger. Movement was northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Borger, Stinnett, Sanford, Wolf Creek Park, Waka, and Pringle.\nGenerated: 2026-06-27 04:25:14 UTC"
-  35.8000, -100.6400
-  35.6200, -101.5600
-  36.0500, -101.4800
-  36.1500, -101.1900
-  36.3000, -101.0400
-  36.3200, -100.5500
-  35.8000, -100.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 9:54PM MDT by NWS Denver CO\nExpires: 2026-06-27 04:45 Z\nAt 954 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles southwest of Tabernash, or 54 miles west of Denver, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fraser, Winter Park, Tabernash, Elkdale and Rollins Pass.\nGenerated: 2026-06-27 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued June 26 at 9:54PM MDT by NWS Denver CO\nExpires: 2026-06-27 04:45 Z\nAt 954 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles southwest of Tabernash, or 54 miles west of Denver, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fraser, Winter Park, Tabernash, Elkdale and Rollins Pass.\nGenerated: 2026-06-27 04:30:15 UTC"
   39.9700, -106.0900
   40.0000, -106.1100
   40.1400, -105.7100
   39.9500, -105.6300
   39.8300, -106.0000
   39.9700, -106.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 9:45PM MDT by NWS Midland/Odessa TX\nExpires: 2026-06-27 04:30 Z\nAt 944 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 12 miles east of Caprock, or 13 miles northwest of Tatum, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tatum, Caprock, McDonald, Crossroads, Gladiola, and Tatum Airport.\nGenerated: 2026-06-27 04:25:14 UTC"
-  33.1700, -103.0600
-  33.0300, -103.7600
-  33.4000, -103.7700
-  33.4000, -103.7200
-  33.5700, -103.7200
-  33.5700, -103.0500
-  33.1700, -103.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 26 at 11:37PM EDT by NWS Jackson KY\nExpires: 2026-06-27 04:30 Z\nAt 1137 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Stepstone to Campsites in the Indian Creek area of the Daniel Boone National Forrest to See to Alumbaugh. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Sterling, West Liberty, Stanton, Frenchburg, Campton, Henry, Jeffersonville, Camargo, Wellington, Salt Lick, Campsites in the Indian Creek area of the Daniel Boone National Forrest, Pilot, Zag, Bowen, Cornwell, Leeco, Rothwell, Lick Branch, Pekin, and Omer.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 23 and 54. Interstate 64 in eastern Kentucky between mile markers 110 and 115.\nGenerated: 2026-06-27 04:25:14 UTC"
-  38.1600, -83.3100
-  38.0800, -83.2600
-  38.0600, -83.2700
-  38.0500, -83.2400
-  38.0000, -83.2100
-  37.8300, -83.2800
-  37.7100, -83.4500
-  37.5700, -84.0100
-  37.6800, -83.9200
-  37.8700, -83.8400
-  38.0900, -83.9500
-  38.1600, -83.3100
 End:
