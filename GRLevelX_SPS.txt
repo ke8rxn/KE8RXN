@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-28 02:25:15 UTC
+; Generated: 2026-06-28 02:30:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 9:20PM CDT by NWS Nashville TN\nExpires: 2026-06-28 03:00 Z\nAt 920 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Hartsville, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lebanon, Carthage, Hartsville, Gordonsville, South Carthage, Dixon Springs, Pleasant Shade, and Dickerson Chapel Recreation Area.\nGenerated: 2026-06-28 02:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 9:26PM CDT by NWS Aberdeen SD\nExpires: 2026-06-28 03:00 Z\nAt 925 PM CDT/825 PM MDT/, trained weather spotters reported strong thunderstorms along a line extending from near Eagle Butte to 13 miles south of Ridgeview to Mission Ridge to 6 miles northwest of Van Metre. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Trained weather spotters. Wind gusts of 45 to 50 mph have been reported with these thunderstorms in western Stanley County.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eagle Butte, Lantry, Mission Ridge, Little Bend Rec Area, Hayes, Wendte, Parade, Chantier Creek Recreation Area, Ridgeview, Bunker, Bush's Landing, Bear Creek, Okobojo Point Rec Area, Cheyenne River Reservation, and southern Lake Oahe.\nGenerated: 2026-06-28 02:30:18 UTC"
+  45.2500, -101.0100
+  44.9900, -100.6000
+  44.9300, -100.5500
+  44.7600, -100.4800
+  44.1700, -100.5700
+  44.1700, -101.1300
+  44.6300, -100.9800
+  44.8900, -100.9800
+  44.9600, -101.1400
+  44.9900, -101.1400
+  45.0000, -101.4200
+  45.0800, -101.4600
+  45.2500, -101.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 27 at 9:20PM CDT by NWS Nashville TN\nExpires: 2026-06-28 03:00 Z\nAt 920 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Hartsville, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lebanon, Carthage, Hartsville, Gordonsville, South Carthage, Dixon Springs, Pleasant Shade, and Dickerson Chapel Recreation Area.\nGenerated: 2026-06-28 02:30:18 UTC"
   36.3400, -85.8300
   36.3400, -85.8400
   36.2900, -85.8500
@@ -20,7 +37,7 @@ Line: 2,,"Special Weather Statement issued June 27 at 9:20PM CDT by NWS Nashvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 8:11PM MDT by NWS Glasgow MT\nExpires: 2026-06-28 03:15 Z\nAt 810 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southwest of Rock Creek Rec Area to near Bloomfield. Movement was north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wolf Point, Poplar, Nashua, Fort Peck, Richey, Bloomfield, Lambert, Fort Peck Marina, Frazer, Vida, Nelson Creek Rec Area, Rock Creek Rec Area, Duck Creek Rec Area, Oswego, Enid, Park Grove, Weldon, and Haxby.\nGenerated: 2026-06-28 02:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 8:11PM MDT by NWS Glasgow MT\nExpires: 2026-06-28 03:15 Z\nAt 810 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southwest of Rock Creek Rec Area to near Bloomfield. Movement was north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wolf Point, Poplar, Nashua, Fort Peck, Richey, Bloomfield, Lambert, Fort Peck Marina, Frazer, Vida, Nelson Creek Rec Area, Rock Creek Rec Area, Duck Creek Rec Area, Oswego, Enid, Park Grove, Weldon, and Haxby.\nGenerated: 2026-06-28 02:30:18 UTC"
   48.2600, -106.5200
   48.0300, -104.4200
   47.3200, -104.8000
@@ -29,7 +46,7 @@ Line: 2,,"Special Weather Statement issued June 27 at 8:11PM MDT by NWS Glasgow 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 9:42PM EDT by NWS Charleston WV\nExpires: 2026-06-28 02:45 Z\nLocations impacted include... Nelsonville, Chauncey, and Buchtel.  Heavy rain may cause ponding of water on roadways and flooding in low-lying areas.  In hilly terrain there are hundreds of low water crossings which are potentially dangerous in heavy rain. Do not attempt to travel across flooded roads. Find alternate routes. It takes only a few inches of swiftly flowing water to carry vehicles away.\nGenerated: 2026-06-28 02:25:15 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 9:42PM EDT by NWS Charleston WV\nExpires: 2026-06-28 02:45 Z\nLocations impacted include... Nelsonville, Chauncey, and Buchtel.  Heavy rain may cause ponding of water on roadways and flooding in low-lying areas.  In hilly terrain there are hundreds of low water crossings which are potentially dangerous in heavy rain. Do not attempt to travel across flooded roads. Find alternate routes. It takes only a few inches of swiftly flowing water to carry vehicles away.\nGenerated: 2026-06-28 02:30:18 UTC"
   39.4600, -82.1100
   39.4000, -82.1000
   39.4100, -82.2100
