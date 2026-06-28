@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-28 03:10:16 UTC
+; Generated: 2026-06-28 03:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 11:04PM EDT by NWS Jackson KY\nExpires: 2026-06-28 03:45 Z\nAt 1104 PM EDT, Doppler radar was tracking a strong thunderstorm over Co-Operative, or near Whitley City, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Williamsburg, Whitley City, Great Meadows Campsites, Julip, Slavens, Ayers, Emlyn, Co- Operative, Zion Hill, Red Ash, Verne, Pine Knot, Pleasant View, Louden, Krupp, Hollyhill, Wofford, Blue Heron, Bon, and Marshes Siding.  THIS INCLUDES Interstate 75 in east central Kentucky between mile markers 3 and 15.\nGenerated: 2026-06-28 03:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 10:14PM CDT by NWS Aberdeen SD\nExpires: 2026-06-28 03:45 Z\nAt 1013 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wendte to near Draper to near Intersection of Highway 83 and White River. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Murdo, Draper, Westover, Intersection of Highway 83 and White River, Wendte, and Van Metre.\nGenerated: 2026-06-28 03:15:17 UTC"
+  43.7300, -100.7400
+  43.7200, -100.7900
+  43.7600, -100.8100
+  43.7600, -100.8400
+  43.7900, -100.8600
+  43.7800, -100.8800
+  43.8000, -100.8800
+  43.7900, -100.9000
+  43.8100, -100.9200
+  43.9400, -100.8300
+  44.2100, -100.8300
+  44.3100, -100.4600
+  44.0300, -100.4300
+  43.7500, -100.5700
+  43.7700, -100.5900
+  43.7400, -100.6200
+  43.7500, -100.6500
+  43.7100, -100.6800
+  43.7200, -100.7000
+  43.7100, -100.7300
+  43.7300, -100.7400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 27 at 11:04PM EDT by NWS Jackson KY\nExpires: 2026-06-28 03:45 Z\nAt 1104 PM EDT, Doppler radar was tracking a strong thunderstorm over Co-Operative, or near Whitley City, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Williamsburg, Whitley City, Great Meadows Campsites, Julip, Slavens, Ayers, Emlyn, Co- Operative, Zion Hill, Red Ash, Verne, Pine Knot, Pleasant View, Louden, Krupp, Hollyhill, Wofford, Blue Heron, Bon, and Marshes Siding.  THIS INCLUDES Interstate 75 in east central Kentucky between mile markers 3 and 15.\nGenerated: 2026-06-28 03:15:17 UTC"
   36.6000, -84.7700
   36.7900, -84.7000
   36.7900, -84.0000
@@ -14,7 +39,7 @@ Line: 2,,"Special Weather Statement issued June 27 at 11:04PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 10:00PM CDT by NWS Aberdeen SD\nExpires: 2026-06-28 03:45 Z\nAt 1000 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Grey Goose to near Pierre to 8 miles southeast of Wendte. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pierre, Fort Pierre, Blunt, Spring Creek Rec Area, Harrold, Grey Goose, Cedar Creek Rec Area, Rousseau, Joe Creek Rec Area, Oahe Mission Rec Area, Canning, Wendte, Chantier Creek Recreation Area, Overlook Rec Area, Van Metre, Lake Sharpe, West Shore Rec Area, West Bend Rec Area, Degrey Rec Area, and northwestern Lower Brule Reservation.\nGenerated: 2026-06-28 03:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 10:00PM CDT by NWS Aberdeen SD\nExpires: 2026-06-28 03:45 Z\nAt 1000 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Grey Goose to near Pierre to 8 miles southeast of Wendte. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pierre, Fort Pierre, Blunt, Spring Creek Rec Area, Harrold, Grey Goose, Cedar Creek Rec Area, Rousseau, Joe Creek Rec Area, Oahe Mission Rec Area, Canning, Wendte, Chantier Creek Recreation Area, Overlook Rec Area, Van Metre, Lake Sharpe, West Shore Rec Area, West Bend Rec Area, Degrey Rec Area, and northwestern Lower Brule Reservation.\nGenerated: 2026-06-28 03:15:17 UTC"
   44.1500, -100.8700
   44.3600, -100.6800
   44.5900, -100.7000
@@ -27,7 +52,7 @@ Line: 2,,"Special Weather Statement issued June 27 at 10:00PM CDT by NWS Aberdee
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 10:58PM EDT by NWS Morristown TN\nExpires: 2026-06-28 03:45 Z\nAt 1058 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Ritner to near Blue Heron to near Jamestown to 12 miles east of Monterey. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oneida, Huntsville, Helenwood, Jellico, Winfield, Sunbright, Rugby, Elk Valley, Smokey Junction, and Honey Creek State Park.\nGenerated: 2026-06-28 03:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 10:58PM EDT by NWS Morristown TN\nExpires: 2026-06-28 03:45 Z\nAt 1058 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Ritner to near Blue Heron to near Jamestown to 12 miles east of Monterey. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oneida, Huntsville, Helenwood, Jellico, Winfield, Sunbright, Rugby, Elk Valley, Smokey Junction, and Honey Creek State Park.\nGenerated: 2026-06-28 03:15:17 UTC"
   36.5900, -84.1400
   36.1700, -84.4200
   36.1500, -84.4500
@@ -49,7 +74,7 @@ Line: 2,,"Special Weather Statement issued June 27 at 10:58PM EDT by NWS Morrist
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 9:55PM CDT by NWS Aberdeen SD\nExpires: 2026-06-28 03:30 Z\nAt 955 PM CDT/855 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from near White Horse to near Swiftbird Day School to near Spring Creek Rec Area. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Onida, Swiftbird, White Horse, Agar, Little Bend Rec Area, Whitlocks Bay Rec Area, Gorman, Laplant, Sutton Bay Rec Area, Blackfoot, Sully Lake, Ridgeview, Tiospaye Topa School, Promise, Okobojo Point Rec Area, Swan Creek Rec Area, Swiftbird Day School, Cow Creek Rec Area, Bush's Landing, and southern Lake Oahe.\nGenerated: 2026-06-28 03:10:16 UTC"
+Line: 2,,"Special Weather Statement issued June 27 at 9:55PM CDT by NWS Aberdeen SD\nExpires: 2026-06-28 03:30 Z\nAt 955 PM CDT/855 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from near White Horse to near Swiftbird Day School to near Spring Creek Rec Area. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Onida, Swiftbird, White Horse, Agar, Little Bend Rec Area, Whitlocks Bay Rec Area, Gorman, Laplant, Sutton Bay Rec Area, Blackfoot, Sully Lake, Ridgeview, Tiospaye Topa School, Promise, Okobojo Point Rec Area, Swan Creek Rec Area, Swiftbird Day School, Cow Creek Rec Area, Bush's Landing, and southern Lake Oahe.\nGenerated: 2026-06-28 03:15:17 UTC"
   45.2300, -100.0100
   44.5500, -99.9500
   44.5500, -100.5300
@@ -59,48 +84,4 @@ Line: 2,,"Special Weather Statement issued June 27 at 9:55PM CDT by NWS Aberdeen
   45.2300, -101.0200
   45.5800, -100.5400
   45.2300, -100.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 8:50PM MDT by NWS Rapid City SD\nExpires: 2026-06-28 03:15 Z\nAt 850 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Martin, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Martin, Tuthill, Sunrise Housing, LaCreek North Housing, Vetal, Harrington, Lacreek Wildlife Refuge and southeastern Pine Ridge Reservation.\nGenerated: 2026-06-28 03:10:16 UTC"
-  43.0000, -101.9500
-  43.3900, -101.5800
-  43.1700, -101.2300
-  43.1600, -101.2300
-  43.0000, -101.6100
-  43.0000, -101.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 8:46PM MDT by NWS Rapid City SD\nExpires: 2026-06-28 03:15 Z\nAt 846 PM MDT /946 PM CDT/, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles north of Kadoka to 7 miles southwest of Norris, or extending from 10 miles southeast of Philip to 27 miles northeast of Martin, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kadoka, White River, Long Valley, Norris, Midland, Wood, Belvidere, Cedar Butte, Corn Creek, Black Pipe, George Town, Swift Bear, Horse Creek, Butte Creek, Intersection of Highway 73 and White River, Nowlin and northeastern Pine Ridge Reservation.  This includes Interstate 90 in South Dakota between Mile Markers 141 and 174.\nGenerated: 2026-06-28 03:10:16 UTC"
-  44.2800, -101.1700
-  44.1700, -101.1700
-  44.1700, -101.0500
-  43.8400, -101.0600
-  43.8300, -100.9300
-  43.7100, -100.7400
-  43.7100, -100.7300
-  43.7200, -100.7400
-  43.7100, -100.6800
-  43.7700, -100.5900
-  43.7300, -100.4700
-  43.7200, -100.4700
-  43.7300, -100.3600
-  43.5200, -100.3000
-  43.3900, -101.0300
-  43.3900, -101.2300
-  43.3500, -101.2300
-  43.2900, -101.5800
-  43.6600, -101.6500
-  43.9700, -101.7600
-  44.2800, -101.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 27 at 8:11PM MDT by NWS Glasgow MT\nExpires: 2026-06-28 03:15 Z\nAt 810 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southwest of Rock Creek Rec Area to near Bloomfield. Movement was north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wolf Point, Poplar, Nashua, Fort Peck, Richey, Bloomfield, Lambert, Fort Peck Marina, Frazer, Vida, Nelson Creek Rec Area, Rock Creek Rec Area, Duck Creek Rec Area, Oswego, Enid, Park Grove, Weldon, and Haxby.\nGenerated: 2026-06-28 03:10:16 UTC"
-  48.2600, -106.5200
-  48.0300, -104.4200
-  47.3200, -104.8000
-  47.5600, -106.4700
-  48.2600, -106.5200
 End:
