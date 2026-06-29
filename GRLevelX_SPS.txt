@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-29 07:10:17 UTC
+; Generated: 2026-06-29 07:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:06AM EDT by NWS Marquette MI\nExpires: 2026-06-29 07:45 Z\nAt 306 AM EDT/206 AM CDT/, Doppler radar was tracking a strong thunderstorm over Watersmeet, or 25 miles north of Eagle River, moving northeast at 30 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Watersmeet and Paint Lake.\nGenerated: 2026-06-29 07:10:17 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 2:10AM CDT by NWS Green Bay WI\nExpires: 2026-06-29 07:45 Z\nAt 210 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Whisker Lake Wilderness, or 28 miles northeast of Crandon, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Tipler around 210 AM CDT. Fern around 215 AM CDT. Whisker Lake Wilderness around 220 AM CDT. Florence around 230 AM CDT.  Other locations impacted by this strong thunderstorm include Lost Lake Campground, Lasalle Falls and Commonwealth.\nGenerated: 2026-06-29 07:15:15 UTC"
+  45.9900, -88.6600
+  45.9900, -88.6700
+  45.9800, -88.6400
+  45.9900, -88.6200
+  46.0200, -88.6000
+  46.0100, -88.5900
+  46.0200, -88.5100
+  45.9900, -88.4900
+  46.0000, -88.4600
+  45.9800, -88.4200
+  45.9900, -88.3800
+  45.9600, -88.3300
+  45.9600, -88.2500
+  45.9500, -88.2400
+  45.9500, -88.1900
+  45.9100, -88.1000
+  45.7300, -88.4700
+  45.9900, -88.7600
+  46.0200, -88.6900
+  45.9900, -88.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 29 at 3:06AM EDT by NWS Marquette MI\nExpires: 2026-06-29 07:45 Z\nAt 306 AM EDT/206 AM CDT/, Doppler radar was tracking a strong thunderstorm over Watersmeet, or 25 miles north of Eagle River, moving northeast at 30 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Watersmeet and Paint Lake.\nGenerated: 2026-06-29 07:15:15 UTC"
   46.2000, -89.2300
   46.2800, -89.2800
   46.4700, -88.9600
@@ -14,26 +38,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:06AM EDT by NWS Marquett
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 12:48AM MDT by NWS Rapid City SD\nExpires: 2026-06-29 07:15 Z\nAt 1248 AM MDT, Doppler radar was tracking a line of strong thunderstorms extending from over Wall to near Scenic, or extending from 26 miles west of Philip to 37 miles southeast of Rapid City, moving northwest at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wall, Wasta, Scenic, Quinn, Owanka, Wicksville, Creighton, Delta 9 Missile Silo and northern Badlands National Park.  This includes Interstate 90 in South Dakota between Mile Markers 88 and 119.\nGenerated: 2026-06-29 07:10:17 UTC"
-  43.7100, -102.6200
-  43.8100, -102.7000
-  43.8500, -102.6900
-  43.8600, -102.7300
-  44.0200, -102.8600
-  44.1400, -102.5500
-  44.1400, -102.3900
-  44.1600, -102.4000
-  44.1600, -102.3900
-  44.1800, -102.3900
-  44.1700, -102.4000
-  44.2000, -102.4000
-  44.2700, -102.2000
-  43.9500, -102.0400
-  43.7100, -102.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 12:44AM MDT by NWS Cheyenne WY\nExpires: 2026-06-29 07:30 Z\nAt 1242 AM MDT, Doppler radar was tracking a cluster of strong thunderstorms near Fort Robinson State Park, or 30 miles west of Chadron, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph, nickel size hail, and brief heavy downpours over the South Fork Burn Scar.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation. Burn scar flooding is possible near Fort Robinson.  Locations impacted include... Crawford, Whitney Lake, Soldier Creek Campground, Montrose, Fort Robinson State Park, and Toadstool Geological Park and Campground.\nGenerated: 2026-06-29 07:10:17 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 12:44AM MDT by NWS Cheyenne WY\nExpires: 2026-06-29 07:30 Z\nAt 1242 AM MDT, Doppler radar was tracking a cluster of strong thunderstorms near Fort Robinson State Park, or 30 miles west of Chadron, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph, nickel size hail, and brief heavy downpours over the South Fork Burn Scar.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation. Burn scar flooding is possible near Fort Robinson.  Locations impacted include... Crawford, Whitney Lake, Soldier Creek Campground, Montrose, Fort Robinson State Park, and Toadstool Geological Park and Campground.\nGenerated: 2026-06-29 07:15:15 UTC"
   42.5700, -103.5900
   42.7800, -103.8800
   43.0000, -103.7300
