@@ -3,9 +3,41 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-29 19:55:12 UTC
+; Generated: 2026-06-29 20:00:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:44PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-29 20:15 Z\nAt 344 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Columbus, moving south at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Columbus, Tryon, Lake Lure, Chimney Rock State Park, Mill Spring, and Lake Adger.\nGenerated: 2026-06-29 19:55:12 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:57PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-29 20:30 Z\nAt 357 PM EDT, Doppler radar was tracking a strong thunderstorm 18 miles southwest of Brevard, or near Gorges State Park, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Gorges State Park, Lake Jocassee, Devils Fork State Park, Jocassee Gorges, Sapphire, and Bad Creek.\nGenerated: 2026-06-29 20:00:21 UTC"
+  35.0200, -83.0400
+  35.0300, -83.0100
+  35.0400, -83.0300
+  35.0400, -83.0400
+  35.1000, -83.0200
+  35.1200, -82.9900
+  35.1200, -82.9200
+  34.9600, -82.8900
+  34.9600, -83.0600
+  35.0200, -83.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 29 at 3:55PM EDT by NWS Tallahassee FL\nExpires: 2026-06-29 20:30 Z\nAt 355 PM EDT, Doppler radar was tracking a strong thunderstorm over Cross City. The strong thunderstorm is nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cross City, Eugene, Shamrock, Cross City Airport, and Old Town.\nGenerated: 2026-06-29 20:00:21 UTC"
+  29.6500, -82.9600
+  29.6400, -82.9600
+  29.6300, -82.9700
+  29.6000, -82.9700
+  29.5700, -83.0000
+  29.5300, -83.0800
+  29.5500, -83.1500
+  29.6400, -83.2000
+  29.7200, -83.1500
+  29.7500, -83.0400
+  29.7000, -82.9600
+  29.6800, -82.9600
+  29.6600, -82.9500
+  29.6500, -82.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 29 at 3:44PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-06-29 20:15 Z\nAt 344 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Columbus, moving south at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Columbus, Tryon, Lake Lure, Chimney Rock State Park, Mill Spring, and Lake Adger.\nGenerated: 2026-06-29 20:00:21 UTC"
   35.4000, -82.1900
   35.4000, -82.1800
   35.4100, -82.1700
@@ -23,7 +55,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:44PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:40PM AST by NWS San Juan PR\nExpires: 2026-06-29 20:45 Z\nAt 337 PM AST, Doppler radar was tracking a cluster of strong thunderstorms near San Sebastian, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Arecibo, Las Marias, Mayaguez, Anasco, Hormigueros, Lares, San Sebastian, Quebradillas, Rafael Capo, Hato Arriba, Rafael Gonzalez, San Antonio, Maricao, Quebrada, Juncal, Piedra Gorda, Cacao, Espino, and Mora.\nGenerated: 2026-06-29 19:55:12 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:40PM AST by NWS San Juan PR\nExpires: 2026-06-29 20:45 Z\nAt 337 PM AST, Doppler radar was tracking a cluster of strong thunderstorms near San Sebastian, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Arecibo, Las Marias, Mayaguez, Anasco, Hormigueros, Lares, San Sebastian, Quebradillas, Rafael Capo, Hato Arriba, Rafael Gonzalez, San Antonio, Maricao, Quebrada, Juncal, Piedra Gorda, Cacao, Espino, and Mora.\nGenerated: 2026-06-29 20:00:21 UTC"
   18.4200, -66.7100
   18.1400, -66.8600
   18.1200, -67.1800
@@ -38,21 +70,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:40PM AST by NWS San Juan
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:30PM EDT by NWS Melbourne FL\nExpires: 2026-06-29 20:00 Z\nAt 329 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Christmas to near Canaveral Groves to 8 miles south of Lone Cabbage Fish Camp. Movement was south at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Titusville, Cocoa, Wedgefield, Port Saint John, and Lone Cabbage Fish Camp.\nGenerated: 2026-06-29 19:55:12 UTC"
-  28.2000, -80.8000
-  28.1300, -80.8800
-  28.1900, -81.0000
-  28.4700, -81.0600
-  28.6100, -81.0300
-  28.6100, -80.9700
-  28.6200, -80.9700
-  28.6400, -80.9600
-  28.5100, -80.7800
-  28.2000, -80.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:27PM EDT by NWS Peachtree City GA\nExpires: 2026-06-29 20:15 Z\nAt 326 PM EDT, a strong thunderstorm was over Lake Strom Thurmond, or 16 miles southeast of Elberton, moving southwest at 25 mph.  HAZARD...40 to 50 mph wind, up to penny sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Tignall, Mallorysville, Newtown, Delhi, Danburg, Metasville, and Floral Hill.\nGenerated: 2026-06-29 19:55:12 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:27PM EDT by NWS Peachtree City GA\nExpires: 2026-06-29 20:15 Z\nAt 326 PM EDT, a strong thunderstorm was over Lake Strom Thurmond, or 16 miles southeast of Elberton, moving southwest at 25 mph.  HAZARD...40 to 50 mph wind, up to penny sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Tignall, Mallorysville, Newtown, Delhi, Danburg, Metasville, and Floral Hill.\nGenerated: 2026-06-29 20:00:21 UTC"
   33.8400, -82.5800
   33.8300, -82.6000
   33.7900, -82.5800
@@ -69,7 +87,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:27PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:25PM EDT by NWS Charleston SC\nExpires: 2026-06-29 20:15 Z\nAt 325 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Millett, moving south at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Estill, Newington, Scotia, Burtons Ferry Landing, Hunters, Shirley, Millhaven, Lena, Martin and Milbury.\nGenerated: 2026-06-29 19:55:12 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:25PM EDT by NWS Charleston SC\nExpires: 2026-06-29 20:15 Z\nAt 325 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Millett, moving south at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Estill, Newington, Scotia, Burtons Ferry Landing, Hunters, Shirley, Millhaven, Lena, Martin and Milbury.\nGenerated: 2026-06-29 20:00:21 UTC"
   33.0700, -81.5800
   33.0900, -81.4900
   32.7200, -81.1800
@@ -85,7 +103,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:25PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:18PM AST by NWS San Juan PR\nExpires: 2026-06-29 20:15 Z\nAt 316 PM AST, Doppler radar was tracking a strong thunderstorm over Morovis, moving southeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-06-29 19:55:12 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:18PM AST by NWS San Juan PR\nExpires: 2026-06-29 20:15 Z\nAt 316 PM AST, Doppler radar was tracking a strong thunderstorm over Morovis, moving southeast at 5 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-06-29 20:00:21 UTC"
   18.3300, -66.5900
   18.4300, -66.4300
   18.3200, -66.2300
@@ -95,7 +113,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:18PM AST by NWS San Juan
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 2:52PM AST by NWS San Juan PR\nExpires: 2026-06-29 20:15 Z\nAt 250 PM AST, Doppler radar was tracking a strong thunderstorm near Orocovis, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-06-29 19:55:12 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 2:52PM AST by NWS San Juan PR\nExpires: 2026-06-29 20:15 Z\nAt 250 PM AST, Doppler radar was tracking a strong thunderstorm near Orocovis, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-06-29 20:00:21 UTC"
   18.2600, -66.3600
   18.1200, -66.4000
   18.1900, -66.7000
