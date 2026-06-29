@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-06-29 09:10:19 UTC
+; Generated: 2026-06-29 09:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 4:01AM CDT by NWS Marquette MI\nExpires: 2026-06-29 09:45 Z\nAt 401 AM CDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Hermansville, or 23 miles southeast of Iron Mountain, moving northeast at 20 mph.  HAZARD...Winds in excess of 30 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Powers, Hermansville, Bagley, Spalding, Nadeau, Gourley, Carney, Nathan, and Banat.\nGenerated: 2026-06-29 09:10:19 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 5:14AM EDT by NWS Marquette MI\nExpires: 2026-06-29 10:00 Z\nAt 513 AM EDT/413 AM CDT/, Doppler radar was tracking a strong thunderstorm over La Branche, or 19 miles northwest of Escanaba, moving northeast at 25 mph.  HAZARD...Winds in excess of 30 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Branche, Whitney, Cornell, and St. Nicholas.\nGenerated: 2026-06-29 09:15:17 UTC"
+  45.7900, -87.4700
+  45.8800, -87.5600
+  46.0400, -87.2800
+  45.9000, -87.1100
+  45.7900, -87.4700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 29 at 4:01AM CDT by NWS Marquette MI\nExpires: 2026-06-29 09:45 Z\nAt 401 AM CDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Hermansville, or 23 miles southeast of Iron Mountain, moving northeast at 20 mph.  HAZARD...Winds in excess of 30 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Powers, Hermansville, Bagley, Spalding, Nadeau, Gourley, Carney, Nathan, and Banat.\nGenerated: 2026-06-29 09:15:17 UTC"
   45.5400, -87.8000
   45.5700, -87.8200
   45.5600, -87.8000
@@ -19,7 +28,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 4:01AM CDT by NWS Marquett
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:53AM CDT by NWS Green Bay WI\nExpires: 2026-06-29 09:30 Z\nAt 353 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Pembine, or 34 miles north of Marinette, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Other locations impacted by this strong thunderstorm include Miscauno Island and Kremlin.\nGenerated: 2026-06-29 09:10:19 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:53AM CDT by NWS Green Bay WI\nExpires: 2026-06-29 09:30 Z\nAt 353 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Pembine, or 34 miles north of Marinette, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Other locations impacted by this strong thunderstorm include Miscauno Island and Kremlin.\nGenerated: 2026-06-29 09:15:17 UTC"
   45.4600, -87.8300
   45.6100, -87.9700
   45.7100, -87.8100
@@ -43,30 +52,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:53AM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:43AM CDT by NWS Aberdeen SD\nExpires: 2026-06-29 09:15 Z\nAt 342 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Okaton, or 16 miles southwest of Murdo, moving north at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Murdo and Okaton.\nGenerated: 2026-06-29 09:10:19 UTC"
-  43.7900, -100.8600
-  43.7800, -100.8800
-  43.8000, -100.8800
-  43.7900, -100.9000
-  43.8000, -100.9100
-  43.8100, -100.9000
-  43.8300, -100.9300
-  43.8100, -100.9500
-  43.8500, -100.9900
-  43.8400, -101.0300
-  43.8600, -101.0300
-  43.8500, -101.0600
-  43.9800, -101.0700
-  44.0000, -101.0500
-  44.1200, -101.0400
-  44.0100, -100.5900
-  43.7600, -100.8100
-  43.7600, -100.8400
-  43.7900, -100.8600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:31AM CDT by NWS Green Bay WI\nExpires: 2026-06-29 09:30 Z\nAt 331 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Egg Harbor, or 16 miles east of Marinette, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Chambers Island around 335 AM CDT. Eagle Bluff Light around 345 AM CDT. Ephraim around 350 AM CDT. Newport State Park around 415 AM CDT.  Other locations impacted by this strong thunderstorm include Fish Creek, Peninsula State Park, Sister Bay, Rowleys Bay and Ellison Bay.\nGenerated: 2026-06-29 09:10:19 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:31AM CDT by NWS Green Bay WI\nExpires: 2026-06-29 09:30 Z\nAt 331 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Egg Harbor, or 16 miles east of Marinette, moving northeast at 20 mph.  HAZARD...Wind gusts up to 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Chambers Island around 335 AM CDT. Eagle Bluff Light around 345 AM CDT. Ephraim around 350 AM CDT. Newport State Park around 415 AM CDT.  Other locations impacted by this strong thunderstorm include Fish Creek, Peninsula State Park, Sister Bay, Rowleys Bay and Ellison Bay.\nGenerated: 2026-06-29 09:15:17 UTC"
   45.1200, -87.3100
   45.1100, -87.3500
   45.0800, -87.3400
@@ -85,7 +71,7 @@ Line: 2,,"Special Weather Statement issued June 29 at 3:31AM CDT by NWS Green Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 29 at 3:25AM CDT by NWS North Platte NE\nExpires: 2026-06-29 09:30 Z\nAt 324 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles south of Lacreek Wildlife Refuge to 7 miles southeast of Merriman. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cody, Merriman, Nenzel, and Eli.  This includes the following highways... Highway 20 between mile markers 135 and 169. Highway 61 between mile markers 219 and 231.\nGenerated: 2026-06-29 09:10:19 UTC"
+Line: 2,,"Special Weather Statement issued June 29 at 3:25AM CDT by NWS North Platte NE\nExpires: 2026-06-29 09:30 Z\nAt 324 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles south of Lacreek Wildlife Refuge to 7 miles southeast of Merriman. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cody, Merriman, Nenzel, and Eli.  This includes the following highways... Highway 20 between mile markers 135 and 169. Highway 61 between mile markers 219 and 231.\nGenerated: 2026-06-29 09:15:17 UTC"
   42.9900, -101.0400
   42.7900, -101.0600
   42.8200, -101.7300
