@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-01 01:25:16 UTC
+; Generated: 2026-07-01 01:30:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 30 at 8:21PM CDT by NWS Tallahassee FL\nExpires: 2026-07-01 02:00 Z\nAt 820 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles south of Chipley, moving west at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Bradford, Live Oak, Wausau, Ebro, Orange Hill, Greenhead, Red Head, Holmes Valley, Millers Ferry, Gilberts Mill, Smyrna, Spring Hollow, Sunny Hills, and Sylvania.\nGenerated: 2026-07-01 01:25:16 UTC"
+Line: 2,,"Special Weather Statement issued June 30 at 9:29PM EDT by NWS Grand Rapids MI\nExpires: 2026-07-01 02:30 Z\nAt 928 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Hamlin Lake, or 7 miles south of Manistee, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fountain...            Free Soil...           Hamlin Lake... Ludington SP...\nGenerated: 2026-07-01 01:30:18 UTC"
+  44.1700, -86.0500
+  43.9700, -86.0400
+  44.0700, -86.5000
+  44.1200, -86.4300
+  44.1800, -86.3900
+  44.1700, -86.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 30 at 9:26PM EDT by NWS Gaylord MI\nExpires: 2026-07-01 02:00 Z\nAt 925 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Arcadia to near Hamlin Lake. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Manistee, Thompsonville, Arcadia, Eastlake, Kaleva, Onekama, Bear Lake, Copemish, Wellston, Pierport, Dublin, Wildwood, Brethren, Norwalk, Parkdale, Orchard Beach State Park, Pere Marquette State Forest, and Star Crossing.\nGenerated: 2026-07-01 01:30:18 UTC"
+  44.2200, -86.3500
+  44.3900, -86.2700
+  44.5300, -86.2400
+  44.5100, -86.1800
+  44.5200, -85.9500
+  44.5100, -85.8200
+  44.1600, -85.8200
+  44.1800, -86.3900
+  44.2200, -86.3500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued June 30 at 8:21PM CDT by NWS Tallahassee FL\nExpires: 2026-07-01 02:00 Z\nAt 820 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles south of Chipley, moving west at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Bradford, Live Oak, Wausau, Ebro, Orange Hill, Greenhead, Red Head, Holmes Valley, Millers Ferry, Gilberts Mill, Smyrna, Spring Hollow, Sunny Hills, and Sylvania.\nGenerated: 2026-07-01 01:30:18 UTC"
   30.6100, -85.9100
   30.6400, -85.9100
   30.7000, -85.4600
@@ -26,7 +49,7 @@ Line: 2,,"Special Weather Statement issued June 30 at 8:21PM CDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 30 at 9:13PM EDT by NWS Gaylord MI\nExpires: 2026-07-01 02:00 Z\nAt 913 PM EDT, Doppler radar was tracking a strong thunderstorm over Rogers City, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rogers City, Presque Isle Light, Presque Isle, Thompsons Harbor State Park, Hagensville, and Moltke Township.\nGenerated: 2026-07-01 01:25:16 UTC"
+Line: 2,,"Special Weather Statement issued June 30 at 9:13PM EDT by NWS Gaylord MI\nExpires: 2026-07-01 02:00 Z\nAt 913 PM EDT, Doppler radar was tracking a strong thunderstorm over Rogers City, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rogers City, Presque Isle Light, Presque Isle, Thompsons Harbor State Park, Hagensville, and Moltke Township.\nGenerated: 2026-07-01 01:30:18 UTC"
   45.3300, -83.9700
   45.4500, -84.0200
   45.4700, -83.8600
@@ -34,42 +57,4 @@ Line: 2,,"Special Weather Statement issued June 30 at 9:13PM EDT by NWS Gaylord 
   45.3600, -83.4700
   45.2500, -83.3500
   45.3300, -83.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 30 at 6:54PM MDT by NWS Pueblo CO\nExpires: 2026-07-01 01:30 Z\nAt 653 PM MDT, Doppler radar was tracking a strong thunderstorm 17 miles north of Kim, or 33 miles south of North La Junta, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of east central Las Animas and southern Bent Counties.\nGenerated: 2026-07-01 01:25:16 UTC"
-  37.4400, -103.4100
-  37.5100, -103.4800
-  37.6900, -103.2800
-  37.5200, -103.0800
-  37.4400, -103.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 30 at 8:52PM EDT by NWS Gaylord MI\nExpires: 2026-07-01 01:30 Z\nAt 851 PM EDT, Doppler radar was tracking a strong thunderstorm over Onekama, or 12 miles northeast of Manistee, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Thompsonville, Kaleva, Onekama, Bear Lake, Copemish, Wellston, Pierport, Wildwood, Brethren, Norwalk, Parkdale, Orchard Beach State Park, Pere Marquette State Forest, and Star Crossing.\nGenerated: 2026-07-01 01:25:16 UTC"
-  44.3600, -86.2700
-  44.5000, -86.2500
-  44.5200, -85.9200
-  44.5100, -85.8200
-  44.1700, -85.8200
-  44.2700, -86.3300
-  44.3600, -86.2700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 30 at 8:40PM EDT by NWS Binghamton NY\nExpires: 2026-07-01 01:30 Z\nAt 840 PM EDT, Doppler radar was tracking a strong thunderstorm over Brackney, or near Binghamton, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Binghamton, Hallstead, Great Bend, Brackney, Salt Springs State Park, and Wyoanna.\nGenerated: 2026-07-01 01:25:16 UTC"
-  42.0600, -76.0100
-  42.0900, -75.9100
-  41.9300, -75.6600
-  41.8200, -75.9500
-  42.0600, -76.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued June 30 at 7:39PM CDT by NWS Midland/Odessa TX\nExpires: 2026-07-01 01:30 Z\nAt 739 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Mentone, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mentone.\nGenerated: 2026-07-01 01:25:16 UTC"
-  31.4500, -103.7300
-  31.6500, -103.8100
-  31.7300, -103.5400
-  31.4800, -103.4600
-  31.4500, -103.7300
 End:
