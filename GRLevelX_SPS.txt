@@ -3,9 +3,66 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-01 19:45:16 UTC
+; Generated: 2026-07-01 19:50:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 3:40PM EDT by NWS Binghamton NY\nExpires: 2026-07-01 20:15 Z\nAt 340 PM EDT, Doppler radar was tracking a strong thunderstorm over Sherrill, or near Oneida, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oneida, Kirkland, Sherrill, Stockbridge, Augusta, Clinton, Vernon, Oriskany Falls, Oneida Castle, and Munnsville.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:48PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:30 Z\nAt 247 PM CDT, Doppler radar was tracking a strong thunderstorm near Cardiff, or 7 miles northwest of Gardendale, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gardendale, Fultondale, Adamsville, Warrior, Kimberly, Graysville, Morris, Brookside, Trafford, West Jefferson, Cardiff, Sayre, Watson, Miller Steam Plant, and Partridge Crossroads.\nGenerated: 2026-07-01 19:50:16 UTC"
+  33.8000, -86.7100
+  33.6000, -86.7900
+  33.6200, -87.1300
+  33.6300, -87.1300
+  33.6300, -87.0900
+  33.6600, -87.0900
+  33.6600, -87.0600
+  33.6800, -87.0600
+  33.6900, -87.0400
+  33.7300, -87.0400
+  33.7500, -87.0200
+  33.7700, -87.0200
+  33.7700, -87.0100
+  33.7900, -87.0000
+  33.7900, -86.9700
+  33.8200, -86.9500
+  33.8400, -86.8800
+  33.8400, -86.8300
+  33.8000, -86.7100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 1 at 1:47PM MDT by NWS Billings MT\nExpires: 2026-07-01 20:30 Z\nAt 147 PM MDT, Doppler radar was tracking an area of strong thunderstorms 14 miles southwest of Livingston, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Livingston and Pine Creek.\nGenerated: 2026-07-01 19:50:16 UTC"
+  45.5000, -110.9200
+  45.5300, -110.9200
+  45.5300, -110.8600
+  45.5900, -110.8600
+  45.5900, -110.7900
+  45.6500, -110.8000
+  45.7400, -110.5500
+  45.5100, -110.4300
+  45.3800, -110.9200
+  45.5000, -110.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 1 at 1:47PM MDT by NWS Great Falls MT\nExpires: 2026-07-01 20:30 Z\nAt 147 PM MDT, Doppler radar was tracking a strong thunderstorm near Boulder, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elkhorn State Park.\nGenerated: 2026-07-01 19:50:16 UTC"
+  46.2000, -112.0400
+  46.2800, -112.1300
+  46.5000, -111.8700
+  46.3000, -111.6400
+  46.2000, -112.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 1 at 3:46PM EDT by NWS Miami FL\nExpires: 2026-07-01 20:15 Z\nAt 346 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from Doral to Kendale Lakes to near Intersection Krome And Kendall Drive. These storms were nearly stationary.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Miami, Hialeah, Kendall, The Redland, Doral, Miami Springs, Sweetwater, West Miami, Medley, Westchester, Richmond West, Fountainbleau, Country Walk, Kendale Lakes, The Hammocks, Olympia Heights, West Kendall, Intersection Krome And Kendall Drive, Sunset, and Miami International Airport.\nGenerated: 2026-07-01 19:50:16 UTC"
+  25.8400, -80.2600
+  25.6600, -80.3500
+  25.5500, -80.5100
+  25.6400, -80.5800
+  25.7700, -80.4400
+  25.8700, -80.3800
+  25.8400, -80.2600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 1 at 3:40PM EDT by NWS Binghamton NY\nExpires: 2026-07-01 20:15 Z\nAt 340 PM EDT, Doppler radar was tracking a strong thunderstorm over Sherrill, or near Oneida, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oneida, Kirkland, Sherrill, Stockbridge, Augusta, Clinton, Vernon, Oriskany Falls, Oneida Castle, and Munnsville.\nGenerated: 2026-07-01 19:50:16 UTC"
   43.0300, -75.6700
   43.0900, -75.6600
   43.1100, -75.3200
@@ -14,7 +71,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 3:40PM EDT by NWS Binghamto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:38PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:30 Z\nAt 238 PM CDT, Doppler radar was tracking a strong thunderstorm near Lake Lurleen State Park, or 9 miles west of Northport, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Gordo, Reform, Carrollton, Coker, Lake Lurleen State Park, Owens, Dillburg, Kirk, North Pickens Airport, Echola, Buhl, and Elrod.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:38PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:30 Z\nAt 238 PM CDT, Doppler radar was tracking a strong thunderstorm near Lake Lurleen State Park, or 9 miles west of Northport, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Gordo, Reform, Carrollton, Coker, Lake Lurleen State Park, Owens, Dillburg, Kirk, North Pickens Airport, Echola, Buhl, and Elrod.\nGenerated: 2026-07-01 19:50:16 UTC"
   33.3600, -87.6400
   33.1900, -87.6700
   33.1800, -88.1400
@@ -23,7 +80,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:38PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:37PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:15 Z\nAt 237 PM CDT, Doppler radar was tracking a strong thunderstorm near Columbiana, moving west at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hoover, Alabaster, Pelham, Helena, Calera, Chelsea, Montevallo, Columbiana, Wilsonville, Indian Springs Village, American Village, Oak Mountain State Park, Maylene, Oak Mountain Amphitheater, Riverchase, Shelby County Airport, Lay Lake, Joe Tucker Park, Alabama 4H Center, and Kelley Branch.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:37PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:15 Z\nAt 237 PM CDT, Doppler radar was tracking a strong thunderstorm near Columbiana, moving west at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hoover, Alabaster, Pelham, Helena, Calera, Chelsea, Montevallo, Columbiana, Wilsonville, Indian Springs Village, American Village, Oak Mountain State Park, Maylene, Oak Mountain Amphitheater, Riverchase, Shelby County Airport, Lay Lake, Joe Tucker Park, Alabama 4H Center, and Kelley Branch.\nGenerated: 2026-07-01 19:50:16 UTC"
   33.3000, -86.4700
   33.2000, -86.4800
   33.1800, -86.5000
@@ -45,7 +102,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:37PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:32PM CDT by NWS New Orleans LA\nExpires: 2026-07-01 20:00 Z\nAt 232 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds over Taft, or over Hahnville, moving west at 10 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hahnville, Reserve, Laplace, Killona, Norco, Montz, Edgard, Taft, New Sarpy, Destrehan, Garyville, and Luling.  This includes Interstate 310 near mile marker 10.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:32PM CDT by NWS New Orleans LA\nExpires: 2026-07-01 20:00 Z\nAt 232 PM CDT, Doppler radar was tracking a strong thunderstorm capable of producing funnel clouds over Taft, or over Hahnville, moving west at 10 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hahnville, Reserve, Laplace, Killona, Norco, Montz, Edgard, Taft, New Sarpy, Destrehan, Garyville, and Luling.  This includes Interstate 310 near mile marker 10.\nGenerated: 2026-07-01 19:50:16 UTC"
   30.0300, -90.4200
   29.9900, -90.3900
   29.9100, -90.4000
@@ -56,7 +113,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:32PM CDT by NWS New Orlea
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:29PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:15 Z\nAt 228 PM CDT, Doppler radar was tracking a strong thunderstorm near Paul M Grist State Park, or 10 miles northwest of Valley Grande, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Heiberger, Paul M Grist State Park, Judson College, Radford, Sprott, and Ellards.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:29PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:15 Z\nAt 228 PM CDT, Doppler radar was tracking a strong thunderstorm near Paul M Grist State Park, or 10 miles northwest of Valley Grande, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Heiberger, Paul M Grist State Park, Judson College, Radford, Sprott, and Ellards.\nGenerated: 2026-07-01 19:50:16 UTC"
   32.5300, -87.4400
   32.8400, -87.3200
   32.8300, -87.3200
@@ -67,7 +124,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:29PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:27PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:00 Z\nAt 227 PM CDT, Doppler radar was tracking a strong thunderstorm near Alpine, or near Childersburg, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chelsea, Childersburg, Wilsonville, Vincent, Harpersville, Westover, Bon Air, Alpine Bay Resort, Winterboro, Alpine, Vandiver, Coosa Island, Logan Martin Dam, Logan Martin Lake, Country Club Estates, and Sterrett.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:27PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:00 Z\nAt 227 PM CDT, Doppler radar was tracking a strong thunderstorm near Alpine, or near Childersburg, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chelsea, Childersburg, Wilsonville, Vincent, Harpersville, Westover, Bon Air, Alpine Bay Resort, Winterboro, Alpine, Vandiver, Coosa Island, Logan Martin Dam, Logan Martin Lake, Country Club Estates, and Sterrett.\nGenerated: 2026-07-01 19:50:16 UTC"
   33.4900, -86.3600
   33.4900, -86.2800
   33.4700, -86.1700
@@ -81,7 +138,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:27PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 3:20PM EDT by NWS Albany NY\nExpires: 2026-07-01 20:00 Z\nAt 320 PM EDT, Doppler radar was tracking a strong thunderstorm near Westerlo, or 13 miles southwest of Delmar, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Westerlo, Ravena, Coxsackie, Selkirk, Coeymans, Coeymans Hollow, Norton Hill, Greenville Center, South Westerlo, West Coxsackie, Dormansville, Callanans Corners, Sanfords Corners, Keefers Corners, Climax, Hannacroix, Lambs Corner, South Bethlehem, Medway, and Paradise Hill.  This includes Interstate 87 near exit 21B.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 3:20PM EDT by NWS Albany NY\nExpires: 2026-07-01 20:00 Z\nAt 320 PM EDT, Doppler radar was tracking a strong thunderstorm near Westerlo, or 13 miles southwest of Delmar, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Westerlo, Ravena, Coxsackie, Selkirk, Coeymans, Coeymans Hollow, Norton Hill, Greenville Center, South Westerlo, West Coxsackie, Dormansville, Callanans Corners, Sanfords Corners, Keefers Corners, Climax, Hannacroix, Lambs Corner, South Bethlehem, Medway, and Paradise Hill.  This includes Interstate 87 near exit 21B.\nGenerated: 2026-07-01 19:50:16 UTC"
   42.3900, -74.0900
   42.5500, -74.0700
   42.5300, -73.8000
@@ -90,7 +147,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 3:20PM EDT by NWS Albany NY
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 1:19PM MDT by NWS Great Falls MT\nExpires: 2026-07-01 20:00 Z\nAt 119 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 8 miles south of Dillon, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dillon, Sheridan, Alder, Dell, Beaverhead Rock State Park, Laurin, and Clark Canyon.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 1:19PM MDT by NWS Great Falls MT\nExpires: 2026-07-01 20:00 Z\nAt 119 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 8 miles south of Dillon, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dillon, Sheridan, Alder, Dell, Beaverhead Rock State Park, Laurin, and Clark Canyon.\nGenerated: 2026-07-01 19:50:16 UTC"
   44.6000, -112.7200
   45.0800, -113.0500
   45.4600, -112.2000
@@ -99,7 +156,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 1:19PM MDT by NWS Great Fal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:16PM CDT by NWS New Orleans LA\nExpires: 2026-07-01 20:00 Z\nAt 216 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas along a line extending from near Montegut to 6 miles northwest of Leeville. Movement was west at 10 mph.  HAZARD...Waterspouts and wind gusts up to 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Houma, Larose, Cut Off, Galliano, Lockport, Golden Meadow, Montegut, Leeville, and Chauvin.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:16PM CDT by NWS New Orleans LA\nExpires: 2026-07-01 20:00 Z\nAt 216 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas along a line extending from near Montegut to 6 miles northwest of Leeville. Movement was west at 10 mph.  HAZARD...Waterspouts and wind gusts up to 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Houma, Larose, Cut Off, Galliano, Lockport, Golden Meadow, Montegut, Leeville, and Chauvin.\nGenerated: 2026-07-01 19:50:16 UTC"
   29.2600, -90.3400
   29.2500, -90.3900
   29.3100, -90.4300
@@ -121,7 +178,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:16PM CDT by NWS New Orlea
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:10PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:00 Z\nAt 210 PM CDT, Doppler radar was tracking a strong thunderstorm near Hamilton, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hamilton, Detroit, Weston, Henson Springs, Byrd, Bexar, Marion County Public Lake, Rankin Fite Airport, and Pikeville.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:10PM CDT by NWS Birmingham AL\nExpires: 2026-07-01 20:00 Z\nAt 210 PM CDT, Doppler radar was tracking a strong thunderstorm near Hamilton, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hamilton, Detroit, Weston, Henson Springs, Byrd, Bexar, Marion County Public Lake, Rankin Fite Airport, and Pikeville.\nGenerated: 2026-07-01 19:50:16 UTC"
   34.2100, -88.1900
   34.1500, -87.9200
   33.9800, -87.9400
@@ -130,7 +187,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:10PM CDT by NWS Birmingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 2:09PM CDT by NWS Lake Charles LA\nExpires: 2026-07-01 20:00 Z\nAt 209 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bayou Current to near Krotz Springs. Movement was west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Opelousas, Simmesport, Krotz Springs, Leonville, Melville, Moreauville, Palmetto, Bordelonville, Bayou Current, Morrow, Port Barre, Cottonport, Washington, Plaucheville, Goudeau, Big Cane, Dupont, Big Bend, Lebeau, and Hamburg.  This includes Interstate 49 between mile markers 14 and 34.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 2:09PM CDT by NWS Lake Charles LA\nExpires: 2026-07-01 20:00 Z\nAt 209 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bayou Current to near Krotz Springs. Movement was west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Opelousas, Simmesport, Krotz Springs, Leonville, Melville, Moreauville, Palmetto, Bordelonville, Bayou Current, Morrow, Port Barre, Cottonport, Washington, Plaucheville, Goudeau, Big Cane, Dupont, Big Bend, Lebeau, and Hamburg.  This includes Interstate 49 between mile markers 14 and 34.\nGenerated: 2026-07-01 19:50:16 UTC"
   31.2300, -91.8000
   31.2000, -91.7300
   31.2100, -91.7000
@@ -155,7 +212,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 2:09PM CDT by NWS Lake Char
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 3:07PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-01 20:00 Z\nAt 307 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Forestville to Argyle to 6 miles southwest of Cass City. Movement was southeast at 65 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Caro, Sandusky, Croswell, Cass City, Marlette, Brown City, Lexington, North Branch, Mayville, Deckerville, Port Sanilac, Akron, Forestville, Argyle, Peck, Carsonville, Unionville, Kingston, Gagetown, and Clifford.\nGenerated: 2026-07-01 19:45:16 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 3:07PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-01 20:00 Z\nAt 307 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Forestville to Argyle to 6 miles southwest of Cass City. Movement was southeast at 65 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Caro, Sandusky, Croswell, Cass City, Marlette, Brown City, Lexington, North Branch, Mayville, Deckerville, Port Sanilac, Akron, Forestville, Argyle, Peck, Carsonville, Unionville, Kingston, Gagetown, and Clifford.\nGenerated: 2026-07-01 19:50:16 UTC"
   43.2500, -83.4900
   43.6600, -83.5100
   43.6900, -82.6100
