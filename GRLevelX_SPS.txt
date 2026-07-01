@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-01 17:15:14 UTC
+; Generated: 2026-07-01 17:20:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 1:07PM EDT by NWS Grand Rapids MI\nExpires: 2026-07-01 18:00 Z\nAt 107 PM EDT, Doppler radar was tracking two thunderstorms near Harrison and 6 miles north of Evart. Movement was east at 30 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Harrison...            Springwood Lakes...    Elbow Lake... Windover Lake...       Lily Lake...           Lake George... Temple...              Cranberry Lake...      Arnold Lake... Doc and Tom Lake...    Long Lake...           Dodge and Townline... Leota...\nGenerated: 2026-07-01 17:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 12:18PM CDT by NWS New Orleans LA\nExpires: 2026-07-01 18:15 Z\nAt 1217 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas 10 miles west of Dulac, or 18 miles southwest of Houma, moving west at 20 mph.  HAZARD...Waterspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dulac, Cocodrie, and Lumcon Center Buoy.\nGenerated: 2026-07-01 17:20:21 UTC"
+  29.1700, -91.0600
+  29.3000, -91.3200
+  29.3700, -91.2500
+  29.3100, -91.2000
+  29.3300, -91.1600
+  29.3000, -91.1600
+  29.3300, -91.1300
+  29.3700, -91.2000
+  29.4300, -91.2100
+  29.4500, -91.2600
+  29.5400, -91.2700
+  29.6000, -91.1900
+  29.5900, -91.1600
+  29.6300, -91.0800
+  29.4100, -90.6400
+  29.2800, -90.6000
+  29.2000, -90.7300
+  29.1500, -90.9600
+  29.1700, -91.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 1 at 1:07PM EDT by NWS Grand Rapids MI\nExpires: 2026-07-01 18:00 Z\nAt 107 PM EDT, Doppler radar was tracking two thunderstorms near Harrison and 6 miles north of Evart. Movement was east at 30 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Harrison...            Springwood Lakes...    Elbow Lake... Windover Lake...       Lily Lake...           Lake George... Temple...              Cranberry Lake...      Arnold Lake... Doc and Tom Lake...    Long Lake...           Dodge and Townline... Leota...\nGenerated: 2026-07-01 17:20:21 UTC"
   44.1600, -84.6100
   43.9100, -84.6100
   43.9200, -85.0900
@@ -14,7 +37,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 1:07PM EDT by NWS Grand Rap
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 12:00PM CDT by NWS Lake Charles LA\nExpires: 2026-07-01 17:30 Z\nAt 1200 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Patterson, moving northwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Patterson.\nGenerated: 2026-07-01 17:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 12:00PM CDT by NWS Lake Charles LA\nExpires: 2026-07-01 17:30 Z\nAt 1200 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Patterson, moving northwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Patterson.\nGenerated: 2026-07-01 17:20:21 UTC"
   29.5400, -91.2600
   29.5300, -91.2700
   29.4700, -91.2700
