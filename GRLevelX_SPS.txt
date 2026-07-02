@@ -3,9 +3,25 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-02 10:25:15 UTC
+; Generated: 2026-07-02 10:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 5:17AM CDT by NWS Bismarck ND\nExpires: 2026-07-02 11:00 Z\nAt 517 AM CDT/417 AM MDT/, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Carson, or 40 miles northeast of Lemmon, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elgin, Carson, Flasher, Shields, Lark, Raleigh, Leith, Heil, St. Gertrude, Porcupine, Breien, and Standing Rock.\nGenerated: 2026-07-02 10:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 4:26AM MDT by NWS North Platte NE\nExpires: 2026-07-02 11:30 Z\nAt 426 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northeast of Gordon to 12 miles southwest of White Clay. Movement was north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gordon, Rushville, Hay Springs, White Clay, Clinton, Intersection of Highway 87 and Craven Creek Road, Billys Lake, Lone Butte, Intersection of Beaver Creek Road and White Clay Creek Road, Highway 27 crossing the Niobrara River, Intersection of Highway 87 and Larabee Road, Highway 250 crossing the Niobrara River, Walgren Lake State Recreation Area, Mount Maria, Intersection of Highway 27 and Mills Road, Pine Ridge, Hoover Lake, Metcalf State Wildlife Management Area, and Intersection of Highway 87 and Antelope Road.  This includes the following highways... Highway 20 between mile markers 74 and 111. Highway 250 between mile markers 28 and 48.\nGenerated: 2026-07-02 10:30:19 UTC"
+  43.0000, -102.0800
+  42.7900, -102.0900
+  42.7800, -102.0600
+  42.4500, -102.0600
+  42.4400, -102.0400
+  42.4100, -102.7500
+  42.4400, -102.7500
+  42.4400, -102.7700
+  42.7800, -102.7700
+  42.7900, -102.7900
+  43.0000, -102.7900
+  43.0000, -102.0800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 2 at 5:17AM CDT by NWS Bismarck ND\nExpires: 2026-07-02 11:00 Z\nAt 517 AM CDT/417 AM MDT/, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Carson, or 40 miles northeast of Lemmon, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elgin, Carson, Flasher, Shields, Lark, Raleigh, Leith, Heil, St. Gertrude, Porcupine, Breien, and Standing Rock.\nGenerated: 2026-07-02 10:30:19 UTC"
   46.0900, -101.8500
   46.4500, -101.8300
   46.5600, -100.9300
@@ -14,53 +30,10 @@ Line: 2,,"Special Weather Statement issued July 2 at 5:17AM CDT by NWS Bismarck 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 4:04AM MDT by NWS Rapid City SD\nExpires: 2026-07-02 10:30 Z\nAt 404 AM MDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Shadehill, or 8 miles southeast of Lemmon, moving northeast at 25 MPH.  HAZARD...Wind gusts up to 50 MPH and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lemmon, Shadehill and northeastern Shadehill Reservoir.\nGenerated: 2026-07-02 10:25:15 UTC"
-  45.6800, -102.1700
-  45.9300, -102.4100
-  45.9400, -102.3400
-  45.9400, -102.0000
-  45.7400, -102.0000
-  45.6800, -102.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 4:51AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-07-02 12:45 Z\nAt 451 AM CDT, Doppler radar was tracking heavy rain and minor flooding near Hollandale, or 12 miles east of Albert Lea, moving east at 30 mph.  Locations impacted include... Albert Lea, Alden, Glenville, London, Hollandale, Hayward, Mansfield, Twin Lakes, Conger, Myrtle, Myre Big Island State Park and Albert Lea Airport.\nGenerated: 2026-07-02 10:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 4:51AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-07-02 12:45 Z\nAt 451 AM CDT, Doppler radar was tracking heavy rain and minor flooding near Hollandale, or 12 miles east of Albert Lea, moving east at 30 mph.  Locations impacted include... Albert Lea, Alden, Glenville, London, Hollandale, Hayward, Mansfield, Twin Lakes, Conger, Myrtle, Myre Big Island State Park and Albert Lea Airport.\nGenerated: 2026-07-02 10:30:19 UTC"
   43.6600, -93.6500
   43.7900, -93.0500
   43.5500, -93.0500
   43.5400, -93.6500
   43.6600, -93.6500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 4:45AM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-07-02 10:30 Z\nAt 444 AM CDT, Doppler radar was tracking a strong thunderstorm near Germantown, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Northern Milwaukee, Wauwatosa, Brookfield, Menomonee Falls, Mequon, Whitefish Bay, Pewaukee, Brown Deer, Grafton, Cedarburg, Port Washington, Sussex, Hartland, Delafield, Jackson, Fox Point, Slinger, Saukville, Bayside, and Thiensville.  This includes the following highways... Interstate 43 between mile markers 76 and 103. Interstate 41 between mile markers 44 and 67. U.S. Highway 45 between mile markers 61 and 67.\nGenerated: 2026-07-02 10:25:15 UTC"
-  43.3700, -87.8800
-  43.3000, -87.8900
-  43.2600, -87.9100
-  43.2400, -87.9100
-  43.2100, -87.9000
-  43.2000, -87.9000
-  43.1800, -87.8800
-  43.1200, -87.9000
-  43.1000, -87.8700
-  43.0800, -87.8700
-  43.0700, -88.5100
-  43.3600, -88.2900
-  43.4400, -87.8300
-  43.3700, -87.8800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 4:44AM CDT by NWS Goodland KS\nExpires: 2026-07-02 10:30 Z\nAt 444 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Monument to 3 miles southeast of Russell Springs to 12 miles north of Leoti. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Oakley, Monument, and Russell Springs.\nGenerated: 2026-07-02 10:25:15 UTC"
-  38.6100, -101.4300
-  38.8300, -101.2700
-  39.1300, -101.1200
-  39.2300, -100.7200
-  39.1300, -100.7200
-  39.1300, -100.7000
-  38.9900, -100.7500
-  38.7000, -100.9700
-  38.7000, -101.1300
-  38.6300, -101.1300
-  38.6100, -101.4300
 End:
