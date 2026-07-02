@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-02 07:10:22 UTC
+; Generated: 2026-07-02 07:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 2:03AM CDT by NWS Lubbock TX\nExpires: 2026-07-02 07:30 Z\nAt 203 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Brice, or 15 miles northeast of Turkey, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lakeview and Plaska Community.\nGenerated: 2026-07-02 07:10:22 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 3:10AM EDT by NWS Gaylord MI\nExpires: 2026-07-02 08:00 Z\nAt 309 AM EDT, the public reported strong thunderstorms along a line extending from near Pickerel Lake to near South Branch Township. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...52 mph wind gust measured at the Gaylord Regional Airport at 303 AM.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Atlanta, Lewiston, Mio, Comins, McKinley, Hillman, Metz, Millersburg, Tomahawk Creek Flooding, Hawks, Bisma Township, Fairview, Fletcher Pond, Red Oak, Loud Township, Briley Township, Canada Creek Ranch, Allis Township, Hetherton, and Luzerne.\nGenerated: 2026-07-02 07:15:16 UTC"
+  45.2000, -83.8800
+  44.6000, -83.8900
+  44.5400, -84.3700
+  45.2000, -84.3700
+  45.2000, -84.2500
+  45.3200, -84.2500
+  45.3900, -83.7400
+  45.2100, -83.7300
+  45.2000, -83.8800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 2 at 2:03AM CDT by NWS Lubbock TX\nExpires: 2026-07-02 07:30 Z\nAt 203 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Brice, or 15 miles northeast of Turkey, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lakeview and Plaska Community.\nGenerated: 2026-07-02 07:15:16 UTC"
   34.5100, -100.6900
   34.5700, -100.8900
   34.7500, -100.8400
@@ -14,36 +27,7 @@ Line: 2,,"Special Weather Statement issued July 2 at 2:03AM CDT by NWS Lubbock T
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 2:45AM EDT by NWS Gaylord MI\nExpires: 2026-07-02 07:15 Z\nAt 245 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Boyne City to near Alba to 6 miles east of Sharon. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gaylord, Grayling, Lewiston, Sharon, Elmira, Frederic, Lovells, Vanderbilt, Boyne Falls, Wolverine, Sparr, Johannesburg, Sigma, Clarion, Walloon Lake, Waters, Otsego Lake State Park, Pickerel Lake, Afton, and Darragh.\nGenerated: 2026-07-02 07:10:22 UTC"
-  44.5100, -85.3300
-  44.8600, -85.0500
-  44.8600, -84.8500
-  45.1100, -84.8600
-  45.1200, -84.9500
-  45.2700, -85.0000
-  45.2900, -84.9600
-  45.2900, -84.7300
-  45.3500, -84.7300
-  45.4000, -84.3200
-  45.2700, -84.2500
-  45.2000, -84.2500
-  45.2000, -84.3700
-  44.5100, -84.3700
-  44.5100, -85.3300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 1:41AM CDT by NWS Lubbock TX\nExpires: 2026-07-02 07:15 Z\nAt 141 AM CDT, Doppler radar was tracking a strong thunderstorm near Quitaque, or 7 miles southwest of Caprock Canyon State Park, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Caprock Canyon State Park, Quitaque, and Valley Schools.\nGenerated: 2026-07-02 07:10:22 UTC"
-  34.5100, -100.9500
-  34.3900, -100.9500
-  34.3100, -101.0000
-  34.3100, -101.2400
-  34.5800, -101.1900
-  34.5100, -100.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 12:35AM MDT by NWS Glasgow MT\nExpires: 2026-07-02 07:30 Z\nAt 1234 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bredette to near Brockton to Intake. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sidney, Glendive, Plentywood, Poplar, Culbertson, Fairview, Brockton, Medicine Lake, Bainville, Froid, Richey, Savage, West Glendive, Intake, Bloomfield, Lambert, Bredette, Reserve, Enid, and Volt.\nGenerated: 2026-07-02 07:10:22 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 12:35AM MDT by NWS Glasgow MT\nExpires: 2026-07-02 07:30 Z\nAt 1234 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bredette to near Brockton to Intake. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sidney, Glendive, Plentywood, Poplar, Culbertson, Fairview, Brockton, Medicine Lake, Bainville, Froid, Richey, Savage, West Glendive, Intake, Bloomfield, Lambert, Bredette, Reserve, Enid, and Volt.\nGenerated: 2026-07-02 07:15:16 UTC"
   47.0200, -104.9200
   48.0300, -105.2700
   48.4400, -105.8300
