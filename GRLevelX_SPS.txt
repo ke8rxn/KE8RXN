@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-02 04:25:14 UTC
+; Generated: 2026-07-02 04:30:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 10:15PM MDT by NWS Denver CO\nExpires: 2026-07-02 05:00 Z\nAt 1015 PM MDT, Doppler radar was tracking a strong thunderstorm near Pinewood Springs, or 27 miles southwest of Fort Collins, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Berthoud, Lyons, Carter Lake, Cedar Cove, Pinewood Springs and Campion.\nGenerated: 2026-07-02 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 11:29PM CDT by NWS Little Rock AR\nExpires: 2026-07-02 05:00 Z\nAt 1129 PM CDT, Doppler radar was tracking a strong thunderstorm near Hot Springs Village, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hot Springs Village...            Jessieville... Long Mountain...                  Owensville...\nGenerated: 2026-07-02 04:30:22 UTC"
+  34.6000, -92.8200
+  34.5600, -92.9800
+  34.8100, -93.1800
+  34.8900, -92.8600
+  34.6000, -92.8200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 1 at 10:15PM MDT by NWS Denver CO\nExpires: 2026-07-02 05:00 Z\nAt 1015 PM MDT, Doppler radar was tracking a strong thunderstorm near Pinewood Springs, or 27 miles southwest of Fort Collins, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Berthoud, Lyons, Carter Lake, Cedar Cove, Pinewood Springs and Campion.\nGenerated: 2026-07-02 04:30:22 UTC"
   40.1500, -105.3400
   40.2300, -105.4500
   40.4900, -105.2200
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 10:15PM MDT by NWS Denver C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 10:08PM MDT by NWS Goodland KS\nExpires: 2026-07-02 04:45 Z\nAt 1008 PM MDT/1108 PM CDT/, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Benkelman, moving northwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central Cheyenne County in northwestern Kansas and southwestern Dundy Counties in southwestern Nebraska, including the following locations... Parks.\nGenerated: 2026-07-02 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 10:08PM MDT by NWS Goodland KS\nExpires: 2026-07-02 04:45 Z\nAt 1008 PM MDT/1108 PM CDT/, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Benkelman, moving northwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central Cheyenne County in northwestern Kansas and southwestern Dundy Counties in southwestern Nebraska, including the following locations... Parks.\nGenerated: 2026-07-02 04:30:22 UTC"
   39.9600, -101.5000
   39.8700, -101.7100
   40.0900, -101.9400
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 10:08PM MDT by NWS Goodland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 11:07PM CDT by NWS Dodge City KS\nExpires: 2026-07-02 04:45 Z\nAt 1106 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Garden City, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kalvesta.\nGenerated: 2026-07-02 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 11:07PM CDT by NWS Dodge City KS\nExpires: 2026-07-02 04:45 Z\nAt 1106 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Garden City, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kalvesta.\nGenerated: 2026-07-02 04:30:22 UTC"
   37.9400, -100.8800
   38.2700, -100.8500
   38.2700, -100.6400
@@ -35,25 +44,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 11:07PM CDT by NWS Dodge Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 11:01PM CDT by NWS Goodland KS\nExpires: 2026-07-02 04:30 Z\nAt 1101 PM CDT, Doppler radar was tracking a strong thunderstorm over Jennings, or 16 miles southeast of Oberlin, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Clayton around 1105 PM CDT. Norcatur around 1115 PM CDT.\nGenerated: 2026-07-02 04:25:14 UTC"
-  39.5700, -99.9600
-  39.5700, -100.6000
-  40.0000, -100.3600
-  40.0000, -99.8000
-  39.5700, -99.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 10:56PM CDT by NWS Little Rock AR\nExpires: 2026-07-02 04:30 Z\nAt 1056 PM CDT, Doppler radar was tracking a strong thunderstorm near Lonsdale, or 7 miles north of Malvern, moving northwest at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hot Springs...                    Hot Springs Village... Lonsdale...                       Hot Springs National Park... Magnet Cove...                    Lake Catherine State Park... Owensville...\nGenerated: 2026-07-02 04:25:14 UTC"
-  34.4500, -92.7600
-  34.3900, -92.9000
-  34.5800, -93.0800
-  34.7100, -92.8500
-  34.4500, -92.7600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 11:48PM EDT by NWS Gray ME\nExpires: 2026-07-02 04:45 Z\nAt 1148 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Calais to near Orange. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Manchester, Nashua, Concord, Derry, Keene, Laconia, Claremont, Lebanon, Franklin, Littleton, Jaffrey, Henniker, Lancaster, Bethlehem, Lincoln, New London, Plymouth, Merrimack, Moultonborough, and Meredith.  This includes the following highways... Interstate 293 between mile markers 1 and 11. Interstate 89 between mile markers 0 and 60. Interstate 93 between mile markers 12 and 131.\nGenerated: 2026-07-02 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 11:48PM EDT by NWS Gray ME\nExpires: 2026-07-02 04:45 Z\nAt 1148 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Calais to near Orange. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Manchester, Nashua, Concord, Derry, Keene, Laconia, Claremont, Lebanon, Franklin, Littleton, Jaffrey, Henniker, Lancaster, Bethlehem, Lincoln, New London, Plymouth, Merrimack, Moultonborough, and Meredith.  This includes the following highways... Interstate 293 between mile markers 1 and 11. Interstate 89 between mile markers 0 and 60. Interstate 93 between mile markers 12 and 131.\nGenerated: 2026-07-02 04:30:22 UTC"
   42.7300, -72.4600
   42.8700, -72.5600
   42.9500, -72.5300
@@ -75,35 +66,7 @@ Line: 2,,"Special Weather Statement issued July 1 at 11:48PM EDT by NWS Gray ME\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 10:45PM CDT by NWS Little Rock AR\nExpires: 2026-07-02 04:30 Z\nAt 1045 PM CDT, Doppler radar was tracking a strong thunderstorm near Jessieville, or near Hot Springs Village, moving northwest at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hot Springs Village...            Jessieville... Aplin...                          Deberrie... Hamilton...                       Hollis... Mountain Valley...\nGenerated: 2026-07-02 04:25:14 UTC"
-  35.0000, -92.9500
-  34.7000, -92.8600
-  34.5800, -93.0600
-  34.8200, -93.2900
-  34.8400, -93.2900
-  35.0000, -92.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 10:44PM CDT by NWS Little Rock AR\nExpires: 2026-07-02 04:30 Z\nAt 1044 PM CDT, Doppler radar was tracking a strong thunderstorm over Jenkins Ferry State Park, or 10 miles west of Sheridan, moving northwest at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Malvern...                        Traskwood... Leola...                          Tull... Prattsville...                    Poyen... Perla...                          Thiel... Jenkins Ferry State Park...       Dogwood... Fenter...                         Gifford... Buie...                           Brush Creek...\nGenerated: 2026-07-02 04:25:14 UTC"
-  34.2200, -92.4700
-  34.1600, -92.6200
-  34.3400, -92.8500
-  34.4800, -92.6000
-  34.2200, -92.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 10:44PM CDT by NWS Midland/Odessa TX\nExpires: 2026-07-02 04:30 Z\nAt 1044 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles west of Lenorah, or 21 miles north of Midland, moving north at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tarzan, Patricia, and Klondike.\nGenerated: 2026-07-02 04:25:14 UTC"
-  32.1300, -102.0800
-  32.1600, -102.4300
-  32.6100, -102.4300
-  32.5600, -101.7300
-  32.1300, -102.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 9:42PM MDT by NWS Glasgow MT\nExpires: 2026-07-02 04:45 Z\nAt 942 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northwest of Cohagen to 17 miles southeast of Hillside. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cohagen, Hillside, Flowing Wells Rest Area, Mccloud, Crow Rock, and Watkins.\nGenerated: 2026-07-02 04:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 1 at 9:42PM MDT by NWS Glasgow MT\nExpires: 2026-07-02 04:45 Z\nAt 942 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northwest of Cohagen to 17 miles southeast of Hillside. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Cohagen, Hillside, Flowing Wells Rest Area, Mccloud, Crow Rock, and Watkins.\nGenerated: 2026-07-02 04:30:22 UTC"
   46.8000, -105.6200
   46.8300, -105.6200
   46.8300, -105.8300
@@ -113,22 +76,4 @@ Line: 2,,"Special Weather Statement issued July 1 at 9:42PM MDT by NWS Glasgow M
   47.3800, -105.9900
   46.8200, -105.3800
   46.8000, -105.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 10:42PM CDT by NWS Little Rock AR\nExpires: 2026-07-02 04:30 Z\nAt 1042 PM CDT, Doppler radar was tracking a strong thunderstorm near Redfield, or 17 miles southeast of Southwest Little Rock, moving northwest at 25 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Little Rock...                    Shannon Hills... Wrightsville...                   Redfield... East End...                       Orion... Sweet Home...                     Ironton... Baseline...                       Hensley... Higgins...                        Vimy Ridge... Woodson...                        Parkers-Iron Springs... F.B. Baugh Recreation Area...\nGenerated: 2026-07-02 04:25:14 UTC"
-  34.5000, -92.0800
-  34.4300, -92.1900
-  34.5900, -92.4900
-  34.7100, -92.2600
-  34.5000, -92.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 11:39PM EDT by NWS Gaylord MI\nExpires: 2026-07-02 04:30 Z\nAt 1139 PM EDT, Doppler radar was tracking a strong thunderstorm near Curtisville, or 11 miles southeast of Mio, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oscoda, Harrisville, Au Sable, Glennie, South Branch, McKinley, Mikado, Lincoln, Harrisville State Park, Wurtsmith Airfield, Barton City, Curtisville, Milen Township, and Sid Town.\nGenerated: 2026-07-02 04:25:14 UTC"
-  44.4400, -84.0900
-  44.6800, -84.0700
-  44.7300, -83.2500
-  44.3900, -83.2900
-  44.4400, -84.0900
 End:
