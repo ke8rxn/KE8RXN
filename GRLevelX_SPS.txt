@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-02 06:40:20 UTC
+; Generated: 2026-07-02 06:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 12:35AM MDT by NWS Glasgow MT\nExpires: 2026-07-02 07:30 Z\nAt 1234 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bredette to near Brockton to Intake. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sidney, Glendive, Plentywood, Poplar, Culbertson, Fairview, Brockton, Medicine Lake, Bainville, Froid, Richey, Savage, West Glendive, Intake, Bloomfield, Lambert, Bredette, Reserve, Enid, and Volt.\nGenerated: 2026-07-02 06:40:20 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 1:41AM CDT by NWS Lubbock TX\nExpires: 2026-07-02 07:15 Z\nAt 141 AM CDT, Doppler radar was tracking a strong thunderstorm near Quitaque, or 7 miles southwest of Caprock Canyon State Park, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Caprock Canyon State Park, Quitaque, and Valley Schools.\nGenerated: 2026-07-02 06:45:16 UTC"
+  34.5100, -100.9500
+  34.3900, -100.9500
+  34.3100, -101.0000
+  34.3100, -101.2400
+  34.5800, -101.1900
+  34.5100, -100.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 2 at 12:35AM MDT by NWS Glasgow MT\nExpires: 2026-07-02 07:30 Z\nAt 1234 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bredette to near Brockton to Intake. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sidney, Glendive, Plentywood, Poplar, Culbertson, Fairview, Brockton, Medicine Lake, Bainville, Froid, Richey, Savage, West Glendive, Intake, Bloomfield, Lambert, Bredette, Reserve, Enid, and Volt.\nGenerated: 2026-07-02 06:45:16 UTC"
   47.0200, -104.9200
   48.0300, -105.2700
   48.4400, -105.8300
@@ -13,25 +23,4 @@ Line: 2,,"Special Weather Statement issued July 2 at 12:35AM MDT by NWS Glasgow 
   48.4400, -104.0400
   47.1500, -104.0500
   47.0200, -104.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 1:04AM CDT by NWS Dodge City KS\nExpires: 2026-07-02 06:45 Z\nAt 104 AM CDT, Doppler radar was tracking a strong thunderstorm near Scott City, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Scott City around 110 AM CDT.\nGenerated: 2026-07-02 06:40:20 UTC"
-  38.6400, -100.6900
-  38.3600, -100.8000
-  38.3900, -101.0400
-  38.7000, -101.0000
-  38.7000, -100.6900
-  38.6400, -100.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 1 at 11:41PM MDT by NWS Glasgow MT\nExpires: 2026-07-02 06:45 Z\nAt 1140 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles north of Frazer to 12 miles northeast of Circle. Movement was northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wolf Point, Poplar, Brockton, Richey, Lustre, Lambert, Bredette, Frazer, Vida, Oswego, Fort Kipp, Enid, Volt, and Sprole.\nGenerated: 2026-07-02 06:40:20 UTC"
-  47.4800, -105.6100
-  47.8700, -105.8700
-  48.3500, -106.5200
-  48.6300, -105.3600
-  48.3000, -104.7100
-  47.7100, -104.4700
-  47.4800, -105.6100
 End:
