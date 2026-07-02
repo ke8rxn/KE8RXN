@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-02 10:50:22 UTC
+; Generated: 2026-07-02 10:55:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 4:26AM MDT by NWS North Platte NE\nExpires: 2026-07-02 11:30 Z\nAt 426 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northeast of Gordon to 12 miles southwest of White Clay. Movement was north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gordon, Rushville, Hay Springs, White Clay, Clinton, Intersection of Highway 87 and Craven Creek Road, Billys Lake, Lone Butte, Intersection of Beaver Creek Road and White Clay Creek Road, Highway 27 crossing the Niobrara River, Intersection of Highway 87 and Larabee Road, Highway 250 crossing the Niobrara River, Walgren Lake State Recreation Area, Mount Maria, Intersection of Highway 27 and Mills Road, Pine Ridge, Hoover Lake, Metcalf State Wildlife Management Area, and Intersection of Highway 87 and Antelope Road.  This includes the following highways... Highway 20 between mile markers 74 and 111. Highway 250 between mile markers 28 and 48.\nGenerated: 2026-07-02 10:50:22 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 5:53AM CDT by NWS Bismarck ND\nExpires: 2026-07-02 11:45 Z\nAt 552 AM CDT/452 AM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southwest of St. Anthony to 8 miles south of Shields to Watauga. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Flasher, Fort Yates, Selfridge, Solen, Cannon Ball, Prairie Knights Resort, Shields, Raleigh, Breien, Hazelton Recreation Area, Stumpf State Natural Area, St. Gertrude, Fort Rice, Porcupine, Standing Rock, Cattail Recreation Area, Beaver Bay Recreation Area, and Standing Rock Nation.\nGenerated: 2026-07-02 10:55:16 UTC"
+  46.1700, -101.4500
+  46.5500, -101.2600
+  46.5600, -100.4200
+  46.1200, -100.5300
+  45.9400, -100.8200
+  45.9500, -101.7800
+  46.1700, -101.4500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 2 at 4:26AM MDT by NWS North Platte NE\nExpires: 2026-07-02 11:30 Z\nAt 426 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northeast of Gordon to 12 miles southwest of White Clay. Movement was north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gordon, Rushville, Hay Springs, White Clay, Clinton, Intersection of Highway 87 and Craven Creek Road, Billys Lake, Lone Butte, Intersection of Beaver Creek Road and White Clay Creek Road, Highway 27 crossing the Niobrara River, Intersection of Highway 87 and Larabee Road, Highway 250 crossing the Niobrara River, Walgren Lake State Recreation Area, Mount Maria, Intersection of Highway 27 and Mills Road, Pine Ridge, Hoover Lake, Metcalf State Wildlife Management Area, and Intersection of Highway 87 and Antelope Road.  This includes the following highways... Highway 20 between mile markers 74 and 111. Highway 250 between mile markers 28 and 48.\nGenerated: 2026-07-02 10:55:16 UTC"
   43.0000, -102.0800
   42.7900, -102.0900
   42.7800, -102.0600
@@ -21,7 +32,7 @@ Line: 2,,"Special Weather Statement issued July 2 at 4:26AM MDT by NWS North Pla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 5:17AM CDT by NWS Bismarck ND\nExpires: 2026-07-02 11:00 Z\nAt 517 AM CDT/417 AM MDT/, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Carson, or 40 miles northeast of Lemmon, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elgin, Carson, Flasher, Shields, Lark, Raleigh, Leith, Heil, St. Gertrude, Porcupine, Breien, and Standing Rock.\nGenerated: 2026-07-02 10:50:22 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 5:17AM CDT by NWS Bismarck ND\nExpires: 2026-07-02 11:00 Z\nAt 517 AM CDT/417 AM MDT/, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Carson, or 40 miles northeast of Lemmon, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elgin, Carson, Flasher, Shields, Lark, Raleigh, Leith, Heil, St. Gertrude, Porcupine, Breien, and Standing Rock.\nGenerated: 2026-07-02 10:55:16 UTC"
   46.0900, -101.8500
   46.4500, -101.8300
   46.5600, -100.9300
@@ -30,7 +41,7 @@ Line: 2,,"Special Weather Statement issued July 2 at 5:17AM CDT by NWS Bismarck 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 4:51AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-07-02 12:45 Z\nAt 451 AM CDT, Doppler radar was tracking heavy rain and minor flooding near Hollandale, or 12 miles east of Albert Lea, moving east at 30 mph.  Locations impacted include... Albert Lea, Alden, Glenville, London, Hollandale, Hayward, Mansfield, Twin Lakes, Conger, Myrtle, Myre Big Island State Park and Albert Lea Airport.\nGenerated: 2026-07-02 10:50:22 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 4:51AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-07-02 12:45 Z\nAt 451 AM CDT, Doppler radar was tracking heavy rain and minor flooding near Hollandale, or 12 miles east of Albert Lea, moving east at 30 mph.  Locations impacted include... Albert Lea, Alden, Glenville, London, Hollandale, Hayward, Mansfield, Twin Lakes, Conger, Myrtle, Myre Big Island State Park and Albert Lea Airport.\nGenerated: 2026-07-02 10:55:16 UTC"
   43.6600, -93.6500
   43.7900, -93.0500
   43.5500, -93.0500
