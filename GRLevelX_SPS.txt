@@ -3,9 +3,42 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-02 09:45:17 UTC
+; Generated: 2026-07-02 09:50:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 3:23AM MDT by NWS Bismarck ND\nExpires: 2026-07-02 10:15 Z\nAt 323 AM MDT, Doppler radar was tracking a strong thunderstorm 13 miles southeast of Mott, or 18 miles north of Lemmon, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mott, Elgin, New Leipzig, Burt, Heil, and Bentley.\nGenerated: 2026-07-02 09:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 4:45AM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-07-02 10:30 Z\nAt 444 AM CDT, Doppler radar was tracking a strong thunderstorm near Germantown, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Northern Milwaukee, Wauwatosa, Brookfield, Menomonee Falls, Mequon, Whitefish Bay, Pewaukee, Brown Deer, Grafton, Cedarburg, Port Washington, Sussex, Hartland, Delafield, Jackson, Fox Point, Slinger, Saukville, Bayside, and Thiensville.  This includes the following highways... Interstate 43 between mile markers 76 and 103. Interstate 41 between mile markers 44 and 67. U.S. Highway 45 between mile markers 61 and 67.\nGenerated: 2026-07-02 09:50:20 UTC"
+  43.3700, -87.8800
+  43.3000, -87.8900
+  43.2600, -87.9100
+  43.2400, -87.9100
+  43.2100, -87.9000
+  43.2000, -87.9000
+  43.1800, -87.8800
+  43.1200, -87.9000
+  43.1000, -87.8700
+  43.0800, -87.8700
+  43.0700, -88.5100
+  43.3600, -88.2900
+  43.4400, -87.8300
+  43.3700, -87.8800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 2 at 4:44AM CDT by NWS Goodland KS\nExpires: 2026-07-02 10:30 Z\nAt 444 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Monument to 3 miles southeast of Russell Springs to 12 miles north of Leoti. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Oakley, Monument, and Russell Springs.\nGenerated: 2026-07-02 09:50:20 UTC"
+  38.6100, -101.4300
+  38.8300, -101.2700
+  39.1300, -101.1200
+  39.2300, -100.7200
+  39.1300, -100.7200
+  39.1300, -100.7000
+  38.9900, -100.7500
+  38.7000, -100.9700
+  38.7000, -101.1300
+  38.6300, -101.1300
+  38.6100, -101.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 2 at 3:23AM MDT by NWS Bismarck ND\nExpires: 2026-07-02 10:15 Z\nAt 323 AM MDT, Doppler radar was tracking a strong thunderstorm 13 miles southeast of Mott, or 18 miles north of Lemmon, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mott, Elgin, New Leipzig, Burt, Heil, and Bentley.\nGenerated: 2026-07-02 09:50:20 UTC"
   46.0000, -102.5000
   46.3700, -102.6200
   46.5200, -101.7300
