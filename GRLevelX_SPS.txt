@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-03 06:25:12 UTC
+; Generated: 2026-07-03 06:30:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 3 at 1:11AM CDT by NWS Goodland KS\nExpires: 2026-07-03 06:45 Z\nAt 111 AM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northwest of Trenton, moving north at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northern Hitchcock County.\nGenerated: 2026-07-03 06:25:12 UTC"
+Line: 2,,"Special Weather Statement issued July 3 at 1:25AM CDT by NWS Hastings NE\nExpires: 2026-07-03 07:00 Z\nAt 124 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hazard to near Gibbon to near Upland. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Minden, Gibbon, Ravenna, Wood River, Shelton, Kenesaw, Cairo, Juniata, Alda, Dannebrog, Litchfield, Holstein, Farwell, Rockville, Heartwell, Hazard, and Prosser.  This includes Interstate 80 between mile markers 276 and 310.\nGenerated: 2026-07-03 06:30:24 UTC"
+  41.2400, -98.6000
+  40.8000, -98.4000
+  40.4300, -98.4900
+  40.3500, -99.0600
+  40.6900, -99.0300
+  41.1600, -99.1700
+  41.2400, -98.6000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 3 at 1:11AM CDT by NWS Goodland KS\nExpires: 2026-07-03 06:45 Z\nAt 111 AM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northwest of Trenton, moving north at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northern Hitchcock County.\nGenerated: 2026-07-03 06:30:24 UTC"
   40.1400, -100.9800
   40.2000, -101.2000
   40.3500, -101.1600
@@ -14,7 +25,7 @@ Line: 2,,"Special Weather Statement issued July 3 at 1:11AM CDT by NWS Goodland 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 3 at 1:07AM CDT by NWS Aberdeen SD\nExpires: 2026-07-03 06:45 Z\nAt 106 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Brown Church to 9 miles southeast of Intersection of Highway 73 and White River. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Okaton, Capa, Van Metre, Brown Church, Bunker, Hayes, and Wendte.\nGenerated: 2026-07-03 06:25:12 UTC"
+Line: 2,,"Special Weather Statement issued July 3 at 1:07AM CDT by NWS Aberdeen SD\nExpires: 2026-07-03 06:45 Z\nAt 106 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Brown Church to 9 miles southeast of Intersection of Highway 73 and White River. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Okaton, Capa, Van Metre, Brown Church, Bunker, Hayes, and Wendte.\nGenerated: 2026-07-03 06:30:24 UTC"
   43.7900, -100.8600
   43.7800, -100.8800
   43.8000, -100.8800
@@ -34,32 +45,7 @@ Line: 2,,"Special Weather Statement issued July 3 at 1:07AM CDT by NWS Aberdeen 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 3 at 12:05AM MDT by NWS Rapid City SD\nExpires: 2026-07-03 06:30 Z\nAt 1205 AM MDT /105 AM CDT/, Doppler radar was tracking a line of strong thunderstorms extending from near Ottumwa to 7 miles south of Belvidere, or extending from 24 miles northeast of Philip to 12 miles southeast of Kadoka, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kadoka, Midland, Belvidere, Ottumwa, Nowlin and Intersection of Highway 73 and White River.  This includes Interstate 90 in South Dakota between Mile Markers 149 and 174.\nGenerated: 2026-07-03 06:25:12 UTC"
-  44.0400, -101.5600
-  44.3800, -101.6300
-  44.4000, -101.1600
-  44.1700, -101.1700
-  44.1700, -101.0500
-  43.8400, -101.0600
-  43.8500, -101.0500
-  43.8400, -101.0100
-  43.8500, -100.9900
-  43.8200, -100.9500
-  43.8100, -100.9600
-  43.8300, -100.9300
-  43.8100, -100.9000
-  43.8100, -100.9100
-  43.7900, -100.9000
-  43.8000, -100.8800
-  43.7800, -100.8800
-  43.7800, -100.8500
-  43.6900, -100.9000
-  43.6600, -101.5700
-  44.0400, -101.5600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 2 at 11:55PM MDT by NWS North Platte NE\nExpires: 2026-07-03 06:45 Z\nAt 1155 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Champion to 16 miles south of Pleasant Valley. Movement was north at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Imperial, Lamar, Champion, Crete, Chase, and Wanamaker State Wildfire Management Area.  This includes Highway 61 between mile markers 41 and 53.\nGenerated: 2026-07-03 06:25:12 UTC"
+Line: 2,,"Special Weather Statement issued July 2 at 11:55PM MDT by NWS North Platte NE\nExpires: 2026-07-03 06:45 Z\nAt 1155 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Champion to 16 miles south of Pleasant Valley. Movement was north at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Imperial, Lamar, Champion, Crete, Chase, and Wanamaker State Wildfire Management Area.  This includes Highway 61 between mile markers 41 and 53.\nGenerated: 2026-07-03 06:30:24 UTC"
   40.5700, -102.0600
   40.5800, -102.0500
   40.7000, -101.6000
