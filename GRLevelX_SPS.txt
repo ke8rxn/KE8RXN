@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-05 07:55:14 UTC
+; Generated: 2026-07-05 08:00:32 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 2:54AM CDT by NWS Shreveport LA\nExpires: 2026-07-05 08:45 Z\nAt 254 AM CDT, Doppler radar was tracking a strong thunderstorm over Bossier City, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bossier City, Haughton, Doyline, Eastwood, Fosters, Bodcau, Sligo, Fillmore, Princeton, Red Chute, Koran, Curtis, Barksdale Air Force Base, Ferguson and Elm Grove.\nGenerated: 2026-07-05 07:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 2:59AM CDT by NWS Shreveport LA\nExpires: 2026-07-05 08:30 Z\nAt 259 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Liberty City, or 8 miles southwest of Gladewater, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kilgore, Gladewater, Clarksville City and Liberty City.\nGenerated: 2026-07-05 08:00:32 UTC"
+  32.5400, -95.0700
+  32.5800, -95.0400
+  32.4900, -94.8200
+  32.2900, -94.9600
+  32.4200, -95.1600
+  32.5400, -95.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 1:57AM MDT by NWS Albuquerque NM\nExpires: 2026-07-05 08:30 Z\nAt 157 AM MDT, Doppler radar was tracking a strong thunderstorm near Clayton Lake State Park, or 10 miles northwest of Clayton, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clayton and Clayton Lake State Park.  This includes Highway 64 between Mile Markers 414 and 429.\nGenerated: 2026-07-05 08:00:32 UTC"
+  36.6100, -103.5700
+  36.7400, -103.4000
+  36.5700, -103.0000
+  36.5000, -103.0000
+  36.5000, -103.0400
+  36.3900, -103.0400
+  36.2200, -103.2100
+  36.6100, -103.5700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 2:54AM CDT by NWS Shreveport LA\nExpires: 2026-07-05 08:45 Z\nAt 254 AM CDT, Doppler radar was tracking a strong thunderstorm over Bossier City, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bossier City, Haughton, Doyline, Eastwood, Fosters, Bodcau, Sligo, Fillmore, Princeton, Red Chute, Koran, Curtis, Barksdale Air Force Base, Ferguson and Elm Grove.\nGenerated: 2026-07-05 08:00:32 UTC"
   32.5200, -93.7500
   32.5400, -93.7400
   32.5300, -93.7300
@@ -24,22 +46,4 @@ Line: 2,,"Special Weather Statement issued July 5 at 2:54AM CDT by NWS Shrevepor
   32.5100, -93.7200
   32.5100, -93.7300
   32.5200, -93.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 1:33AM MDT by NWS Pueblo CO\nExpires: 2026-07-05 08:00 Z\nAt 133 AM MDT, Doppler radar was tracking a strong thunderstorm 17 miles east of Walsenburg, or 38 miles north of Trinidad, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of east central Huerfano and north central Las Animas Counties.\nGenerated: 2026-07-05 07:55:14 UTC"
-  37.7000, -104.6300
-  37.8300, -104.4700
-  37.6400, -104.1500
-  37.4500, -104.3800
-  37.7000, -104.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 2:27AM CDT by NWS Norman OK\nExpires: 2026-07-05 08:00 Z\nAt 227 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Vinson, moving east at 15 mph.  HAZARD...Wind gusts of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hollis, Gould, Vinson, Madge, McKnight, and McQueen.\nGenerated: 2026-07-05 07:55:14 UTC"
-  35.0700, -100.0000
-  35.0500, -99.5400
-  34.5700, -99.7400
-  34.7000, -100.0000
-  35.0700, -100.0000
 End:
