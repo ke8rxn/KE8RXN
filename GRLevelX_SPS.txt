@@ -3,9 +3,37 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-05 17:00:33 UTC
+; Generated: 2026-07-05 17:05:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 11:57AM CDT by NWS Huntsville AL\nExpires: 2026-07-05 17:45 Z\nAt 1157 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Ardmore, moving east at 15 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northern Huntsville, Fayetteville, Moores Mill, Meridianville, Lynchburg, Hazel Green, Ardmore, Huntland, Tims Ford Lake, and New Market.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 1:03PM EDT by NWS Charleston WV\nExpires: 2026-07-05 17:30 Z\nAt 103 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sistersville to near St. Marys. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Middlebourne, Paden City, Sistersville, Pennsboro, Matamoras, Ellenboro, Friendly, Fly, Alma, Greenwood, Maxwell, Arvilla, Point Lookout, New Matamoras, Wick, Mountain, Hebron, Pike, and Highland.  This includes Route 50 in West Virginia between mile markers 32 and 50.\nGenerated: 2026-07-05 17:05:12 UTC"
+  39.5800, -80.8900
+  39.6000, -80.8500
+  39.5900, -80.8500
+  39.5800, -80.8300
+  39.5600, -80.8200
+  39.5600, -80.8100
+  39.5500, -80.7900
+  39.5200, -80.7600
+  39.2200, -80.8400
+  39.2700, -81.2300
+  39.5800, -81.1500
+  39.5700, -81.0400
+  39.5400, -81.0400
+  39.6100, -80.9500
+  39.5800, -80.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 12:02PM CDT by NWS Norman OK\nExpires: 2026-07-05 17:30 Z\nAt 1202 PM CDT, Doppler radar was tracking a strong thunderstorm near Wilson, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lone Grove, Healdton, and Wilson.\nGenerated: 2026-07-05 17:05:12 UTC"
+  34.0700, -97.5500
+  34.2100, -97.5500
+  34.2100, -97.3300
+  34.0700, -97.3300
+  34.0700, -97.5500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 11:57AM CDT by NWS Huntsville AL\nExpires: 2026-07-05 17:45 Z\nAt 1157 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Ardmore, moving east at 15 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Northern Huntsville, Fayetteville, Moores Mill, Meridianville, Lynchburg, Hazel Green, Ardmore, Huntland, Tims Ford Lake, and New Market.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.3500, -86.1600
   34.7600, -86.2800
   34.8900, -86.9800
@@ -26,7 +54,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 11:57AM CDT by NWS Huntsvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:56PM EDT by NWS Raleigh NC\nExpires: 2026-07-05 18:00 Z\nAt 1256 PM EDT, Doppler radar was tracking a strong thunderstorm over Wadesboro, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rockingham, Wadesboro, Ansonville, Polkton, Norwood, Mount Gilead, Ellerbe, Candor, Lilesville, and Morven.  This includes Interstate 73 between Mile Markers 26 and 45.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:56PM EDT by NWS Raleigh NC\nExpires: 2026-07-05 18:00 Z\nAt 1256 PM EDT, Doppler radar was tracking a strong thunderstorm over Wadesboro, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rockingham, Wadesboro, Ansonville, Polkton, Norwood, Mount Gilead, Ellerbe, Candor, Lilesville, and Morven.  This includes Interstate 73 between Mile Markers 26 and 45.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.2000, -80.2800
   35.2600, -80.1000
   35.3100, -79.7300
@@ -43,7 +71,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:56PM EDT by NWS Raleigh 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 11:55AM CDT by NWS Nashville TN\nExpires: 2026-07-05 17:45 Z\nAt 1155 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northwest of McMinnville to Tracy City. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... McMinnville, Sparta, Smithville, Spencer, Gruetli-Laager, Tracy City, Monteagle, Altamont, Coalmont, Morrison, Palmer, Doyle, Beersheba Springs, Centertown, Viola, Bakers Crossroads, Rock Island State Park, Fall Creek Falls State Park, and Fiery Gizzard State Park.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 11:55AM CDT by NWS Nashville TN\nExpires: 2026-07-05 17:45 Z\nAt 1155 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northwest of McMinnville to Tracy City. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... McMinnville, Sparta, Smithville, Spencer, Gruetli-Laager, Tracy City, Monteagle, Altamont, Coalmont, Morrison, Palmer, Doyle, Beersheba Springs, Centertown, Viola, Bakers Crossroads, Rock Island State Park, Fall Creek Falls State Park, and Fiery Gizzard State Park.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.2200, -85.7700
   35.2300, -85.8000
   35.5100, -85.8500
@@ -67,7 +95,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 11:55AM CDT by NWS Nashvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:54PM EDT by NWS Blacksburg VA\nExpires: 2026-07-05 17:30 Z\nAt 1253 PM EDT, Doppler radar was tracking a strong thunderstorm over Fairy Stone State Park, or near Bassett, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount... Bassett... Ferrum... Stanleytown... Endicott... Fairy Stone State Park... and Oak Level.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:54PM EDT by NWS Blacksburg VA\nExpires: 2026-07-05 17:30 Z\nAt 1253 PM EDT, Doppler radar was tracking a strong thunderstorm over Fairy Stone State Park, or near Bassett, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount... Bassett... Ferrum... Stanleytown... Endicott... Fairy Stone State Park... and Oak Level.\nGenerated: 2026-07-05 17:05:12 UTC"
   36.7300, -80.1800
   36.9100, -80.1900
   36.9900, -79.8700
@@ -76,7 +104,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:54PM EDT by NWS Blacksbu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:52PM EDT by NWS Wilmington NC\nExpires: 2026-07-05 17:30 Z\nAt 1252 PM EDT, Doppler radar was tracking a strong thunderstorm near Oatland, or near Georgetown, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Georgetown, DeBordieu Colony, Andrews, Sampit, Plantersville, Lambert, Graves, Oatland, North Santee, and Georgetown Memorial Hospital.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:52PM EDT by NWS Wilmington NC\nExpires: 2026-07-05 17:30 Z\nAt 1252 PM EDT, Doppler radar was tracking a strong thunderstorm near Oatland, or near Georgetown, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Georgetown, DeBordieu Colony, Andrews, Sampit, Plantersville, Lambert, Graves, Oatland, North Santee, and Georgetown Memorial Hospital.\nGenerated: 2026-07-05 17:05:12 UTC"
   33.2200, -79.4600
   33.2400, -79.4600
   33.2300, -79.4700
@@ -101,7 +129,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:52PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 11:50AM CDT by NWS Morristown TN\nExpires: 2026-07-05 17:30 Z\nAt 1150 AM CDT, Doppler radar was tracking a strong thunderstorm near Tracy City, or 11 miles northwest of Jasper, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jasper, Whitwell, Monteagle, Martin Springs, Fiery Gizzard State Park, Sequatchie Cave, Foster Falls State Park, Griffith Creek, and Chimneys State Park.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 11:50AM CDT by NWS Morristown TN\nExpires: 2026-07-05 17:30 Z\nAt 1150 AM CDT, Doppler radar was tracking a strong thunderstorm near Tracy City, or 11 miles northwest of Jasper, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jasper, Whitwell, Monteagle, Martin Springs, Fiery Gizzard State Park, Sequatchie Cave, Foster Falls State Park, Griffith Creek, and Chimneys State Park.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.2400, -85.8400
   35.2400, -85.8200
   35.2200, -85.7700
@@ -121,7 +149,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 11:50AM CDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:49PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-05 17:15 Z\nAt 1249 PM EDT, Doppler radar was tracking a strong thunderstorm near Blowing Rock, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Blowing Rock In Caldwell County, Globe, and Upton.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:49PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-05 17:15 Z\nAt 1249 PM EDT, Doppler radar was tracking a strong thunderstorm near Blowing Rock, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Blowing Rock In Caldwell County, Globe, and Upton.\nGenerated: 2026-07-05 17:05:12 UTC"
   36.1200, -81.5500
   36.1100, -81.5400
   36.0200, -81.5400
@@ -134,7 +162,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:49PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 11:44AM CDT by NWS Nashville TN\nExpires: 2026-07-05 17:30 Z\nAt 1143 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles west of Lawrenceburg to 6 miles north of Ardmore. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Columbia, Lewisburg, Lawrenceburg, Pulaski, Mount Pleasant, Loretto, Summertown, Ardmore, Cornersville, St. Joseph, Elkton, Minor Hill, and Ethridge.  This includes Interstate 65 between mile markers 1 and 43.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 11:44AM CDT by NWS Nashville TN\nExpires: 2026-07-05 17:30 Z\nAt 1143 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles west of Lawrenceburg to 6 miles north of Ardmore. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Columbia, Lewisburg, Lawrenceburg, Pulaski, Mount Pleasant, Loretto, Summertown, Ardmore, Cornersville, St. Joseph, Elkton, Minor Hill, and Ethridge.  This includes Interstate 65 between mile markers 1 and 43.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.0100, -87.5900
   35.0500, -87.5800
   35.0600, -87.5800
@@ -155,7 +183,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 11:44AM CDT by NWS Nashvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:42PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-05 17:15 Z\nAt 1242 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Monroe, or 5 miles south of Mineral Springs, moving east at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of south central Union County.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:42PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-05 17:15 Z\nAt 1242 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Monroe, or 5 miles south of Mineral Springs, moving east at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of south central Union County.\nGenerated: 2026-07-05 17:05:12 UTC"
   34.8200, -80.6800
   34.9000, -80.6800
   34.9500, -80.5600
@@ -164,7 +192,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:42PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:42PM EDT by NWS Tallahassee FL\nExpires: 2026-07-05 17:15 Z\nAt 1242 PM EDT, Doppler radar was tracking a strong thunderstorm 16 miles east of Stonemill Creek, or 17 miles southeast of Blountstown, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orange, Telogia, Jewel Fire Tower, Wilma, Vilas, Hosford, Lowry, Jensen Place, Nixon Garden, Central City, and Clio.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:42PM EDT by NWS Tallahassee FL\nExpires: 2026-07-05 17:15 Z\nAt 1242 PM EDT, Doppler radar was tracking a strong thunderstorm 16 miles east of Stonemill Creek, or 17 miles southeast of Blountstown, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orange, Telogia, Jewel Fire Tower, Wilma, Vilas, Hosford, Lowry, Jensen Place, Nixon Garden, Central City, and Clio.\nGenerated: 2026-07-05 17:05:12 UTC"
   30.1200, -84.9700
   30.2500, -85.0400
   30.4400, -84.7700
@@ -174,7 +202,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:42PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:39PM EDT by NWS Jacksonville FL\nExpires: 2026-07-05 17:15 Z\nAt 1239 PM EDT, Doppler radar was tracking a strong thunderstorm near Satsuma, or near Palatka, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palatka, Pomona Park, East Palatka, Bostwick, Orange Mills, Bardin, Hollister, Satsuma, San Mateo, and Welaka.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:39PM EDT by NWS Jacksonville FL\nExpires: 2026-07-05 17:15 Z\nAt 1239 PM EDT, Doppler radar was tracking a strong thunderstorm near Satsuma, or near Palatka, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palatka, Pomona Park, East Palatka, Bostwick, Orange Mills, Bardin, Hollister, Satsuma, San Mateo, and Welaka.\nGenerated: 2026-07-05 17:05:12 UTC"
   29.4300, -81.7000
   29.5700, -81.9000
   29.8100, -81.6600
@@ -183,7 +211,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:39PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:39PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-05 17:15 Z\nAt 1239 PM EDT, Doppler radar was tracking a strong thunderstorm 4 miles south of Newland, or over Crossnore, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Newland, Crossnore, B.R. Parkway-Linville Falls To Grandfather, Pineola, Linville, Jonas Ridge, and Altamont.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:39PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-05 17:15 Z\nAt 1239 PM EDT, Doppler radar was tracking a strong thunderstorm 4 miles south of Newland, or over Crossnore, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Newland, Crossnore, B.R. Parkway-Linville Falls To Grandfather, Pineola, Linville, Jonas Ridge, and Altamont.\nGenerated: 2026-07-05 17:05:12 UTC"
   36.0800, -81.7600
   36.0500, -81.7500
   35.9300, -81.8300
@@ -194,7 +222,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:39PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:37PM EDT by NWS Morristown TN\nExpires: 2026-07-05 17:30 Z\nAt 1237 PM EDT, Doppler radar was tracking a strong thunderstorm near Spring City, or 9 miles north of Decatur, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fairview, Spring City, Niota, Peakland, Eagle Furnace, Murray Store, Piney Falls State Park, Grandview, and Ten Mile.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:37PM EDT by NWS Morristown TN\nExpires: 2026-07-05 17:30 Z\nAt 1237 PM EDT, Doppler radar was tracking a strong thunderstorm near Spring City, or 9 miles north of Decatur, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fairview, Spring City, Niota, Peakland, Eagle Furnace, Murray Store, Piney Falls State Park, Grandview, and Ten Mile.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.5700, -84.8800
   35.7500, -84.8800
   35.8000, -84.5500
@@ -210,7 +238,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:37PM EDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 12:33PM EDT by NWS Morristown TN\nExpires: 2026-07-05 17:15 Z\nAt 1233 PM EDT, Doppler radar was tracking a strong thunderstorm over Oliver Springs, or near Oak Ridge, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Knoxville, Oak Ridge, Clinton, Oliver Springs, Karns, and Coalfield.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 12:33PM EDT by NWS Morristown TN\nExpires: 2026-07-05 17:15 Z\nAt 1233 PM EDT, Doppler radar was tracking a strong thunderstorm over Oliver Springs, or near Oak Ridge, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Knoxville, Oak Ridge, Clinton, Oliver Springs, Karns, and Coalfield.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.9300, -84.4100
   36.0200, -84.4000
   36.0500, -84.3600
@@ -223,7 +251,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 12:33PM EDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 11:27AM CDT by NWS Huntsville AL\nExpires: 2026-07-05 17:15 Z\nAt 1127 AM CDT, Doppler radar was tracking a strong thunderstorm over Cowan, or near Winchester, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Winchester, Decherd, Cowan, Sewanee, Alto, St. Andrews, and Woods Reservoir.\nGenerated: 2026-07-05 17:00:33 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 11:27AM CDT by NWS Huntsville AL\nExpires: 2026-07-05 17:15 Z\nAt 1127 AM CDT, Doppler radar was tracking a strong thunderstorm over Cowan, or near Winchester, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Winchester, Decherd, Cowan, Sewanee, Alto, St. Andrews, and Woods Reservoir.\nGenerated: 2026-07-05 17:05:12 UTC"
   35.3100, -85.9700
   35.3100, -85.9500
   35.3000, -85.9500
