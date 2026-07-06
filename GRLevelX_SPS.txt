@@ -3,9 +3,64 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-06 01:05:12 UTC
+; Generated: 2026-07-06 01:10:29 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:02PM MDT by NWS Albuquerque NM\nExpires: 2026-07-06 01:30 Z\nAt 702 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles south of Texico to 18 miles northwest of Elida, moving south at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis, Portales, Texico, Elida, Dora, Oasis State Park, Cannon Air Force Base, Arch, Floyd and Portair.  This includes Highway 60 between Mile Markers 378 and 397.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:09PM MDT by NWS Great Falls MT\nExpires: 2026-07-06 02:15 Z\nAt 708 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Salmon to 18 miles northeast of Lemhi. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Jackson, Polaris, and Grant.\nGenerated: 2026-07-06 01:10:29 UTC"
+  45.7000, -113.8900
+  45.4400, -112.9400
+  44.9000, -113.0800
+  44.9900, -113.4400
+  45.0600, -113.4500
+  45.0900, -113.5200
+  45.1200, -113.5200
+  45.1300, -113.5800
+  45.1800, -113.5900
+  45.3300, -113.7400
+  45.3900, -113.7300
+  45.4100, -113.7800
+  45.5000, -113.7600
+  45.5200, -113.8300
+  45.5900, -113.8000
+  45.6200, -113.9000
+  45.7000, -113.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 7:05PM MDT by NWS Missoula MT\nExpires: 2026-07-06 01:30 Z\nAt 705 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Salmon, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Baker.\nGenerated: 2026-07-06 01:10:29 UTC"
+  45.0200, -113.5000
+  45.0500, -113.8800
+  45.3400, -113.7600
+  45.3400, -113.7400
+  45.3300, -113.7400
+  45.2800, -113.6800
+  45.2600, -113.6900
+  45.2500, -113.6800
+  45.2400, -113.6500
+  45.2100, -113.6400
+  45.1900, -113.5900
+  45.1600, -113.5900
+  45.1500, -113.5700
+  45.1300, -113.5700
+  45.1100, -113.5600
+  45.1200, -113.5100
+  45.1100, -113.5100
+  45.0900, -113.5200
+  45.0800, -113.4900
+  45.0600, -113.4800
+  45.0200, -113.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 9:04PM EDT by NWS State College PA\nExpires: 2026-07-06 01:45 Z\nAt 904 PM EDT, Doppler radar was tracking a strong thunderstorm near Bellefonte, moving north at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bellefonte, Milesburg, Snow Shoe, Clarence, Moshannon, Monument, Unionville, and Orviston.\nGenerated: 2026-07-06 01:10:29 UTC"
+  40.9000, -77.7300
+  40.9000, -77.9800
+  41.1800, -78.0300
+  41.1700, -77.6700
+  40.9000, -77.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 7:02PM MDT by NWS Albuquerque NM\nExpires: 2026-07-06 01:30 Z\nAt 702 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles south of Texico to 18 miles northwest of Elida, moving south at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis, Portales, Texico, Elida, Dora, Oasis State Park, Cannon Air Force Base, Arch, Floyd and Portair.  This includes Highway 60 between Mile Markers 378 and 397.\nGenerated: 2026-07-06 01:10:29 UTC"
   34.3300, -103.9500
   34.4000, -103.4600
   34.4500, -103.0400
@@ -17,7 +72,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:02PM MDT by NWS Albuquerq
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 9:00PM EDT by NWS Blacksburg VA\nExpires: 2026-07-06 01:30 Z\nAt 900 PM EDT, Doppler radar was tracking a strong thunderstorm over Covington, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Covington... Clifton Forge... Iron Gate... Douthat State Park... Natural Well... Selma... and Low Moor.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 9:00PM EDT by NWS Blacksburg VA\nExpires: 2026-07-06 01:30 Z\nAt 900 PM EDT, Doppler radar was tracking a strong thunderstorm over Covington, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Covington... Clifton Forge... Iron Gate... Douthat State Park... Natural Well... Selma... and Low Moor.\nGenerated: 2026-07-06 01:10:29 UTC"
   37.8400, -79.6900
   37.7900, -79.7900
   37.8000, -79.8200
@@ -29,7 +84,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 9:00PM EDT by NWS Blacksbur
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:00PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 01:30 Z\nAt 800 PM CDT, Doppler radar was tracking a strong thunderstorm over Merryville, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Merryville, Singer, Junction, and Bivens.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:00PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 01:30 Z\nAt 800 PM CDT, Doppler radar was tracking a strong thunderstorm over Merryville, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Merryville, Singer, Junction, and Bivens.\nGenerated: 2026-07-06 01:10:29 UTC"
   30.8600, -93.4800
   30.8700, -93.4600
   30.6200, -93.3300
@@ -43,7 +98,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:00PM CDT by NWS Lake Char
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:58PM EDT by NWS Blacksburg VA\nExpires: 2026-07-06 01:45 Z\nAt 858 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wirtz to Meadows Of Dan. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount... Bassett... Sydnorsville... Ferrum... Woolwine... Penhook... and Endicott.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:58PM EDT by NWS Blacksburg VA\nExpires: 2026-07-06 01:45 Z\nAt 858 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wirtz to Meadows Of Dan. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount... Bassett... Sydnorsville... Ferrum... Woolwine... Penhook... and Endicott.\nGenerated: 2026-07-06 01:10:29 UTC"
   36.7300, -80.4200
   37.1000, -79.9200
   37.0700, -79.6100
@@ -56,7 +111,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:58PM EDT by NWS Blacksbur
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:58PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-06 01:30 Z\nAt 858 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Abbeville, or 4 miles southeast of Lake Secession, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Calhoun Falls, Lake Secession, Lake Russell, and Antreville.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:58PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-06 01:30 Z\nAt 858 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Abbeville, or 4 miles southeast of Lake Secession, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Calhoun Falls, Lake Secession, Lake Russell, and Antreville.\nGenerated: 2026-07-06 01:10:29 UTC"
   34.0900, -82.6400
   34.1100, -82.6600
   34.3000, -82.6000
@@ -67,7 +122,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:58PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:56PM EDT by NWS Upton NY\nExpires: 2026-07-06 01:45 Z\nAt 855 PM EDT, Doppler radar was tracking a strong thunderstorm over Colonia, or near Linden, moving east at 35 mph.  HAZARD...Winds in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jersey City, Elizabeth, Flatbush, Bayonne, Hoboken, Plainfield, Linden, Coney Island, Todt Hill, Crown Heights, Huguenot, Midtown Manhattan, The Verrazano Narrows Bridge, Canarsie, and Bay Ridge.  This includes the following event locations Brooklyn Bridge Park, Liberty State Park, Governors Island, Sullivans Homeport Pier, Battery Park, Hoboken Waterfront, Hudson River Park Pier 34, East River Promenade, Hunters Point, and Staten Island University Hospital Community Park.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:56PM EDT by NWS Upton NY\nExpires: 2026-07-06 01:45 Z\nAt 855 PM EDT, Doppler radar was tracking a strong thunderstorm over Colonia, or near Linden, moving east at 35 mph.  HAZARD...Winds in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jersey City, Elizabeth, Flatbush, Bayonne, Hoboken, Plainfield, Linden, Coney Island, Todt Hill, Crown Heights, Huguenot, Midtown Manhattan, The Verrazano Narrows Bridge, Canarsie, and Bay Ridge.  This includes the following event locations Brooklyn Bridge Park, Liberty State Park, Governors Island, Sullivans Homeport Pier, Battery Park, Hoboken Waterfront, Hudson River Park Pier 34, East River Promenade, Hunters Point, and Staten Island University Hospital Community Park.\nGenerated: 2026-07-06 01:10:29 UTC"
   40.5000, -74.2600
   40.5200, -74.2500
   40.5500, -74.2500
@@ -92,7 +147,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:56PM EDT by NWS Upton NY\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:53PM CDT by NWS Springfield MO\nExpires: 2026-07-06 01:45 Z\nAt 753 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles west of Laurie, or 17 miles northwest of Camdenton, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake of The Ozarks, Lake of The Ozarks State Park, Osage Beach, Camdenton, Sunrise Beach, Linn Creek, Macks Creek, Climax Springs, Green Bay Terrace, Hurricane Deck, Old Linn Creek, Barnumton, Purvis, and Roach.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:53PM CDT by NWS Springfield MO\nExpires: 2026-07-06 01:45 Z\nAt 753 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles west of Laurie, or 17 miles northwest of Camdenton, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake of The Ozarks, Lake of The Ozarks State Park, Osage Beach, Camdenton, Sunrise Beach, Linn Creek, Macks Creek, Climax Springs, Green Bay Terrace, Hurricane Deck, Old Linn Creek, Barnumton, Purvis, and Roach.\nGenerated: 2026-07-06 01:10:29 UTC"
   38.2100, -92.9900
   38.2000, -93.0200
   38.1900, -92.9900
@@ -111,7 +166,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:53PM CDT by NWS Springfie
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 6:49PM MDT by NWS Glasgow MT\nExpires: 2026-07-06 01:15 Z\nAt 649 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles southwest of Mosby, or 14 miles southeast of Winnett, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mosby, Cat Creek, and Petrolia Lake.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 6:49PM MDT by NWS Glasgow MT\nExpires: 2026-07-06 01:15 Z\nAt 649 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles southwest of Mosby, or 14 miles southeast of Winnett, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mosby, Cat Creek, and Petrolia Lake.\nGenerated: 2026-07-06 01:10:29 UTC"
   46.7500, -108.2600
   46.8800, -108.4200
   47.2500, -107.8900
@@ -128,7 +183,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 6:49PM MDT by NWS Glasgow M
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:48PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 01:30 Z\nAt 747 PM CDT, Doppler radar was tracking a strong thunderstorm over Lake Charles, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Lake Charles, Westlake, Lake Charles Regional Airport, and Holmwood.  This includes the following highways... Interstate 10 in Louisiana between mile markers 26 and 34. Interstate 210 between mile markers 1 and 12.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:48PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 01:30 Z\nAt 747 PM CDT, Doppler radar was tracking a strong thunderstorm over Lake Charles, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Lake Charles, Westlake, Lake Charles Regional Airport, and Holmwood.  This includes the following highways... Interstate 10 in Louisiana between mile markers 26 and 34. Interstate 210 between mile markers 1 and 12.\nGenerated: 2026-07-06 01:10:29 UTC"
   30.0800, -93.3600
   30.2700, -93.2800
   30.2600, -93.2000
@@ -139,7 +194,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:48PM CDT by NWS Lake Char
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:47PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 01:15 Z\nAt 747 PM CDT, Doppler radar was tracking a strong thunderstorm near Lunita, or 8 miles south of De Quincy, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Sulphur, Vinton, Edgerly, and Carlyss.  This includes Interstate 10 in Louisiana between mile markers 9 and 20.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:47PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 01:15 Z\nAt 747 PM CDT, Doppler radar was tracking a strong thunderstorm near Lunita, or 8 miles south of De Quincy, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Sulphur, Vinton, Edgerly, and Carlyss.  This includes Interstate 10 in Louisiana between mile markers 9 and 20.\nGenerated: 2026-07-06 01:10:29 UTC"
   30.4000, -93.5800
   30.4000, -93.4900
   30.4200, -93.4900
@@ -150,7 +205,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:47PM CDT by NWS Lake Char
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:46PM CDT by NWS Amarillo TX\nExpires: 2026-07-06 01:15 Z\nAt 746 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Cactus, or 15 miles south of Stratford, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dumas, Stratford, Cactus, Sunray, and Conlen.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:46PM CDT by NWS Amarillo TX\nExpires: 2026-07-06 01:15 Z\nAt 746 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Cactus, or 15 miles south of Stratford, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dumas, Stratford, Cactus, Sunray, and Conlen.\nGenerated: 2026-07-06 01:10:29 UTC"
   35.8700, -102.2700
   36.4200, -102.2700
   36.4300, -101.7800
@@ -160,7 +215,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:46PM CDT by NWS Amarillo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:45PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-06 01:15 Z\nAt 845 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Abbeville, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Greenwood, Abbeville, Ninety Six, Cokesbury, Hodges, Lake Greenwood State Park, Greenwood State Park, Ninety Six Historic Site, Lake Greenwood, and Due West.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:45PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-06 01:15 Z\nAt 845 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Abbeville, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Greenwood, Abbeville, Ninety Six, Cokesbury, Hodges, Lake Greenwood State Park, Greenwood State Park, Ninety Six Historic Site, Lake Greenwood, and Due West.\nGenerated: 2026-07-06 01:10:29 UTC"
   34.1400, -82.4200
   34.3200, -82.4400
   34.3700, -82.1900
@@ -181,7 +236,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:45PM EDT by NWS Greenvill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:43PM EDT by NWS Columbia SC\nExpires: 2026-07-06 01:30 Z\nAt 843 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Lake Greenwood State Park, or 10 miles southwest of Newberry, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newberry, Prosperity, Newberry College, Newberry County Airport, Silverstreet, Chappells, Stoney Hill, Chappells Fire Station, Newberry County Detention Center, Bush River Fire Station, Vaughnville, and Belfast Wildlife Management Area.  This includes Interstate 26 between mile markers 68 and 74.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:43PM EDT by NWS Columbia SC\nExpires: 2026-07-06 01:30 Z\nAt 843 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Lake Greenwood State Park, or 10 miles southwest of Newberry, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newberry, Prosperity, Newberry College, Newberry County Airport, Silverstreet, Chappells, Stoney Hill, Chappells Fire Station, Newberry County Detention Center, Bush River Fire Station, Vaughnville, and Belfast Wildlife Management Area.  This includes Interstate 26 between mile markers 68 and 74.\nGenerated: 2026-07-06 01:10:29 UTC"
   34.2200, -81.9200
   34.3000, -81.9000
   34.3100, -81.8800
@@ -198,7 +253,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:43PM EDT by NWS Columbia 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:40PM CDT by NWS Midland/Odessa TX\nExpires: 2026-07-06 01:30 Z\nAt 740 PM CDT/640 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles west of Clairemont to near Justiceburg to near New Moore to 8 miles southwest of Tokio to 9 miles north of Bronco. Movement was south at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hobbs, Snyder, Lamesa, Seminole, Seagraves, Ackerly, Gail, Seagraves Airport, Humble City, Gaines County Airport, Welch, Fluvanna, J B Thomas Reservoir, Lamesa Municipal Airport, Los Ybanez, Patricia, Arvana, Hancock, McKenzie Lake, and Gaines County Park.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:40PM CDT by NWS Midland/Odessa TX\nExpires: 2026-07-06 01:30 Z\nAt 740 PM CDT/640 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles west of Clairemont to near Justiceburg to near New Moore to 8 miles southwest of Tokio to 9 miles north of Bronco. Movement was south at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hobbs, Snyder, Lamesa, Seminole, Seagraves, Ackerly, Gail, Seagraves Airport, Humble City, Gaines County Airport, Welch, Fluvanna, J B Thomas Reservoir, Lamesa Municipal Airport, Los Ybanez, Patricia, Arvana, Hancock, McKenzie Lake, and Gaines County Park.\nGenerated: 2026-07-06 01:10:29 UTC"
   32.5300, -101.4000
   32.5200, -102.3000
   32.7700, -103.4000
@@ -210,7 +265,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:40PM CDT by NWS Midland/O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:39PM CDT by NWS Houston/Galveston TX\nExpires: 2026-07-06 01:15 Z\nAt 739 PM CDT, Doppler radar was tracking a strong thunderstorm near Coldspring, or 15 miles northwest of Cleveland, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shepherd, Coldspring, and Evergreen.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:39PM CDT by NWS Houston/Galveston TX\nExpires: 2026-07-06 01:15 Z\nAt 739 PM CDT, Doppler radar was tracking a strong thunderstorm near Coldspring, or 15 miles northwest of Cleveland, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shepherd, Coldspring, and Evergreen.\nGenerated: 2026-07-06 01:10:29 UTC"
   30.5200, -95.3200
   30.6600, -95.2000
   30.5400, -94.9300
@@ -219,7 +274,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:39PM CDT by NWS Houston/G
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:37PM EDT by NWS Tallahassee FL\nExpires: 2026-07-06 01:30 Z\nAt 837 PM EDT/737 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Fort Gaines to Kinsey. Movement was northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Abbeville, Fort Gaines, Headland, Kinsey, Webb, Columbia, Newville, Haleburg, Shorterville, Walter F. George Lock And Dam, Walter F George Lake, Tumbleton, Standleys Store, Sigma, Grandberry Crossroads, Hayes, Watson Crossroads, Scottsboro Crossroads, Double Bridges, and Ricks Place.\nGenerated: 2026-07-06 01:05:12 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:37PM EDT by NWS Tallahassee FL\nExpires: 2026-07-06 01:30 Z\nAt 837 PM EDT/737 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Fort Gaines to Kinsey. Movement was northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Abbeville, Fort Gaines, Headland, Kinsey, Webb, Columbia, Newville, Haleburg, Shorterville, Walter F. George Lock And Dam, Walter F George Lake, Tumbleton, Standleys Store, Sigma, Grandberry Crossroads, Hayes, Watson Crossroads, Scottsboro Crossroads, Double Bridges, and Ricks Place.\nGenerated: 2026-07-06 01:10:29 UTC"
   31.7800, -85.0800
   31.7700, -85.0700
   31.7800, -84.9600
