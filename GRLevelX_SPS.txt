@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-06 02:20:24 UTC
+; Generated: 2026-07-06 02:25:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 10:15PM EDT by NWS Albany NY\nExpires: 2026-07-06 03:15 Z\nAt 1014 PM EDT, Doppler radar was tracking a strong thunderstorm over Ellenville, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Paltz, Ellenville, Wallkill, Plattekill, Highland, Modena, Kerhonkson, Napanoch, Wawarsing, Lloyd, Crawford, Gardiner, Tuckers Corner, Forest Glen, Dwaarkill, Awosting, Elting Corners, Ireland Corners, Cragsmoor, and Honk Hill.  This includes Interstate 87 near exit 18.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:21PM MDT by NWS Great Falls MT\nExpires: 2026-07-06 03:15 Z\nAt 819 PM MDT, Doppler radar was tracking strong gusty winds from distant thunderstorms moving south towards the Hi-Line.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shelby, Cut Bank, Chester, Sunburst, Kevin, Inverness, Lothair, Joplin, Sweet Grass, Hingham, Ethridge, Oilmont, Rudyard, Galata, Santa Rita, Whitlash, Ferdig, Devon, and Dunkirk.\nGenerated: 2026-07-06 02:25:13 UTC"
+  48.9900, -110.2900
+  48.4000, -110.3500
+  48.4100, -111.5600
+  48.5500, -112.5700
+  49.0000, -112.4200
+  48.9900, -110.2900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 5 at 10:15PM EDT by NWS Albany NY\nExpires: 2026-07-06 03:15 Z\nAt 1014 PM EDT, Doppler radar was tracking a strong thunderstorm over Ellenville, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Paltz, Ellenville, Wallkill, Plattekill, Highland, Modena, Kerhonkson, Napanoch, Wawarsing, Lloyd, Crawford, Gardiner, Tuckers Corner, Forest Glen, Dwaarkill, Awosting, Elting Corners, Ireland Corners, Cragsmoor, and Honk Hill.  This includes Interstate 87 near exit 18.\nGenerated: 2026-07-06 02:25:13 UTC"
   41.6000, -74.0700
   41.6000, -74.0900
   41.6200, -74.1300
@@ -25,7 +35,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 10:15PM EDT by NWS Albany N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 9:15PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 02:45 Z\nAt 915 PM CDT, Doppler radar was tracking a strong thunderstorm near Mauriceville, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Orange, Vidor, Bridge City, West Orange, Mauriceville, Pinehurst, Orangefield, and Forest Heights.  This includes Interstate 10 in Texas between mile markers 880 and 864.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 9:15PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 02:45 Z\nAt 915 PM CDT, Doppler radar was tracking a strong thunderstorm near Mauriceville, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Orange, Vidor, Bridge City, West Orange, Mauriceville, Pinehurst, Orangefield, and Forest Heights.  This includes Interstate 10 in Texas between mile markers 880 and 864.\nGenerated: 2026-07-06 02:25:13 UTC"
   30.2400, -93.7300
   30.2200, -93.7100
   30.2100, -93.7200
@@ -47,7 +57,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 9:15PM CDT by NWS Lake Char
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 9:15PM CDT by NWS Amarillo TX\nExpires: 2026-07-06 02:45 Z\nAt 915 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles west of Sanford to 7 miles southwest of Lake Meredith to 7 miles east of Valley De Oro. Movement was southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Amarillo, Borger, Fritch, Stinnett, Sanford, Four Way, Masterson, and Lake Meredith.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 9:15PM CDT by NWS Amarillo TX\nExpires: 2026-07-06 02:45 Z\nAt 915 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles west of Sanford to 7 miles southwest of Lake Meredith to 7 miles east of Valley De Oro. Movement was southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Amarillo, Borger, Fritch, Stinnett, Sanford, Four Way, Masterson, and Lake Meredith.\nGenerated: 2026-07-06 02:25:13 UTC"
   35.8500, -101.2500
   35.4600, -101.6100
   35.2600, -101.9100
@@ -58,7 +68,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 9:15PM CDT by NWS Amarillo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 7:14PM PDT by NWS Medford OR\nExpires: 2026-07-06 02:45 Z\nAt 714 PM PDT, Doppler radar was tracking a strong thunderstorm near Dairy Point Campground, or 22 miles northwest of Lakeview, moving northwest at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Moss Pass Trailhead, Happy Camp Campground, and Dairy Point Campground.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 7:14PM PDT by NWS Medford OR\nExpires: 2026-07-06 02:45 Z\nAt 714 PM PDT, Doppler radar was tracking a strong thunderstorm near Dairy Point Campground, or 22 miles northwest of Lakeview, moving northwest at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Moss Pass Trailhead, Happy Camp Campground, and Dairy Point Campground.\nGenerated: 2026-07-06 02:25:13 UTC"
   42.4200, -120.4400
   42.3600, -120.5200
   42.4200, -120.7500
@@ -67,7 +77,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 7:14PM PDT by NWS Medford O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 10:10PM EDT by NWS State College PA\nExpires: 2026-07-06 02:45 Z\nAt 1007 PM EDT, Doppler radar was tracking a line of showers and thunderstorms will gusty winds along a line from Weigelstown to Columbia to Gap. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down a few trees due to the very wet ground conditions. Wind speeds are expected to remain below the severe limit of 57 MPH.  Locations impacted include... Lancaster, Lebanon, Hershey, Ephrata, Weigelstown, Elizabethtown, Columbia, Lititz, Middletown, Millersville, Willow Street, Mount Joy, Palmyra, Steelton, New Holland, Manheim, Annville, Hummelstown, East Petersburg, and Cornwall.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 10:10PM EDT by NWS State College PA\nExpires: 2026-07-06 02:45 Z\nAt 1007 PM EDT, Doppler radar was tracking a line of showers and thunderstorms will gusty winds along a line from Weigelstown to Columbia to Gap. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down a few trees due to the very wet ground conditions. Wind speeds are expected to remain below the severe limit of 57 MPH.  Locations impacted include... Lancaster, Lebanon, Hershey, Ephrata, Weigelstown, Elizabethtown, Columbia, Lititz, Middletown, Millersville, Willow Street, Mount Joy, Palmyra, Steelton, New Holland, Manheim, Annville, Hummelstown, East Petersburg, and Cornwall.\nGenerated: 2026-07-06 02:25:13 UTC"
   39.9400, -76.4700
   40.0200, -76.9100
   40.4500, -76.6900
@@ -88,7 +98,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 10:10PM EDT by NWS State Co
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 9:06PM CDT by NWS Paducah KY\nExpires: 2026-07-06 02:30 Z\nAt 906 PM CDT, Doppler radar was tracking a strong thunderstorm near Thompsonville, or 9 miles east of Johnston City, moving south at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marion, Harrisburg, Pittsburg, and Carrier Mills.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 9:06PM CDT by NWS Paducah KY\nExpires: 2026-07-06 02:30 Z\nAt 906 PM CDT, Doppler radar was tracking a strong thunderstorm near Thompsonville, or 9 miles east of Johnston City, moving south at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marion, Harrisburg, Pittsburg, and Carrier Mills.\nGenerated: 2026-07-06 02:25:13 UTC"
   37.9000, -88.8600
   37.9000, -88.6400
   37.6900, -88.5800
@@ -97,7 +107,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 9:06PM CDT by NWS Paducah K
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 10:02PM EDT by NWS Peachtree City GA\nExpires: 2026-07-06 02:30 Z\nAt 1001 PM EDT, a strong thunderstorm was over Renfroe, or near Cusseta, moving northeast at 20 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Columbus, Lumpkin, Buena Vista, Cusseta, Preston, Richland, Waverly Hall, Geneva, North Fort Benning, Fort Benning/Lawson Army Air Fld, Bibb City, Upatoi, Putnam, Brantley, Seminole, Shiloh, Green Island Hills, Juniper, Cataula, and Columbus Metropolitan Airport.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 10:02PM EDT by NWS Peachtree City GA\nExpires: 2026-07-06 02:30 Z\nAt 1001 PM EDT, a strong thunderstorm was over Renfroe, or near Cusseta, moving northeast at 20 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Columbus, Lumpkin, Buena Vista, Cusseta, Preston, Richland, Waverly Hall, Geneva, North Fort Benning, Fort Benning/Lawson Army Air Fld, Bibb City, Upatoi, Putnam, Brantley, Seminole, Shiloh, Green Island Hills, Juniper, Cataula, and Columbus Metropolitan Airport.\nGenerated: 2026-07-06 02:25:13 UTC"
   31.9400, -84.6900
   32.2200, -84.9700
   32.2200, -84.9300
@@ -122,7 +132,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 10:02PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 9:02PM CDT by NWS Paducah KY\nExpires: 2026-07-06 02:30 Z\nAt 902 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Dongola to near Mounds to near Wyatt. Movement was southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cairo, Mounds, Tamms, Mound City, Ullin, Olmsted, and Pulaski.  This includes the following highways... Interstate 57 in Illinois between Mile Markers 1 and 19. Interstate 57 in Missouri between Mile Markers 14 and 21.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 9:02PM CDT by NWS Paducah KY\nExpires: 2026-07-06 02:30 Z\nAt 902 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Dongola to near Mounds to near Wyatt. Movement was southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cairo, Mounds, Tamms, Mound City, Ullin, Olmsted, and Pulaski.  This includes the following highways... Interstate 57 in Illinois between Mile Markers 1 and 19. Interstate 57 in Missouri between Mile Markers 14 and 21.\nGenerated: 2026-07-06 02:25:13 UTC"
   37.0100, -89.3300
   37.0100, -89.3100
   37.0200, -89.3300
@@ -135,7 +145,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 9:02PM CDT by NWS Paducah K
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:01PM MDT by NWS Great Falls MT\nExpires: 2026-07-06 03:00 Z\nAt 800 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 19 miles west of Dillon to 30 miles northeast of Leadore. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dillon, Sheridan, Grant, Beaverhead Rock State Park, Polaris, Bannack, Clark Canyon, Bannack State Park, and Glen.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:01PM MDT by NWS Great Falls MT\nExpires: 2026-07-06 03:00 Z\nAt 800 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 19 miles west of Dillon to 30 miles northeast of Leadore. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dillon, Sheridan, Grant, Beaverhead Rock State Park, Polaris, Bannack, Clark Canyon, Bannack State Park, and Glen.\nGenerated: 2026-07-06 02:25:13 UTC"
   45.5000, -112.1400
   44.8600, -112.1700
   44.9200, -113.1200
@@ -144,7 +154,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:01PM MDT by NWS Great Fal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:58PM CDT by NWS Bismarck ND\nExpires: 2026-07-06 02:30 Z\nAt 858 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles south of International Peace Garden, or 18 miles east of Bottineau, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... International Peace Garden and Dunseith around 900 PM CDT. Belcourt around 920 PM CDT. St. John and Rolla around 925 PM CDT.  Other locations impacted by this strong thunderstorm include Shell Valley and Turtle Mountain.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:58PM CDT by NWS Bismarck ND\nExpires: 2026-07-06 02:30 Z\nAt 858 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles south of International Peace Garden, or 18 miles east of Bottineau, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... International Peace Garden and Dunseith around 900 PM CDT. Belcourt around 920 PM CDT. St. John and Rolla around 925 PM CDT.  Other locations impacted by this strong thunderstorm include Shell Valley and Turtle Mountain.\nGenerated: 2026-07-06 02:25:13 UTC"
   49.0000, -99.6300
   48.8700, -99.5600
   48.7200, -99.6400
@@ -154,7 +164,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:58PM CDT by NWS Bismarck 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:55PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 02:30 Z\nAt 855 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Mauriceville to 6 miles southwest of Ragley. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Charles, Sulphur, Orange, Vidor, Bridge City, Westlake, West Orange, Vinton, Deweyville, Moss Bluff, De Quincy, Starks, Mauriceville, Gist, Lunita, Hartburg, Toomey, Edgerly, Devils Pocket, and Oretta.  This includes the following highways... Interstate 10 in Texas between mile markers 880 and 863. Interstate 10 in Louisiana between mile markers 1 and 35. Interstate 210 between mile markers 1 and 2, and near mile marker 12.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:55PM CDT by NWS Lake Charles LA\nExpires: 2026-07-06 02:30 Z\nAt 855 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Mauriceville to 6 miles southwest of Ragley. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Charles, Sulphur, Orange, Vidor, Bridge City, Westlake, West Orange, Vinton, Deweyville, Moss Bluff, De Quincy, Starks, Mauriceville, Gist, Lunita, Hartburg, Toomey, Edgerly, Devils Pocket, and Oretta.  This includes the following highways... Interstate 10 in Texas between mile markers 880 and 863. Interstate 10 in Louisiana between mile markers 1 and 35. Interstate 210 between mile markers 1 and 2, and near mile marker 12.\nGenerated: 2026-07-06 02:25:13 UTC"
   29.9900, -93.9000
   30.2600, -93.0900
   30.5700, -93.4200
@@ -163,7 +173,7 @@ Line: 2,,"Special Weather Statement issued July 5 at 8:55PM CDT by NWS Lake Char
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 5 at 8:49PM CDT by NWS Fort Worth TX\nExpires: 2026-07-06 02:45 Z\nAt 848 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Comanche to near Brownwood. Movement was south at 30 mph.  HAZARD...Winds of 40 to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Mullin around 905 PM CDT. Goldthwaite around 925 PM CDT.  Other locations impacted by these storms include Regency, Bozar, Priddy, Indian Gap, Newburg, Center City, Star, Democrat, Van Dyke, and Pottsville.\nGenerated: 2026-07-06 02:20:24 UTC"
+Line: 2,,"Special Weather Statement issued July 5 at 8:49PM CDT by NWS Fort Worth TX\nExpires: 2026-07-06 02:45 Z\nAt 848 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Comanche to near Brownwood. Movement was south at 30 mph.  HAZARD...Winds of 40 to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Mullin around 905 PM CDT. Goldthwaite around 925 PM CDT.  Other locations impacted by these storms include Regency, Bozar, Priddy, Indian Gap, Newburg, Center City, Star, Democrat, Van Dyke, and Pottsville.\nGenerated: 2026-07-06 02:25:13 UTC"
   31.6100, -98.7800
   31.6900, -98.7600
   31.7000, -98.6700
