@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-07 17:40:27 UTC
+; Generated: 2026-07-07 17:45:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 12:36PM CDT by NWS Huntsville AL\nExpires: 2026-07-07 18:15 Z\nAt 1235 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Leighton to near Phil Campbell. Movement was northeast at 15 mph.  HAZARD...Wind gusts up to 45 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Town Creek, Littleville, Leighton, Hatton, Newburg, Mt Hope, La Grange, Tharptown, Ne Smith, and Whiteoak.\nGenerated: 2026-07-07 17:40:27 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 1:43PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-07 18:30 Z\nAt 142 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Newton, or 6 miles north of Denver, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Statesville, Newton, Mooresville, Maiden, Troutman, Claremont, Catawba, Lake Norman, Lake Norman State Park, and Denver.\nGenerated: 2026-07-07 17:45:14 UTC"
+  35.5000, -81.2000
+  35.5700, -81.3200
+  35.6900, -81.2500
+  35.8700, -80.7900
+  35.5200, -80.6700
+  35.5000, -81.2000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 7 at 12:43PM CDT by NWS Lake Charles LA\nExpires: 2026-07-07 18:15 Z\nAt 1243 PM CDT, Doppler radar was tracking a strong thunderstorm near Welsh, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Welsh, Iowa, Fenton, Pine Island, Lacassine, and Roanoke.  This includes Interstate 10 in Louisiana between mile markers 44 and 60.\nGenerated: 2026-07-07 17:45:14 UTC"
+  30.1300, -93.0100
+  30.2500, -93.0100
+  30.2500, -93.0000
+  30.2600, -93.0000
+  30.2600, -93.0100
+  30.3600, -93.0100
+  30.4400, -92.7700
+  30.1600, -92.7000
+  30.1300, -93.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 7 at 12:36PM CDT by NWS Huntsville AL\nExpires: 2026-07-07 18:15 Z\nAt 1235 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Leighton to near Phil Campbell. Movement was northeast at 15 mph.  HAZARD...Wind gusts up to 45 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Town Creek, Littleville, Leighton, Hatton, Newburg, Mt Hope, La Grange, Tharptown, Ne Smith, and Whiteoak.\nGenerated: 2026-07-07 17:45:14 UTC"
   34.6700, -87.6700
   34.8000, -87.4100
   34.8000, -87.3800
@@ -15,7 +38,7 @@ Line: 2,,"Special Weather Statement issued July 7 at 12:36PM CDT by NWS Huntsvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 12:33PM CDT by NWS Grand Forks ND\nExpires: 2026-07-07 18:15 Z\nAt 1233 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles north of Trinity Lutheran Country Church, or 13 miles southeast of Wheaton, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hoffman, Herman, Barrett, Norcross, and Erdahl.\nGenerated: 2026-07-07 17:40:27 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 12:33PM CDT by NWS Grand Forks ND\nExpires: 2026-07-07 18:15 Z\nAt 1233 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles north of Trinity Lutheran Country Church, or 13 miles southeast of Wheaton, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hoffman, Herman, Barrett, Norcross, and Erdahl.\nGenerated: 2026-07-07 17:45:14 UTC"
   45.8800, -96.2500
   46.0200, -95.7700
   45.9300, -95.7700
@@ -26,7 +49,7 @@ Line: 2,,"Special Weather Statement issued July 7 at 12:33PM CDT by NWS Grand Fo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 12:33PM CDT by NWS Lake Charles LA\nExpires: 2026-07-07 18:00 Z\nAt 1233 PM CDT, Doppler radar was tracking a strong thunderstorm near Lake Charles, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Lake Charles, Iowa, Moss Bluff, and Lebleu Settlement.  This includes the following highways... Interstate 10 in Louisiana between mile markers 32 and 44. Interstate 210 between mile markers 6 and 12.\nGenerated: 2026-07-07 17:40:27 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 12:33PM CDT by NWS Lake Charles LA\nExpires: 2026-07-07 18:00 Z\nAt 1233 PM CDT, Doppler radar was tracking a strong thunderstorm near Lake Charles, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to vegetation and outdoor objects is possible.  Locations impacted include... Lake Charles, Iowa, Moss Bluff, and Lebleu Settlement.  This includes the following highways... Interstate 10 in Louisiana between mile markers 32 and 44. Interstate 210 between mile markers 6 and 12.\nGenerated: 2026-07-07 17:45:14 UTC"
   30.1200, -93.1400
   30.1600, -93.2400
   30.3800, -93.1500
@@ -35,57 +58,10 @@ Line: 2,,"Special Weather Statement issued July 7 at 12:33PM CDT by NWS Lake Cha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 1:31PM EDT by NWS Wilmington NC\nExpires: 2026-07-07 17:45 Z\nAt 131 PM EDT, Doppler radar was tracking a strong thunderstorm over Figure Eight Island, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wilmington, Rich Inlet, Figure Eight Island, Hampstead, Topsail Beach, Bayshore, Scotts Hill, Ogden, Porters Neck, Landfall, and Murrayville.\nGenerated: 2026-07-07 17:40:27 UTC"
-  34.3400, -77.6600
-  34.3100, -77.7000
-  34.2900, -77.7200
-  34.2800, -77.7400
-  34.2200, -77.7900
-  34.2200, -77.8200
-  34.3100, -77.8500
-  34.3300, -77.7800
-  34.3200, -77.7600
-  34.3400, -77.7300
-  34.3600, -77.6400
-  34.3400, -77.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 1:24PM EDT by NWS Tallahassee FL\nExpires: 2026-07-07 18:00 Z\nAt 124 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Carrabelle, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crawfordville, Sopchoppy, Medart, Buckhorn, Arran, Mcintyre, Lanark Village, Sanborn, Curtis Mill, and Tully.\nGenerated: 2026-07-07 17:40:27 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 1:24PM EDT by NWS Tallahassee FL\nExpires: 2026-07-07 18:00 Z\nAt 124 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Carrabelle, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crawfordville, Sopchoppy, Medart, Buckhorn, Arran, Mcintyre, Lanark Village, Sanborn, Curtis Mill, and Tully.\nGenerated: 2026-07-07 17:45:14 UTC"
   29.9300, -84.7200
   30.2800, -84.5600
   30.1300, -84.3000
   29.8600, -84.5600
   29.9300, -84.7200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 12:12PM CDT by NWS Tallahassee FL\nExpires: 2026-07-07 17:45 Z\nAt 1212 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles east of De Funiak Springs, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Funiak Springs, Bonifay, Union, Ponce De Leon, Caryville, Westville, Hinsons Crossroads, Whitehead Crossroads, Cerrogordo, Gritney, Arrant Settlement, Center Ridge, Knox Hill, Hickory Hill, Izagora, New Hope, Argyle, Johnson Crossroads, Red Bay, and Douglass Crossroad.\nGenerated: 2026-07-07 17:40:27 UTC"
-  30.9900, -85.8900
-  30.9900, -85.8700
-  30.7600, -85.6000
-  30.5500, -86.0200
-  30.7600, -86.1700
-  30.9900, -85.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 12:09PM CDT by NWS Shreveport LA\nExpires: 2026-07-07 17:45 Z\nAt 1209 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Arp, or 10 miles northeast of Whitehouse, and is stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... New Chapel Hill.\nGenerated: 2026-07-07 17:40:27 UTC"
-  32.2800, -95.1700
-  32.3800, -95.1700
-  32.3800, -95.0300
-  32.2800, -95.0300
-  32.2800, -95.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 1:08PM EDT by NWS Tallahassee FL\nExpires: 2026-07-07 17:45 Z\nAt 108 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Ochlocknee to 9 miles north of Monticello. Movement was northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moultrie, Thomasville, Boston, Ochlocknee, Pavo, Coolidge, Riverside, Barwick, Thomasville Municipal A/P, Grooverville, Dillon, Everett, Enon, South Moultrie, Merrillville, Chastain, Moultrie Municipal A/P, Empress, Quality, and Murphy.\nGenerated: 2026-07-07 17:40:27 UTC"
-  30.6700, -83.9500
-  30.9800, -84.1200
-  31.0800, -84.1200
-  31.0800, -84.0100
-  31.1200, -83.9400
-  31.1900, -83.7800
-  30.6500, -83.5400
-  30.6700, -83.9500
 End:
