@@ -3,17 +3,43 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-07 10:40:31 UTC
+; Generated: 2026-07-07 10:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 5:02AM CDT by NWS Shreveport LA\nExpires: 2026-07-07 10:45 Z\nAt 502 AM CDT, Doppler radar was tracking a strong thunderstorm near Queen City, or near Atlanta, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Atlanta, Vivian, Linden, Queen City, Plain Dealing, Bradley, Hosston, Rodessa, Ida, Gilliam, Ravanna, Brightstar, McLeod, Bivins, Canfield, Bloomburg, Domino, Kiblah, Canale and Fort Lynn.\nGenerated: 2026-07-07 10:40:31 UTC"
-  33.0100, -94.3900
-  33.2400, -94.2700
-  33.2400, -94.2300
-  33.2700, -94.2300
-  33.2000, -93.5600
-  32.7500, -93.7700
-  32.8600, -94.0400
-  32.8800, -94.0400
-  32.8800, -94.0800
-  33.0100, -94.3900
+Line: 2,,"Special Weather Statement issued July 7 at 6:41AM EDT by NWS Tallahassee FL\nExpires: 2026-07-07 11:15 Z\nAt 641 AM EDT/541 AM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Eglin Air Force Base to 9 miles southwest of De Funiak Springs to 8 miles east of Santa Rosa Beach. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Funiak Springs, Eglin Air Force Base, Freeport, Ebro, Oakwood Hills, Red Bay, Portland, Douglass Crossroad, Alpine Heights, Seminole Hills, De Funiak Spring Airport, Seaside, Rock Hill, Point Washington, Bruce, Eucheeanna, Pleasant Ridge, Pine Log, New Home, and Bunker.\nGenerated: 2026-07-07 10:45:15 UTC"
+  30.7800, -86.2600
+  30.7700, -86.0400
+  30.7000, -86.0300
+  30.7000, -85.8500
+  30.6300, -85.9200
+  30.4900, -85.8600
+  30.4400, -85.9000
+  30.4000, -86.0000
+  30.4200, -85.8700
+  30.3800, -85.8700
+  30.2800, -86.1700
+  30.4000, -86.2000
+  30.3900, -86.1100
+  30.4400, -86.1600
+  30.4700, -86.1300
+  30.4600, -86.1900
+  30.5000, -86.2000
+  30.4700, -86.2900
+  30.5700, -86.3900
+  30.6200, -86.3900
+  30.7800, -86.2600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 7 at 5:40AM CDT by NWS New Orleans LA\nExpires: 2026-07-07 11:15 Z\nAt 539 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing waterspouts over marine areas near Golden Meadow, or 9 miles south of Galliano, moving west at 40 mph.  HAZARD...Waterspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Galliano, Golden Meadow, and Leeville.\nGenerated: 2026-07-07 10:45:15 UTC"
+  29.2300, -90.3000
+  29.2600, -90.3500
+  29.2500, -90.4100
+  29.3100, -90.4300
+  29.2700, -90.4900
+  29.2900, -90.5200
+  29.2900, -90.5600
+  29.3900, -90.5800
+  29.4100, -90.2200
+  29.2100, -90.1700
+  29.2300, -90.3000
 End:
