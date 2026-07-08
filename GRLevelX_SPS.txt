@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-08 04:00:34 UTC
+; Generated: 2026-07-08 04:05:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 9:58PM MDT by NWS Rapid City SD\nExpires: 2026-07-08 04:30 Z\nAt 958 PM MDT, Doppler radar was tracking a strong thunderstorm near Philip, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Philip, Ottumwa, Grindstone Butte and Nowlin.\nGenerated: 2026-07-08 04:00:34 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 11:00PM CDT by NWS Aberdeen SD\nExpires: 2026-07-08 04:45 Z\nAt 1100 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Grassland Colony to near Westport to near Richmond Lake Rec Area to 6 miles southwest of Aberdeen to near Mansfield. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Aberdeen, Warner, Mina Lake Rec Area, Bath, Columbia, Westport, Grassland Colony, Putney, Hutterville Colony, Stratford, Wetonka, Mina, Barnard, Tacoma Park, North Scatterwood Lake, Richmond Lake Rec Area, and Sand Lake Wildlife Refuge.\nGenerated: 2026-07-08 04:05:12 UTC"
+  45.8000, -98.3300
+  45.6600, -98.1200
+  45.5900, -98.1100
+  45.4500, -98.1400
+  45.2500, -98.2200
+  45.2500, -98.8000
+  45.4200, -98.7900
+  45.5600, -98.7600
+  45.6300, -98.7800
+  45.7000, -98.8700
+  45.8000, -98.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 7 at 9:58PM MDT by NWS Rapid City SD\nExpires: 2026-07-08 04:30 Z\nAt 958 PM MDT, Doppler radar was tracking a strong thunderstorm near Philip, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Philip, Ottumwa, Grindstone Butte and Nowlin.\nGenerated: 2026-07-08 04:05:12 UTC"
   43.9900, -101.8800
   44.2100, -101.9700
   44.4400, -101.3300
@@ -15,7 +30,7 @@ Line: 2,,"Special Weather Statement issued July 7 at 9:58PM MDT by NWS Rapid Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 10:58PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-07-08 04:45 Z\nAt 1058 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles southeast of Motley to near Lake Osakis, or extending from 23 miles northwest of Little Falls to 9 miles east of Alexandria, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Nelson, Eagle Bend, Clarissa, Lake Osakis, Browerville, Long Prairie, Cushing, Randall, Little Sauk, Round Prairie, Camp Ripley, Grey Eagle, Little Falls, Flensburg, Swanville, Sobieski, Upsala, Bowlus and Royalton.\nGenerated: 2026-07-08 04:00:34 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 10:58PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-07-08 04:45 Z\nAt 1058 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles southeast of Motley to near Lake Osakis, or extending from 23 miles northwest of Little Falls to 9 miles east of Alexandria, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Nelson, Eagle Bend, Clarissa, Lake Osakis, Browerville, Long Prairie, Cushing, Randall, Little Sauk, Round Prairie, Camp Ripley, Grey Eagle, Little Falls, Flensburg, Swanville, Sobieski, Upsala, Bowlus and Royalton.\nGenerated: 2026-07-08 04:05:12 UTC"
   45.7600, -95.4500
   46.2600, -94.9600
   46.3300, -94.6300
@@ -40,7 +55,7 @@ Line: 2,,"Special Weather Statement issued July 7 at 10:58PM CDT by NWS Twin Cit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 11:56PM EDT by NWS Blacksburg VA\nExpires: 2026-07-08 04:30 Z\nAt 1155 PM EDT, Doppler radar was tracking a strong thunderstorm over Francisco, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Francisco... Collinstown... Hanging Rock State Park... Capella... and Vade Mecum.\nGenerated: 2026-07-08 04:00:34 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 11:56PM EDT by NWS Blacksburg VA\nExpires: 2026-07-08 04:30 Z\nAt 1155 PM EDT, Doppler radar was tracking a strong thunderstorm over Francisco, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Francisco... Collinstown... Hanging Rock State Park... Capella... and Vade Mecum.\nGenerated: 2026-07-08 04:05:12 UTC"
   36.4600, -80.4500
   36.4700, -80.4400
   36.5500, -80.4400
@@ -52,7 +67,7 @@ Line: 2,,"Special Weather Statement issued July 7 at 11:56PM EDT by NWS Blacksbu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 9:45PM MDT by NWS Riverton WY\nExpires: 2026-07-08 04:15 Z\nAt 945 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles north of Greybull to near Basin. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Basin around 950 PM MDT. Shell around 955 PM MDT. Shell Canyon around 1000 PM MDT.\nGenerated: 2026-07-08 04:00:34 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 9:45PM MDT by NWS Riverton WY\nExpires: 2026-07-08 04:15 Z\nAt 945 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles north of Greybull to near Basin. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Basin around 950 PM MDT. Shell around 955 PM MDT. Shell Canyon around 1000 PM MDT.\nGenerated: 2026-07-08 04:05:12 UTC"
   44.5800, -107.4600
   44.1800, -107.6700
   44.4200, -108.1400
@@ -61,7 +76,7 @@ Line: 2,,"Special Weather Statement issued July 7 at 9:45PM MDT by NWS Riverton 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 9:37PM MDT by NWS Billings MT\nExpires: 2026-07-08 04:15 Z\nAt 937 PM MDT, Doppler radar was tracking a strong thunderstorm near Red Lodge, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Red Lodge, Bearcreek, Washoe and Belfry.\nGenerated: 2026-07-08 04:00:34 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 9:37PM MDT by NWS Billings MT\nExpires: 2026-07-08 04:15 Z\nAt 937 PM MDT, Doppler radar was tracking a strong thunderstorm near Red Lodge, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Red Lodge, Bearcreek, Washoe and Belfry.\nGenerated: 2026-07-08 04:05:12 UTC"
   45.2400, -109.5000
   45.2900, -109.4000
   45.0900, -108.8200
@@ -73,7 +88,7 @@ Line: 2,,"Special Weather Statement issued July 7 at 9:37PM MDT by NWS Billings 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 7 at 8:24PM PDT by NWS Boise ID\nExpires: 2026-07-08 04:15 Z\nAt 823 PM PDT, Doppler radar was tracking a gust front near Rufino Butte, or 40 miles west of Parma, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible.  This gust front will be near... Little Valley and Vines Hill around 950 PM MDT.\nGenerated: 2026-07-08 04:00:34 UTC"
+Line: 2,,"Special Weather Statement issued July 7 at 8:24PM PDT by NWS Boise ID\nExpires: 2026-07-08 04:15 Z\nAt 823 PM PDT, Doppler radar was tracking a gust front near Rufino Butte, or 40 miles west of Parma, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible.  This gust front will be near... Little Valley and Vines Hill around 950 PM MDT.\nGenerated: 2026-07-08 04:05:12 UTC"
   43.5500, -117.6100
   43.7700, -117.9700
   44.1400, -117.6000
