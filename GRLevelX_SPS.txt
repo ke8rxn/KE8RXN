@@ -3,32 +3,37 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-09 16:25:18 UTC
+; Generated: 2026-07-09 16:30:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 12:15PM EDT by NWS Grand Rapids MI\nExpires: 2026-07-09 17:00 Z\nAt 1215 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Ionia, moving east at 20 mph.  HAZARD...Landspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ionia...               Portland...            Orleans... Lyons...               Muir...                Pewamo...\nGenerated: 2026-07-09 16:25:18 UTC"
+Line: 2,,"Special Weather Statement issued July 9 at 11:25AM CDT by NWS Paducah KY\nExpires: 2026-07-09 17:00 Z\nAt 1125 AM CDT, Doppler radar was tracking a strong thunderstorm near Daisy, or 8 miles north of Jackson, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cape Girardeau, Jackson, Trail Of Tears State Park, Bollinger Mill State Historic Site, Daisy, Millersville, Oak Ridge, Pocahontas, and Old Appleton.  This includes Interstate 55 between Mile Markers 99 and 119.\nGenerated: 2026-07-09 16:30:24 UTC"
+  37.3800, -89.8600
+  37.4600, -89.8600
+  37.6000, -89.8200
+  37.6100, -89.8000
+  37.6000, -89.8000
+  37.5900, -89.7600
+  37.6000, -89.7300
+  37.5900, -89.7200
+  37.6000, -89.6900
+  37.5800, -89.6800
+  37.6000, -89.6400
+  37.5900, -89.6400
+  37.6000, -89.6000
+  37.5800, -89.5900
+  37.5700, -89.5200
+  37.5000, -89.5000
+  37.4000, -89.4200
+  37.3500, -89.4300
+  37.3400, -89.4800
+  37.3100, -89.5100
+  37.3800, -89.8600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 9 at 12:15PM EDT by NWS Grand Rapids MI\nExpires: 2026-07-09 17:00 Z\nAt 1215 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Ionia, moving east at 20 mph.  HAZARD...Landspouts and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ionia...               Portland...            Orleans... Lyons...               Muir...                Pewamo...\nGenerated: 2026-07-09 16:30:24 UTC"
   43.0000, -85.2100
   43.1100, -85.1400
   43.0700, -84.8400
   42.8600, -84.8400
   43.0000, -85.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 11:01AM CDT by NWS Bismarck ND\nExpires: 2026-07-09 16:30 Z\nAt 1100 AM CDT, Doppler radar was tracking a strong thunderstorm near Anamoose, or 13 miles west of Harvey, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harvey, Drake, Anamoose, Martin, Sheyenne Lake, and Selz.\nGenerated: 2026-07-09 16:25:18 UTC"
-  47.8800, -99.8100
-  47.8500, -99.8100
-  47.8500, -99.7700
-  47.5500, -99.9700
-  47.8200, -100.4400
-  48.0300, -100.3100
-  47.8800, -99.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 12:00PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-09 16:30 Z\nAt 1200 PM EDT, Doppler radar was tracking a strong thunderstorm near Deckerville, moving east at 30 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Port Sanilac around 1205 PM EDT.  Other locations impacted by this storm include Forester and McGregor.\nGenerated: 2026-07-09 16:25:18 UTC"
-  43.4600, -82.8000
-  43.5600, -82.7600
-  43.5400, -82.5700
-  43.4300, -82.5300
-  43.4600, -82.8000
 End:
