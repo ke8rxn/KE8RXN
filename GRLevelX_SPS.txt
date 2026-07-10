@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-10 09:55:12 UTC
+; Generated: 2026-07-10 10:00:30 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 4:37AM CDT by NWS Little Rock AR\nExpires: 2026-07-10 10:15 Z\nAt 437 AM CDT, Doppler radar was tracking a strong thunderstorm near Cave City, or 15 miles southeast of Ash Flat, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lake Charles State Park...        Cave City... Strawberry...                     Lynn... Smithville...                     Aetna... Strangers Home...                 Calamine... Poughkeepsie...                   Eaton... Nelsonville...                    Driftwood... Lauratown...\nGenerated: 2026-07-10 09:55:12 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 4:58AM CDT by NWS Memphis TN\nExpires: 2026-07-10 10:30 Z\nAt 458 AM CDT, Doppler radar was tracking a strong thunderstorm over Malden, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kennett, Malden, Portageville, Campbell, Chalk Bluff Natural Area, Clarkton, Holcomb, Wardell, St. Francis, Glennonville, Saint Francis, Bragg City, Lorine, North Wardell, White Oak, Homestown, Ipley, Valley Ridge, Chalk Bluff Battlefield Park, and Baird.  This includes Interstate 55 in Missouri near mile marker 31.\nGenerated: 2026-07-10 10:00:30 UTC"
+  36.6300, -89.9600
+  36.5400, -89.9500
+  36.3900, -89.9700
+  36.3900, -89.7500
+  36.4100, -89.7500
+  36.4200, -89.6900
+  36.4000, -89.6800
+  36.2000, -89.9800
+  36.5000, -90.2300
+  36.5000, -90.2200
+  36.5200, -90.2200
+  36.5400, -90.2100
+  36.5500, -90.1900
+  36.5900, -90.1800
+  36.6300, -90.1200
+  36.6300, -89.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 10 at 4:37AM CDT by NWS Little Rock AR\nExpires: 2026-07-10 10:15 Z\nAt 437 AM CDT, Doppler radar was tracking a strong thunderstorm near Cave City, or 15 miles southeast of Ash Flat, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lake Charles State Park...        Cave City... Strawberry...                     Lynn... Smithville...                     Aetna... Strangers Home...                 Calamine... Poughkeepsie...                   Eaton... Nelsonville...                    Driftwood... Lauratown...\nGenerated: 2026-07-10 10:00:30 UTC"
   35.8600, -91.1200
   35.8800, -91.2200
   35.8900, -91.2100
@@ -14,13 +34,4 @@ Line: 2,,"Special Weather Statement issued July 10 at 4:37AM CDT by NWS Little R
   36.1300, -91.5300
   36.0600, -91.0800
   35.8600, -91.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 4:09AM CDT by NWS Little Rock AR\nExpires: 2026-07-10 10:00 Z\nAt 409 AM CDT, Doppler radar was tracking a strong thunderstorm over Ravenden, or 14 miles northwest of Black Rock, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pocahontas...                     Walnut Ridge... Hoxie...                          Black Rock... Imboden...                        Ravenden... College City...                   Portia... Ravenden Springs...               Williford... Shannon...                        Eleven Point... Birdell...                        Elnora... Sharum...                         Manson... Lesterville...                    Ozark Acres... Davidsonville Historic State Pa...\nGenerated: 2026-07-10 09:55:12 UTC"
-  36.2700, -91.3800
-  36.3900, -91.3000
-  36.2500, -90.8400
-  36.0200, -91.0200
-  36.2700, -91.3800
 End:
