@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-10 03:10:22 UTC
+; Generated: 2026-07-10 03:15:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 11:08PM EDT by NWS Louisville KY\nExpires: 2026-07-10 03:45 Z\nAt 1107 PM EDT/1007 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles southwest of Hodgenville to 8 miles northwest of Munfordville to 7 miles northwest of Brownsville. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Munfordville, Upton, Bonnieville, Wabash, Cub Run, Lines Mill, Broad Ford, Broadway, Pearman, and Straw.\nGenerated: 2026-07-10 03:10:22 UTC"
+Line: 2,,"Special Weather Statement issued July 9 at 10:10PM CDT by NWS Paducah KY\nExpires: 2026-07-10 04:00 Z\nAt 1010 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Scott City to near Horseshoe Lake Conservation Area. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cape Girardeau, Charleston, Scott City, Chaffee, Cairo, La Center, Benton, Bardwell, Wickliffe, Bertrand, Mounds, Morley, Barlow, Tamms, Mound City, Kelso, Gordonville, Wyatt, Dutchtown, and Cape Girardeau Airport.  This includes the following highways... Interstate 57 in Illinois between Mile Markers 1 and 18. Interstate 57 in Missouri between Mile Markers 6 and 21. Interstate 55 between Mile Markers 70 and 96.\nGenerated: 2026-07-10 03:15:13 UTC"
+  37.2700, -89.0300
+  36.8400, -88.9200
+  36.9200, -89.5700
+  37.3100, -89.6900
+  37.2700, -89.0300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 9 at 11:08PM EDT by NWS Louisville KY\nExpires: 2026-07-10 03:45 Z\nAt 1107 PM EDT/1007 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles southwest of Hodgenville to 8 miles northwest of Munfordville to 7 miles northwest of Brownsville. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Munfordville, Upton, Bonnieville, Wabash, Cub Run, Lines Mill, Broad Ford, Broadway, Pearman, and Straw.\nGenerated: 2026-07-10 03:15:13 UTC"
   37.4800, -85.9300
   37.4600, -85.5900
   37.4500, -85.5800
@@ -16,72 +25,11 @@ Line: 2,,"Special Weather Statement issued July 9 at 11:08PM EDT by NWS Louisvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 9:59PM CDT by NWS Louisville KY\nExpires: 2026-07-10 03:30 Z\nAt 959 PM CDT, Doppler radar was tracking a strong thunderstorm near Crestmoor, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowling Green, Brownsville, Plum Springs, Crestmoor, Mount Victor, Smiths Grove, Oakland, Chalybeate, Girkin, and Rockland.\nGenerated: 2026-07-10 03:10:22 UTC"
+Line: 2,,"Special Weather Statement issued July 9 at 9:59PM CDT by NWS Louisville KY\nExpires: 2026-07-10 03:30 Z\nAt 959 PM CDT, Doppler radar was tracking a strong thunderstorm near Crestmoor, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowling Green, Brownsville, Plum Springs, Crestmoor, Mount Victor, Smiths Grove, Oakland, Chalybeate, Girkin, and Rockland.\nGenerated: 2026-07-10 03:15:13 UTC"
   36.9500, -86.6400
   37.1400, -86.6500
   37.2300, -86.1700
   37.0000, -86.1400
   36.9600, -86.1600
   36.9500, -86.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 9:47PM CDT by NWS Louisville KY\nExpires: 2026-07-10 03:15 Z\nAt 947 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles north of Morgantown, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morgantown, Casey, Lee, Caneyville, Monford, Roundhill, Steff, Aberdeen, Windy Hill, and Eden.\nGenerated: 2026-07-10 03:10:22 UTC"
-  37.2400, -86.7200
-  37.4200, -86.7600
-  37.5000, -86.3800
-  37.2300, -86.3500
-  37.2400, -86.7200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 10:29PM EDT by NWS Wakefield VA\nExpires: 2026-07-10 03:15 Z\nAt 1029 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hampton University to Portsmouth to near Bowers Hill. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Frequent cloud to ground lightning strikes.  Locations impacted include... Virginia Beach, Virginia Wesleyan University, Old Dominion University, Downtown Norfolk, Regent University, Ocean View, Kempsville, Downtown Portsmouth, Churchland, Norfolk State University, Norfolk, Chesapeake, Portsmouth, Suffolk, Norfolk International, Norfolk NAS, Ghent, Bowers Hill, Norview, and Cradock.\nGenerated: 2026-07-10 03:10:22 UTC"
-  36.7700, -75.9000
-  36.7500, -76.5200
-  36.8400, -76.4500
-  36.9600, -76.4100
-  36.9700, -76.3900
-  36.9900, -76.1900
-  36.9500, -76.0900
-  36.9600, -75.9600
-  36.7700, -75.9000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 9:28PM CDT by NWS Nashville TN\nExpires: 2026-07-10 03:15 Z\nAt 928 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Paris Landing State Park to 7 miles southeast of Huntingdon to 7 miles west of Blue Goose. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waverly, Camden, Dover, Erin, New Johnsonville, McEwen, Tennessee Ridge, Hurricane Mills, Cumberland City, Houston County Airport, Indian Mound, and I-40 Near The Tennessee River.  This includes Interstate 40 between mile markers 136 and 147.\nGenerated: 2026-07-10 03:10:22 UTC"
-  36.5000, -88.0500
-  36.5100, -87.5200
-  36.3400, -87.5100
-  36.2400, -87.5300
-  36.1800, -87.5700
-  36.1500, -87.5600
-  35.8800, -87.7100
-  35.8200, -87.8400
-  35.8000, -87.8500
-  35.8400, -87.9200
-  35.8400, -87.9600
-  35.9400, -87.9300
-  35.9500, -88.0100
-  35.9700, -88.0200
-  36.0500, -87.9900
-  36.1300, -87.9200
-  36.1700, -87.9200
-  36.2200, -87.9500
-  36.3100, -87.9600
-  36.4500, -88.0600
-  36.5000, -88.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 9 at 9:15PM CDT by NWS Springfield MO\nExpires: 2026-07-10 03:15 Z\nAt 915 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Freeburg to near Vienna to 8 miles north of Dixon. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Belle, Vienna, Brinktown, and Vichy.\nGenerated: 2026-07-10 03:10:22 UTC"
-  38.1500, -91.6400
-  38.1500, -91.6300
-  38.0500, -91.6400
-  38.0500, -91.8900
-  38.0300, -91.9300
-  38.0400, -91.9400
-  38.1000, -92.1700
-  38.2900, -91.9900
-  38.2900, -91.6500
-  38.1500, -91.6400
 End:
