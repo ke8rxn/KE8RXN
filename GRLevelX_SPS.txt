@@ -3,9 +3,53 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-11 01:05:13 UTC
+; Generated: 2026-07-11 01:10:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 7:03PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:30 Z\nAt 703 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 13 miles southeast of Higbee to 8 miles southeast of Kim. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  These storms will remain over mainly rural areas of western Baca, southeastern Las Animas and south central Bent Counties.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 9:09PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 01:45 Z\nAt 908 PM EDT, a line of strong thunderstorms was along a line extending from near Plainfield to Five Points to near Owensboro, and moving east at 20 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Eastman, Abbeville, Milan, Rhine, Chauncey, Union, Plainfield, Cedar Grove, Antioch Church, Jay Bird Springs, Temperance, Browning, Five Points, Achord, Owensboro, and Godwinsville.\nGenerated: 2026-07-11 01:10:19 UTC"
+  31.8500, -83.1800
+  31.8500, -83.5100
+  32.2900, -83.1300
+  32.3100, -82.7200
+  32.2000, -82.8600
+  32.1900, -82.8800
+  32.1800, -82.8700
+  32.1300, -82.9400
+  32.1200, -82.9200
+  32.0800, -82.9300
+  31.8100, -83.1200
+  31.8500, -83.1800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 10 at 7:09PM MDT by NWS Albuquerque NM\nExpires: 2026-07-11 01:45 Z\nAt 709 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Taiban, or 7 miles east of Fort Sumner, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Taiban.  This includes Highway 60 between Mile Markers 331 and 345.\nGenerated: 2026-07-11 01:10:19 UTC"
+  34.3700, -104.1700
+  34.5600, -104.2000
+  34.6000, -103.9500
+  34.3700, -103.9500
+  34.3700, -104.1700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 10 at 8:08PM CDT by NWS Paducah KY\nExpires: 2026-07-11 01:45 Z\nAt 807 PM CDT, Doppler radar was tracking a strong thunderstorm near Handy, or 18 miles southwest of Van Buren, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Handy.\nGenerated: 2026-07-11 01:10:19 UTC"
+  36.8200, -91.1200
+  36.8200, -91.0100
+  36.8100, -90.8300
+  36.6900, -90.8500
+  36.7000, -91.1200
+  36.8200, -91.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 10 at 8:06PM CDT by NWS Springfield MO\nExpires: 2026-07-11 02:00 Z\nAt 806 PM CDT, Doppler radar was tracking a strong thunderstorm near Thayer, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Thayer, Alton, Couch, Myrtle, and Wilderness.\nGenerated: 2026-07-11 01:10:19 UTC"
+  36.6600, -91.5600
+  36.8300, -91.1200
+  36.5000, -91.1300
+  36.5000, -91.5600
+  36.6600, -91.5600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 10 at 7:03PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:30 Z\nAt 703 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 13 miles southeast of Higbee to 8 miles southeast of Kim. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  These storms will remain over mainly rural areas of western Baca, southeastern Las Animas and south central Bent Counties.\nGenerated: 2026-07-11 01:10:19 UTC"
   37.7200, -102.9000
   37.0500, -102.9400
   37.0800, -103.3300
@@ -14,7 +58,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 7:03PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 9:01PM EDT by NWS Cleveland OH\nExpires: 2026-07-11 01:45 Z\nAt 901 PM EDT, Doppler radar was tracking a strong thunderstorm near Gibsonburg, or 11 miles east of Bowling Green, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fostoria, Gibsonburg, Woodville, Pemberville, Bradner, Wayne, Bettsville, Risingsun, Helena, West Millgrove, Burgoon, and Kansas.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 9:01PM EDT by NWS Cleveland OH\nExpires: 2026-07-11 01:45 Z\nAt 901 PM EDT, Doppler radar was tracking a strong thunderstorm near Gibsonburg, or 11 miles east of Bowling Green, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fostoria, Gibsonburg, Woodville, Pemberville, Bradner, Wayne, Bettsville, Risingsun, Helena, West Millgrove, Burgoon, and Kansas.\nGenerated: 2026-07-11 01:10:19 UTC"
   41.3700, -83.5800
   41.4500, -83.3700
   41.2600, -83.1700
@@ -23,7 +67,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 9:01PM EDT by NWS Clevelan
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 9:00PM EDT by NWS Jacksonville FL\nExpires: 2026-07-11 01:30 Z\nAt 900 PM EDT, Doppler radar was tracking a strong thunderstorm over Anthony, or 7 miles south of Citra. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sparr, Anthony, Reddick, and Lowell.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 9:00PM EDT by NWS Jacksonville FL\nExpires: 2026-07-11 01:30 Z\nAt 900 PM EDT, Doppler radar was tracking a strong thunderstorm over Anthony, or 7 miles south of Citra. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sparr, Anthony, Reddick, and Lowell.\nGenerated: 2026-07-11 01:10:19 UTC"
   29.3400, -82.2200
   29.3500, -82.2200
   29.3900, -82.2400
@@ -34,7 +78,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 9:00PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 9:00PM EDT by NWS Northern Indiana\nExpires: 2026-07-11 01:45 Z\nAt 900 PM EDT, Doppler radar was tracking a strong thunderstorm near Wabash, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wabash, Lagro, Speicherville, and Urbana.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 9:00PM EDT by NWS Northern Indiana\nExpires: 2026-07-11 01:45 Z\nAt 900 PM EDT, Doppler radar was tracking a strong thunderstorm near Wabash, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wabash, Lagro, Speicherville, and Urbana.\nGenerated: 2026-07-11 01:10:19 UTC"
   40.8100, -85.9400
   40.9000, -85.9400
   40.9300, -85.6400
@@ -43,7 +87,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 9:00PM EDT by NWS Northern
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 6:59PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:30 Z\nAt 659 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles west of Cheraw to 8 miles southwest of Las Animas to 8 miles east of Higbee. Movement was north at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Junta, North La Junta, Rocky Ford, Las Animas, Swink, Sugar City, Cheraw, and Higbee.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 6:59PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:30 Z\nAt 659 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles west of Cheraw to 8 miles southwest of Las Animas to 8 miles east of Higbee. Movement was north at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Junta, North La Junta, Rocky Ford, Las Animas, Swink, Sugar City, Cheraw, and Higbee.\nGenerated: 2026-07-11 01:10:19 UTC"
   38.3000, -103.7000
   38.1900, -103.2800
   37.9300, -103.1900
@@ -54,7 +98,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 6:59PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 7:59PM CDT by NWS Amarillo TX\nExpires: 2026-07-11 01:30 Z\nAt 759 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles north of Ware to 10 miles northwest of Nara Visa. Movement was southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dalhart, Ware, Romero, and Conlen.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 7:59PM CDT by NWS Amarillo TX\nExpires: 2026-07-11 01:30 Z\nAt 759 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles north of Ware to 10 miles northwest of Nara Visa. Movement was southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dalhart, Ware, Romero, and Conlen.\nGenerated: 2026-07-11 01:10:19 UTC"
   36.0700, -103.0400
   36.4700, -102.7200
   36.2700, -102.1600
@@ -65,7 +109,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 7:59PM CDT by NWS Amarillo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 6:49PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:15 Z\nAt 649 PM MDT, Doppler radar was tracking a strong thunderstorm near Manzanola, or 15 miles northwest of La Junta. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Manzanola.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 6:49PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:15 Z\nAt 649 PM MDT, Doppler radar was tracking a strong thunderstorm near Manzanola, or 15 miles northwest of La Junta. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Manzanola.\nGenerated: 2026-07-11 01:10:19 UTC"
   37.9900, -103.7700
   38.0500, -103.8900
   38.1600, -103.8500
@@ -74,7 +118,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 6:49PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 6:47PM MDT by NWS Billings MT\nExpires: 2026-07-11 01:30 Z\nAt 647 PM MDT, Doppler radar was tracking a strong thunderstorm 21 miles southeast of Billings, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Yellowstone and West Central Big Horn Counties.  This does NOT include the city of Billings.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 6:47PM MDT by NWS Billings MT\nExpires: 2026-07-11 01:30 Z\nAt 647 PM MDT, Doppler radar was tracking a strong thunderstorm 21 miles southeast of Billings, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Yellowstone and West Central Big Horn Counties.  This does NOT include the city of Billings.\nGenerated: 2026-07-11 01:10:19 UTC"
   45.4600, -108.3200
   45.5100, -108.4100
   45.8800, -108.2400
@@ -85,7 +129,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 6:47PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 8:42PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-11 01:15 Z\nAt 842 PM EDT, Doppler radar was tracking a strong thunderstorm near Havelock, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Bern, Havelock, Morehead City, Newport, Harlowe, Wildwood, Croatan, Kuhns, Great Neck, North Harlowe, Catfish Lake, Neuse Forest, Cherry Branch Ferry Terminal, and Crab Point Village.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 8:42PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-11 01:15 Z\nAt 842 PM EDT, Doppler radar was tracking a strong thunderstorm near Havelock, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Bern, Havelock, Morehead City, Newport, Harlowe, Wildwood, Croatan, Kuhns, Great Neck, North Harlowe, Catfish Lake, Neuse Forest, Cherry Branch Ferry Terminal, and Crab Point Village.\nGenerated: 2026-07-11 01:10:19 UTC"
   34.7800, -77.1400
   35.0100, -77.0900
   34.9400, -76.6700
@@ -97,7 +141,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 8:42PM EDT by NWS Newport/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 6:40PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:15 Z\nAt 640 PM MDT, Doppler radar was tracking a strong thunderstorm over Sugar City, or 18 miles north of La Junta. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sugar City.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 6:40PM MDT by NWS Pueblo CO\nExpires: 2026-07-11 01:15 Z\nAt 640 PM MDT, Doppler radar was tracking a strong thunderstorm over Sugar City, or 18 miles north of La Junta. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sugar City.\nGenerated: 2026-07-11 01:10:19 UTC"
   38.1900, -103.7300
   38.2800, -103.7600
   38.3100, -103.5700
@@ -106,7 +150,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 6:40PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 8:32PM EDT by NWS Raleigh NC\nExpires: 2026-07-11 01:30 Z\nAt 832 PM EDT, Doppler radar was tracking a strong thunderstorm over Spencer, or near Salisbury, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... High Point, Lexington, Randleman, Thomasville, Linwood, Archdale, Trinity, Gordontown, Randleman Regional Reservior Marina, and High Rock Lake.  This includes the following highways... Interstate 85 between Mile Markers 83 and 114. Interstate 40 near Mile Marker 201. Interstate 73 between Mile Markers 80 and 85. Interstate 74 between Mile Markers 59 and 66, and between Mile Markers 69 and 79.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 8:32PM EDT by NWS Raleigh NC\nExpires: 2026-07-11 01:30 Z\nAt 832 PM EDT, Doppler radar was tracking a strong thunderstorm over Spencer, or near Salisbury, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... High Point, Lexington, Randleman, Thomasville, Linwood, Archdale, Trinity, Gordontown, Randleman Regional Reservior Marina, and High Rock Lake.  This includes the following highways... Interstate 85 between Mile Markers 83 and 114. Interstate 40 near Mile Marker 201. Interstate 73 between Mile Markers 80 and 85. Interstate 74 between Mile Markers 59 and 66, and between Mile Markers 69 and 79.\nGenerated: 2026-07-11 01:10:19 UTC"
   35.8300, -80.4600
   35.8400, -80.4400
   35.8300, -80.4300
@@ -131,7 +175,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 8:32PM EDT by NWS Raleigh 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 8:31PM EDT by NWS Cleveland OH\nExpires: 2026-07-11 01:15 Z\nAt 830 PM EDT, Doppler radar was tracking a strong thunderstorm near Perrysburg, or 9 miles north of Bowling Green. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowling Green, Perrysburg, Rossford, Northwood, Walbridge, Pemberville, Luckey, and Stony Ridge.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 8:31PM EDT by NWS Cleveland OH\nExpires: 2026-07-11 01:15 Z\nAt 830 PM EDT, Doppler radar was tracking a strong thunderstorm near Perrysburg, or 9 miles north of Bowling Green. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowling Green, Perrysburg, Rossford, Northwood, Walbridge, Pemberville, Luckey, and Stony Ridge.\nGenerated: 2026-07-11 01:10:19 UTC"
   41.5500, -83.6600
   41.6100, -83.5000
   41.5200, -83.4100
@@ -141,7 +185,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 8:31PM EDT by NWS Clevelan
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 6:28PM MDT by NWS Albuquerque NM\nExpires: 2026-07-11 01:15 Z\nAt 628 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 15 miles northwest of Ute Lake State Park to near Santa Rosa, moving southeast at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Tucumcari, Santa Rosa, Quay, Logan, House, Montoya, Ragland, Newkirk, Cuervo and Ute Lake State Park.  This includes the following highways... Interstate 40 between Mile Markers 270 and 353. State Road 104 between Mile Markers 86 and 105.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 6:28PM MDT by NWS Albuquerque NM\nExpires: 2026-07-11 01:15 Z\nAt 628 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 15 miles northwest of Ute Lake State Park to near Santa Rosa, moving southeast at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Tucumcari, Santa Rosa, Quay, Logan, House, Montoya, Ragland, Newkirk, Cuervo and Ute Lake State Park.  This includes the following highways... Interstate 40 between Mile Markers 270 and 353. State Road 104 between Mile Markers 86 and 105.\nGenerated: 2026-07-11 01:10:19 UTC"
   34.9900, -104.7800
   35.1700, -104.0800
   35.6400, -103.8700
@@ -152,7 +196,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 6:28PM MDT by NWS Albuquer
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 8:25PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-11 01:15 Z\nAt 825 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near River Road to near Askins. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Bern, Washington, River Road, Belhaven, Sladesville, Ransomville, Ponzer, Blounts Creek, Pamlico Beach, Askins, Lowland, Cayton, Florence, Edward, Grantsboro, Royal, Cox Crossroads, Bonnerton, Bayview, and Bunyan.\nGenerated: 2026-07-11 01:05:13 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 8:25PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-11 01:15 Z\nAt 825 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near River Road to near Askins. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Bern, Washington, River Road, Belhaven, Sladesville, Ransomville, Ponzer, Blounts Creek, Pamlico Beach, Askins, Lowland, Cayton, Florence, Edward, Grantsboro, Royal, Cox Crossroads, Bonnerton, Bayview, and Bunyan.\nGenerated: 2026-07-11 01:10:19 UTC"
   35.6100, -76.4700
   35.1300, -76.4900
   35.1400, -76.9800
