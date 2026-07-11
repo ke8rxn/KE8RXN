@@ -3,9 +3,70 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-11 18:50:21 UTC
+; Generated: 2026-07-11 18:55:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:49PM EDT by NWS Wilmington NC\nExpires: 2026-07-11 19:15 Z\nAt 248 PM EDT, Doppler radar was tracking a strong thunderstorm near Kingstree, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kingstree, Indiantown, and Nesmith.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:54PM EDT by NWS Charleston SC\nExpires: 2026-07-11 19:30 Z\nAt 254 PM EDT, Doppler radar was tracking a line of strong thunderstorms extending from 10 miles north of Eastern Lake Marion to 12 miles north of Harleyville, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Stephen, Eadytown, Northern Lake Moultrie, Cross, Eastern Lake Marion, Bonneau Beach, Cross Cross Roads, Pineville, Judge Town and Prioleau.\nGenerated: 2026-07-11 18:55:12 UTC"
+  33.4400, -79.8800
+  33.3200, -80.0000
+  33.2400, -80.1700
+  33.2600, -80.3600
+  33.2800, -80.3500
+  33.2600, -80.3100
+  33.3000, -80.2500
+  33.3900, -80.2400
+  33.3900, -80.2200
+  33.4500, -80.2200
+  33.4400, -80.2000
+  33.4500, -80.2100
+  33.4600, -80.1600
+  33.4500, -80.1500
+  33.4600, -80.1500
+  33.4500, -80.1400
+  33.4600, -80.1300
+  33.4900, -80.1500
+  33.5000, -80.1300
+  33.5000, -79.9700
+  33.4400, -79.8800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 2:50PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 19:15 Z\nAt 250 PM EDT, a strong thunderstorm was near Cleveland, moving southeast at 15 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Gainesville, Dahlonega, Cleveland, Clermont, Garland, Leaf, Mossy Creek, and Qualatchee Lake.\nGenerated: 2026-07-11 18:55:12 UTC"
+  34.6000, -83.6400
+  34.5600, -83.6300
+  34.5500, -83.6200
+  34.5400, -83.6200
+  34.5300, -83.6400
+  34.5300, -83.6300
+  34.5100, -83.6700
+  34.4700, -83.6400
+  34.3400, -83.7800
+  34.5300, -84.0200
+  34.6700, -83.8400
+  34.6000, -83.6400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 2:50PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-11 19:15 Z\nAt 250 PM EDT, Doppler radar was tracking a strong thunderstorm 5 miles west of Clarkesville, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clarkesville, Cornelia, Baldwin, Demorest, Mount Airy, Alto, and Hollywood.\nGenerated: 2026-07-11 18:55:12 UTC"
+  34.6700, -83.6500
+  34.6900, -83.6400
+  34.7100, -83.6400
+  34.7300, -83.6300
+  34.6500, -83.3800
+  34.4800, -83.4600
+  34.4900, -83.5400
+  34.4700, -83.5700
+  34.5200, -83.6400
+  34.5400, -83.6200
+  34.5500, -83.6200
+  34.5800, -83.6400
+  34.6100, -83.6500
+  34.6200, -83.6400
+  34.6600, -83.6600
+  34.6700, -83.6500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 2:49PM EDT by NWS Wilmington NC\nExpires: 2026-07-11 19:15 Z\nAt 248 PM EDT, Doppler radar was tracking a strong thunderstorm near Kingstree, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kingstree, Indiantown, and Nesmith.\nGenerated: 2026-07-11 18:55:12 UTC"
   33.6800, -79.8400
   33.7700, -79.7800
   33.7200, -79.4800
@@ -14,7 +75,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:49PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 1:49PM CDT by NWS Little Rock AR\nExpires: 2026-07-11 19:15 Z\nAt 149 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Sidney, or 9 miles south of Ash Flat, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Evening Shade...                  Smithville... Center...                         Nelsonville... Poughkeepsie...                   Calamine...\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 1:49PM CDT by NWS Little Rock AR\nExpires: 2026-07-11 19:15 Z\nAt 149 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Sidney, or 9 miles south of Ash Flat, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Evening Shade...                  Smithville... Center...                         Nelsonville... Poughkeepsie...                   Calamine...\nGenerated: 2026-07-11 18:55:12 UTC"
   36.0800, -91.6400
   36.1700, -91.5800
   36.1300, -91.2100
@@ -23,7 +84,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 1:49PM CDT by NWS Little R
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:47PM EDT by NWS Cleveland OH\nExpires: 2026-07-11 19:30 Z\nAt 247 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Savannah to near Creston to near Hartville. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Akron, Canton, Mansfield, Wooster, Ashland, Massillon, Barberton, Green, Wadsworth, Tallmadge, North Canton, Orrville, Rittman, Ontario, Mogadore, Doylestown, Lodi, Creston, Dalton, and West Salem.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:47PM EDT by NWS Cleveland OH\nExpires: 2026-07-11 19:30 Z\nAt 247 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Savannah to near Creston to near Hartville. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Akron, Canton, Mansfield, Wooster, Ashland, Massillon, Barberton, Green, Wadsworth, Tallmadge, North Canton, Orrville, Rittman, Ontario, Mogadore, Doylestown, Lodi, Creston, Dalton, and West Salem.\nGenerated: 2026-07-11 18:55:12 UTC"
   40.7600, -82.6200
   41.0700, -82.5500
   41.0400, -81.8500
@@ -37,7 +98,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:47PM EDT by NWS Clevelan
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:44PM EDT by NWS Jacksonville FL\nExpires: 2026-07-11 19:30 Z\nAt 243 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Beverly Hills. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rainbow Lakes Estates, Dunnellon, and Romeo.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:44PM EDT by NWS Jacksonville FL\nExpires: 2026-07-11 19:30 Z\nAt 243 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Beverly Hills. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rainbow Lakes Estates, Dunnellon, and Romeo.\nGenerated: 2026-07-11 18:55:12 UTC"
   29.0200, -82.4000
   29.0200, -82.4200
   29.0500, -82.4700
@@ -52,7 +113,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:44PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:44PM EDT by NWS Columbia SC\nExpires: 2026-07-11 19:15 Z\nAt 244 PM EDT, Doppler radar was tracking a strong thunderstorm near Santee Cooper Regional Airport, or 12 miles south of Manning, moving east at 25 mph.  ...Boaters on Lake Marion Should Seek Safe Harbor...  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Holly Hill, Summerton, Santee Cooper Regional Airport, Santee, Eutawville, Vance, St. Paul, Rocks Pond Campground and Marina, Foreston, Eautaw Springs, Indian Bluff Recreation Park, Davis Station, Blounts Landing, and Mill Creek Marina and Campground.  This includes the following highways... Interstate 26 near mile marker 169. Interstate 95 between mile markers 86 and 115.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:44PM EDT by NWS Columbia SC\nExpires: 2026-07-11 19:15 Z\nAt 244 PM EDT, Doppler radar was tracking a strong thunderstorm near Santee Cooper Regional Airport, or 12 miles south of Manning, moving east at 25 mph.  ...Boaters on Lake Marion Should Seek Safe Harbor...  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Holly Hill, Summerton, Santee Cooper Regional Airport, Santee, Eutawville, Vance, St. Paul, Rocks Pond Campground and Marina, Foreston, Eautaw Springs, Indian Bluff Recreation Park, Davis Station, Blounts Landing, and Mill Creek Marina and Campground.  This includes the following highways... Interstate 26 near mile marker 169. Interstate 95 between mile markers 86 and 115.\nGenerated: 2026-07-11 18:55:12 UTC"
   33.5000, -80.1000
   33.5000, -80.1200
   33.4800, -80.1500
@@ -75,7 +136,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:44PM EDT by NWS Columbia
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 1:44PM CDT by NWS Tulsa OK\nExpires: 2026-07-11 19:15 Z\nAt 144 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles west of Green Forest, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Berryville...                     Green Forest... Carrollton...                     Rule... Coin...                           Cabanal... Denver...                         Connor...\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 1:44PM CDT by NWS Tulsa OK\nExpires: 2026-07-11 19:15 Z\nAt 144 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles west of Green Forest, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Berryville...                     Green Forest... Carrollton...                     Rule... Coin...                           Cabanal... Denver...                         Connor...\nGenerated: 2026-07-11 18:55:12 UTC"
   36.1900, -93.3000
   36.2400, -93.6200
   36.3900, -93.5600
@@ -84,7 +145,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 1:44PM CDT by NWS Tulsa OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 1:41PM CDT by NWS New Orleans LA\nExpires: 2026-07-11 19:15 Z\nAt 140 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from near Convent to 6 miles northeast of Amelia. Movement was northwest at 15 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Thibodaux, Gonzales, Donaldsonville, Napoleonville, Lutcher, Sorrento, Paincourtville, Convent, North Vacherie, Supreme, Chackbay, Labadieville, Belle Rose, and South Vacherie.  This includes Interstate 10 in Louisiana between mile markers 177 and 189.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 1:41PM CDT by NWS New Orleans LA\nExpires: 2026-07-11 19:15 Z\nAt 140 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from near Convent to 6 miles northeast of Amelia. Movement was northwest at 15 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Thibodaux, Gonzales, Donaldsonville, Napoleonville, Lutcher, Sorrento, Paincourtville, Convent, North Vacherie, Supreme, Chackbay, Labadieville, Belle Rose, and South Vacherie.  This includes Interstate 10 in Louisiana between mile markers 177 and 189.\nGenerated: 2026-07-11 18:55:12 UTC"
   30.3200, -90.8700
   29.9700, -90.6600
   29.6400, -90.9900
@@ -101,7 +162,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 1:41PM CDT by NWS New Orle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:35PM EDT by NWS Columbia SC\nExpires: 2026-07-11 19:30 Z\nAt 235 PM EDT, Doppler radar was tracking a strong thunderstorm near Harlem, or near Grovetown, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, North Augusta, Grovetown, Evans, Thomson, Fort Gordon, Augusta, Clearwater, Savannah River Site, Martinez, Aiken Mall, Belvedere, Hephzibah, Williston, Harlem, New Ellenton, Jackson, Glendale, South Augusta, and Summerville.  This includes the following highways... Interstate 20 in Georgia between mile markers 166 and 201. Interstate 20 in South Carolina between mile markers 0 and 19. Interstate 520 in Georgia between mile markers 1 and 15. Interstate 520 in South Carolina between mile markers 16 and 23.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:35PM EDT by NWS Columbia SC\nExpires: 2026-07-11 19:30 Z\nAt 235 PM EDT, Doppler radar was tracking a strong thunderstorm near Harlem, or near Grovetown, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, North Augusta, Grovetown, Evans, Thomson, Fort Gordon, Augusta, Clearwater, Savannah River Site, Martinez, Aiken Mall, Belvedere, Hephzibah, Williston, Harlem, New Ellenton, Jackson, Glendale, South Augusta, and Summerville.  This includes the following highways... Interstate 20 in Georgia between mile markers 166 and 201. Interstate 20 in South Carolina between mile markers 0 and 19. Interstate 520 in Georgia between mile markers 1 and 15. Interstate 520 in South Carolina between mile markers 16 and 23.\nGenerated: 2026-07-11 18:55:12 UTC"
   33.6200, -82.6400
   33.6100, -82.6300
   33.6300, -82.6100
@@ -121,7 +182,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:35PM EDT by NWS Columbia
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 1:35PM CDT by NWS New Orleans LA\nExpires: 2026-07-11 19:00 Z\nAt 135 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from near Killona to near Metairie to near Arabi. Movement was north at 20 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Orleans, Kenner, Reserve, Chalmette, Metairie, Hahnville, Laplace, East New Orleans, Jefferson, Gretna, Harahan, Montz, Garyville, River Ridge, Ama, Destrehan, St. Rose, Killona, Norco, and Elmwood.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 195 and 251. Interstate 55 in Louisiana between mile markers 1 and 12. Interstate 310 between mile markers 1 and 7. Interstate 510 between mile markers 1 and 3. Interstate 610 between mile markers 1 and 4.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 1:35PM CDT by NWS New Orleans LA\nExpires: 2026-07-11 19:00 Z\nAt 135 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from near Killona to near Metairie to near Arabi. Movement was north at 20 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Orleans, Kenner, Reserve, Chalmette, Metairie, Hahnville, Laplace, East New Orleans, Jefferson, Gretna, Harahan, Montz, Garyville, River Ridge, Ama, Destrehan, St. Rose, Killona, Norco, and Elmwood.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 195 and 251. Interstate 55 in Louisiana between mile markers 1 and 12. Interstate 310 between mile markers 1 and 7. Interstate 510 between mile markers 1 and 3. Interstate 610 between mile markers 1 and 4.\nGenerated: 2026-07-11 18:55:12 UTC"
   30.1700, -90.7000
   30.2300, -90.6500
   30.2200, -90.5900
@@ -144,7 +205,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 1:35PM CDT by NWS New Orle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:33PM EDT by NWS Wilmington NC\nExpires: 2026-07-11 19:15 Z\nAt 232 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Marion to near New Hope. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marion, Lake City, Pamplico, Galivants Ferry, Hyman, Effingham, Hannah, Rains, Gresham, Friendfield, New Hope, Evergreen, Scranton, Coward, and Aynor.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:33PM EDT by NWS Wilmington NC\nExpires: 2026-07-11 19:15 Z\nAt 232 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Marion to near New Hope. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marion, Lake City, Pamplico, Galivants Ferry, Hyman, Effingham, Hannah, Rains, Gresham, Friendfield, New Hope, Evergreen, Scranton, Coward, and Aynor.\nGenerated: 2026-07-11 18:55:12 UTC"
   34.1800, -79.4400
   34.0200, -79.0700
   33.9600, -79.2600
@@ -158,7 +219,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:33PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:32PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 19:00 Z\nAt 231 PM EDT, a strong thunderstorm was over Hog Mountain, or 9 miles north of Lawrenceville, moving east at 20 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Sugar Hill, Buford, Braselton, Auburn, Flowery Branch, Dacula, Hoschton, Carl, Rest Haven, County Line, Thompsons Mill, Chateau Elan, Chestnut Mountain, Road Atlanta-Lanier Speedway, and Hog Mountain.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:32PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 19:00 Z\nAt 231 PM EDT, a strong thunderstorm was over Hog Mountain, or 9 miles north of Lawrenceville, moving east at 20 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Sugar Hill, Buford, Braselton, Auburn, Flowery Branch, Dacula, Hoschton, Carl, Rest Haven, County Line, Thompsons Mill, Chateau Elan, Chestnut Mountain, Road Atlanta-Lanier Speedway, and Hog Mountain.\nGenerated: 2026-07-11 18:55:12 UTC"
   34.0300, -84.0300
   34.1700, -84.0100
   34.1900, -83.7700
@@ -168,7 +229,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:32PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:32PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 19:00 Z\nAt 232 PM EDT, a strong thunderstorm was over White Plains, or 11 miles southwest of Crawfordville, moving east at 15 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Crawfordville, White Plains, Siloam, Sharon, Springfield, Powelton, Barnett, Shoulderbone, Mayfield, Alexander Stephens Park, and Culverton.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:32PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 19:00 Z\nAt 232 PM EDT, a strong thunderstorm was over White Plains, or 11 miles southwest of Crawfordville, moving east at 15 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Crawfordville, White Plains, Siloam, Sharon, Springfield, Powelton, Barnett, Shoulderbone, Mayfield, Alexander Stephens Park, and Culverton.\nGenerated: 2026-07-11 18:55:12 UTC"
   33.3500, -83.1400
   33.5300, -83.1100
   33.6100, -82.7600
@@ -177,7 +238,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:32PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:31PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 19:00 Z\nAt 231 PM EDT, a strong thunderstorm was over Little River Landing, or near Canton, moving southeast at 15 mph.  HAZARD...40 to 50 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Canton, Woodstock, Holly Springs, Little River Landing, Hickory Flat, Lebanon, Kellogg Creek, Sutallee, Hobgood Park, and Bridgemill.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:31PM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 19:00 Z\nAt 231 PM EDT, a strong thunderstorm was over Little River Landing, or near Canton, moving southeast at 15 mph.  HAZARD...40 to 50 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Canton, Woodstock, Holly Springs, Little River Landing, Hickory Flat, Lebanon, Kellogg Creek, Sutallee, Hobgood Park, and Bridgemill.\nGenerated: 2026-07-11 18:55:12 UTC"
   34.2200, -84.4000
   34.1200, -84.4000
   34.0700, -84.4600
@@ -189,7 +250,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:31PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:31PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-11 19:15 Z\nAt 230 PM EDT, Doppler radar was tracking a line of strong thunderstorms through central Levy county south into Citrus county, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Inverness, Chiefland, Bronson, Homosassa Springs, Beverly Hills, Williston Highlands, Crystal River Airport, Manattee Road, Fowlers Bluff, Black Diamond, Homosassa, Andrews, Inverness Highlands North, East Bronson, Inverness Highlands South, Hernando, Sugarmill Woods, Inglis, Fanning Springs, and Otter Creek.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:31PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-11 19:15 Z\nAt 230 PM EDT, Doppler radar was tracking a line of strong thunderstorms through central Levy county south into Citrus county, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Inverness, Chiefland, Bronson, Homosassa Springs, Beverly Hills, Williston Highlands, Crystal River Airport, Manattee Road, Fowlers Bluff, Black Diamond, Homosassa, Andrews, Inverness Highlands North, East Bronson, Inverness Highlands South, Hernando, Sugarmill Woods, Inglis, Fanning Springs, and Otter Creek.\nGenerated: 2026-07-11 18:55:12 UTC"
   29.5600, -82.6900
   29.2500, -82.4000
   29.2200, -82.4100
@@ -210,7 +271,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:31PM EDT by NWS Tampa Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:27PM EDT by NWS Wilmington NC\nExpires: 2026-07-11 19:00 Z\nAt 227 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near St. Pauls to near South Of The Border. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lumberton, Dillon, Pembroke, Fairmont, St. Pauls, Rowland, Lake View, Rex, Hamer, South Of The Border, Hestertown, Buie, Robeson Community College, Elrod, Smiths, Howellsville, Duart, Tolarsville, Barnesville, and Tobermory.  This includes the following highways... Interstate 95 in South Carolina between mile markers 194 and 198. Interstate 95 in North Carolina between mile markers 1 and 34.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:27PM EDT by NWS Wilmington NC\nExpires: 2026-07-11 19:00 Z\nAt 227 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near St. Pauls to near South Of The Border. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lumberton, Dillon, Pembroke, Fairmont, St. Pauls, Rowland, Lake View, Rex, Hamer, South Of The Border, Hestertown, Buie, Robeson Community College, Elrod, Smiths, Howellsville, Duart, Tolarsville, Barnesville, and Tobermory.  This includes the following highways... Interstate 95 in South Carolina between mile markers 194 and 198. Interstate 95 in North Carolina between mile markers 1 and 34.\nGenerated: 2026-07-11 18:55:12 UTC"
   34.8400, -78.9100
   34.8400, -78.8800
   34.8000, -78.7200
@@ -223,7 +284,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:27PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 1:24PM CDT by NWS Little Rock AR\nExpires: 2026-07-11 19:00 Z\nAt 124 PM CDT, Doppler radar was tracking a strong thunderstorm over Walnut Ridge, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Walnut Ridge...                   Hoxie... College City...                   Sedgwick... Dicus...                          Whiskerville... Giles Spur...\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 1:24PM CDT by NWS Little Rock AR\nExpires: 2026-07-11 19:00 Z\nAt 124 PM CDT, Doppler radar was tracking a strong thunderstorm over Walnut Ridge, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Walnut Ridge...                   Hoxie... College City...                   Sedgwick... Dicus...                          Whiskerville... Giles Spur...\nGenerated: 2026-07-11 18:55:12 UTC"
   36.1200, -90.7700
   36.1000, -90.7900
   36.0900, -90.8000
@@ -241,7 +302,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 1:24PM CDT by NWS Little R
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 2:17PM EDT by NWS Columbia SC\nExpires: 2026-07-11 19:00 Z\nAt 217 PM EDT, Doppler radar was tracking a strong thunderstorm near Red Bank, moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, West Columbia, Cayce, Red Bank, Oak Grove, South Congaree, Pine Ridge, Gaston, Hopkins, SC State Farmer's Market, Columbia Metro Airport, Sandy Run, Swansea, Pelion, Gilbert, Summit, Woodford, Murray, Cayce Riverwalk, and Camp Kinard.  This includes the following highways... Interstate 20 in South Carolina between mile markers 39 and 58. Interstate 26 between mile markers 112 and 137. Interstate 77 between mile markers 0 and 4.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 2:17PM EDT by NWS Columbia SC\nExpires: 2026-07-11 19:00 Z\nAt 217 PM EDT, Doppler radar was tracking a strong thunderstorm near Red Bank, moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, West Columbia, Cayce, Red Bank, Oak Grove, South Congaree, Pine Ridge, Gaston, Hopkins, SC State Farmer's Market, Columbia Metro Airport, Sandy Run, Swansea, Pelion, Gilbert, Summit, Woodford, Murray, Cayce Riverwalk, and Camp Kinard.  This includes the following highways... Interstate 20 in South Carolina between mile markers 39 and 58. Interstate 26 between mile markers 112 and 137. Interstate 77 between mile markers 0 and 4.\nGenerated: 2026-07-11 18:55:12 UTC"
   33.8400, -81.5100
   34.0400, -81.3900
   33.9000, -80.8000
@@ -251,7 +312,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 2:17PM EDT by NWS Columbia
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 1:15PM CDT by NWS Huntsville AL\nExpires: 2026-07-11 19:00 Z\nAt 115 PM CDT, Doppler radar was tracking a strong thunderstorm near Stevenson, or 9 miles south of Bridgeport, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Henagar, Stevenson, Hollywood, Ider, Pisgah, Martintown, Rosalie, Fabius, Fackler, and Higdon.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 1:15PM CDT by NWS Huntsville AL\nExpires: 2026-07-11 19:00 Z\nAt 115 PM CDT, Doppler radar was tracking a strong thunderstorm near Stevenson, or 9 miles south of Bridgeport, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Henagar, Stevenson, Hollywood, Ider, Pisgah, Martintown, Rosalie, Fabius, Fackler, and Higdon.\nGenerated: 2026-07-11 18:55:12 UTC"
   34.7500, -86.1100
   34.8900, -86.0700
   34.8800, -85.5800
@@ -260,7 +321,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 1:15PM CDT by NWS Huntsvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 1:12PM CDT by NWS Memphis TN\nExpires: 2026-07-11 19:00 Z\nAt 111 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Senath, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blytheville, Kennett, Caruthersville, Gosnell, Steele, Senath, Hornersville, Arbyrd, Cooter, Deering, Heloise, Holland, Calumet, Noland, Boothspoint, Armorel, Huffman, Ayers, Barfield, and Hickman.  This includes the following highways... Interstate 55 in Arkansas between mile markers 68 and 72. Interstate 55 in Missouri between mile markers 1 and 17.\nGenerated: 2026-07-11 18:50:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 1:12PM CDT by NWS Memphis TN\nExpires: 2026-07-11 19:00 Z\nAt 111 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Senath, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blytheville, Kennett, Caruthersville, Gosnell, Steele, Senath, Hornersville, Arbyrd, Cooter, Deering, Heloise, Holland, Calumet, Noland, Boothspoint, Armorel, Huffman, Ayers, Barfield, and Hickman.  This includes the following highways... Interstate 55 in Arkansas between mile markers 68 and 72. Interstate 55 in Missouri between mile markers 1 and 17.\nGenerated: 2026-07-11 18:55:12 UTC"
   36.2100, -89.6700
   36.1900, -89.6300
   36.1900, -89.5700
