@@ -3,42 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-11 16:10:18 UTC
+; Generated: 2026-07-11 16:15:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 11:53AM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 16:30 Z\nAt 1153 AM EDT, a strong thunderstorm was over Athens-Clarke County, or over Athens, moving east at 20 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Watkinsville, Lexington, Athens, Winterville, Crawford, Colbert, Arnoldsville, Bishop, Hull, Athens-Clarke County, Whitehall, Smithonia, Hutchings, Barnett Shoals, Barretts Mill, Dunlap, and State Botanical Garden Of Ga.\nGenerated: 2026-07-11 16:10:18 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 12:14PM EDT by NWS Columbia SC\nExpires: 2026-07-11 17:15 Z\nAt 1214 PM EDT, Doppler radar was tracking a strong thunderstorm near Monticello, or near VC Summer Nuclear Station, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Camden, Winnsboro, Lake Wateree Dam, VC Summer Nuclear Station, Lugoff, Fairfield County Airport, Jenkinsville, Cassatt, Elgin, Lake Carolina, Monticello, Longtown, Goodale State Park, Lake Wateree State Park, Blythewood, Ridgeway, Peak, Lebanon Fire Station, North Central High School, and North Towne Square Shopping Center.  This includes the following highways... Interstate 20 in South Carolina between mile markers 85 and 106. Interstate 77 between mile markers 24 and 45.\nGenerated: 2026-07-11 16:15:13 UTC"
+  34.0500, -80.4800
+  34.2500, -81.3700
+  34.4400, -81.2800
+  34.4800, -81.1000
+  34.4700, -80.8900
+  34.4600, -80.8800
+  34.4700, -80.8600
+  34.4400, -80.3800
+  34.0500, -80.4800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 12:10PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-11 16:45 Z\nAt 1209 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Anderson, or near Northlake, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Anderson, Williamston, Northlake, and Sandy Springs.\nGenerated: 2026-07-11 16:15:13 UTC"
+  34.5500, -82.7400
+  34.6700, -82.7600
+  34.6200, -82.4500
+  34.5900, -82.4200
+  34.5700, -82.4300
+  34.5700, -82.4200
+  34.5400, -82.4200
+  34.5500, -82.7400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 11:53AM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 16:30 Z\nAt 1153 AM EDT, a strong thunderstorm was over Athens-Clarke County, or over Athens, moving east at 20 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Watkinsville, Lexington, Athens, Winterville, Crawford, Colbert, Arnoldsville, Bishop, Hull, Athens-Clarke County, Whitehall, Smithonia, Hutchings, Barnett Shoals, Barretts Mill, Dunlap, and State Botanical Garden Of Ga.\nGenerated: 2026-07-11 16:15:13 UTC"
   33.8200, -83.4400
   34.0300, -83.3700
   34.0300, -83.1100
   33.8800, -83.0700
   33.7700, -83.2000
   33.8200, -83.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 11:46AM EDT by NWS Blacksburg VA\nExpires: 2026-07-11 16:15 Z\nAt 1144 AM EDT, Doppler radar was tracking a strong thunderstorm near Gunton Park, or near Pulaski, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Radford... Pulaski... Dublin... Max Meadows... Patterson... Allisonia... and Claytor Dam.\nGenerated: 2026-07-11 16:10:18 UTC"
-  36.9900, -81.0900
-  37.0500, -80.9800
-  37.0700, -80.9100
-  37.1100, -80.9300
-  37.1200, -80.8900
-  37.1400, -80.8800
-  37.1600, -80.8300
-  37.1800, -80.5200
-  36.9900, -80.5000
-  37.0100, -80.5200
-  37.0000, -80.5200
-  36.9400, -80.6000
-  36.9400, -80.6300
-  36.9300, -80.6400
-  36.8700, -80.7800
-  36.9900, -81.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 10:44AM CDT by NWS Tallahassee FL\nExpires: 2026-07-11 16:15 Z\nAt 1044 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Vernon, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spring Hollow, Greenhead, Porter Lake, and Riverside.\nGenerated: 2026-07-11 16:10:18 UTC"
-  30.3700, -85.7500
-  30.4600, -85.8400
-  30.6100, -85.6400
-  30.4600, -85.5000
-  30.3700, -85.7500
 End:
