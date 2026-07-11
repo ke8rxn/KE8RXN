@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-11 04:25:11 UTC
+; Generated: 2026-07-11 04:30:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 11:24PM CDT by NWS Amarillo TX\nExpires: 2026-07-11 05:00 Z\nAt 1124 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northeast of Hough to 11 miles south of Guymon. Movement was east at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Guymon, Hooker, Goodwell, Tyrone, Optima, Hardesty, Hough, Baker, and Adams.\nGenerated: 2026-07-11 04:25:11 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 11:25PM CDT by NWS Springfield MO\nExpires: 2026-07-11 05:00 Z\nAt 1124 PM CDT, Doppler radar was tracking a thunderstorm outflow boundary along a line extending from 7 miles northeast of Fair Grove to 6 miles north of Springfield to near Miller to near Carthage to near Galena. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Springfield, Joplin, Nixa, Ozark, Republic, Carthage, Neosho, Webb City, Aurora, Carl Junction, Marshfield, Battlefield, Willard, Mount Vernon, Galena, Rogersville, Oronogo, Strafford, Marionville, and Clever.  This includes Interstate 44 between mile markers 0 and 109.\nGenerated: 2026-07-11 04:30:24 UTC"
+  36.9800, -94.6200
+  37.1000, -94.6200
+  37.2300, -94.3800
+  37.3000, -94.0400
+  37.3100, -93.1000
+  37.5800, -93.0900
+  37.4800, -92.8500
+  37.4600, -92.7300
+  37.0800, -92.9900
+  36.9900, -93.5100
+  37.0000, -93.6100
+  36.9700, -93.6200
+  37.0000, -94.0900
+  36.8400, -94.5000
+  36.9800, -94.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 10 at 11:24PM CDT by NWS Amarillo TX\nExpires: 2026-07-11 05:00 Z\nAt 1124 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northeast of Hough to 11 miles south of Guymon. Movement was east at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Guymon, Hooker, Goodwell, Tyrone, Optima, Hardesty, Hough, Baker, and Adams.\nGenerated: 2026-07-11 04:30:24 UTC"
   36.5000, -100.9500
   36.5000, -101.7600
   36.9900, -101.6700
@@ -14,7 +33,7 @@ Line: 2,,"Special Weather Statement issued July 10 at 11:24PM CDT by NWS Amarill
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 12:13AM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 04:45 Z\nAt 1213 AM EDT, a strong thunderstorm was over Crandall, or 8 miles north of Chatsworth, moving east at 30 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Chatsworth, Ellijay, Eton, East Ellijay, Crandall, Sumac, Jones Mill, Higdon, Gregory, Cohutta Wilderness, Epworth, Conasauga Lake, Tennga, Beaverdale, Dawnville, Cisco, Mountaintown, Fort Mountain State Park, and Colwell.\nGenerated: 2026-07-11 04:25:11 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 12:13AM EDT by NWS Peachtree City GA\nExpires: 2026-07-11 04:45 Z\nAt 1213 AM EDT, a strong thunderstorm was over Crandall, or 8 miles north of Chatsworth, moving east at 30 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Chatsworth, Ellijay, Eton, East Ellijay, Crandall, Sumac, Jones Mill, Higdon, Gregory, Cohutta Wilderness, Epworth, Conasauga Lake, Tennga, Beaverdale, Dawnville, Cisco, Mountaintown, Fort Mountain State Park, and Colwell.\nGenerated: 2026-07-11 04:30:24 UTC"
   34.9500, -84.3100
   34.6400, -84.4900
   34.8300, -84.9200
@@ -25,20 +44,10 @@ Line: 2,,"Special Weather Statement issued July 11 at 12:13AM EDT by NWS Peachtr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 10:49PM CDT by NWS Dodge City KS\nExpires: 2026-07-11 04:45 Z\nAt 1049 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Big Bow to 7 miles southeast of Wilburton. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Rolla and Big Bow around 1055 PM CDT. Feterita around 1100 PM CDT. Ulysses around 1105 PM CDT.  Other locations in the path of these storms include Hugoton, Hickok, Moscow and Cave.\nGenerated: 2026-07-11 04:25:11 UTC"
+Line: 2,,"Special Weather Statement issued July 10 at 10:49PM CDT by NWS Dodge City KS\nExpires: 2026-07-11 04:45 Z\nAt 1049 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Big Bow to 7 miles southeast of Wilburton. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Rolla and Big Bow around 1055 PM CDT. Feterita around 1100 PM CDT. Ulysses around 1105 PM CDT.  Other locations in the path of these storms include Hugoton, Hickok, Moscow and Cave.\nGenerated: 2026-07-11 04:30:24 UTC"
   37.0000, -101.6700
   37.7100, -101.6100
   37.7100, -101.1000
   37.0000, -101.1400
   37.0000, -101.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 10 at 10:44PM CDT by NWS Lubbock TX\nExpires: 2026-07-11 04:30 Z\nAt 1043 PM CDT, Doppler radar was tracking a cluster of thunderstorms with strong outflow winds near Friona, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Muleshoe, Dimmitt, Friona, Hart, Earth, Bovina, Farwell, Summerfield, Easter, Lazbuddie, Progress, Oklahoma Lane, Lariat, Nazareth, and Springlake.\nGenerated: 2026-07-11 04:25:11 UTC"
-  34.7500, -102.0000
-  34.1300, -102.2000
-  33.9400, -103.0400
-  34.6300, -103.0300
-  34.7500, -102.8500
-  34.7500, -102.0000
 End:
