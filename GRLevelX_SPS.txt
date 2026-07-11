@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-11 05:55:14 UTC
+; Generated: 2026-07-11 06:00:26 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 12:51AM CDT by NWS Louisville KY\nExpires: 2026-07-11 06:15 Z\nAt 1250 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Dunmor, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Russellville, Anderson, Auburn, Lewisburg, Justice, Insco, Gordonsville, Spa, Epleys, and Dennis.\nGenerated: 2026-07-11 05:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 12:59AM CDT by NWS Louisville KY\nExpires: 2026-07-11 06:30 Z\nAt 1258 AM CDT, Doppler radar was tracking a strong thunderstorm near Morgantown, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morgantown, Casey, Lee, Caneyville, Rochester, Woodbury, Steff, Mining City, Aberdeen, and Leetown.\nGenerated: 2026-07-11 06:00:26 UTC"
+  37.3100, -86.9100
+  37.4800, -86.5000
+  37.3300, -86.4500
+  37.3200, -86.4500
+  37.3200, -86.4700
+  37.1700, -86.4000
+  37.1200, -86.3800
+  37.1200, -86.8600
+  37.3100, -86.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 12:51AM CDT by NWS Louisville KY\nExpires: 2026-07-11 06:15 Z\nAt 1250 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Dunmor, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Russellville, Anderson, Auburn, Lewisburg, Justice, Insco, Gordonsville, Spa, Epleys, and Dennis.\nGenerated: 2026-07-11 06:00:26 UTC"
   37.0600, -87.0500
   37.0700, -86.9800
   37.0700, -86.9400
@@ -21,20 +34,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 12:51AM CDT by NWS Louisvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 12:27AM CDT by NWS Paducah KY\nExpires: 2026-07-11 06:00 Z\nAt 1227 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Elkton, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clifty, Everett, and Allegre.\nGenerated: 2026-07-11 05:55:14 UTC"
-  36.9000, -87.0600
-  36.8800, -87.2600
-  36.8900, -87.2600
-  36.9700, -87.2800
-  37.0400, -87.2400
-  37.0400, -87.1200
-  37.0600, -87.0600
-  36.9000, -87.0500
-  36.9000, -87.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 12:24AM CDT by NWS Louisville KY\nExpires: 2026-07-11 06:15 Z\nAt 1224 AM CDT, Doppler radar was tracking a strong thunderstorm near Central City, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hartford, Beaver Dam, Centertown, Mchenry, Rockport, Dukehurst, Prentiss, Shultztown, Nineteen, and Scottown.\nGenerated: 2026-07-11 05:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 12:24AM CDT by NWS Louisville KY\nExpires: 2026-07-11 06:15 Z\nAt 1224 AM CDT, Doppler radar was tracking a strong thunderstorm near Central City, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hartford, Beaver Dam, Centertown, Mchenry, Rockport, Dukehurst, Prentiss, Shultztown, Nineteen, and Scottown.\nGenerated: 2026-07-11 06:00:26 UTC"
   37.3600, -87.1200
   37.3800, -87.0900
   37.4400, -87.1000
@@ -53,15 +53,4 @@ Line: 2,,"Special Weather Statement issued July 11 at 12:24AM CDT by NWS Louisvi
   37.3300, -87.1100
   37.3400, -87.1400
   37.3600, -87.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 12:04AM CDT by NWS Amarillo TX\nExpires: 2026-07-11 06:00 Z\nAt 1204 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Floris to 11 miles southwest of Wolf Creek Park. Movement was east at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Perryton, Lipscomb, Beaver, Booker, Tyrone, Forgan, Follett, Higgins, Darrouzett, Gate, Knowles, Wolf Creek Park, Elmwood, Farnsworth, Boyd, Waka, Floris, Bryans Corner, Baker, and Mocane.\nGenerated: 2026-07-11 05:55:14 UTC"
-  36.0500, -100.0000
-  36.0600, -101.1200
-  36.5000, -101.1300
-  36.5000, -100.9600
-  37.0000, -101.1200
-  37.0000, -100.0100
-  36.0500, -100.0000
 End:
