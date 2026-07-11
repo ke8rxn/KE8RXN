@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-11 12:10:21 UTC
+; Generated: 2026-07-11 12:15:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 8:08AM EDT by NWS Morristown TN\nExpires: 2026-07-11 12:45 Z\nAt 808 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Kingsport to near Jonesborough to near Tusculum. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Johnson City, Kingsport, Bristol Tn, Bristol Va, Greeneville, Elizabethton, Abingdon, Erwin, Gate City, and Jonesborough.\nGenerated: 2026-07-11 12:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 8:13AM EDT by NWS Morristown TN\nExpires: 2026-07-11 12:45 Z\nAt 813 AM EDT, Doppler radar was tracking a strong thunderstorm near Hot Springs, or 15 miles south of Greeneville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newport, Parrottsville, Caney Branch, Round Mountain, Del Rio, and Cedar Creek.\nGenerated: 2026-07-11 12:15:13 UTC"
+  35.9100, -83.2400
+  36.1600, -83.0700
+  36.0300, -82.7100
+  36.0000, -82.7800
+  35.9800, -82.7900
+  35.9700, -82.7700
+  35.9200, -82.8200
+  35.9500, -82.8500
+  35.9500, -82.8800
+  35.9400, -82.9000
+  35.9300, -82.9100
+  35.9300, -82.9200
+  35.8800, -82.9000
+  35.8700, -82.9200
+  35.8400, -82.9200
+  35.8100, -82.9600
+  35.9100, -83.2400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 8:08AM EDT by NWS Morristown TN\nExpires: 2026-07-11 12:45 Z\nAt 808 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Kingsport to near Jonesborough to near Tusculum. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Johnson City, Kingsport, Bristol Tn, Bristol Va, Greeneville, Elizabethton, Abingdon, Erwin, Gate City, and Jonesborough.\nGenerated: 2026-07-11 12:15:13 UTC"
   36.2500, -82.1100
   36.1300, -82.2500
   36.1400, -82.2900
@@ -30,7 +51,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 8:08AM EDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 6:56AM CDT by NWS Springfield MO\nExpires: 2026-07-11 12:30 Z\nAt 656 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Mansfield to near Ava to near Sparta. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mountain Grove, Ava, Cabool, Sparta, Mansfield, Norwood, Oldfield, Brushyknob, Elkhead, Bruner, Keltner, Gentryville, Christian Center, Vanzant, Squires, Chadwick, Goodhope, Drury, and Dogwood.\nGenerated: 2026-07-11 12:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 6:56AM CDT by NWS Springfield MO\nExpires: 2026-07-11 12:30 Z\nAt 656 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Mansfield to near Ava to near Sparta. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mountain Grove, Ava, Cabool, Sparta, Mansfield, Norwood, Oldfield, Brushyknob, Elkhead, Bruner, Keltner, Gentryville, Christian Center, Vanzant, Squires, Chadwick, Goodhope, Drury, and Dogwood.\nGenerated: 2026-07-11 12:15:13 UTC"
   36.9200, -93.2100
   37.0500, -93.0600
   37.1000, -92.8100
@@ -39,26 +60,4 @@ Line: 2,,"Special Weather Statement issued July 11 at 6:56AM CDT by NWS Springfi
   36.8500, -92.0900
   36.8400, -92.7400
   36.9200, -93.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:25AM EDT by NWS Morristown TN\nExpires: 2026-07-11 12:15 Z\nAt 725 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Jefferson City, moving east at 50 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morristown, Jefferson City, Newport, Dandridge, Rutledge, White Pine, New Market, Baneberry, Parrottsville, and Blaine.\nGenerated: 2026-07-11 12:10:21 UTC"
-  36.1000, -83.6700
-  36.1500, -83.7300
-  36.2900, -83.5800
-  36.0500, -82.6700
-  36.0000, -82.7800
-  35.9800, -82.7900
-  35.9700, -82.7700
-  35.9200, -82.8200
-  35.9500, -82.8500
-  35.9500, -82.8800
-  35.9400, -82.9000
-  35.9300, -82.9100
-  35.9300, -82.9200
-  35.8800, -82.9000
-  35.8700, -82.9200
-  35.8400, -82.9200
-  35.8200, -82.9500
-  36.1000, -83.6700
 End:
