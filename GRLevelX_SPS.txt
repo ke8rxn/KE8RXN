@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-12 05:40:21 UTC
+; Generated: 2026-07-12 05:45:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 12 at 1:33AM EDT by NWS Wakefield VA\nExpires: 2026-07-12 06:15 Z\nAt 131 AM EDT, Doppler radar was tracking gusty showers over Elizabeth City, moving southeast at 15 mph.  HAZARD...Wind gusts up to 30 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Locations impacted include... Elizabeth City, Camden, Elizabeth City State University, Weeksville, Old Trap, Whitehall Shores, Shiloh, Bob White Fork, Belcross, Burnt Mills, Symonds Creek, Listers Corner, Glen Cove, Frog Island, Riddle, Texas, Spences Corner, Goose Creek, Lambs Corner, and Bartlett.\nGenerated: 2026-07-12 05:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 12 at 12:43AM CDT by NWS Norman OK\nExpires: 2026-07-12 06:15 Z\nAt 1243 AM CDT, Doppler radar was tracking a strong thunderstorm near Seminole, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Seminole, Little, and Lima.\nGenerated: 2026-07-12 05:45:19 UTC"
+  35.2200, -96.7800
+  35.3800, -96.7700
+  35.3600, -96.5300
+  35.1400, -96.6000
+  35.2200, -96.7800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 12 at 1:33AM EDT by NWS Wakefield VA\nExpires: 2026-07-12 06:15 Z\nAt 131 AM EDT, Doppler radar was tracking gusty showers over Elizabeth City, moving southeast at 15 mph.  HAZARD...Wind gusts up to 30 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  Locations impacted include... Elizabeth City, Camden, Elizabeth City State University, Weeksville, Old Trap, Whitehall Shores, Shiloh, Bob White Fork, Belcross, Burnt Mills, Symonds Creek, Listers Corner, Glen Cove, Frog Island, Riddle, Texas, Spences Corner, Goose Creek, Lambs Corner, and Bartlett.\nGenerated: 2026-07-12 05:45:19 UTC"
   36.1200, -76.2200
   36.3700, -76.3700
   36.4400, -76.2200
@@ -24,7 +33,7 @@ Line: 2,,"Special Weather Statement issued July 12 at 1:33AM EDT by NWS Wakefiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 12 at 1:24AM EDT by NWS Columbia SC\nExpires: 2026-07-12 06:00 Z\nAt 124 AM EDT, Doppler radar was tracking a strong thunderstorm near Tignall, or 9 miles northeast of Washington, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McCormick, Lincolnton, Elijah Clark State Park, Hickory Knob State Resort Park, Loce, Hester's Ferry Campground, Bordeaux, Baker Creek State Park, Leroy's Ferry Recreation Area, Knox Scout Reservation, Double Branches, Willington, Curry Hill, Chennault, Hawe Creek Campground, Bussey Point Campground, New Hope, Long Cane Creek Picnic Area, Cherokee Boat Ramp, and Modoc.\nGenerated: 2026-07-12 05:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 12 at 1:24AM EDT by NWS Columbia SC\nExpires: 2026-07-12 06:00 Z\nAt 124 AM EDT, Doppler radar was tracking a strong thunderstorm near Tignall, or 9 miles northeast of Washington, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McCormick, Lincolnton, Elijah Clark State Park, Hickory Knob State Resort Park, Loce, Hester's Ferry Campground, Bordeaux, Baker Creek State Park, Leroy's Ferry Recreation Area, Knox Scout Reservation, Double Branches, Willington, Curry Hill, Chennault, Hawe Creek Campground, Bussey Point Campground, New Hope, Long Cane Creek Picnic Area, Cherokee Boat Ramp, and Modoc.\nGenerated: 2026-07-12 05:45:19 UTC"
   34.0100, -82.3200
   33.9700, -82.3000
   33.6800, -82.2200
@@ -39,28 +48,4 @@ Line: 2,,"Special Weather Statement issued July 12 at 1:24AM EDT by NWS Columbia
   33.8600, -82.6000
   33.9200, -82.6300
   34.0100, -82.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 12 at 12:52AM EDT by NWS Morristown TN\nExpires: 2026-07-12 05:45 Z\nAt 1252 AM EDT, Doppler radar was tracking a strong thunderstorm near Parrottsville, or 11 miles northeast of Newport, moving east at 25 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greeneville, Erwin, Tusculum, Parrottsville, Banner Hill, Caney Branch, Cedar Creek, Camp Creek, and Rocky Fork.\nGenerated: 2026-07-12 05:40:21 UTC"
-  35.9900, -82.4800
-  35.9500, -82.5600
-  35.9700, -82.6100
-  36.0100, -82.6100
-  36.0300, -82.5900
-  36.0700, -82.6300
-  36.0000, -82.7800
-  35.9800, -82.7900
-  35.9700, -82.7700
-  35.9200, -82.8200
-  35.9500, -82.8700
-  35.9500, -82.9000
-  35.9300, -82.9000
-  35.9300, -82.9200
-  35.9200, -82.9100
-  35.9200, -82.9200
-  35.9600, -83.1500
-  36.1800, -83.0800
-  36.1300, -82.4000
-  35.9900, -82.4800
 End:
