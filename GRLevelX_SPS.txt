@@ -3,9 +3,70 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-12 00:40:21 UTC
+; Generated: 2026-07-12 00:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:36PM CDT by NWS Norman OK\nExpires: 2026-07-12 01:00 Z\nAt 736 PM CDT, Doppler radar was tracking a strong thunderstorm near Hydro, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Weatherford, Hydro, and Bridgeport.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 7:43PM CDT by NWS Little Rock AR\nExpires: 2026-07-12 01:30 Z\nAt 743 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near White River National Wildlife Refuge to near Gould. Movement was south at 25 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pea Ridge...                      Dumas... Rohwer...                         Gould... Gillett...                        Grady... Mitchellville...                  St. Charles... Tillar...                         Watson... Winchester...                     Yancopin... Whitefield...                     Omega... Lucca Landing...                  Little Bayou Meto Park... Mills...                          Merrisach Lake... Kelso...                          Woodville...\nGenerated: 2026-07-12 00:45:16 UTC"
+  34.0200, -90.9000
+  34.0200, -90.9900
+  33.9600, -90.9700
+  34.0000, -91.0200
+  33.9700, -91.0900
+  33.9300, -91.0100
+  33.8500, -91.0700
+  33.7800, -90.9900
+  33.7800, -91.1300
+  33.7300, -91.1500
+  33.6700, -91.0400
+  33.7100, -91.1700
+  33.6700, -91.2300
+  33.6500, -91.2100
+  33.6800, -91.5800
+  34.0800, -91.7700
+  34.3800, -91.4100
+  34.4400, -91.0000
+  34.1200, -91.1200
+  34.0900, -90.8700
+  34.0200, -90.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 7:42PM CDT by NWS Birmingham AL\nExpires: 2026-07-12 01:15 Z\nAt 742 PM CDT, Doppler radar was tracking a strong thunderstorm over Allgood, or over Oneonta, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oneonta, Blountsville, Cleveland, Locust Fork, Altoona, Snead, Susan Moore, Allgood, Fairview, Nectar, Rosa, Inland Lake, Highland Lake, Easley, Holly Springs, Fowler Spring, and Hendrix.\nGenerated: 2026-07-12 00:45:16 UTC"
+  34.0900, -86.3200
+  34.0500, -86.3300
+  33.9900, -86.3300
+  33.9400, -86.3700
+  33.9400, -86.3300
+  33.9300, -86.3200
+  33.9100, -86.3500
+  33.9000, -86.3500
+  33.8100, -86.4800
+  33.8100, -86.4900
+  33.8800, -86.5900
+  34.0100, -86.6700
+  34.1400, -86.5400
+  34.0900, -86.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 7:42PM CDT by NWS Jackson MS\nExpires: 2026-07-12 01:45 Z\nAt 742 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Murphy, or 11 miles southeast of Hollandale, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Midnight and Murphy around 750 PM CDT. Isola around 805 PM CDT. Belzoni around 810 PM CDT.\nGenerated: 2026-07-12 00:45:16 UTC"
+  33.3000, -90.5500
+  33.1000, -90.4100
+  33.1100, -90.4300
+  33.1000, -90.4200
+  33.1000, -90.4300
+  33.0500, -90.4300
+  33.0500, -90.3900
+  33.0400, -90.3800
+  33.0200, -90.3800
+  33.0100, -90.3700
+  32.8500, -90.6600
+  33.0400, -90.9100
+  33.3300, -90.8800
+  33.3000, -90.5500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 11 at 7:36PM CDT by NWS Norman OK\nExpires: 2026-07-12 01:00 Z\nAt 736 PM CDT, Doppler radar was tracking a strong thunderstorm near Hydro, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Weatherford, Hydro, and Bridgeport.\nGenerated: 2026-07-12 00:45:16 UTC"
   35.4500, -98.7100
   35.6100, -98.6700
   35.5900, -98.3400
@@ -14,7 +75,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 7:36PM CDT by NWS Norman O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:31PM CDT by NWS Jackson MS\nExpires: 2026-07-12 01:30 Z\nAt 731 PM CDT, Doppler radar was tracking a strong thunderstorm near Camden, or 15 miles northeast of Canton, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Cameron and Camden around 735 PM CDT. Thomastown around 750 PM CDT. Newport around 755 PM CDT.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 7:31PM CDT by NWS Jackson MS\nExpires: 2026-07-12 01:30 Z\nAt 731 PM CDT, Doppler radar was tracking a strong thunderstorm near Camden, or 15 miles northeast of Canton, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Cameron and Camden around 735 PM CDT. Thomastown around 750 PM CDT. Newport around 755 PM CDT.\nGenerated: 2026-07-12 00:45:16 UTC"
   32.6200, -89.6400
   32.6100, -89.7300
   32.6300, -89.7300
@@ -32,7 +93,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 7:31PM CDT by NWS Jackson 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:29PM CDT by NWS Memphis TN\nExpires: 2026-07-12 01:15 Z\nAt 729 PM CDT, Doppler radar was tracking a strong thunderstorm near St. Charles, or 10 miles north of White River National Wildlife Refuge, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elaine, White River National Wildlife Refuge, Crumrod, Lake View, Mellwood, Mosby Spur, Ferguson, Wabash, Modoc, Hoop Spur, Lambrook, Catron, Ratio, Lundell, and Ewal.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 7:29PM CDT by NWS Memphis TN\nExpires: 2026-07-12 01:15 Z\nAt 729 PM CDT, Doppler radar was tracking a strong thunderstorm near St. Charles, or 10 miles north of White River National Wildlife Refuge, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elaine, White River National Wildlife Refuge, Crumrod, Lake View, Mellwood, Mosby Spur, Ferguson, Wabash, Modoc, Hoop Spur, Lambrook, Catron, Ratio, Lundell, and Ewal.\nGenerated: 2026-07-12 00:45:16 UTC"
   34.1400, -91.0800
   34.1900, -91.0900
   34.2000, -91.0900
@@ -54,7 +115,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 7:29PM CDT by NWS Memphis 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 6:27PM MDT by NWS Pueblo CO\nExpires: 2026-07-12 01:00 Z\nAt 626 PM MDT, Doppler radar was tracking a strong thunderstorm over Florissant, or 27 miles west of Colorado Springs, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Florissant and Divide.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 6:27PM MDT by NWS Pueblo CO\nExpires: 2026-07-12 01:00 Z\nAt 626 PM MDT, Doppler radar was tracking a strong thunderstorm over Florissant, or 27 miles west of Colorado Springs, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Florissant and Divide.\nGenerated: 2026-07-12 00:45:16 UTC"
   38.9200, -105.0700
   38.7900, -105.3300
   39.0400, -105.3300
@@ -63,7 +124,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 6:27PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:27PM CDT by NWS Tulsa OK\nExpires: 2026-07-12 01:00 Z\nAt 727 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles west of Verdigris. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tulsa...                          Claremore... Catoosa...                        Verdigris...  This includes Interstate 44 between mile markers 231 and 245.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 7:27PM CDT by NWS Tulsa OK\nExpires: 2026-07-12 01:00 Z\nAt 727 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles west of Verdigris. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tulsa...                          Claremore... Catoosa...                        Verdigris...  This includes Interstate 44 between mile markers 231 and 245.\nGenerated: 2026-07-12 00:45:16 UTC"
   36.1200, -95.8600
   36.3200, -95.7700
   36.3300, -95.6300
@@ -72,7 +133,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 7:27PM CDT by NWS Tulsa OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:26PM CDT by NWS Tulsa OK\nExpires: 2026-07-12 01:00 Z\nAt 726 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles southwest of Strickler, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Winslow...                        Chester... Strickler...                      Devils Den State Park... Blackburn...                      Odell...  This includes Interstate 49 between mile markers 36 and 46.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 7:26PM CDT by NWS Tulsa OK\nExpires: 2026-07-12 01:00 Z\nAt 726 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles southwest of Strickler, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Winslow...                        Chester... Strickler...                      Devils Den State Park... Blackburn...                      Odell...  This includes Interstate 49 between mile markers 36 and 46.\nGenerated: 2026-07-12 00:45:16 UTC"
   35.6600, -94.1900
   35.6800, -94.2700
   35.7300, -94.4300
@@ -83,7 +144,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 7:26PM CDT by NWS Tulsa OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 6:26PM MDT by NWS Albuquerque NM\nExpires: 2026-07-12 01:00 Z\nAt 626 PM MDT, Doppler radar was tracking an area of strong thunderstorms 14 miles southwest of Bingham, or 28 miles southeast of Socorro, moving south at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bingham.  This includes Highway 380 between Mile Markers 4 and 38.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 6:26PM MDT by NWS Albuquerque NM\nExpires: 2026-07-12 01:00 Z\nAt 626 PM MDT, Doppler radar was tracking an area of strong thunderstorms 14 miles southwest of Bingham, or 28 miles southeast of Socorro, moving south at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bingham.  This includes Highway 380 between Mile Markers 4 and 38.\nGenerated: 2026-07-12 00:45:16 UTC"
   33.9000, -106.8400
   33.9100, -106.2300
   33.6900, -106.2800
@@ -100,7 +161,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 6:26PM MDT by NWS Albuquer
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 8:24PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-12 01:00 Z\nAt 823 PM EDT, Doppler radar was tracking a strong thunderstorm over Wilmar, or 9 miles southwest of River Road, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Washington, River Road, Ransomville, Blounts Creek, Vanceboro, Cayton, Wilmar, Edward, Royal, Cox Crossroads, Bonnerton, Core Point, Bayview, Yeatesville, Aurora Ferry Terminal, Goose Creek State Park, Bayview Ferry Terminal, and Aurora.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 8:24PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-12 01:00 Z\nAt 823 PM EDT, Doppler radar was tracking a strong thunderstorm over Wilmar, or 9 miles southwest of River Road, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Washington, River Road, Ransomville, Blounts Creek, Vanceboro, Cayton, Wilmar, Edward, Royal, Cox Crossroads, Bonnerton, Core Point, Bayview, Yeatesville, Aurora Ferry Terminal, Goose Creek State Park, Bayview Ferry Terminal, and Aurora.\nGenerated: 2026-07-12 00:45:16 UTC"
   35.5300, -76.6800
   35.2300, -76.7200
   35.2200, -76.7500
@@ -113,7 +174,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 8:24PM EDT by NWS Newport/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:24PM CDT by NWS Corpus Christi TX\nExpires: 2026-07-12 01:00 Z\nAt 724 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles west of Las Tiendas, or 33 miles west of Encinal, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Webb County.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 7:24PM CDT by NWS Corpus Christi TX\nExpires: 2026-07-12 01:00 Z\nAt 724 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles west of Las Tiendas, or 33 miles west of Encinal, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Webb County.\nGenerated: 2026-07-12 00:45:16 UTC"
   28.2000, -99.9800
   28.2000, -99.8200
   27.9000, -99.7700
@@ -134,56 +195,7 @@ Line: 2,,"Special Weather Statement issued July 11 at 7:24PM CDT by NWS Corpus C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 6:20PM MDT by NWS Denver CO\nExpires: 2026-07-12 00:45 Z\nAt 620 PM MDT, Doppler radar was tracking a strong thunderstorm over Lake George, or 29 miles west of Colorado Springs, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lake George.\nGenerated: 2026-07-12 00:40:21 UTC"
-  38.9200, -105.4400
-  39.0700, -105.3600
-  39.0700, -105.3300
-  38.8900, -105.3300
-  38.9200, -105.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 6:19PM MDT by NWS Albuquerque NM\nExpires: 2026-07-12 00:45 Z\nAt 619 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Cedarvale, or 8 miles north of Corona, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Corona and Cedarvale.\nGenerated: 2026-07-12 00:40:21 UTC"
-  34.3400, -105.8100
-  34.5200, -105.6000
-  34.3900, -105.3100
-  34.3600, -105.3100
-  34.2600, -105.4500
-  34.2600, -105.4700
-  34.2500, -105.4700
-  34.0900, -105.6800
-  34.3400, -105.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:17PM CDT by NWS Tulsa OK\nExpires: 2026-07-12 00:45 Z\nAt 717 PM CDT, Doppler radar indicated a strong thunderstorm 6 miles west of Pawhuska, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pawhuska...                       Wynona... Pershing...\nGenerated: 2026-07-12 00:40:21 UTC"
-  36.7400, -96.5700
-  36.7700, -96.3500
-  36.5300, -96.2400
-  36.4900, -96.5700
-  36.7400, -96.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:08PM CDT by NWS Norman OK\nExpires: 2026-07-12 00:45 Z\nAt 708 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles north of Mountain View, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carnegie, Mountain View, Alfalfa, Cloud Chief, Fort Cobb Reservoir, and Cowden.\nGenerated: 2026-07-12 00:40:21 UTC"
-  35.1600, -98.8900
-  35.3100, -98.8200
-  35.2600, -98.5100
-  35.0200, -98.6400
-  35.1600, -98.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:07PM CDT by NWS Tulsa OK\nExpires: 2026-07-12 00:45 Z\nAt 707 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles east of Pryor Creek. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations in or near the path include... Pryor...                          Pryor Creek... Sportsmen Acres Community...\nGenerated: 2026-07-12 00:40:21 UTC"
-  36.2700, -95.4000
-  36.4200, -95.4100
-  36.3700, -95.1800
-  36.2200, -95.2200
-  36.2700, -95.4000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 8:06PM EDT by NWS Tallahassee FL\nExpires: 2026-07-12 01:00 Z\nAt 805 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Coolidge to near Moody Air Force Base. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tifton, Nashville, Moultrie, Adel, Lakeland, Valdosta, Thomasville, Hahira, Sparks, Enigma, Omega, Ray City, Norman Park, Lenox, Doerun, Ty Ty, Ochlocknee, Alapaha, Pavo, and Coolidge.\nGenerated: 2026-07-12 00:40:21 UTC"
+Line: 2,,"Special Weather Statement issued July 11 at 8:06PM EDT by NWS Tallahassee FL\nExpires: 2026-07-12 01:00 Z\nAt 805 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Coolidge to near Moody Air Force Base. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tifton, Nashville, Moultrie, Adel, Lakeland, Valdosta, Thomasville, Hahira, Sparks, Enigma, Omega, Ray City, Norman Park, Lenox, Doerun, Ty Ty, Ochlocknee, Alapaha, Pavo, and Coolidge.\nGenerated: 2026-07-12 00:45:16 UTC"
   30.8600, -83.0000
   30.8500, -83.0100
   30.8500, -83.0900
@@ -203,49 +215,4 @@ Line: 2,,"Special Weather Statement issued July 11 at 8:06PM EDT by NWS Tallahas
   31.1800, -82.9700
   30.8700, -82.9700
   30.8600, -83.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:04PM CDT by NWS Little Rock AR\nExpires: 2026-07-12 00:45 Z\nAt 704 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Watkins Corner to near Langford. Movement was southeast at 40 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pea Ridge...                      Gillett... Almyra...                         St. Charles... Watson...                         Yancopin... Merrisach Lake...                 Palmer... Trusten Holder WMA...             De Witt... Arkansas Post...                  De Luce... Almyra Airport...                 Casscoe... Tichnor...                        Morgan Point Recreation Area... Lodge Corner...                   Weber... Cross Roads in Monroe County...   Pendleton...\nGenerated: 2026-07-12 00:40:21 UTC"
-  34.0300, -90.8900
-  34.0200, -90.9900
-  33.9600, -90.9700
-  34.0000, -91.0200
-  33.9600, -91.0900
-  33.9300, -91.0200
-  33.7900, -91.4300
-  34.4300, -91.6400
-  34.6100, -91.0500
-  34.4700, -91.0500
-  34.4700, -91.0000
-  34.3400, -91.0000
-  34.3300, -91.0600
-  34.2800, -91.0800
-  34.2200, -91.0600
-  34.1900, -91.1000
-  34.1400, -91.0800
-  34.1200, -91.1200
-  34.1000, -90.8900
-  34.0900, -90.8700
-  34.0300, -90.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 11 at 7:39PM EDT by NWS Raleigh NC\nExpires: 2026-07-12 00:45 Z\nAt 738 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from south of Rocky Mount to 7 miles west of Farmville. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount, Tarboro, Elm City, Princeville, Sharpsburg, Pinetops, Stantonsburg, Macclesfield, Saratoga, and Conetoe.  This includes NC Highway 264 between Mile Markers 51 and 56.\nGenerated: 2026-07-12 00:40:21 UTC"
-  35.8200, -77.3500
-  35.8300, -77.3900
-  35.8200, -77.4100
-  35.8100, -77.4200
-  35.8100, -77.4500
-  35.8000, -77.4500
-  35.8000, -77.4700
-  35.7600, -77.5200
-  35.6700, -77.6700
-  35.5800, -77.8100
-  35.9200, -77.8800
-  36.0100, -77.4300
-  36.0100, -77.4100
-  36.0000, -77.4100
-  35.9000, -77.3400
-  35.8200, -77.3500
 End:
