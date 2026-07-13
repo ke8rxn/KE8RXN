@@ -3,9 +3,56 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-13 23:10:21 UTC
+; Generated: 2026-07-13 23:15:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 6:59PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 23:30 Z\nAt 658 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Blue Cypress Lake to Fort Drum to 12 miles northeast of Four Seasons Estates to near Saint Lucie West. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Pierce, White City, Blue Cypress Lake, Fort Drum, and Tradition.\nGenerated: 2026-07-13 23:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 6:14PM CDT by NWS Birmingham AL\nExpires: 2026-07-13 23:45 Z\nAt 614 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Sweet Water, or 11 miles south of Linden, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Linden, Sweet Water, Shawnee, Nanafalia, Magnolia, Wayne, Surginer, Miller, Dixons Mill, Vineland, Half Acre, Octagon, Clayhill, Nicholsville, and Calvary.\nGenerated: 2026-07-13 23:15:19 UTC"
+  32.1300, -88.0400
+  32.3000, -87.7700
+  32.1300, -87.5700
+  32.1300, -87.6200
+  32.0100, -87.6200
+  32.0000, -87.6300
+  32.0000, -87.6700
+  31.9900, -87.6700
+  31.9900, -87.9800
+  32.0800, -88.0500
+  32.0800, -88.0400
+  32.1100, -88.0500
+  32.1300, -88.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 6:13PM CDT by NWS Jackson MS\nExpires: 2026-07-13 23:45 Z\nAt 613 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Meehan, or 13 miles southwest of Meridian, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Enterprise and Savoy around 620 PM CDT. Sable around 630 PM CDT. Orange around 635 PM CDT.\nGenerated: 2026-07-13 23:15:19 UTC"
+  32.2900, -89.0600
+  32.3700, -88.6500
+  32.1300, -88.4900
+  32.0000, -89.0100
+  32.2900, -89.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 4:11PM MST by NWS Phoenix AZ\nExpires: 2026-07-14 00:00 Z\nAt 410 PM MST, Doppler radar was tracking a strong thunderstorm near Cutter, or 9 miles east of Globe, moving west at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Globe, San Carlos, Cutter, and Central Heights-Midland City.  This includes the following highways... US Highway 60 between mile markers 248 and 266. AZ Route 70 between mile markers 253 and 268. AZ Route 77 between mile markers 163 and 170.\nGenerated: 2026-07-13 23:15:19 UTC"
+  33.5800, -110.4800
+  33.3200, -110.4500
+  33.2600, -110.7700
+  33.5600, -110.8500
+  33.5800, -110.4800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 7:11PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-13 23:45 Z\nAt 710 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Myakka City, or 22 miles west of Wauchula, moving southeast at 10 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Myakka City, Duette, and Myakka Head.\nGenerated: 2026-07-13 23:15:19 UTC"
+  27.6000, -82.1700
+  27.6000, -82.0600
+  27.3500, -82.0600
+  27.3500, -82.2500
+  27.3900, -82.2500
+  27.3900, -82.3100
+  27.4000, -82.3100
+  27.6000, -82.1700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 6:59PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 23:30 Z\nAt 658 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Blue Cypress Lake to Fort Drum to 12 miles northeast of Four Seasons Estates to near Saint Lucie West. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Pierce, White City, Blue Cypress Lake, Fort Drum, and Tradition.\nGenerated: 2026-07-13 23:15:19 UTC"
   27.2700, -80.4300
   27.3900, -80.7600
   27.5100, -80.9000
@@ -20,7 +67,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 6:59PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 6:56PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-13 23:30 Z\nAt 655 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Avon Park to Sebring Regional Airport to 12 miles southwest of Lake Placid. Movement was east at 15 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sebring, Avon Park, Lake Placid, Sebring Regional Airport, Sylvan Shores, Lake Istokpoga, Cornwell, Sebring Shores, Lake Josephine, Placid Lakes, Archbold, Lorida, and Avon Park Air Force Range.\nGenerated: 2026-07-13 23:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 6:56PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-13 23:30 Z\nAt 655 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Avon Park to Sebring Regional Airport to 12 miles southwest of Lake Placid. Movement was east at 15 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sebring, Avon Park, Lake Placid, Sebring Regional Airport, Sylvan Shores, Lake Istokpoga, Cornwell, Sebring Shores, Lake Josephine, Placid Lakes, Archbold, Lorida, and Avon Park Air Force Range.\nGenerated: 2026-07-13 23:15:19 UTC"
   27.0800, -81.3500
   27.0900, -81.5600
   27.2800, -81.5600
@@ -38,59 +85,4 @@ Line: 2,,"Special Weather Statement issued July 13 at 6:56PM EDT by NWS Tampa Ba
   27.3800, -81.1000
   27.3800, -81.0700
   27.0800, -81.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:43PM MDT by NWS Pueblo CO\nExpires: 2026-07-13 23:15 Z\nAt 443 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Waugh Mountain, or 41 miles west of Colorado Springs, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Waugh Mountain.\nGenerated: 2026-07-13 23:10:21 UTC"
-  38.6700, -105.5900
-  38.6200, -105.4200
-  38.4300, -105.5800
-  38.5400, -105.8500
-  38.6700, -105.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 6:41PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 23:15 Z\nAt 641 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Kissimmee Prairie Preserve, or 11 miles northwest of Basinger, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Basinger and Kissimmee Prairie Preserve.\nGenerated: 2026-07-13 23:10:21 UTC"
-  27.3800, -81.0700
-  27.3800, -81.1000
-  27.3900, -81.1200
-  27.4200, -81.1400
-  27.4300, -81.1400
-  27.4500, -81.1500
-  27.4600, -81.1700
-  27.4800, -81.1800
-  27.4900, -81.2000
-  27.5100, -81.2000
-  27.5300, -81.2100
-  27.5500, -81.2100
-  27.5600, -81.1800
-  27.6000, -81.1400
-  27.6500, -81.1400
-  27.6400, -81.1200
-  27.5100, -80.7800
-  27.3600, -81.0400
-  27.3800, -81.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 5:36PM CDT by NWS Tallahassee FL\nExpires: 2026-07-13 23:15 Z\nAt 536 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles southwest of Brundidge to 7 miles southeast of Opp. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Daleville, Elba, Enterprise, Fort Rucker, Ozark, Level Plains, New Brockton, Ariton, Kinston, Mixons Crossroads, Hooper Stage Field, Gerald, Central City, Camp Humming Hills, Clintonville, Roeton, Dale County Lake, Camp Alaflo Bsa, Phillips Crossroads, and Arcus.\nGenerated: 2026-07-13 23:10:21 UTC"
-  31.6100, -85.9200
-  31.6200, -85.9000
-  31.6200, -85.5100
-  31.2000, -85.7700
-  31.1900, -86.1100
-  31.1800, -86.1200
-  31.1900, -86.1300
-  31.1900, -86.1900
-  31.2400, -86.1900
-  31.6100, -85.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 5:25PM CDT by NWS Jackson MS\nExpires: 2026-07-13 23:15 Z\nAt 525 PM CDT, Doppler radar was tracking a strong thunderstorm near Mayersville. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mayersville and Cary.\nGenerated: 2026-07-13 23:10:21 UTC"
-  32.9600, -91.0400
-  32.9300, -90.9000
-  32.7700, -90.9300
-  32.7800, -91.1200
-  32.9600, -91.0400
 End:
