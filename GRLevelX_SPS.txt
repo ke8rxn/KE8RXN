@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-13 19:25:15 UTC
+; Generated: 2026-07-13 19:30:29 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 2:24PM CDT by NWS Birmingham AL\nExpires: 2026-07-13 20:00 Z\nAt 223 PM CDT, Doppler radar was tracking a strong thunderstorm near Benevola, or 9 miles southeast of Aliceville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eutaw, Union, Knoxville, Mantua, Snoddy, Pleasant Ridge, Lewiston, I 20 Rest Area Near Eutaw, and Clinton.\nGenerated: 2026-07-13 19:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 3:29PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 20:00 Z\nAt 328 PM EDT, Doppler radar was tracking a strong thunderstorm near Cassia, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Deltona, DeLand, Orange City, Lake Helen, and Paisley.\nGenerated: 2026-07-13 19:30:29 UTC"
+  29.0600, -81.2500
+  28.8500, -81.2100
+  28.8500, -81.3600
+  28.8600, -81.3500
+  28.8700, -81.3600
+  28.8800, -81.3600
+  28.8500, -81.3900
+  28.8400, -81.5900
+  29.0000, -81.6000
+  29.0600, -81.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 2:24PM CDT by NWS Birmingham AL\nExpires: 2026-07-13 20:00 Z\nAt 223 PM CDT, Doppler radar was tracking a strong thunderstorm near Benevola, or 9 miles southeast of Aliceville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eutaw, Union, Knoxville, Mantua, Snoddy, Pleasant Ridge, Lewiston, I 20 Rest Area Near Eutaw, and Clinton.\nGenerated: 2026-07-13 19:30:29 UTC"
   33.0400, -88.0800
   33.0500, -88.0700
   33.0400, -88.0500
@@ -28,7 +42,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 2:24PM CDT by NWS Birmingh
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 3:24PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-13 20:00 Z\nAt 323 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Wildwood, moving east at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wildwood, Bushnell, Lake Panasoffkee, Center Hill, Webster, Coleman, Rutland, Wahoo, Adamsville, Withlapopka Isle, Sumterville, Floral City, and Oxford.\nGenerated: 2026-07-13 19:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 3:24PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-13 20:00 Z\nAt 323 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Wildwood, moving east at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wildwood, Bushnell, Lake Panasoffkee, Center Hill, Webster, Coleman, Rutland, Wahoo, Adamsville, Withlapopka Isle, Sumterville, Floral City, and Oxford.\nGenerated: 2026-07-13 19:30:29 UTC"
   28.5500, -81.9600
   28.6800, -82.3100
   28.9600, -82.3100
@@ -37,26 +51,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 3:24PM EDT by NWS Tampa Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 2:57PM EDT by NWS Columbia SC\nExpires: 2026-07-13 19:30 Z\nAt 257 PM EDT, Doppler radar was tracking a strong thunderstorm near Summerton, or near Manning, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Manning, Summerton, Santee Cooper Regional Airport, Alcolu, Paxville, Davis Station, and Privateer.  This includes Interstate 95 between mile markers 108 and 124.\nGenerated: 2026-07-13 19:25:15 UTC"
-  33.6300, -80.5100
-  33.8300, -80.4000
-  33.7300, -80.0700
-  33.5300, -80.2200
-  33.6300, -80.5100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 1:54PM CDT by NWS Houston/Galveston TX\nExpires: 2026-07-13 19:30 Z\nAt 154 PM CDT, Doppler radar was tracking a strong thunderstorm over Montgomery, or 11 miles west of Willis, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Willis, New Waverly, Montgomery, and Lake Conroe Dam.\nGenerated: 2026-07-13 19:25:15 UTC"
-  30.2800, -95.5900
-  30.3200, -95.7700
-  30.5800, -95.7900
-  30.5900, -95.5500
-  30.5400, -95.4200
-  30.2800, -95.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 2:54PM EDT by NWS Jacksonville FL\nExpires: 2026-07-13 19:45 Z\nAt 254 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Crescent City, moving east at 30 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Crescent City, Pomona Park, Hastings, Andalusia, Saint Augustine Beach, Marineland, and Fruitland.\nGenerated: 2026-07-13 19:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 2:54PM EDT by NWS Jacksonville FL\nExpires: 2026-07-13 19:45 Z\nAt 254 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Crescent City, moving east at 30 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Crescent City, Pomona Park, Hastings, Andalusia, Saint Augustine Beach, Marineland, and Fruitland.\nGenerated: 2026-07-13 19:30:29 UTC"
   29.4100, -81.1500
   29.2700, -81.1500
   29.2600, -81.4100
@@ -72,7 +67,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 2:54PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 2:53PM EDT by NWS Tallahassee FL\nExpires: 2026-07-13 19:45 Z\nAt 253 PM EDT/153 PM CDT/, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Port St. Joe, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carrabelle, Eastpoint, Apalachicola, St George Island, Port St. Joe, White City, Franklin, Royal Bluff, Eleven Mile, St George Island St Pk, Odena, Cape San Blas, Indian Pass, Beverly, Bay City, Apalachicola Airport, Simmons Bayou, Hays Place, Nine Mile, and Buck Siding.\nGenerated: 2026-07-13 19:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 2:53PM EDT by NWS Tallahassee FL\nExpires: 2026-07-13 19:45 Z\nAt 253 PM EDT/153 PM CDT/, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Port St. Joe, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carrabelle, Eastpoint, Apalachicola, St George Island, Port St. Joe, White City, Franklin, Royal Bluff, Eleven Mile, St George Island St Pk, Odena, Cape San Blas, Indian Pass, Beverly, Bay City, Apalachicola Airport, Simmons Bayou, Hays Place, Nine Mile, and Buck Siding.\nGenerated: 2026-07-13 19:30:29 UTC"
   29.5800, -85.1800
   29.6000, -85.2400
   29.5900, -85.3700
@@ -82,13 +77,4 @@ Line: 2,,"Special Weather Statement issued July 13 at 2:53PM EDT by NWS Tallahas
   29.6600, -84.7000
   29.5600, -84.9000
   29.5800, -85.1800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 2:49PM EDT by NWS Columbia SC\nExpires: 2026-07-13 19:30 Z\nAt 249 PM EDT, Doppler radar was tracking a strong thunderstorm over McEntire Air Base. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbia, McEntire Air Base, Eastover, Hopkins, Horrel Hill, Fort Jackson McCrady Training Center, and Wedgewood.\nGenerated: 2026-07-13 19:25:15 UTC"
-  33.8500, -80.9000
-  33.9800, -80.9400
-  34.1100, -80.6400
-  33.8600, -80.5300
-  33.8500, -80.9000
 End:
