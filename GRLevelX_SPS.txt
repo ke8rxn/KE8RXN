@@ -3,9 +3,48 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-13 21:10:21 UTC
+; Generated: 2026-07-13 21:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 5:06PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 21:30 Z\nAt 506 PM EDT, Doppler radar was tracking a strong thunderstorm near Poinciana, or near West Lake Toho, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Holopaw, West Lake Toho, Poinciana, Harmony, and Alligator Lake.\nGenerated: 2026-07-13 21:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 5:12PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 21:45 Z\nAt 512 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Narcoossee, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Melbourne, Saint Cloud, Rockledge, Cocoa, and Cocoa Beach.\nGenerated: 2026-07-13 21:15:17 UTC"
+  28.0500, -80.5100
+  28.0900, -80.7300
+  28.2400, -81.3200
+  28.4500, -81.1800
+  28.4200, -80.9000
+  28.4100, -80.8900
+  28.4100, -80.8200
+  28.4200, -80.8200
+  28.3900, -80.5600
+  28.1900, -80.5600
+  28.0900, -80.5200
+  28.0500, -80.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 5:11PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-13 21:45 Z\nAt 511 PM EDT, Doppler radar was tracking a strong thunderstorm over Haines City, moving east at 25 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Winter Haven, Haines City, Lake Wales, Jan Phyl Village, Poinciana, Lake Alfred, Dundee, Davenport, Eagle Lake, Lake Hamilton, Cypress Gardens, Wahneta, Waverly, and Inwood.\nGenerated: 2026-07-13 21:15:17 UTC"
+  27.9500, -81.7900
+  28.1800, -81.7000
+  28.2200, -81.5400
+  28.1400, -81.5200
+  28.1400, -81.4600
+  28.0900, -81.4500
+  28.0800, -81.3500
+  28.0700, -81.3500
+  28.0700, -81.3700
+  28.0100, -81.3800
+  28.0600, -81.4400
+  28.0600, -81.4600
+  28.0400, -81.4600
+  28.0000, -81.4200
+  28.0000, -81.3900
+  27.9500, -81.3400
+  27.9400, -81.3500
+  27.9200, -81.3100
+  27.9500, -81.7900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 5:06PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 21:30 Z\nAt 506 PM EDT, Doppler radar was tracking a strong thunderstorm near Poinciana, or near West Lake Toho, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Holopaw, West Lake Toho, Poinciana, Harmony, and Alligator Lake.\nGenerated: 2026-07-13 21:15:17 UTC"
   28.2000, -80.9600
   27.9800, -81.0800
   28.0100, -81.4200
@@ -28,7 +67,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 5:06PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:03PM CDT by NWS Shreveport LA\nExpires: 2026-07-13 21:30 Z\nAt 403 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Naples, or 20 miles south of New Boston, moving northwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Naples, Rocky Branch, Marietta and Bryans Mill.\nGenerated: 2026-07-13 21:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 4:03PM CDT by NWS Shreveport LA\nExpires: 2026-07-13 21:30 Z\nAt 403 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Naples, or 20 miles south of New Boston, moving northwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Naples, Rocky Branch, Marietta and Bryans Mill.\nGenerated: 2026-07-13 21:15:17 UTC"
   33.1100, -94.6500
   33.1200, -94.7200
   33.3600, -94.6100
@@ -38,7 +77,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 4:03PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 2:53PM MDT by NWS Pueblo CO\nExpires: 2026-07-13 21:30 Z\nAt 252 PM MDT, Doppler radar was tracking a strong thunderstorm near Florissant, or 25 miles northwest of Colorado Springs, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph, pea size hail and brief heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Florissant and Divide.\nGenerated: 2026-07-13 21:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 2:53PM MDT by NWS Pueblo CO\nExpires: 2026-07-13 21:30 Z\nAt 252 PM MDT, Doppler radar was tracking a strong thunderstorm near Florissant, or 25 miles northwest of Colorado Springs, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph, pea size hail and brief heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Florissant and Divide.\nGenerated: 2026-07-13 21:15:17 UTC"
   39.0800, -105.3300
   39.1200, -105.2400
   39.1100, -105.1500
@@ -48,32 +87,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 2:53PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:51PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 21:15 Z\nAt 451 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Apollo Beach to near Titusville to Avalon Park. Movement was east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Titusville, Oviedo, Winter Springs, and Winter Park.\nGenerated: 2026-07-13 21:10:21 UTC"
-  28.4000, -80.5600
-  28.4100, -80.5900
-  28.4100, -80.6300
-  28.4500, -81.2800
-  28.5600, -81.4400
-  28.9900, -80.9700
-  28.9900, -80.8200
-  28.6000, -80.5400
-  28.4600, -80.4900
-  28.4000, -80.5600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 3:49PM CDT by NWS Shreveport LA\nExpires: 2026-07-13 21:15 Z\nAt 349 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles west of De Queen, moving northwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Queen, Horatio, Broken Bow, West Line, West Otis, Eagletown, Cerrogordo and Geneva.\nGenerated: 2026-07-13 21:10:21 UTC"
-  33.8900, -94.4800
-  33.8800, -94.5000
-  34.0500, -94.7600
-  34.1900, -94.4600
-  34.1900, -94.3700
-  34.0000, -94.2000
-  33.8900, -94.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:46PM EDT by NWS Columbia SC\nExpires: 2026-07-13 21:45 Z\nAt 446 PM EDT, Doppler radar was tracking numerous strong thunderstorms, moving north at 5 mph.  HAZARD...Wind gusts up to 50 mph and torrential rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, Lexington, Batesburg-Leesville, Aiken Mall, Red Bank, Edgefield, Saluda, Johnston, South Congaree, Pine Ridge, New Ellenton, Ridge Spring, Edgefield County Airport, Hamilton Branch State Park, Citizens Park, USC Aiken, Saluda County Airport, Aiken Municipal Airport, Gloverville, and Aiken State Park.  This includes Interstate 20 in South Carolina between mile markers 7 and 55.\nGenerated: 2026-07-13 21:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 4:46PM EDT by NWS Columbia SC\nExpires: 2026-07-13 21:45 Z\nAt 446 PM EDT, Doppler radar was tracking numerous strong thunderstorms, moving north at 5 mph.  HAZARD...Wind gusts up to 50 mph and torrential rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Aiken, Lexington, Batesburg-Leesville, Aiken Mall, Red Bank, Edgefield, Saluda, Johnston, South Congaree, Pine Ridge, New Ellenton, Ridge Spring, Edgefield County Airport, Hamilton Branch State Park, Citizens Park, USC Aiken, Saluda County Airport, Aiken Municipal Airport, Gloverville, and Aiken State Park.  This includes Interstate 20 in South Carolina between mile markers 7 and 55.\nGenerated: 2026-07-13 21:15:17 UTC"
   33.9800, -82.0600
   33.9800, -82.0500
   33.9500, -82.0400
@@ -89,25 +103,4 @@ Line: 2,,"Special Weather Statement issued July 13 at 4:46PM EDT by NWS Columbia
   33.3700, -81.5300
   33.7500, -82.2700
   33.9800, -82.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 3:41PM CDT by NWS Shreveport LA\nExpires: 2026-07-13 21:15 Z\nAt 341 PM CDT, Doppler radar was tracking a strong thunderstorm near Fosters, or near Bossier City, and is stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shreveport, Bossier City, Blanchard, Fosters, Eastwood, Ferguson, Barksdale Air Force Base, Red Chute, Bodcau, Cross Lake, Linton and Sligo.\nGenerated: 2026-07-13 21:10:21 UTC"
-  32.6800, -93.8800
-  32.6800, -93.5600
-  32.4100, -93.5600
-  32.4100, -93.8800
-  32.6800, -93.8800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:31PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 21:15 Z\nAt 431 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Edgewater to Conway. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Sanford, Altamonte Springs, Ocoee, and Winter Garden.\nGenerated: 2026-07-13 21:10:21 UTC"
-  28.6900, -81.3400
-  29.0100, -80.9900
-  29.0300, -80.8500
-  28.8200, -80.7000
-  28.4700, -81.0500
-  28.4700, -81.4800
-  28.5600, -81.6400
-  28.6900, -81.3400
 End:
