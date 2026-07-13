@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-13 20:40:24 UTC
+; Generated: 2026-07-13 20:45:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:36PM EDT by NWS Charleston SC\nExpires: 2026-07-13 21:00 Z\nAt 436 PM EDT, Doppler radar was tracking a strong thunderstorm near Saint Stephen, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Stephen, Bonneau, Alvin, Wilder and Russellville.\nGenerated: 2026-07-13 20:40:24 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 3:41PM CDT by NWS Shreveport LA\nExpires: 2026-07-13 21:15 Z\nAt 341 PM CDT, Doppler radar was tracking a strong thunderstorm near Fosters, or near Bossier City, and is stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shreveport, Bossier City, Blanchard, Fosters, Eastwood, Ferguson, Barksdale Air Force Base, Red Chute, Bodcau, Cross Lake, Linton and Sligo.\nGenerated: 2026-07-13 20:45:20 UTC"
+  32.6800, -93.8800
+  32.6800, -93.5600
+  32.4100, -93.5600
+  32.4100, -93.8800
+  32.6800, -93.8800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 13 at 4:36PM EDT by NWS Charleston SC\nExpires: 2026-07-13 21:00 Z\nAt 436 PM EDT, Doppler radar was tracking a strong thunderstorm near Saint Stephen, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Stephen, Bonneau, Alvin, Wilder and Russellville.\nGenerated: 2026-07-13 20:45:20 UTC"
   33.2700, -79.8700
   33.3500, -80.0000
   33.4700, -79.9300
@@ -28,7 +37,7 @@ Line: 2,,"Special Weather Statement issued July 13 at 4:36PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:31PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 21:15 Z\nAt 431 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Edgewater to Conway. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Sanford, Altamonte Springs, Ocoee, and Winter Garden.\nGenerated: 2026-07-13 20:40:24 UTC"
+Line: 2,,"Special Weather Statement issued July 13 at 4:31PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 21:15 Z\nAt 431 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Edgewater to Conway. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Sanford, Altamonte Springs, Ocoee, and Winter Garden.\nGenerated: 2026-07-13 20:45:20 UTC"
   28.6900, -81.3400
   29.0100, -80.9900
   29.0300, -80.8500
@@ -37,20 +46,4 @@ Line: 2,,"Special Weather Statement issued July 13 at 4:31PM EDT by NWS Melbourn
   28.4700, -81.4800
   28.5600, -81.6400
   28.6900, -81.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 13 at 4:01PM EDT by NWS Melbourne FL\nExpires: 2026-07-13 20:45 Z\nAt 400 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Daytona Beach Airport to near University Of Central Florida. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Deltona, Daytona Beach, Port Orange, Sanford, and Titusville.\nGenerated: 2026-07-13 20:40:24 UTC"
-  29.0900, -80.9000
-  28.8800, -80.7500
-  28.5800, -80.8400
-  28.5800, -81.3700
-  28.7700, -81.4300
-  28.8700, -81.3700
-  28.8900, -81.3600
-  28.8900, -81.3500
-  28.9000, -81.3600
-  29.2100, -81.1900
-  29.2300, -80.9700
-  29.0900, -80.9000
 End:
