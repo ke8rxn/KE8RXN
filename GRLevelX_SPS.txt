@@ -3,9 +3,25 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-14 23:40:26 UTC
+; Generated: 2026-07-14 23:45:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 7:31PM EDT by NWS Jacksonville FL\nExpires: 2026-07-15 00:15 Z\nAt 730 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Nicholls to near Braganza. Movement was northeast at 5 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Waycross, Boggy Bay, Jamestown, Pebble Hill, Braganza, Fort Mudge, and Dixie Union.\nGenerated: 2026-07-14 23:40:26 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 5:43PM MDT by NWS Riverton WY\nExpires: 2026-07-15 00:30 Z\nAt 543 PM MDT, Doppler radar was tracking a strong thunderstorm over Medicine Wheel, which is 22 miles east of Lovell, moving west at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bighorn Lake.\nGenerated: 2026-07-14 23:45:14 UTC"
+  44.9800, -107.8800
+  44.9300, -107.8800
+  44.9000, -107.8500
+  44.8900, -107.8600
+  44.8700, -107.8600
+  44.8400, -107.8300
+  44.8200, -107.8300
+  44.7600, -107.8400
+  44.7900, -108.2200
+  45.0000, -108.1000
+  45.0000, -107.9300
+  44.9800, -107.8800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 14 at 7:31PM EDT by NWS Jacksonville FL\nExpires: 2026-07-15 00:15 Z\nAt 730 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Nicholls to near Braganza. Movement was northeast at 5 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Waycross, Boggy Bay, Jamestown, Pebble Hill, Braganza, Fort Mudge, and Dixie Union.\nGenerated: 2026-07-14 23:45:14 UTC"
   31.4900, -82.5100
   31.0200, -82.0400
   31.0100, -82.2100
@@ -14,7 +30,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 7:31PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 7:26PM EDT by NWS Miami FL\nExpires: 2026-07-15 00:00 Z\nAt 725 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 10 miles south of Hendry Correctional, or 20 miles southeast of Ave Maria, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Cypress National Preserve.\nGenerated: 2026-07-14 23:40:26 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 7:26PM EDT by NWS Miami FL\nExpires: 2026-07-15 00:00 Z\nAt 725 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 10 miles south of Hendry Correctional, or 20 miles southeast of Ave Maria, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Cypress National Preserve.\nGenerated: 2026-07-14 23:45:14 UTC"
   26.0400, -81.1700
   26.1400, -81.3100
   26.3600, -81.1600
@@ -23,30 +39,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 7:26PM EDT by NWS Miami FL
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 6:22PM CDT by NWS Shreveport LA\nExpires: 2026-07-14 23:45 Z\nAt 622 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Junction City, moving southwest at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Junction City, Summerfield, Hew Hope and Three Creeks.\nGenerated: 2026-07-14 23:40:26 UTC"
-  33.0200, -92.9900
-  33.0400, -92.9900
-  33.1500, -92.8600
-  33.0100, -92.6900
-  33.0100, -92.7300
-  32.9400, -92.7300
-  32.8300, -92.7900
-  33.0100, -93.0300
-  33.0200, -93.0200
-  33.0200, -92.9900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 4:20PM PDT by NWS Elko NV\nExpires: 2026-07-14 23:45 Z\nAt 420 PM PDT, Doppler radar was tracking a cluster of strong thunderstorms 9 miles east of Jiggs, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrison Pass and Franklin Lake.\nGenerated: 2026-07-14 23:40:26 UTC"
-  40.2600, -115.4700
-  40.2900, -115.6000
-  40.5900, -115.5300
-  40.5400, -115.2800
-  40.2600, -115.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 4:20PM MST by NWS Phoenix AZ\nExpires: 2026-07-15 00:00 Z\nAt 420 PM MST, Doppler radar was tracking a strong thunderstorm over Claypool, or near Globe, moving west at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Globe, Miami, Top Of The World, Central Heights-Midland City, Top-Of-The-World, Claypool, and Inspiration.  This includes the following highways... US Highway 60 between mile markers 232 and 253. AZ Route 70 between mile markers 253 and 254. AZ Route 77 between mile markers 165 and 170.\nGenerated: 2026-07-14 23:40:26 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 4:20PM MST by NWS Phoenix AZ\nExpires: 2026-07-15 00:00 Z\nAt 420 PM MST, Doppler radar was tracking a strong thunderstorm over Claypool, or near Globe, moving west at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Globe, Miami, Top Of The World, Central Heights-Midland City, Top-Of-The-World, Claypool, and Inspiration.  This includes the following highways... US Highway 60 between mile markers 232 and 253. AZ Route 70 between mile markers 253 and 254. AZ Route 77 between mile markers 165 and 170.\nGenerated: 2026-07-14 23:45:14 UTC"
   33.5300, -110.8100
   33.3000, -110.7000
   33.2400, -111.0100
@@ -55,7 +48,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 4:20PM MST by NWS Phoenix 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 7:16PM EDT by NWS Tallahassee FL\nExpires: 2026-07-15 00:15 Z\nAt 716 PM EDT/616 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Columbia to near Graceville. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colquitt, Cottonwood, Graceville, Dothan, Blakely, Donalsonville, Taylor, Kinsey, Ashford, Slocomb, Cowarts, Webb, Columbia, Douglasville, Centerville, Malone, Malvern, Rehobeth, Avon, and Madrid.\nGenerated: 2026-07-14 23:40:26 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 7:16PM EDT by NWS Tallahassee FL\nExpires: 2026-07-15 00:15 Z\nAt 716 PM EDT/616 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Columbia to near Graceville. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colquitt, Cottonwood, Graceville, Dothan, Blakely, Donalsonville, Taylor, Kinsey, Ashford, Slocomb, Cowarts, Webb, Columbia, Douglasville, Centerville, Malone, Malvern, Rehobeth, Avon, and Madrid.\nGenerated: 2026-07-14 23:45:14 UTC"
   31.2300, -84.6700
   31.0900, -84.8100
   30.8900, -85.2100
@@ -77,16 +70,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 7:16PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 4:14PM PDT by NWS Elko NV\nExpires: 2026-07-14 23:45 Z\nAt 414 PM PDT, Doppler radar was tracking a strong thunderstorm 20 miles south of Pine Valley, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of central Eureka County.\nGenerated: 2026-07-14 23:40:26 UTC"
-  40.0600, -116.2200
-  40.0600, -116.3100
-  40.2300, -116.3800
-  40.2300, -116.1500
-  40.0600, -116.2200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 5:08PM MDT by NWS Great Falls MT\nExpires: 2026-07-15 00:00 Z\nAt 508 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Winifred, or 35 miles north of Lewistown, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Judith Landing.\nGenerated: 2026-07-14 23:40:26 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 5:08PM MDT by NWS Great Falls MT\nExpires: 2026-07-15 00:00 Z\nAt 508 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Winifred, or 35 miles north of Lewistown, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Judith Landing.\nGenerated: 2026-07-14 23:45:14 UTC"
   47.5300, -109.3700
   47.4600, -109.7100
   47.7300, -109.9100
@@ -95,7 +79,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 5:08PM MDT by NWS Great Fa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 5:01PM MDT by NWS Albuquerque NM\nExpires: 2026-07-15 00:00 Z\nAt 501 PM MDT, surface observations indicated east wind gusts continuing up to 50 mph on the east side of Albuquerque.  HAZARD...Wind gusts of 50 mph.  SOURCE...Surface observations.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albuquerque, Los Ranchos De Albuquerque, South Valley, North Valley, Sandia Heights and Alameda.  This includes the following highways... Interstate 40 between Mile Markers 157 and 168. Interstate 25 between Mile Markers 211 and 234.\nGenerated: 2026-07-14 23:40:26 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 5:01PM MDT by NWS Albuquerque NM\nExpires: 2026-07-15 00:00 Z\nAt 501 PM MDT, surface observations indicated east wind gusts continuing up to 50 mph on the east side of Albuquerque.  HAZARD...Wind gusts of 50 mph.  SOURCE...Surface observations.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albuquerque, Los Ranchos De Albuquerque, South Valley, North Valley, Sandia Heights and Alameda.  This includes the following highways... Interstate 40 between Mile Markers 157 and 168. Interstate 25 between Mile Markers 211 and 234.\nGenerated: 2026-07-14 23:45:14 UTC"
   35.1700, -106.4800
   35.1500, -106.4800
   35.1200, -106.4900
@@ -109,13 +93,4 @@ Line: 2,,"Special Weather Statement issued July 14 at 5:01PM MDT by NWS Albuquer
   35.2100, -106.5000
   35.2000, -106.4900
   35.1700, -106.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 5:00PM MDT by NWS Great Falls MT\nExpires: 2026-07-14 23:45 Z\nAt 459 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Stanford, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Stanford, Windham, and Benchland.\nGenerated: 2026-07-14 23:40:26 UTC"
-  46.9400, -110.4100
-  47.0800, -110.5400
-  47.3700, -110.1900
-  47.0700, -109.9200
-  46.9400, -110.4100
 End:
