@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-15 18:40:32 UTC
+; Generated: 2026-07-15 18:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 1:30PM CDT by NWS Memphis TN\nExpires: 2026-07-15 19:15 Z\nAt 130 PM CDT, Doppler radar was tracking a strong thunderstorm near Piggott, moving west at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jonesboro, Paragould, Kennett, Piggott, Corning, Bono, Rector, Senath, Brookland, Marmaduke, Crowleys Ridge State Park, Lake Frierson State Park, Clarkton, Oak Grove Heights, Cardwell, Holcomb, Arbyrd, Lafe, Reyno, and Cash.\nGenerated: 2026-07-15 18:40:32 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 1:42PM CDT by NWS Shreveport LA\nExpires: 2026-07-15 19:30 Z\nAt 142 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from over Troup to 14 miles southwest of Lindale, or extending from 7 miles southeast of Whitehouse to 19 miles west of Tyler, moving northeast at 20 mph. A 38 mph wind gust was measured at Tyler Pounds Field with this line of showers and isolated storms.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tyler, Whitehouse, Gladewater, Mineola, Lindale, Overton, Troup, Big Sandy, Hawkins, Arp, Clarksville City, Hoard, Liberty City, Golden, Noonday, New Chapel Hill, Winona, Union Grove and Warren City.\nGenerated: 2026-07-15 18:45:13 UTC"
+  32.7500, -95.6400
+  32.7700, -95.6300
+  32.6400, -95.1300
+  32.6000, -94.8700
+  32.1400, -95.0000
+  32.1700, -95.4200
+  32.1900, -95.4700
+  32.2400, -95.4900
+  32.2500, -95.4700
+  32.3000, -95.4500
+  32.3600, -95.4500
+  32.4800, -95.5900
+  32.6900, -95.5900
+  32.7200, -95.6300
+  32.7500, -95.6400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 15 at 1:30PM CDT by NWS Memphis TN\nExpires: 2026-07-15 19:15 Z\nAt 130 PM CDT, Doppler radar was tracking a strong thunderstorm near Piggott, moving west at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jonesboro, Paragould, Kennett, Piggott, Corning, Bono, Rector, Senath, Brookland, Marmaduke, Crowleys Ridge State Park, Lake Frierson State Park, Clarkton, Oak Grove Heights, Cardwell, Holcomb, Arbyrd, Lafe, Reyno, and Cash.\nGenerated: 2026-07-15 18:45:13 UTC"
   36.4900, -89.9600
   36.3900, -89.9700
   36.3800, -89.8900
@@ -23,7 +42,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 1:30PM CDT by NWS Memphis 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 1:29PM CDT by NWS Norman OK\nExpires: 2026-07-15 19:00 Z\nAt 129 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Little, moving west at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Seminole, Little, and Centerview.\nGenerated: 2026-07-15 18:40:32 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 1:29PM CDT by NWS Norman OK\nExpires: 2026-07-15 19:00 Z\nAt 129 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Little, moving west at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Seminole, Little, and Centerview.\nGenerated: 2026-07-15 18:45:13 UTC"
   35.2800, -96.4700
   35.2100, -96.7800
   35.4400, -96.7800
@@ -43,34 +62,10 @@ Line: 2,,"Special Weather Statement issued July 15 at 1:29PM CDT by NWS Norman O
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 1:27PM CDT by NWS Norman OK\nExpires: 2026-07-15 19:00 Z\nAt 127 PM CDT, Doppler radar was tracking a strong thunderstorm over southern Oklahoma City, moving south at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Southern Oklahoma City, western Norman, Moore, Newcastle, Goldsby, Valley Brook, and Will Rogers Airport.\nGenerated: 2026-07-15 18:40:32 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 1:27PM CDT by NWS Norman OK\nExpires: 2026-07-15 19:00 Z\nAt 127 PM CDT, Doppler radar was tracking a strong thunderstorm over southern Oklahoma City, moving south at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Southern Oklahoma City, western Norman, Moore, Newcastle, Goldsby, Valley Brook, and Will Rogers Airport.\nGenerated: 2026-07-15 18:45:13 UTC"
   35.4200, -97.6700
   35.4300, -97.4900
   35.1800, -97.3600
   35.1700, -97.6300
   35.4200, -97.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 1:09PM CDT by NWS Memphis TN\nExpires: 2026-07-15 18:45 Z\nAt 109 PM CDT, Doppler radar was tracking a strong thunderstorm near Caraway, moving southwest at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jonesboro, Trumann, Manila, Lake City, Leachville, Lepanto, Bay, Brookland, Monette, Caraway, Dell, Little River, Etowah, Black Oak, Jolliff Store, Payneway, Apt, Delfore, Lennie, and Vail.\nGenerated: 2026-07-15 18:40:32 UTC"
-  36.0700, -90.3300
-  36.0500, -90.3400
-  36.0400, -90.3500
-  36.0300, -90.3500
-  36.0100, -90.3700
-  36.0000, -90.3700
-  36.0000, -90.2000
-  35.8300, -89.9700
-  35.5100, -90.5100
-  35.8400, -90.7600
-  36.0700, -90.3300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 11:52AM MDT by NWS Salt Lake City UT\nExpires: 2026-07-15 18:45 Z\nAt 1152 AM MDT, Doppler radar was tracking a strong thunderstorm 16 miles northeast of Loa, or 33 miles east of Richfield, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southwestern Emery and southeastern Sevier Counties.\nGenerated: 2026-07-15 18:40:32 UTC"
-  38.5000, -111.5000
-  38.6400, -111.6600
-  38.7400, -111.5100
-  38.6200, -111.2300
-  38.5000, -111.5000
 End:
