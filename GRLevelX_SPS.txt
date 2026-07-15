@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-15 04:55:13 UTC
+; Generated: 2026-07-15 05:01:01 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 12:38AM EDT by NWS Caribou ME\nExpires: 2026-07-15 05:30 Z\nAt 1237 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 12 miles northeast of Dickey to 17 miles southwest of Estcourt Station to 24 miles north of Saint Pamphile. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Kent, Eagle Lake, Allagash, Deboullie Mountain, New Canada, Allagash Township, Dickey, Wallagrass, Winterville, Saint Francis, Saint John, and Soldier Pond.  This includes the following highways... US Highway 1 near Fort Kent. State Highway 11 between Winterville and Fort Kent.\nGenerated: 2026-07-15 04:55:13 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 12:59AM EDT by NWS Miami FL\nExpires: 2026-07-15 05:45 Z\nAt 1259 AM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over West Toll Gate On Alligator Alley, or near Golden Gate Estates. This storm was nearly stationary.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Naples, Marco Island, Golden Gate Estates, Belle Meade, Marco Island Airport, Naples Manor, Golden Gate, East Naples, Lely Resort, West Toll Gate On Alligator Alley, Vineyards, North Naples, Lely, Rookery Bay Aquatic Preserve, Picayune Strand State Forest, and Fiddlers Creek.\nGenerated: 2026-07-15 05:01:01 UTC"
+  26.2700, -81.7500
+  26.2700, -81.6300
+  26.0800, -81.5200
+  25.9500, -81.6700
+  25.9500, -81.6900
+  25.9600, -81.6800
+  25.9600, -81.7000
+  25.9700, -81.6600
+  25.9800, -81.7000
+  25.9500, -81.7200
+  25.9900, -81.7100
+  25.9600, -81.7300
+  25.9900, -81.7200
+  25.9900, -81.7400
+  26.0900, -81.8000
+  26.1900, -81.8200
+  26.2700, -81.7500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 15 at 12:38AM EDT by NWS Caribou ME\nExpires: 2026-07-15 05:30 Z\nAt 1237 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 12 miles northeast of Dickey to 17 miles southwest of Estcourt Station to 24 miles north of Saint Pamphile. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Kent, Eagle Lake, Allagash, Deboullie Mountain, New Canada, Allagash Township, Dickey, Wallagrass, Winterville, Saint Francis, Saint John, and Soldier Pond.  This includes the following highways... US Highway 1 near Fort Kent. State Highway 11 between Winterville and Fort Kent.\nGenerated: 2026-07-15 05:01:01 UTC"
   47.2500, -69.0400
   47.1800, -68.9000
   47.2400, -68.7200
@@ -18,41 +39,4 @@ Line: 2,,"Special Weather Statement issued July 15 at 12:38AM EDT by NWS Caribou
   47.2800, -69.4100
   47.3000, -69.0500
   47.2500, -69.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 11:29PM CDT by NWS Bismarck ND\nExpires: 2026-07-15 05:00 Z\nAt 1129 PM CDT, an area of strong thunderstorms extended from 7 miles south of Lignite to near Hanks, or from 32 miles north of Stanley to 29 miles north of Williston, moving east at 10 mph.  HAZARD...Half inch size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Bowbells, Powers Lake, Grenora, Wildrose, Battleview, Alamo, Hamlet, Mcgregor, Corinth, Appam, Zahl, Hanks, and Coteau.\nGenerated: 2026-07-15 04:55:13 UTC"
-  48.7400, -104.0500
-  48.9000, -102.1600
-  48.7600, -102.1500
-  48.7200, -102.1500
-  48.7200, -102.2300
-  48.5500, -102.2300
-  48.5500, -102.8900
-  48.5100, -102.8900
-  48.4500, -104.0500
-  48.7400, -104.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 12:20AM EDT by NWS Miami FL\nExpires: 2026-07-15 05:00 Z\nAt 1219 AM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Golden Gate Estates, moving southwest at 25 mph.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Naples, Marco Island, Golden Gate Estates, Belle Meade, Orangetree, Naples Manor, Golden Gate, East Naples, Lely Resort, West Toll Gate On Alligator Alley, Vineyards, North Naples, Pelican Bay, Lely, Rookery Bay Aquatic Preserve, Intersection I-75 And Everglades Blvd, Quail Creek Estate, and Fiddlers Creek.\nGenerated: 2026-07-15 04:55:13 UTC"
-  26.2400, -81.8200
-  26.3200, -81.7200
-  26.3200, -81.6600
-  26.3600, -81.6600
-  26.3800, -81.6300
-  26.2300, -81.5000
-  26.1200, -81.5200
-  25.9500, -81.7300
-  25.9700, -81.7400
-  25.9800, -81.7300
-  25.9600, -81.7300
-  25.9800, -81.7100
-  25.9900, -81.7200
-  26.0100, -81.7600
-  25.9900, -81.7300
-  25.9800, -81.7400
-  25.9800, -81.7500
-  26.0900, -81.8000
-  26.2400, -81.8200
 End:
