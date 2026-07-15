@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-15 20:10:27 UTC
+; Generated: 2026-07-15 20:15:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 2:09PM MDT by NWS Great Falls MT\nExpires: 2026-07-15 20:45 Z\nAt 208 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Stanford, moving northeast at 15 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Windham.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 1:12PM PDT by NWS Elko NV\nExpires: 2026-07-15 20:45 Z\nAt 112 PM PDT, Doppler radar was tracking a strong thunderstorm 15 miles northeast of Lages Junction, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... White Horse Pass.\nGenerated: 2026-07-15 20:15:20 UTC"
+  40.1000, -114.4500
+  40.1900, -114.6300
+  40.4800, -114.4300
+  40.3500, -114.1400
+  40.1000, -114.4500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 15 at 2:09PM MDT by NWS Great Falls MT\nExpires: 2026-07-15 20:45 Z\nAt 208 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Stanford, moving northeast at 15 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Windham.\nGenerated: 2026-07-15 20:15:20 UTC"
   46.9300, -110.3400
   47.0300, -110.4600
   47.1700, -110.2600
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 2:09PM MDT by NWS Great Fa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 1:09PM PDT by NWS Elko NV\nExpires: 2026-07-15 20:45 Z\nAt 109 PM PDT, Doppler radar was tracking a strong thunderstorm 13 miles north of Cherry Creek, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central White Pine and southeastern Elko Counties.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 1:09PM PDT by NWS Elko NV\nExpires: 2026-07-15 20:45 Z\nAt 109 PM PDT, Doppler radar was tracking a strong thunderstorm 13 miles north of Cherry Creek, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central White Pine and southeastern Elko Counties.\nGenerated: 2026-07-15 20:15:20 UTC"
   39.9400, -114.9700
   40.0300, -115.1200
   40.3000, -114.9200
@@ -23,7 +32,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 1:09PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 4:08PM EDT by NWS Upton NY\nExpires: 2026-07-15 20:45 Z\nAt 407 PM EDT, Doppler radar was tracking a developing cluster of thunderstorms along a line extending from near West Milford to near Franklin to Bushkill. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... West Milford and Ringwood around 410 PM EDT. Ramsey and Pompton Lakes around 415 PM EDT. Ridgewood around 420 PM EDT. Wayne and Hawthorne around 425 PM EDT. Paterson and Paramus around 430 PM EDT. Bergenfield and Fairfield around 435 PM EDT. Hackensack and Riverdale around 440 PM EDT.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 4:08PM EDT by NWS Upton NY\nExpires: 2026-07-15 20:45 Z\nAt 407 PM EDT, Doppler radar was tracking a developing cluster of thunderstorms along a line extending from near West Milford to near Franklin to Bushkill. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... West Milford and Ringwood around 410 PM EDT. Ramsey and Pompton Lakes around 415 PM EDT. Ridgewood around 420 PM EDT. Wayne and Hawthorne around 425 PM EDT. Paterson and Paramus around 430 PM EDT. Bergenfield and Fairfield around 435 PM EDT. Hackensack and Riverdale around 440 PM EDT.\nGenerated: 2026-07-15 20:15:20 UTC"
   41.0800, -74.4900
   41.0900, -74.5000
   41.1300, -74.4500
@@ -48,7 +57,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 4:08PM EDT by NWS Upton NY
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 3:05PM CDT by NWS Shreveport LA\nExpires: 2026-07-15 20:30 Z\nAt 305 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Douglass to near Etoile. Movement was northeast at 30 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Nacogdoches, Woden, and Douglass around 310 PM CDT. Melrose around 315 PM CDT.  Other locations impacted by these storms include Appleby, Denning, Calgary, Jericho, Stockman, Clawson, Central, Glenfawn, Chireno, and Redland.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 3:05PM CDT by NWS Shreveport LA\nExpires: 2026-07-15 20:30 Z\nAt 305 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Douglass to near Etoile. Movement was northeast at 30 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Nacogdoches, Woden, and Douglass around 310 PM CDT. Melrose around 315 PM CDT.  Other locations impacted by these storms include Appleby, Denning, Calgary, Jericho, Stockman, Clawson, Central, Glenfawn, Chireno, and Redland.\nGenerated: 2026-07-15 20:15:20 UTC"
   32.0000, -94.8800
   31.6700, -94.0000
   31.2600, -94.4000
@@ -57,7 +66,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 3:05PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 4:03PM EDT by NWS State College PA\nExpires: 2026-07-15 20:45 Z\nAt 402 PM EDT, Doppler radar was tracking a strong thunderstorm near Barbours, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jamison City, Waller, Kettle Creek Gorge, Ricketts Glen State Park, Central, Ralston, Fairmount Spgs, Biggertown, Muncy Valley, Barbours, Benton, Picture Rocks, Laporte, Stillwater, Eagles Mere, and Hillsgrove.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 4:03PM EDT by NWS State College PA\nExpires: 2026-07-15 20:45 Z\nAt 402 PM EDT, Doppler radar was tracking a strong thunderstorm near Barbours, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jamison City, Waller, Kettle Creek Gorge, Ricketts Glen State Park, Central, Ralston, Fairmount Spgs, Biggertown, Muncy Valley, Barbours, Benton, Picture Rocks, Laporte, Stillwater, Eagles Mere, and Hillsgrove.\nGenerated: 2026-07-15 20:15:20 UTC"
   41.0900, -76.2900
   41.4400, -77.0400
   41.5600, -76.9600
@@ -69,7 +78,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 4:03PM EDT by NWS State Co
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 4:03PM EDT by NWS Miami FL\nExpires: 2026-07-15 20:30 Z\nAt 403 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 7 miles west of Coral Springs, moving southwest at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Coral Springs, Sunrise, Tamarac, Weston, Parkland, Intersection I-75 And U.S. 27, Loxahatchee NWR, and Markham Park.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 4:03PM EDT by NWS Miami FL\nExpires: 2026-07-15 20:30 Z\nAt 403 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 7 miles west of Coral Springs, moving southwest at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Coral Springs, Sunrise, Tamarac, Weston, Parkland, Intersection I-75 And U.S. 27, Loxahatchee NWR, and Markham Park.\nGenerated: 2026-07-15 20:15:20 UTC"
   26.3900, -80.3400
   26.3000, -80.2400
   26.0800, -80.3900
@@ -78,7 +87,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 4:03PM EDT by NWS Miami FL
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 3:01PM CDT by NWS Shreveport LA\nExpires: 2026-07-15 20:30 Z\nAt 300 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Beckville to 11 miles southwest of Stonewall. Movement was northeast at 25 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Beckville around 305 PM CDT. Stonewall and Deberry around 315 PM CDT.  Other locations impacted by these storms include Gloster, Keat Chie, Midyett, Kickapoo, Keithville, Deadwood, Keachi, Front, Spring Ridge, and Longstreet.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 3:01PM CDT by NWS Shreveport LA\nExpires: 2026-07-15 20:30 Z\nAt 300 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Beckville to 11 miles southwest of Stonewall. Movement was northeast at 25 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Beckville around 305 PM CDT. Stonewall and Deberry around 315 PM CDT.  Other locations impacted by these storms include Gloster, Keat Chie, Midyett, Kickapoo, Keithville, Deadwood, Keachi, Front, Spring Ridge, and Longstreet.\nGenerated: 2026-07-15 20:15:20 UTC"
   32.4400, -94.3800
   32.3500, -93.5900
   32.0200, -94.0300
@@ -87,7 +96,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 3:01PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 1:00PM PDT by NWS Elko NV\nExpires: 2026-07-15 20:30 Z\nAt 100 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles east of Jarbidge, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northern Elko County.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 1:00PM PDT by NWS Elko NV\nExpires: 2026-07-15 20:30 Z\nAt 100 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles east of Jarbidge, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northern Elko County.\nGenerated: 2026-07-15 20:15:20 UTC"
   41.8400, -114.9700
   41.8500, -115.2100
   41.8900, -115.2500
@@ -97,7 +106,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 1:00PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 2:59PM CDT by NWS Shreveport LA\nExpires: 2026-07-15 20:30 Z\nAt 258 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near White Oak to near Beckville. Movement was northeast at 35 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Longview and Hallsville around 305 PM CDT. Marshall around 315 PM CDT.  Other locations impacted by these storms include Lakeport, Jonesville, Warren City, Nesbitt, Easton, Darco, Scottsville, Judson, and Union Grove.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 2:59PM CDT by NWS Shreveport LA\nExpires: 2026-07-15 20:30 Z\nAt 258 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near White Oak to near Beckville. Movement was northeast at 35 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Longview and Hallsville around 305 PM CDT. Marshall around 315 PM CDT.  Other locations impacted by these storms include Lakeport, Jonesville, Warren City, Nesbitt, Easton, Darco, Scottsville, Judson, and Union Grove.\nGenerated: 2026-07-15 20:15:20 UTC"
   32.8400, -94.7800
   32.5500, -94.0400
   32.4900, -94.0400
@@ -107,7 +116,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 2:59PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 12:57PM PDT by NWS Elko NV\nExpires: 2026-07-15 20:30 Z\nAt 1257 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of New Pass Summit, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Lander County.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 12:57PM PDT by NWS Elko NV\nExpires: 2026-07-15 20:30 Z\nAt 1257 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of New Pass Summit, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Lander County.\nGenerated: 2026-07-15 20:15:20 UTC"
   39.3900, -117.7000
   39.4000, -117.6800
   39.4200, -117.6800
@@ -122,7 +131,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 12:57PM PDT by NWS Elko NV
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 1:57PM MDT by NWS Grand Junction CO\nExpires: 2026-07-15 20:30 Z\nAt 157 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Bayfield, or 14 miles northeast of Durango, moving south at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of east central La Plata County.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 1:57PM MDT by NWS Grand Junction CO\nExpires: 2026-07-15 20:30 Z\nAt 157 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Bayfield, or 14 miles northeast of Durango, moving south at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of east central La Plata County.\nGenerated: 2026-07-15 20:15:20 UTC"
   37.4600, -107.7100
   37.4500, -107.6100
   37.2600, -107.6300
@@ -131,7 +140,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 1:57PM MDT by NWS Grand Ju
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 3:57PM EDT by NWS Miami FL\nExpires: 2026-07-15 20:30 Z\nAt 357 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 8 miles west of Miccosukee Resort, or 18 miles northwest of Kendall, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... The Redland.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 3:57PM EDT by NWS Miami FL\nExpires: 2026-07-15 20:30 Z\nAt 357 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 8 miles west of Miccosukee Resort, or 18 miles northwest of Kendall, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... The Redland.\nGenerated: 2026-07-15 20:15:20 UTC"
   25.9000, -80.6400
   25.8500, -80.5100
   25.5800, -80.5600
@@ -140,7 +149,7 @@ Line: 2,,"Special Weather Statement issued July 15 at 3:57PM EDT by NWS Miami FL
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 15 at 2:28PM CDT by NWS Fort Worth TX\nExpires: 2026-07-15 20:30 Z\nAt 225 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Heath to Farmers Branch to Eagle Mountain to near Weatherford. Movement was north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Dallas, Fort Worth, Plano, Garland, Irving, Carrollton, Richardson, Lewisville, Flower Mound, and Rowlett around 230 PM CDT. Denton, Corinth, Lake Dallas, Lake Lewisville, Argyle, New Fairview, Boyd, Poolville, and Corral City around 245 PM CDT. McKinney, Little Elm, Fairview, Shady Shores, and Hackberry around 250 PM CDT. Decatur, Celina, Krum, and Krugerville around 305 PM CDT.\nGenerated: 2026-07-15 20:10:27 UTC"
+Line: 2,,"Special Weather Statement issued July 15 at 2:28PM CDT by NWS Fort Worth TX\nExpires: 2026-07-15 20:30 Z\nAt 225 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Heath to Farmers Branch to Eagle Mountain to near Weatherford. Movement was north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Dallas, Fort Worth, Plano, Garland, Irving, Carrollton, Richardson, Lewisville, Flower Mound, and Rowlett around 230 PM CDT. Denton, Corinth, Lake Dallas, Lake Lewisville, Argyle, New Fairview, Boyd, Poolville, and Corral City around 245 PM CDT. McKinney, Little Elm, Fairview, Shady Shores, and Hackberry around 250 PM CDT. Decatur, Celina, Krum, and Krugerville around 305 PM CDT.\nGenerated: 2026-07-15 20:15:20 UTC"
   33.4000, -96.3900
   33.3400, -96.3800
   33.3500, -96.2900
