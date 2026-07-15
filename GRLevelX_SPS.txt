@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-15 03:55:12 UTC
+; Generated: 2026-07-15 04:00:33 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 11:51PM EDT by NWS Miami FL\nExpires: 2026-07-15 04:30 Z\nAt 1151 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near Ave Maria, moving southwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Golden Gate Estates, Ave Maria, Immokalee, Orangetree, Big Corkscrew Island, Corkscrew Swamp Sanctuary, Intersection I-75 And Everglades Blvd, and Lake Trafford.\nGenerated: 2026-07-15 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 11:51PM EDT by NWS Miami FL\nExpires: 2026-07-15 04:30 Z\nAt 1151 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near Ave Maria, moving southwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Golden Gate Estates, Ave Maria, Immokalee, Orangetree, Big Corkscrew Island, Corkscrew Swamp Sanctuary, Intersection I-75 And Everglades Blvd, and Lake Trafford.\nGenerated: 2026-07-15 04:00:33 UTC"
   26.3200, -81.6700
   26.3200, -81.6600
   26.4200, -81.6600
@@ -19,7 +19,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 11:51PM EDT by NWS Miami F
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 9:49PM MDT by NWS Great Falls MT\nExpires: 2026-07-15 04:30 Z\nAt 949 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles north of White Sulphur Springs, moving north at 30 mph.  HAZARD...Wind gusts up to 40 mph and half-inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Neihart.\nGenerated: 2026-07-15 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 9:49PM MDT by NWS Great Falls MT\nExpires: 2026-07-15 04:30 Z\nAt 949 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles north of White Sulphur Springs, moving north at 30 mph.  HAZARD...Wind gusts up to 40 mph and half-inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Neihart.\nGenerated: 2026-07-15 04:00:33 UTC"
   46.6400, -110.8700
   46.6700, -111.0400
   47.1100, -111.1000
@@ -28,28 +28,10 @@ Line: 2,,"Special Weather Statement issued July 14 at 9:49PM MDT by NWS Great Fa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 8:46PM PDT by NWS Elko NV\nExpires: 2026-07-15 04:15 Z\nAt 846 PM PDT, Doppler radar was tracking a strong thunderstorm near Midas, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midas.\nGenerated: 2026-07-15 03:55:12 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 8:46PM PDT by NWS Elko NV\nExpires: 2026-07-15 04:15 Z\nAt 846 PM PDT, Doppler radar was tracking a strong thunderstorm near Midas, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midas.\nGenerated: 2026-07-15 04:00:33 UTC"
   41.2100, -116.9100
   41.2600, -116.9800
   41.4000, -116.8600
   41.2900, -116.7200
   41.2100, -116.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 8:31PM PDT by NWS Elko NV\nExpires: 2026-07-15 04:00 Z\nAt 830 PM PDT, Doppler radar was tracking a strong thunderstorm near Valmy, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Valmy and Lone Tree Mine.\nGenerated: 2026-07-15 03:55:12 UTC"
-  40.6400, -117.2300
-  40.7000, -117.3400
-  40.8700, -117.1800
-  40.7500, -116.9900
-  40.6400, -117.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 8:28PM PDT by NWS Elko NV\nExpires: 2026-07-15 04:00 Z\nAt 828 PM PDT, Doppler radar was tracking a strong thunderstorm 17 miles northeast of Valmy, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Humboldt, northern Lander and western Elko Counties.\nGenerated: 2026-07-15 03:55:12 UTC"
-  40.9000, -116.9700
-  40.9600, -117.0500
-  41.1100, -116.9300
-  41.0100, -116.7800
-  40.9000, -116.9700
 End:
