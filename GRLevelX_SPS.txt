@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-15 01:25:15 UTC
+; Generated: 2026-07-15 01:30:27 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 9:20PM EDT by NWS Tallahassee FL\nExpires: 2026-07-15 02:00 Z\nAt 920 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles north of Steinhatchee to near Fowlers Bluff. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cross City, Steinhatchee, Suwannee, Tennille, Shamrock, Clara, Shired Island, Cross City Airport, Old Town, Jonesboro, Jack Lee Island, Hatch Bend, Salem, Cedar Island, Cooks Hammock, Howell Place, Guaranto Springs, Carbur, Jena, and Hines.\nGenerated: 2026-07-15 01:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 6:26PM PDT by NWS Boise ID\nExpires: 2026-07-15 02:15 Z\nAt 626 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Freezeout Mountain, or 32 miles west of Parma, moving northeast at 5 mph.  HAZARD...Penny size hail. Heavy rain. Localized flooding.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of north central Malheur County.\nGenerated: 2026-07-15 01:30:27 UTC"
+  43.6300, -117.5700
+  43.6800, -117.7600
+  43.9500, -117.6100
+  43.8300, -117.2900
+  43.6300, -117.5700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 14 at 9:20PM EDT by NWS Tallahassee FL\nExpires: 2026-07-15 02:00 Z\nAt 920 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles north of Steinhatchee to near Fowlers Bluff. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cross City, Steinhatchee, Suwannee, Tennille, Shamrock, Clara, Shired Island, Cross City Airport, Old Town, Jonesboro, Jack Lee Island, Hatch Bend, Salem, Cedar Island, Cooks Hammock, Howell Place, Guaranto Springs, Carbur, Jena, and Hines.\nGenerated: 2026-07-15 01:30:27 UTC"
   29.8100, -82.9300
   29.7200, -82.9500
   29.7200, -82.9600
@@ -28,7 +37,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 9:20PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 9:18PM EDT by NWS Jacksonville FL\nExpires: 2026-07-15 01:45 Z\nAt 918 PM EDT, Doppler radar was tracking a strong thunderstorm over Talbot Island, or 11 miles northeast of Arlington, moving east at 20 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Little Talbot Island, Mayport, and Talbot Island.\nGenerated: 2026-07-15 01:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 9:18PM EDT by NWS Jacksonville FL\nExpires: 2026-07-15 01:45 Z\nAt 918 PM EDT, Doppler radar was tracking a strong thunderstorm over Talbot Island, or 11 miles northeast of Arlington, moving east at 20 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Little Talbot Island, Mayport, and Talbot Island.\nGenerated: 2026-07-15 01:30:27 UTC"
   30.3700, -81.4900
   30.5100, -81.5100
   30.5200, -81.3800
@@ -37,7 +46,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 9:18PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 6:13PM PDT by NWS Elko NV\nExpires: 2026-07-15 01:45 Z\nAt 612 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Clover Valley, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Elko County.\nGenerated: 2026-07-15 01:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 6:13PM PDT by NWS Elko NV\nExpires: 2026-07-15 01:45 Z\nAt 612 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Clover Valley, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Elko County.\nGenerated: 2026-07-15 01:30:27 UTC"
   40.6700, -114.9200
   40.7100, -115.0200
   41.0100, -114.9300
@@ -46,34 +55,7 @@ Line: 2,,"Special Weather Statement issued July 14 at 6:13PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 9:01PM EDT by NWS Jacksonville FL\nExpires: 2026-07-15 01:30 Z\nAt 901 PM EDT, Doppler radar was tracking a strong thunderstorm over Oceanway, or near Jacksonville International Arpt, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Oceanway and Fort Caroline.\nGenerated: 2026-07-15 01:25:15 UTC"
-  30.3600, -81.6600
-  30.5200, -81.6900
-  30.6300, -81.5200
-  30.3700, -81.4600
-  30.3600, -81.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 6:58PM MDT by NWS Great Falls MT\nExpires: 2026-07-15 01:30 Z\nAt 658 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles east of Fort Benton, moving east at 50 mph.  HAZARD...Winds in excess of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Iliad.\nGenerated: 2026-07-15 01:25:15 UTC"
-  47.7300, -110.4700
-  47.9000, -110.5600
-  48.1400, -109.8900
-  47.7800, -109.7500
-  47.7300, -110.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 5:52PM PDT by NWS Boise ID\nExpires: 2026-07-15 01:30 Z\nAt 552 PM PDT, Doppler radar was tracking a strong thunderstorm near Freezeout Mountain, or 32 miles west of Parma, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Harper, Double Mountain, and Little Valley.\nGenerated: 2026-07-15 01:25:15 UTC"
-  43.8400, -117.2800
-  43.6300, -117.5400
-  43.7000, -117.7400
-  43.9600, -117.6000
-  43.8400, -117.2800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 14 at 8:50PM EDT by NWS Melbourne FL\nExpires: 2026-07-15 01:45 Z\nAt 849 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Fort Pierce Inlet to near White City to near Okeechobee. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Saint Lucie, Jupiter, Walton, Fort Pierce, and Stuart.\nGenerated: 2026-07-15 01:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 14 at 8:50PM EDT by NWS Melbourne FL\nExpires: 2026-07-15 01:45 Z\nAt 849 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Fort Pierce Inlet to near White City to near Okeechobee. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Saint Lucie, Jupiter, Walton, Fort Pierce, and Stuart.\nGenerated: 2026-07-15 01:30:27 UTC"
   26.9700, -80.0800
   26.9700, -80.1400
   26.9500, -80.1500
