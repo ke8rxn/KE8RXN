@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-16 18:25:15 UTC
+; Generated: 2026-07-16 18:30:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 2:20PM EDT by NWS Jacksonville FL\nExpires: 2026-07-16 18:45 Z\nAt 220 PM EDT, Doppler radar was tracking a strong thunderstorm over Plant Hatch. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Plant Hatch.\nGenerated: 2026-07-16 18:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 1:29PM CDT by NWS Fort Worth TX\nExpires: 2026-07-16 19:15 Z\nAt 129 PM CDT, Doppler radar was tracking a strong thunderstorm over Fate, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Royse City around 135 PM CDT. Farmersville around 150 PM CDT. Merit around 200 PM CDT.  Other locations impacted by this storm include Kellogg, Frognot, Kingston, Clinton, Blue Ridge, Floyd, Josephine, Lavon, Copeville, and Nevada.  This includes Interstate 30 between mile markers 68 and 92, and near mile marker 95.\nGenerated: 2026-07-16 18:30:21 UTC"
+  33.2300, -96.0000
+  32.8400, -96.3300
+  32.9200, -96.5200
+  33.3500, -96.4000
+  33.2300, -96.0000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 16 at 2:20PM EDT by NWS Jacksonville FL\nExpires: 2026-07-16 18:45 Z\nAt 220 PM EDT, Doppler radar was tracking a strong thunderstorm over Plant Hatch. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Plant Hatch.\nGenerated: 2026-07-16 18:30:21 UTC"
   31.9500, -82.3700
   31.9400, -82.3800
   31.9400, -82.3100
@@ -24,7 +33,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 2:20PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 2:13PM EDT by NWS Burlington VT\nExpires: 2026-07-16 19:15 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near New Haven to near Brookfield. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Middlebury, Rutland, Woodstock, White River Junction, Cornwall, Braintree Hill, Sudbury, Weybridge, Orange, Killington, Salisbury, Rutland City, Websterville, Lincoln, Orwell, Pomfret, Hartland, Chittenden, West Rutland, and Whiting.  This includes the following highways... Interstate 89 between mile markers 1 and 46. Interstate 91 between mile markers 60 and 61, and between mile markers 63 and 79.\nGenerated: 2026-07-16 18:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 2:13PM EDT by NWS Burlington VT\nExpires: 2026-07-16 19:15 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near New Haven to near Brookfield. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Middlebury, Rutland, Woodstock, White River Junction, Cornwall, Braintree Hill, Sudbury, Weybridge, Orange, Killington, Salisbury, Rutland City, Websterville, Lincoln, Orwell, Pomfret, Hartland, Chittenden, West Rutland, and Whiting.  This includes the following highways... Interstate 89 between mile markers 1 and 46. Interstate 91 between mile markers 60 and 61, and between mile markers 63 and 79.\nGenerated: 2026-07-16 18:30:21 UTC"
   43.5800, -73.2800
   44.1200, -73.3600
   44.1700, -72.3400
@@ -41,7 +50,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 2:13PM EDT by NWS Burlingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 2:08PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-16 18:45 Z\nAt 207 PM EDT, Doppler radar was tracking a strong thunderstorm near Toccoa, moving west at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Toccoa, Boydville, and Eastanolee.\nGenerated: 2026-07-16 18:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 2:08PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-16 18:45 Z\nAt 207 PM EDT, Doppler radar was tracking a strong thunderstorm near Toccoa, moving west at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Toccoa, Boydville, and Eastanolee.\nGenerated: 2026-07-16 18:30:21 UTC"
   34.6200, -83.4700
   34.6500, -83.3200
   34.5900, -83.2700
@@ -50,14 +59,4 @@ Line: 2,,"Special Weather Statement issued July 16 at 2:08PM EDT by NWS Greenvil
   34.4800, -83.4700
   34.5200, -83.4800
   34.6200, -83.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 1:07PM CDT by NWS Fort Worth TX\nExpires: 2026-07-16 18:30 Z\nAt 106 PM CDT, Doppler radar was tracking a strong thunderstorm near Sunnyvale, or near Forney, moving northeast at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Dallas, Forney, Heath, and Sunnyvale around 110 PM CDT. Rowlett and Rockwall around 115 PM CDT.  Other locations impacted by this storm include Heartland, McLendon-Chisholm, and Lake Ray Hubbard.  This includes the following highways... Interstate 20 between mile markers 484 and 489. Interstate 30 between mile markers 60 and 78.\nGenerated: 2026-07-16 18:25:15 UTC"
-  32.6400, -96.4900
-  32.7600, -96.6200
-  32.9800, -96.5400
-  32.9800, -96.3000
-  32.8600, -96.3000
-  32.6400, -96.4900
 End:
