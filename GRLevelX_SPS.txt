@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-17 00:15:16 UTC
+; Generated: 2026-07-17 00:20:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 5:09PM MST by NWS Phoenix AZ\nExpires: 2026-07-17 00:45 Z\nAt 509 PM MST, Doppler radar was tracking a strong thunderstorm over Sun Lakes. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chandler, Tempe, Sun Lakes, Bapchule, Tumbleweed Park, Chandler Fashion Center Mall, Firebird Lake, and Santan.  This includes the following highways... AZ Interstate 10 between mile markers 162 and 175. AZ Route 87 between mile markers 155 and 164. AZ Route 202 between mile markers 48 and 55.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:18PM MDT by NWS Billings MT\nExpires: 2026-07-17 01:00 Z\nAt 618 PM MDT, Doppler radar was tracking an area of strong thunderstorms over Harlowton, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Harlowton.\nGenerated: 2026-07-17 00:20:21 UTC"
+  46.5400, -109.9700
+  46.6500, -109.9300
+  46.5800, -109.6000
+  46.2600, -109.6400
+  46.3000, -109.8200
+  46.3100, -109.8200
+  46.3100, -109.8900
+  46.3400, -110.0300
+  46.5400, -109.9700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 16 at 5:17PM PDT by NWS Elko NV\nExpires: 2026-07-17 00:45 Z\nAt 517 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Lages Junction, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern White Pine and southeastern Elko Counties.\nGenerated: 2026-07-17 00:20:21 UTC"
+  39.9300, -114.4800
+  39.9900, -114.6100
+  40.1700, -114.5200
+  40.0700, -114.2900
+  39.9300, -114.4800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 16 at 5:09PM MST by NWS Phoenix AZ\nExpires: 2026-07-17 00:45 Z\nAt 509 PM MST, Doppler radar was tracking a strong thunderstorm over Sun Lakes. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Chandler, Tempe, Sun Lakes, Bapchule, Tumbleweed Park, Chandler Fashion Center Mall, Firebird Lake, and Santan.  This includes the following highways... AZ Interstate 10 between mile markers 162 and 175. AZ Route 87 between mile markers 155 and 164. AZ Route 202 between mile markers 48 and 55.\nGenerated: 2026-07-17 00:20:21 UTC"
   33.1100, -111.8900
   33.2300, -112.0400
   33.3500, -111.9100
@@ -14,7 +36,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 5:09PM MST by NWS Phoenix 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 6:08PM MDT by NWS Missoula MT\nExpires: 2026-07-17 00:45 Z\nAt 508 PM PDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Weippe, or 19 miles southeast of Orofino, moving northeast at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Pierce, Weippe, Musselshell and Woodland.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:08PM MDT by NWS Missoula MT\nExpires: 2026-07-17 00:45 Z\nAt 508 PM PDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Weippe, or 19 miles southeast of Orofino, moving northeast at 30 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Pierce, Weippe, Musselshell and Woodland.\nGenerated: 2026-07-17 00:20:21 UTC"
   46.2300, -116.0000
   46.3300, -116.1100
   46.5600, -115.7800
@@ -33,7 +55,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 6:08PM MDT by NWS Missoula
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 8:08PM EDT by NWS Peachtree City GA\nExpires: 2026-07-17 00:45 Z\nAt 808 PM EDT, a strong thunderstorm was over Greenville, moving southeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Greenville and Harris City.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 8:08PM EDT by NWS Peachtree City GA\nExpires: 2026-07-17 00:45 Z\nAt 808 PM EDT, a strong thunderstorm was over Greenville, moving southeast at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Greenville and Harris City.\nGenerated: 2026-07-17 00:20:21 UTC"
   33.0600, -84.8200
   33.1400, -84.7700
   33.0800, -84.5900
@@ -42,7 +64,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 8:08PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 6:05PM MDT by NWS Missoula MT\nExpires: 2026-07-17 01:00 Z\nAt 605 PM MDT, Doppler radar was tracking a strong thunderstorm 37 miles south of Eureka, or 27 miles east of Libby, moving north at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Trego, Stryker, Fortine and Radnor.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:05PM MDT by NWS Missoula MT\nExpires: 2026-07-17 01:00 Z\nAt 605 PM MDT, Doppler radar was tracking a strong thunderstorm 37 miles south of Eureka, or 27 miles east of Libby, moving north at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Trego, Stryker, Fortine and Radnor.\nGenerated: 2026-07-17 00:20:21 UTC"
   48.3200, -115.1500
   48.8000, -114.9800
   48.7300, -114.6500
@@ -61,7 +83,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 6:05PM MDT by NWS Missoula
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 8:03PM EDT by NWS Peachtree City GA\nExpires: 2026-07-17 00:30 Z\nAt 803 PM EDT, a strong thunderstorm was over Lowery, or 11 miles west of Soperton, moving south at 10 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Lowery, Landsburg, and Barnhill.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 8:03PM EDT by NWS Peachtree City GA\nExpires: 2026-07-17 00:30 Z\nAt 803 PM EDT, a strong thunderstorm was over Lowery, or 11 miles west of Soperton, moving south at 10 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Lowery, Landsburg, and Barnhill.\nGenerated: 2026-07-17 00:20:21 UTC"
   32.2100, -82.8500
   32.3900, -82.8900
   32.4400, -82.7200
@@ -72,7 +94,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 8:03PM EDT by NWS Peachtre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 6:02PM MDT by NWS Missoula MT\nExpires: 2026-07-17 01:00 Z\nAt 602 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles north of Thompson Falls, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bend, Happys Inn and Marion.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:02PM MDT by NWS Missoula MT\nExpires: 2026-07-17 01:00 Z\nAt 602 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles north of Thompson Falls, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bend, Happys Inn and Marion.\nGenerated: 2026-07-17 00:20:21 UTC"
   47.9900, -115.4000
   48.2700, -114.7600
   48.0200, -114.5600
@@ -81,7 +103,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 6:02PM MDT by NWS Missoula
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 7:58PM EDT by NWS Jacksonville FL\nExpires: 2026-07-17 00:30 Z\nAt 758 PM EDT, Doppler radar was tracking a strong thunderstorm near Sanderson, or 7 miles north of Raiford, moving southwest at 5 mph.  HAZARD...Wind gusts 40 to 50 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Raiford, Glen St. Mary, Maxville, and Ellerbee.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 7:58PM EDT by NWS Jacksonville FL\nExpires: 2026-07-17 00:30 Z\nAt 758 PM EDT, Doppler radar was tracking a strong thunderstorm near Sanderson, or 7 miles north of Raiford, moving southwest at 5 mph.  HAZARD...Wind gusts 40 to 50 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Raiford, Glen St. Mary, Maxville, and Ellerbee.\nGenerated: 2026-07-17 00:20:21 UTC"
   30.3000, -82.2200
   30.1900, -81.9900
   30.0100, -82.1400
@@ -90,7 +112,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 7:58PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 6:44PM CDT by NWS Shreveport LA\nExpires: 2026-07-17 00:30 Z\nAt 644 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles northeast of Broken Bow, or 19 miles northwest of De Queen, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of Northeastern McCurtain County.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:44PM CDT by NWS Shreveport LA\nExpires: 2026-07-17 00:30 Z\nAt 644 PM CDT, Doppler radar was tracking a strong thunderstorm 16 miles northeast of Broken Bow, or 19 miles northwest of De Queen, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of Northeastern McCurtain County.\nGenerated: 2026-07-17 00:20:21 UTC"
   34.1900, -94.5200
   34.1800, -94.6600
   34.3900, -94.6200
@@ -100,7 +122,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 6:44PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 6:43PM CDT by NWS Shreveport LA\nExpires: 2026-07-17 00:30 Z\nAt 643 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Broken Bow, or 27 miles west of De Queen, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sherwood, Mount Herman, Hochatown and Bethel.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:43PM CDT by NWS Shreveport LA\nExpires: 2026-07-17 00:30 Z\nAt 643 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Broken Bow, or 27 miles west of De Queen, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sherwood, Mount Herman, Hochatown and Bethel.\nGenerated: 2026-07-17 00:20:21 UTC"
   34.1100, -94.6800
   34.1200, -94.8600
   34.4000, -94.8600
@@ -109,7 +131,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 6:43PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 5:43PM MDT by NWS Boise ID\nExpires: 2026-07-17 00:30 Z\nAt 543 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Initial Point to 6 miles south of Blacks Creek Reservoir. Movement was north at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  Locations impacted include... Boise, Meridian, Eagle, Kuna, Garden City, Blacks Creek Reservoir, Lucky Peak Dam, Aldape Summit, Initial Point, Hidden Springs, and Lucky Peak Reservoir.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 5:43PM MDT by NWS Boise ID\nExpires: 2026-07-17 00:30 Z\nAt 543 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Initial Point to 6 miles south of Blacks Creek Reservoir. Movement was north at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  Locations impacted include... Boise, Meridian, Eagle, Kuna, Garden City, Blacks Creek Reservoir, Lucky Peak Dam, Aldape Summit, Initial Point, Hidden Springs, and Lucky Peak Reservoir.\nGenerated: 2026-07-17 00:20:21 UTC"
   43.5100, -116.4800
   43.6300, -116.4700
   43.6400, -116.5100
@@ -122,7 +144,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 5:43PM MDT by NWS Boise ID
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 6:41PM CDT by NWS Shreveport LA\nExpires: 2026-07-17 00:30 Z\nAt 641 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of De Kalb, or 10 miles northwest of New Boston, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Almont, Tom and Wallace.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:41PM CDT by NWS Shreveport LA\nExpires: 2026-07-17 00:30 Z\nAt 641 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of De Kalb, or 10 miles northwest of New Boston, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Almont, Tom and Wallace.\nGenerated: 2026-07-17 00:20:21 UTC"
   33.6600, -94.6100
   33.7400, -94.6100
   33.7000, -94.3400
@@ -132,7 +154,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 6:41PM CDT by NWS Shrevepo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 6:41PM CDT by NWS Fort Worth TX\nExpires: 2026-07-17 00:30 Z\nAt 641 PM CDT, Doppler radar was tracking a strong thunderstorm over Burleson, moving north at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Worth, Arlington, Haltom City, Hurst, Burleson, Watauga, Benbrook, Saginaw, White Settlement, Crowley, Forest Hill, Richland Hills, River Oaks, Kennedale, Everman, Joshua, Sansom Park, Lake Worth, Rendon, and Eagle Mountain.  This includes the following highways... Interstate 35W between mile markers 31 and 59. Interstate 20 between mile markers 430 and 442. Interstate 30 between mile markers 8 and 22.\nGenerated: 2026-07-17 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 6:41PM CDT by NWS Fort Worth TX\nExpires: 2026-07-17 00:30 Z\nAt 641 PM CDT, Doppler radar was tracking a strong thunderstorm over Burleson, moving north at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Worth, Arlington, Haltom City, Hurst, Burleson, Watauga, Benbrook, Saginaw, White Settlement, Crowley, Forest Hill, Richland Hills, River Oaks, Kennedale, Everman, Joshua, Sansom Park, Lake Worth, Rendon, and Eagle Mountain.  This includes the following highways... Interstate 35W between mile markers 31 and 59. Interstate 20 between mile markers 430 and 442. Interstate 30 between mile markers 8 and 22.\nGenerated: 2026-07-17 00:20:21 UTC"
   32.4400, -97.2700
   32.4400, -97.4100
   32.8700, -97.4700
