@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-17 02:40:20 UTC
+; Generated: 2026-07-17 02:45:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 10:34PM EDT by NWS Miami FL\nExpires: 2026-07-17 03:15 Z\nAt 1034 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Jupiter to near West Palm Beach to near Loxahatchee NWR. Movement was southeast at 25 mph.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... West Palm Beach, Boca Raton, Boynton Beach, Delray Beach, Wellington, Jupiter, Palm Beach Gardens, Lake Worth, Riviera Beach, Palm Beach, Tequesta, Highland Beach, Juno Beach, Ocean Ridge, Greenacres, Royal Palm Beach, Palm Springs, North Palm Beach, Lantana, and Lake Park.\nGenerated: 2026-07-17 02:40:20 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 7:44PM PDT by NWS Elko NV\nExpires: 2026-07-17 03:15 Z\nAt 743 PM PDT, Doppler radar was tracking a strong thunderstorm near Montello, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montello.\nGenerated: 2026-07-17 02:45:14 UTC"
+  41.1800, -114.0400
+  41.1700, -114.3100
+  41.3900, -114.4000
+  41.5300, -114.0400
+  41.1800, -114.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 16 at 10:34PM EDT by NWS Miami FL\nExpires: 2026-07-17 03:15 Z\nAt 1034 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Jupiter to near West Palm Beach to near Loxahatchee NWR. Movement was southeast at 25 mph.  HAZARD...Wind gusts of 45 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... West Palm Beach, Boca Raton, Boynton Beach, Delray Beach, Wellington, Jupiter, Palm Beach Gardens, Lake Worth, Riviera Beach, Palm Beach, Tequesta, Highland Beach, Juno Beach, Ocean Ridge, Greenacres, Royal Palm Beach, Palm Springs, North Palm Beach, Lantana, and Lake Park.\nGenerated: 2026-07-17 02:45:14 UTC"
   26.6300, -80.0400
   26.7000, -80.0500
   26.5900, -80.0500
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 10:34PM EDT by NWS Miami F
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 8:33PM MDT by NWS Billings MT\nExpires: 2026-07-17 03:30 Z\nAt 833 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 22 miles northeast of Colstrip to 13 miles northwest of Custer, or extending from 20 miles southeast of Forsyth to 25 miles west of Hysham, moving southeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Forsyth, Hysham, Custer, Rosebud, Vananda, Bighorn, Cartersville and Hathaway.\nGenerated: 2026-07-17 02:40:20 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 8:33PM MDT by NWS Billings MT\nExpires: 2026-07-17 03:30 Z\nAt 833 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 22 miles northeast of Colstrip to 13 miles northwest of Custer, or extending from 20 miles southeast of Forsyth to 25 miles west of Hysham, moving southeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Forsyth, Hysham, Custer, Rosebud, Vananda, Bighorn, Cartersville and Hathaway.\nGenerated: 2026-07-17 02:45:14 UTC"
   46.2300, -107.9100
   46.4000, -107.8100
   46.4000, -107.7800
@@ -41,7 +50,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 8:33PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 7:28PM PDT by NWS Elko NV\nExpires: 2026-07-17 03:00 Z\nAt 727 PM PDT, Doppler radar was tracking a strong thunderstorm 19 miles north of Currie, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Elko County.\nGenerated: 2026-07-17 02:40:20 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 7:28PM PDT by NWS Elko NV\nExpires: 2026-07-17 03:00 Z\nAt 727 PM PDT, Doppler radar was tracking a strong thunderstorm 19 miles north of Currie, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Elko County.\nGenerated: 2026-07-17 02:45:14 UTC"
   40.4000, -114.6600
   40.4700, -114.8700
   40.7700, -114.7000
@@ -50,16 +59,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 7:28PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 7:20PM PDT by NWS Elko NV\nExpires: 2026-07-17 02:45 Z\nAt 719 PM PDT, Doppler radar was tracking a strong thunderstorm near Montello, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montello.\nGenerated: 2026-07-17 02:40:20 UTC"
-  41.1700, -114.3800
-  41.3100, -114.5300
-  41.6100, -114.0400
-  41.2400, -114.0400
-  41.1700, -114.3800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 8:17PM MDT by NWS Boise ID\nExpires: 2026-07-17 03:00 Z\nAt 817 PM MDT, Doppler radar was tracking a strong thunderstorm over Cascade, or 27 miles south of McCall, moving north at 60 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Cascade, Smiths Ferry, Donnelly, Big Creek Summit, Sage Hen Reservoir, Indian Mountain, Granite Peak, Tamarack Ski Area, Boiling Springs, Cascade Reservoir, and Horsethief Reservoir.\nGenerated: 2026-07-17 02:40:20 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 8:17PM MDT by NWS Boise ID\nExpires: 2026-07-17 03:00 Z\nAt 817 PM MDT, Doppler radar was tracking a strong thunderstorm over Cascade, or 27 miles south of McCall, moving north at 60 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Cascade, Smiths Ferry, Donnelly, Big Creek Summit, Sage Hen Reservoir, Indian Mountain, Granite Peak, Tamarack Ski Area, Boiling Springs, Cascade Reservoir, and Horsethief Reservoir.\nGenerated: 2026-07-17 02:45:14 UTC"
   44.2600, -115.8900
   44.2700, -116.2100
   44.7400, -116.2700
@@ -68,27 +68,7 @@ Line: 2,,"Special Weather Statement issued July 16 at 8:17PM MDT by NWS Boise ID
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 7:09PM PDT by NWS Elko NV\nExpires: 2026-07-17 02:45 Z\nAt 708 PM PDT, Doppler radar was tracking a strong thunderstorm near Oasis, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Heavy rainfall along with gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oasis and Silver Zone Pass.\nGenerated: 2026-07-17 02:40:20 UTC"
-  40.8000, -114.3900
-  40.8700, -114.6000
-  41.2700, -114.4600
-  41.1300, -114.0700
-  40.8000, -114.3900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 8:00PM MDT by NWS Boise ID\nExpires: 2026-07-17 02:45 Z\nAt 800 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles north of Pot Hole Butte, or 14 miles southwest of Glenns Ferry, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Glenns Ferry, Blair Trail Reservoir, Deadman Flat, Pot Hole Butte, Hammett, and King Hill.\nGenerated: 2026-07-17 02:40:20 UTC"
-  42.8300, -115.7000
-  43.1800, -115.3800
-  42.9700, -115.0800
-  42.9200, -115.0800
-  42.9100, -115.0500
-  42.6800, -115.4900
-  42.8300, -115.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 7:56PM MDT by NWS Billings MT\nExpires: 2026-07-17 03:00 Z\nAt 756 PM MDT, Doppler radar was tracking an area of strong thunderstorms 17 miles northwest of Roundup, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Northwestern Musselshell and East Central Golden Valley Counties.\nGenerated: 2026-07-17 02:40:20 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 7:56PM MDT by NWS Billings MT\nExpires: 2026-07-17 03:00 Z\nAt 756 PM MDT, Doppler radar was tracking an area of strong thunderstorms 17 miles northwest of Roundup, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Northwestern Musselshell and East Central Golden Valley Counties.\nGenerated: 2026-07-17 02:45:14 UTC"
   46.4800, -108.9700
   46.5800, -108.9500
   46.6800, -108.8400
@@ -98,42 +78,10 @@ Line: 2,,"Special Weather Statement issued July 16 at 7:56PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 7:56PM MDT by NWS Great Falls MT\nExpires: 2026-07-17 03:00 Z\nAt 756 PM MDT, Doppler radar was tracking a strong thunderstorm 19 miles north of Cut Bank, moving northeast at 40 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northeastern Glacier and northwestern Toole Counties.\nGenerated: 2026-07-17 02:40:20 UTC"
+Line: 2,,"Special Weather Statement issued July 16 at 7:56PM MDT by NWS Great Falls MT\nExpires: 2026-07-17 03:00 Z\nAt 756 PM MDT, Doppler radar was tracking a strong thunderstorm 19 miles north of Cut Bank, moving northeast at 40 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northeastern Glacier and northwestern Toole Counties.\nGenerated: 2026-07-17 02:45:14 UTC"
   49.0000, -112.0800
   48.7800, -112.3900
   48.8500, -112.6100
   49.0000, -112.4600
   49.0000, -112.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 9:54PM EDT by NWS Wakefield VA\nExpires: 2026-07-17 02:45 Z\nAt 953 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Agner to near Easton. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Frequent cloud to ground lightning strikes.  Strong thunderstorms will be near... Hurlock around 1005 PM EDT. Secretary around 1010 PM EDT. Sharptown around 1025 PM EDT. Vienna around 1035 PM EDT.  Other locations impacted by these storms include Galestown, Brookview, Eldorado, East New Market, and Linkwood.\nGenerated: 2026-07-17 02:40:20 UTC"
-  38.7000, -75.8000
-  38.6800, -75.8000
-  38.6800, -75.7800
-  38.6900, -75.7600
-  38.6400, -75.7100
-  38.4900, -75.7000
-  38.4900, -75.7500
-  38.4700, -75.9000
-  38.5800, -76.0100
-  38.5900, -75.9900
-  38.6300, -75.9800
-  38.6500, -75.9600
-  38.6700, -75.9500
-  38.6900, -75.9000
-  38.7000, -75.9000
-  38.6900, -75.8700
-  38.7000, -75.8500
-  38.7000, -75.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 16 at 7:45PM MDT by NWS Great Falls MT\nExpires: 2026-07-17 02:45 Z\nAt 744 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles north of North Browning, or 31 miles west of Cut Bank, moving northeast at 15 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of north central Glacier County.\nGenerated: 2026-07-17 02:40:20 UTC"
-  48.9300, -112.5800
-  48.6900, -112.9200
-  48.7900, -113.1500
-  49.0000, -112.9900
-  49.0000, -112.7300
-  48.9300, -112.5800
 End:
