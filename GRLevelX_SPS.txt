@@ -3,9 +3,40 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-18 18:15:14 UTC
+; Generated: 2026-07-18 18:20:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Blacksburg VA\nExpires: 2026-07-18 18:45 Z\nAt 213 PM EDT, Doppler radar was tracking a strong thunderstorm over State Road, or near Mountain Park, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elkin... Fairview... Dobson... Bottom... Mountain Park... State Road... and Benham.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:18PM EDT by NWS Charleston WV\nExpires: 2026-07-18 19:00 Z\nAt 217 PM EDT, Doppler radar was tracking a strong thunderstorm near North Bend State Park, or near Harrisville, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Harrisville, Pennsboro, West Union, North Bend State Park, Ellenboro, Cairo, Pullman, Auburn, Greenwood, Blandville, Avon, Grove, Leopold, New Milton, Smithburg, and Berea.  This includes Route 50 in West Virginia between mile markers 34 and 63.\nGenerated: 2026-07-18 18:20:16 UTC"
+  39.3700, -80.6400
+  39.1900, -80.5500
+  39.1800, -80.5700
+  39.1800, -80.5900
+  39.1700, -80.5900
+  39.1500, -80.5300
+  39.1200, -80.5200
+  39.1000, -80.7900
+  39.1100, -80.8100
+  39.1000, -80.8100
+  39.0800, -81.1800
+  39.2400, -81.2100
+  39.3100, -80.8900
+  39.3000, -80.8900
+  39.3200, -80.8500
+  39.3700, -80.6400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 18 at 1:18PM CDT by NWS Birmingham AL\nExpires: 2026-07-18 19:00 Z\nAt 118 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Banks to Gaino. Movement was south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clio, Clayton, Louisville, Blue Springs, Tyler Crossroads, Doster, Gaino, Blue Springs State Park, Texasville, Boot Hill, Tennille, Millers Ford, Clayton Municipal Airport, Monticello, Josie, and Baker Hill.\nGenerated: 2026-07-18 18:20:16 UTC"
+  31.6200, -85.7800
+  31.8800, -85.7900
+  31.8900, -85.3100
+  31.7000, -85.2600
+  31.7100, -85.4200
+  31.6200, -85.4200
+  31.6200, -85.7800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Blacksburg VA\nExpires: 2026-07-18 18:45 Z\nAt 213 PM EDT, Doppler radar was tracking a strong thunderstorm over State Road, or near Mountain Park, moving northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Elkin... Fairview... Dobson... Bottom... Mountain Park... State Road... and Benham.\nGenerated: 2026-07-18 18:20:16 UTC"
   36.3100, -81.0300
   36.3700, -80.9900
   36.3800, -80.9800
@@ -19,7 +50,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Blacksbu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-18 18:45 Z\nAt 214 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Blowing Rock, or 7 miles southeast of B.R. Parkway-Linville Falls To Grandfather, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Blowing Rock In Caldwell County, Edgemont, Collettsville, Upton, and Globe.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-18 18:45 Z\nAt 214 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Blowing Rock, or 7 miles southeast of B.R. Parkway-Linville Falls To Grandfather, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Blowing Rock In Caldwell County, Edgemont, Collettsville, Upton, and Globe.\nGenerated: 2026-07-18 18:20:16 UTC"
   36.1200, -81.5500
   36.1000, -81.5100
   35.8500, -81.6600
@@ -32,7 +63,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Charleston WV\nExpires: 2026-07-18 19:00 Z\nAt 214 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Glen, or 16 miles southwest of Clay, moving east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clay, Montgomery, Cedar Grove, East Bank, Glasgow, Smithers, Gauley Bridge, Pratt, Glen, Handley, Bickmore, Swiss, Indore, Bentree, Drennan, and Pond Gap.  This includes West Virginia Turnpike between mile markers 82 and 85.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Charleston WV\nExpires: 2026-07-18 19:00 Z\nAt 214 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Glen, or 16 miles southwest of Clay, moving east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clay, Montgomery, Cedar Grove, East Bank, Glasgow, Smithers, Gauley Bridge, Pratt, Glen, Handley, Bickmore, Swiss, Indore, Bentree, Drennan, and Pond Gap.  This includes West Virginia Turnpike between mile markers 82 and 85.\nGenerated: 2026-07-18 18:20:16 UTC"
   38.1800, -81.5200
   38.4300, -81.4000
   38.4600, -80.8500
@@ -41,7 +72,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:14PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:13PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-18 18:45 Z\nAt 213 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Morganton, or near Table Rock, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Morganton, Glen Alpine, Lake James State Park, Table Rock, Lake James, Nebo, Ashford, Oak Hill, and North Cove.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:13PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-18 18:45 Z\nAt 213 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Morganton, or near Table Rock, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Morganton, Glen Alpine, Lake James State Park, Table Rock, Lake James, Nebo, Ashford, Oak Hill, and North Cove.\nGenerated: 2026-07-18 18:20:16 UTC"
   35.9300, -81.7500
   35.8900, -81.7300
   35.8700, -81.7100
@@ -52,7 +83,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:13PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:13PM EDT by NWS Wakefield VA\nExpires: 2026-07-18 19:15 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Green Bay to near Lunenburg to near Chase City. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Chase City, Victoria, Lunenburg, Kells Corner, Rehoboth, and Green Bay around 215 PM EDT. Burkeville around 220 PM EDT. Crewe around 225 PM EDT. Kenbridge around 230 PM EDT. Nottoway around 235 PM EDT. Blackstone and Jetersville around 240 PM EDT. Amelia Courthouse, Fort Barfoot, and Spainville around 255 PM EDT. Dundas and Wilsons around 300 PM EDT.  Other locations impacted by these storms include Bacons Fork, North Wellville, Wilburn, Arvins Store, Murdocks, Finneywood, Nutbush, Fairview, Plantersville, and Wellville.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:13PM EDT by NWS Wakefield VA\nExpires: 2026-07-18 19:15 Z\nAt 212 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Green Bay to near Lunenburg to near Chase City. Movement was east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Chase City, Victoria, Lunenburg, Kells Corner, Rehoboth, and Green Bay around 215 PM EDT. Burkeville around 220 PM EDT. Crewe around 225 PM EDT. Kenbridge around 230 PM EDT. Nottoway around 235 PM EDT. Blackstone and Jetersville around 240 PM EDT. Amelia Courthouse, Fort Barfoot, and Spainville around 255 PM EDT. Dundas and Wilsons around 300 PM EDT.  Other locations impacted by these storms include Bacons Fork, North Wellville, Wilburn, Arvins Store, Murdocks, Finneywood, Nutbush, Fairview, Plantersville, and Wellville.\nGenerated: 2026-07-18 18:20:16 UTC"
   36.7200, -78.6300
   36.8900, -78.4900
   37.0700, -78.4400
@@ -67,7 +98,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:13PM EDT by NWS Wakefiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:04PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 204 PM EDT, Doppler radar was tracking a strong thunderstorm over Trammel, or 13 miles southwest of Davenport, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Trammel.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:04PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 204 PM EDT, Doppler radar was tracking a strong thunderstorm over Trammel, or 13 miles southwest of Davenport, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Trammel.\nGenerated: 2026-07-18 18:20:16 UTC"
   36.9700, -82.3700
   36.9900, -82.4000
   37.0600, -82.2900
@@ -83,7 +114,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:04PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:02PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-18 18:30 Z\nAt 202 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Marion, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Marion, Shingle Hollow, Sugar Hill, Thermal City, Glenwood, Fero, Dysartsville, Union Mills, and Pleasant Gardens.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:02PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-18 18:30 Z\nAt 202 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Marion, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Marion, Shingle Hollow, Sugar Hill, Thermal City, Glenwood, Fero, Dysartsville, Union Mills, and Pleasant Gardens.\nGenerated: 2026-07-18 18:20:16 UTC"
   35.4600, -82.1600
   35.6900, -82.1500
   35.6700, -81.8100
@@ -92,7 +123,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:02PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 2:02PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 201 PM EDT, Doppler radar was tracking a strong thunderstorm near Glouster, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Athens, Glouster, Coolville, Chesterhill, Chauncey, Jacksonville, Trimble, Amesville, Stroud Run State Park, Bartlett, and The Plains.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 2:02PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 201 PM EDT, Doppler radar was tracking a strong thunderstorm near Glouster, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Athens, Glouster, Coolville, Chesterhill, Chauncey, Jacksonville, Trimble, Amesville, Stroud Run State Park, Bartlett, and The Plains.\nGenerated: 2026-07-18 18:20:16 UTC"
   39.3800, -82.1600
   39.5200, -82.0800
   39.4900, -81.6500
@@ -101,7 +132,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 2:02PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 1:59PM EDT by NWS Wilmington OH\nExpires: 2026-07-18 18:30 Z\nAt 159 PM EDT, strong thunderstorms were located along a line extending from Granville to Ashville, moving east at 30 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Newark, Lancaster, Reynoldsburg, Gahanna, Pickerington, Heath, Granville, Pataskala, Canal Winchester, Groveport, Ashville, Baltimore, Buckeye Lake, Hebron, South Bloomfield, Millersport, Pleasantville, Fairfield Beach, and Beechwood Trails.  This includes I-70 in Ohio between mile markers 106 and 134.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 1:59PM EDT by NWS Wilmington OH\nExpires: 2026-07-18 18:30 Z\nAt 159 PM EDT, strong thunderstorms were located along a line extending from Granville to Ashville, moving east at 30 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Newark, Lancaster, Reynoldsburg, Gahanna, Pickerington, Heath, Granville, Pataskala, Canal Winchester, Groveport, Ashville, Baltimore, Buckeye Lake, Hebron, South Bloomfield, Millersport, Pleasantville, Fairfield Beach, and Beechwood Trails.  This includes I-70 in Ohio between mile markers 106 and 134.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-18 18:20:16 UTC"
   39.9200, -82.3800
   39.9300, -82.4600
   39.8400, -82.4700
@@ -114,7 +145,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 1:59PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 1:58PM EDT by NWS Louisville KY\nExpires: 2026-07-18 18:30 Z\nAt 158 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Shepherdsville, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shepherdsville, Hillview, Lebanon Junction, Ridgetop, Barrallton, Bardstown Junction, Hobbs, Scuffletown, Cedar Grove, and Belmont.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 1:58PM EDT by NWS Louisville KY\nExpires: 2026-07-18 18:30 Z\nAt 158 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Shepherdsville, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shepherdsville, Hillview, Lebanon Junction, Ridgetop, Barrallton, Bardstown Junction, Hobbs, Scuffletown, Cedar Grove, and Belmont.\nGenerated: 2026-07-18 18:20:16 UTC"
   37.9200, -85.9100
   38.0700, -85.7700
   37.9400, -85.5100
@@ -123,7 +154,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 1:58PM EDT by NWS Louisvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 12:57PM CDT by NWS Nashville TN\nExpires: 2026-07-18 18:45 Z\nAt 1256 PM CDT, Doppler radar was tracking a strong thunderstorm near Gainesboro, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cookeville, Gainesboro, Algood, Whitleyville, Granville, Cummins Falls State Park, and Standing Stone State Park.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 12:57PM CDT by NWS Nashville TN\nExpires: 2026-07-18 18:45 Z\nAt 1256 PM CDT, Doppler radar was tracking a strong thunderstorm near Gainesboro, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cookeville, Gainesboro, Algood, Whitleyville, Granville, Cummins Falls State Park, and Standing Stone State Park.\nGenerated: 2026-07-18 18:20:16 UTC"
   36.4700, -85.4100
   36.1400, -85.4700
   36.2100, -85.8100
@@ -138,7 +169,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 12:57PM CDT by NWS Nashvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 1:56PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 156 PM EDT, Doppler radar was tracking a strong thunderstorm near Lumberport, or 8 miles northwest of Clarksburg, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clarksburg, Bridgeport, Shinnston, Stonewood, Nutter Fort, Salem, Lumberport, Anmoore, Enterprise, Rosemont, Wolf Summit, Meadland, Wallace, Sedalia, McGee, Meadowbrook, and Despard.  This includes the following highways... Interstate 79 between mile markers 114 and 128. Route 50 in West Virginia between mile markers 62 and 82.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 1:56PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 156 PM EDT, Doppler radar was tracking a strong thunderstorm near Lumberport, or 8 miles northwest of Clarksburg, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clarksburg, Bridgeport, Shinnston, Stonewood, Nutter Fort, Salem, Lumberport, Anmoore, Enterprise, Rosemont, Wolf Summit, Meadland, Wallace, Sedalia, McGee, Meadowbrook, and Despard.  This includes the following highways... Interstate 79 between mile markers 114 and 128. Route 50 in West Virginia between mile markers 62 and 82.\nGenerated: 2026-07-18 18:20:16 UTC"
   39.4300, -80.2800
   39.3900, -80.2000
   39.4100, -80.1100
@@ -157,7 +188,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 1:56PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 1:55PM EDT by NWS Wilmington OH\nExpires: 2026-07-18 18:30 Z\nAt 154 PM EDT, strong thunderstorms were located along a line extending from near Morrow to near Sabina, moving southeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lebanon, Wilmington, Hillsboro, Greenfield, Blanchester, Sabina, Lynchburg, Leesburg, New Vienna, Morrow, Woodville, Clarksville, Martinsville, Midland, Highland, Fort Ancient, and East Monroe.  This includes I-71 in Ohio between mile markers 33 and 44.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 1:55PM EDT by NWS Wilmington OH\nExpires: 2026-07-18 18:30 Z\nAt 154 PM EDT, strong thunderstorms were located along a line extending from near Morrow to near Sabina, moving southeast at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lebanon, Wilmington, Hillsboro, Greenfield, Blanchester, Sabina, Lynchburg, Leesburg, New Vienna, Morrow, Woodville, Clarksville, Martinsville, Midland, Highland, Fort Ancient, and East Monroe.  This includes I-71 in Ohio between mile markers 33 and 44.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-18 18:20:16 UTC"
   39.2600, -84.1000
   39.4800, -84.1800
   39.4900, -83.5800
@@ -167,7 +198,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 1:55PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 1:52PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 151 PM EDT, Doppler radar was tracking a strong thunderstorm near Glenville, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckhannon, Weston, Stonewall Jackson, Jackson Mill, Lost Creek, Jane Lew, Auburn, Camden, Baldwin, Lorentz, Century, Grove, Leopold, Troy, Newberne, Alum Bridge, Linn, Coxs Mills, Hodgesville, and Horner.  This includes the following highways... Interstate 79 between mile markers 88 and 110. Route 33 between mile markers 1 and 7.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 1:52PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:30 Z\nAt 151 PM EDT, Doppler radar was tracking a strong thunderstorm near Glenville, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckhannon, Weston, Stonewall Jackson, Jackson Mill, Lost Creek, Jane Lew, Auburn, Camden, Baldwin, Lorentz, Century, Grove, Leopold, Troy, Newberne, Alum Bridge, Linn, Coxs Mills, Hodgesville, and Horner.  This includes the following highways... Interstate 79 between mile markers 88 and 110. Route 33 between mile markers 1 and 7.\nGenerated: 2026-07-18 18:20:16 UTC"
   39.0000, -80.9500
   39.1500, -80.8700
   39.1800, -80.1300
@@ -176,7 +207,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 1:52PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 12:51PM CDT by NWS Birmingham AL\nExpires: 2026-07-18 18:30 Z\nAt 1251 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Beans Crossroads to Pickett to Spring Hill. Movement was south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Union Springs, Midway, Clayton, Louisville, Banks, Pickett, Aberfoil, Spring Hill, Beans Crossroads, Osco, White Oak, Boot Hill, Gaino, Comer, Barbour County Public Lake Dam, Millers Ford, Perote, Josie, Three Notch, and Mount Andrew.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 12:51PM CDT by NWS Birmingham AL\nExpires: 2026-07-18 18:30 Z\nAt 1251 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Beans Crossroads to Pickett to Spring Hill. Movement was south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Union Springs, Midway, Clayton, Louisville, Banks, Pickett, Aberfoil, Spring Hill, Beans Crossroads, Osco, White Oak, Boot Hill, Gaino, Comer, Barbour County Public Lake Dam, Millers Ford, Perote, Josie, Three Notch, and Mount Andrew.\nGenerated: 2026-07-18 18:20:16 UTC"
   31.8100, -85.8400
   32.1500, -85.8800
   32.1500, -85.6300
@@ -189,7 +220,7 @@ Line: 2,,"Special Weather Statement issued July 18 at 12:51PM CDT by NWS Birming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 18 at 1:44PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:45 Z\nAt 143 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Grantsville to near Hamlin. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Charleston, Nitro, Spencer, Winfield, Glenville, Hamlin, Grantsville, Clay, Jefferson, South Charleston, St. Albans, Dunbar, Hurricane, Sissonville, Montgomery, Chesapeake, Marmet, Belle, Clendenin, and Cedar Grove.  This includes the following highways... Interstate 79 between mile markers 1 and 52, and between mile markers 71 and 86. Interstate 77 in West Virginia between mile markers 96 and 125. Interstate 64 in West Virginia between mile markers 36 and 57. West Virginia Turnpike between mile markers 75 and 95. Route 119 between mile markers 58 and 80.\nGenerated: 2026-07-18 18:15:14 UTC"
+Line: 2,,"Special Weather Statement issued July 18 at 1:44PM EDT by NWS Charleston WV\nExpires: 2026-07-18 18:45 Z\nAt 143 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Grantsville to near Hamlin. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Charleston, Nitro, Spencer, Winfield, Glenville, Hamlin, Grantsville, Clay, Jefferson, South Charleston, St. Albans, Dunbar, Hurricane, Sissonville, Montgomery, Chesapeake, Marmet, Belle, Clendenin, and Cedar Grove.  This includes the following highways... Interstate 79 between mile markers 1 and 52, and between mile markers 71 and 86. Interstate 77 in West Virginia between mile markers 96 and 125. Interstate 64 in West Virginia between mile markers 36 and 57. West Virginia Turnpike between mile markers 75 and 95. Route 119 between mile markers 58 and 80.\nGenerated: 2026-07-18 18:20:16 UTC"
   38.9100, -80.4900
   38.1000, -81.4300
   38.1200, -81.7600
