@@ -3,9 +3,54 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-21 15:25:16 UTC
+; Generated: 2026-07-21 15:30:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:21AM EDT by NWS Albany NY\nExpires: 2026-07-21 16:15 Z\nAt 1121 AM EDT, Doppler radar was tracking a strong thunderstorm over Danbury, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Milford, Terryville, Woodbury Center, Oakville, Watertown, Plymouth, Woodbury, Roxbury, Bridgewater, Candlewood Springs, Hotchkissville, Pequabuck, Reynolds Bridge, Hancock, River Road Reserve, Pomeraug, Candlewood Trails, Gulls Hollow, Plymouth Green, and Birch Groves.\nGenerated: 2026-07-21 15:25:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 11:29AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-21 16:00 Z\nAt 1129 AM EDT, Doppler radar was tracking a strong thunderstorm near Vassar, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Caro, Vassar, Mayville, Fairgrove, Kingston, Clifford, Wilmot, East Dayton, Silverwood, and Watrousville.\nGenerated: 2026-07-21 15:30:21 UTC"
+  43.2500, -83.1200
+  43.2800, -83.3500
+  43.3000, -83.3700
+  43.3300, -83.5800
+  43.5200, -83.5500
+  43.4800, -83.1100
+  43.2500, -83.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 11:29AM EDT by NWS Charleston WV\nExpires: 2026-07-21 16:15 Z\nAt 1128 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Shawnee to Nelsonville to near Hocking Hills State Park. Movement was east at 40 mph.  HAZARD...Wind gusts up to 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Athens, Nelsonville, Glouster, Beverly, Chauncey, Corning, Stockport, Jacksonville, Trimble, Amesville, and The Plains.\nGenerated: 2026-07-21 15:30:21 UTC"
+  39.5900, -81.5900
+  39.5900, -81.5800
+  39.5800, -81.5600
+  39.4000, -81.7300
+  39.3400, -82.1900
+  39.3700, -82.2900
+  39.4700, -82.2800
+  39.4700, -82.1700
+  39.5400, -82.1600
+  39.5600, -82.1600
+  39.5600, -82.2300
+  39.6400, -82.1100
+  39.5900, -81.5900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 11:28AM EDT by NWS Jacksonville FL\nExpires: 2026-07-21 16:00 Z\nAt 1127 AM EDT, Doppler radar was tracking a strong thunderstorm near Jennings, moving north at 30 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Statenville and Mayday.\nGenerated: 2026-07-21 15:30:21 UTC"
+  30.7800, -83.1400
+  30.8000, -83.1300
+  30.8100, -83.1000
+  30.8300, -83.1000
+  30.8300, -83.0900
+  30.8500, -83.0900
+  30.8500, -83.0100
+  30.8600, -83.0100
+  30.8700, -82.9700
+  30.7700, -82.9600
+  30.6200, -83.0300
+  30.6200, -83.1400
+  30.7800, -83.1400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 11:21AM EDT by NWS Albany NY\nExpires: 2026-07-21 16:15 Z\nAt 1121 AM EDT, Doppler radar was tracking a strong thunderstorm over Danbury, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Milford, Terryville, Woodbury Center, Oakville, Watertown, Plymouth, Woodbury, Roxbury, Bridgewater, Candlewood Springs, Hotchkissville, Pequabuck, Reynolds Bridge, Hancock, River Road Reserve, Pomeraug, Candlewood Trails, Gulls Hollow, Plymouth Green, and Birch Groves.\nGenerated: 2026-07-21 15:30:21 UTC"
   41.4900, -73.3700
   41.5100, -73.3900
   41.4900, -73.4400
@@ -30,7 +75,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 11:21AM EDT by NWS Albany 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:16AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-21 15:45 Z\nAt 1116 AM EDT, Doppler radar was tracking a strong thunderstorm near Fairgrove, or near Vassar, moving east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Caro, Vassar, Mayville, Fairgrove, Kingston, Tuscola, Wilmot, Gilford, East Dayton, Watrousville, and Silverwood.\nGenerated: 2026-07-21 15:25:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 11:16AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-21 15:45 Z\nAt 1116 AM EDT, Doppler radar was tracking a strong thunderstorm near Fairgrove, or near Vassar, moving east at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Caro, Vassar, Mayville, Fairgrove, Kingston, Tuscola, Wilmot, Gilford, East Dayton, Watrousville, and Silverwood.\nGenerated: 2026-07-21 15:30:21 UTC"
   43.3200, -83.3500
   43.3100, -83.3600
   43.3000, -83.6600
@@ -41,7 +86,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 11:16AM EDT by NWS Detroit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:10AM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-21 15:45 Z\nAt 1110 AM EDT, Doppler radar was tracking a strong thunderstorm near Palm River-Clair Mel, or near Tampa, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tampa, Temple Terrace, Palm River-Clair Mel, East Lake-Orient Park, University, Lake Magdalene, Busch Gardens, Ybor City, University Of Tampa, Florida State Fairgrounds, Palm River, Peter O Knight Airport, Davis Islands, Channelside, University Of South Florida, Orient Park, Progress Village, and Gibsonton.\nGenerated: 2026-07-21 15:25:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 11:10AM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-21 15:45 Z\nAt 1110 AM EDT, Doppler radar was tracking a strong thunderstorm near Palm River-Clair Mel, or near Tampa, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tampa, Temple Terrace, Palm River-Clair Mel, East Lake-Orient Park, University, Lake Magdalene, Busch Gardens, Ybor City, University Of Tampa, Florida State Fairgrounds, Palm River, Peter O Knight Airport, Davis Islands, Channelside, University Of South Florida, Orient Park, Progress Village, and Gibsonton.\nGenerated: 2026-07-21 15:30:21 UTC"
   28.0700, -82.4800
   28.0600, -82.4100
   28.0500, -82.3800
@@ -54,7 +99,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 11:10AM EDT by NWS Tampa B
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:07AM EDT by NWS Upton NY\nExpires: 2026-07-21 16:00 Z\nAt 1107 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Pawling to near Yorktown Heights. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Danbury, Mahopac, Lake Carmel, Sherman, Brewster, Newtown, Ridgefield, Monroe, Bethel, Brookfield, New Fairfield, Redding, Carmel, Yorktown Heights, and Jefferson Valley.\nGenerated: 2026-07-21 15:25:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 11:07AM EDT by NWS Upton NY\nExpires: 2026-07-21 16:00 Z\nAt 1107 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Pawling to near Yorktown Heights. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Danbury, Mahopac, Lake Carmel, Sherman, Brewster, Newtown, Ridgefield, Monroe, Bethel, Brookfield, New Fairfield, Redding, Carmel, Yorktown Heights, and Jefferson Valley.\nGenerated: 2026-07-21 15:30:21 UTC"
   41.4900, -73.4400
   41.5100, -73.3900
   41.4900, -73.3700
@@ -77,7 +122,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 11:07AM EDT by NWS Upton N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:03AM EDT by NWS Wilmington OH\nExpires: 2026-07-21 15:45 Z\nAt 1102 AM EDT, a strong thunderstorm was located over Crestview Hills, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Cincinnati, Covington, Florence, Independence, Norwood, Erlanger, Fort Thomas, Newport, Edgewood, Alexandria, Elsmere, Fort Mitchell, Villa Hills, Highland Heights, Taylor Mill, Bellevue, Fort Wright, Dayton, Ludlow, and Southgate.  This includes the following Interstates... I-71 in Ohio between mile markers 0 and 6. I-75 in Kentucky between mile markers 176 and 191. I-75 in Ohio between mile markers 0 and 4.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 15:25:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 11:03AM EDT by NWS Wilmington OH\nExpires: 2026-07-21 15:45 Z\nAt 1102 AM EDT, a strong thunderstorm was located over Crestview Hills, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Cincinnati, Covington, Florence, Independence, Norwood, Erlanger, Fort Thomas, Newport, Edgewood, Alexandria, Elsmere, Fort Mitchell, Villa Hills, Highland Heights, Taylor Mill, Bellevue, Fort Wright, Dayton, Ludlow, and Southgate.  This includes the following Interstates... I-71 in Ohio between mile markers 0 and 6. I-75 in Kentucky between mile markers 176 and 191. I-75 in Ohio between mile markers 0 and 4.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 15:30:21 UTC"
   39.1400, -84.7700
   39.1600, -84.0000
   38.8200, -84.0500
@@ -89,7 +134,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 11:03AM EDT by NWS Wilming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:01AM EDT by NWS Wilmington OH\nExpires: 2026-07-21 15:45 Z\nAt 1100 AM EDT, a strong thunderstorm was located over South Bloomfield, moving east at 50 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Lancaster, Circleville, Logan, Nelsonville, Ashville, South Bloomfield, Bremen, Hocking Hills State Park, Hide-A-Way Hills, Logan Elm Village, Commercial Point, Starr, Royalton, Fox, Amanda, Stoutsville, Murray City, Sugar Grove, Tarlton, and Darbyville.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 15:25:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 11:01AM EDT by NWS Wilmington OH\nExpires: 2026-07-21 15:45 Z\nAt 1100 AM EDT, a strong thunderstorm was located over South Bloomfield, moving east at 50 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Lancaster, Circleville, Logan, Nelsonville, Ashville, South Bloomfield, Bremen, Hocking Hills State Park, Hide-A-Way Hills, Logan Elm Village, Commercial Point, Starr, Royalton, Fox, Amanda, Stoutsville, Murray City, Sugar Grove, Tarlton, and Darbyville.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 15:30:21 UTC"
   39.4700, -82.1700
   39.4700, -82.2800
   39.3800, -82.2900
@@ -104,48 +149,4 @@ Line: 2,,"Special Weather Statement issued July 21 at 11:01AM EDT by NWS Wilming
   39.5600, -82.2600
   39.5600, -82.1600
   39.4700, -82.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 10:59AM EDT by NWS Jacksonville FL\nExpires: 2026-07-21 15:30 Z\nAt 1057 AM EDT, Doppler radar was tracking a strong thunderstorm over Suwannee River State Park, moving north at 30 mph. Wind gusts of 30 to 35 mph were measured in the Dowling Park area.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jennings, Suwannee River State Park, Blue Springs, and Crossroads.\nGenerated: 2026-07-21 15:25:16 UTC"
-  30.6300, -83.1400
-  30.6700, -83.1300
-  30.6700, -82.9500
-  30.3500, -83.0600
-  30.3500, -83.1900
-  30.3800, -83.1900
-  30.3900, -83.1700
-  30.4100, -83.1800
-  30.4200, -83.2200
-  30.4600, -83.2200
-  30.4700, -83.2400
-  30.5200, -83.2400
-  30.5500, -83.2600
-  30.5900, -83.2600
-  30.6200, -83.2700
-  30.6300, -83.2800
-  30.6300, -83.1400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 10:31AM EDT by NWS Upton NY\nExpires: 2026-07-21 15:30 Z\nAt 1030 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Mahopac to near Peekskill to near Haverstraw. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Danbury, New City, Ossining, Peekskill, Haverstraw, Mahopac, Lake Carmel, Sherman, Brewster, Cold Spring, Newtown, Ridgefield, Bethel, Brookfield, and New Fairfield.\nGenerated: 2026-07-21 15:25:16 UTC"
-  41.5000, -73.4400
-  41.5100, -73.3900
-  41.4900, -73.3700
-  41.4700, -73.3000
-  41.4500, -73.3000
-  41.4500, -73.2800
-  41.4300, -73.2600
-  41.4400, -73.2400
-  41.3800, -73.2600
-  41.1000, -74.0300
-  41.3200, -74.0000
-  41.3500, -73.9600
-  41.3900, -73.9500
-  41.4400, -73.9800
-  41.4900, -73.9300
-  41.5300, -73.5300
-  41.6100, -73.5200
-  41.6200, -73.4900
-  41.5000, -73.4400
 End:
