@@ -3,9 +3,35 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-21 18:55:16 UTC
+; Generated: 2026-07-21 19:00:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 1:54PM CDT by NWS New Orleans LA\nExpires: 2026-07-21 19:45 Z\nAt 154 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds over St. Francisville, moving southwest at 25 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Roads and St. Francisville.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 3:00PM EDT by NWS Albany NY\nExpires: 2026-07-21 19:45 Z\nAt 259 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Modena, or 7 miles north of Walden, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Poughkeepsie, New Paltz, Wallkill, Hyde Park, Plattekill, Pleasant Valley, Hurley, Highland, Modena, Fairview, High Falls, Staatsburg, Tillson, Lloyd, Esopus, Rosendale, Gardiner, Marbletown, Tuckers Corner, and Maple Hill.  This includes Interstate 87 near exit 18.\nGenerated: 2026-07-21 19:00:22 UTC"
+  41.6000, -74.0700
+  41.6000, -74.0900
+  41.6100, -74.1000
+  41.6200, -74.1300
+  41.5800, -74.1300
+  41.5900, -74.1700
+  41.5900, -74.2100
+  41.6300, -74.2600
+  41.7300, -74.2300
+  41.9300, -74.1100
+  41.7800, -73.7300
+  41.5800, -74.0500
+  41.6000, -74.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 2:58PM EDT by NWS State College PA\nExpires: 2026-07-21 20:00 Z\nAt 258 PM EDT, Doppler radar was tracking a strong thunderstorm over Gettysburg, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hanover, Weigelstown, Gettysburg, Parkville, Hampton, Shiloh, Littlestown, Carroll Valley, Codorus, McSherrystown, Spring Grove, Glen Rock, Pennville, Bonneauville, New Oxford, East Berlin, Lake Heritage, Railroad, Orrtanna, and York Airport.\nGenerated: 2026-07-21 19:00:22 UTC"
+  39.8400, -77.4100
+  40.0000, -76.8100
+  39.7200, -76.6700
+  39.7200, -77.3700
+  39.8400, -77.4100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 1:54PM CDT by NWS New Orleans LA\nExpires: 2026-07-21 19:45 Z\nAt 154 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds over St. Francisville, moving southwest at 25 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Roads and St. Francisville.\nGenerated: 2026-07-21 19:00:22 UTC"
   30.8800, -91.3800
   30.8600, -91.2600
   30.5400, -91.3000
@@ -14,7 +40,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 1:54PM CDT by NWS New Orle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:54PM EDT by NWS Indianapolis IN\nExpires: 2026-07-21 19:30 Z\nAt 254 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of North Vernon, or 21 miles southwest of Batesville, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nebraska.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:54PM EDT by NWS Indianapolis IN\nExpires: 2026-07-21 19:30 Z\nAt 254 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of North Vernon, or 21 miles southwest of Batesville, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nebraska.\nGenerated: 2026-07-21 19:00:22 UTC"
   39.1000, -85.6700
   39.1700, -85.5600
   39.1500, -85.4400
@@ -23,7 +49,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:54PM EDT by NWS Indianap
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:53PM EDT by NWS Indianapolis IN\nExpires: 2026-07-21 19:30 Z\nAt 253 PM EDT, Doppler radar was tracking a strong thunderstorm near Shoals, or 25 miles southwest of Bedford, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shoals and Lacy.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:53PM EDT by NWS Indianapolis IN\nExpires: 2026-07-21 19:30 Z\nAt 253 PM EDT, Doppler radar was tracking a strong thunderstorm near Shoals, or 25 miles southwest of Bedford, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Shoals and Lacy.\nGenerated: 2026-07-21 19:00:22 UTC"
   38.5300, -86.8400
   38.5800, -86.9100
   38.6600, -86.8700
@@ -36,7 +62,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:53PM EDT by NWS Indianap
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 1:48PM CDT by NWS Mobile AL\nExpires: 2026-07-21 19:30 Z\nAt 147 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Crestview, moving northwest at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crestview, Baker, and Laurel Hill.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 1:48PM CDT by NWS Mobile AL\nExpires: 2026-07-21 19:30 Z\nAt 147 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Crestview, moving northwest at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crestview, Baker, and Laurel Hill.\nGenerated: 2026-07-21 19:00:22 UTC"
   30.5400, -86.4100
   30.5400, -86.4900
   30.5600, -86.5300
@@ -49,7 +75,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 1:48PM CDT by NWS Mobile A
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:42PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-21 19:15 Z\nAt 241 PM EDT, Doppler radar was tracking a strong thunderstorm over Marysville, or near Port Huron, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Port Huron, St. Clair, Marysville, Fort Gratiot, Rattle Run, Smiths Creek, and Wadhams.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:42PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-21 19:15 Z\nAt 241 PM EDT, Doppler radar was tracking a strong thunderstorm over Marysville, or near Port Huron, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Port Huron, St. Clair, Marysville, Fort Gratiot, Rattle Run, Smiths Creek, and Wadhams.\nGenerated: 2026-07-21 19:00:22 UTC"
   43.0100, -82.4000
   42.9600, -82.4200
   42.9400, -82.4500
@@ -62,7 +88,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:42PM EDT by NWS Detroit/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:42PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-21 19:15 Z\nAt 242 PM EDT, Doppler radar was tracking a strong thunderstorm near Merritt, or 14 miles east of James City, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Florence, Whortonsville, Janeiro, Nc Pamlico, Maribel, Merritt, Bayboro, Arapahoe, Stonewall, Vandemere, and Mesic.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:42PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-21 19:15 Z\nAt 242 PM EDT, Doppler radar was tracking a strong thunderstorm near Merritt, or 14 miles east of James City, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Florence, Whortonsville, Janeiro, Nc Pamlico, Maribel, Merritt, Bayboro, Arapahoe, Stonewall, Vandemere, and Mesic.\nGenerated: 2026-07-21 19:00:22 UTC"
   34.9700, -76.7900
   35.0600, -76.8700
   35.2900, -76.6900
@@ -71,7 +97,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:42PM EDT by NWS Newport/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:40PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-21 19:15 Z\nAt 240 PM EDT, Doppler radar was tracking a strong thunderstorm over Otisville, or 8 miles east of Clio, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lapeer, Davison, Columbiaville, Mount Morris, Otisville, Otter Lake, Crossroads Village, Beecher, Genesee, Elba, and Thetford Township.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:40PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-07-21 19:15 Z\nAt 240 PM EDT, Doppler radar was tracking a strong thunderstorm over Otisville, or 8 miles east of Clio, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lapeer, Davison, Columbiaville, Mount Morris, Otisville, Otter Lake, Crossroads Village, Beecher, Genesee, Elba, and Thetford Township.\nGenerated: 2026-07-21 19:00:22 UTC"
   42.9800, -83.3800
   43.1000, -83.7200
   43.2200, -83.6400
@@ -83,7 +109,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:40PM EDT by NWS Detroit/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:39PM EDT by NWS Wilmington OH\nExpires: 2026-07-21 19:15 Z\nAt 239 PM EDT, a strong thunderstorm was located 8 miles northwest of Vevay, moving east at 35 mph.  HAZARD...Wind gusts up to 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Carrollton, Vevay, Warsaw, Kentucky Speedway, Pleasant, Glencoe, Ghent, Sanders, Sparta, Worthville, Prestonville, Braytown, Langstaff, Wheatley, Locust, Markland, Moorefield, and New Liberty.  This includes I-71 in Kentucky between mile markers 41 and 61.  If outdoors, consider seeking shelter inside a sturdy building.  A Severe Thunderstorm Watch remains in effect until 800 PM EDT for southeastern Indiana...and northern Kentucky.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:39PM EDT by NWS Wilmington OH\nExpires: 2026-07-21 19:15 Z\nAt 239 PM EDT, a strong thunderstorm was located 8 miles northwest of Vevay, moving east at 35 mph.  HAZARD...Wind gusts up to 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Carrollton, Vevay, Warsaw, Kentucky Speedway, Pleasant, Glencoe, Ghent, Sanders, Sparta, Worthville, Prestonville, Braytown, Langstaff, Wheatley, Locust, Markland, Moorefield, and New Liberty.  This includes I-71 in Kentucky between mile markers 41 and 61.  If outdoors, consider seeking shelter inside a sturdy building.  A Severe Thunderstorm Watch remains in effect until 800 PM EDT for southeastern Indiana...and northern Kentucky.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 19:00:22 UTC"
   38.7400, -85.3200
   38.7400, -85.2800
   38.7300, -85.2500
@@ -103,7 +129,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:39PM EDT by NWS Wilmingt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:39PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-21 19:15 Z\nAt 239 PM EDT, Doppler radar was tracking a strong thunderstorm near Edgecomb, or 7 miles northwest of Surf City, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, Verona, Dixon, Folkstone, Sneads Ferry, and Haws Run.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:39PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-21 19:15 Z\nAt 239 PM EDT, Doppler radar was tracking a strong thunderstorm near Edgecomb, or 7 miles northwest of Surf City, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, Verona, Dixon, Folkstone, Sneads Ferry, and Haws Run.\nGenerated: 2026-07-21 19:00:22 UTC"
   34.6200, -77.6400
   34.7500, -77.4900
   34.5800, -77.3500
@@ -112,22 +138,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:39PM EDT by NWS Newport/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:38PM EDT by NWS Louisville KY\nExpires: 2026-07-21 19:00 Z\nAt 238 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Madison, moving southeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Madison, Brooksburg, Canaan, North Madison, Ringwald, Manville, China, Belleview, and Barbersville.\nGenerated: 2026-07-21 18:55:16 UTC"
-  38.6900, -85.2000
-  38.7000, -85.2200
-  38.7300, -85.2400
-  38.7400, -85.2700
-  38.7400, -85.3300
-  38.7300, -85.3400
-  38.7300, -85.3700
-  38.7800, -85.4400
-  38.9100, -85.3400
-  38.9100, -85.2000
-  38.6900, -85.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 1:37PM CDT by NWS Lake Charles LA\nExpires: 2026-07-21 19:15 Z\nAt 137 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Bayou Sorrel, or 13 miles north of Belle River, moving southwest at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morgan City, Franklin, Patterson, Berwick, Stephensville, Bayou Vista, Belle River, Baldwin, Amelia, Charenton, Pierre Part, and Centerville.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 1:37PM CDT by NWS Lake Charles LA\nExpires: 2026-07-21 19:15 Z\nAt 137 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Bayou Sorrel, or 13 miles north of Belle River, moving southwest at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morgan City, Franklin, Patterson, Berwick, Stephensville, Bayou Vista, Belle River, Baldwin, Amelia, Charenton, Pierre Part, and Centerville.\nGenerated: 2026-07-21 19:00:22 UTC"
   29.6200, -91.0900
   29.8300, -91.6400
   30.1300, -91.4600
@@ -149,7 +160,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 1:37PM CDT by NWS Lake Cha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 1:34PM CDT by NWS New Orleans LA\nExpires: 2026-07-21 19:15 Z\nAt 133 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from 6 miles southeast of St. Francisville to near Plaquemine. Movement was southwest at 15 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Baton Rouge, Plaquemine, Port Allen, New Roads, St. Francisville, St. Gabriel, Addis, Brusly, White Castle, Livonia, Maringouin, Rosedale, Grosse Tete, Erwinville, Ramah, and Bayou Sorrel.  This includes Interstate 10 in Louisiana between mile markers 135 and 154.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 1:34PM CDT by NWS New Orleans LA\nExpires: 2026-07-21 19:15 Z\nAt 133 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from 6 miles southeast of St. Francisville to near Plaquemine. Movement was southwest at 15 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Baton Rouge, Plaquemine, Port Allen, New Roads, St. Francisville, St. Gabriel, Addis, Brusly, White Castle, Livonia, Maringouin, Rosedale, Grosse Tete, Erwinville, Ramah, and Bayou Sorrel.  This includes Interstate 10 in Louisiana between mile markers 135 and 154.\nGenerated: 2026-07-21 19:00:22 UTC"
   30.8100, -91.2700
   30.1700, -91.1400
   30.0500, -91.2600
@@ -166,7 +177,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 1:34PM CDT by NWS New Orle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 1:33PM CDT by NWS New Orleans LA\nExpires: 2026-07-21 19:15 Z\nAt 132 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from Paincourtville to Schriever. Movement was south at 30 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Thibodaux, Napoleonville, Schriever, Supreme, Gray, Paincourtville, Labadieville, Belle Rose, and Chackbay.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 1:33PM CDT by NWS New Orleans LA\nExpires: 2026-07-21 19:15 Z\nAt 132 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from Paincourtville to Schriever. Movement was south at 30 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Thibodaux, Napoleonville, Schriever, Supreme, Gray, Paincourtville, Labadieville, Belle Rose, and Chackbay.\nGenerated: 2026-07-21 19:00:22 UTC"
   29.6100, -91.1400
   29.6300, -91.0800
   29.6500, -91.1000
@@ -185,17 +196,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 1:33PM CDT by NWS New Orle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:30PM EDT by NWS Blacksburg VA\nExpires: 2026-07-21 19:00 Z\nAt 229 PM EDT, Doppler radar was tracking a strong thunderstorm near Bedford, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lynchburg... Bedford... Forest... Rustburg... Boonsboro... Goode... and Timberlake.\nGenerated: 2026-07-21 18:55:16 UTC"
-  37.1900, -79.6200
-  37.3600, -79.6900
-  37.5300, -79.1800
-  37.4100, -79.0900
-  37.2700, -79.0800
-  37.1900, -79.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:30PM EDT by NWS Wilmington OH\nExpires: 2026-07-21 19:15 Z\nAt 229 PM EDT, a strong thunderstorm was located near Johnstown, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Columbus, Newark, Heath, Granville, Johnstown, Utica, Hanover, Granville South, Marne, New Albany, Alexandria, Hartford, St. Louisville, Gratiot, Toboso, Fredonia, US Route 62 at State Route 661, Purity, State Route 310 at State Route 161, and Center Village.  This includes I-70 in Ohio near mile marker 144.  If outdoors, consider seeking shelter inside a sturdy building.  A Severe Thunderstorm Watch remains in effect until 800 PM EDT for central Ohio.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 18:55:16 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:30PM EDT by NWS Wilmington OH\nExpires: 2026-07-21 19:15 Z\nAt 229 PM EDT, a strong thunderstorm was located near Johnstown, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Columbus, Newark, Heath, Granville, Johnstown, Utica, Hanover, Granville South, Marne, New Albany, Alexandria, Hartford, St. Louisville, Gratiot, Toboso, Fredonia, US Route 62 at State Route 661, Purity, State Route 310 at State Route 161, and Center Village.  This includes I-70 in Ohio near mile marker 144.  If outdoors, consider seeking shelter inside a sturdy building.  A Severe Thunderstorm Watch remains in effect until 800 PM EDT for central Ohio.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-07-21 19:00:22 UTC"
   39.9500, -82.2000
   40.0900, -82.8900
   40.3100, -82.7700
@@ -205,100 +206,4 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:30PM EDT by NWS Wilmingt
   40.2500, -82.4800
   40.2400, -82.1800
   39.9500, -82.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:25PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-21 19:00 Z\nAt 225 PM EDT, Doppler radar was tracking a strong thunderstorm near Pinetown, or 10 miles northeast of Washington, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Plymouth, Pinetown, Wenona, Hinson, Long Acre VFD, and Dardens.\nGenerated: 2026-07-21 18:55:16 UTC"
-  35.8600, -76.7700
-  35.8700, -76.7600
-  35.7100, -76.6000
-  35.7000, -76.6200
-  35.7000, -76.6400
-  35.5700, -76.9500
-  35.6800, -77.0300
-  35.8700, -76.7900
-  35.8600, -76.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:24PM EDT by NWS Blacksburg VA\nExpires: 2026-07-21 19:00 Z\nAt 224 PM EDT, Doppler radar was tracking a strong thunderstorm over Wingina, or 8 miles northwest of Buckingham, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckingham... Dillwyn... New Canton... Centenary... Wingina... and Gold Hill.\nGenerated: 2026-07-21 18:55:16 UTC"
-  37.6400, -78.2500
-  37.5800, -78.2900
-  37.4900, -78.7400
-  37.5500, -78.8200
-  37.6300, -78.8200
-  37.6400, -78.8000
-  37.6400, -78.7200
-  37.6700, -78.7200
-  37.6800, -78.6900
-  37.7000, -78.6900
-  37.6800, -78.6600
-  37.6800, -78.6400
-  37.7100, -78.6500
-  37.7500, -78.6200
-  37.7600, -78.5500
-  37.7600, -78.5100
-  37.8000, -78.4900
-  37.7600, -78.4700
-  37.7500, -78.4400
-  37.6900, -78.2400
-  37.6400, -78.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:14PM EDT by NWS Blacksburg VA\nExpires: 2026-07-21 19:00 Z\nAt 214 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Covington to near Potts Creek to Zenith. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buchanan... New Castle... Paint Bank... Sinking Creek... Eagle Rock... Oriskany... and Fincastle.\nGenerated: 2026-07-21 18:55:16 UTC"
-  37.7400, -79.6900
-  37.6900, -79.6700
-  37.6600, -79.6800
-  37.6400, -79.6500
-  37.5200, -79.6800
-  37.4100, -80.0700
-  37.4200, -80.0800
-  37.3900, -80.1300
-  37.3600, -80.2400
-  37.3500, -80.3000
-  37.3700, -80.3300
-  37.3400, -80.3600
-  37.3400, -80.3900
-  37.4600, -80.7100
-  37.6000, -80.2100
-  37.7600, -79.9600
-  37.7400, -79.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 1:12PM CDT by NWS New Orleans LA\nExpires: 2026-07-21 19:00 Z\nAt 112 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds along a line extending from Gray to near Cocodrie. Movement was southeast at 25 mph.  HAZARD...Funnel clouds and winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...If a funnel cloud briefly touches down, minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Houma, Thibodaux, Lockport, Mathews, Schriever, Gray, Chauvin, Dulac, Raceland, Montegut, Bayou Cane, Cocodrie, Des Allemands, Tambour Bay Buoy, and Lumcon Center Buoy.\nGenerated: 2026-07-21 18:55:16 UTC"
-  29.1200, -90.7700
-  29.7400, -90.8700
-  29.8500, -90.5000
-  29.2400, -90.4100
-  29.2600, -90.4200
-  29.3000, -90.4200
-  29.2700, -90.4900
-  29.2900, -90.5200
-  29.2900, -90.5900
-  29.2000, -90.5900
-  29.1800, -90.6800
-  29.1000, -90.7300
-  29.1200, -90.7700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:07PM EDT by NWS Upton NY\nExpires: 2026-07-21 19:00 Z\nAt 207 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Branford, or 7 miles south of New Haven, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... New Haven, Milford, Middletown, Wallingford, Guilford, Clinton, East Hampton, Durham, Chester, Hamden, Branford, North Haven, North Branford, Cromwell, and Orange.\nGenerated: 2026-07-21 18:55:16 UTC"
-  41.4300, -72.4200
-  41.4200, -72.4300
-  41.4100, -72.4100
-  41.4000, -72.4200
-  41.4000, -72.4000
-  41.3900, -72.4200
-  41.2500, -72.6300
-  41.2300, -72.7600
-  41.2500, -72.7800
-  41.2300, -72.9000
-  41.2500, -72.9200
-  41.1900, -73.0000
-  41.2000, -73.0300
-  41.2100, -73.0500
-  41.5900, -72.6400
-  41.4300, -72.4200
 End:
