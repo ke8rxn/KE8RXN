@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-21 22:05:15 UTC
+; Generated: 2026-07-21 22:10:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:04PM CDT by NWS Little Rock AR\nExpires: 2026-07-21 22:30 Z\nAt 504 PM CDT, Doppler radar was tracking a strong thunderstorm near Lynn, or 10 miles west of Lake Charles State Park, moving south at 15 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Strawberry...                     Lynn... Smithville...                     Aetna... Nelsonville...                    Dowdy... Calamine...                       Driftwood... Eaton...\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 6:05PM EDT by NWS Albany NY\nExpires: 2026-07-21 22:45 Z\nAt 605 PM EDT, Doppler radar was tracking a strong thunderstorm near Modena, or near New Paltz, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Poughkeepsie, New Paltz, Plattekill, Pleasant Valley, Highland, Millbrook, Modena, Fairview, Red Oaks Mill, Myers Corner, Beekman, Lloyd, Tuckers Corner, Salt Point, Forest Glen, Knapps Corner, Hoxie Corner, Clove Valley, Elting Corners, and Haviland.  This includes Interstate 87 near exit 18.\nGenerated: 2026-07-21 22:10:17 UTC"
+  41.6100, -74.1100
+  41.7300, -74.1400
+  41.8500, -73.6700
+  41.6000, -73.6400
+  41.6100, -74.1100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 5:04PM CDT by NWS Little Rock AR\nExpires: 2026-07-21 22:30 Z\nAt 504 PM CDT, Doppler radar was tracking a strong thunderstorm near Lynn, or 10 miles west of Lake Charles State Park, moving south at 15 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Strawberry...                     Lynn... Smithville...                     Aetna... Nelsonville...                    Dowdy... Calamine...                       Driftwood... Eaton...\nGenerated: 2026-07-21 22:10:17 UTC"
   36.1200, -91.4600
   36.1200, -91.2300
   35.8500, -91.1000
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:04PM CDT by NWS Little R
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 4:00PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-21 22:30 Z\nAt 400 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Sunnyside, or 28 miles east of Price. This storm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern Carbon and southern Duchesne Counties.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 4:00PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-21 22:30 Z\nAt 400 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Sunnyside, or 28 miles east of Price. This storm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern Carbon and southern Duchesne Counties.\nGenerated: 2026-07-21 22:10:17 UTC"
   39.7200, -110.1900
   39.5800, -110.2400
   39.5900, -110.5200
@@ -23,7 +32,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 4:00PM MDT by NWS Salt Lak
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:53PM EDT by NWS State College PA\nExpires: 2026-07-21 22:30 Z\nAt 552 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Sherman to Waterford. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Columbus around 600 PM EDT. Spring Creek and Lottsville around 610 PM EDT.  Other locations impacted by these storms include Bear Lake, Starbrick, and Sugar Grove.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 5:53PM EDT by NWS State College PA\nExpires: 2026-07-21 22:30 Z\nAt 552 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Sherman to Waterford. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Columbus around 600 PM EDT. Spring Creek and Lottsville around 610 PM EDT.  Other locations impacted by these storms include Bear Lake, Starbrick, and Sugar Grove.\nGenerated: 2026-07-21 22:10:17 UTC"
   42.0000, -78.9200
   41.9700, -78.9200
   41.6500, -79.6100
@@ -32,7 +41,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:53PM EDT by NWS State Co
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:51PM EDT by NWS Jackson KY\nExpires: 2026-07-21 22:30 Z\nAt 550 PM EDT, Doppler radar was tracking a strong thunderstorm over Hays Crossing, or near Morehead, moving east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morehead, Sandy Hook, Cranston, Ramey, Wagner, Fannin Valley, Elliottville, Triplett, Christy, Hilda, Sharkey, Crix, Wagner Store, Munson, Brandy, Newfoundland, Haldeman, Clearfield, Vale, and Rodburn.  THIS INCLUDES Interstate 64 in eastern Kentucky between mile markers 131 and 148.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 5:51PM EDT by NWS Jackson KY\nExpires: 2026-07-21 22:30 Z\nAt 550 PM EDT, Doppler radar was tracking a strong thunderstorm over Hays Crossing, or near Morehead, moving east at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morehead, Sandy Hook, Cranston, Ramey, Wagner, Fannin Valley, Elliottville, Triplett, Christy, Hilda, Sharkey, Crix, Wagner Store, Munson, Brandy, Newfoundland, Haldeman, Clearfield, Vale, and Rodburn.  THIS INCLUDES Interstate 64 in eastern Kentucky between mile markers 131 and 148.\nGenerated: 2026-07-21 22:10:17 UTC"
   38.3200, -83.3400
   38.2100, -83.3000
   38.1900, -83.2700
@@ -56,7 +65,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:51PM EDT by NWS Jackson 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 3:50PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-21 22:15 Z\nAt 350 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Cove Fort, or 22 miles northeast of Milford, moving northwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of south central Millard County.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 3:50PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-21 22:15 Z\nAt 350 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Cove Fort, or 22 miles northeast of Milford, moving northwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of south central Millard County.\nGenerated: 2026-07-21 22:10:17 UTC"
   38.6600, -113.0200
   38.8600, -112.7900
   38.7700, -112.7000
@@ -69,7 +78,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 3:50PM MDT by NWS Salt Lak
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 3:43PM MDT by NWS Grand Junction CO\nExpires: 2026-07-21 22:15 Z\nAt 342 PM MDT, Doppler radar was tracking a strong thunderstorm near Dolores, or 32 miles west of Durango, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  Locations impacted include... Dolores, Lebanon, and Arriola.  This includes the following highways... U.S. Highway 491 in Colorado between mile markers 32 and 37. U.S. Highway 160 in Colorado between mile markers 47 and 48. Colorado 145 between mile markers 3 and 18.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 3:43PM MDT by NWS Grand Junction CO\nExpires: 2026-07-21 22:15 Z\nAt 342 PM MDT, Doppler radar was tracking a strong thunderstorm near Dolores, or 32 miles west of Durango, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  Locations impacted include... Dolores, Lebanon, and Arriola.  This includes the following highways... U.S. Highway 491 in Colorado between mile markers 32 and 37. U.S. Highway 160 in Colorado between mile markers 47 and 48. Colorado 145 between mile markers 3 and 18.\nGenerated: 2026-07-21 22:10:17 UTC"
   37.4700, -108.3000
   37.3400, -108.4000
   37.4300, -108.7000
@@ -78,7 +87,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 3:43PM MDT by NWS Grand Ju
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:39PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-21 22:15 Z\nAt 539 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a waterspout over Lake Mattamuskeet, or 30 miles southwest of Stumpy Point, moving northeast at 25 mph.  HAZARD...Waterspouts and wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fairfield and Lake Mattamuskeet.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 5:39PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-21 22:15 Z\nAt 539 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a waterspout over Lake Mattamuskeet, or 30 miles southwest of Stumpy Point, moving northeast at 25 mph.  HAZARD...Waterspouts and wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fairfield and Lake Mattamuskeet.\nGenerated: 2026-07-21 22:10:17 UTC"
   35.4700, -76.2900
   35.5200, -76.3200
   35.6000, -76.2200
@@ -90,7 +99,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:39PM EDT by NWS Newport/
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:37PM EDT by NWS Wakefield VA\nExpires: 2026-07-21 22:30 Z\nAt 537 PM EDT, Doppler radar was tracking a strong thunderstorm over Mannboro, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Frequent cloud to ground lightning strikes.  This strong thunderstorm will be near... Sutherland around 555 PM EDT. Matoaca around 600 PM EDT. Petersburg and Ettrick around 605 PM EDT. Colonial Heights and Virginia State University around 610 PM EDT. Fort Lee around 615 PM EDT. Prince George around 620 PM EDT.  Other locations impacted by this storm include North Wellville, Burgess, Birchett Estate, Addison, Reams, Earls, Ammon, Jordan Point Country Club, Petersburg National Battlefield, and New Bohemia.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 5:37PM EDT by NWS Wakefield VA\nExpires: 2026-07-21 22:30 Z\nAt 537 PM EDT, Doppler radar was tracking a strong thunderstorm over Mannboro, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Frequent cloud to ground lightning strikes.  This strong thunderstorm will be near... Sutherland around 555 PM EDT. Matoaca around 600 PM EDT. Petersburg and Ettrick around 605 PM EDT. Colonial Heights and Virginia State University around 610 PM EDT. Fort Lee around 615 PM EDT. Prince George around 620 PM EDT.  Other locations impacted by this storm include North Wellville, Burgess, Birchett Estate, Addison, Reams, Earls, Ammon, Jordan Point Country Club, Petersburg National Battlefield, and New Bohemia.\nGenerated: 2026-07-21 22:10:17 UTC"
   37.3200, -77.9000
   37.2800, -77.1700
   37.0500, -77.2800
@@ -100,7 +109,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:37PM EDT by NWS Wakefiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:35PM EDT by NWS Wakefield VA\nExpires: 2026-07-21 22:15 Z\nAt 535 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Mechanicsville to Bensley. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph, heavy rain, and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible. Frequent cloud to ground lightning strikes.  Strong thunderstorms will be near... Mechanicsville, Highland Springs, East Highland Park, and Studley around 540 PM EDT. Bottoms Bridge around 545 PM EDT. Roxbury and Tunstall around 550 PM EDT. Talleysville, Adkins Store, and Providence Forge around 555 PM EDT. New Kent around 600 PM EDT.  Other locations impacted by these storms include Eltham, Chickahominy Shore, Richmond Heights, Mountcastle, Elko, Montrose, Cohoke, Sandston, Glendale, and Lanexa.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 5:35PM EDT by NWS Wakefield VA\nExpires: 2026-07-21 22:15 Z\nAt 535 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Mechanicsville to Bensley. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph, heavy rain, and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible. Frequent cloud to ground lightning strikes.  Strong thunderstorms will be near... Mechanicsville, Highland Springs, East Highland Park, and Studley around 540 PM EDT. Bottoms Bridge around 545 PM EDT. Roxbury and Tunstall around 550 PM EDT. Talleysville, Adkins Store, and Providence Forge around 555 PM EDT. New Kent around 600 PM EDT.  Other locations impacted by these storms include Eltham, Chickahominy Shore, Richmond Heights, Mountcastle, Elko, Montrose, Cohoke, Sandston, Glendale, and Lanexa.\nGenerated: 2026-07-21 22:10:17 UTC"
   37.3500, -76.8200
   37.4400, -77.4300
   37.4500, -77.4200
@@ -118,7 +127,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:35PM EDT by NWS Wakefiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:33PM PDT by NWS Elko NV\nExpires: 2026-07-21 22:15 Z\nAt 232 PM PDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Currie, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central White Pine and south central Elko Counties.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:33PM PDT by NWS Elko NV\nExpires: 2026-07-21 22:15 Z\nAt 232 PM PDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Currie, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central White Pine and south central Elko Counties.\nGenerated: 2026-07-21 22:10:17 UTC"
   40.1000, -114.8400
   40.1000, -115.2300
   40.5600, -115.3900
@@ -127,7 +136,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:33PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:29PM PDT by NWS Elko NV\nExpires: 2026-07-21 22:15 Z\nAt 228 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Pequop Summit, moving northwest at 5 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of east central Elko County.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:29PM PDT by NWS Elko NV\nExpires: 2026-07-21 22:15 Z\nAt 228 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Pequop Summit, moving northwest at 5 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of east central Elko County.\nGenerated: 2026-07-21 22:10:17 UTC"
   41.0900, -114.2700
   41.0900, -114.6100
   41.3200, -114.7900
@@ -137,7 +146,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:29PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 2:24PM PDT by NWS Elko NV\nExpires: 2026-07-21 22:15 Z\nAt 224 PM PDT, Doppler radar was tracking a strong thunderstorm 28 miles east of Contact, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Elko County.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 2:24PM PDT by NWS Elko NV\nExpires: 2026-07-21 22:15 Z\nAt 224 PM PDT, Doppler radar was tracking a strong thunderstorm 28 miles east of Contact, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Elko County.\nGenerated: 2026-07-21 22:10:17 UTC"
   41.5600, -114.3300
   41.8900, -114.4000
   41.9200, -114.0400
@@ -147,7 +156,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 2:24PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:23PM EDT by NWS Wakefield VA\nExpires: 2026-07-21 22:30 Z\nAt 523 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Westover to 6 miles south of Lawsonia to 13 miles southwest of Tangier. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Pocomoke City, West Pocomoke, and Marion Station around 530 PM EDT. Snow Hill, Onancock, Parksley, and Onley around 540 PM EDT.  Other locations impacted by these storms include Horntown, Hallwood, Harborton, Melfa, Mappsville, Cokesbury, Goodwill, Greenbackville, Kingston, and Saxis.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 5:23PM EDT by NWS Wakefield VA\nExpires: 2026-07-21 22:30 Z\nAt 523 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Westover to 6 miles south of Lawsonia to 13 miles southwest of Tangier. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Pocomoke City, West Pocomoke, and Marion Station around 530 PM EDT. Snow Hill, Onancock, Parksley, and Onley around 540 PM EDT.  Other locations impacted by these storms include Horntown, Hallwood, Harborton, Melfa, Mappsville, Cokesbury, Goodwill, Greenbackville, Kingston, and Saxis.\nGenerated: 2026-07-21 22:10:17 UTC"
   38.0700, -75.1500
   37.8500, -75.3100
   37.8300, -75.4100
@@ -168,7 +177,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:23PM EDT by NWS Wakefiel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 5:11PM EDT by NWS Boston/Norton MA\nExpires: 2026-07-21 22:45 Z\nAt 508 PM EDT, Doppler radar indicated a cluster of showers and embedded thunderstorms with torrential rainfall. A quick 1 to 2 inches of rain may fall across this region with 90 minutes. This will result in areas of poor drainage street flooding during the evening commute. Motorists are urged to drive with extra caution and allow extra time to reach their destinations.  HAZARD...Poor drainage street flooding during the evening commute across eastern Massachusetts including the Boston metropolitan area.  SOURCE...Radar indicated showers and a few embedded thunderstorms with torrential rainfall.   IMPACT...Water on roads that flood easily.  Locations impacted include... Boston, Cambridge, Brockton, Quincy, Lynn, Newton, Somerville, Framingham, Waltham, Malden, Brookline, Medford, Weymouth, Revere, Peabody, Arlington, Everett, Salem, Billerica, and Beverly.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 5:11PM EDT by NWS Boston/Norton MA\nExpires: 2026-07-21 22:45 Z\nAt 508 PM EDT, Doppler radar indicated a cluster of showers and embedded thunderstorms with torrential rainfall. A quick 1 to 2 inches of rain may fall across this region with 90 minutes. This will result in areas of poor drainage street flooding during the evening commute. Motorists are urged to drive with extra caution and allow extra time to reach their destinations.  HAZARD...Poor drainage street flooding during the evening commute across eastern Massachusetts including the Boston metropolitan area.  SOURCE...Radar indicated showers and a few embedded thunderstorms with torrential rainfall.   IMPACT...Water on roads that flood easily.  Locations impacted include... Boston, Cambridge, Brockton, Quincy, Lynn, Newton, Somerville, Framingham, Waltham, Malden, Brookline, Medford, Weymouth, Revere, Peabody, Arlington, Everett, Salem, Billerica, and Beverly.\nGenerated: 2026-07-21 22:10:17 UTC"
   42.3800, -70.9500
   42.2600, -70.7200
   42.1700, -70.6700
@@ -185,7 +194,7 @@ Line: 2,,"Special Weather Statement issued July 21 at 5:11PM EDT by NWS Boston/N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 1:23PM PDT by NWS Reno NV\nExpires: 2026-07-21 22:15 Z\nAt 118 PM PDT, strong thunderstorms are ongoing over Mono, southern Lyon, and western Mineral counties. Thunderstorm coverage is expected to expand northward through the afternoon and early evening.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Reno, Carson City, South Lake Tahoe, Fallon, Mammoth Lakes, Tahoe City, Chalfant, Kings Beach, Crowley Lake, Sonora Pass, Gardnerville, Virginia City, June Lake, Boca Reservoir, Lee Vining, Twin Lakes, Lahontan Reservoir, Incline Village, Toms Place, and Alpine Meadows.\nGenerated: 2026-07-21 22:05:15 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 1:23PM PDT by NWS Reno NV\nExpires: 2026-07-21 22:15 Z\nAt 118 PM PDT, strong thunderstorms are ongoing over Mono, southern Lyon, and western Mineral counties. Thunderstorm coverage is expected to expand northward through the afternoon and early evening.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Reno, Carson City, South Lake Tahoe, Fallon, Mammoth Lakes, Tahoe City, Chalfant, Kings Beach, Crowley Lake, Sonora Pass, Gardnerville, Virginia City, June Lake, Boca Reservoir, Lee Vining, Twin Lakes, Lahontan Reservoir, Incline Village, Toms Place, and Alpine Meadows.\nGenerated: 2026-07-21 22:10:17 UTC"
   37.5800, -119.0100
   37.7400, -119.1300
   37.7300, -119.2500
