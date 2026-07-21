@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-21 16:10:18 UTC
+; Generated: 2026-07-21 16:15:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 12:05PM EDT by NWS Louisville KY\nExpires: 2026-07-21 16:30 Z\nAt 1204 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Scottsburg, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Charlestown, Owen, Bethlehem, Westport, Oldham, Greenhaven, Henryville, Otto, Clark Siding, and Russell Corner.\nGenerated: 2026-07-21 16:10:18 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 12:11PM EDT by NWS Tallahassee FL\nExpires: 2026-07-21 16:45 Z\nAt 1210 PM EDT/1110 AM CDT/, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Lynn Haven, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lynn Haven, Springfield, Nixon, Bayhead, Southport, Singer Road, Recota Beach, College Station, Bayou George, Camp Flowers, Greenhead, Gainer Spring, Bennett, Cairo, Porter Lake, Brannonville, Vicksburg, Majette, and Riverside.\nGenerated: 2026-07-21 16:15:22 UTC"
+  30.2200, -85.4000
+  30.1700, -85.6000
+  30.4900, -85.7900
+  30.5500, -85.5000
+  30.2200, -85.4000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 12:05PM EDT by NWS Louisville KY\nExpires: 2026-07-21 16:30 Z\nAt 1204 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Scottsburg, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Charlestown, Owen, Bethlehem, Westport, Oldham, Greenhaven, Henryville, Otto, Clark Siding, and Russell Corner.\nGenerated: 2026-07-21 16:15:22 UTC"
   38.6000, -85.3800
   38.3900, -85.4100
   38.5000, -85.7800
@@ -15,99 +24,4 @@ Line: 2,,"Special Weather Statement issued July 21 at 12:05PM EDT by NWS Louisvi
   38.5900, -85.4300
   38.6000, -85.4300
   38.6000, -85.3800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:36AM EDT by NWS Cleveland OH\nExpires: 2026-07-21 16:15 Z\nAt 1135 AM EDT, Doppler radar was tracking a strong thunderstorm 8 miles south of West Salem, or 9 miles west of Wooster, moving east at 65 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Canton, Wooster, Massillon, Green, Alliance, North Canton, Louisville, Orrville, Rittman, Minerva, Doylestown, Hartville, Creston, Brewster, Navarre, Dalton, Shreve, West Salem, Waynesburg, and East Sparta.\nGenerated: 2026-07-21 16:10:18 UTC"
-  40.6600, -81.6500
-  40.6700, -81.6500
-  40.6600, -81.8700
-  40.6700, -82.2100
-  40.9800, -82.2300
-  40.9800, -81.0900
-  40.7300, -81.0900
-  40.7200, -81.2300
-  40.6500, -81.2400
-  40.6500, -81.4400
-  40.6600, -81.4400
-  40.6500, -81.4700
-  40.6600, -81.6500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:36AM EDT by NWS Upton NY\nExpires: 2026-07-21 16:15 Z\nAt 1136 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Brookfield to near Wilton. Movement was east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Bridgeport, New Haven, Waterbury, Norwalk, Milford, Shelton, Naugatuck, Southbury, New Canaan, Wolcott, Newtown, Fairfield, Hamden, Stratford, and Trumbull.\nGenerated: 2026-07-21 16:10:18 UTC"
-  41.6000, -72.9300
-  41.5600, -72.9500
-  41.5600, -72.8800
-  41.5500, -72.8600
-  41.2400, -72.9700
-  41.1400, -73.5000
-  41.4900, -73.3700
-  41.4700, -73.3100
-  41.4900, -73.3300
-  41.5100, -73.3200
-  41.5100, -73.1600
-  41.5600, -73.1600
-  41.5700, -73.0900
-  41.5900, -73.0800
-  41.5900, -73.0600
-  41.6100, -73.0500
-  41.6200, -73.0200
-  41.6300, -73.0200
-  41.6400, -72.9400
-  41.6000, -72.9300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:35AM EDT by NWS Cleveland OH\nExpires: 2026-07-21 16:15 Z\nAt 1134 AM EDT, Doppler radar was tracking a strong thunderstorm near Wellington, or 12 miles west of Medina, moving east at 65 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Akron, Medina, Cuyahoga Falls, Brunswick, Kent, Barberton, Hudson, Wadsworth, Twinsburg, Tallmadge, Streetsboro, Macedonia, Rittman, Wellington, Mogadore, Lodi, Creston, Chippewa Lake, Stow, and Broadview Heights.\nGenerated: 2026-07-21 16:10:18 UTC"
-  41.2400, -82.2800
-  41.2800, -81.6700
-  41.2800, -81.5700
-  41.2900, -81.5600
-  41.3100, -81.3400
-  40.9900, -81.3200
-  40.9900, -82.2500
-  41.2400, -82.2800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:29AM EDT by NWS Charleston WV\nExpires: 2026-07-21 16:15 Z\nAt 1128 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Shawnee to Nelsonville to near Hocking Hills State Park. Movement was east at 40 mph.  HAZARD...Wind gusts up to 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Athens, Nelsonville, Glouster, Beverly, Chauncey, Corning, Stockport, Jacksonville, Trimble, Amesville, and The Plains.\nGenerated: 2026-07-21 16:10:18 UTC"
-  39.5900, -81.5900
-  39.5900, -81.5800
-  39.5800, -81.5600
-  39.4000, -81.7300
-  39.3400, -82.1900
-  39.3700, -82.2900
-  39.4700, -82.2800
-  39.4700, -82.1700
-  39.5400, -82.1600
-  39.5600, -82.1600
-  39.5600, -82.2300
-  39.6400, -82.1100
-  39.5900, -81.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 11:21AM EDT by NWS Albany NY\nExpires: 2026-07-21 16:15 Z\nAt 1121 AM EDT, Doppler radar was tracking a strong thunderstorm over Danbury, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Milford, Terryville, Woodbury Center, Oakville, Watertown, Plymouth, Woodbury, Roxbury, Bridgewater, Candlewood Springs, Hotchkissville, Pequabuck, Reynolds Bridge, Hancock, River Road Reserve, Pomeraug, Candlewood Trails, Gulls Hollow, Plymouth Green, and Birch Groves.\nGenerated: 2026-07-21 16:10:18 UTC"
-  41.4900, -73.3700
-  41.5100, -73.3900
-  41.4900, -73.4400
-  41.5700, -73.4600
-  41.5500, -73.5300
-  41.5300, -73.5300
-  41.5200, -73.6400
-  41.5300, -73.6400
-  41.6900, -72.9900
-  41.6400, -72.9800
-  41.6100, -73.0200
-  41.6100, -73.0600
-  41.5900, -73.0600
-  41.5900, -73.0800
-  41.5700, -73.0900
-  41.5600, -73.1600
-  41.5100, -73.1600
-  41.5100, -73.3200
-  41.4900, -73.3300
-  41.4700, -73.3200
-  41.4900, -73.3700
 End:
