@@ -3,62 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-22 21:25:15 UTC
+; Generated: 2026-07-22 21:30:31 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 2:08PM PDT by NWS Elko NV\nExpires: 2026-07-22 21:45 Z\nAt 207 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Lages Junction, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Currie and Lages Junction.\nGenerated: 2026-07-22 21:25:15 UTC"
+Line: 2,,"Special Weather Statement issued July 22 at 5:28PM EDT by NWS Wakefield VA\nExpires: 2026-07-22 22:00 Z\nAt 528 PM EDT, Doppler radar was tracking a strong thunderstorm over Port Royal, or near King George, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northwestern Westmoreland County, including the following locations... Oak Grove, Potomac Beach, Potomac Mills, and Westmoreland State.\nGenerated: 2026-07-22 21:30:31 UTC"
+  38.2600, -76.9600
+  38.2300, -76.9600
+  38.2100, -76.9500
+  38.2000, -76.9100
+  38.1700, -76.8700
+  38.1600, -76.8300
+  38.1600, -77.0600
+  38.1700, -77.0600
+  38.1800, -77.0500
+  38.2600, -77.0500
+  38.2600, -77.0300
+  38.2700, -77.0300
+  38.2800, -76.9800
+  38.2600, -76.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 22 at 2:08PM PDT by NWS Elko NV\nExpires: 2026-07-22 21:45 Z\nAt 207 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Lages Junction, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Currie and Lages Junction.\nGenerated: 2026-07-22 21:30:31 UTC"
   39.9700, -114.7900
   40.2100, -114.8400
   40.3800, -114.6400
   40.0100, -114.5300
   39.9700, -114.7900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:48PM EDT by NWS Wakefield VA\nExpires: 2026-07-22 21:30 Z\nAt 448 PM EDT, Doppler radar was tracking a strong thunderstorm over Massaponax, or near Fredericksburg, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of north central Caroline County, including the following locations... Corbin.\nGenerated: 2026-07-22 21:25:15 UTC"
-  38.2400, -77.3100
-  38.2400, -77.2900
-  38.2200, -77.2900
-  38.2300, -77.2800
-  38.2500, -77.2700
-  38.2500, -77.2300
-  38.2400, -77.2300
-  38.2300, -77.2500
-  38.2100, -77.2400
-  38.1900, -77.2500
-  38.1900, -77.2300
-  38.2000, -77.2300
-  38.2000, -77.2200
-  38.1700, -77.1800
-  38.1400, -77.4800
-  38.2300, -77.3800
-  38.2500, -77.3500
-  38.2400, -77.3100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 1:47PM PDT by NWS Elko NV\nExpires: 2026-07-22 21:30 Z\nAt 147 PM PDT, Doppler radar was tracking a cluster of strong thunderstorms 9 miles north of Great Basin National Park, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Great Basin National Park, Baker, Shoshone, and Sacramento Pass.\nGenerated: 2026-07-22 21:25:15 UTC"
-  38.8800, -114.4100
-  39.1400, -114.6300
-  39.4500, -114.1900
-  39.2700, -114.0500
-  39.0200, -114.0500
-  38.8800, -114.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:43PM EDT by NWS Caribou ME\nExpires: 2026-07-22 21:30 Z\nAt 442 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles north of Dickey to 14 miles northeast of Clayton Lake. Movement was northeast at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Kent, Eagle Lake, Allagash, Deboullie Mountain, Allagash Township, Dickey, Wallagrass, Saint Francis, Round Pond, and Saint John.\nGenerated: 2026-07-22 21:25:15 UTC"
-  47.2500, -69.0400
-  47.2000, -68.9500
-  47.2100, -68.9400
-  47.1800, -68.9000
-  47.1900, -68.8600
-  47.2200, -68.8100
-  47.2200, -68.7600
-  47.2400, -68.7200
-  47.2400, -68.6600
-  47.1200, -68.6200
-  46.6400, -69.3600
-  47.2700, -69.1500
-  47.3400, -69.0600
-  47.2500, -69.0400
 End:
