@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-22 17:40:15 UTC
+; Generated: 2026-07-22 17:45:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 1:08PM EDT by NWS Wakefield VA\nExpires: 2026-07-22 18:00 Z\nAt 107 PM EDT, Doppler radar was tracking a strong thunderstorm near South Boston, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Buffalo Springs around 115 PM EDT. Clarksville around 125 PM EDT. Boydton around 140 PM EDT.  Other locations impacted by this storm include Nelson, Rogers Corner, Richardson, Buffalo Junction, Finchley, Eppes Fork, John H Kerr Reservoir, Wightman, and Skipwith.\nGenerated: 2026-07-22 17:40:15 UTC"
+Line: 2,,"Special Weather Statement issued July 22 at 1:40PM EDT by NWS Caribou ME\nExpires: 2026-07-22 18:30 Z\nAt 139 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Seboomook, or 33 miles west of Ripogenus, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chamberlain Lake, Caucomgomoc Lake, Tamway, and Chesuncook.\nGenerated: 2026-07-22 17:45:20 UTC"
+  46.4900, -69.6100
+  46.2800, -69.1700
+  45.9700, -69.6700
+  45.9800, -69.6900
+  45.9800, -69.7900
+  45.9700, -69.9300
+  46.0400, -70.0400
+  46.4900, -69.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 22 at 1:08PM EDT by NWS Wakefield VA\nExpires: 2026-07-22 18:00 Z\nAt 107 PM EDT, Doppler radar was tracking a strong thunderstorm near South Boston, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Buffalo Springs around 115 PM EDT. Clarksville around 125 PM EDT. Boydton around 140 PM EDT.  Other locations impacted by this storm include Nelson, Rogers Corner, Richardson, Buffalo Junction, Finchley, Eppes Fork, John H Kerr Reservoir, Wightman, and Skipwith.\nGenerated: 2026-07-22 17:45:20 UTC"
   36.5700, -78.7300
   36.5800, -78.7200
   36.6400, -78.7100
@@ -21,47 +33,4 @@ Line: 2,,"Special Weather Statement issued July 22 at 1:08PM EDT by NWS Wakefiel
   36.5400, -78.3500
   36.5400, -78.7300
   36.5700, -78.7300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 1:03PM EDT by NWS Gray ME\nExpires: 2026-07-22 17:45 Z\nAt 102 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles north of Jackman, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Seboomook, Soldiertown, Hammond, Plymouth, Alder Brook, Pittston Academy Grant, Moose River, Town Of Thorndike, Comstock, Sandy Bay, and Brassua.\nGenerated: 2026-07-22 17:40:15 UTC"
-  45.8700, -69.6500
-  45.8500, -69.6800
-  45.8800, -69.7100
-  45.8700, -69.7200
-  45.8400, -69.7000
-  45.8300, -69.7200
-  45.8100, -69.7100
-  45.6900, -70.2600
-  45.8300, -70.3700
-  45.8900, -70.2600
-  45.9100, -70.2500
-  45.9300, -70.2600
-  45.9400, -70.2400
-  45.9600, -70.2500
-  45.9600, -70.2600
-  45.9800, -69.6800
-  45.8700, -69.6500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 1:03PM AST by NWS San Juan PR\nExpires: 2026-07-22 17:45 Z\nAt 102 PM AST, Doppler radar was tracking a strong thunderstorm capable of producing a waterspout over Rincon and Aguada, moving northwest at 10 mph.  HAZARD...Waterspouts and wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-07-22 17:40:15 UTC"
-  18.4800, -66.9000
-  18.3800, -66.9700
-  18.4000, -67.0200
-  18.3800, -67.0400
-  18.3100, -67.0500
-  18.2700, -67.0400
-  18.2700, -67.0600
-  18.2300, -67.0700
-  18.2600, -67.1900
-  18.2800, -67.1900
-  18.3000, -67.2300
-  18.3500, -67.2700
-  18.3700, -67.2600
-  18.4200, -67.1600
-  18.4900, -67.1700
-  18.5100, -67.1400
-  18.5200, -67.0400
-  18.4800, -66.9000
 End:
