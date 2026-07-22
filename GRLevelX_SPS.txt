@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-22 03:25:12 UTC
+; Generated: 2026-07-22 03:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 10:05PM CDT by NWS Memphis TN\nExpires: 2026-07-22 03:45 Z\nAt 1005 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles northwest of Linden to near Natchez Trace State Forest. Movement was south at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lexington, Natchez Trace State Park, Natchez Trace State Forest, Parsons, Decaturville, Sardis, Reagan, Parkers Crossroads, Darden, Wildersville, Montgomery, Scotts Hill, Busseltown, Jeannette, Haney, Rock Hill, Mount Tabor, Sugar Tree, Red Walnut, and Timberlake.  This includes Interstate 40 in Tennessee between mile markers 104 and 134.\nGenerated: 2026-07-22 03:25:12 UTC"
+Line: 2,,"Special Weather Statement issued July 21 at 9:27PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-22 04:15 Z\nAt 926 PM MDT, Doppler radar was tracking a strong thunderstorm near Layton, moving north at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ogden, Layton, Farmington, Brigham City, Hill Air Force Base, Roy, Clearfield, Kaysville, Syracuse, Clinton, North Ogden, South Ogden, Washington Terrace, Riverdale, Hooper, South Weber, Perry, Willard, Marriott-Slaterville, and Uintah.  This storm will be capable of producing strong gusty winds on the Great Salt Lake. This will lead to a sudden increase in waves and very choppy waters which will result in hazardous boating conditions. Boaters are urged to seek safe harbor if possible.  This includes the following highways... Interstate 15 between mile markers 324 and 361. Interstate 84 between mile markers 82 and 91.\nGenerated: 2026-07-22 03:30:19 UTC"
+  40.9800, -111.8200
+  40.9500, -112.2500
+  41.4300, -112.4500
+  41.5000, -111.9000
+  40.9800, -111.8200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 21 at 10:05PM CDT by NWS Memphis TN\nExpires: 2026-07-22 03:45 Z\nAt 1005 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles northwest of Linden to near Natchez Trace State Forest. Movement was south at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lexington, Natchez Trace State Park, Natchez Trace State Forest, Parsons, Decaturville, Sardis, Reagan, Parkers Crossroads, Darden, Wildersville, Montgomery, Scotts Hill, Busseltown, Jeannette, Haney, Rock Hill, Mount Tabor, Sugar Tree, Red Walnut, and Timberlake.  This includes Interstate 40 in Tennessee between mile markers 104 and 134.\nGenerated: 2026-07-22 03:30:19 UTC"
   35.8700, -87.9400
   35.8300, -87.9700
   35.7700, -87.9800
@@ -22,13 +31,4 @@ Line: 2,,"Special Weather Statement issued July 21 at 10:05PM CDT by NWS Memphis
   35.8300, -88.4600
   35.9000, -87.9300
   35.8700, -87.9400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 21 at 8:46PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-22 03:30 Z\nAt 846 PM MDT, Doppler radar was tracking a strong thunderstorm over Salt Lake City International Airport moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Lake City, Ogden, Layton, Bountiful, Farmington, Hill Air Force Base, Roy, Clearfield, Kaysville, Syracuse, Clinton, South Ogden, North Salt Lake, Centerville, Woods Cross, Washington Terrace, Riverdale, Hooper, South Weber, and West Bountiful.  This storm will be capable of producing strong gusty winds on the Great Salt Lake. This will lead to a sudden increase in waves and very choppy waters which will result in hazardous boating conditions. Boaters are urged to seek safe harbor if possible.  This includes the following highways... Interstate 15 between mile markers 311 and 341. Interstate 84 between mile markers 82 and 93.\nGenerated: 2026-07-22 03:25:12 UTC"
-  40.8200, -111.8000
-  40.7700, -112.2000
-  41.1600, -112.3000
-  41.2300, -111.8100
-  40.8200, -111.8000
 End:
