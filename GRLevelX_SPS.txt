@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-22 23:40:16 UTC
+; Generated: 2026-07-22 23:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:36PM PDT by NWS Elko NV\nExpires: 2026-07-23 00:15 Z\nAt 436 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles west of Dufferena, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dufferena and Sage Hen Summit.\nGenerated: 2026-07-22 23:40:16 UTC"
+Line: 2,,"Special Weather Statement issued July 22 at 6:40PM CDT by NWS Houston/Galveston TX\nExpires: 2026-07-23 00:30 Z\nAt 640 PM CDT, Doppler radar was tracking a strong thunderstorm near Waller, or 7 miles east of Prairie View, moving southwest at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Prairie View, Brookshire, Hockley, Waller, Pine Island, Pattison, and Monaville.\nGenerated: 2026-07-22 23:45:16 UTC"
+  30.1900, -95.9200
+  30.1200, -95.7700
+  29.7500, -95.9100
+  29.8600, -96.1600
+  30.1900, -95.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 22 at 4:36PM PDT by NWS Elko NV\nExpires: 2026-07-23 00:15 Z\nAt 436 PM PDT, Doppler radar was tracking a strong thunderstorm 12 miles west of Dufferena, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dufferena and Sage Hen Summit.\nGenerated: 2026-07-22 23:45:16 UTC"
   42.0000, -118.9700
   41.8600, -118.8000
   41.6300, -119.3200
@@ -15,7 +24,7 @@ Line: 2,,"Special Weather Statement issued July 22 at 4:36PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 5:36PM MDT by NWS Goodland KS\nExpires: 2026-07-23 00:00 Z\nAt 536 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles southeast of Thurman, or 13 miles north of Flagler, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northwestern Kit Carson County.\nGenerated: 2026-07-22 23:40:16 UTC"
+Line: 2,,"Special Weather Statement issued July 22 at 5:36PM MDT by NWS Goodland KS\nExpires: 2026-07-23 00:00 Z\nAt 536 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles southeast of Thurman, or 13 miles north of Flagler, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northwestern Kit Carson County.\nGenerated: 2026-07-22 23:45:16 UTC"
   39.4100, -103.1500
   39.4700, -103.1600
   39.5600, -103.1500
@@ -28,7 +37,7 @@ Line: 2,,"Special Weather Statement issued July 22 at 5:36PM MDT by NWS Goodland
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 5:29PM MDT by NWS Billings MT\nExpires: 2026-07-23 00:00 Z\nAt 529 PM MDT, Doppler radar was tracking an area of strong thunderstorms 16 miles southwest of Big Timber, or 16 miles east of Livingston, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston and Springdale.\nGenerated: 2026-07-22 23:40:16 UTC"
+Line: 2,,"Special Weather Statement issued July 22 at 5:29PM MDT by NWS Billings MT\nExpires: 2026-07-23 00:00 Z\nAt 529 PM MDT, Doppler radar was tracking an area of strong thunderstorms 16 miles southwest of Big Timber, or 16 miles east of Livingston, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston and Springdale.\nGenerated: 2026-07-22 23:45:16 UTC"
   45.6000, -110.5900
   45.6800, -110.6200
   45.8500, -110.1100
@@ -48,96 +57,10 @@ Line: 2,,"Special Weather Statement issued July 22 at 5:29PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:16PM PDT by NWS Pendleton OR\nExpires: 2026-07-22 23:45 Z\nAt 416 PM PDT, Doppler radar was tracking a strong thunderstorm over La Pine, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Pine.\nGenerated: 2026-07-22 23:40:16 UTC"
-  43.6200, -121.6300
-  43.8200, -121.6200
-  43.7800, -121.2900
-  43.6200, -121.3700
-  43.6100, -121.5900
-  43.6200, -121.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 5:14PM MDT by NWS Great Falls MT\nExpires: 2026-07-23 00:00 Z\nAt 514 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Three Forks, or 28 miles southeast of Boulder, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Willow Creek.\nGenerated: 2026-07-22 23:40:16 UTC"
+Line: 2,,"Special Weather Statement issued July 22 at 5:14PM MDT by NWS Great Falls MT\nExpires: 2026-07-23 00:00 Z\nAt 514 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Three Forks, or 28 miles southeast of Boulder, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Willow Creek.\nGenerated: 2026-07-22 23:45:16 UTC"
   45.9400, -111.8900
   45.9900, -111.7500
   45.8200, -111.5200
   45.7300, -111.7900
   45.9400, -111.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:12PM PDT by NWS Portland OR\nExpires: 2026-07-22 23:45 Z\nAt 411 PM PDT, Doppler radar was tracking strong thunderstorms along a line extending from near Forest Grove to 6 miles southwest of Hillsboro. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hillsboro, Forest Grove, Banks, Cornelius, North Plains, and Dilley.  This includes the following highways in Oregon... U.S. Highway 26 west of Portland between mile markers 49 and 61. State Highway 6 between mile markers 47 and 51.\nGenerated: 2026-07-22 23:40:16 UTC"
-  45.7300, -123.0800
-  45.5300, -122.8900
-  45.3800, -123.0500
-  45.5500, -123.2200
-  45.7300, -123.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:12PM PDT by NWS Pendleton OR\nExpires: 2026-07-22 23:45 Z\nAt 411 PM PDT, Doppler radar was tracking a strong thunderstorm near Tumalo, or near Bend, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bend, Redmond, and Tumalo.  This includes Highway 20 between mile markers 4 and 7, and between mile markers 11 and 19.\nGenerated: 2026-07-22 23:40:16 UTC"
-  44.0900, -121.3700
-  44.1400, -121.4000
-  44.2900, -121.3400
-  44.2100, -121.0300
-  44.0400, -121.1700
-  44.0900, -121.3700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 5:12PM MDT by NWS Pueblo CO\nExpires: 2026-07-22 23:45 Z\nAt 512 PM MDT, Doppler radar was tracking a strong thunderstorm near Fort Carson, or 10 miles south of Colorado Springs, moving north at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Southern Colorado Springs, Fountain, Manitou Springs, Stratmoor, Fort Carson, Security, Security-Widefield, Peterson Space Force Base, and Cimarron Hills.\nGenerated: 2026-07-22 23:40:16 UTC"
-  38.6600, -104.6900
-  38.6800, -104.8800
-  38.8600, -104.9400
-  38.8600, -104.6100
-  38.6600, -104.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 5:11PM MDT by NWS Cheyenne WY\nExpires: 2026-07-22 23:45 Z\nAt 510 PM MDT, Doppler radar was tracking a strong thunderstorm over Savage Run Wilderness, or 40 miles west of Laramie, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albany, Savage Run Wilderness, Pickaroon Campground, Platte River Wilderness, Pelton Creek Campground, Keystone, Rambler, Rob Roy Reservoir, Bobbie Thompson Campground, Pike Pole Campground, and Rob Roy Campground.\nGenerated: 2026-07-22 23:40:16 UTC"
-  41.0300, -106.3300
-  41.1000, -106.4900
-  41.3000, -106.4100
-  41.2000, -106.1100
-  41.0300, -106.3300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:09PM PDT by NWS Pendleton OR\nExpires: 2026-07-22 23:45 Z\nAt 409 PM PDT, Doppler radar was tracking a strong thunderstorm near Camp Sherman, or 20 miles northwest of Redmond, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Camp Sherman.\nGenerated: 2026-07-22 23:40:16 UTC"
-  44.4900, -121.4000
-  44.4700, -121.4000
-  44.4100, -121.4200
-  44.3900, -121.4400
-  44.3900, -121.6200
-  44.4100, -121.6400
-  44.5200, -121.6700
-  44.4900, -121.4000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 4:09PM PDT by NWS Elko NV\nExpires: 2026-07-22 23:45 Z\nAt 409 PM PDT, Doppler radar was tracking a strong thunderstorm near Oasis, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Elko County.\nGenerated: 2026-07-22 23:40:16 UTC"
-  40.8600, -114.5900
-  41.0100, -114.5600
-  41.0500, -114.3600
-  40.8200, -114.3800
-  40.8600, -114.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 7:07PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-22 23:45 Z\nAt 706 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Babcock Ranch, or 16 miles south of Arcadia, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... North Port, Arcadia, Port Charlotte, Southeast Arcadia, Babcock Ranch, Babcock Webb Wma, Nocatee, Brownville, Harbour Heights, Cleveland, Lake Suzy, Fort Ogden, and Charlotte Harbor.\nGenerated: 2026-07-22 23:40:16 UTC"
-  26.9500, -81.6200
-  26.7700, -81.8000
-  27.0600, -82.1400
-  27.3400, -81.8200
-  26.9500, -81.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 22 at 3:43PM PDT by NWS Medford OR\nExpires: 2026-07-22 23:45 Z\nAt 343 PM PDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Fort Rock, or 22 miles southeast of La Pine, moving north at 10 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fort Rock.\nGenerated: 2026-07-22 23:40:16 UTC"
-  43.6100, -120.7600
-  43.1800, -120.8600
-  43.4300, -121.3000
-  43.6200, -121.2500
-  43.6100, -120.7600
 End:
