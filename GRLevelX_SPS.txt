@@ -3,9 +3,59 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-23 23:45:17 UTC
+; Generated: 2026-07-23 23:50:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 5:42PM MDT by NWS Cheyenne WY\nExpires: 2026-07-24 00:15 Z\nAt 542 PM MDT, Doppler radar was tracking a strong thunderstorm over Sibley Peak, or 27 miles southeast of Douglas, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glendo, Hartville, Sibley Peak, Reno Cove Campground, Sandy Cove Campground, Two Moon Campground, Guernsey State Park, Glendo State Park, and Cassa.  This includes Interstate 25 in Wyoming between mile markers 105 and 113.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 5:49PM MDT by NWS Missoula MT\nExpires: 2026-07-24 00:30 Z\nAt 449 PM PDT, Doppler radar was tracking a strong thunderstorm 21 miles west of White Bird, or 30 miles west of Grangeville, moving northeast at 25 mph.  HAZARD...Wind gusts up to 30 mph and heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Keuterville.\nGenerated: 2026-07-23 23:50:14 UTC"
+  46.0000, -116.5300
+  46.0400, -116.5200
+  46.1200, -116.5100
+  45.9600, -116.2900
+  45.7800, -116.5900
+  45.7800, -116.6600
+  45.8300, -116.7100
+  45.8200, -116.7600
+  45.8300, -116.7900
+  45.8600, -116.7900
+  45.8700, -116.7500
+  45.8900, -116.7300
+  45.9400, -116.7600
+  45.9900, -116.7200
+  46.0000, -116.7000
+  46.0000, -116.6500
+  46.0300, -116.6500
+  46.0400, -116.6300
+  46.0300, -116.5800
+  46.0000, -116.5400
+  46.0000, -116.5300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 23 at 5:47PM MDT by NWS Billings MT\nExpires: 2026-07-24 00:30 Z\nAt 547 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Billings West End, or 11 miles northwest of Billings, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Billings, Billings Heights, Billings West End, Lockwood and Acton.\nGenerated: 2026-07-23 23:50:14 UTC"
+  45.8600, -108.8000
+  45.9400, -108.7300
+  45.9800, -108.6200
+  45.8800, -108.3000
+  45.6700, -108.5900
+  45.8600, -108.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 23 at 7:47PM EDT by NWS Marquette MI\nExpires: 2026-07-24 00:15 Z\nAt 747 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northeast of Rock Harbor to 7 miles northeast of Siskiwit Lake to near Mount Desor to 7 miles northeast of Grand Portage State Park. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Siskiwit Lake, Mott Island Park Headquarters, Windigo, Rock Harbor, and Mount Desor.\nGenerated: 2026-07-23 23:50:14 UTC"
+  48.2000, -88.6400
+  48.2000, -88.3600
+  48.1300, -88.3300
+  47.8900, -88.6900
+  47.8100, -88.9300
+  47.8400, -89.2700
+  47.9000, -89.3500
+  47.9200, -89.3400
+  48.0100, -89.1200
+  48.0300, -88.9900
+  48.2000, -88.6400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 23 at 5:42PM MDT by NWS Cheyenne WY\nExpires: 2026-07-24 00:15 Z\nAt 542 PM MDT, Doppler radar was tracking a strong thunderstorm over Sibley Peak, or 27 miles southeast of Douglas, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glendo, Hartville, Sibley Peak, Reno Cove Campground, Sandy Cove Campground, Two Moon Campground, Guernsey State Park, Glendo State Park, and Cassa.  This includes Interstate 25 in Wyoming between mile markers 105 and 113.\nGenerated: 2026-07-23 23:50:14 UTC"
   42.4700, -105.1500
   42.5300, -105.0500
   42.4100, -104.6600
@@ -14,7 +64,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 5:42PM MDT by NWS Cheyenne
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 4:41PM PDT by NWS Pendleton OR\nExpires: 2026-07-24 00:00 Z\nAt 441 PM PDT, Doppler radar was tracking a strong thunderstorm over Paradise, or 33 miles south of Lewiston, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Flora and Paradise.  This includes Highway 3 between mile markers 1 and 12.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 4:41PM PDT by NWS Pendleton OR\nExpires: 2026-07-24 00:00 Z\nAt 441 PM PDT, Doppler radar was tracking a strong thunderstorm over Paradise, or 33 miles south of Lewiston, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Flora and Paradise.  This includes Highway 3 between mile markers 1 and 12.\nGenerated: 2026-07-23 23:50:14 UTC"
   45.9400, -117.0300
   45.8300, -117.2300
   45.9500, -117.4200
@@ -24,7 +74,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 4:41PM PDT by NWS Pendleto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 5:39PM MDT by NWS Pueblo CO\nExpires: 2026-07-24 00:30 Z\nAt 538 PM MDT, Doppler radar was tracking a strong thunderstorm near Peyton, or 25 miles northeast of Colorado Springs, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and brief pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Calhan, Ramah, and Peyton.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 5:39PM MDT by NWS Pueblo CO\nExpires: 2026-07-24 00:30 Z\nAt 538 PM MDT, Doppler radar was tracking a strong thunderstorm near Peyton, or 25 miles northeast of Colorado Springs, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and brief pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Calhan, Ramah, and Peyton.\nGenerated: 2026-07-23 23:50:14 UTC"
   38.8700, -104.0600
   38.9800, -104.5500
   39.1300, -104.5100
@@ -33,7 +83,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 5:39PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 4:39PM PDT by NWS Boise ID\nExpires: 2026-07-24 00:15 Z\nAt 439 PM PDT, Doppler radar was tracking a strong thunderstorm near Shell Rock Butte, or 23 miles west of Parma, moving northeast at 25 mph.  HAZARD...Torrential rain wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Double Mountain and Shell Rock Butte around 550 PM MDT. Keeney Pass around 610 PM MDT.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 4:39PM PDT by NWS Boise ID\nExpires: 2026-07-24 00:15 Z\nAt 439 PM PDT, Doppler radar was tracking a strong thunderstorm near Shell Rock Butte, or 23 miles west of Parma, moving northeast at 25 mph.  HAZARD...Torrential rain wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Double Mountain and Shell Rock Butte around 550 PM MDT. Keeney Pass around 610 PM MDT.\nGenerated: 2026-07-23 23:50:14 UTC"
   43.9100, -116.9700
   43.9000, -116.9700
   43.6100, -117.3600
@@ -43,7 +93,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 4:39PM PDT by NWS Boise ID
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 5:36PM MDT by NWS Pueblo CO\nExpires: 2026-07-24 00:15 Z\nAt 536 PM MDT, Doppler radar was tracking a strong thunderstorm near Rocky Ford, or 9 miles northwest of La Junta, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and brief hail up to half inch.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Junta, North La Junta, Rocky Ford, Swink, and Cheraw.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 5:36PM MDT by NWS Pueblo CO\nExpires: 2026-07-24 00:15 Z\nAt 536 PM MDT, Doppler radar was tracking a strong thunderstorm near Rocky Ford, or 9 miles northwest of La Junta, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and brief hail up to half inch.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Junta, North La Junta, Rocky Ford, Swink, and Cheraw.\nGenerated: 2026-07-23 23:50:14 UTC"
   38.0000, -103.7600
   38.1800, -103.7200
   38.1700, -103.4000
@@ -52,7 +102,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 5:36PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 4:32PM PDT by NWS Elko NV\nExpires: 2026-07-24 00:00 Z\nAt 432 PM PDT, Doppler radar was tracking a strong thunderstorm 19 miles south of Pine Valley, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Elko and central Eureka Counties.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 4:32PM PDT by NWS Elko NV\nExpires: 2026-07-24 00:00 Z\nAt 432 PM PDT, Doppler radar was tracking a strong thunderstorm 19 miles south of Pine Valley, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Elko and central Eureka Counties.\nGenerated: 2026-07-23 23:50:14 UTC"
   40.0600, -116.2100
   40.1000, -116.3000
   40.3300, -116.2300
@@ -61,7 +111,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 4:32PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 6:30PM CDT by NWS Dodge City KS\nExpires: 2026-07-24 00:15 Z\nAt 630 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Charleston to 6 miles south of Sublette. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Copeland and Tice around 635 PM CDT.  Other locations in the path of these storms include Montezuma.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 6:30PM CDT by NWS Dodge City KS\nExpires: 2026-07-24 00:15 Z\nAt 630 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Charleston to 6 miles south of Sublette. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Copeland and Tice around 635 PM CDT.  Other locations in the path of these storms include Montezuma.\nGenerated: 2026-07-23 23:50:14 UTC"
   37.7500, -100.2900
   37.2400, -100.5700
   37.3400, -100.9000
@@ -70,7 +120,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 6:30PM CDT by NWS Dodge Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 4:12PM PDT by NWS Boise ID\nExpires: 2026-07-24 00:00 Z\nAt 411 PM PDT, Doppler radar was tracking a strong thunderstorm near Cornucopia, or 30 miles south of Enterprise, moving northeast at 30 mph.  HAZARD...Torrential rain, wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Cornucopia and Fish Lake around 420 PM PDT.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 4:12PM PDT by NWS Boise ID\nExpires: 2026-07-24 00:00 Z\nAt 411 PM PDT, Doppler radar was tracking a strong thunderstorm near Cornucopia, or 30 miles south of Enterprise, moving northeast at 30 mph.  HAZARD...Torrential rain, wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Cornucopia and Fish Lake around 420 PM PDT.\nGenerated: 2026-07-23 23:50:14 UTC"
   45.0800, -117.1100
   45.0700, -116.7900
   45.0400, -116.8200
@@ -81,7 +131,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 4:12PM PDT by NWS Boise ID
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 5:58PM CDT by NWS Amarillo TX\nExpires: 2026-07-24 00:00 Z\nAt 557 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles south of Wilburton to 9 miles southeast of Felt. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Keyes, Eva, Griggs, Hough, and Sturgis.\nGenerated: 2026-07-23 23:45:17 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 5:58PM CDT by NWS Amarillo TX\nExpires: 2026-07-24 00:00 Z\nAt 557 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles south of Wilburton to 9 miles southeast of Felt. Movement was east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Keyes, Eva, Griggs, Hough, and Sturgis.\nGenerated: 2026-07-23 23:50:14 UTC"
   36.5100, -102.0300
   36.5000, -102.7900
   36.9900, -102.0700
