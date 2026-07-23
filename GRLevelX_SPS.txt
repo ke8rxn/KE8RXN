@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-23 21:00:28 UTC
+; Generated: 2026-07-23 21:05:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 1:51PM PDT by NWS Elko NV\nExpires: 2026-07-23 21:15 Z\nAt 150 PM PDT, Doppler radar was tracking a cluster of strong thunderstorms about 7 miles southeast of Battle Mountain, moving to the at around 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Battle Mountain, Argenta, and Mule Canyon Reclamation Project.\nGenerated: 2026-07-23 21:00:28 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 3:03PM MDT by NWS Denver CO\nExpires: 2026-07-23 21:45 Z\nAt 303 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 13 miles southwest of Kimball Municipal Airport to over Rockport, or extending from 16 miles southwest of Kimball to 18 miles south of Cheyenne, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pierce, Nunn, Grover, Hereford, Keota, Pawnee Buttes, Purcell, Rockport, Carr and Natural Fort.\nGenerated: 2026-07-23 21:05:14 UTC"
+  40.9600, -104.9400
+  41.0000, -104.3300
+  41.0000, -103.6400
+  40.9100, -103.5700
+  40.8000, -103.5700
+  40.6700, -104.0300
+  40.5900, -104.8700
+  40.9600, -104.9400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 23 at 3:01PM MDT by NWS Albuquerque NM\nExpires: 2026-07-23 21:30 Z\nAt 301 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles east of Crownpoint, moving northeast at 10 mph.  HAZARD...Wind gusts up to 45 mph, torrential rainfall, and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible. Hail may accumulate on roadways causing hazardous travel.  Locations impacted include... Mainly rural areas of Northeastern McKinley County.\nGenerated: 2026-07-23 21:05:14 UTC"
+  35.6300, -107.9100
+  35.7700, -108.0200
+  35.8900, -107.7700
+  35.6600, -107.6100
+  35.6200, -107.8100
+  35.6400, -107.8100
+  35.6600, -107.8300
+  35.6600, -107.8400
+  35.6500, -107.8500
+  35.6500, -107.8900
+  35.6400, -107.8900
+  35.6400, -107.9100
+  35.6300, -107.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 23 at 1:51PM PDT by NWS Elko NV\nExpires: 2026-07-23 21:15 Z\nAt 150 PM PDT, Doppler radar was tracking a cluster of strong thunderstorms about 7 miles southeast of Battle Mountain, moving to the at around 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Battle Mountain, Argenta, and Mule Canyon Reclamation Project.\nGenerated: 2026-07-23 21:05:14 UTC"
   40.4200, -116.8000
   40.4600, -117.0500
   40.7100, -116.9800
@@ -14,7 +43,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 1:51PM PDT by NWS Elko NV\
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 2:51PM MDT by NWS Billings MT\nExpires: 2026-07-23 21:45 Z\nAt 251 PM MDT, Doppler radar was tracking an area of strong thunderstorms 8 miles southeast of Ridgeway, or 35 miles south of Ekalaka, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail, along with very heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ridgeway, Albion and Capitol.\nGenerated: 2026-07-23 21:00:28 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 2:51PM MDT by NWS Billings MT\nExpires: 2026-07-23 21:45 Z\nAt 251 PM MDT, Doppler radar was tracking an area of strong thunderstorms 8 miles southeast of Ridgeway, or 35 miles south of Ekalaka, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail, along with very heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ridgeway, Albion and Capitol.\nGenerated: 2026-07-23 21:05:14 UTC"
   45.4000, -104.6400
   45.7000, -104.1900
   45.6600, -104.0400
@@ -25,7 +54,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 2:51PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 2:38PM MDT by NWS Pueblo CO\nExpires: 2026-07-23 21:15 Z\nAt 238 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Pritchett, or 16 miles west of Springfield, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Baca and southeastern Bent Counties.\nGenerated: 2026-07-23 21:00:28 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 2:38PM MDT by NWS Pueblo CO\nExpires: 2026-07-23 21:15 Z\nAt 238 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Pritchett, or 16 miles west of Springfield, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Baca and southeastern Bent Counties.\nGenerated: 2026-07-23 21:05:14 UTC"
   37.4000, -102.9300
   37.5000, -103.0100
   37.6800, -102.8200
@@ -34,7 +63,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 2:38PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 2:34PM MDT by NWS Boise ID\nExpires: 2026-07-23 21:15 Z\nAt 233 PM MDT, Doppler radar was tracking a strong thunderstorm near Antelope Reservoir, or 22 miles east of Rome, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Parsnip Peak around 240 PM MDT. Jordan Valley around 250 PM MDT.\nGenerated: 2026-07-23 21:00:28 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 2:34PM MDT by NWS Boise ID\nExpires: 2026-07-23 21:15 Z\nAt 233 PM MDT, Doppler radar was tracking a strong thunderstorm near Antelope Reservoir, or 22 miles east of Rome, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Parsnip Peak around 240 PM MDT. Jordan Valley around 250 PM MDT.\nGenerated: 2026-07-23 21:05:14 UTC"
   42.7700, -117.1700
   42.8300, -117.3400
   43.2100, -116.9200
@@ -43,7 +72,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 2:34PM MDT by NWS Boise ID
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 2:24PM MDT by NWS Billings MT\nExpires: 2026-07-23 21:30 Z\nAt 224 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles north of Harlowton, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Judith Gap.\nGenerated: 2026-07-23 21:00:28 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 2:24PM MDT by NWS Billings MT\nExpires: 2026-07-23 21:30 Z\nAt 224 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles north of Harlowton, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Judith Gap.\nGenerated: 2026-07-23 21:05:14 UTC"
   46.7200, -110.1300
   46.7200, -110.1200
   46.7400, -110.1200
