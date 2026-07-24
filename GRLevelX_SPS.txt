@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-24 20:40:14 UTC
+; Generated: 2026-07-24 20:45:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 1:39PM MST by NWS Phoenix AZ\nExpires: 2026-07-24 21:15 Z\nAt 139 PM MST, Doppler radar was tracking a strong thunderstorm 13 miles west of West Poker Mountain, or 42 miles east of Globe. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of Gila County.\nGenerated: 2026-07-24 20:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 2:40PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-24 21:15 Z\nAt 240 PM MDT, Doppler radar was tracking a strong thunderstorm near Panguitch Lake, or 27 miles east of Cedar City, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Panguitch, Panguitch Lake, and Hillsdale.  This includes US Route 89 between mile markers 126 and 133.\nGenerated: 2026-07-24 20:45:19 UTC"
+  37.7300, -112.7300
+  37.9600, -112.6100
+  37.8100, -112.3400
+  37.8000, -112.3400
+  37.6300, -112.5500
+  37.7300, -112.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 2:40PM MDT by NWS Pueblo CO\nExpires: 2026-07-24 21:15 Z\nAt 240 PM MDT, Doppler radar was tracking a strong thunderstorm near Westcreek, or 28 miles northwest of Colorado Springs. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Teller County.\nGenerated: 2026-07-24 20:45:19 UTC"
+  39.1300, -105.1600
+  39.0100, -105.1400
+  39.0100, -105.3300
+  39.1300, -105.3300
+  39.1300, -105.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 1:39PM MST by NWS Phoenix AZ\nExpires: 2026-07-24 21:15 Z\nAt 139 PM MST, Doppler radar was tracking a strong thunderstorm 13 miles west of West Poker Mountain, or 42 miles east of Globe. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of Gila County.\nGenerated: 2026-07-24 20:45:19 UTC"
   33.4700, -110.1700
   33.6100, -110.2400
   33.6500, -110.1100
@@ -18,61 +37,10 @@ Line: 2,,"Special Weather Statement issued July 24 at 1:39PM MST by NWS Phoenix 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 2:18PM MDT by NWS Pocatello ID\nExpires: 2026-07-24 20:45 Z\nAt 216 PM MDT, Doppler radar was tracking a strong thunderstorm near Neeley, moving northeast at 15 mph.  HAZARD...Wind gusts in excess of 45 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... American Falls, Neeley, western American Falls Reservoir, Fort Hall Bannock Creek Lodge, and Massacre Rocks.\nGenerated: 2026-07-24 20:40:14 UTC"
-  42.5400, -112.8100
-  42.6600, -113.0000
-  42.9100, -112.7800
-  42.7400, -112.5100
-  42.5400, -112.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 4:10PM EDT by NWS Charleston SC\nExpires: 2026-07-24 20:45 Z\nAt 410 PM EDT, Doppler radar was tracking a strong thunderstorm near McClellanville, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... McClellanville, Santee Coastal Reserve, Hampton Plantation State Park, South Santee, Germantown and Tibwin.\nGenerated: 2026-07-24 20:40:14 UTC"
-  33.0500, -79.5100
-  33.1500, -79.5200
-  33.1600, -79.5100
-  33.1700, -79.5100
-  33.2100, -79.4700
-  33.2100, -79.4500
-  33.2200, -79.4400
-  33.2000, -79.4100
-  33.1800, -79.4000
-  33.1600, -79.3500
-  33.1400, -79.2700
-  33.1300, -79.2700
-  33.1200, -79.2800
-  33.1100, -79.2600
-  33.0600, -79.3400
-  33.0500, -79.3400
-  33.0500, -79.5100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 2:09PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-24 20:45 Z\nAt 208 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Junction. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Junction, Kingston, and Angle.\nGenerated: 2026-07-24 20:40:14 UTC"
-  38.3800, -111.9300
-  38.2000, -111.9500
-  38.1800, -112.2000
-  38.4500, -112.1600
-  38.3800, -111.9300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 4:07PM EDT by NWS Wilmington NC\nExpires: 2026-07-24 21:00 Z\nAt 406 PM EDT, Doppler radar was tracking a strong thunderstorm over Indiantown, or 15 miles southeast of Lake City, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Conway, Socastee, Red Hill, Horry, Johnsonville, Hemingway, Rhems, Bucksville, Pee Dee Crossroads, Poston, Nesmith, Brittons Neck, Indiantown, Bucksport, Dongola, Outland, Yauhannah, Morrisville, Henry, and Kingsburg.\nGenerated: 2026-07-24 20:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 4:07PM EDT by NWS Wilmington NC\nExpires: 2026-07-24 21:00 Z\nAt 406 PM EDT, Doppler radar was tracking a strong thunderstorm over Indiantown, or 15 miles southeast of Lake City, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Conway, Socastee, Red Hill, Horry, Johnsonville, Hemingway, Rhems, Bucksville, Pee Dee Crossroads, Poston, Nesmith, Brittons Neck, Indiantown, Bucksport, Dongola, Outland, Yauhannah, Morrisville, Henry, and Kingsburg.\nGenerated: 2026-07-24 20:45:19 UTC"
   33.5100, -79.5900
   33.8100, -79.6300
   34.0500, -79.1200
   33.6600, -78.9600
   33.5100, -79.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 3:59PM EDT by NWS Peachtree City GA\nExpires: 2026-07-24 20:45 Z\nAt 358 PM EDT, a strong thunderstorm was near Villa Rica, or 11 miles southwest of Dallas, moving east at 10 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Douglasville, Villa Rica, Temple, Hiram, Draketown, Winston, Lake Val-Do-Mar, Brownsville, New Georgia, Bill Arp, and Fairplay.\nGenerated: 2026-07-24 20:40:14 UTC"
-  33.8800, -85.0300
-  33.8400, -84.7200
-  33.8100, -84.7200
-  33.8000, -84.7000
-  33.6000, -84.7900
-  33.5900, -84.8000
-  33.7300, -85.0900
-  33.8800, -85.0300
 End:
