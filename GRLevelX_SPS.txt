@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-24 03:15:13 UTC
+; Generated: 2026-07-24 03:20:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 10:13PM CDT by NWS Norman OK\nExpires: 2026-07-24 03:45 Z\nAt 1013 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles southeast of Acres to 8 miles east of Rosston. Movement was east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buffalo.\nGenerated: 2026-07-24 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 9:17PM MDT by NWS Missoula MT\nExpires: 2026-07-24 03:45 Z\nAt 917 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles west of Lolo to 12 miles northeast of Conner, or extending from 12 miles southwest of Missoula to 17 miles southeast of Hamilton, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, Hamilton, Lolo, Stevensville, Victor, Woodside, Florence, Bonner-West Riverside, East Missoula, Skalkaho Pass, Bell Crossing, Corvallis, Grantsdale and Turah.\nGenerated: 2026-07-24 03:20:21 UTC"
+  46.6100, -114.3300
+  46.6500, -114.3200
+  46.6700, -114.3600
+  46.7600, -114.4000
+  46.7800, -114.3200
+  46.7600, -114.2000
+  46.7800, -114.1200
+  46.8300, -114.1300
+  46.9100, -113.8100
+  46.1200, -113.4400
+  46.0300, -113.4800
+  45.9400, -114.0300
+  46.6100, -114.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 23 at 10:13PM CDT by NWS Norman OK\nExpires: 2026-07-24 03:45 Z\nAt 1013 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles southeast of Acres to 8 miles east of Rosston. Movement was east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buffalo.\nGenerated: 2026-07-24 03:20:21 UTC"
   37.0000, -99.5400
   36.7400, -99.5500
   36.7800, -99.8800
@@ -14,7 +31,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 10:13PM CDT by NWS Norman 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 9:05PM MDT by NWS Missoula MT\nExpires: 2026-07-24 03:30 Z\nAt 805 PM PDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of White Bird, or 14 miles south of Grangeville, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... White Bird.\nGenerated: 2026-07-24 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 9:05PM MDT by NWS Missoula MT\nExpires: 2026-07-24 03:30 Z\nAt 805 PM PDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of White Bird, or 14 miles south of Grangeville, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... White Bird.\nGenerated: 2026-07-24 03:20:21 UTC"
   45.7800, -116.3400
   45.9900, -115.9400
   45.8100, -115.7500
@@ -23,7 +40,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 9:05PM MDT by NWS Missoula
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 10:03PM CDT by NWS Dodge City KS\nExpires: 2026-07-24 03:30 Z\nAt 1002 PM CDT, Doppler radar was tracking a strong thunderstorm near Coldwater, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Sun City around 1020 PM CDT.\nGenerated: 2026-07-24 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 10:03PM CDT by NWS Dodge City KS\nExpires: 2026-07-24 03:30 Z\nAt 1002 PM CDT, Doppler radar was tracking a strong thunderstorm near Coldwater, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Sun City around 1020 PM CDT.\nGenerated: 2026-07-24 03:20:21 UTC"
   37.1400, -99.5500
   37.4700, -99.4500
   37.4700, -98.4700
@@ -35,7 +52,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 10:03PM CDT by NWS Dodge C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 9:50PM CDT by NWS Dodge City KS\nExpires: 2026-07-24 03:30 Z\nAt 950 PM CDT, Doppler radar was tracking a strong thunderstorm near Acres, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Clark County.\nGenerated: 2026-07-24 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 9:50PM CDT by NWS Dodge City KS\nExpires: 2026-07-24 03:30 Z\nAt 950 PM CDT, Doppler radar was tracking a strong thunderstorm near Acres, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Clark County.\nGenerated: 2026-07-24 03:20:21 UTC"
   37.0000, -99.9600
   37.1100, -99.9000
   37.1500, -99.5400
@@ -44,7 +61,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 9:50PM CDT by NWS Dodge Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 8:44PM MDT by NWS Boise ID\nExpires: 2026-07-24 03:30 Z\nAt 844 PM MDT, Doppler radar was tracking a strong thunderstorm near Blacks Creek Reservoir, or near Boise, moving north at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  This strong thunderstorm will be near... Boise and Garden City around 850 PM MDT. Bogus Basin Ski Area around 910 PM MDT.\nGenerated: 2026-07-24 03:15:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 8:44PM MDT by NWS Boise ID\nExpires: 2026-07-24 03:30 Z\nAt 844 PM MDT, Doppler radar was tracking a strong thunderstorm near Blacks Creek Reservoir, or near Boise, moving north at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  This strong thunderstorm will be near... Boise and Garden City around 850 PM MDT. Bogus Basin Ski Area around 910 PM MDT.\nGenerated: 2026-07-24 03:20:21 UTC"
   43.9700, -116.2600
   43.7200, -115.8300
   43.4000, -116.0800
