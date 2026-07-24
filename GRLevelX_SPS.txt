@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-24 02:10:13 UTC
+; Generated: 2026-07-24 02:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 8:05PM MDT by NWS Boise ID\nExpires: 2026-07-24 02:45 Z\nAt 805 PM MDT, Doppler radar was tracking a strong thunderstorm near Swan Falls, or 29 miles south of Nampa, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Kuna, Melba, Swan Falls, Murphy, Blacks Creek Reservoir, Big Foot Butte, Initial Point, and Boise Stage Stop.\nGenerated: 2026-07-24 02:10:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 8:13PM MDT by NWS Missoula MT\nExpires: 2026-07-24 02:45 Z\nAt 813 PM MDT /713 PM PDT/, Doppler radar was tracking a strong thunderstorm 31 miles east of Lowell, or 38 miles west of Hamilton, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of East Central Idaho and Northwestern Ravalli Counties.\nGenerated: 2026-07-24 02:15:16 UTC"
+  46.0600, -115.0700
+  46.2500, -115.1100
+  46.3700, -114.3900
+  46.1000, -114.4200
+  46.0600, -115.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 23 at 8:05PM MDT by NWS Boise ID\nExpires: 2026-07-24 02:45 Z\nAt 805 PM MDT, Doppler radar was tracking a strong thunderstorm near Swan Falls, or 29 miles south of Nampa, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Kuna, Melba, Swan Falls, Murphy, Blacks Creek Reservoir, Big Foot Butte, Initial Point, and Boise Stage Stop.\nGenerated: 2026-07-24 02:15:16 UTC"
   43.0600, -116.5300
   43.1300, -116.6000
   43.5700, -116.4800
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 8:05PM MDT by NWS Boise ID
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 7:02PM PDT by NWS Pendleton OR\nExpires: 2026-07-24 02:30 Z\nAt 701 PM PDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Imnaha, or 25 miles east of Enterprise, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Wallowa County.\nGenerated: 2026-07-24 02:10:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 7:02PM PDT by NWS Pendleton OR\nExpires: 2026-07-24 02:30 Z\nAt 701 PM PDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Imnaha, or 25 miles east of Enterprise, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Wallowa County.\nGenerated: 2026-07-24 02:15:16 UTC"
   45.3300, -116.6700
   45.2800, -116.6700
   45.2600, -116.6900
@@ -29,17 +38,7 @@ Line: 2,,"Special Weather Statement issued July 23 at 7:02PM PDT by NWS Pendleto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 8:01PM MDT by NWS Missoula MT\nExpires: 2026-07-24 02:15 Z\nAt 701 PM PDT, Doppler radar was tracking a line of strong thunderstorms extending from 26 miles north of Headquarters to 14 miles east of Headquarters, or extending from 40 miles northeast of Orofino to 37 miles east of Orofino, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of North Central Clearwater County.\nGenerated: 2026-07-24 02:10:13 UTC"
-  46.5600, -115.6200
-  46.7900, -115.7600
-  46.9300, -115.9500
-  46.9300, -115.3800
-  46.6800, -115.2100
-  46.5600, -115.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 7:00PM PDT by NWS Spokane WA\nExpires: 2026-07-24 02:45 Z\nAt 659 PM PDT, Doppler radar was tracking a strong thunderstorm 15 miles northeast of Elk River, or 35 miles north of Orofino, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of south central Shoshone County.\nGenerated: 2026-07-24 02:10:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 7:00PM PDT by NWS Spokane WA\nExpires: 2026-07-24 02:45 Z\nAt 659 PM PDT, Doppler radar was tracking a strong thunderstorm 15 miles northeast of Elk River, or 35 miles north of Orofino, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of south central Shoshone County.\nGenerated: 2026-07-24 02:15:16 UTC"
   46.9300, -115.9700
   46.9500, -116.0600
   47.2200, -115.8100
@@ -48,59 +47,10 @@ Line: 2,,"Special Weather Statement issued July 23 at 7:00PM PDT by NWS Spokane 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 7:57PM MDT by NWS Cheyenne WY\nExpires: 2026-07-24 02:30 Z\nAt 756 PM MDT, Doppler radar was tracking a strong thunderstorm near Fort Steele Historic Site, or 17 miles east of Rawlins, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Steele Historic Site.  This includes Interstate 80 in Wyoming between mile markers 229 and 239.\nGenerated: 2026-07-24 02:10:13 UTC"
+Line: 2,,"Special Weather Statement issued July 23 at 7:57PM MDT by NWS Cheyenne WY\nExpires: 2026-07-24 02:30 Z\nAt 756 PM MDT, Doppler radar was tracking a strong thunderstorm near Fort Steele Historic Site, or 17 miles east of Rawlins, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Steele Historic Site.  This includes Interstate 80 in Wyoming between mile markers 229 and 239.\nGenerated: 2026-07-24 02:15:16 UTC"
   41.7800, -106.9700
   41.8100, -106.8800
   41.6600, -106.6100
   41.5500, -106.9000
   41.7800, -106.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 9:44PM EDT by NWS Jacksonville FL\nExpires: 2026-07-24 02:15 Z\nAt 944 PM EDT, Doppler radar was tracking a strong thunderstorm near High Springs, or 9 miles southwest of Worthington Spring, moving southwest at 10 to 15 mph.  HAZARD...Wind gusts 40 to 50 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Alachua and High Springs.\nGenerated: 2026-07-24 02:10:13 UTC"
-  29.9300, -82.5400
-  29.8300, -82.4400
-  29.7700, -82.4500
-  29.7000, -82.5600
-  29.8200, -82.7100
-  29.9300, -82.5400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 7:44PM MDT by NWS Missoula MT\nExpires: 2026-07-24 02:15 Z\nAt 644 PM PDT, Doppler radar was tracking a line of strong thunderstorms extending from 8 miles east of Pierce to 24 miles southeast of Lowell, or extending from 29 miles east of Orofino to 47 miles east of Grangeville, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of Northeastern Idaho and Central Clearwater Counties.\nGenerated: 2026-07-24 02:10:13 UTC"
-  46.3900, -115.6900
-  46.5100, -115.8000
-  46.6800, -115.2200
-  46.4600, -114.9700
-  46.1000, -114.6200
-  45.8800, -115.1900
-  46.3900, -115.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 7:42PM MDT by NWS Cheyenne WY\nExpires: 2026-07-24 02:15 Z\nAt 742 PM MDT, Doppler radar was tracking a strong thunderstorm over Henry, or 9 miles southeast of Torrington, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mitchell, Morrill, Lyman, Henry, Stegall, and Scotts Bluff County Fairground.\nGenerated: 2026-07-24 02:10:13 UTC"
-  42.0200, -104.1500
-  42.0900, -104.0600
-  41.9200, -103.7300
-  41.8000, -104.0000
-  42.0200, -104.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 7:35PM MDT by NWS Boise ID\nExpires: 2026-07-24 02:15 Z\nAt 734 PM MDT, Doppler radar was tracking a strong thunderstorm near Toy Pass, or 43 miles west of Mountain Home, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Swan Falls, Toy Pass, Big Foot Butte, and Oreana.\nGenerated: 2026-07-24 02:10:13 UTC"
-  42.7700, -116.5600
-  42.8500, -116.8100
-  43.2900, -116.4300
-  43.1700, -116.0400
-  42.7700, -116.5600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 23 at 7:30PM MDT by NWS Boise ID\nExpires: 2026-07-24 02:15 Z\nAt 730 PM MDT/630 PM PDT/, Doppler radar was tracking a cluster of strong thunderstorms near Richland, or 32 miles east of Baker City, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Halfway, Richland, Brownlee Guard Station, Lafferty Campground, Fish Lake, Little Lookout Mountain, Sweedes Landing, McChord Butte, Lake Fork Campground, Brownlee Dam, Cuddy Mountain, Sparta, Durkee, Oxbow Dam, Homestead, Pleasant Valley, Cornucopia, Summers Point, Sheep Mountain, and Sturgill Peak.\nGenerated: 2026-07-24 02:10:13 UTC"
-  44.7800, -116.4400
-  44.5000, -117.1100
-  44.6300, -117.8400
-  45.0800, -117.0800
-  45.0800, -116.7900
-  44.7800, -116.4400
 End:
