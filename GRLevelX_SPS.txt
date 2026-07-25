@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-25 02:25:13 UTC
+; Generated: 2026-07-25 02:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 10:14PM EDT by NWS Columbia SC\nExpires: 2026-07-25 03:00 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm near McBean, or 9 miles north of Waynesboro, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesboro, Savannah River Site, Plant Vogtle, Hephzibah, Jackson, Burke County Airport, McBean, Girard, Audubon's Silver Bluff Sanctuary, Savannah River Site H Canyon, Bennock Mill, Savannah River Site K Complex, Shell Bluff, and Shell Bluff Landing.\nGenerated: 2026-07-25 02:25:13 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 8:27PM MDT by NWS Billings MT\nExpires: 2026-07-25 03:30 Z\nAt 827 PM MDT, Doppler radar was tracking a strong thunderstorm 17 miles south of Big Timber, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Columbus, Absarokee, Reed Point, Greycliff and Mc Leod.\nGenerated: 2026-07-25 02:30:17 UTC"
+  45.7500, -110.1200
+  45.8700, -109.2100
+  45.5200, -109.1400
+  45.5200, -109.1900
+  45.4800, -109.1900
+  45.4900, -110.0600
+  45.6000, -110.1400
+  45.7500, -110.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 8:26PM MDT by NWS Boise ID\nExpires: 2026-07-25 03:15 Z\nAt 825 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Crawfish Crossing to Bostetter Ranger Station. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Locations impacted include... Rogerson, Hollister, Rock Creek, Cedar Creek Reservoir, Crawfish Crossing, Roseworth, Salmon Falls Dam, Norton Bay, Black Butte, Magic Valley Regional Airport, Salmon Falls Reservoir, and Juniper Butte.\nGenerated: 2026-07-25 02:30:17 UTC"
+  42.0800, -115.3700
+  42.5000, -115.0800
+  42.5200, -114.4800
+  42.4700, -114.0600
+  42.4100, -114.0700
+  42.4200, -114.2900
+  42.1400, -114.2800
+  42.0500, -114.3700
+  42.0800, -115.3700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 10:14PM EDT by NWS Columbia SC\nExpires: 2026-07-25 03:00 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm near McBean, or 9 miles north of Waynesboro, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesboro, Savannah River Site, Plant Vogtle, Hephzibah, Jackson, Burke County Airport, McBean, Girard, Audubon's Silver Bluff Sanctuary, Savannah River Site H Canyon, Bennock Mill, Savannah River Site K Complex, Shell Bluff, and Shell Bluff Landing.\nGenerated: 2026-07-25 02:30:17 UTC"
   33.0600, -82.1900
   33.2400, -82.1700
   33.3400, -82.0700
@@ -18,25 +43,11 @@ Line: 2,,"Special Weather Statement issued July 24 at 10:14PM EDT by NWS Columbi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 10:13PM EDT by NWS Jacksonville FL\nExpires: 2026-07-25 02:45 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm over Alachua, or 12 miles southwest of Worthington Spring, moving south at 5 mph.  HAZARD...Wind gusts around 40 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Alachua, High Springs, and Newberry.\nGenerated: 2026-07-25 02:25:13 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 10:13PM EDT by NWS Jacksonville FL\nExpires: 2026-07-25 02:45 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm over Alachua, or 12 miles southwest of Worthington Spring, moving south at 5 mph.  HAZARD...Wind gusts around 40 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Alachua, High Springs, and Newberry.\nGenerated: 2026-07-25 02:30:17 UTC"
   29.8500, -82.6100
   29.8300, -82.4000
   29.6000, -82.3800
   29.6300, -82.6600
   29.7200, -82.6600
   29.8500, -82.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 10:00PM EDT by NWS Tallahassee FL\nExpires: 2026-07-25 02:30 Z\nAt 959 PM EDT, Doppler radar was tracking a strong thunderstorm 15 miles west of Perry, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scanlon, Econfina, Goose Pasture, Hells Half Acre, Cabbage Grove, and Fanlew.\nGenerated: 2026-07-25 02:25:13 UTC"
-  30.0600, -83.6900
-  30.0000, -83.9900
-  30.0200, -84.0400
-  30.0300, -84.0700
-  30.0900, -84.0800
-  30.1900, -84.0800
-  30.3000, -84.0700
-  30.2700, -83.7200
-  30.1900, -83.6600
-  30.0600, -83.6900
 End:
