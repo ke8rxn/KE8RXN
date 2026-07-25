@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-25 02:10:18 UTC
+; Generated: 2026-07-25 02:20:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 10:00PM EDT by NWS Tallahassee FL\nExpires: 2026-07-25 02:30 Z\nAt 959 PM EDT, Doppler radar was tracking a strong thunderstorm 15 miles west of Perry, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scanlon, Econfina, Goose Pasture, Hells Half Acre, Cabbage Grove, and Fanlew.\nGenerated: 2026-07-25 02:10:18 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 10:14PM EDT by NWS Columbia SC\nExpires: 2026-07-25 03:00 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm near McBean, or 9 miles north of Waynesboro, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesboro, Savannah River Site, Plant Vogtle, Hephzibah, Jackson, Burke County Airport, McBean, Girard, Audubon's Silver Bluff Sanctuary, Savannah River Site H Canyon, Bennock Mill, Savannah River Site K Complex, Shell Bluff, and Shell Bluff Landing.\nGenerated: 2026-07-25 02:20:18 UTC"
+  33.0600, -82.1900
+  33.2400, -82.1700
+  33.3400, -82.0700
+  33.3100, -81.6000
+  33.1000, -81.6100
+  33.1000, -81.6200
+  33.0800, -81.6100
+  33.0000, -81.6100
+  33.0600, -82.1900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 10:13PM EDT by NWS Jacksonville FL\nExpires: 2026-07-25 02:45 Z\nAt 1013 PM EDT, Doppler radar was tracking a strong thunderstorm over Alachua, or 12 miles southwest of Worthington Spring, moving south at 5 mph.  HAZARD...Wind gusts around 40 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Alachua, High Springs, and Newberry.\nGenerated: 2026-07-25 02:20:18 UTC"
+  29.8500, -82.6100
+  29.8300, -82.4000
+  29.6000, -82.3800
+  29.6300, -82.6600
+  29.7200, -82.6600
+  29.8500, -82.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 10:00PM EDT by NWS Tallahassee FL\nExpires: 2026-07-25 02:30 Z\nAt 959 PM EDT, Doppler radar was tracking a strong thunderstorm 15 miles west of Perry, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scanlon, Econfina, Goose Pasture, Hells Half Acre, Cabbage Grove, and Fanlew.\nGenerated: 2026-07-25 02:20:18 UTC"
   30.0600, -83.6900
   30.0000, -83.9900
   30.0200, -84.0400
@@ -16,52 +39,4 @@ Line: 2,,"Special Weather Statement issued July 24 at 10:00PM EDT by NWS Tallaha
   30.2700, -83.7200
   30.1900, -83.6600
   30.0600, -83.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 9:43PM EDT by NWS Jacksonville FL\nExpires: 2026-07-25 02:15 Z\nAt 943 PM EDT, Doppler radar was tracking a strong thunderstorm near Providence, or 9 miles east of Ichetucknee Spring, moving southwest at 5 mph.  HAZARD...Wind gusts around 40 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... High Springs, Fort White, Upland Pines, and Providence.\nGenerated: 2026-07-25 02:10:18 UTC"
-  30.0600, -82.6300
-  29.9900, -82.4800
-  29.7600, -82.5800
-  29.8300, -82.7400
-  29.8900, -82.7700
-  30.0600, -82.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 9:36PM EDT by NWS Columbia SC\nExpires: 2026-07-25 02:15 Z\nAt 936 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Wrens, or 13 miles southwest of Fort Gordon, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesboro, Fort Gordon, Hephzibah, McBean, South Augusta, Augusta Regional Airport, Blythe, Keysville, Leitner Lake Conference Center, New Savannah Bluff Lock & Dam Park, Bath-Edie, Pea Patch Aerodrome, Westover, Bennock Mill, Miles Park, Richmond County Recreation Center, Shell Bluff, Ellwood, Phinizy Swamp Nature Park, and Diamond Lakes Regional Park.  This includes Interstate 520 in Georgia between mile markers 6 and 11.\nGenerated: 2026-07-25 02:10:18 UTC"
-  33.4200, -82.2000
-  33.4200, -81.8900
-  33.0900, -81.8600
-  33.1100, -82.2800
-  33.2300, -82.2300
-  33.2600, -82.2500
-  33.2700, -82.2900
-  33.3000, -82.3100
-  33.3100, -82.3400
-  33.3200, -82.3400
-  33.4200, -82.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 7:31PM MDT by NWS Billings MT\nExpires: 2026-07-25 02:15 Z\nAt 731 PM MDT, Doppler radar was tracking a thunderstorm 10 miles south of Livingston, moving northeast at 40 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston, Pine Creek and Mc Leod.\nGenerated: 2026-07-25 02:10:18 UTC"
-  45.6200, -110.7600
-  45.7800, -110.4400
-  45.6800, -110.1000
-  45.3500, -109.9800
-  45.3400, -110.6300
-  45.5700, -110.8400
-  45.5900, -110.8100
-  45.5900, -110.7900
-  45.6000, -110.7900
-  45.6200, -110.7600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 7:24PM MDT by NWS Pocatello ID\nExpires: 2026-07-25 02:15 Z\nAt 723 PM MDT, Doppler radar was tracking a strong thunderstorm extending from Sweetzer Summit to Curlew Junction, Utah, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated and mesonet observations.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Juniper, Holbrook Summit, Pauline, Holbrook, Stone, Roy, and Sweetzer Summit.\nGenerated: 2026-07-25 02:10:18 UTC"
-  42.2600, -113.0700
-  42.6000, -112.5700
-  42.0000, -112.5400
-  42.0000, -113.0300
-  42.2600, -113.0700
 End:
