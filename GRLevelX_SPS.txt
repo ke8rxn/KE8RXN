@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-25 00:10:21 UTC
+; Generated: 2026-07-25 00:15:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 8:08PM EDT by NWS Columbia SC\nExpires: 2026-07-25 00:45 Z\nAt 808 PM EDT, Doppler radar was tracking a strong thunderstorm near Rivers Bridge State Park, or 14 miles north of Hampton, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rivers Bridge State Park and Ehrhardt.\nGenerated: 2026-07-25 00:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 8:08PM EDT by NWS Columbia SC\nExpires: 2026-07-25 00:45 Z\nAt 808 PM EDT, Doppler radar was tracking a strong thunderstorm near Rivers Bridge State Park, or 14 miles north of Hampton, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rivers Bridge State Park and Ehrhardt.\nGenerated: 2026-07-25 00:15:19 UTC"
   33.0500, -81.1000
   33.0500, -81.1200
   33.0900, -81.1500
@@ -21,52 +21,10 @@ Line: 2,,"Special Weather Statement issued July 24 at 8:08PM EDT by NWS Columbia
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 7:04PM CDT by NWS Amarillo TX\nExpires: 2026-07-25 00:30 Z\nAt 703 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Fritch, or 16 miles southwest of Borger, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fritch and Lake Meredith.\nGenerated: 2026-07-25 00:10:21 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 7:04PM CDT by NWS Amarillo TX\nExpires: 2026-07-25 00:30 Z\nAt 703 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Fritch, or 16 miles southwest of Borger, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fritch and Lake Meredith.\nGenerated: 2026-07-25 00:15:19 UTC"
   35.6100, -101.7900
   35.6800, -101.5700
   35.4400, -101.3400
   35.3100, -101.6800
   35.6100, -101.7900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 7:44PM EDT by NWS Jacksonville FL\nExpires: 2026-07-25 00:15 Z\nAt 744 PM EDT, Doppler radar was tracking a strong thunderstorm over Fort Mudge, or 9 miles west of Nahunta, moving southeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hickox, Braganza, Race Pond, Fort Mudge, and Winokur.\nGenerated: 2026-07-25 00:10:21 UTC"
-  31.1400, -82.3000
-  31.2500, -82.1000
-  31.1500, -81.9300
-  31.0400, -82.0100
-  30.9800, -82.0700
-  30.9700, -82.2500
-  31.1400, -82.3000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 6:44PM CDT by NWS Amarillo TX\nExpires: 2026-07-25 00:15 Z\nAt 644 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Washburn, or 11 miles southwest of Panhandle. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Amarillo, Washburn, and Pantex.  This includes Interstate 40 between mile markers 78 and 93.\nGenerated: 2026-07-25 00:10:21 UTC"
-  35.3200, -101.4300
-  35.1500, -101.4400
-  35.1300, -101.7200
-  35.3800, -101.6900
-  35.3200, -101.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 5:43PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-25 00:15 Z\nAt 542 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Dugway English Village, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tooele Army Depot South and Rush Valley.\nGenerated: 2026-07-25 00:10:21 UTC"
-  40.0600, -112.5300
-  40.1100, -112.7500
-  40.4300, -112.6800
-  40.3300, -112.2600
-  40.0600, -112.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 5:25PM MDT by NWS Great Falls MT\nExpires: 2026-07-25 00:15 Z\nAt 524 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Monida, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of south central Madison and southeastern Beaverhead Counties.\nGenerated: 2026-07-25 00:10:21 UTC"
-  44.5500, -112.2300
-  44.5700, -112.2300
-  44.5700, -112.2700
-  44.7800, -112.4300
-  45.0600, -111.7900
-  44.7200, -111.5300
-  44.5300, -112.1400
-  44.5400, -112.2100
-  44.5500, -112.2300
 End:
