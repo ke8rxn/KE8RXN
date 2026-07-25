@@ -3,20 +3,55 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-25 03:55:21 UTC
+; Generated: 2026-07-25 04:00:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 10:34PM CDT by NWS Aberdeen SD\nExpires: 2026-07-25 04:00 Z\nAt 1034 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Crocker, or 14 miles northwest of Clark, moving southeast at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Crocker around 1035 PM CDT. Clark, Hillcrest Colony and Garden City around 1050 PM CDT. Silver Lake around 1055 PM CDT.\nGenerated: 2026-07-25 03:55:21 UTC"
-  45.0800, -98.1300
-  45.1500, -97.9300
-  45.1500, -97.6200
-  45.0200, -97.4900
-  44.8900, -97.4900
-  44.7100, -98.0000
-  45.0800, -98.1300
+Line: 2,,"Special Weather Statement issued July 24 at 9:57PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-07-25 05:00 Z\nAt 953 PM MDT, Doppler radar was tracking an outflow boundary produced by thunderstorms over Santa Teresa, moving south at 25 mph towards the El Paso area. Another storm was over western part of El Paso.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Along with the gusty winds, blowing dust could reduce visibilities along and behind the gust front.  Locations impacted include... West El Paso, Central El Paso, East El Paso, Northeast El Paso, Far East El Paso, Mission Valley, Horizon City, Santa Teresa, Sunland Park, Canutillo, San Elizario, Westway, Fort Bliss, Vinton, Socorro, La Union, Sparks, Union Pacific Intermodal Terminal, Agua Dulce, and Biggs Field.\nGenerated: 2026-07-25 04:00:21 UTC"
+  31.6900, -106.3400
+  31.7400, -106.3900
+  31.7600, -106.4500
+  31.7500, -106.5000
+  31.7900, -106.5300
+  31.7800, -106.8300
+  31.9200, -106.8700
+  32.0100, -106.2900
+  31.6200, -106.1100
+  31.6000, -106.3000
+  31.6900, -106.3400
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 9:28PM MDT by NWS Billings MT\nExpires: 2026-07-25 04:30 Z\nAt 928 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 13 miles north of Columbus to 7 miles southwest of Joliet, moving east at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Columbus, Laurel, Joliet, Fromberg, Park City, Boyd, Silesia, Rockvale, Molt, Edgar, Cooney Reservoir State Park, Halfbreed Lake Wildlife and Roberts.  This does not include the City of Billings.\nGenerated: 2026-07-25 03:55:21 UTC"
+Line: 2,,"Special Weather Statement issued July 24 at 9:57PM MDT by NWS Billings MT\nExpires: 2026-07-25 05:00 Z\nAt 957 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 21 miles northwest of Billings West End to 9 miles west of Pryor, moving east at 30 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Billings, Billings Heights, Lockwood, Billings West End, Shepherd, Huntley, Acton and Comanche.\nGenerated: 2026-07-25 04:00:21 UTC"
+  46.1300, -108.7500
+  46.1300, -108.4400
+  45.8200, -108.1900
+  45.5200, -108.1800
+  45.5200, -108.1900
+  45.4900, -108.1900
+  45.4900, -108.3100
+  45.4600, -108.3200
+  45.4600, -108.5900
+  45.7200, -108.7300
+  45.9400, -108.9000
+  45.9600, -108.9000
+  45.9600, -108.9200
+  46.0600, -108.9300
+  46.1300, -108.7500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 10:56PM CDT by NWS Aberdeen SD\nExpires: 2026-07-25 04:30 Z\nAt 1056 PM CDT, Doppler radar was tracking a strong thunderstorm near Clark, moving south at 50 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Clark and Fordham Colony around 1100 PM CDT. Mayfield Colony around 1110 PM CDT. Willow Lake around 1115 PM CDT. Collins Colony around 1120 PM CDT.\nGenerated: 2026-07-25 04:00:21 UTC"
+  44.8300, -97.9500
+  44.9600, -97.5100
+  44.5800, -97.1000
+  44.5400, -97.2300
+  44.5400, -97.8600
+  44.6300, -97.8600
+  44.6300, -97.9000
+  44.8300, -97.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 24 at 9:28PM MDT by NWS Billings MT\nExpires: 2026-07-25 04:30 Z\nAt 928 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 13 miles north of Columbus to 7 miles southwest of Joliet, moving east at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Columbus, Laurel, Joliet, Fromberg, Park City, Boyd, Silesia, Rockvale, Molt, Edgar, Cooney Reservoir State Park, Halfbreed Lake Wildlife and Roberts.  This does not include the City of Billings.\nGenerated: 2026-07-25 04:00:21 UTC"
   45.4600, -109.2800
   45.5800, -109.3300
   45.8200, -109.5000
@@ -28,20 +63,4 @@ Line: 2,,"Special Weather Statement issued July 24 at 9:28PM MDT by NWS Billings
   45.4100, -108.6800
   45.3300, -109.2200
   45.4600, -109.2800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 24 at 9:17PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-07-25 04:00 Z\nAt 916 PM MDT, Doppler radar was tracking an outflow boundary produced by thunderstorms near Chamberino, moving south towards the El Paso area at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Along with the gusty winds, blowing dust could reduce visibilities along and behind the gust front, especially along and west of Interstate 10.  Locations impacted include... West El Paso, Central El Paso, Northeast El Paso, East El Paso, Mission Valley, Chaparral, Santa Teresa, Anthony, Vado, Sunland Park, Canutillo, Afton, Anthony Gap, Berino, Vinton, San Miguel, Westway, Fort Bliss, Mesquite, and Chamberino.\nGenerated: 2026-07-25 03:55:21 UTC"
-  31.6900, -106.3400
-  31.7500, -106.4100
-  31.7600, -106.4600
-  31.7500, -106.5000
-  31.7900, -106.5300
-  31.7800, -107.0200
-  32.1700, -107.0100
-  32.2900, -106.6100
-  32.2600, -106.3900
-  31.6700, -106.3200
-  31.6700, -106.3400
-  31.6900, -106.3400
 End:
