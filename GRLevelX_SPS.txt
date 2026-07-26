@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-26 01:25:12 UTC
+; Generated: 2026-07-26 01:30:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:20PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 9 miles east of Harlowton to 23 miles north of Columbus, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ryegate, Deadmans Basin Reservoir, Broadview, Lavina, Judith Gap, Franklin, Shawmut, Hailstone Wildlife Refuge, Rapelje, Halfbreed Lake Wildlife and Comanche.  This does NOT include the city of Billings.\nGenerated: 2026-07-26 01:25:12 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 7:24PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 02:00 Z\nAt 723 PM MDT, Doppler radar was tracking a strong thunderstorm over Portneuf Gap, or 7 miles southeast of Pocatello, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 35 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eastern Pocatello, Inkom, and Portneuf Gap.\nGenerated: 2026-07-26 01:30:15 UTC"
+  42.7100, -112.3500
+  42.8000, -112.4400
+  42.9800, -112.2000
+  42.7900, -112.1500
+  42.7100, -112.3500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 25 at 7:20PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 9 miles east of Harlowton to 23 miles north of Columbus, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ryegate, Deadmans Basin Reservoir, Broadview, Lavina, Judith Gap, Franklin, Shawmut, Hailstone Wildlife Refuge, Rapelje, Halfbreed Lake Wildlife and Comanche.  This does NOT include the city of Billings.\nGenerated: 2026-07-26 01:30:15 UTC"
   46.7400, -110.1200
   46.7500, -110.0500
   46.7400, -110.0300
@@ -23,7 +32,7 @@ Line: 2,,"Special Weather Statement issued July 25 at 7:20PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:12PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 01:45 Z\nAt 711 PM MDT, Doppler radar was tracking a strong thunderstorm near American Falls, moving northeast at 50 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... American Falls, Neeley, American Falls Reservoir, Aberdeen, Springfield, Pocatello Airport, and Sterling.\nGenerated: 2026-07-26 01:25:12 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 7:12PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 01:45 Z\nAt 711 PM MDT, Doppler radar was tracking a strong thunderstorm near American Falls, moving northeast at 50 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... American Falls, Neeley, American Falls Reservoir, Aberdeen, Springfield, Pocatello Airport, and Sterling.\nGenerated: 2026-07-26 01:30:15 UTC"
   42.7000, -112.9300
   42.8200, -113.0900
   43.1800, -112.8100
@@ -32,7 +41,7 @@ Line: 2,,"Special Weather Statement issued July 25 at 7:12PM MDT by NWS Pocatell
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:09PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:15 Z\nAt 709 PM MDT, Weather stations an outflow boundary of strong winds moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Weather station reported.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Red Lodge, Bridger, Fromberg, Absarokee, Bearcreek, Fox, Roberts, Washoe, Cooney Reservoir State Park, Luther, Boyd, Roscoe, Belfry and Fishtail.\nGenerated: 2026-07-26 01:25:12 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 7:09PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:15 Z\nAt 709 PM MDT, Weather stations an outflow boundary of strong winds moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Weather station reported.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Red Lodge, Bridger, Fromberg, Absarokee, Bearcreek, Fox, Roberts, Washoe, Cooney Reservoir State Park, Luther, Boyd, Roscoe, Belfry and Fishtail.\nGenerated: 2026-07-26 01:30:15 UTC"
   45.3300, -109.7900
   45.4700, -109.5700
   45.5900, -109.4500
@@ -42,61 +51,4 @@ Line: 2,,"Special Weather Statement issued July 25 at 7:09PM MDT by NWS Billings
   45.0100, -109.1000
   45.0000, -109.3400
   45.3300, -109.7900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 6:59PM MDT by NWS Billings MT\nExpires: 2026-07-26 01:30 Z\nAt 659 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles north of Billings, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Musselshell and Central Yellowstone Counties.  This does NOT include the city of Billings.\nGenerated: 2026-07-26 01:25:12 UTC"
-  46.1300, -108.6500
-  46.2900, -108.2500
-  46.0200, -108.0500
-  45.9400, -108.5300
-  46.0600, -108.6800
-  46.1300, -108.6600
-  46.1300, -108.6500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 6:53PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 01:30 Z\nAt 652 PM MDT, Doppler radar was tracking a strong thunderstorm over Cold Water Rest Area, or 15 miles east of Lake Walcott, moving northeast at 45 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... American Falls, Neeley, Rockland, Fort Hall Bannock Peak, Cold Water Rest Area, and Massacre Rocks.\nGenerated: 2026-07-26 01:25:12 UTC"
-  42.4600, -113.1000
-  42.5900, -113.2800
-  42.8600, -112.9400
-  42.6400, -112.5700
-  42.4600, -113.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 6:48PM MDT by NWS Billings MT\nExpires: 2026-07-26 01:30 Z\nAt 648 PM MDT, Doppler radar was tracking an area of strong thunderstorms near Pompeys Pillar moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Custer and Pompeys Pillar.\nGenerated: 2026-07-26 01:25:12 UTC"
-  46.0200, -108.1400
-  46.1900, -108.2700
-  46.3900, -107.6500
-  46.3700, -107.6500
-  46.3500, -107.6100
-  46.3100, -107.6100
-  46.2900, -107.5700
-  46.2700, -107.5700
-  46.2500, -107.5300
-  46.2200, -107.5300
-  46.2200, -107.5100
-  46.1900, -107.5100
-  46.1800, -107.4700
-  46.1000, -107.4700
-  46.0500, -107.5200
-  46.0400, -107.4200
-  46.0000, -107.4300
-  45.8500, -108.0500
-  45.9000, -108.0500
-  45.9300, -108.1000
-  46.0200, -108.1400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 6:33PM MDT by NWS Billings MT\nExpires: 2026-07-26 01:30 Z\nAt 633 PM MDT, Doppler radar was tracking a strong thunderstorm 21 miles north of Deadmans Basin Reservoir, or 25 miles northeast of Harlowton, moving east at 35 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of Northwestern Musselshell, Northeastern Golden Valley and Northeastern Wheatland Counties.\nGenerated: 2026-07-26 01:25:12 UTC"
-  46.5400, -109.5700
-  46.6900, -109.6200
-  46.6900, -109.3900
-  46.7500, -109.3900
-  46.7500, -108.7500
-  46.5400, -108.6700
-  46.5000, -109.5600
-  46.5400, -109.5700
 End:
