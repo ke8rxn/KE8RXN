@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-26 01:55:14 UTC
+; Generated: 2026-07-26 02:00:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:52PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 02:30 Z\nAt 752 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Taber to Fort Hall Eagle Lodge. Movement was northeast at 35 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blackfoot, Goshen, Shelley, Firth, Fort Hall Buffalo Lodge, Rose, Fort Hall Eagle Lodge, Fort Hall Lincoln Creek Lodge, Taber, Fort Hall Townsite, Rockford, Moreland, Pingree, Groveland, Basalt, East Butte, and Wapello.\nGenerated: 2026-07-26 01:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 8:00PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:30 Z\nAt 800 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Laurel, moving east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Laurel, Molt, Park City, Silesia and Acton.\nGenerated: 2026-07-26 02:00:21 UTC"
+  45.6100, -109.0100
+  45.9300, -109.0500
+  45.9500, -108.6600
+  45.5400, -108.7000
+  45.5500, -108.9900
+  45.6100, -109.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 25 at 7:52PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 02:30 Z\nAt 752 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Taber to Fort Hall Eagle Lodge. Movement was northeast at 35 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blackfoot, Goshen, Shelley, Firth, Fort Hall Buffalo Lodge, Rose, Fort Hall Eagle Lodge, Fort Hall Lincoln Creek Lodge, Taber, Fort Hall Townsite, Rockford, Moreland, Pingree, Groveland, Basalt, East Butte, and Wapello.\nGenerated: 2026-07-26 02:00:21 UTC"
   43.6000, -112.5900
   43.3300, -111.9500
   42.9600, -112.4600
@@ -14,7 +24,7 @@ Line: 2,,"Special Weather Statement issued July 25 at 7:52PM MDT by NWS Pocatell
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:50PM MDT by NWS Cheyenne WY\nExpires: 2026-07-26 02:15 Z\nAt 749 PM MDT, Doppler radar was tracking a strong thunderstorm near Hillsdale, or 19 miles northeast of Cheyenne, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Burns, Egbert, and Hillsdale.  This includes Interstate 80 in Wyoming between mile markers 381 and 395.\nGenerated: 2026-07-26 01:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 7:50PM MDT by NWS Cheyenne WY\nExpires: 2026-07-26 02:15 Z\nAt 749 PM MDT, Doppler radar was tracking a strong thunderstorm near Hillsdale, or 19 miles northeast of Cheyenne, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Burns, Egbert, and Hillsdale.  This includes Interstate 80 in Wyoming between mile markers 381 and 395.\nGenerated: 2026-07-26 02:00:21 UTC"
   41.1700, -104.5500
   41.3500, -104.5200
   41.3400, -104.1500
@@ -23,7 +33,7 @@ Line: 2,,"Special Weather Statement issued July 25 at 7:50PM MDT by NWS Cheyenne
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:47PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:30 Z\nAt 747 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 9 miles north of Ryegate to 19 miles north of Laurel moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roundup, Ryegate, Broadview, Lavina, Klein, Comanche and Franklin.  This does NOT include the city of Billings.\nGenerated: 2026-07-26 01:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 7:47PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:30 Z\nAt 747 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 9 miles north of Ryegate to 19 miles north of Laurel moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roundup, Ryegate, Broadview, Lavina, Klein, Comanche and Franklin.  This does NOT include the city of Billings.\nGenerated: 2026-07-26 02:00:21 UTC"
   46.1300, -109.1300
   46.4000, -109.4000
   46.4100, -109.4000
@@ -35,34 +45,7 @@ Line: 2,,"Special Weather Statement issued July 25 at 7:47PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:24PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 02:00 Z\nAt 723 PM MDT, Doppler radar was tracking a strong thunderstorm over Portneuf Gap, or 7 miles southeast of Pocatello, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 35 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eastern Pocatello, Inkom, and Portneuf Gap.\nGenerated: 2026-07-26 01:55:14 UTC"
-  42.7100, -112.3500
-  42.8000, -112.4400
-  42.9800, -112.2000
-  42.7900, -112.1500
-  42.7100, -112.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:20PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:00 Z\nAt 720 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 9 miles east of Harlowton to 23 miles north of Columbus, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ryegate, Deadmans Basin Reservoir, Broadview, Lavina, Judith Gap, Franklin, Shawmut, Hailstone Wildlife Refuge, Rapelje, Halfbreed Lake Wildlife and Comanche.  This does NOT include the city of Billings.\nGenerated: 2026-07-26 01:55:14 UTC"
-  46.7400, -110.1200
-  46.7500, -110.0500
-  46.7400, -110.0300
-  46.7500, -109.9700
-  46.6900, -109.8200
-  46.6900, -109.3900
-  46.7500, -109.3900
-  46.7500, -109.0300
-  46.4700, -108.7600
-  45.9500, -108.6600
-  45.9100, -109.1400
-  45.9300, -109.4300
-  46.1900, -109.5100
-  46.7400, -110.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:09PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:15 Z\nAt 709 PM MDT, Weather stations an outflow boundary of strong winds moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Weather station reported.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Red Lodge, Bridger, Fromberg, Absarokee, Bearcreek, Fox, Roberts, Washoe, Cooney Reservoir State Park, Luther, Boyd, Roscoe, Belfry and Fishtail.\nGenerated: 2026-07-26 01:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 7:09PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:15 Z\nAt 709 PM MDT, Weather stations an outflow boundary of strong winds moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Weather station reported.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Red Lodge, Bridger, Fromberg, Absarokee, Bearcreek, Fox, Roberts, Washoe, Cooney Reservoir State Park, Luther, Boyd, Roscoe, Belfry and Fishtail.\nGenerated: 2026-07-26 02:00:21 UTC"
   45.3300, -109.7900
   45.4700, -109.5700
   45.5900, -109.4500
