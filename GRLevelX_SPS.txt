@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-26 02:40:17 UTC
+; Generated: 2026-07-26 02:45:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 8:37PM MDT by NWS Riverton WY\nExpires: 2026-07-26 03:15 Z\nAt 837 PM MDT, Doppler radar was tracking gusty showers along a line extending from 9 miles east of Horseshoe Bend to near Lovell to near Garland. Movement was southeast at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Bighorn Lake around 845 PM MDT. Medicine Wheel around 850 PM MDT.\nGenerated: 2026-07-26 02:40:17 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 8:44PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 03:30 Z\nAt 844 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Terreton to near Ririe Reservoir. Movement was northeast at 50 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Rexburg, Rigby, Ashton, Dubois, Ririe Reservoir, Terreton, Marysville, Lorenzo, Ammon, Iona, Sugar City, Ucon, Menan, Teton, Ririe, Roberts, Lewisville, Mud Lake, and Parker.\nGenerated: 2026-07-26 02:45:19 UTC"
+  44.2700, -112.3600
+  44.0700, -111.2200
+  43.6300, -111.4000
+  43.3400, -111.7300
+  43.6600, -112.5900
+  44.2700, -112.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 25 at 8:37PM MDT by NWS Riverton WY\nExpires: 2026-07-26 03:15 Z\nAt 837 PM MDT, Doppler radar was tracking gusty showers along a line extending from 9 miles east of Horseshoe Bend to near Lovell to near Garland. Movement was southeast at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Bighorn Lake around 845 PM MDT. Medicine Wheel around 850 PM MDT.\nGenerated: 2026-07-26 02:45:19 UTC"
   44.9800, -107.8800
   44.9300, -107.8800
   44.9000, -107.8500
@@ -29,7 +39,7 @@ Line: 2,,"Special Weather Statement issued July 25 at 8:37PM MDT by NWS Riverton
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 8:29PM MDT by NWS Billings MT\nExpires: 2026-07-26 03:30 Z\nAt 829 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 14 miles north of Worden to 16 miles northwest of Fort Smith, moving east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Gusty winds may impact travel along Interstate 90 and Interstate 94 east of Billings.  Locations impacted include... Billings, Hardin, Custer, Ballantine, Worden, Huntley, Shepherd, Lockwood, Billings Heights, Crow Agency, Billings West End, Pompeys Pillar, St. Xavier, Acton and Crow Indian Reservation.\nGenerated: 2026-07-26 02:40:17 UTC"
+Line: 2,,"Special Weather Statement issued July 25 at 8:29PM MDT by NWS Billings MT\nExpires: 2026-07-26 03:30 Z\nAt 829 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 14 miles north of Worden to 16 miles northwest of Fort Smith, moving east at 35 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Gusty winds may impact travel along Interstate 90 and Interstate 94 east of Billings.  Locations impacted include... Billings, Hardin, Custer, Ballantine, Worden, Huntley, Shepherd, Lockwood, Billings Heights, Crow Agency, Billings West End, Pompeys Pillar, St. Xavier, Acton and Crow Indian Reservation.\nGenerated: 2026-07-26 02:45:19 UTC"
   45.6600, -108.6100
   45.9500, -108.7300
   46.1300, -108.5500
@@ -45,58 +55,4 @@ Line: 2,,"Special Weather Statement issued July 25 at 8:29PM MDT by NWS Billings
   45.4400, -107.4100
   45.4400, -108.4400
   45.6600, -108.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 8:17PM MDT by NWS Pocatello ID\nExpires: 2026-07-26 02:45 Z\nAt 817 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Southeast Inl to Goshen. Movement was northeast at 50 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Rigby, Ririe Reservoir, Goshen, Ammon, Shelley, Iona, Ucon, Menan, Ririe, Roberts, Lewisville, Bone, Basalt, Kettle Butte, Osgood, and Heise.\nGenerated: 2026-07-26 02:40:17 UTC"
-  43.8300, -112.3000
-  43.5500, -111.3500
-  43.2100, -111.9300
-  43.5400, -112.6700
-  43.8300, -112.3000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 7:11PM MST by NWS Phoenix AZ\nExpires: 2026-07-26 02:45 Z\nAt 711 PM MST, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles north of Wenden to near Salome to 19 miles southeast of Harcuvar. Movement was southwest at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salome, Vicksburg, Vicksburg Junction, Wenden, and Harcuvar.  This includes the following highways... AZ Interstate 10 between mile markers 47 and 70. US Highway 60 between mile markers 45 and 74. AZ Route 72 between mile markers 43 and 49.\nGenerated: 2026-07-26 02:40:17 UTC"
-  34.0100, -113.8400
-  33.6900, -113.7900
-  33.5000, -113.6400
-  33.5400, -113.3400
-  34.0700, -113.3400
-  34.0100, -113.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 8:01PM MDT by NWS Billings MT\nExpires: 2026-07-26 02:45 Z\nAt 801 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from near Pryor to 7 miles southeast of Red Lodge, moving southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Red Lodge, Bridger, Joliet, Fromberg, Pryor, Bearcreek, Warren, Edgar, Rockvale, Belfry, Washoe, Bighorn Lake and Crow Indian Reservation.\nGenerated: 2026-07-26 02:40:17 UTC"
-  45.1700, -109.2900
-  45.5500, -108.9900
-  45.5400, -108.7600
-  45.5200, -108.7600
-  45.5200, -108.7000
-  45.4600, -108.6900
-  45.4600, -108.3200
-  45.4900, -108.3100
-  45.4900, -108.1900
-  45.5200, -108.1900
-  45.5200, -108.0700
-  45.0000, -108.0900
-  45.0000, -109.0800
-  45.0100, -109.1300
-  45.0800, -109.2200
-  45.1200, -109.2300
-  45.1400, -109.2800
-  45.1700, -109.2900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 25 at 8:01PM MDT by NWS Riverton WY\nExpires: 2026-07-26 02:45 Z\nAt 801 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Pryor to 9 miles north of Elk Basin to 10 miles south of Red Lodge. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Elk Basin around 810 PM MDT. Frannie around 820 PM MDT.  Other locations in the path of these storms include Deaver, Cowley, Powell, Crooked Creek Natural Area and Garland.\nGenerated: 2026-07-26 02:40:17 UTC"
-  45.0000, -108.2200
-  44.8100, -108.4100
-  44.6300, -109.1200
-  44.8700, -109.2700
-  44.9300, -109.2600
-  44.9400, -109.2800
-  44.9400, -109.2600
-  45.0100, -109.2600
-  45.0000, -108.2200
 End:
