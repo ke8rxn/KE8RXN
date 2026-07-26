@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-26 17:40:14 UTC
+; Generated: 2026-07-26 17:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 1:33PM EDT by NWS Tallahassee FL\nExpires: 2026-07-26 18:15 Z\nAt 133 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Valdosta to 9 miles east of Monticello. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Monticello, Madison, Lake Park, Valdosta, Dasher, Greenville, Lee, Twin Lakes, Hopewell, Aucilla, Cherry Lake, Hamburg, Pinetta, Valdosta Regional Airport, I-75 At Exit 5, Lovett, Nankin, Empress, Clyattville, and Hanson.\nGenerated: 2026-07-26 17:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 1:44PM EDT by NWS Miami FL\nExpires: 2026-07-26 18:00 Z\nAt 144 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Key Biscayne, moving east at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Miami, Miami Beach, Key Biscayne, Virginia Key, and Fisher Island.\nGenerated: 2026-07-26 17:45:13 UTC"
+  25.6700, -80.1600
+  25.6800, -80.1600
+  25.6900, -80.1800
+  25.7000, -80.1700
+  25.7100, -80.1700
+  25.7100, -80.1600
+  25.7300, -80.1600
+  25.7500, -80.1800
+  25.7400, -80.1600
+  25.7500, -80.1700
+  25.7600, -80.1500
+  25.7700, -80.1400
+  25.8000, -80.1500
+  25.8000, -80.1300
+  25.6700, -80.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 26 at 1:33PM EDT by NWS Tallahassee FL\nExpires: 2026-07-26 18:15 Z\nAt 133 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Valdosta to 9 miles east of Monticello. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Monticello, Madison, Lake Park, Valdosta, Dasher, Greenville, Lee, Twin Lakes, Hopewell, Aucilla, Cherry Lake, Hamburg, Pinetta, Valdosta Regional Airport, I-75 At Exit 5, Lovett, Nankin, Empress, Clyattville, and Hanson.\nGenerated: 2026-07-26 17:45:13 UTC"
   30.8500, -83.0400
   30.8500, -83.0900
   30.8000, -83.1000
@@ -28,7 +47,7 @@ Line: 2,,"Special Weather Statement issued July 26 at 1:33PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 1:30PM EDT by NWS Jacksonville FL\nExpires: 2026-07-26 18:00 Z\nAt 130 PM EDT, Doppler radar was tracking a strong thunderstorm over Bunnell, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Beverly Beach, and Espanola.\nGenerated: 2026-07-26 17:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 1:30PM EDT by NWS Jacksonville FL\nExpires: 2026-07-26 18:00 Z\nAt 130 PM EDT, Doppler radar was tracking a strong thunderstorm over Bunnell, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Beverly Beach, and Espanola.\nGenerated: 2026-07-26 17:45:13 UTC"
   29.4600, -81.1000
   29.4600, -81.1200
   29.4300, -81.1000
@@ -44,26 +63,4 @@ Line: 2,,"Special Weather Statement issued July 26 at 1:30PM EDT by NWS Jacksonv
   29.5800, -81.1200
   29.5100, -81.1000
   29.4600, -81.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 1:16PM EDT by NWS Miami FL\nExpires: 2026-07-26 17:45 Z\nAt 116 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Homestead Base, or near Black Point, moving east at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Homestead, Coral Gables, Homestead Miami Speedway, Black Point, The Redland, Kendall, Pinecrest, Florida City, Homestead Base, Naranja, Princeton, Leisure City, Palmetto Bay, Cutler Bay, Zoo Miami, Goulds, West Perrine, Homestead Bayfront Park, Richmond Heights, and South Miami Heights.\nGenerated: 2026-07-26 17:40:14 UTC"
-  25.6700, -80.2800
-  25.6300, -80.2900
-  25.6100, -80.3100
-  25.5700, -80.3000
-  25.5500, -80.3100
-  25.5500, -80.3200
-  25.5400, -80.3100
-  25.5400, -80.3200
-  25.5300, -80.3300
-  25.5100, -80.3300
-  25.5000, -80.3400
-  25.4600, -80.3400
-  25.4400, -80.3200
-  25.4300, -80.3300
-  25.4000, -80.3300
-  25.4700, -80.5400
-  25.6300, -80.3800
-  25.6700, -80.2800
 End:
