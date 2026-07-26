@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-26 21:25:14 UTC
+; Generated: 2026-07-26 21:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:20PM EDT by NWS Melbourne FL\nExpires: 2026-07-26 21:45 Z\nAt 520 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Kenansville, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Palm Bay and Blue Cypress Lake.\nGenerated: 2026-07-26 21:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 3:26PM MDT by NWS Billings MT\nExpires: 2026-07-26 22:15 Z\nAt 326 PM MDT, Doppler radar was tracking a shower with strong winds 19 miles west of Livingston, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston, Pine Creek, Springdale and Mc Leod.\nGenerated: 2026-07-26 21:30:19 UTC"
+  45.6500, -110.8000
+  45.7600, -110.8000
+  45.8600, -110.0900
+  45.5700, -109.9800
+  45.4500, -110.9200
+  45.5300, -110.9200
+  45.5300, -110.8600
+  45.5900, -110.8600
+  45.5900, -110.7900
+  45.6500, -110.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 26 at 5:20PM EDT by NWS Melbourne FL\nExpires: 2026-07-26 21:45 Z\nAt 520 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Kenansville, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Palm Bay and Blue Cypress Lake.\nGenerated: 2026-07-26 21:30:19 UTC"
   27.7000, -80.7300
   27.7400, -80.9300
   27.8900, -80.9400
@@ -16,7 +30,7 @@ Line: 2,,"Special Weather Statement issued July 26 at 5:20PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:19PM MDT by NWS Great Falls MT\nExpires: 2026-07-26 22:15 Z\nAt 319 PM MDT, Doppler radar was tracking a strong shower near Bozeman, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bozeman.\nGenerated: 2026-07-26 21:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 3:19PM MDT by NWS Great Falls MT\nExpires: 2026-07-26 22:15 Z\nAt 319 PM MDT, Doppler radar was tracking a strong shower near Bozeman, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bozeman.\nGenerated: 2026-07-26 21:30:19 UTC"
   45.4700, -111.0300
   45.6300, -111.1600
   45.8000, -110.8000
@@ -30,16 +44,7 @@ Line: 2,,"Special Weather Statement issued July 26 at 3:19PM MDT by NWS Great Fa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:14PM MDT by NWS Goodland KS\nExpires: 2026-07-26 21:30 Z\nAt 314 PM MDT, Doppler radar was tracking gusty showers near Ruleton, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of central Sherman County.  This includes Interstate 70 in Kansas between mile markers 5 and 20.\nGenerated: 2026-07-26 21:25:14 UTC"
-  39.2400, -101.9100
-  39.3400, -101.9700
-  39.4900, -101.7500
-  39.2500, -101.6200
-  39.2400, -101.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:12PM EDT by NWS Miami FL\nExpires: 2026-07-26 21:45 Z\nAt 512 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 8 miles east of Belle Glade Camp, or 8 miles southeast of Belle Glade, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Belle Glade.\nGenerated: 2026-07-26 21:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 5:12PM EDT by NWS Miami FL\nExpires: 2026-07-26 21:45 Z\nAt 512 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 8 miles east of Belle Glade Camp, or 8 miles southeast of Belle Glade, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Belle Glade.\nGenerated: 2026-07-26 21:30:19 UTC"
   26.7000, -80.6200
   26.6400, -80.4300
   26.3600, -80.4900
@@ -48,50 +53,10 @@ Line: 2,,"Special Weather Statement issued July 26 at 5:12PM EDT by NWS Miami FL
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:06PM EDT by NWS Jacksonville FL\nExpires: 2026-07-26 21:30 Z\nAt 506 PM EDT, Doppler radar was tracking a strong thunderstorm near Hastings, moving east at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bunnell, Hastings, East Palatka, Marineland, Orange Mills, Crescent Beach, Spuds, and Espanola.\nGenerated: 2026-07-26 21:25:14 UTC"
-  29.4700, -81.2700
-  29.6500, -81.6100
-  29.7900, -81.5000
-  29.7000, -81.1700
-  29.6900, -81.1700
-  29.4700, -81.2700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:02PM EDT by NWS Melbourne FL\nExpires: 2026-07-26 21:30 Z\nAt 502 PM EDT, Doppler radar was tracking a strong thunderstorm near Tradition, or 9 miles southwest of Port Saint Lucie, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Indiantown and Tradition.\nGenerated: 2026-07-26 21:25:14 UTC"
-  27.3600, -80.6400
-  27.2800, -80.4200
-  26.9700, -80.3100
-  26.9600, -80.5500
-  27.3600, -80.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 2:56PM MDT by NWS Great Falls MT\nExpires: 2026-07-26 21:45 Z\nAt 256 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Lima, or 34 miles south of Dillon, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lima and Snowline.\nGenerated: 2026-07-26 21:25:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 2:56PM MDT by NWS Great Falls MT\nExpires: 2026-07-26 21:45 Z\nAt 256 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Lima, or 34 miles south of Dillon, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lima and Snowline.\nGenerated: 2026-07-26 21:30:19 UTC"
   44.5700, -112.5700
   44.6800, -112.7000
   45.2300, -112.2900
   44.9500, -111.6700
   44.5700, -112.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 4:53PM EDT by NWS State College PA\nExpires: 2026-07-26 21:30 Z\nAt 452 PM EDT, Doppler radar was tracking a strong thunderstorm near Gettysburg, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hanover, Hampton, Littlestown, McSherrystown, Bonneauville, New Oxford, Abbottstown, and Hunterstown.\nGenerated: 2026-07-26 21:25:14 UTC"
-  39.7200, -77.1000
-  39.8800, -77.2000
-  39.9400, -77.1100
-  39.9000, -76.9800
-  39.8600, -76.9600
-  39.8300, -77.0000
-  39.7200, -77.0000
-  39.7200, -77.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 2:52PM MDT by NWS Pueblo CO\nExpires: 2026-07-26 21:30 Z\nAt 251 PM MDT, Doppler radar was tracking a strong thunderstorm near San Luis, or 34 miles southeast of San Luis Valley Airport. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph, brief half inch hail, and locally heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Torrential rainfall may cause minor wash outs and ponding of water on area roads.  This storm will remain over mainly rural areas of southeastern Costilla and western Las Animas Counties.\nGenerated: 2026-07-26 21:25:14 UTC"
-  37.1000, -105.3200
-  37.2600, -105.4500
-  37.4300, -105.2700
-  37.1700, -105.0800
-  37.1000, -105.3200
 End:
