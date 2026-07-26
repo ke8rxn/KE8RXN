@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-26 19:55:14 UTC
+; Generated: 2026-07-26 20:00:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:54PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-26 20:30 Z\nAt 354 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of Spartanburg, or near Reidville, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Spartanburg, Duncan, Roebuck, Reidville, Moore, Woodruff, and Lyman.\nGenerated: 2026-07-26 19:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 3:58PM EDT by NWS Jacksonville FL\nExpires: 2026-07-26 20:30 Z\nAt 358 PM EDT, Doppler radar was tracking a strong thunderstorm near Sanderson, or 12 miles north of Raiford, moving southeast at 25 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Macclenny, Glen St. Mary, Sanderson, Maxville, Lawtey, and Ellerbee.\nGenerated: 2026-07-26 20:00:23 UTC"
+  29.9900, -82.0500
+  30.1900, -82.4200
+  30.3600, -82.2900
+  30.2800, -82.0500
+  30.2700, -82.0500
+  30.2800, -82.0400
+  30.2500, -81.9400
+  29.9900, -82.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 26 at 3:54PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-26 20:30 Z\nAt 354 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of Spartanburg, or near Reidville, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Spartanburg, Duncan, Roebuck, Reidville, Moore, Woodruff, and Lyman.\nGenerated: 2026-07-26 20:00:23 UTC"
   34.8000, -82.1600
   34.8400, -82.2000
   34.9500, -82.1700
@@ -15,7 +27,7 @@ Line: 2,,"Special Weather Statement issued July 26 at 3:54PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:40PM EDT by NWS Melbourne FL\nExpires: 2026-07-26 20:15 Z\nAt 340 PM EDT, Doppler radar was tracking a strong thunderstorm over Horizon West, or near Bay Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Kissimmee, Ocoee, Winter Garden, and Windermere.\nGenerated: 2026-07-26 19:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 3:40PM EDT by NWS Melbourne FL\nExpires: 2026-07-26 20:15 Z\nAt 340 PM EDT, Doppler radar was tracking a strong thunderstorm over Horizon West, or near Bay Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Kissimmee, Ocoee, Winter Garden, and Windermere.\nGenerated: 2026-07-26 20:00:23 UTC"
   28.6500, -81.7300
   28.5600, -81.3400
   28.2400, -81.4000
@@ -27,65 +39,7 @@ Line: 2,,"Special Weather Statement issued July 26 at 3:40PM EDT by NWS Melbourn
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:36PM EDT by NWS Jacksonville FL\nExpires: 2026-07-26 20:00 Z\nAt 336 PM EDT, Doppler radar was tracking a strong thunderstorm near Olustee, or 16 miles east of Lake City, moving southeast at 25 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raiford, Macclenny, Glen St. Mary, Sanderson, Olustee, and Ellerbee.\nGenerated: 2026-07-26 19:55:14 UTC"
-  30.1900, -82.5200
-  30.4400, -82.3900
-  30.3000, -82.0100
-  30.0300, -82.1600
-  30.1900, -82.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:36PM EDT by NWS Melbourne FL\nExpires: 2026-07-26 20:00 Z\nAt 336 PM EDT, Doppler radar was tracking a strong thunderstorm over Four Seasons Estates, or over Treasure Island, moving south at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Treasure Island, Okeechobee, Four Seasons Estates, Taylor Creek, and Okee Tantie Recreation Area.\nGenerated: 2026-07-26 19:55:14 UTC"
-  27.1600, -80.7100
-  27.2100, -80.7900
-  27.2000, -80.8300
-  27.1400, -80.8700
-  27.1700, -80.8800
-  27.1600, -80.8900
-  27.1700, -80.9100
-  27.1900, -80.9100
-  27.2000, -80.9400
-  27.2200, -80.9500
-  27.2200, -80.9700
-  27.2300, -80.9900
-  27.2500, -80.9800
-  27.2600, -81.0000
-  27.2700, -81.0000
-  27.3500, -80.6800
-  27.1200, -80.6800
-  27.1600, -80.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:33PM EDT by NWS Jacksonville FL\nExpires: 2026-07-26 20:00 Z\nAt 333 PM EDT, Doppler radar was tracking a strong thunderstorm near Yulee, or 9 miles northeast of Jacksonville International Arpt, moving southeast at 25 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Yulee, Amelia City, Little Talbot Island, Mayport, and Talbot Island.\nGenerated: 2026-07-26 19:55:14 UTC"
-  30.4900, -81.6700
-  30.6500, -81.5800
-  30.5800, -81.3900
-  30.3400, -81.3400
-  30.4900, -81.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:31PM EDT by NWS Melbourne FL\nExpires: 2026-07-26 20:00 Z\nAt 331 PM EDT, Doppler radar was tracking a strong thunderstorm over Mims, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Titusville, Haulover Canal, Mims, Scottsmoor, and Merritt Island Wildlife Refuge.\nGenerated: 2026-07-26 19:55:14 UTC"
-  28.4900, -80.6900
-  28.5700, -80.9400
-  28.5800, -80.9500
-  28.5900, -80.9400
-  28.6000, -80.9500
-  28.6100, -80.9800
-  28.6200, -80.9700
-  28.6800, -80.9700
-  28.7900, -80.9300
-  28.7900, -80.9000
-  28.8400, -80.9100
-  28.8100, -80.7000
-  28.7100, -80.6300
-  28.4900, -80.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:23PM EDT by NWS Miami FL\nExpires: 2026-07-26 20:30 Z\nAt 323 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Moore Haven to near Labelle. Movement was south at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Belle Glade, Clewiston, South Bay, Labelle, Moore Haven, Lakeport, Palmdale, Lake Harbor, Montura, Immokalee, Buckhead Ridge, Holey Land Wildlife Refuge, Port La Belle, Brighton Seminole Reservation, Devils Garden, Okeelanta, Felda, Rotenberger Wildlife Refuge, Ortona, and Muse.\nGenerated: 2026-07-26 19:55:14 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 3:23PM EDT by NWS Miami FL\nExpires: 2026-07-26 20:30 Z\nAt 323 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Moore Haven to near Labelle. Movement was south at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Belle Glade, Clewiston, South Bay, Labelle, Moore Haven, Lakeport, Palmdale, Lake Harbor, Montura, Immokalee, Buckhead Ridge, Holey Land Wildlife Refuge, Port La Belle, Brighton Seminole Reservation, Devils Garden, Okeelanta, Felda, Rotenberger Wildlife Refuge, Ortona, and Muse.\nGenerated: 2026-07-26 20:00:23 UTC"
   27.1900, -80.9100
   27.1500, -80.8700
   27.0700, -80.9600
@@ -107,19 +61,4 @@ Line: 2,,"Special Weather Statement issued July 26 at 3:23PM EDT by NWS Miami FL
   27.1200, -81.1700
   27.2100, -81.1700
   27.1900, -80.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 3:20PM EDT by NWS Miami FL\nExpires: 2026-07-26 20:00 Z\nAt 320 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Delray Beach. This storm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Boca Raton, Boynton Beach, Delray Beach, Highland Beach, Ocean Ridge, Lantana, Hamptons At Boca Raton, Village Of Golf, Kings Point, Dunes Road, Whisper Walk, Hypoluxo, Gulf Stream, Briny Breezes, Manalapan, Fau South Campus, Aberdeen, Boca West, Aberdeen Golf Course, and Morikami Park.\nGenerated: 2026-07-26 19:55:14 UTC"
-  26.5600, -80.0400
-  26.5700, -80.0500
-  26.5300, -80.0500
-  26.4300, -80.0600
-  26.4300, -80.0700
-  26.3500, -80.0700
-  26.3700, -80.1900
-  26.5700, -80.1700
-  26.5800, -80.0500
-  26.5800, -80.0400
-  26.5600, -80.0400
 End:
