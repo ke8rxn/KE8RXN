@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-27 07:40:19 UTC
+; Generated: 2026-07-27 07:50:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 27 at 3:38AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-27 08:15 Z\nAt 336 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles southeast of Morristown Tennessee to near Newport to 4 miles southeast of Gatlinburg. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph, with gusts of 45 to 50 mph possible on higher ridgetops.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesville, Lake Junaluska, Maggie Valley, Hot Springs, Balsam, Clyde, the Smoky Mountains including the Cataloochee, Balsam Mountain, and Big Creek areas, and a portion of the B.R. Parkway between the Smoky Mountains and Balsam Gap.\nGenerated: 2026-07-27 07:40:19 UTC"
+Line: 2,,"Special Weather Statement issued July 27 at 2:46AM CDT by NWS Paducah KY\nExpires: 2026-07-27 08:30 Z\nAt 246 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Rosiclare to near Salem. Movement was south at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rosiclare, Salem, Golconda, Joy, Burna, Smithland, Elizabethtown, and Carrsville.\nGenerated: 2026-07-27 07:50:16 UTC"
+  37.2700, -88.6200
+  37.6000, -88.4600
+  37.6000, -88.4100
+  37.3500, -88.1000
+  37.0600, -88.2800
+  37.2700, -88.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 27 at 3:38AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-27 08:15 Z\nAt 336 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles southeast of Morristown Tennessee to near Newport to 4 miles southeast of Gatlinburg. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph, with gusts of 45 to 50 mph possible on higher ridgetops.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesville, Lake Junaluska, Maggie Valley, Hot Springs, Balsam, Clyde, the Smoky Mountains including the Cataloochee, Balsam Mountain, and Big Creek areas, and a portion of the B.R. Parkway between the Smoky Mountains and Balsam Gap.\nGenerated: 2026-07-27 07:50:16 UTC"
   35.9200, -82.6800
   35.6600, -82.7400
   35.4000, -83.1100
@@ -30,7 +40,7 @@ Line: 2,,"Special Weather Statement issued July 27 at 3:38AM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 27 at 3:33AM EDT by NWS Raleigh NC\nExpires: 2026-07-27 08:15 Z\nAt 332 AM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Lillington, moving southeast at 25 mph.  HAZARD...Wind gusts in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lillington, Dunn, Erwin, Coats, Broadway, Linden, Anderson Creek, Timberlake, Seminole, and Raven Rock State Park.\nGenerated: 2026-07-27 07:40:19 UTC"
+Line: 2,,"Special Weather Statement issued July 27 at 3:33AM EDT by NWS Raleigh NC\nExpires: 2026-07-27 08:15 Z\nAt 332 AM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Lillington, moving southeast at 25 mph.  HAZARD...Wind gusts in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lillington, Dunn, Erwin, Coats, Broadway, Linden, Anderson Creek, Timberlake, Seminole, and Raven Rock State Park.\nGenerated: 2026-07-27 07:50:16 UTC"
   35.1400, -78.8500
   35.4300, -79.0700
   35.4800, -79.0100
@@ -40,7 +50,7 @@ Line: 2,,"Special Weather Statement issued July 27 at 3:33AM EDT by NWS Raleigh 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 27 at 1:31AM MDT by NWS Billings MT\nExpires: 2026-07-27 08:15 Z\nAt 131 AM MDT, Doppler radar was tracking a strong thunderstorm 23 miles northwest of Billings, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Broadview and Comanche.  This does NOT include the city of Billings.\nGenerated: 2026-07-27 07:40:19 UTC"
+Line: 2,,"Special Weather Statement issued July 27 at 1:31AM MDT by NWS Billings MT\nExpires: 2026-07-27 08:15 Z\nAt 131 AM MDT, Doppler radar was tracking a strong thunderstorm 23 miles northwest of Billings, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Broadview and Comanche.  This does NOT include the city of Billings.\nGenerated: 2026-07-27 07:50:16 UTC"
   46.1300, -109.0100
   46.1900, -108.8000
   46.3300, -108.4100
@@ -51,30 +61,7 @@ Line: 2,,"Special Weather Statement issued July 27 at 1:31AM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 27 at 2:21AM CDT by NWS Memphis TN\nExpires: 2026-07-27 07:45 Z\nAt 221 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Camden, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntingdon, Camden, Bruceton, Vale, Hollow Rock, Big Sandy, Clarksburg, Westport, Mansfield, Dollar, Manleyville, I-40 Near The Tennessee River, Holladay, Mixie, Crews Store, Garretsburg, Spring Creek, Yuma, Ephesus, and Buena Vista.  This includes Interstate 40 in Tennessee between mile markers 126 and 134.\nGenerated: 2026-07-27 07:40:19 UTC"
-  36.1300, -87.9200
-  36.0300, -88.0000
-  36.0000, -88.0000
-  35.9700, -88.0200
-  35.9500, -88.0200
-  35.9400, -88.0000
-  35.9400, -87.9300
-  35.8700, -87.9400
-  35.8400, -87.9600
-  35.8400, -88.0300
-  35.8500, -88.0500
-  35.8400, -88.0800
-  35.8400, -88.1800
-  35.8300, -88.1800
-  35.8200, -88.3800
-  36.2200, -88.3900
-  36.2300, -87.9500
-  36.1600, -87.9200
-  36.1300, -87.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 27 at 3:14AM EDT by NWS Raleigh NC\nExpires: 2026-07-27 08:00 Z\nAt 314 AM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Sanford, moving southeast at 25 mph.  HAZARD...Wind gusts in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fayetteville, Fort Bragg, Pope AAF, Spring Lake, Vass, Cameron, Pineview, Lemon Springs, and Bonnie Doone.\nGenerated: 2026-07-27 07:40:19 UTC"
+Line: 2,,"Special Weather Statement issued July 27 at 3:14AM EDT by NWS Raleigh NC\nExpires: 2026-07-27 08:00 Z\nAt 314 AM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Sanford, moving southeast at 25 mph.  HAZARD...Wind gusts in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fayetteville, Fort Bragg, Pope AAF, Spring Lake, Vass, Cameron, Pineview, Lemon Springs, and Bonnie Doone.\nGenerated: 2026-07-27 07:50:16 UTC"
   35.3500, -79.3400
   35.4300, -79.1800
   35.1200, -78.9100
@@ -83,17 +70,7 @@ Line: 2,,"Special Weather Statement issued July 27 at 3:14AM EDT by NWS Raleigh 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 27 at 3:09AM EDT by NWS Gaylord MI\nExpires: 2026-07-27 07:45 Z\nAt 309 AM EDT, Doppler radar was tracking a strong thunderstorm over Raco, or 9 miles southwest of Point Iroquois, moving southeast at 35 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Kinross, Rudyard, Donaldson, Raco, Barbeau, and Kincheloe.\nGenerated: 2026-07-27 07:40:19 UTC"
-  46.2800, -84.2300
-  46.1600, -84.4100
-  46.1600, -84.4700
-  46.3400, -84.8500
-  46.4300, -84.7800
-  46.2800, -84.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 27 at 2:52AM EDT by NWS Morristown TN\nExpires: 2026-07-27 08:00 Z\nAt 252 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Morristown to 9 miles east of Knoxville. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Knoxville, Morristown, Sevierville, Jefferson City, Newport, Gatlinburg, Dandridge, Pigeon Forge, White Pine, and New Market.\nGenerated: 2026-07-27 07:40:19 UTC"
+Line: 2,,"Special Weather Statement issued July 27 at 2:52AM EDT by NWS Morristown TN\nExpires: 2026-07-27 08:00 Z\nAt 252 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Morristown to 9 miles east of Knoxville. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Knoxville, Morristown, Sevierville, Jefferson City, Newport, Gatlinburg, Dandridge, Pigeon Forge, White Pine, and New Market.\nGenerated: 2026-07-27 07:50:16 UTC"
   35.5700, -83.6200
   35.8800, -83.7800
   35.8600, -83.8400
