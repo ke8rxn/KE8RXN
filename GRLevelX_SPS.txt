@@ -3,27 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-27 02:10:16 UTC
+; Generated: 2026-07-27 02:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 9:06PM CDT by NWS Louisville KY\nExpires: 2026-07-27 02:30 Z\nAt 906 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Munfordville, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Glasgow, Munfordville, Three Springs, Monroe, Horse Cave, Cave City, Little Barren, Rowletts, Node, and Coral Hill.\nGenerated: 2026-07-27 02:10:16 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 8:12PM MDT by NWS Billings MT\nExpires: 2026-07-27 02:45 Z\nAt 812 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Columbus, moving east at 35 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Laurel, Park City, Molt, Silesia and Rockvale.  This does not include the City of Billings.\nGenerated: 2026-07-27 02:15:16 UTC"
+  45.4800, -109.2400
+  45.6500, -109.3500
+  45.7900, -109.2700
+  45.9500, -108.8200
+  45.5400, -108.6200
+  45.4800, -109.2400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 26 at 9:06PM CDT by NWS Louisville KY\nExpires: 2026-07-27 02:30 Z\nAt 906 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Munfordville, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Glasgow, Munfordville, Three Springs, Monroe, Horse Cave, Cave City, Little Barren, Rowletts, Node, and Coral Hill.\nGenerated: 2026-07-27 02:15:16 UTC"
   37.0700, -86.0200
   37.2800, -85.9100
   37.2100, -85.5800
   36.9300, -85.7000
   37.0700, -86.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 7:31PM MDT by NWS Billings MT\nExpires: 2026-07-27 02:15 Z\nAt 731 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Absarokee, or 18 miles southwest of Columbus, moving east at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Columbus, Absarokee, Fishtail, Reed Point, Cooney Reservoir State Park and Boyd.\nGenerated: 2026-07-27 02:10:16 UTC"
-  45.7100, -109.7800
-  45.8300, -109.1700
-  45.4000, -109.0300
-  45.4000, -109.6600
-  45.4900, -109.8000
-  45.5100, -109.8100
-  45.5100, -109.8300
-  45.5200, -109.8300
-  45.5300, -109.8200
-  45.5400, -109.8200
-  45.7100, -109.7800
 End:
