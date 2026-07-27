@@ -3,27 +3,61 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-27 00:10:15 UTC
+; Generated: 2026-07-27 00:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:52PM MDT by NWS Albuquerque NM\nExpires: 2026-07-27 00:15 Z\nAt 552 PM MDT, Doppler radar was tracking a strong thunderstorm over Las Vegas, moving northeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Las Vegas, Storrie Lake State Park and Montezuma.  This includes the following highways... State Road 518 between Mile Markers 1 and 5. Interstate 25 between Mile Markers 342 and 352. State Road 104 between Mile Markers 1 and 4.\nGenerated: 2026-07-27 00:10:15 UTC"
-  35.5200, -105.2000
-  35.5700, -105.3300
-  35.5700, -105.3200
-  35.5800, -105.3100
-  35.5800, -105.3000
-  35.5900, -105.2900
-  35.6100, -105.2900
-  35.6100, -105.2700
-  35.6200, -105.2700
-  35.6300, -105.2800
-  35.6500, -105.2800
-  35.6900, -105.2400
-  35.6600, -105.0800
-  35.5200, -105.2000
+Line: 2,,"Special Weather Statement issued July 26 at 8:11PM EDT by NWS Blacksburg VA\nExpires: 2026-07-27 00:45 Z\nAt 809 PM EDT, Doppler radar was tracking gusty showers near Callaway, or near Boones Mill, moving southeast at 20 mph. These showers could develop into thunderstorms with cloud to ground lightning.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rocky Mount... Boones Mill... Ferrum... Callaway... and Wirtz.\nGenerated: 2026-07-27 00:15:17 UTC"
+  36.8400, -80.0600
+  37.1200, -80.1200
+  37.1700, -80.0100
+  37.1600, -80.0000
+  37.1600, -80.0100
+  37.1500, -80.0000
+  37.1500, -79.9900
+  37.1400, -79.9900
+  37.1400, -79.9800
+  36.9800, -79.7700
+  36.8400, -80.0600
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:51PM MDT by NWS Billings MT\nExpires: 2026-07-27 00:30 Z\nAt 551 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles north of Gardiner, or 22 miles southwest of Livingston, moving northeast at 40 mph.  HAZARD...Wind gusts of 40 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Livingston, Chico Hot Springs, Pine Creek, Emigrant and Chico.\nGenerated: 2026-07-27 00:10:15 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 7:11PM CDT by NWS North Platte NE\nExpires: 2026-07-27 01:00 Z\nAt 710 PM CDT, Doppler radar was tracking a strong thunderstorm over Butte, or near Spencer, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Spencer, Butte, Gross, Bristow, Anoka, Parshall Bridge State Wildlife Management Area, Hull Lake State Wildlife Management Area, and Anncar.  This includes the following highways... Highway 281 between mile markers 210 and 223. Highway 12 near mile marker 106, and between mile markers 109 and 130.\nGenerated: 2026-07-27 00:15:17 UTC"
+  42.9600, -98.4800
+  42.9300, -98.4400
+  42.9300, -98.4100
+  42.8900, -98.3300
+  42.7900, -98.8000
+  42.9300, -98.9700
+  43.0000, -98.8800
+  43.0000, -98.5000
+  42.9600, -98.4800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 26 at 8:11PM EDT by NWS Charleston SC\nExpires: 2026-07-27 00:45 Z\nAt 811 PM EDT, Doppler radar was tracking a line of strong thunderstorms extending from over Bennetts Point to near Hardeeville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hilton Head Island, Bluffton, Beaufort, Port Royal, Edisto Beach, Bellinger Hill Area, Clarendon, Jasper, Hardeeville and Parris Island.  This includes I-95 in South Carolina between mile markers 4 and 9.\nGenerated: 2026-07-27 00:15:17 UTC"
+  32.4300, -80.8600
+  32.6500, -80.5800
+  32.5600, -80.4000
+  32.5600, -80.4100
+  32.5000, -80.3500
+  32.4900, -80.3300
+  32.5200, -80.3500
+  32.4900, -80.2700
+  32.4500, -80.3200
+  32.4700, -80.3600
+  32.4500, -80.4400
+  32.4200, -80.4100
+  32.3900, -80.4000
+  32.3000, -80.4300
+  32.2300, -80.6400
+  32.2100, -80.6400
+  32.1300, -80.7000
+  32.0800, -80.9800
+  32.2700, -81.1300
+  32.4300, -80.8600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 26 at 5:51PM MDT by NWS Billings MT\nExpires: 2026-07-27 00:30 Z\nAt 551 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles north of Gardiner, or 22 miles southwest of Livingston, moving northeast at 40 mph.  HAZARD...Wind gusts of 40 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Livingston, Chico Hot Springs, Pine Creek, Emigrant and Chico.\nGenerated: 2026-07-27 00:15:17 UTC"
   45.3400, -110.8400
   45.4300, -110.9200
   45.7000, -110.6300
@@ -34,7 +68,7 @@ Line: 2,,"Special Weather Statement issued July 26 at 5:51PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:39PM MDT by NWS Great Falls MT\nExpires: 2026-07-27 00:30 Z\nAt 538 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles north of Ennis to 23 miles west of Crescent Lake. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Virginia City, Ennis, Harrison, Pony, Norris, Big Sky, Mcallister, Jeffers, Gallatin Gateway, Cameron, and Madison Buffalo Jump State Park.\nGenerated: 2026-07-27 00:10:15 UTC"
+Line: 2,,"Special Weather Statement issued July 26 at 5:39PM MDT by NWS Great Falls MT\nExpires: 2026-07-27 00:30 Z\nAt 538 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles north of Ennis to 23 miles west of Crescent Lake. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Virginia City, Ennis, Harrison, Pony, Norris, Big Sky, Mcallister, Jeffers, Gallatin Gateway, Cameron, and Madison Buffalo Jump State Park.\nGenerated: 2026-07-27 00:15:17 UTC"
   45.5500, -112.2400
   45.8900, -111.4600
   45.3600, -110.9200
@@ -42,23 +76,4 @@ Line: 2,,"Special Weather Statement issued July 26 at 5:39PM MDT by NWS Great Fa
   45.1400, -111.0500
   44.9500, -111.6800
   45.5500, -112.2400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:38PM MDT by NWS Riverton WY\nExpires: 2026-07-27 00:15 Z\nAt 538 PM MDT, Doppler radar was tracking a strong thunderstorm near South Entrance, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Lewis Falls around 545 PM MDT. Heart Lake around 550 PM MDT.\nGenerated: 2026-07-27 00:10:15 UTC"
-  44.4100, -110.5800
-  44.2900, -110.2900
-  44.1300, -110.5700
-  44.1300, -110.7700
-  44.4100, -110.5800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 26 at 5:32PM MDT by NWS Albuquerque NM\nExpires: 2026-07-27 00:15 Z\nAt 532 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Magdalena, or 16 miles west of Socorro, moving north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Socorro, Magdalena, Lemitar, Escondida, Chamizal and Luis Lopez.  This includes the following highways... Highway 60 between Mile Markers 110 and 138. Interstate 25 between Mile Markers 145 and 161.\nGenerated: 2026-07-27 00:10:15 UTC"
-  33.9700, -107.2700
-  34.2200, -107.3200
-  34.2400, -106.8700
-  33.9900, -106.8600
-  33.9500, -107.2700
-  33.9700, -107.2700
 End:
