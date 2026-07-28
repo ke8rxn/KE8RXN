@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-28 20:00:29 UTC
+; Generated: 2026-07-28 20:05:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 1:59PM MDT by NWS Grand Junction CO\nExpires: 2026-07-28 20:30 Z\nAt 158 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Montrose, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  Locations impacted include... Montrose.  This includes the following highways... U.S. Highway 550 in Colorado between mile markers 123 and 130. U.S. Highway 50 in Colorado between mile markers 84 and 97. Colorado 90 between mile markers 82 and 89.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 4:01PM EDT by NWS Melbourne FL\nExpires: 2026-07-28 20:30 Z\nAt 400 PM EDT, Doppler radar was tracking a strong thunderstorm over Cocoa, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Melbourne, Rockledge, Cocoa, Cocoa Beach, and Satellite Beach.\nGenerated: 2026-07-28 20:05:21 UTC"
+  28.1100, -80.8600
+  28.3500, -80.8600
+  28.3900, -80.8900
+  28.4100, -80.8800
+  28.4200, -80.9000
+  28.4500, -80.9000
+  28.4900, -80.5600
+  28.3900, -80.5600
+  28.3900, -80.5700
+  28.1500, -80.5500
+  28.1100, -80.8600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 28 at 2:01PM MDT by NWS Albuquerque NM\nExpires: 2026-07-28 20:30 Z\nAt 201 PM MDT, Doppler radar was tracking a strong thunderstorm near Reserve, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Reserve, Cruzville, Apache Creek and San Francisco Plaza.\nGenerated: 2026-07-28 20:05:21 UTC"
+  33.7400, -108.8200
+  33.8400, -108.8800
+  33.9500, -108.5700
+  33.7200, -108.5700
+  33.6600, -108.7700
+  33.7400, -108.8200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 28 at 1:59PM MDT by NWS Grand Junction CO\nExpires: 2026-07-28 20:30 Z\nAt 158 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Montrose, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  Locations impacted include... Montrose.  This includes the following highways... U.S. Highway 550 in Colorado between mile markers 123 and 130. U.S. Highway 50 in Colorado between mile markers 84 and 97. Colorado 90 between mile markers 82 and 89.\nGenerated: 2026-07-28 20:05:21 UTC"
   38.3500, -108.0600
   38.4100, -108.1200
   38.6400, -107.9300
@@ -14,7 +39,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 1:59PM MDT by NWS Grand Ju
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:57PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-28 20:30 Z\nAt 356 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Marshall, or 7 miles southwest of Hot Springs, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marshall, Woodfin, Weaverville, Mars Hill, Hot Springs, Leicester, North Asheville, Flat Creek, Max Patch, and Walnut.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:57PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-28 20:30 Z\nAt 356 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Marshall, or 7 miles southwest of Hot Springs, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marshall, Woodfin, Weaverville, Mars Hill, Hot Springs, Leicester, North Asheville, Flat Creek, Max Patch, and Walnut.\nGenerated: 2026-07-28 20:05:21 UTC"
   35.8600, -82.4600
   35.6300, -82.5700
   35.7300, -83.0400
@@ -32,7 +57,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:57PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:54PM EDT by NWS Albany NY\nExpires: 2026-07-28 20:30 Z\nAt 354 PM EDT, Doppler radar was tracking a strong thunderstorm near Copake, or 10 miles southeast of Hudson, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chatham, Claverack, Livingston, Copake, Austerlitz, Philmont, Claverack-Red Mills, Ghent, Hillsdale, Canaan, Richmond, Taghkanic, West Stockbridge, Churchtown, North Hillsdale, Linlithgo Mills, Harlemville, Brick Tavern, West Ghent, and Carey Corner.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:54PM EDT by NWS Albany NY\nExpires: 2026-07-28 20:30 Z\nAt 354 PM EDT, Doppler radar was tracking a strong thunderstorm near Copake, or 10 miles southeast of Hudson, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chatham, Claverack, Livingston, Copake, Austerlitz, Philmont, Claverack-Red Mills, Ghent, Hillsdale, Canaan, Richmond, Taghkanic, West Stockbridge, Churchtown, North Hillsdale, Linlithgo Mills, Harlemville, Brick Tavern, West Ghent, and Carey Corner.\nGenerated: 2026-07-28 20:05:21 UTC"
   42.0600, -73.5400
   42.1200, -73.8500
   42.4700, -73.6000
@@ -41,7 +66,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:54PM EDT by NWS Albany N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:54PM EDT by NWS Morristown TN\nExpires: 2026-07-28 20:45 Z\nAt 354 PM EDT, Doppler radar was tracking a strong thunderstorm near Bean Station, or 11 miles west of Rogersville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morristown, Rogersville, Bean Station, Russellville, Mosheim, Bulls Gap, Mooresburg, St. Clair, Treadway, and Romeo.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:54PM EDT by NWS Morristown TN\nExpires: 2026-07-28 20:45 Z\nAt 354 PM EDT, Doppler radar was tracking a strong thunderstorm near Bean Station, or 11 miles west of Rogersville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morristown, Rogersville, Bean Station, Russellville, Mosheim, Bulls Gap, Mooresburg, St. Clair, Treadway, and Romeo.\nGenerated: 2026-07-28 20:05:21 UTC"
   36.3700, -83.3700
   36.4900, -83.2400
   36.3300, -82.9000
@@ -50,7 +75,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:54PM EDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:52PM EDT by NWS Morristown TN\nExpires: 2026-07-28 20:30 Z\nAt 351 PM EDT, Doppler radar was tracking a strong thunderstorm 16 miles northwest of Murphy, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Murphy, Coker Creek, Violet, Marble, Unaka, and Hiawasse Dam.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:52PM EDT by NWS Morristown TN\nExpires: 2026-07-28 20:30 Z\nAt 351 PM EDT, Doppler radar was tracking a strong thunderstorm 16 miles northwest of Murphy, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Murphy, Coker Creek, Violet, Marble, Unaka, and Hiawasse Dam.\nGenerated: 2026-07-28 20:05:21 UTC"
   35.2500, -84.3300
   35.3200, -84.2800
   35.4000, -84.1800
@@ -69,7 +94,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:52PM EDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 1:46PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-28 20:15 Z\nAt 146 PM MDT, Doppler radar was tracking a strong thunderstorm near Tooele Army Depot South, or 13 miles south of Tooele, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Tooele, West Jordan, South Jordan, Lehi, Riverton, Herriman, Eagle Mountain, Bluffdale, Cedar Fort, Ophir, Camp Williams, Bingham Canyon Mine, Tooele Army Depot South, Tooele Army Depot, Saratoga Springs, Stockton, Rush Valley, Fairfield, Faust, and Copperton.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 1:46PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-28 20:15 Z\nAt 146 PM MDT, Doppler radar was tracking a strong thunderstorm near Tooele Army Depot South, or 13 miles south of Tooele, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Tooele, West Jordan, South Jordan, Lehi, Riverton, Herriman, Eagle Mountain, Bluffdale, Cedar Fort, Ophir, Camp Williams, Bingham Canyon Mine, Tooele Army Depot South, Tooele Army Depot, Saratoga Springs, Stockton, Rush Valley, Fairfield, Faust, and Copperton.\nGenerated: 2026-07-28 20:05:21 UTC"
   40.1800, -112.3800
   40.2400, -112.4700
   40.3900, -112.5100
@@ -81,7 +106,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 1:46PM MDT by NWS Salt Lak
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:40PM EDT by NWS Albany NY\nExpires: 2026-07-28 20:30 Z\nAt 340 PM EDT, Doppler radar was tracking a strong thunderstorm near North-South Lake Campground, or near Catskill, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hudson, Catskill, New Baltimore, Ravena, Coxsackie, Valatie, Athens, Kinderhook, Lorenz Park, North-South Lake Campground, Coeymans, Cairo, Stockport, Stuyvesant, Germantown, Coeymans Hollow, Burden Dock, Burden, Round Top, and Rossman.  This includes Interstate 87 between exits 21 and 21B.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:40PM EDT by NWS Albany NY\nExpires: 2026-07-28 20:30 Z\nAt 340 PM EDT, Doppler radar was tracking a strong thunderstorm near North-South Lake Campground, or near Catskill, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hudson, Catskill, New Baltimore, Ravena, Coxsackie, Valatie, Athens, Kinderhook, Lorenz Park, North-South Lake Campground, Coeymans, Cairo, Stockport, Stuyvesant, Germantown, Coeymans Hollow, Burden Dock, Burden, Round Top, and Rossman.  This includes Interstate 87 between exits 21 and 21B.\nGenerated: 2026-07-28 20:05:21 UTC"
   42.1000, -73.8700
   42.1700, -74.1200
   42.5500, -73.9400
@@ -90,7 +115,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:40PM EDT by NWS Albany N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 1:38PM MDT by NWS Pueblo CO\nExpires: 2026-07-28 20:15 Z\nAt 138 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Black Forest, or 21 miles northeast of Colorado Springs, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central El Paso County.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 1:38PM MDT by NWS Pueblo CO\nExpires: 2026-07-28 20:15 Z\nAt 138 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Black Forest, or 21 miles northeast of Colorado Springs, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of north central El Paso County.\nGenerated: 2026-07-28 20:05:21 UTC"
   39.0900, -104.4400
   39.0700, -104.7200
   39.1300, -104.7400
@@ -99,7 +124,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 1:38PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:38PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-28 20:15 Z\nAt 337 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Newport, or near Smoky Mountains-Big Creek, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Canton, Smoky Mountains-Cataloochee, Smoky Mountains-Big Creek, Leicester, Cove Creek, Waterville, Luck, Canto, Fines Creek, and Spring Creek.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:38PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-28 20:15 Z\nAt 337 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Newport, or near Smoky Mountains-Big Creek, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Canton, Smoky Mountains-Cataloochee, Smoky Mountains-Big Creek, Leicester, Cove Creek, Waterville, Luck, Canto, Fines Creek, and Spring Creek.\nGenerated: 2026-07-28 20:05:21 UTC"
   35.7500, -82.6100
   35.5100, -82.7900
   35.7100, -83.2600
@@ -116,7 +141,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:38PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:35PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-28 20:15 Z\nAt 335 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles northwest of Robbinsville, or 7 miles west of Smoky Mountains-Twentymile Creek, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Robbinsville, Town Of Santeetlah, Fontana Lake, Smoky Mountains-Fontana Area, Fontana Village, Lake Santeetlah, Smoky Mountains-Twentymile Creek, Stecoah, Nantahala, and Tapoco.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:35PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-07-28 20:15 Z\nAt 335 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles northwest of Robbinsville, or 7 miles west of Smoky Mountains-Twentymile Creek, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Robbinsville, Town Of Santeetlah, Fontana Lake, Smoky Mountains-Fontana Area, Fontana Village, Lake Santeetlah, Smoky Mountains-Twentymile Creek, Stecoah, Nantahala, and Tapoco.\nGenerated: 2026-07-28 20:05:21 UTC"
   35.4400, -83.9900
   35.4600, -83.9600
   35.4600, -83.9500
@@ -134,7 +159,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:35PM EDT by NWS Greenvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:31PM EDT by NWS Morristown TN\nExpires: 2026-07-28 20:15 Z\nAt 331 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms 11 miles southeast of Pennington Gap, or 14 miles east of Jonesville, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Johnson City, Kingsport, Bristol Tn, Bristol Va, Gate City, Weber City, Spurgeon, Colonial Heights, Gray, and Oak Grove.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:31PM EDT by NWS Morristown TN\nExpires: 2026-07-28 20:15 Z\nAt 331 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms 11 miles southeast of Pennington Gap, or 14 miles east of Jonesville, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Johnson City, Kingsport, Bristol Tn, Bristol Va, Gate City, Weber City, Spurgeon, Colonial Heights, Gray, and Oak Grove.\nGenerated: 2026-07-28 20:05:21 UTC"
   36.8100, -82.7800
   36.8200, -82.7600
   36.6400, -82.2000
@@ -145,7 +170,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 3:31PM EDT by NWS Morristo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 1:27PM MDT by NWS Denver CO\nExpires: 2026-07-28 20:15 Z\nAt 127 PM MDT, Doppler radar was tracking a strong thunderstorm near Estes Park, or 24 miles southwest of Fort Collins, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Estes Park, Drake, Glen Haven and Cedar Cove.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 1:27PM MDT by NWS Denver CO\nExpires: 2026-07-28 20:15 Z\nAt 127 PM MDT, Doppler radar was tracking a strong thunderstorm near Estes Park, or 24 miles southwest of Fort Collins, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Estes Park, Drake, Glen Haven and Cedar Cove.\nGenerated: 2026-07-28 20:05:21 UTC"
   40.3100, -105.5300
   40.4100, -105.5400
   40.4100, -105.5100
@@ -169,7 +194,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 1:27PM MDT by NWS Denver C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 1:25PM MDT by NWS Albuquerque NM\nExpires: 2026-07-28 20:15 Z\nAt 125 PM MDT, Doppler radar was tracking a strong thunderstorm near Old Horse Springs, or 24 miles southwest of Datil, moving northwest at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Old Horse Springs.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 1:25PM MDT by NWS Albuquerque NM\nExpires: 2026-07-28 20:15 Z\nAt 125 PM MDT, Doppler radar was tracking a strong thunderstorm near Old Horse Springs, or 24 miles southwest of Datil, moving northwest at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Old Horse Springs.\nGenerated: 2026-07-28 20:05:21 UTC"
   33.8600, -108.3200
   33.9900, -108.5000
   34.2100, -108.2200
@@ -179,7 +204,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 1:25PM MDT by NWS Albuquer
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 3:20PM EDT by NWS Charleston WV\nExpires: 2026-07-28 21:15 Z\nLocally heavy rain to the tune of 1 to 1.5 inches has fallen this afternoon. While rainfall is currently exiting the area, some localized high water is possible over the next two hours or so in the typical low-lying trouble areas, with any high water receding thereafter. Do not drive your vehicle into areas where water covers the roadway. The water depth may be too great to allow your car to cross safely.\nGenerated: 2026-07-28 20:00:29 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 3:20PM EDT by NWS Charleston WV\nExpires: 2026-07-28 21:15 Z\nLocally heavy rain to the tune of 1 to 1.5 inches has fallen this afternoon. While rainfall is currently exiting the area, some localized high water is possible over the next two hours or so in the typical low-lying trouble areas, with any high water receding thereafter. Do not drive your vehicle into areas where water covers the roadway. The water depth may be too great to allow your car to cross safely.\nGenerated: 2026-07-28 20:05:21 UTC"
   37.8700, -81.3900
   38.0100, -81.3600
   37.9900, -81.2000
