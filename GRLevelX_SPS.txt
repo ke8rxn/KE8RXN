@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-29 03:35:18 UTC
+; Generated: 2026-07-29 03:40:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 11:19PM EDT by NWS Raleigh NC\nExpires: 2026-07-29 04:15 Z\nAt 1118 PM EDT, Doppler radar was tracking a strong thunderstorm over Benson, or 14 miles east of Lillington, moving east at 55 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Goldsboro, Smithfield, Clinton, Mount Olive, Benson, Fremont, Walnut Creek, Micro, Selma, and Four Oaks.  This includes the following highways... Interstate 95 between Mile Markers 107 and 79. Interstate 40 between Mile Markers 318 and 359. NC Highway 264 between Mile Markers 55 and 56.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 9:36PM MDT by NWS Rapid City SD\nExpires: 2026-07-29 04:15 Z\nAt 936 PM MDT, Doppler radar was tracking a strong thunderstorm over Cascade Falls, or 8 miles southwest of Hot Springs, moving northeast at 10 MPH.  HAZARD...Wind gusts up to 50 MPH and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hot Springs, Cascade Falls, Cottonwood Springs Dam, Cold Brook Reservoir, Angostura Reservoir and Maverick Junction.\nGenerated: 2026-07-29 03:40:13 UTC"
+  43.4800, -103.6100
+  43.5400, -103.5400
+  43.3700, -103.3100
+  43.3100, -103.3600
+  43.2500, -103.5100
+  43.2500, -103.5900
+  43.3500, -103.7600
+  43.4800, -103.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 28 at 11:36PM EDT by NWS Peachtree City GA\nExpires: 2026-07-29 04:15 Z\nAt 1136 PM EDT, a strong thunderstorm was near Roundtop, or 11 miles southwest of Ellijay, moving southeast at 25 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Fairmount, Ranger, Carters, Tails Creek, Blaine, Talmadge, Oakman, and Hinton.\nGenerated: 2026-07-29 03:40:13 UTC"
+  34.7500, -84.6400
+  34.4300, -84.4900
+  34.4100, -84.6700
+  34.5500, -84.8300
+  34.7500, -84.6400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 28 at 11:19PM EDT by NWS Raleigh NC\nExpires: 2026-07-29 04:15 Z\nAt 1118 PM EDT, Doppler radar was tracking a strong thunderstorm over Benson, or 14 miles east of Lillington, moving east at 55 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Goldsboro, Smithfield, Clinton, Mount Olive, Benson, Fremont, Walnut Creek, Micro, Selma, and Four Oaks.  This includes the following highways... Interstate 95 between Mile Markers 107 and 79. Interstate 40 between Mile Markers 318 and 359. NC Highway 264 between Mile Markers 55 and 56.\nGenerated: 2026-07-29 03:40:13 UTC"
   34.8500, -78.7700
   34.8600, -78.7600
   35.1300, -78.4800
@@ -29,7 +50,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 11:19PM EDT by NWS Raleigh
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 11:16PM EDT by NWS Peachtree City GA\nExpires: 2026-07-29 03:45 Z\nAt 1116 PM EDT, a strong thunderstorm was near Brookwood, or near Cumming, moving south at 20 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Cumming, Peachtree Corners, Roswell, Johns Creek, Alpharetta, Milton, Duluth, Sugar Hill, Suwanee, Buford, Drew, Buford Dam-Lake Lanier Parks, Brookwood, and Ducktown.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 11:16PM EDT by NWS Peachtree City GA\nExpires: 2026-07-29 03:45 Z\nAt 1116 PM EDT, a strong thunderstorm was near Brookwood, or near Cumming, moving south at 20 mph.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Cumming, Peachtree Corners, Roswell, Johns Creek, Alpharetta, Milton, Duluth, Sugar Hill, Suwanee, Buford, Drew, Buford Dam-Lake Lanier Parks, Brookwood, and Ducktown.\nGenerated: 2026-07-29 03:40:13 UTC"
   34.2500, -84.0300
   34.2000, -84.0300
   34.1900, -84.0500
@@ -46,7 +67,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 11:16PM EDT by NWS Peachtr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 10:16PM CDT by NWS Dodge City KS\nExpires: 2026-07-29 04:00 Z\nAt 1016 PM CDT/916 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Coolidge to 11 miles northwest of Manter. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Syracuse around 930 PM MDT.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 10:16PM CDT by NWS Dodge City KS\nExpires: 2026-07-29 04:00 Z\nAt 1016 PM CDT/916 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Coolidge to 11 miles northwest of Manter. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Syracuse around 930 PM MDT.\nGenerated: 2026-07-29 03:40:13 UTC"
   38.1200, -102.0400
   38.2300, -101.5500
   37.5600, -101.5500
@@ -56,7 +77,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 10:16PM CDT by NWS Dodge C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 11:15PM EDT by NWS Wakefield VA\nExpires: 2026-07-29 04:00 Z\nAt 1115 PM EDT, Doppler radar was tracking a strong thunderstorm near Scotland, or near Surry, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Smithfield around 1130 PM EDT. Rescue around 1140 PM EDT.  Other locations impacted by this storm include Rushmere, Pons, Carrollton, Chippokes State Park, Benns Church, Bethel Church, Delk Crossroads, Lawson, Central Hill, and Bacons Castle.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 11:15PM EDT by NWS Wakefield VA\nExpires: 2026-07-29 04:00 Z\nAt 1115 PM EDT, Doppler radar was tracking a strong thunderstorm near Scotland, or near Surry, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Smithfield around 1130 PM EDT. Rescue around 1140 PM EDT.  Other locations impacted by this storm include Rushmere, Pons, Carrollton, Chippokes State Park, Benns Church, Bethel Church, Delk Crossroads, Lawson, Central Hill, and Bacons Castle.\nGenerated: 2026-07-29 03:40:13 UTC"
   37.1700, -76.9600
   37.2000, -76.7900
   37.1900, -76.7700
@@ -74,7 +95,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 11:15PM EDT by NWS Wakefie
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 11:15PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-29 03:45 Z\nAt 1115 PM EDT, Doppler radar was tracking a strong thunderstorm near Jason, or near Goldsboro, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kinston, La Grange, Snow Hill, Dawson, Maury, Ormondsville, Graingers, Institute, Jason, Roundtree, Lizzie, Kinston Regional Jetport, Hookerton, Castoria, Shine, Fort Run VFD, and Bull Head VFD.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 11:15PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-07-29 03:45 Z\nAt 1115 PM EDT, Doppler radar was tracking a strong thunderstorm near Jason, or near Goldsboro, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kinston, La Grange, Snow Hill, Dawson, Maury, Ormondsville, Graingers, Institute, Jason, Roundtree, Lizzie, Kinston Regional Jetport, Hookerton, Castoria, Shine, Fort Run VFD, and Bull Head VFD.\nGenerated: 2026-07-29 03:40:13 UTC"
   35.3400, -77.8200
   35.3600, -77.8200
   35.3800, -77.8000
@@ -90,7 +111,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 11:15PM EDT by NWS Newport
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 9:12PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-29 03:45 Z\nAt 911 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Price to near Sunnyside. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Price, Wellington, Sunnyside, East Carbon, and Kenilworth.  This includes the following highways... US Route 6 between mile markers 239 and 261. Utah Route 10 between mile markers 65 and 68.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 9:12PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-29 03:45 Z\nAt 911 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Price to near Sunnyside. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Price, Wellington, Sunnyside, East Carbon, and Kenilworth.  This includes the following highways... US Route 6 between mile markers 239 and 261. Utah Route 10 between mile markers 65 and 68.\nGenerated: 2026-07-29 03:40:13 UTC"
   39.8200, -110.7300
   39.8200, -109.9800
   39.4500, -110.5200
@@ -99,7 +120,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 9:12PM MDT by NWS Salt Lak
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 11:04PM EDT by NWS Wakefield VA\nExpires: 2026-07-29 03:45 Z\nAt 1104 PM EDT, Doppler radar was tracking a strong thunderstorm over Patrick Henry Field, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Newport News, Hampton, Christopher Newport University, Tabb, and Beaconsdale around 1110 PM EDT. Northampton around 1115 PM EDT. Hampton University around 1130 PM EDT.  Other locations impacted by this storm include Fox Hill, Phoebus, Langley View, Oriana, Hilton Village, Raleigh Terrace, Dare, Newport News Golf Course, Oyster Point, and Messick.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 11:04PM EDT by NWS Wakefield VA\nExpires: 2026-07-29 03:45 Z\nAt 1104 PM EDT, Doppler radar was tracking a strong thunderstorm over Patrick Henry Field, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Newport News, Hampton, Christopher Newport University, Tabb, and Beaconsdale around 1110 PM EDT. Northampton around 1115 PM EDT. Hampton University around 1130 PM EDT.  Other locations impacted by this storm include Fox Hill, Phoebus, Langley View, Oriana, Hilton Village, Raleigh Terrace, Dare, Newport News Golf Course, Oyster Point, and Messick.\nGenerated: 2026-07-29 03:40:13 UTC"
   36.9900, -76.2600
   36.9800, -76.3000
   36.9400, -76.4400
@@ -111,7 +132,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 11:04PM EDT by NWS Wakefie
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 11:04PM EDT by NWS Wilmington NC\nExpires: 2026-07-29 04:00 Z\nAt 1104 PM EDT, Doppler radar was tracking a strong thunderstorm near St. Pauls, or 14 miles south of Fayetteville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... St. Pauls, Tobermory, White Oak, Jerome, Duart, and Ammon.  This includes Interstate 95 in North Carolina between mile markers 31 and 38.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 11:04PM EDT by NWS Wilmington NC\nExpires: 2026-07-29 04:00 Z\nAt 1104 PM EDT, Doppler radar was tracking a strong thunderstorm near St. Pauls, or 14 miles south of Fayetteville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... St. Pauls, Tobermory, White Oak, Jerome, Duart, and Ammon.  This includes Interstate 95 in North Carolina between mile markers 31 and 38.\nGenerated: 2026-07-29 03:40:13 UTC"
   34.8900, -78.9300
   34.8600, -78.9300
   34.8400, -78.9000
@@ -127,7 +148,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 11:04PM EDT by NWS Wilming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 11:02PM EDT by NWS Peachtree City GA\nExpires: 2026-07-29 03:45 Z\nAt 1102 PM EDT, a line of strong thunderstorms was along a line extending from near Rocky Face to Talona. These storms were nearly stationary.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Dalton, Chatsworth, Ellijay, Varnell, Eton, Tunnel Hill, East Ellijay, Carters, Talona, Tails Creek, Ramhurst, Rocky Face, Cartecay, Dawnville, Mountaintown, Fort Mountain State Park, North Georgia Speedway, and Roundtop.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 11:02PM EDT by NWS Peachtree City GA\nExpires: 2026-07-29 03:45 Z\nAt 1102 PM EDT, a line of strong thunderstorms was along a line extending from near Rocky Face to Talona. These storms were nearly stationary.  HAZARD...40 to 50 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Dalton, Chatsworth, Ellijay, Varnell, Eton, Tunnel Hill, East Ellijay, Carters, Talona, Tails Creek, Ramhurst, Rocky Face, Cartecay, Dawnville, Mountaintown, Fort Mountain State Park, North Georgia Speedway, and Roundtop.\nGenerated: 2026-07-29 03:40:13 UTC"
   34.8400, -84.6800
   34.7300, -84.4200
   34.5700, -84.3400
@@ -149,7 +170,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 11:02PM EDT by NWS Peachtr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 9:01PM MDT by NWS Billings MT\nExpires: 2026-07-29 04:00 Z\nAt 901 PM MDT, Doppler radar was tracking a line of showers and weak thunderstorms extending from 9 miles northwest of Absarokee to 12 miles northwest of Red Lodge, moving east at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Red Lodge, Columbus, Joliet, Fromberg, Absarokee, Cooney Reservoir State Park, Roberts, Boyd, Fishtail, Fox, Roscoe, Luther, Reed Point, Park City, Rockvale and Edgar.  Expect gusty crosswinds on Interstate 90 from Reed point to Park City.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 9:01PM MDT by NWS Billings MT\nExpires: 2026-07-29 04:00 Z\nAt 901 PM MDT, Doppler radar was tracking a line of showers and weak thunderstorms extending from 9 miles northwest of Absarokee to 12 miles northwest of Red Lodge, moving east at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Red Lodge, Columbus, Joliet, Fromberg, Absarokee, Cooney Reservoir State Park, Roberts, Boyd, Fishtail, Fox, Roscoe, Luther, Reed Point, Park City, Rockvale and Edgar.  Expect gusty crosswinds on Interstate 90 from Reed point to Park City.\nGenerated: 2026-07-29 03:40:13 UTC"
   45.2800, -109.6300
   45.3100, -109.6200
   45.3400, -109.6600
@@ -174,7 +195,7 @@ Line: 2,,"Special Weather Statement issued July 28 at 9:01PM MDT by NWS Billings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 28 at 9:00PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-29 03:45 Z\nAt 859 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles southeast of Sunnyside, or 28 miles southeast of Price, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sunnyside, East Carbon, and Woodside.  This includes US Route 6 between mile markers 262 and 279.\nGenerated: 2026-07-29 03:35:18 UTC"
+Line: 2,,"Special Weather Statement issued July 28 at 9:00PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-29 03:45 Z\nAt 859 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles southeast of Sunnyside, or 28 miles southeast of Price, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sunnyside, East Carbon, and Woodside.  This includes US Route 6 between mile markers 262 and 279.\nGenerated: 2026-07-29 03:40:13 UTC"
   39.7200, -109.9500
   39.7400, -109.9900
   39.6700, -109.9800
