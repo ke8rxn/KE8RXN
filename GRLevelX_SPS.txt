@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 00:40:14 UTC
+; Generated: 2026-07-30 00:50:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:37PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 01:00 Z\nAt 837 PM EDT, Doppler radar was tracking a strong thunderstorm near World Golf Village, or 8 miles northwest of Saint Augustine, moving southeast at 25 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... World Golf Village and Vilano Beach.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:44PM MDT by NWS Grand Junction CO\nExpires: 2026-07-30 01:15 Z\nAt 644 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles northwest of Fruita, or 32 miles northwest of Grand Junction, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Garfield, southwestern Rio Blanco and northeastern Grand Counties.  This includes Colorado 139 between mile markers 12 and 46.\nGenerated: 2026-07-30 00:50:22 UTC"
+  39.2500, -109.1300
+  39.3400, -109.2300
+  39.5100, -109.1400
+  39.7900, -108.7400
+  39.5700, -108.4300
+  39.3500, -108.8000
+  39.2500, -109.1300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 29 at 6:43PM MDT by NWS Pueblo CO\nExpires: 2026-07-30 01:15 Z\nAt 642 PM MDT, Doppler radar was tracking a strong thunderstorm near Walsenburg, or 38 miles south of Pueblo. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and nickel size hail and torrential rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Heavy rainfall could cause ponding of water on paved road surfaces, washouts on dirt roads, and quick runoff causing high flows in area creeks, streams and normally dry washouts.  Locations impacted include... Walsenburg.\nGenerated: 2026-07-30 00:50:22 UTC"
+  37.6900, -105.0200
+  37.9600, -104.6900
+  37.8300, -104.3100
+  37.5600, -104.6600
+  37.6900, -105.0200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 29 at 6:42PM MDT by NWS Riverton WY\nExpires: 2026-07-30 01:30 Z\nAt 641 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles northeast of Palisades Reservoir to 14 miles south of Wayan. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  Several automated sensors in eastern Idaho have reprted wind gusts between 50 and 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Alpine and Freedom around 645 PM MDT. Star Valley Ranch around 650 PM MDT. Thayne, Stewart Peak, and Star Valley Rest Area around 655 PM MDT. Hoback around 700 PM MDT.  Other locations in the path of these storms include Afton, Turnerville, and Grover.\nGenerated: 2026-07-30 00:50:22 UTC"
+  43.4000, -111.0400
+  43.4000, -110.5600
+  42.6300, -110.6400
+  42.6300, -111.0500
+  43.4000, -111.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 29 at 8:37PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 01:00 Z\nAt 837 PM EDT, Doppler radar was tracking a strong thunderstorm near World Golf Village, or 8 miles northwest of Saint Augustine, moving southeast at 25 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... World Golf Village and Vilano Beach.\nGenerated: 2026-07-30 00:50:22 UTC"
   29.9500, -81.2700
   29.8700, -81.4100
   30.0100, -81.5000
@@ -14,7 +43,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:37PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:37PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:00 Z\nAt 637 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 9 miles northeast of Taber, or 18 miles northwest of Blackfoot, moving north at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Blackfoot, Ammon, Shelley, Iona, Ucon, Firth, Atomic City, Rose, Fort Hall Eagle Lodge, Taber, Southeast Inl, Springfield, Rockford, Moreland, Pingree, Fort Hall Townsite, Groveland, Basalt, and East Butte.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:37PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:00 Z\nAt 637 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 9 miles northeast of Taber, or 18 miles northwest of Blackfoot, moving north at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Blackfoot, Ammon, Shelley, Iona, Ucon, Firth, Atomic City, Rose, Fort Hall Eagle Lodge, Taber, Southeast Inl, Springfield, Rockford, Moreland, Pingree, Fort Hall Townsite, Groveland, Basalt, and East Butte.\nGenerated: 2026-07-30 00:50:22 UTC"
   43.0200, -112.3600
   43.0800, -112.9600
   43.7900, -112.7900
@@ -23,7 +52,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:37PM MDT by NWS Pocatell
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:35PM MDT by NWS Grand Junction CO\nExpires: 2026-07-30 01:00 Z\nAt 635 PM MDT, Doppler radar was tracking a strong thunderstorm 26 miles south of Rangely, or 44 miles north of Grand Junction, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Rio Blanco County.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:35PM MDT by NWS Grand Junction CO\nExpires: 2026-07-30 01:00 Z\nAt 635 PM MDT, Doppler radar was tracking a strong thunderstorm 26 miles south of Rangely, or 44 miles north of Grand Junction, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Rio Blanco County.\nGenerated: 2026-07-30 00:50:22 UTC"
   39.6800, -108.5900
   39.7400, -108.6700
   39.9200, -108.5800
@@ -32,7 +61,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:35PM MDT by NWS Grand Ju
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:34PM EDT by NWS Charleston SC\nExpires: 2026-07-30 01:00 Z\nAt 834 PM EDT, Doppler radar was tracking a strong thunderstorm over Montgomery, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richmond Hill, Coffee Bluff, Windsor Forest, Midtown Savannah, Hunter Army Airfield, Downtown Savannah, Wilmington Island, Montgomery, Garden City and Thunderbolt.  This includes the following highways... I-95 in Georgia between mile markers 91 and 96. I-516 near mile marker 3.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 8:34PM EDT by NWS Charleston SC\nExpires: 2026-07-30 01:00 Z\nAt 834 PM EDT, Doppler radar was tracking a strong thunderstorm over Montgomery, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Richmond Hill, Coffee Bluff, Windsor Forest, Midtown Savannah, Hunter Army Airfield, Downtown Savannah, Wilmington Island, Montgomery, Garden City and Thunderbolt.  This includes the following highways... I-95 in Georgia between mile markers 91 and 96. I-516 near mile marker 3.\nGenerated: 2026-07-30 00:50:22 UTC"
   32.0100, -81.3900
   32.0700, -81.0600
   31.9300, -80.8800
@@ -48,7 +77,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:34PM EDT by NWS Charlest
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:31PM MDT by NWS Albuquerque NM\nExpires: 2026-07-30 01:15 Z\nAt 631 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Acoma Pueblo, or 25 miles south of Laguna Pueblo, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Laguna Pueblo, Acoma Pueblo and Mesita.  This includes Interstate 40 between Mile Markers 112 and 115.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:31PM MDT by NWS Albuquerque NM\nExpires: 2026-07-30 01:15 Z\nAt 631 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Acoma Pueblo, or 25 miles south of Laguna Pueblo, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Laguna Pueblo, Acoma Pueblo and Mesita.  This includes Interstate 40 between Mile Markers 112 and 115.\nGenerated: 2026-07-30 00:50:22 UTC"
   34.8600, -107.6400
   35.0600, -107.3700
   34.8700, -107.2100
@@ -59,7 +88,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:31PM MDT by NWS Albuquer
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 7:29PM CDT by NWS Tulsa OK\nExpires: 2026-07-30 01:00 Z\nAt 728 PM CDT, Doppler radar indicated a strong thunderstorm near Braggs. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Muskogee...                       Fort Gibson... Webbers Falls...                  Braggs... Greenleaf State Park...           Pumpkin Center...\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 7:29PM CDT by NWS Tulsa OK\nExpires: 2026-07-30 01:00 Z\nAt 728 PM CDT, Doppler radar indicated a strong thunderstorm near Braggs. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Muskogee...                       Fort Gibson... Webbers Falls...                  Braggs... Greenleaf State Park...           Pumpkin Center...\nGenerated: 2026-07-30 00:50:22 UTC"
   35.7200, -95.0500
   35.6400, -95.1000
   35.6400, -95.1300
@@ -73,7 +102,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 7:29PM CDT by NWS Tulsa OK
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 7:26PM CDT by NWS Birmingham AL\nExpires: 2026-07-30 01:00 Z\nAt 726 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Deerlick Creek Campgrounds to near West Blocton. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eastern Tuscaloosa, Brent, Centreville, Holt, Brookwood, Coaling, Vance, Woodstock, West Blocton, West Centreville, Lake Wildwood, Deerlick Creek Campgrounds, Eoline, Mercedes Benz Of Alabama, North Bibb, McFarland Mall, Cottondale, Peterson, Lake Harris, and Hagler.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 7:26PM CDT by NWS Birmingham AL\nExpires: 2026-07-30 01:00 Z\nAt 726 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Deerlick Creek Campgrounds to near West Blocton. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eastern Tuscaloosa, Brent, Centreville, Holt, Brookwood, Coaling, Vance, Woodstock, West Blocton, West Centreville, Lake Wildwood, Deerlick Creek Campgrounds, Eoline, Mercedes Benz Of Alabama, North Bibb, McFarland Mall, Cottondale, Peterson, Lake Harris, and Hagler.\nGenerated: 2026-07-30 00:50:22 UTC"
   33.0800, -87.5400
   32.9200, -87.1000
   33.2100, -87.1300
@@ -82,7 +111,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 7:26PM CDT by NWS Birmingh
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:24PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:00 Z\nAt 623 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 10 miles southwest of Irwin to 7 miles northwest of Georgetown. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Soda Springs, Blackfoot Reservoir, Palisades Reservoir, Wayan, Henry, Mill Canyon Campground, Diamond Creek Campground, Smokey Canyon Mine, Freedom, Grays Lake, and Alpine Airport.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:24PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:00 Z\nAt 623 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 10 miles southwest of Irwin to 7 miles northwest of Georgetown. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Soda Springs, Blackfoot Reservoir, Palisades Reservoir, Wayan, Henry, Mill Canyon Campground, Diamond Creek Campground, Smokey Canyon Mine, Freedom, Grays Lake, and Alpine Airport.\nGenerated: 2026-07-30 00:50:22 UTC"
   42.6100, -111.6400
   43.3400, -111.6000
   43.3800, -111.0400
@@ -91,26 +120,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:24PM MDT by NWS Pocatell
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:17PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 00:45 Z\nAt 617 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms over Fort Hall Putnam Lodge, or 12 miles northeast of Pocatello, moving northeast at 50 mph.  HAZARD...Wind gusts in excess of 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Pocatello, Goshen, Chubbuck, Portneuf Gap, Fort Hall Mount Putnam, Fort Hall Lincoln Creek Lodge, and Fort Hall Putnam Lodge.\nGenerated: 2026-07-30 00:40:14 UTC"
-  42.7500, -112.2800
-  42.8100, -112.6000
-  43.3400, -112.1100
-  43.2700, -111.8400
-  42.8700, -112.2400
-  42.7500, -112.2800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 7:15PM CDT by NWS Tulsa OK\nExpires: 2026-07-30 00:45 Z\nAt 714 PM CDT, Doppler radar indicated a strong thunderstorm over Fanshawe. This thunderstorm was nearly stationary.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Fanshawe...                       Talimena State Park... Lake Wister State Park...         Summerfield...\nGenerated: 2026-07-30 00:40:14 UTC"
-  34.9400, -95.0200
-  35.0700, -94.8900
-  34.8800, -94.6900
-  34.7700, -94.9500
-  34.9400, -95.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:13PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 01:00 Z\nAt 813 PM EDT, Doppler radar was tracking a strong thunderstorm near Bell, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph, half inch hail, and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Trenton, Bell, and Branford.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 8:13PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 01:00 Z\nAt 813 PM EDT, Doppler radar was tracking a strong thunderstorm near Bell, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph, half inch hail, and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Trenton, Bell, and Branford.\nGenerated: 2026-07-30 00:50:22 UTC"
   29.6400, -82.9600
   29.7000, -82.9600
   29.7000, -82.9400
@@ -135,7 +145,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:13PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:11PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:00 Z\nAt 610 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Inkom to near Pleasantview. Movement was east at 25 mph.  HAZARD...Wind gusts in excess of 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Malad, McCammon, Lava Hot Springs, Swanlake, Chesterfield Reservoir, Inkom, Downey, Arimo, Pleasantview, Virginia, Chesterfield, Clifton, Oxford, Hawkins Reservoir, Samaria, Bancroft, and Malad Pass.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:11PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:00 Z\nAt 610 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Inkom to near Pleasantview. Movement was east at 25 mph.  HAZARD...Wind gusts in excess of 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Malad, McCammon, Lava Hot Springs, Swanlake, Chesterfield Reservoir, Inkom, Downey, Arimo, Pleasantview, Virginia, Chesterfield, Clifton, Oxford, Hawkins Reservoir, Samaria, Bancroft, and Malad Pass.\nGenerated: 2026-07-30 00:50:22 UTC"
   42.8900, -111.7700
   42.1500, -111.9300
   42.0500, -112.5300
@@ -144,24 +154,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:11PM MDT by NWS Pocatell
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:11PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 00:45 Z\nAt 811 PM EDT, Doppler radar was tracking a strong thunderstorm near Picolata, or near Green Cove Springs, moving southeast at 25 mph.  HAZARD...Wind gusts around 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fruit Cove, World Golf Village, Picolata, and Bakersville.\nGenerated: 2026-07-30 00:40:14 UTC"
-  29.8200, -81.3600
-  29.8100, -81.5700
-  29.9000, -81.6100
-  29.9600, -81.6000
-  29.9900, -81.6300
-  30.1200, -81.6400
-  30.1300, -81.5800
-  30.1200, -81.5700
-  30.1200, -81.5400
-  30.1000, -81.5400
-  30.1000, -81.5100
-  29.8300, -81.3500
-  29.8200, -81.3600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:05PM EDT by NWS Tallahassee FL\nExpires: 2026-07-30 01:00 Z\nAt 804 PM EDT/704 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Graceville to 8 miles north of Blountstown. Movement was west at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Graceville, Marianna, Blountstown, Cottondale, Grand Ridge, Greenwood, Altha, Esto, Campbellton, Noma, Richter Crossroads, Rock Bluff, Ocheesee, Selman, Tendil Crossing, Blue Spring, Union City, Chipola, Henderson Mill, and Holland Crossroads.\nGenerated: 2026-07-30 00:40:14 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 8:05PM EDT by NWS Tallahassee FL\nExpires: 2026-07-30 01:00 Z\nAt 804 PM EDT/704 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from near Graceville to 8 miles north of Blountstown. Movement was west at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Graceville, Marianna, Blountstown, Cottondale, Grand Ridge, Greenwood, Altha, Esto, Campbellton, Noma, Richter Crossroads, Rock Bluff, Ocheesee, Selman, Tendil Crossing, Blue Spring, Union City, Chipola, Henderson Mill, and Holland Crossroads.\nGenerated: 2026-07-30 00:50:22 UTC"
   30.9900, -85.7400
   30.9900, -85.2900
   30.5600, -84.8800
@@ -172,18 +165,4 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:05PM EDT by NWS Tallahas
   30.8300, -85.4900
   30.8300, -85.5400
   30.9900, -85.7400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 5:54PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-30 00:45 Z\nAt 554 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 14 miles northwest of Hooper to 12 miles west of Dugway English Village. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Salt Lake City, Ogden, Layton, Tooele, Farmington, Grantsville, Hill Air Force Base, Dugway English Village, Roy, Clearfield, Kaysville, Syracuse, Clinton, North Ogden, South Ogden, Washington Terrace, Stansbury Park, Riverdale, Hooper, and South Weber.  This includes the following highways... Interstate 15 between mile markers 325 and 350. Interstate 84 between mile markers 82 and 88. Interstate 80 in Utah between mile markers 66 and 112.\nGenerated: 2026-07-30 00:40:14 UTC"
-  41.3100, -111.9400
-  41.2800, -111.9500
-  41.2400, -111.9300
-  41.1800, -111.9300
-  41.1300, -111.9000
-  41.0300, -111.8900
-  39.9800, -112.5100
-  40.2000, -113.1900
-  41.3500, -112.5200
-  41.3100, -111.9400
 End:
