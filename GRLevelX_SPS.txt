@@ -3,38 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 05:55:20 UTC
+; Generated: 2026-07-30 06:00:28 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 11:32PM MDT by NWS Bismarck ND\nExpires: 2026-07-30 06:00 Z\nAt 1132 PM MDT, a strong thunderstorm was located over Mott, or 29 miles northeast of Hettinger, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mott, Regent, Burt, and Bentley.\nGenerated: 2026-07-30 05:55:20 UTC"
-  46.2100, -102.5000
-  46.2800, -102.5000
-  46.2800, -102.6800
-  46.4000, -102.7800
-  46.6300, -102.2200
-  46.6300, -102.0600
-  46.2800, -102.0500
-  46.2800, -102.0000
-  46.2100, -102.0000
-  46.2100, -102.5000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 12:23AM CDT by NWS Tallahassee FL\nExpires: 2026-07-30 06:00 Z\nAt 1223 AM CDT, Doppler radar was tracking a strong thunderstorm over Geneva, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Funiak Springs, Geneva, Hartford, Samson, Union, Liberty, Paxton, Coffee Springs, Black, Oakwood Hills, Cluster Springs, Kellys Crossroads, Logan Field Municipal A/P, Central City, Glendale, Izagora, New Hope, New Harmony, Piney Grove, and Caney Creek.\nGenerated: 2026-07-30 05:55:20 UTC"
-  30.9700, -86.3200
-  30.9900, -86.3000
+Line: 2,,"Special Weather Statement issued July 30 at 12:58AM CDT by NWS Tallahassee FL\nExpires: 2026-07-30 06:30 Z\nAt 1257 AM CDT, Doppler radar was tracking a strong thunderstorm 11 miles northeast of De Funiak Springs, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Funiak Springs, Geneva, Hartford, Samson, Eglin Air Force Base, Union, Liberty, Paxton, Ponce De Leon, Caryville, Esto, Westville, Coffee Springs, Black, Oakwood Hills, Cluster Springs, Kellys Crossroads, Cerrogordo, Gritney, and Logan Field Municipal A/P.\nGenerated: 2026-07-30 06:00:28 UTC"
+  30.9900, -86.3900
   31.0000, -86.1900
-  31.1000, -86.1900
-  31.1500, -86.1500
-  31.2800, -85.9500
-  31.2400, -85.7900
-  31.2000, -85.7900
-  31.2000, -85.7500
-  31.0400, -85.6700
-  30.9100, -85.7000
-  30.8500, -85.8800
-  30.7000, -86.0000
-  30.7000, -86.1100
-  30.7200, -86.2300
-  30.8300, -86.3700
-  30.9700, -86.3200
+  31.1900, -86.1900
+  31.1800, -86.1200
+  31.1900, -86.1100
+  31.1900, -85.7600
+  31.0200, -85.6300
+  30.8200, -85.7100
+  30.7800, -85.7500
+  30.7900, -85.7500
+  30.7900, -85.8200
+  30.7700, -85.8300
+  30.7200, -85.8300
+  30.6800, -85.8700
+  30.6600, -85.8700
+  30.6300, -85.9200
+  30.6200, -85.9100
+  30.6300, -86.3100
+  30.7500, -86.3900
+  30.9900, -86.3900
 End:
