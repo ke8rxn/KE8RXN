@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 14:24:11 UTC
+; Generated: 2026-07-30 14:25:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 9:06AM CDT by NWS Grand Forks ND\nExpires: 2026-07-30 14:30 Z\nAt 905 AM CDT, Doppler radar was tracking a strong thunderstorm near Minnewaukan, or 15 miles west of Devils Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Devils Lake, Camp Grafton, Lakewood Park, Leeds, Minnewaukan, Penn, and Webster.\nGenerated: 2026-07-30 14:24:11 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 10:24AM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 15:15 Z\nAt 1024 AM EDT, Doppler radar was tracking a strong thunderstorm over Bunnell, moving east at 25 mph.  HAZARD...Wind gusts 40 to 50 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Andalusia, Beverly Beach, and Espanola.\nGenerated: 2026-07-30 14:25:23 UTC"
+  29.4600, -81.1000
+  29.4600, -81.1200
+  29.4300, -81.1000
+  29.4100, -81.1500
+  29.2600, -81.1500
+  29.2600, -81.4200
+  29.4000, -81.4200
+  29.4000, -81.4300
+  29.3800, -81.4500
+  29.3700, -81.4800
+  29.4300, -81.5100
+  29.5400, -81.4500
+  29.5900, -81.3400
+  29.5300, -81.1100
+  29.5100, -81.1000
+  29.4600, -81.1000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 9:06AM CDT by NWS Grand Forks ND\nExpires: 2026-07-30 14:30 Z\nAt 905 AM CDT, Doppler radar was tracking a strong thunderstorm near Minnewaukan, or 15 miles west of Devils Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Devils Lake, Camp Grafton, Lakewood Park, Leeds, Minnewaukan, Penn, and Webster.\nGenerated: 2026-07-30 14:25:23 UTC"
   48.3500, -99.4600
   48.3800, -98.8400
   48.0100, -98.8400
@@ -14,7 +34,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 9:06AM CDT by NWS Grand Fo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 10:00AM EDT by NWS Melbourne FL\nExpires: 2026-07-30 14:30 Z\nAt 1000 AM EDT, Doppler radar was tracking a strong thunderstorm over Lisbon, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Eustis, Tavares, Mount Dora, Lake Griffin, and Lisbon.\nGenerated: 2026-07-30 14:24:11 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 10:00AM EDT by NWS Melbourne FL\nExpires: 2026-07-30 14:30 Z\nAt 1000 AM EDT, Doppler radar was tracking a strong thunderstorm over Lisbon, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Eustis, Tavares, Mount Dora, Lake Griffin, and Lisbon.\nGenerated: 2026-07-30 14:25:23 UTC"
   28.9600, -81.8500
   28.9600, -81.6600
   29.0000, -81.6600
