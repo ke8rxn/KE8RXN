@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 14:25:23 UTC
+; Generated: 2026-07-30 14:30:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 10:24AM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 15:15 Z\nAt 1024 AM EDT, Doppler radar was tracking a strong thunderstorm over Bunnell, moving east at 25 mph.  HAZARD...Wind gusts 40 to 50 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Andalusia, Beverly Beach, and Espanola.\nGenerated: 2026-07-30 14:25:23 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 10:29AM EDT by NWS Melbourne FL\nExpires: 2026-07-30 15:00 Z\nAt 1029 AM EDT, Doppler radar was tracking a strong thunderstorm near Cassia, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Apopka, DeLand, Eustis, Mount Dora, and Orange City.\nGenerated: 2026-07-30 14:30:24 UTC"
+  28.7300, -81.7300
+  29.0000, -81.5900
+  28.9900, -81.2800
+  28.6100, -81.4900
+  28.7300, -81.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 10:24AM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 15:15 Z\nAt 1024 AM EDT, Doppler radar was tracking a strong thunderstorm over Bunnell, moving east at 25 mph.  HAZARD...Wind gusts 40 to 50 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Palm Coast, Flagler Beach, Bunnell, Andalusia, Beverly Beach, and Espanola.\nGenerated: 2026-07-30 14:30:24 UTC"
   29.4600, -81.1000
   29.4600, -81.1200
   29.4300, -81.1000
@@ -22,25 +31,4 @@ Line: 2,,"Special Weather Statement issued July 30 at 10:24AM EDT by NWS Jackson
   29.5300, -81.1100
   29.5100, -81.1000
   29.4600, -81.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 9:06AM CDT by NWS Grand Forks ND\nExpires: 2026-07-30 14:30 Z\nAt 905 AM CDT, Doppler radar was tracking a strong thunderstorm near Minnewaukan, or 15 miles west of Devils Lake, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Devils Lake, Camp Grafton, Lakewood Park, Leeds, Minnewaukan, Penn, and Webster.\nGenerated: 2026-07-30 14:25:23 UTC"
-  48.3500, -99.4600
-  48.3800, -98.8400
-  48.0100, -98.8400
-  48.0600, -99.4600
-  48.3500, -99.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 10:00AM EDT by NWS Melbourne FL\nExpires: 2026-07-30 14:30 Z\nAt 1000 AM EDT, Doppler radar was tracking a strong thunderstorm over Lisbon, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Eustis, Tavares, Mount Dora, Lake Griffin, and Lisbon.\nGenerated: 2026-07-30 14:25:23 UTC"
-  28.9600, -81.8500
-  28.9600, -81.6600
-  29.0000, -81.6600
-  29.0200, -81.5600
-  28.7900, -81.5700
-  28.7800, -81.7900
-  28.7900, -81.8600
-  28.9600, -81.8500
 End:
