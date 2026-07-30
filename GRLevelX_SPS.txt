@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 02:55:18 UTC
+; Generated: 2026-07-30 03:00:26 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:52PM MDT by NWS Great Falls MT\nExpires: 2026-07-30 03:30 Z\nAt 852 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles west of White Sulphur Springs, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... White Sulphur Springs.\nGenerated: 2026-07-30 02:55:18 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 9:56PM CDT by NWS Tallahassee FL\nExpires: 2026-07-30 03:30 Z\nAt 956 PM CDT, Doppler radar was tracking a strong thunderstorm near Bonifay, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Bonifay, Chipley, Bradford, Live Oak, Ponce De Leon, Caryville, Wausau, Westville, Hinsons Crossroads, Whitehead Crossroads, Holmes Valley, Millers Ferry, Knox Hill, Smyrna, Sylvania, Johnson Crossroads, Brock Crossroad, Red Bay, and Douglass Crossroad.\nGenerated: 2026-07-30 03:00:26 UTC"
+  30.7400, -85.9400
+  30.8300, -85.6000
+  30.5800, -85.4400
+  30.5700, -85.4400
+  30.5700, -85.4900
+  30.5400, -85.4900
+  30.5300, -85.5200
+  30.5700, -85.5800
+  30.5100, -85.6500
+  30.4700, -85.8800
+  30.5400, -86.0000
+  30.6400, -86.0200
+  30.7400, -85.9400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 29 at 8:52PM MDT by NWS Great Falls MT\nExpires: 2026-07-30 03:30 Z\nAt 852 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles west of White Sulphur Springs, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... White Sulphur Springs.\nGenerated: 2026-07-30 03:00:26 UTC"
   46.3000, -111.3100
   46.5700, -111.4000
   46.6100, -110.8900
@@ -14,7 +31,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:52PM MDT by NWS Great Fa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 10:47PM EDT by NWS Tallahassee FL\nExpires: 2026-07-30 03:15 Z\nAt 1047 PM EDT/947 PM CDT/, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Vernon, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nixon, Bayhead, Singer Road, Recota Beach, Saunders, Bayou George, Camp Flowers, Gainer Spring, Bennett, Youngstown, Cairo, Porter Lake, Majette, Riverside, and Greenhead.\nGenerated: 2026-07-30 02:55:18 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 10:47PM EDT by NWS Tallahassee FL\nExpires: 2026-07-30 03:15 Z\nAt 1047 PM EDT/947 PM CDT/, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Vernon, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nixon, Bayhead, Singer Road, Recota Beach, Saunders, Bayou George, Camp Flowers, Gainer Spring, Bennett, Youngstown, Cairo, Porter Lake, Majette, Riverside, and Greenhead.\nGenerated: 2026-07-30 03:00:26 UTC"
   30.5700, -85.5800
   30.4500, -85.3900
   30.3600, -85.3900
@@ -24,7 +41,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 10:47PM EDT by NWS Tallaha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:43PM MDT by NWS Billings MT\nExpires: 2026-07-30 03:30 Z\nAt 843 PM MDT, Doppler radar was tracking an area of strong thunderstorms east of Crow Agency moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Busby, Kirby, Muddy Cluster, Northern Cheyenne Indian Reservation and Crow Indian Reservation.\nGenerated: 2026-07-30 02:55:18 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 8:43PM MDT by NWS Billings MT\nExpires: 2026-07-30 03:30 Z\nAt 843 PM MDT, Doppler radar was tracking an area of strong thunderstorms east of Crow Agency moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Busby, Kirby, Muddy Cluster, Northern Cheyenne Indian Reservation and Crow Indian Reservation.\nGenerated: 2026-07-30 03:00:26 UTC"
   45.3700, -107.4900
   45.8200, -107.2000
   45.7500, -106.9100
@@ -35,61 +52,4 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:43PM MDT by NWS Billings
   45.2500, -106.7700
   45.2500, -107.0300
   45.3700, -107.4900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:34PM MDT by NWS Grand Junction CO\nExpires: 2026-07-30 03:00 Z\nAt 834 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles southeast of Meeker, or 31 miles northwest of Glenwood Springs, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Buford.\nGenerated: 2026-07-30 02:55:18 UTC"
-  39.8100, -107.8300
-  39.8900, -107.8400
-  40.0200, -107.4700
-  39.7900, -107.4300
-  39.8100, -107.8300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 9:29PM CDT by NWS Tallahassee FL\nExpires: 2026-07-30 03:00 Z\nAt 929 PM CDT, Doppler radar was tracking a strong thunderstorm near Chipley, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Chipley, Bonifay, Bradford, Alford, Wausau, Brock Crossroad, Betts, Chipley Municipal Airport, Orange Hill, Ridgetop, Holmes Valley, Steele City, Gilberts Mill, Five Points, Round Lake, Hulaw, Smyrna, Spring Hollow, and Sunny Hills.\nGenerated: 2026-07-30 02:55:18 UTC"
-  30.8200, -85.7500
-  30.7900, -85.5700
-  30.8100, -85.4700
-  30.6400, -85.2800
-  30.5700, -85.3500
-  30.5700, -85.3800
-  30.5300, -85.3900
-  30.5100, -85.4100
-  30.5400, -85.7900
-  30.8200, -85.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:15PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-30 03:00 Z\nAt 815 PM MDT, Doppler radar was tracking a strong thunderstorm 27 miles southeast of Garrison, or 35 miles southeast of Baker, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southwestern Millard and northwestern Beaver Counties.  This includes Utah Route 21 between mile markers 20 and 41.\nGenerated: 2026-07-30 02:55:18 UTC"
-  38.6400, -114.0500
-  38.8500, -113.5400
-  38.6200, -113.3600
-  38.3000, -114.0500
-  38.6400, -114.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:10PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 03:00 Z\nAt 809 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms and gusty outflow winds near Saint Charles, or 9 miles west of Bear Lake Idaho Portion, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Montpelier, Bear Lake Idaho Portion, Saint Charles, Oneida Narrows Reservoir, Dingle, Paris, Bloomington, Bern, Minnetonka Cave, Ovid, Border Summit, Mapleton, Geneva, Fish Haven, Liberty, Pegram, Mink Creek, Emmigrant Summit, Geneva Summit, and Bennington.\nGenerated: 2026-07-30 02:55:18 UTC"
-  42.0000, -111.7500
-  42.3000, -111.7600
-  42.4100, -111.5900
-  42.4700, -111.0500
-  42.0000, -111.0500
-  42.0000, -111.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:06PM MDT by NWS Rapid City SD\nExpires: 2026-07-30 03:00 Z\nAt 806 PM MDT, automated weather station observations confirmed a line of strong thunderstorms extending from 10 miles northeast of Marcus to near Kyle North Route Housing, or extending from 17 miles southwest of Faith to 31 miles northwest of Martin, moving east at 15 MPH.  HAZARD...Wind gusts of 50 to 55 MPH and pea size hail.  SOURCE...Automated observations.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Philip, Kyle, Wall, Potato Creek, Wanblee, Milesville, Interior, Wasta, Scenic, Plainview, Quinn, Enning, Owanka, Elm Springs, Creighton, Grindstone, Cactus Flat, Bridger, Cedar Pass and Wicksville.  This includes Interstate 90 in South Dakota between Mile Markers 86 and 148.\nGenerated: 2026-07-30 02:55:18 UTC"
-  43.4100, -102.7100
-  43.8200, -102.7000
-  43.8400, -102.6900
-  43.8500, -102.6900
-  43.8600, -102.7000
-  44.1500, -102.6900
-  44.8900, -102.6500
-  44.9700, -101.6700
-  44.2300, -101.4600
-  43.4200, -101.6500
-  43.4100, -102.7100
 End:
