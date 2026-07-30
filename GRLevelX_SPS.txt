@@ -3,9 +3,25 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 18:15:17 UTC
+; Generated: 2026-07-30 18:20:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 1:03PM CDT by NWS Rapid City SD\nExpires: 2026-07-30 18:30 Z\nAt 103 PM CDT, Doppler radar was tracking a strong thunderstorm near Mission, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mission, Antelope, Haystack Butte and northern Rosebud Reservation.\nGenerated: 2026-07-30 18:15:17 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 1:15PM CDT by NWS Grand Forks ND\nExpires: 2026-07-30 18:45 Z\nAt 115 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Prosper to near Fort Ransom. These storms were nearly stationary.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Southwestern Fargo, West Fargo, Horace, Casselton, Lisbon, Enderlin, and Mapleton.  This includes Interstate 94 in North Dakota between mile markers 320 and 348.\nGenerated: 2026-07-30 18:20:18 UTC"
+  46.2800, -98.0300
+  46.5200, -98.0300
+  46.6300, -97.7500
+  46.6300, -97.6800
+  46.6700, -97.6800
+  46.8900, -97.4400
+  47.1300, -97.0100
+  46.9200, -96.8900
+  46.7300, -96.8400
+  46.6500, -97.0500
+  46.6300, -97.2800
+  46.2800, -98.0300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 1:03PM CDT by NWS Rapid City SD\nExpires: 2026-07-30 18:30 Z\nAt 103 PM CDT, Doppler radar was tracking a strong thunderstorm near Mission, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mission, Antelope, Haystack Butte and northern Rosebud Reservation.\nGenerated: 2026-07-30 18:20:18 UTC"
   43.3900, -100.8400
   43.5300, -100.5700
   43.2800, -100.4500
@@ -14,7 +30,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 1:03PM CDT by NWS Rapid Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 12:00PM MDT by NWS Rapid City SD\nExpires: 2026-07-30 18:30 Z\nAt noon MDT, Doppler radar was tracking a strong thunderstorm near Blue Bell, or 9 miles southeast of Custer, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Custer, Blue Bell, Custer State Park, Mount Coolidge, Legion Lake, Buffalo Corrals, Wind Cave National Park, Stockade Lake and State Game Lodge.\nGenerated: 2026-07-30 18:15:17 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 12:00PM MDT by NWS Rapid City SD\nExpires: 2026-07-30 18:30 Z\nAt noon MDT, Doppler radar was tracking a strong thunderstorm near Blue Bell, or 9 miles southeast of Custer, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Custer, Blue Bell, Custer State Park, Mount Coolidge, Legion Lake, Buffalo Corrals, Wind Cave National Park, Stockade Lake and State Game Lodge.\nGenerated: 2026-07-30 18:20:18 UTC"
   43.6900, -103.6000
   43.7600, -103.6300
   43.8000, -103.3300
@@ -24,7 +40,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 12:00PM MDT by NWS Rapid C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 1:00PM CDT by NWS Bismarck ND\nExpires: 2026-07-30 18:30 Z\nAt 100 PM CDT, Doppler radar was tracking an area of strong thunderstorms. One storm was located 8 miles southeast of La Moure moving northeast at 30 mph. Another group of storms were located 6 miles south of Merricourt, moving to the east-southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects.  Locations impacted include... Ellendale, Lamoure, La Moure, Verona, Fullerton, La Moure City, Merricourt City, Monango, Glover and Merricourt.\nGenerated: 2026-07-30 18:15:17 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 1:00PM CDT by NWS Bismarck ND\nExpires: 2026-07-30 18:30 Z\nAt 100 PM CDT, Doppler radar was tracking an area of strong thunderstorms. One storm was located 8 miles southeast of La Moure moving northeast at 30 mph. Another group of storms were located 6 miles south of Merricourt, moving to the east-southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects.  Locations impacted include... Ellendale, Lamoure, La Moure, Verona, Fullerton, La Moure City, Merricourt City, Monango, Glover and Merricourt.\nGenerated: 2026-07-30 18:20:18 UTC"
   46.2800, -98.6400
   46.5100, -98.1400
   46.4300, -98.0300
@@ -38,7 +54,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 1:00PM CDT by NWS Bismarck
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 12:44PM CDT by NWS Mobile AL\nExpires: 2026-07-30 18:30 Z\nAt 1243 PM CDT, Doppler radar was tracking a strong thunderstorm over Butler, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Butler, Silas, Gilbertown, and Toxey.\nGenerated: 2026-07-30 18:15:17 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 12:44PM CDT by NWS Mobile AL\nExpires: 2026-07-30 18:30 Z\nAt 1243 PM CDT, Doppler radar was tracking a strong thunderstorm over Butler, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Butler, Silas, Gilbertown, and Toxey.\nGenerated: 2026-07-30 18:20:18 UTC"
   32.1800, -88.0700
   32.1200, -88.0400
   32.1100, -88.0500
