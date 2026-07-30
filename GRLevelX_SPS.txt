@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 01:00:25 UTC
+; Generated: 2026-07-30 01:05:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:58PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:30 Z\nAt 657 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles south of Northwest INL to Idaho Falls. Movement was northeast at 45 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Rexburg, Rigby, Terreton, Lorenzo, Shelley, Ucon, Menan, Roberts, Firth, Lewisville, Mud Lake, Atomic City, Southeast Inl, Northwest Inl, East Butte, Sage Junction, Osgood, Thornton, and Kettle Butte.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 7:04PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-30 01:45 Z\nAt 704 PM MDT, Doppler radar was tracking a strong thunderstorm near North Ogden, or 9 miles northeast of Ogden, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ogden, Logan, Brigham City, Tremonton, North Ogden, Hyrum, Perry, Wellsville, Willard, Bear River City, Mantua, Corinne, Utah State University, Benson, Peter, South Willard, North Logan, Pleasant View, Providence, and Farr West.  This includes the following highways... Interstate 15 between mile markers 348 and 377. US Route 89 between mile markers 459 and 470.\nGenerated: 2026-07-30 01:05:15 UTC"
+  41.3000, -112.2000
+  41.7800, -112.1500
+  41.7800, -111.6200
+  41.2500, -111.5500
+  41.3000, -112.2000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 29 at 8:03PM CDT by NWS Jackson MS\nExpires: 2026-07-30 01:45 Z\nAt 802 PM CDT, Doppler radar was tracking a strong thunderstorm over Coila, or 9 miles south of Carrollton, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southern Carroll County.\nGenerated: 2026-07-30 01:05:15 UTC"
+  33.3200, -90.0800
+  33.4800, -90.0200
+  33.4000, -89.7600
+  33.2400, -89.8400
+  33.3200, -90.0800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 29 at 6:58PM MDT by NWS Pocatello ID\nExpires: 2026-07-30 01:30 Z\nAt 657 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles south of Northwest INL to Idaho Falls. Movement was northeast at 45 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Rexburg, Rigby, Terreton, Lorenzo, Shelley, Ucon, Menan, Roberts, Firth, Lewisville, Mud Lake, Atomic City, Southeast Inl, Northwest Inl, East Butte, Sage Junction, Osgood, Thornton, and Kettle Butte.\nGenerated: 2026-07-30 01:05:15 UTC"
   43.9600, -112.8200
   43.8200, -111.6900
   43.2700, -112.2200
@@ -14,7 +32,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:58PM MDT by NWS Pocatell
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:58PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-30 02:00 Z\nAt 858 PM EDT, Doppler radar was tracking a strong thunderstorm over Manattee Road, or near Chiefland, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Williston, Chiefland, Bronson, Williston Highlands, East Bronson, Andrews, Williston Municipal Airport, Manattee Road, Fowlers Bluff, Inglis, Fanning Springs, Otter Creek, Manatee Springs State Park, and Lebanon.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 8:58PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-30 02:00 Z\nAt 858 PM EDT, Doppler radar was tracking a strong thunderstorm over Manattee Road, or near Chiefland, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Williston, Chiefland, Bronson, Williston Highlands, East Bronson, Andrews, Williston Municipal Airport, Manattee Road, Fowlers Bluff, Inglis, Fanning Springs, Otter Creek, Manatee Springs State Park, and Lebanon.\nGenerated: 2026-07-30 01:05:15 UTC"
   29.3000, -83.1600
   29.3200, -83.1400
   29.3200, -83.1200
@@ -39,7 +57,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:58PM EDT by NWS Tampa Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 8:55PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 01:45 Z\nAt 855 PM EDT, Doppler radar was tracking a strong thunderstorm near Trenton, moving southeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Trenton, Archer, and Newberry.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 8:55PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 01:45 Z\nAt 855 PM EDT, Doppler radar was tracking a strong thunderstorm near Trenton, moving southeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Trenton, Archer, and Newberry.\nGenerated: 2026-07-30 01:05:15 UTC"
   29.7000, -82.9000
   29.7700, -82.6700
   29.4900, -82.4300
@@ -55,7 +73,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 8:55PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:50PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-30 01:30 Z\nAt 650 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles east of Park Valley, or 20 miles southwest of Snowville, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Snowville and Curlew Junction.  This includes the following highways... Interstate 84 between mile markers 0 and 19. Utah Route 30 between mile markers 62 and 90.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:50PM MDT by NWS Salt Lake City UT\nExpires: 2026-07-30 01:30 Z\nAt 650 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles east of Park Valley, or 20 miles southwest of Snowville, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Snowville and Curlew Junction.  This includes the following highways... Interstate 84 between mile markers 0 and 19. Utah Route 30 between mile markers 62 and 90.\nGenerated: 2026-07-30 01:05:15 UTC"
   41.8500, -112.4700
   41.6700, -113.0600
   41.9900, -113.3700
@@ -65,7 +83,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:50PM MDT by NWS Salt Lak
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:44PM MDT by NWS Grand Junction CO\nExpires: 2026-07-30 01:15 Z\nAt 644 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles northwest of Fruita, or 32 miles northwest of Grand Junction, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Garfield, southwestern Rio Blanco and northeastern Grand Counties.  This includes Colorado 139 between mile markers 12 and 46.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:44PM MDT by NWS Grand Junction CO\nExpires: 2026-07-30 01:15 Z\nAt 644 PM MDT, Doppler radar was tracking a strong thunderstorm 23 miles northwest of Fruita, or 32 miles northwest of Grand Junction, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Garfield, southwestern Rio Blanco and northeastern Grand Counties.  This includes Colorado 139 between mile markers 12 and 46.\nGenerated: 2026-07-30 01:05:15 UTC"
   39.2500, -109.1300
   39.3400, -109.2300
   39.5100, -109.1400
@@ -76,7 +94,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:44PM MDT by NWS Grand Ju
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:43PM MDT by NWS Pueblo CO\nExpires: 2026-07-30 01:15 Z\nAt 642 PM MDT, Doppler radar was tracking a strong thunderstorm near Walsenburg, or 38 miles south of Pueblo. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and nickel size hail and torrential rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Heavy rainfall could cause ponding of water on paved road surfaces, washouts on dirt roads, and quick runoff causing high flows in area creeks, streams and normally dry washouts.  Locations impacted include... Walsenburg.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:43PM MDT by NWS Pueblo CO\nExpires: 2026-07-30 01:15 Z\nAt 642 PM MDT, Doppler radar was tracking a strong thunderstorm near Walsenburg, or 38 miles south of Pueblo. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and nickel size hail and torrential rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Heavy rainfall could cause ponding of water on paved road surfaces, washouts on dirt roads, and quick runoff causing high flows in area creeks, streams and normally dry washouts.  Locations impacted include... Walsenburg.\nGenerated: 2026-07-30 01:05:15 UTC"
   37.6900, -105.0200
   37.9600, -104.6900
   37.8300, -104.3100
@@ -85,7 +103,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:43PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:42PM MDT by NWS Riverton WY\nExpires: 2026-07-30 01:30 Z\nAt 641 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles northeast of Palisades Reservoir to 14 miles south of Wayan. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  Several automated sensors in eastern Idaho have reprted wind gusts between 50 and 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Alpine and Freedom around 645 PM MDT. Star Valley Ranch around 650 PM MDT. Thayne, Stewart Peak, and Star Valley Rest Area around 655 PM MDT. Hoback around 700 PM MDT.  Other locations in the path of these storms include Afton, Turnerville, and Grover.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:42PM MDT by NWS Riverton WY\nExpires: 2026-07-30 01:30 Z\nAt 641 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 8 miles northeast of Palisades Reservoir to 14 miles south of Wayan. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  Several automated sensors in eastern Idaho have reprted wind gusts between 50 and 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Alpine and Freedom around 645 PM MDT. Star Valley Ranch around 650 PM MDT. Thayne, Stewart Peak, and Star Valley Rest Area around 655 PM MDT. Hoback around 700 PM MDT.  Other locations in the path of these storms include Afton, Turnerville, and Grover.\nGenerated: 2026-07-30 01:05:15 UTC"
   43.4000, -111.0400
   43.4000, -110.5600
   42.6300, -110.6400
@@ -94,7 +112,7 @@ Line: 2,,"Special Weather Statement issued July 29 at 6:42PM MDT by NWS Riverton
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 29 at 6:31PM MDT by NWS Albuquerque NM\nExpires: 2026-07-30 01:15 Z\nAt 631 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Acoma Pueblo, or 25 miles south of Laguna Pueblo, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Laguna Pueblo, Acoma Pueblo and Mesita.  This includes Interstate 40 between Mile Markers 112 and 115.\nGenerated: 2026-07-30 01:00:25 UTC"
+Line: 2,,"Special Weather Statement issued July 29 at 6:31PM MDT by NWS Albuquerque NM\nExpires: 2026-07-30 01:15 Z\nAt 631 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Acoma Pueblo, or 25 miles south of Laguna Pueblo, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Laguna Pueblo, Acoma Pueblo and Mesita.  This includes Interstate 40 between Mile Markers 112 and 115.\nGenerated: 2026-07-30 01:05:15 UTC"
   34.8600, -107.6400
   35.0600, -107.3700
   34.8700, -107.2100
