@@ -3,13 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 08:25:17 UTC
+; Generated: 2026-07-30 08:35:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 1:39AM MDT by NWS Boise ID\nExpires: 2026-07-30 08:30 Z\nAt 138 AM MDT, Doppler radar was tracking a gust front along a line extending from Lucky Peak Spring Shores Marina to near Swan Falls. Movement was northwest at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible.  Locations impacted include... Boise, Nampa, Caldwell, Meridian, Eagle, Kuna, Garden City, Star, Middleton, Melba, Blacks Creek Reservoir, Aldape Summit, Guffey, Hidden Springs, Firebird Speedway, Givens Hot Springs, Initial Point, Lake Lowell, Elephant Butte, and Walters Ferry.\nGenerated: 2026-07-30 08:25:17 UTC"
-  43.3900, -116.8400
-  43.4500, -116.8800
-  43.9200, -116.3000
-  43.6100, -115.9600
-  43.2400, -116.4100
-  43.3900, -116.8400
+Line: 2,,"Special Weather Statement issued July 30 at 3:33AM CDT by NWS Tallahassee FL\nExpires: 2026-07-30 09:00 Z\nAt 333 AM CDT, Doppler radar was tracking a strong thunderstorm near Eglin Air Force Base, or 8 miles west of De Funiak Springs, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Funiak Springs, Eglin Air Force Base, Freeport, Pond Creek, Oakwood Hills, Fox Hill, Douglass Crossroad, Alpine Heights, De Funiak Spring Airport, Rock Hill, Eucheeanna, Pleasant Ridge, New Home, Argyle, and Mossy Head.\nGenerated: 2026-07-30 08:35:15 UTC"
+  30.8700, -86.3900
+  30.7200, -86.0400
+  30.7100, -86.0400
+  30.7000, -86.0000
+  30.6900, -85.9700
+  30.5300, -86.1000
+  30.5300, -86.2800
+  30.5800, -86.3900
+  30.8700, -86.3900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 4:30AM EDT by NWS Tallahassee FL\nExpires: 2026-07-30 09:00 Z\nAt 430 AM EDT, Doppler radar was tracking a strong thunderstorm near Quincy, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Tallahassee State College, Quincy, Midway, Havana, Freemont, Littman, Florence, Scotland, Orchard Pond, Messer Park, Gibson, Fred George Park, Santa Clara, Shady Rest, Silver Lake Rec Area, Lake Jackson, Quincy Airport, Branchville, and Dogtown.\nGenerated: 2026-07-30 08:35:15 UTC"
+  30.5400, -84.6500
+  30.6900, -84.5300
+  30.5600, -84.2300
+  30.3400, -84.4000
+  30.5400, -84.6500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 3:27AM CDT by NWS North Platte NE\nExpires: 2026-07-30 09:00 Z\nAt 327 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of Springview to near Ainsworth to 8 miles south of Johnstown. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ainsworth, Bassett, Long Pine, Hofeld Lake, Keller Park State Recreation Area, Raven, Thomas Creek State Wildlife Management Area, Pine Glen State Wildlife Refuge, Jones Lake, Moon Lake, Twin Lakes State Wildlife Management Area, and Johnsons Corner.  This includes the following highways... Highway 183 between mile markers 162 and 213. Highway 20 between mile markers 239 and 267. Highway 12 near mile marker 50.\nGenerated: 2026-07-30 08:35:15 UTC"
+  42.6100, -99.3600
+  42.2900, -99.4900
+  42.1500, -99.9200
+  42.4700, -100.2200
+  42.5700, -99.8800
+  42.8300, -99.7700
+  42.6100, -99.3600
 End:
