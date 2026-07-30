@@ -3,9 +3,9 @@ Title: Flood Warnings
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 23:30:25 UTC
+; Generated: 2026-07-30 23:45:25 UTC
 Color: 0 200 0
-Line: 2,,"Flood Warning issued July 30 at 5:35PM CDT until July 30 at 11:30PM CDT by NWS Aberdeen SD\nExpires: 2026-07-31 04:30 Z\n* WHAT...Flooding caused by excessive rainfall is expected.\n\n* WHERE...Central Faulk County in north central South Dakota...\n\n* WHEN...Until 1130 PM CDT.\n\n* IMPACTS...Flooding of rivers, creeks, streams, and other low-lying\nand flood-prone locations is imminent or occurring. Expect many\nareas of slow moving or standing water. It will take several hours\nfor all the water from these storms to work through local drainage\nsystems in urban areas.\n\n* ADDITIONAL DETAILS...\n- At 534 PM CDT, Doppler radar indicated heavy rain due to\nthunderstorms. Flooding is ongoing or expected to begin shortly\nin the warned area. Bet... (full details at weather.gov)\nGenerated: 2026-07-30 23:30:25 UTC"
+Line: 2,,"Flood Warning issued July 30 at 5:35PM CDT until July 30 at 11:30PM CDT by NWS Aberdeen SD\nExpires: 2026-07-31 04:30 Z\n* WHAT...Flooding caused by excessive rainfall is expected.\n\n* WHERE...Central Faulk County in north central South Dakota...\n\n* WHEN...Until 1130 PM CDT.\n\n* IMPACTS...Flooding of rivers, creeks, streams, and other low-lying\nand flood-prone locations is imminent or occurring. Expect many\nareas of slow moving or standing water. It will take several hours\nfor all the water from these storms to work through local drainage\nsystems in urban areas.\n\n* ADDITIONAL DETAILS...\n- At 534 PM CDT, Doppler radar indicated heavy rain due to\nthunderstorms. Flooding is ongoing or expected to begin shortly\nin the warned area. Bet... (full details at weather.gov)\nGenerated: 2026-07-30 23:45:25 UTC"
   45.1100, -99.2300
   45.1100, -99.1200
   45.0200, -99.1100
@@ -16,18 +16,7 @@ Line: 2,,"Flood Warning issued July 30 at 5:35PM CDT until July 30 at 11:30PM CD
 End:
 
 Color: 0 200 0
-Line: 2,,"Flood Warning issued July 30 at 2:05PM CDT by NWS Corpus Christi TX\nExpires: 2026-07-31 12:00 Z\n...The Flood Warning continues for the following rivers in Texas...\n\nNueces River Near Three Rivers affecting Live Oak County.\n\nNueces River Near Tilden affecting McMullen County.\n\nFor the Nueces River...including Cotulla, Tilden, Three Rivers,\nMathis, Bluntzer, Calallen...Major flooding is forecast.\n\n- Forecast...The river is expected to fall to 17.2 feet early\nTuesday afternoon.\n- Flood stage is 14.0 feet.\n- http://www.weather.gov/safety/flood\nGenerated: 2026-07-30 23:30:25 UTC"
-  28.1700, -98.8000
-  28.3600, -98.5900
-  28.4500, -98.3300
-  28.3300, -98.3300
-  28.2600, -98.5400
-  28.0700, -98.8000
-  28.1700, -98.8000
-End:
-
-Color: 0 200 0
-Line: 2,,"Flood Warning issued July 30 at 2:05PM CDT by NWS Corpus Christi TX\nExpires: 2026-07-31 12:00 Z\n...The Flood Warning continues for the following rivers in Texas...\n\nNueces River Near Three Rivers affecting Live Oak County.\n\nNueces River Near Tilden affecting McMullen County.\n\nFor the Nueces River...including Cotulla, Tilden, Three Rivers,\nMathis, Bluntzer, Calallen...Major flooding is forecast.\n\n- Forecast...The river is expected to reach major flood in the next\nfew hours. The anticipated crest is expected to be between 39 and\n39.5 feet. Crest timing has been delayed to early Saturday\nmorning.\n- Flood stage is 25.0 feet.\n- http://www.weather.gov/safety/flood\nGenerated: 2026-07-30 23:30:25 UTC"
+Line: 2,,"Flood Warning issued July 30 at 2:05PM CDT by NWS Corpus Christi TX\nExpires: 2026-07-31 12:00 Z\n...The Flood Warning continues for the following rivers in Texas...\n\nNueces River Near Three Rivers affecting Live Oak County.\n\nNueces River Near Tilden affecting McMullen County.\n\nFor the Nueces River...including Cotulla, Tilden, Three Rivers,\nMathis, Bluntzer, Calallen...Major flooding is forecast.\n\n- Forecast...The river is expected to reach major flood in the next\nfew hours. The anticipated crest is expected to be between 39 and\n39.5 feet. Crest timing has been delayed to early Saturday\nmorning.\n- Flood stage is 25.0 feet.\n- http://www.weather.gov/safety/flood\nGenerated: 2026-07-30 23:45:25 UTC"
   28.4300, -98.3300
   28.5000, -98.0800
   28.1500, -97.8600
@@ -35,4 +24,15 @@ Line: 2,,"Flood Warning issued July 30 at 2:05PM CDT by NWS Corpus Christi TX\nE
   28.3600, -98.1500
   28.3300, -98.3300
   28.4300, -98.3300
+End:
+
+Color: 0 200 0
+Line: 2,,"Flood Warning issued July 30 at 2:05PM CDT by NWS Corpus Christi TX\nExpires: 2026-07-31 12:00 Z\n...The Flood Warning continues for the following rivers in Texas...\n\nNueces River Near Three Rivers affecting Live Oak County.\n\nNueces River Near Tilden affecting McMullen County.\n\nFor the Nueces River...including Cotulla, Tilden, Three Rivers,\nMathis, Bluntzer, Calallen...Major flooding is forecast.\n\n- Forecast...The river is expected to fall to 17.2 feet early\nTuesday afternoon.\n- Flood stage is 14.0 feet.\n- http://www.weather.gov/safety/flood\nGenerated: 2026-07-30 23:45:25 UTC"
+  28.1700, -98.8000
+  28.3600, -98.5900
+  28.4500, -98.3300
+  28.3300, -98.3300
+  28.2600, -98.5400
+  28.0700, -98.8000
+  28.1700, -98.8000
 End:
