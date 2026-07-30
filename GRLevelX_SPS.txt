@@ -3,9 +3,43 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-30 20:15:31 UTC
+; Generated: 2026-07-30 20:20:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 4:13PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:45 Z\nAt 413 PM EDT, Doppler radar was tracking a strong thunderstorm near Sanderson, or 17 miles north of Raiford, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Macclenny, Glen St. Mary, Sanderson, and Ellerbee.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 2:18PM MDT by NWS Rapid City SD\nExpires: 2026-07-30 21:00 Z\nAt 218 PM MDT, Automated observations a strong thunderstorm near Spearfish, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Automated observations.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Spearfish, Sturgis, Belle Fourche, Lead, Deadwood, Whitewood, Saint Onge, Central City, Fruitdale, Galena, Brownsville, Bridal Veil Falls, Apple Springs, northern Spearfish Canyon, Crow Peak, Fort Meade and Bear Butte State Park.  This includes Interstate 90 in South Dakota between Mile Markers 1 and 32.\nGenerated: 2026-07-30 20:20:16 UTC"
+  44.5600, -104.0600
+  44.7400, -103.9400
+  44.7200, -103.7200
+  44.4900, -103.4100
+  44.4800, -103.3900
+  44.2400, -103.6800
+  44.5500, -104.0600
+  44.5600, -104.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 3:15PM CDT by NWS Birmingham AL\nExpires: 2026-07-30 21:00 Z\nAt 315 PM CDT, Doppler radar was tracking a strong thunderstorm near Dannelly Reservoir, or 13 miles north of Camden, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dannelly Reservoir, Crumptonia, and Tilden.\nGenerated: 2026-07-30 20:20:16 UTC"
+  32.0600, -87.1800
+  32.0700, -87.1900
+  32.0800, -87.1900
+  32.1000, -87.2300
+  32.1200, -87.2400
+  32.1200, -87.2600
+  32.1400, -87.2500
+  32.1500, -87.2800
+  32.1700, -87.2900
+  32.1600, -87.3000
+  32.1800, -87.3200
+  32.2000, -87.3200
+  32.2000, -87.3600
+  32.2200, -87.3700
+  32.2800, -87.2000
+  32.0500, -87.0300
+  32.0500, -87.1800
+  32.0600, -87.1800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 4:13PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:45 Z\nAt 413 PM EDT, Doppler radar was tracking a strong thunderstorm near Sanderson, or 17 miles north of Raiford, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Macclenny, Glen St. Mary, Sanderson, and Ellerbee.\nGenerated: 2026-07-30 20:20:16 UTC"
   30.4000, -82.3700
   30.3100, -82.0500
   30.2900, -82.0500
@@ -15,7 +49,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 4:13PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 2:05PM MDT by NWS Pueblo CO\nExpires: 2026-07-30 20:45 Z\nAt 205 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles northwest of Tyrone, or 32 miles north of Trinidad, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Delhi and Thatcher.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 2:05PM MDT by NWS Pueblo CO\nExpires: 2026-07-30 20:45 Z\nAt 205 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles northwest of Tyrone, or 32 miles north of Trinidad, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Delhi and Thatcher.\nGenerated: 2026-07-30 20:20:16 UTC"
   37.5100, -104.3900
   37.6900, -104.3800
   37.7200, -103.9900
@@ -24,7 +58,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 2:05PM MDT by NWS Pueblo C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 2:03PM MDT by NWS Rapid City SD\nExpires: 2026-07-30 20:30 Z\nAt 203 PM MDT, Doppler radar was tracking a strong thunderstorm near Belle Fourche, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Spearfish, Belle Fourche, Saint Onge, Bridal Veil Falls and northern Spearfish Canyon.  This includes Interstate 90 in South Dakota between Mile Markers 2 and 16.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 2:03PM MDT by NWS Rapid City SD\nExpires: 2026-07-30 20:30 Z\nAt 203 PM MDT, Doppler radar was tracking a strong thunderstorm near Belle Fourche, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Spearfish, Belle Fourche, Saint Onge, Bridal Veil Falls and northern Spearfish Canyon.  This includes Interstate 90 in South Dakota between Mile Markers 2 and 16.\nGenerated: 2026-07-30 20:20:16 UTC"
   44.6500, -104.1500
   44.7900, -103.9200
   44.5700, -103.6400
@@ -33,7 +67,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 2:03PM MDT by NWS Rapid Ci
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 3:02PM CDT by NWS Mobile AL\nExpires: 2026-07-30 20:45 Z\nAt 302 PM CDT, Doppler radar was tracking a strong thunderstorm over Lockhart, or near Florala, moving south at 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Florala, Laurel Hill, and Lockhart.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 3:02PM CDT by NWS Mobile AL\nExpires: 2026-07-30 20:45 Z\nAt 302 PM CDT, Doppler radar was tracking a strong thunderstorm over Lockhart, or near Florala, moving south at 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Florala, Laurel Hill, and Lockhart.\nGenerated: 2026-07-30 20:20:16 UTC"
   30.9900, -86.3900
   30.8100, -86.3900
   30.8100, -86.4800
@@ -44,7 +78,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 3:02PM CDT by NWS Mobile A
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 3:59PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:45 Z\nAt 358 PM EDT, Doppler radar was tracking a strong thunderstorm near Middleburg, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Middleburg, Maxville, Kingsley, Camp Blanding, Penney Farms, Lawtey, and Asbury Lake.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 3:59PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:45 Z\nAt 358 PM EDT, Doppler radar was tracking a strong thunderstorm near Middleburg, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Middleburg, Maxville, Kingsley, Camp Blanding, Penney Farms, Lawtey, and Asbury Lake.\nGenerated: 2026-07-30 20:20:16 UTC"
   30.1000, -82.1400
   30.2300, -82.0200
   30.0600, -81.7400
@@ -53,7 +87,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 3:59PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 3:55PM EDT by NWS Tallahassee FL\nExpires: 2026-07-30 20:30 Z\nAt 355 PM EDT/255 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles south of Vernon to 9 miles south of Blountstown. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Panama City, Lynn Haven, Blountstown, Springfield, Hiland Park, Stonemill Creek, Wewahitchka, Orange, Bristol, Ebro, Moose Pond, Clarksville, Abe Springs, Chipola Cutoff, Dirego Park, College Station, Chipola, Scotts Ferry, Holmes Valley, and Kennys Mill.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 3:55PM EDT by NWS Tallahassee FL\nExpires: 2026-07-30 20:30 Z\nAt 355 PM EDT/255 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 13 miles south of Vernon to 9 miles south of Blountstown. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Panama City, Lynn Haven, Blountstown, Springfield, Hiland Park, Stonemill Creek, Wewahitchka, Orange, Bristol, Ebro, Moose Pond, Clarksville, Abe Springs, Chipola Cutoff, Dirego Park, College Station, Chipola, Scotts Ferry, Holmes Valley, and Kennys Mill.\nGenerated: 2026-07-30 20:20:16 UTC"
   30.5600, -85.8900
   30.5900, -85.6800
   30.5800, -85.5000
@@ -69,7 +103,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 3:55PM EDT by NWS Tallahas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 2:51PM CDT by NWS Birmingham AL\nExpires: 2026-07-30 20:30 Z\nAt 251 PM CDT, Doppler radar was tracking a strong thunderstorm near Dayton, or 7 miles southwest of Uniontown, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Uniontown, Thomaston, Dayton, Consul, Central Mills, and Dannelly Reservoir.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 2:51PM CDT by NWS Birmingham AL\nExpires: 2026-07-30 20:30 Z\nAt 251 PM CDT, Doppler radar was tracking a strong thunderstorm near Dayton, or 7 miles southwest of Uniontown, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Uniontown, Thomaston, Dayton, Consul, Central Mills, and Dannelly Reservoir.\nGenerated: 2026-07-30 20:20:16 UTC"
   32.3900, -87.7200
   32.4700, -87.5200
   32.1500, -87.2800
@@ -89,7 +123,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 2:51PM CDT by NWS Birmingh
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 2:51PM CDT by NWS Marquette MI\nExpires: 2026-07-30 20:30 Z\nAt 251 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Hermansville, or 23 miles southeast of Iron Mountain, moving southeast at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stephenson, Cedar River, Bagley, Daggett, Arthur Bay, Wallace, Swanson, Ingalls, Nathan, Wells State Park, Carbondale, and Banat.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 2:51PM CDT by NWS Marquette MI\nExpires: 2026-07-30 20:30 Z\nAt 251 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Hermansville, or 23 miles southeast of Iron Mountain, moving southeast at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stephenson, Cedar River, Bagley, Daggett, Arthur Bay, Wallace, Swanson, Ingalls, Nathan, Wells State Park, Carbondale, and Banat.\nGenerated: 2026-07-30 20:20:16 UTC"
   45.3200, -87.6700
   45.3400, -87.6500
   45.3700, -87.6600
@@ -109,7 +143,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 2:51PM CDT by NWS Marquett
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 2:50PM CDT by NWS Mobile AL\nExpires: 2026-07-30 20:30 Z\nAt 250 PM CDT, Doppler radar was tracking a strong thunderstorm near Lillian, or 9 miles west of West Pensacola. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brent, West Pensacola, Ensley, Warrington, Gonzalez, Goulding, Lillian, and Myrtle Grove.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 2:50PM CDT by NWS Mobile AL\nExpires: 2026-07-30 20:30 Z\nAt 250 PM CDT, Doppler radar was tracking a strong thunderstorm near Lillian, or 9 miles west of West Pensacola. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brent, West Pensacola, Ensley, Warrington, Gonzalez, Goulding, Lillian, and Myrtle Grove.\nGenerated: 2026-07-30 20:20:16 UTC"
   30.3900, -87.5400
   30.5900, -87.5100
   30.6300, -87.2900
@@ -124,7 +158,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 2:50PM CDT by NWS Mobile A
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 3:50PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:30 Z\nAt 350 PM EDT, Doppler radar was tracking a strong thunderstorm over Suwannee Valley, or near White Springs, moving southeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake City, White Springs, Five Points, Watertown, Winfield, and Suwannee Valley.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 3:50PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:30 Z\nAt 350 PM EDT, Doppler radar was tracking a strong thunderstorm over Suwannee Valley, or near White Springs, moving southeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake City, White Springs, Five Points, Watertown, Winfield, and Suwannee Valley.\nGenerated: 2026-07-30 20:20:16 UTC"
   30.4300, -82.6300
   30.2300, -82.4600
   30.2200, -82.4600
@@ -134,7 +168,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 3:50PM EDT by NWS Jacksonv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 3:46PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:30 Z\nAt 346 PM EDT, Doppler radar was tracking a strong thunderstorm near Talbot Island, or 10 miles east of Jacksonville International Arpt, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, Arlington, Jacksonville Beach, Atlantic Beach, Neptune Beach, Mayport, Craig Field, San Pablo, Little Talbot Island, and Fort Caroline.\nGenerated: 2026-07-30 20:15:31 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 3:46PM EDT by NWS Jacksonville FL\nExpires: 2026-07-30 20:30 Z\nAt 346 PM EDT, Doppler radar was tracking a strong thunderstorm near Talbot Island, or 10 miles east of Jacksonville International Arpt, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, Arlington, Jacksonville Beach, Atlantic Beach, Neptune Beach, Mayport, Craig Field, San Pablo, Little Talbot Island, and Fort Caroline.\nGenerated: 2026-07-30 20:20:16 UTC"
   30.3000, -81.6800
   30.3400, -81.6700
   30.3500, -81.6700
