@@ -3,9 +3,43 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-07-31 01:10:20 UTC
+; Generated: 2026-07-31 01:15:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 9:08PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-31 02:00 Z\nAt 908 PM EDT, Doppler radar was tracking a strong thunderstorm near Fowlers Bluff, or 9 miles southwest of Chiefland, moving east at 20 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Williston, Chiefland, Bronson, Williston Highlands, East Bronson, Fowlers Bluff, Andrews, Williston Municipal Airport, Manattee Road, Fanning Springs, Otter Creek, and Manatee Springs State Park.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 8:12PM CDT by NWS North Platte NE\nExpires: 2026-07-31 01:30 Z\nAt 812 PM CDT, Doppler radar was tracking a strong thunderstorm near Oconto, or 21 miles north of Lexington, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oconto.\nGenerated: 2026-07-31 01:15:22 UTC"
+  41.0600, -99.9100
+  41.2000, -99.7300
+  41.0500, -99.4200
+  41.0500, -99.8900
+  41.0600, -99.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 9:11PM EDT by NWS Jacksonville FL\nExpires: 2026-07-31 02:15 Z\nAt 911 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout 7 miles south of Obrien, or 11 miles west of Ichetucknee Spring, moving southeast at 30 mph.  HAZARD...Landspouts, wind gusts of 50 to 55 mph, excessive cloud-to- ground lightning, and pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Trenton, Bell, Ichetucknee Spring, Alachua, High Springs, Archer, Fort White, Newberry, Branford, and Hildreth.\nGenerated: 2026-07-31 01:15:22 UTC"
+  29.8900, -82.4200
+  29.4800, -82.4500
+  29.4800, -82.5500
+  29.5400, -82.5600
+  29.5300, -82.6500
+  29.5600, -82.6600
+  29.5900, -82.9600
+  29.6200, -82.9700
+  29.7000, -82.9400
+  29.7200, -82.9600
+  29.7700, -82.9500
+  29.8000, -82.9200
+  29.8100, -82.9300
+  29.8300, -82.8900
+  29.8800, -82.8700
+  29.9000, -82.9000
+  29.8900, -82.9200
+  29.9600, -82.9300
+  29.9600, -82.9500
+  30.0300, -83.0100
+  29.8900, -82.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued July 30 at 9:08PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-07-31 02:00 Z\nAt 908 PM EDT, Doppler radar was tracking a strong thunderstorm near Fowlers Bluff, or 9 miles southwest of Chiefland, moving east at 20 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Williston, Chiefland, Bronson, Williston Highlands, East Bronson, Fowlers Bluff, Andrews, Williston Municipal Airport, Manattee Road, Fanning Springs, Otter Creek, and Manatee Springs State Park.\nGenerated: 2026-07-31 01:15:22 UTC"
   29.5800, -82.7800
   29.5600, -82.7500
   29.5700, -82.6600
@@ -30,7 +64,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 9:08PM EDT by NWS Tampa Ba
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 8:04PM CDT by NWS Amarillo TX\nExpires: 2026-07-31 01:30 Z\nAt 804 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Keyes, or 16 miles southwest of Elkhart, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Keyes, Eva, and Sturgis.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 8:04PM CDT by NWS Amarillo TX\nExpires: 2026-07-31 01:30 Z\nAt 804 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Keyes, or 16 miles southwest of Elkhart, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Keyes, Eva, and Sturgis.\nGenerated: 2026-07-31 01:15:22 UTC"
   36.9900, -101.6500
   36.7100, -101.8000
   36.7400, -102.3000
@@ -40,7 +74,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 8:04PM CDT by NWS Amarillo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 8:04PM CDT by NWS North Platte NE\nExpires: 2026-07-31 01:45 Z\nAt 804 PM CDT, Doppler radar was tracking a strong thunderstorm over North Platte Airport, or near North Platte, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... North Platte, Brady, Maxwell, Lake Maloney State Recreation Area, North Platte Airport, Keith, Cottonwood Canyon State Wildlife Management Area, and Jeffrey Canyon State Wildlife Management Area.  This includes the following highways... Interstate 80 in Nebraska between mile markers 175 and 203. Highway 83 between mile markers 71 and 84.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 8:04PM CDT by NWS North Platte NE\nExpires: 2026-07-31 01:45 Z\nAt 804 PM CDT, Doppler radar was tracking a strong thunderstorm over North Platte Airport, or near North Platte, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... North Platte, Brady, Maxwell, Lake Maloney State Recreation Area, North Platte Airport, Keith, Cottonwood Canyon State Wildlife Management Area, and Jeffrey Canyon State Wildlife Management Area.  This includes the following highways... Interstate 80 in Nebraska between mile markers 175 and 203. Highway 83 between mile markers 71 and 84.\nGenerated: 2026-07-31 01:15:22 UTC"
   41.0300, -100.9100
   41.2500, -100.6300
   41.1400, -100.2400
@@ -49,7 +83,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 8:04PM CDT by NWS North Pl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 8:02PM CDT by NWS Amarillo TX\nExpires: 2026-07-31 01:30 Z\nAt 802 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Ware, or 16 miles west of Dalhart, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dalhart and Ware.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 8:02PM CDT by NWS Amarillo TX\nExpires: 2026-07-31 01:30 Z\nAt 802 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Ware, or 16 miles west of Dalhart, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dalhart and Ware.\nGenerated: 2026-07-31 01:15:22 UTC"
   36.0900, -103.0400
   36.1800, -102.9200
   36.2100, -102.8100
@@ -60,7 +94,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 8:02PM CDT by NWS Amarillo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 7:53PM CDT by NWS North Platte NE\nExpires: 2026-07-31 01:30 Z\nAt 752 PM CDT, Doppler radar was tracking a strong thunderstorm over Hayes Center, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hayes Center, Maywood, Quick, Bluegill Haven Campground, Willow View Campground, Hayes Center State Wildlife Management Area, and Red Willow Reservoir State Recreation Area.  This includes Highway 83 between mile markers 27 and 48.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 7:53PM CDT by NWS North Platte NE\nExpires: 2026-07-31 01:30 Z\nAt 752 PM CDT, Doppler radar was tracking a strong thunderstorm over Hayes Center, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hayes Center, Maywood, Quick, Bluegill Haven Campground, Willow View Campground, Hayes Center State Wildlife Management Area, and Red Willow Reservoir State Recreation Area.  This includes Highway 83 between mile markers 27 and 48.\nGenerated: 2026-07-31 01:15:22 UTC"
   40.3900, -101.0800
   40.6100, -101.0600
   40.6700, -100.5800
@@ -69,7 +103,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 7:53PM CDT by NWS North Pl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 7:49PM CDT by NWS Hastings NE\nExpires: 2026-07-31 01:30 Z\nAt 749 PM CDT, Doppler radar was tracking a strong thunderstorm over Oconto, or 18 miles south of Broken Bow, moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Eddyville around 805 PM CDT.  Other locations in the path of this storm include Sumner.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 7:49PM CDT by NWS Hastings NE\nExpires: 2026-07-31 01:30 Z\nAt 749 PM CDT, Doppler radar was tracking a strong thunderstorm over Oconto, or 18 miles south of Broken Bow, moving southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Eddyville around 805 PM CDT.  Other locations in the path of this storm include Sumner.\nGenerated: 2026-07-31 01:15:22 UTC"
   41.0500, -99.0900
   40.8000, -99.4400
   41.0500, -99.9100
@@ -77,7 +111,7 @@ Line: 2,,"Special Weather Statement issued July 30 at 7:49PM CDT by NWS Hastings
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 6:48PM MDT by NWS Pocatello ID\nExpires: 2026-07-31 01:30 Z\nAt 648 PM MDT, Doppler radar was tracking a strong thunderstorm near Northwest Inl, or 8 miles west of Terreton, moving east at 35 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Terreton, Roberts, Lewisville, Mud Lake, Hamer, Monteview, and Sage Junction.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 6:48PM MDT by NWS Pocatello ID\nExpires: 2026-07-31 01:30 Z\nAt 648 PM MDT, Doppler radar was tracking a strong thunderstorm near Northwest Inl, or 8 miles west of Terreton, moving east at 35 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Terreton, Roberts, Lewisville, Mud Lake, Hamer, Monteview, and Sage Junction.\nGenerated: 2026-07-31 01:15:22 UTC"
   43.6900, -112.6800
   44.0200, -112.6800
   44.0300, -112.2000
@@ -86,110 +120,11 @@ Line: 2,,"Special Weather Statement issued July 30 at 6:48PM MDT by NWS Pocatell
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 6:46PM MDT by NWS Missoula MT\nExpires: 2026-07-31 01:30 Z\nAt 646 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles east of Hamilton, moving north at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Skalkaho Pass.\nGenerated: 2026-07-31 01:10:20 UTC"
+Line: 2,,"Special Weather Statement issued July 30 at 6:46PM MDT by NWS Missoula MT\nExpires: 2026-07-31 01:30 Z\nAt 646 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles east of Hamilton, moving north at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Skalkaho Pass.\nGenerated: 2026-07-31 01:15:22 UTC"
   46.1600, -114.0700
   46.5200, -113.9800
   46.5300, -113.6500
   46.1500, -113.7400
   46.1400, -114.0800
   46.1600, -114.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 7:46PM CDT by NWS Tulsa OK\nExpires: 2026-07-31 01:15 Z\nAt 746 PM CDT, Doppler radar indicated a strong thunderstorm over Garfield, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Pea Ridge...                      Garfield... Avoca...                          Gateway... Larue...                          Hill Top... Walnut Hill...                    Busch...\nGenerated: 2026-07-31 01:10:20 UTC"
-  36.3300, -93.9300
-  36.4100, -94.1300
-  36.5000, -94.1000
-  36.5000, -93.7700
-  36.3300, -93.9300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 6:39PM MDT by NWS Pueblo CO\nExpires: 2026-07-31 01:15 Z\nAt 639 PM MDT, Doppler radar was tracking a strong thunderstorm 18 miles southwest of Fowler, or 28 miles southeast of Pueblo Airport, moving east at 30 mph.  HAZARD...Heavy rain, wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Otero and southeastern Pueblo Counties.\nGenerated: 2026-07-31 01:10:20 UTC"
-  37.8500, -104.3400
-  38.0200, -104.3200
-  38.0500, -103.9400
-  37.8900, -103.9200
-  37.7700, -103.9600
-  37.8500, -104.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 6:32PM MDT by NWS Rapid City SD\nExpires: 2026-07-31 01:15 Z\nAt 632 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 12 miles northeast of Thunder Butte to 8 miles south of Intersection of Cherry Creek and Sunnybrook Roads, or extending from 20 miles north of Dupree to 20 miles south of Dupree, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Dupree, Cherry Creek, South Eagle Butte, Red Elm, Thunder Butte, Intersection of Cherry Creek and Sunnybrook Roads, Intersection of Highway 63 and BIA Road 8 and western Cheyenne River Reservation.\nGenerated: 2026-07-31 01:10:20 UTC"
-  45.0200, -101.8200
-  45.4300, -101.7200
-  45.4100, -101.4700
-  45.3900, -101.4700
-  45.3900, -101.4900
-  45.0400, -101.4900
-  45.0400, -101.5000
-  44.9900, -101.5000
-  44.9900, -101.1400
-  44.6900, -101.1400
-  44.6900, -101.1500
-  44.5000, -101.1600
-  44.6500, -101.8400
-  45.0200, -101.8200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 8:29PM EDT by NWS Tallahassee FL\nExpires: 2026-07-31 01:15 Z\nAt 828 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Dowling Park to 13 miles west of Steinhatchee. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mayo, Cross City, Steinhatchee, Horseshoe Point, Suwannee, Horseshoe Beach, Tennille, Shamrock, Clara, Shired Island, Cross City Airport, Old Town, Jonesboro, Jack Lee Island, Grady, Hatch Bend, Salem, San Pedro Junction, Cedar Island, and Fish Creek.\nGenerated: 2026-07-31 01:10:20 UTC"
-  29.5400, -83.4800
-  29.6000, -83.4900
-  29.6900, -83.6300
-  29.7900, -83.6900
-  29.8900, -83.4800
-  30.0300, -83.3500
-  30.1100, -83.2300
-  30.0800, -83.0700
-  29.9600, -82.9300
-  29.8900, -82.9200
-  29.8800, -82.8800
-  29.7600, -82.9500
-  29.6100, -82.9700
-  29.5800, -82.9400
-  29.5400, -82.9800
-  29.4700, -82.9800
-  29.3700, -83.0700
-  29.3500, -83.0600
-  29.2900, -83.1800
-  29.2900, -83.2000
-  29.5400, -83.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 8:26PM EDT by NWS Jacksonville FL\nExpires: 2026-07-31 01:15 Z\nAt 826 PM EDT, Doppler radar was tracking a strong thunderstorm near Live Oak, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph, pea size hail, and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Live Oak, Suwannee Springs, and Newburn.\nGenerated: 2026-07-31 01:10:20 UTC"
-  30.2900, -83.2300
-  30.3100, -83.2100
-  30.3500, -83.2100
-  30.3500, -83.1900
-  30.3700, -83.1900
-  30.4000, -83.1600
-  30.4100, -82.9500
-  30.3800, -82.9100
-  30.3900, -82.9100
-  30.3800, -82.8900
-  30.3700, -82.8900
-  30.2000, -82.9800
-  30.2600, -83.2400
-  30.2700, -83.2400
-  30.2900, -83.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued July 30 at 6:18PM MDT by NWS Great Falls MT\nExpires: 2026-07-31 01:15 Z\nAt 618 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles northeast of Kilgore, or 17 miles west of Henrys Lake, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Raynolds Pass and Lakeview.\nGenerated: 2026-07-31 01:10:20 UTC"
-  44.6300, -111.8900
-  44.8500, -111.4800
-  44.7200, -111.4000
-  44.7000, -111.4900
-  44.6600, -111.4700
-  44.6400, -111.5200
-  44.5900, -111.5300
-  44.5600, -111.5100
-  44.5600, -111.5900
-  44.5500, -111.6100
-  44.5600, -111.7100
-  44.5200, -111.7600
-  44.5300, -111.8200
-  44.6300, -111.8900
 End:
