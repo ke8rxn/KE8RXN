@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-01 06:05:17 UTC
+; Generated: 2026-08-01 06:10:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 1:01AM CDT by NWS Little Rock AR\nExpires: 2026-08-01 06:30 Z\nAt 101 AM CDT, Doppler radar was tracking a strong thunderstorm near Fontaine, or near Walnut Ridge, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walnut Ridge...                   Hoxie... College City...                   Sedgwick... Dicus...                          Whiskerville... Giles Spur...\nGenerated: 2026-08-01 06:05:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 1:05AM CDT by NWS Memphis TN\nExpires: 2026-08-01 06:45 Z\nAt 104 AM CDT, Doppler radar was tracking a strong thunderstorm over Rector, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Paragould, Kennett, Caruthersville, Piggott, Portageville, Hayti, Steele, Campbell, Rector, Senath, Marmaduke, Chalk Bluff Natural Area, Clarkton, Oak Grove Heights, Cardwell, Hornersville, Holcomb, Hayti Heights, Arbyrd, and Cooter.  This includes Interstate 55 in Missouri between mile markers 3 and 31.\nGenerated: 2026-08-01 06:10:14 UTC"
+  36.5400, -89.9600
+  36.3900, -89.9700
+  36.3900, -89.7500
+  36.4300, -89.7300
+  36.4000, -89.6700
+  36.4100, -89.6200
+  36.4000, -89.5900
+  36.2500, -89.6400
+  36.2500, -89.7000
+  36.2400, -89.7100
+  36.2000, -89.6600
+  36.0300, -89.7100
+  36.0400, -90.5900
+  36.5000, -90.3400
+  36.5000, -90.2200
+  36.5200, -90.2200
+  36.5400, -90.2100
+  36.5400, -89.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 1 at 1:01AM CDT by NWS Little Rock AR\nExpires: 2026-08-01 06:30 Z\nAt 101 AM CDT, Doppler radar was tracking a strong thunderstorm near Fontaine, or near Walnut Ridge, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walnut Ridge...                   Hoxie... College City...                   Sedgwick... Dicus...                          Whiskerville... Giles Spur...\nGenerated: 2026-08-01 06:10:14 UTC"
   36.0900, -90.8000
   36.0800, -90.8200
   36.0500, -90.8300
@@ -25,7 +47,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 1:01AM CDT by NWS Little 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 12:39AM CDT by NWS Memphis TN\nExpires: 2026-08-01 06:15 Z\nAt 1239 AM CDT, Doppler radar was tracking a strong thunderstorm over Peach Orchard, or 10 miles southwest of Corning, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Paragould, Piggott, Corning, Rector, Marmaduke, Chalk Bluff Natural Area, Oak Grove Heights, Lafe, Reyno, Knobel, Pollard, O'Kean, McDougal, Success, Peach Orchard, Delaplaine, Datto, Evening Star, Beech Grove, and Crockett.\nGenerated: 2026-08-01 06:05:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 12:39AM CDT by NWS Memphis TN\nExpires: 2026-08-01 06:15 Z\nAt 1239 AM CDT, Doppler radar was tracking a strong thunderstorm over Peach Orchard, or 10 miles southwest of Corning, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Paragould, Piggott, Corning, Rector, Marmaduke, Chalk Bluff Natural Area, Oak Grove Heights, Lafe, Reyno, Knobel, Pollard, O'Kean, McDougal, Success, Peach Orchard, Delaplaine, Datto, Evening Star, Beech Grove, and Crockett.\nGenerated: 2026-08-01 06:10:14 UTC"
   36.5000, -90.1600
   36.0300, -90.3700
   36.0500, -90.8300
