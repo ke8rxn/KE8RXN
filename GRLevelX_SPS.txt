@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-02 14:05:22 UTC
+; Generated: 2026-08-02 14:10:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 2 at 8:49AM CDT by NWS New Orleans LA\nExpires: 2026-08-02 14:15 Z\nAt 849 AM CDT, Doppler radar was tracking a strong thunderstorm over Meraux, or near Chalmette, moving southeast at 30 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Orleans, Chalmette, Violet, Meraux, Shell Beach, and Poydras.\nGenerated: 2026-08-02 14:05:22 UTC"
+Line: 2,,"Special Weather Statement issued August 2 at 10:07AM EDT by NWS Tallahassee FL\nExpires: 2026-08-02 15:00 Z\nAt 1007 AM EDT/907 AM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Vernon to 6 miles east of Marianna. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chipley, Bainbridge, Marianna, West Bainbridge, Chattahoochee, Bradford, Malone, Sneads, Gretna, Cottondale, Grand Ridge, Greenwood, Altha, Alford, Wausau, Iron City, Brinson, Bascom, Rock Bluff, and Moose Pond.\nGenerated: 2026-08-02 14:10:15 UTC"
+  30.7500, -85.6600
+  30.7400, -85.6200
+  30.7700, -85.6200
+  30.8000, -85.6000
+  30.9400, -85.3200
+  31.0000, -84.9800
+  31.0300, -84.7200
+  30.9200, -84.5400
+  30.6200, -84.6400
+  30.5300, -84.9000
+  30.4900, -85.2500
+  30.5200, -85.6600
+  30.7500, -85.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 2 at 8:49AM CDT by NWS New Orleans LA\nExpires: 2026-08-02 14:15 Z\nAt 849 AM CDT, Doppler radar was tracking a strong thunderstorm over Meraux, or near Chalmette, moving southeast at 30 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... New Orleans, Chalmette, Violet, Meraux, Shell Beach, and Poydras.\nGenerated: 2026-08-02 14:10:15 UTC"
   29.9300, -89.9800
   30.0100, -89.9000
   30.0300, -89.8900
