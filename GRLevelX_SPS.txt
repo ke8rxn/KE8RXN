@@ -3,9 +3,35 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-02 01:15:17 UTC
+; Generated: 2026-08-02 01:20:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 9:13PM EDT by NWS Jackson KY\nExpires: 2026-08-02 01:45 Z\nAt 912 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Brooksville to near Carlisle to near Winchester. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Sterling, Flemingsburg, Sharpsburg, Fairview, Pecks Ridge, Reynoldsville, Sideview, Flat Creek, Stepstone, Pebble, Gatewoods Station, Prewitt, Bethel, Stoops, Ewington, Judy, Grassy Lick, Howards Mill, Wades Mill, and Nepton.  THIS INCLUDES Interstate 64 in eastern Kentucky between mile markers 105 and 117.\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 8:17PM CDT by NWS Jackson MS\nExpires: 2026-08-02 02:15 Z\nAt 817 PM CDT, Doppler radar was tracking a strong thunderstorm near Bent Oak, or near Columbus, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Columbus around 825 PM CDT. Bigbee Valley around 850 PM CDT.\nGenerated: 2026-08-02 01:20:15 UTC"
+  33.2000, -88.3200
+  33.4000, -88.6700
+  33.6300, -88.6600
+  33.6400, -88.4400
+  33.5600, -88.2700
+  33.2000, -88.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 1 at 8:16PM CDT by NWS Huntsville AL\nExpires: 2026-08-02 02:00 Z\nAt 816 PM CDT, Doppler radar was tracking a strong thunderstorm over Crossville, or 10 miles northeast of Boaz, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Payne, Rainsville, Henagar, Crossville, Sylvania, Fyffe, Powell, Geraldine, Valley Head, and Hammondville.\nGenerated: 2026-08-02 01:20:15 UTC"
+  34.4400, -85.5800
+  34.4100, -85.6100
+  34.3700, -85.6300
+  34.3600, -85.6600
+  34.2900, -85.7300
+  34.2000, -85.9700
+  34.2000, -86.0500
+  34.2800, -86.1100
+  34.4000, -86.1100
+  34.6400, -85.7200
+  34.4600, -85.5800
+  34.4400, -85.5800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 1 at 9:13PM EDT by NWS Jackson KY\nExpires: 2026-08-02 01:45 Z\nAt 912 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles south of Brooksville to near Carlisle to near Winchester. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Sterling, Flemingsburg, Sharpsburg, Fairview, Pecks Ridge, Reynoldsville, Sideview, Flat Creek, Stepstone, Pebble, Gatewoods Station, Prewitt, Bethel, Stoops, Ewington, Judy, Grassy Lick, Howards Mill, Wades Mill, and Nepton.  THIS INCLUDES Interstate 64 in eastern Kentucky between mile markers 105 and 117.\nGenerated: 2026-08-02 01:20:15 UTC"
   38.4600, -83.8700
   38.4900, -83.7700
   38.2500, -83.7500
@@ -25,7 +51,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 9:13PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 9:11PM EDT by NWS Louisville KY\nExpires: 2026-08-02 01:45 Z\nAt 911 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of Brooksville to near Carlisle to Winchester. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Winchester, Carlisle, Millersburg, North Middletown, Blacks Crossroads, Constant Station, Ellisville, Renick, Lyndale, and Stony Point.\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 9:11PM EDT by NWS Louisville KY\nExpires: 2026-08-02 01:45 Z\nAt 911 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of Brooksville to near Carlisle to Winchester. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Winchester, Carlisle, Millersburg, North Middletown, Blacks Crossroads, Constant Station, Ellisville, Renick, Lyndale, and Stony Point.\nGenerated: 2026-08-02 01:20:15 UTC"
   38.1800, -83.9900
   38.1200, -84.0800
   38.0100, -84.0100
@@ -48,7 +74,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 9:11PM EDT by NWS Louisvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 9:01PM EDT by NWS Morristown TN\nExpires: 2026-08-02 01:30 Z\nAt 901 PM EDT, Doppler radar was tracking a strong thunderstorm near Benton, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Benton, Etowah, Wildwood Lake, Conasauga, Parksville, Reliance, Bullet Creek, Archville, Hiwassee Ocoee State Park, and Gap Springs.\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 9:01PM EDT by NWS Morristown TN\nExpires: 2026-08-02 01:30 Z\nAt 901 PM EDT, Doppler radar was tracking a strong thunderstorm near Benton, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Benton, Etowah, Wildwood Lake, Conasauga, Parksville, Reliance, Bullet Creek, Archville, Hiwassee Ocoee State Park, and Gap Springs.\nGenerated: 2026-08-02 01:20:15 UTC"
   35.0500, -84.8800
   35.4100, -84.5900
   35.2500, -84.3000
@@ -58,7 +84,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 9:01PM EDT by NWS Morrist
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 7:01PM MDT by NWS Albuquerque NM\nExpires: 2026-08-02 01:30 Z\nAt 701 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 13 miles north of Texico to 15 miles northwest of Kenna, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis, Portales, Texico, Elida, Dora, Oasis State Park, Saint Vrain, Cannon Air Force Base, Ranchvale and Arch.  This includes Highway 60 between Mile Markers 366 and 397.\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 7:01PM MDT by NWS Albuquerque NM\nExpires: 2026-08-02 01:30 Z\nAt 701 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 13 miles north of Texico to 15 miles northwest of Kenna, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis, Portales, Texico, Elida, Dora, Oasis State Park, Saint Vrain, Cannon Air Force Base, Ranchvale and Arch.  This includes Highway 60 between Mile Markers 366 and 397.\nGenerated: 2026-08-02 01:20:15 UTC"
   34.2000, -104.1300
   34.4400, -103.5500
   34.7500, -103.1500
@@ -70,7 +96,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 7:01PM MDT by NWS Albuque
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 6:59PM MDT by NWS Albuquerque NM\nExpires: 2026-08-02 01:45 Z\nAt 659 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 10 miles northwest of Elkins to 22 miles south of Mesa, moving south at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roswell, Bitter Lake Wildlife Refuge, Bottomless Lakes State Park, Elkins and Midway.  This includes the following highways... Highway 380 between Mile Markers 156 and 189. Highway 285 between Mile Markers 97 and 143.\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 6:59PM MDT by NWS Albuquerque NM\nExpires: 2026-08-02 01:45 Z\nAt 659 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 10 miles northwest of Elkins to 22 miles south of Mesa, moving south at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roswell, Bitter Lake Wildlife Refuge, Bottomless Lakes State Park, Elkins and Midway.  This includes the following highways... Highway 380 between Mile Markers 156 and 189. Highway 285 between Mile Markers 97 and 143.\nGenerated: 2026-08-02 01:20:15 UTC"
   33.8900, -104.8900
   33.8700, -104.5400
   34.0000, -104.1200
@@ -82,7 +108,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 6:59PM MDT by NWS Albuque
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 7:55PM CDT by NWS Birmingham AL\nExpires: 2026-08-02 01:30 Z\nAt 755 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles south of Vernon to Steens. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Millport, Kennedy, Hightogy, Cody, Melborne, and Star.\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 7:55PM CDT by NWS Birmingham AL\nExpires: 2026-08-02 01:30 Z\nAt 755 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles south of Vernon to Steens. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Millport, Kennedy, Hightogy, Cody, Melborne, and Star.\nGenerated: 2026-08-02 01:20:15 UTC"
   33.7100, -88.2600
   33.7200, -88.2400
   33.7000, -87.9500
@@ -92,7 +118,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 7:55PM CDT by NWS Birming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 8:53PM EDT by NWS Jackson KY\nExpires: 2026-08-02 01:30 Z\nAt 852 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northwest of Bee Lick to near Cains Store. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cains Store, Stab, Nancy, Hogue, Pointer, Faubush, Magnum, Pulaski, Eubank, and Mintonville.  THIS INCLUDES Louis B. Nunn Parkway\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 8:53PM EDT by NWS Jackson KY\nExpires: 2026-08-02 01:30 Z\nAt 852 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northwest of Bee Lick to near Cains Store. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cains Store, Stab, Nancy, Hogue, Pointer, Faubush, Magnum, Pulaski, Eubank, and Mintonville.  THIS INCLUDES Louis B. Nunn Parkway\nGenerated: 2026-08-02 01:20:15 UTC"
   37.1200, -84.9000
   37.1900, -84.7900
   37.3600, -84.5600
@@ -105,7 +131,7 @@ Line: 2,,"Special Weather Statement issued August 1 at 8:53PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 1 at 7:42PM CDT by NWS Nashville TN\nExpires: 2026-08-02 01:30 Z\nAt 742 PM CDT, Doppler radar was tracking a strong thunderstorm near Livingston, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston, Celina, Byrdstown, Algood, Wolf River Dock, Crawford, Huntersville, Dale Hollow Lake, Rickman, Static, and Standing Stone State Park.\nGenerated: 2026-08-02 01:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 1 at 7:42PM CDT by NWS Nashville TN\nExpires: 2026-08-02 01:30 Z\nAt 742 PM CDT, Doppler radar was tracking a strong thunderstorm near Livingston, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Livingston, Celina, Byrdstown, Algood, Wolf River Dock, Crawford, Huntersville, Dale Hollow Lake, Rickman, Static, and Standing Stone State Park.\nGenerated: 2026-08-02 01:20:15 UTC"
   36.6200, -85.0300
   36.2900, -84.9000
   36.2000, -85.4800
