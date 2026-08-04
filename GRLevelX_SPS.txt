@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-04 00:10:16 UTC
+; Generated: 2026-08-04 00:15:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 3 at 8:08PM EDT by NWS Raleigh NC\nExpires: 2026-08-04 01:15 Z\nAt 808 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Fremont to 11 miles west of Goldsboro. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Goldsboro, Fremont, Walnut Creek, Kenly, Princeton, Lucama, Stantonsburg, Black Creek, Pikeville, and Saratoga.  This includes the following highways... Interstate 95 near Mile Marker 106. NC Highway 264 near Mile Marker 56.\nGenerated: 2026-08-04 00:10:16 UTC"
+Line: 2,,"Special Weather Statement issued August 3 at 8:12PM EDT by NWS Raleigh NC\nExpires: 2026-08-04 01:15 Z\nAt 812 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 10 miles south of Smithfield to 9 miles northeast of Pope AFB. These storms were nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Smithfield, Lillington, Fort Bragg, Dunn, Benson, Pope AAF, Spring Lake, Erwin, Coats, and Four Oaks.  This includes the following highways... Interstate 95 between Mile Markers 93 and 70. Interstate 40 between Mile Markers 320 and 338.\nGenerated: 2026-08-04 00:15:19 UTC"
+  35.1500, -79.0900
+  35.3900, -79.1800
+  35.5500, -78.3400
+  35.3000, -78.2900
+  35.2600, -78.4900
+  35.3200, -78.5400
+  35.3000, -78.5800
+  35.2700, -78.5800
+  35.2400, -78.6200
+  35.1500, -79.0900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 3 at 8:08PM EDT by NWS Raleigh NC\nExpires: 2026-08-04 01:15 Z\nAt 808 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Fremont to 11 miles west of Goldsboro. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Goldsboro, Fremont, Walnut Creek, Kenly, Princeton, Lucama, Stantonsburg, Black Creek, Pikeville, and Saratoga.  This includes the following highways... Interstate 95 near Mile Marker 106. NC Highway 264 near Mile Marker 56.\nGenerated: 2026-08-04 00:15:19 UTC"
   35.5700, -77.8200
   35.4300, -77.8300
   35.4000, -77.8000
@@ -19,7 +33,7 @@ Line: 2,,"Special Weather Statement issued August 3 at 8:08PM EDT by NWS Raleigh
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 3 at 7:53PM EDT by NWS Jacksonville FL\nExpires: 2026-08-04 00:30 Z\nAt 753 PM EDT, Doppler radar was tracking a strong thunderstorm over Lake Park, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jasper, Jennings, Statenville, Crossroads, and Mayday.\nGenerated: 2026-08-04 00:10:16 UTC"
+Line: 2,,"Special Weather Statement issued August 3 at 7:53PM EDT by NWS Jacksonville FL\nExpires: 2026-08-04 00:30 Z\nAt 753 PM EDT, Doppler radar was tracking a strong thunderstorm over Lake Park, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jasper, Jennings, Statenville, Crossroads, and Mayday.\nGenerated: 2026-08-04 00:15:19 UTC"
   30.6300, -83.1400
   30.7900, -83.1300
   30.8000, -83.1300
@@ -36,24 +50,4 @@ Line: 2,,"Special Weather Statement issued August 3 at 7:53PM EDT by NWS Jackson
   30.5900, -83.2600
   30.6300, -83.2800
   30.6300, -83.1400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 3 at 5:43PM MDT by NWS North Platte NE\nExpires: 2026-08-04 00:15 Z\nAt 542 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Pleasant Valley, or 17 miles southeast of Holyoke, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Champion around 605 PM MDT.  Other locations impacted by this storm include Crete, Wanamaker State Wildfire Management Area, Church Grove Campground, and Chase.  This includes Highway 61 between mile markers 41 and 48.\nGenerated: 2026-08-04 00:10:16 UTC"
-  40.5400, -102.0500
-  40.6300, -101.6100
-  40.3500, -101.5400
-  40.3500, -102.0500
-  40.5400, -102.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 3 at 7:10PM EDT by NWS Raleigh NC\nExpires: 2026-08-04 00:15 Z\nAt 709 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 7 miles northwest of Fremont to 7 miles east of Pope AAF. These storms were nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fayetteville, Smithfield, Lillington, Fort Bragg, Wilson, Clayton, Dunn, Angier, Benson, and Fremont.  This includes the following highways... Interstate 95 between Mile Markers 121 and 52. Interstate 40 between Mile Markers 312 and 340. NC Highway 264 between Mile Markers 25 and 51.\nGenerated: 2026-08-04 00:10:16 UTC"
-  35.0300, -78.7600
-  35.1500, -79.1100
-  35.1900, -79.1000
-  35.2500, -79.1700
-  35.8600, -78.1400
-  35.6300, -77.7400
-  35.0300, -78.7600
 End:
