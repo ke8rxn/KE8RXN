@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-04 02:15:23 UTC
+; Generated: 2026-08-04 02:20:27 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 3 at 8:58PM CDT by NWS Aberdeen SD\nExpires: 2026-08-04 04:00 Z\nAs a cold front continues to move through the area, windy conditions will persist over portions of central South Dakota. Observed wind gusts over the past couple hours have been gusting up over 50 mph at times. These gusty winds will continue to impact portions of central South Dakota for a couple more hours before diminishing as the front moves southeast.\nGenerated: 2026-08-04 02:15:23 UTC"
+Line: 2,,"Special Weather Statement issued August 3 at 9:17PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-04 03:00 Z\nAt 917 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Evansville, or 21 miles west of Alexandria, moving northeast at 45 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Evansville, Brandon, Leaf Valley, Miltona, Millerville and Melby.\nGenerated: 2026-08-04 02:20:27 UTC"
+  46.1100, -95.2900
+  46.0600, -95.2300
+  45.8600, -95.7600
+  45.9300, -95.7600
+  45.9300, -95.7700
+  46.1100, -95.7700
+  46.1100, -95.2900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 3 at 8:58PM CDT by NWS Aberdeen SD\nExpires: 2026-08-04 04:00 Z\nAs a cold front continues to move through the area, windy conditions will persist over portions of central South Dakota. Observed wind gusts over the past couple hours have been gusting up over 50 mph at times. These gusty winds will continue to impact portions of central South Dakota for a couple more hours before diminishing as the front moves southeast.\nGenerated: 2026-08-04 02:20:27 UTC"
   44.9900, -101.5000
   45.4700, -101.4700
   45.4700, -102.0000
