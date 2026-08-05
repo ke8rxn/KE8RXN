@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-05 17:55:17 UTC
+; Generated: 2026-08-05 18:00:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 5 at 12:54PM CDT by NWS Nashville TN\nExpires: 2026-08-05 18:45 Z\nAt 1254 PM CDT, Doppler radar was tracking a strong thunderstorm over Gordonsville, or near Carthage, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carthage, Gordonsville, Hickman, South Carthage, Center Hill Lake, Granville, and Edgar Evins State Park.  This includes Interstate 40 between mile markers 256 and 276.\nGenerated: 2026-08-05 17:55:17 UTC"
+Line: 2,,"Special Weather Statement issued August 5 at 1:56PM EDT by NWS Louisville KY\nExpires: 2026-08-05 18:30 Z\nAt 155 PM EDT, Doppler radar was tracking a strong thunderstorm near Fairview, moving southwest at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Barefoot, Blue Licks Springs, Barterville, Ellisville, and Pleasant Valley.\nGenerated: 2026-08-05 18:00:21 UTC"
+  38.3200, -83.9800
+  38.4000, -84.1400
+  38.4600, -84.1000
+  38.4600, -84.0700
+  38.4400, -84.0300
+  38.4400, -84.0200
+  38.4300, -84.0000
+  38.4200, -84.0000
+  38.4400, -83.9900
+  38.4400, -83.9800
+  38.4200, -83.9500
+  38.3900, -83.9300
+  38.3200, -83.9800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 5 at 12:54PM CDT by NWS Nashville TN\nExpires: 2026-08-05 18:45 Z\nAt 1254 PM CDT, Doppler radar was tracking a strong thunderstorm over Gordonsville, or near Carthage, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carthage, Gordonsville, Hickman, South Carthage, Center Hill Lake, Granville, and Edgar Evins State Park.  This includes Interstate 40 between mile markers 256 and 276.\nGenerated: 2026-08-05 18:00:21 UTC"
   36.0700, -86.0000
   36.2700, -86.0100
   36.3300, -85.6800
@@ -14,7 +31,7 @@ Line: 2,,"Special Weather Statement issued August 5 at 12:54PM CDT by NWS Nashvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 5 at 1:40PM EDT by NWS Peachtree City GA\nExpires: 2026-08-05 18:15 Z\nAt 140 PM EDT, a strong thunderstorm was near Cartersville, moving northeast at 5 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Cartersville, Euharlee, Emerson, Cassville, Stilesboro, Red Top Mountain State Park, and George Washington Carver St Pk.\nGenerated: 2026-08-05 17:55:17 UTC"
+Line: 2,,"Special Weather Statement issued August 5 at 1:40PM EDT by NWS Peachtree City GA\nExpires: 2026-08-05 18:15 Z\nAt 140 PM EDT, a strong thunderstorm was near Cartersville, moving northeast at 5 mph.  HAZARD...Up to 40 mph wind, pea sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Cartersville, Euharlee, Emerson, Cassville, Stilesboro, Red Top Mountain State Park, and George Washington Carver St Pk.\nGenerated: 2026-08-05 18:00:21 UTC"
   34.3300, -84.8500
   34.1600, -84.6600
   34.1400, -84.6600
@@ -24,45 +41,7 @@ Line: 2,,"Special Weather Statement issued August 5 at 1:40PM EDT by NWS Peachtr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 5 at 1:37PM EDT by NWS Charleston WV\nExpires: 2026-08-05 18:00 Z\nAt 136 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles north of Pomeroy to near New Haven to near Racine. Movement was northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pomeroy, Racine, Forked Run State Park, New Haven, Mason, Tuppers Plains, Chester, Syracuse, Hartford City, Darwin, Letart, and Reedsville.\nGenerated: 2026-08-05 17:55:17 UTC"
-  39.1600, -81.7600
-  39.1200, -81.7500
-  39.1000, -81.7500
-  39.0700, -81.7300
-  38.8700, -81.9500
-  39.0000, -82.0100
-  39.1000, -82.0800
-  39.2400, -81.9800
-  39.1600, -81.7600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 5 at 1:36PM EDT by NWS Miami FL\nExpires: 2026-08-05 18:00 Z\nAt 136 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Fremd Village-Padgett Island, or over Pahokee, moving northwest at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Belle Glade, Clewiston, Pahokee, South Bay, Canal Point, Lake Harbor, Okeelanta, Belle Glade Camp, Fremd Village-Padgett Island, and Harlem.\nGenerated: 2026-08-05 17:55:17 UTC"
-  26.8600, -80.5200
-  26.5200, -80.7400
-  26.7300, -81.0000
-  26.8200, -81.0300
-  26.8200, -80.9900
-  26.8100, -80.9500
-  26.8100, -80.9700
-  26.8000, -80.9600
-  26.7700, -80.9400
-  26.7300, -80.8500
-  26.7000, -80.8200
-  26.6900, -80.7400
-  26.7000, -80.7200
-  26.7600, -80.7500
-  26.7800, -80.7300
-  26.7400, -80.7100
-  26.7600, -80.6900
-  26.8100, -80.7000
-  26.8900, -80.6200
-  26.9600, -80.6100
-  26.8600, -80.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 5 at 1:33PM EDT by NWS Jacksonville FL\nExpires: 2026-08-05 18:15 Z\nAt 133 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from Bell to near University Of Florida. Movement was east at 10 mph.  HAZARD...Wind gusts around 40 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Gainesville, Trenton, Bell, Worthington Spring, Ichetucknee Spring, Alachua, High Springs, Archer, Fort White, and Worthington Springs.\nGenerated: 2026-08-05 17:55:17 UTC"
+Line: 2,,"Special Weather Statement issued August 5 at 1:33PM EDT by NWS Jacksonville FL\nExpires: 2026-08-05 18:15 Z\nAt 133 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from Bell to near University Of Florida. Movement was east at 10 mph.  HAZARD...Wind gusts around 40 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Gainesville, Trenton, Bell, Worthington Spring, Ichetucknee Spring, Alachua, High Springs, Archer, Fort White, and Worthington Springs.\nGenerated: 2026-08-05 18:00:21 UTC"
   29.6600, -82.9500
   29.7000, -82.9600
   29.7000, -82.9400
@@ -84,19 +63,4 @@ Line: 2,,"Special Weather Statement issued August 5 at 1:33PM EDT by NWS Jackson
   29.5000, -82.3200
   29.6300, -82.9700
   29.6600, -82.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 5 at 1:25PM EDT by NWS Louisville KY\nExpires: 2026-08-05 18:00 Z\nAt 125 PM EDT, Doppler radar was tracking a strong thunderstorm over Bryan Station. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lexington, Paris, Bryan Station, Northland, Highlands, Thoroughbred Acres, Sidville, Elmendorf, Chilesburg, and Hutchison.\nGenerated: 2026-08-05 17:55:17 UTC"
-  38.0700, -84.2500
-  38.0700, -84.2900
-  38.0300, -84.2900
-  38.0200, -84.2800
-  38.0100, -84.3100
-  37.9900, -84.3300
-  38.0400, -84.5300
-  38.1800, -84.4800
-  38.1900, -84.4600
-  38.1800, -84.2000
-  38.0700, -84.2500
 End:
