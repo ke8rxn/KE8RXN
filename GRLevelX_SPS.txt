@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-06 05:55:24 UTC
+; Generated: 2026-08-06 06:00:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 12:50AM CDT by NWS Dodge City KS\nExpires: 2026-08-06 06:30 Z\nAt 1249 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Hanston, moving east at 35 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Gray and Hanston around 1255 AM CDT.\nGenerated: 2026-08-06 05:55:24 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 1:57AM EDT by NWS Raleigh NC\nExpires: 2026-08-06 06:45 Z\nAt 157 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Badin Lake to 6 miles northwest of Ansonville. Movement was northeast at 35 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Asheboro, Albemarle, Randleman, Troy, Badin Lake, North Carolina Zoo, Biscoe, Ansonville, Seagrove, and Plyler.  This includes Interstate 73 between Mile Markers 47 and 87.\nGenerated: 2026-08-06 06:00:19 UTC"
+  35.1800, -80.2800
+  35.2000, -80.2800
+  35.1900, -80.3000
+  35.5000, -80.2700
+  35.5100, -80.1800
+  35.5900, -80.2200
+  35.7500, -80.0400
+  35.9100, -79.7900
+  35.5100, -79.7600
+  35.5100, -79.7700
+  35.3100, -79.7400
+  35.1600, -79.9800
+  35.1400, -80.0200
+  35.1400, -80.0700
+  35.1100, -80.0600
+  34.9500, -80.3100
+  35.1800, -80.2800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 6 at 12:50AM CDT by NWS Dodge City KS\nExpires: 2026-08-06 06:30 Z\nAt 1249 AM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Hanston, moving east at 35 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Gray and Hanston around 1255 AM CDT.\nGenerated: 2026-08-06 06:00:19 UTC"
   38.1000, -99.8200
   38.2200, -99.7900
   38.1900, -99.2400
@@ -14,7 +35,7 @@ Line: 2,,"Special Weather Statement issued August 6 at 12:50AM CDT by NWS Dodge 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 1:37AM EDT by NWS Raleigh NC\nExpires: 2026-08-06 06:15 Z\nAt 137 AM EDT, Doppler radar was tracking a strong thunderstorm over Linwood, or 7 miles southwest of Lexington, moving northeast at 45 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greensboro, Winston-Salem, High Point, Lexington, Thomasville, Linwood, Archdale, Trinity, Jamestown, and Denton.  This includes the following highways... Interstate 85 between Mile Markers 83 and 114. Interstate 40 between Mile Markers 189 and 198, and Mile Marker 201 and near Mile Marker 211. Interstate 74 between Mile Markers 56 and 79.\nGenerated: 2026-08-06 05:55:24 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 1:37AM EDT by NWS Raleigh NC\nExpires: 2026-08-06 06:15 Z\nAt 137 AM EDT, Doppler radar was tracking a strong thunderstorm over Linwood, or 7 miles southwest of Lexington, moving northeast at 45 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greensboro, Winston-Salem, High Point, Lexington, Thomasville, Linwood, Archdale, Trinity, Jamestown, and Denton.  This includes the following highways... Interstate 85 between Mile Markers 83 and 114. Interstate 40 between Mile Markers 189 and 198, and Mile Marker 201 and near Mile Marker 211. Interstate 74 between Mile Markers 56 and 79.\nGenerated: 2026-08-06 06:00:19 UTC"
   35.8300, -80.4300
   35.8500, -80.4200
   35.8500, -80.3900
@@ -36,45 +57,4 @@ Line: 2,,"Special Weather Statement issued August 6 at 1:37AM EDT by NWS Raleigh
   35.8100, -80.4700
   35.8300, -80.4800
   35.8300, -80.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 12:23AM CDT by NWS Dodge City KS\nExpires: 2026-08-06 06:00 Z\nAt 1223 AM CDT, Doppler radar was tracking a strong thunderstorm 13 miles northwest of Jetmore, moving east at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Finney and western Hodgeman Counties.\nGenerated: 2026-08-06 05:55:24 UTC"
-  38.1600, -100.4500
-  38.2600, -100.4300
-  38.2600, -99.7100
-  37.9700, -99.8800
-  38.1600, -100.4500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 12:21AM CDT by NWS Dodge City KS\nExpires: 2026-08-06 06:00 Z\nAt 1221 AM CDT/1121 PM MDT/, Doppler radar was tracking a strong thunderstorm 8 miles north of Syracuse, moving east at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Hamilton and western Kearny Counties.\nGenerated: 2026-08-06 05:55:24 UTC"
-  37.8900, -101.6800
-  38.2500, -101.8600
-  38.2300, -101.4400
-  37.8000, -101.3400
-  37.8900, -101.6800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 1:18AM EDT by NWS Raleigh NC\nExpires: 2026-08-06 06:00 Z\nAt 118 AM EDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Midland, or 14 miles southwest of Albemarle, moving northeast at 30 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albemarle, Badin Lake, Plyler, Locust, Norwood, Badin, Oakboro, Stanfield, Richfield, and New London.\nGenerated: 2026-08-06 05:55:24 UTC"
-  35.5000, -80.2900
-  35.4300, -80.1000
-  35.3100, -80.0800
-  35.2900, -80.0900
-  35.2600, -80.1000
-  35.2300, -80.0700
-  35.1800, -80.0700
-  35.1800, -80.1100
-  35.1900, -80.1100
-  35.1900, -80.1200
-  35.1700, -80.1300
-  35.1600, -80.2300
-  35.2100, -80.2600
-  35.1700, -80.3200
-  35.1700, -80.3600
-  35.1800, -80.3700
-  35.1600, -80.4000
-  35.2100, -80.4900
-  35.5000, -80.2900
 End:
