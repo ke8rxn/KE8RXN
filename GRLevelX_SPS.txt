@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-06 05:15:15 UTC
+; Generated: 2026-08-06 05:20:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 5 at 11:54PM CDT by NWS Topeka KS\nExpires: 2026-08-06 05:30 Z\nAt 1154 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles east of Waverly to 5 miles north of Westphalia to 6 miles southeast of Gridley. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Garnett, Burlington, Waverly, Richmond, Colony, Greeley, Westphalia, Kincaid, Lone Elm, Harris, and Le Roy.  This includes Interstate 35 between mile markers 162 and 168.\nGenerated: 2026-08-06 05:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 1:18AM EDT by NWS Raleigh NC\nExpires: 2026-08-06 06:00 Z\nAt 118 AM EDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Midland, or 14 miles southwest of Albemarle, moving northeast at 30 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albemarle, Badin Lake, Plyler, Locust, Norwood, Badin, Oakboro, Stanfield, Richfield, and New London.\nGenerated: 2026-08-06 05:20:18 UTC"
+  35.5000, -80.2900
+  35.4300, -80.1000
+  35.3100, -80.0800
+  35.2900, -80.0900
+  35.2600, -80.1000
+  35.2300, -80.0700
+  35.1800, -80.0700
+  35.1800, -80.1100
+  35.1900, -80.1100
+  35.1900, -80.1200
+  35.1700, -80.1300
+  35.1600, -80.2300
+  35.2100, -80.2600
+  35.1700, -80.3200
+  35.1700, -80.3600
+  35.1800, -80.3700
+  35.1600, -80.4000
+  35.2100, -80.4900
+  35.5000, -80.2900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 5 at 11:54PM CDT by NWS Topeka KS\nExpires: 2026-08-06 05:30 Z\nAt 1154 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles east of Waverly to 5 miles north of Westphalia to 6 miles southeast of Gridley. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Garnett, Burlington, Waverly, Richmond, Colony, Greeley, Westphalia, Kincaid, Lone Elm, Harris, and Le Roy.  This includes Interstate 35 between mile markers 162 and 168.\nGenerated: 2026-08-06 05:20:18 UTC"
   38.3200, -95.6800
   38.5000, -95.6000
   38.3800, -95.0600
@@ -15,7 +38,7 @@ Line: 2,,"Special Weather Statement issued August 5 at 11:54PM CDT by NWS Topeka
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 12:48AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-06 05:45 Z\nAt 1247 AM EDT, Doppler radar was tracking a strong thunderstorm near Downtown Concord, or near West Concord, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Huntersville, Kannapolis, Downtown Concord, Salisbury, Northeast Charlotte, West Concord, Harrisburg, China Grove, Spencer, and Landis.\nGenerated: 2026-08-06 05:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 12:48AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-06 05:45 Z\nAt 1247 AM EDT, Doppler radar was tracking a strong thunderstorm near Downtown Concord, or near West Concord, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Huntersville, Kannapolis, Downtown Concord, Salisbury, Northeast Charlotte, West Concord, Harrisburg, China Grove, Spencer, and Landis.\nGenerated: 2026-08-06 05:20:18 UTC"
   35.5000, -80.3000
   35.2900, -80.4400
   35.2100, -80.7200
