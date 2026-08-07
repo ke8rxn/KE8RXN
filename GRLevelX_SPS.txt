@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-07 01:55:21 UTC
+; Generated: 2026-08-07 02:00:29 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 8:49PM CDT by NWS Little Rock AR\nExpires: 2026-08-07 02:15 Z\nAt 847 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Kingston to near Witter. Movement was southeast at 20 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walnut...                         Devils Knob... Upper Buffalo Wilderness Area...  Mossville... Nail...                           Salus... Arbaugh...                        Fallsville... Swain...                          Deer... Dixon Ridge...\nGenerated: 2026-08-07 01:55:21 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 8:49PM CDT by NWS Little Rock AR\nExpires: 2026-08-07 02:15 Z\nAt 847 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Kingston to near Witter. Movement was southeast at 20 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walnut...                         Devils Knob... Upper Buffalo Wilderness Area...  Mossville... Nail...                           Salus... Arbaugh...                        Fallsville... Swain...                          Deer... Dixon Ridge...\nGenerated: 2026-08-07 02:00:29 UTC"
   35.9400, -93.4800
   35.8100, -93.1600
   35.6700, -93.4700
@@ -21,7 +21,7 @@ Line: 2,,"Special Weather Statement issued August 6 at 8:49PM CDT by NWS Little 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 7:44PM MDT by NWS Pueblo CO\nExpires: 2026-08-07 02:15 Z\nAt 744 PM MDT, Doppler radar was tracking a strong thunderstorm near Springfield, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Springfield, Walsh, Vilas, and Two Buttes.\nGenerated: 2026-08-07 01:55:21 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 7:44PM MDT by NWS Pueblo CO\nExpires: 2026-08-07 02:15 Z\nAt 744 PM MDT, Doppler radar was tracking a strong thunderstorm near Springfield, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Springfield, Walsh, Vilas, and Two Buttes.\nGenerated: 2026-08-07 02:00:29 UTC"
   37.4600, -102.6700
   37.5900, -102.4300
   37.4500, -102.1400
@@ -30,7 +30,7 @@ Line: 2,,"Special Weather Statement issued August 6 at 7:44PM MDT by NWS Pueblo 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 8:43PM CDT by NWS Dodge City KS\nExpires: 2026-08-07 02:30 Z\nAt 843 PM CDT, Doppler radar was tracking a strong thunderstorm near Cimarron, moving east at 20 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Ensign around 855 PM CDT.\nGenerated: 2026-08-07 01:55:21 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 8:43PM CDT by NWS Dodge City KS\nExpires: 2026-08-07 02:30 Z\nAt 843 PM CDT, Doppler radar was tracking a strong thunderstorm near Cimarron, moving east at 20 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Ensign around 855 PM CDT.\nGenerated: 2026-08-07 02:00:29 UTC"
   37.5700, -100.4600
   37.8200, -100.4500
   37.8300, -100.1000
@@ -39,7 +39,7 @@ Line: 2,,"Special Weather Statement issued August 6 at 8:43PM CDT by NWS Dodge C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 9:42PM EDT by NWS Charleston WV\nExpires: 2026-08-07 02:45 Z\nLocations impacted include... Gary, Anawalt, Maybeury, Elbert, and Jenkinjones.  Recent heavy rainfall may cause ponding of water on roadways and flooding in low-lying areas.\nGenerated: 2026-08-07 01:55:21 UTC"
+Line: 2,,"Special Weather Statement issued August 6 at 9:42PM EDT by NWS Charleston WV\nExpires: 2026-08-07 02:45 Z\nLocations impacted include... Gary, Anawalt, Maybeury, Elbert, and Jenkinjones.  Recent heavy rainfall may cause ponding of water on roadways and flooding in low-lying areas.\nGenerated: 2026-08-07 02:00:29 UTC"
   37.3900, -81.5300
   37.4200, -81.3200
   37.3200, -81.3700
@@ -53,109 +53,4 @@ Line: 2,,"Special Weather Statement issued August 6 at 9:42PM EDT by NWS Charles
   37.2100, -81.5600
   37.2000, -81.6800
   37.3900, -81.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 6:35PM MST by NWS Phoenix AZ\nExpires: 2026-08-07 02:00 Z\nAt 635 PM MST, Doppler radar was tracking a strong thunderstorm 10 miles south of Cutter, or 13 miles northeast of Christmas. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of Gila and Pinal Counties.  This includes AZ Route 70 between mile markers 266 and 268.\nGenerated: 2026-08-07 01:55:21 UTC"
-  33.1800, -110.4700
-  33.1900, -110.5000
-  33.1400, -110.5900
-  33.1500, -110.6300
-  33.1100, -110.6800
-  33.2300, -110.7900
-  33.3400, -110.5200
-  33.2000, -110.4400
-  33.1800, -110.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 8:34PM CDT by NWS Tulsa OK\nExpires: 2026-08-07 02:00 Z\nAt 833 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 2 miles south of Osage to 6 miles southwest of Kingston. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Osage...                          Rudd... Kingston...                       Dryfork... Red Star...                       Delmar... Weathers...\nGenerated: 2026-08-07 01:55:21 UTC"
-  36.1200, -93.4800
-  36.0800, -93.4800
-  36.0800, -93.4500
-  35.9700, -93.4500
-  35.9500, -93.4900
-  35.9300, -93.4900
-  35.9200, -93.5100
-  35.8800, -93.5100
-  35.8800, -93.5200
-  35.8300, -93.5300
-  35.8200, -93.5200
-  35.7900, -93.5500
-  35.9900, -93.6900
-  36.2600, -93.4600
-  36.1800, -93.3000
-  36.1200, -93.3000
-  36.1200, -93.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 7:31PM MDT by NWS Albuquerque NM\nExpires: 2026-08-07 02:00 Z\nAt 731 PM MDT, Doppler radar was tracking a strong thunderstorm 30 miles north of Cimarron, or 25 miles west of Raton, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of North Central Colfax County.\nGenerated: 2026-08-07 01:55:21 UTC"
-  36.9900, -104.9900
-  36.9900, -104.8000
-  36.8700, -104.7200
-  36.8500, -104.7800
-  36.8100, -104.8900
-  36.8200, -104.9100
-  36.8300, -104.9100
-  36.8300, -104.9200
-  36.8400, -104.9200
-  36.8500, -104.9300
-  36.8500, -104.9400
-  36.8600, -104.9400
-  36.8600, -104.9500
-  36.9900, -104.9900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 9:26PM EDT by NWS Peachtree City GA\nExpires: 2026-08-07 02:00 Z\nAt 926 PM EDT, a strong thunderstorm was over Panthersville, or near Decatur. This storm was nearly stationary.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Atlanta, Decatur, Forest Park, Clarkston, Morrow, Stone Mountain, Avondale Estates, Lake City, Pine Lake, Belvedere Park, North Decatur, North Druid Hills, Grant Park-Zoo Atlanta, Candler-Mcafee, Druid Hills, Tucker, North Atlanta, Rex, Sweet Auburn, and Piedmont Park.\nGenerated: 2026-08-07 01:55:21 UTC"
-  33.8700, -84.2700
-  33.7900, -84.1400
-  33.5800, -84.2400
-  33.5900, -84.3800
-  33.6500, -84.3800
-  33.6500, -84.3500
-  33.6600, -84.3600
-  33.6700, -84.3800
-  33.8000, -84.3900
-  33.8700, -84.2700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 8:25PM CDT by NWS Little Rock AR\nExpires: 2026-08-07 02:00 Z\nAt 824 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Carrollton to near Kingston. Movement was southeast at 20 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Harrison...                       Jasper... Lost Valley State Park...         Capps... Erbie...                          Upper Buffalo Wilderness Area... Pruitt...                         Red Bank... Alpena...                         Batavia... Wayton...                         Boxley... Marble Falls...                   Compton... Low Gap...                        Parthenon... Gaither...                        Ponca... Mt Sherman...\nGenerated: 2026-08-07 01:55:21 UTC"
-  36.1900, -93.0400
-  35.8600, -93.2800
-  35.9400, -93.4700
-  35.9700, -93.4700
-  35.9700, -93.4500
-  36.0800, -93.4500
-  36.0800, -93.4800
-  36.1200, -93.4800
-  36.1200, -93.3000
-  36.3100, -93.3000
-  36.1900, -93.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 8:23PM CDT by NWS Little Rock AR\nExpires: 2026-08-07 02:00 Z\nAt 823 PM CDT, Doppler radar was tracking a strong thunderstorm near Elberta, or 9 miles southeast of Marshall, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Old Lexington...                  Elba... Elberta...                        Rocky Hill... Leslie...                         Dennard... Oxley...                          Flag... Arlberg...\nGenerated: 2026-08-07 01:55:21 UTC"
-  35.7400, -92.5900
-  35.8600, -92.5900
-  35.8900, -92.3300
-  35.6900, -92.3400
-  35.7400, -92.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 6 at 8:22PM CDT by NWS Birmingham AL\nExpires: 2026-08-07 02:00 Z\nAt 822 PM CDT, Doppler radar was tracking a strong thunderstorm over Linwood, or 7 miles northeast of Troy. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Troy, Brundidge, Goshen, Banks, Antioch, Linwood, Ansley, Troy Municipal Airport, Troy University, Springhill, Orion, Brundidge Municipal Airport, Mossy Grove, and Sandfield.\nGenerated: 2026-08-07 01:55:21 UTC"
-  31.9500, -86.1300
-  31.9700, -86.0100
-  31.9700, -86.0000
-  31.9800, -85.9700
-  31.9900, -85.8900
-  31.9800, -85.8800
-  31.9700, -85.8800
-  31.9700, -85.8200
-  31.6900, -85.7700
-  31.6900, -86.1300
-  31.9500, -86.1300
 End:
