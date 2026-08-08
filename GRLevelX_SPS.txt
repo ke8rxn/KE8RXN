@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-08 11:55:19 UTC
+; Generated: 2026-08-08 12:00:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 7:44AM EDT by NWS Charleston WV\nExpires: 2026-08-08 12:15 Z\nAt 743 AM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of St. Marys, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Middlebourne, Paden City, Sistersville, Newport, Matamoras, Friendly, Point Lookout, and New Matamoras.\nGenerated: 2026-08-08 11:55:19 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 7:56AM EDT by NWS Charleston WV\nExpires: 2026-08-08 12:30 Z\nAt 755 AM EDT, Doppler radar was tracking a strong thunderstorm over Beverly, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marietta, Beverly, Lowell, Macksburg, Lower Salem, and Devola.  This includes Interstate 77 in Ohio between mile markers 2 and 17.\nGenerated: 2026-08-08 12:00:22 UTC"
+  39.6300, -81.4500
+  39.6300, -81.4200
+  39.6000, -81.3900
+  39.5900, -81.2800
+  39.6100, -81.2800
+  39.6100, -81.2700
+  39.5800, -81.2600
+  39.5800, -81.1800
+  39.4400, -81.1700
+  39.4200, -81.2000
+  39.4200, -81.7100
+  39.6300, -81.7000
+  39.6400, -81.5900
+  39.5900, -81.5900
+  39.5800, -81.4800
+  39.6400, -81.4700
+  39.6500, -81.4500
+  39.6300, -81.4500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 7:44AM EDT by NWS Charleston WV\nExpires: 2026-08-08 12:15 Z\nAt 743 AM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of St. Marys, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... St. Marys, Middlebourne, Paden City, Sistersville, Newport, Matamoras, Friendly, Point Lookout, and New Matamoras.\nGenerated: 2026-08-08 12:00:22 UTC"
   39.5800, -80.8900
   39.6000, -80.8500
   39.5900, -80.8500
@@ -21,29 +43,4 @@ Line: 2,,"Special Weather Statement issued August 8 at 7:44AM EDT by NWS Charles
   39.5400, -81.0400
   39.6100, -80.9400
   39.5800, -80.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 7:30AM EDT by NWS Charleston WV\nExpires: 2026-08-08 12:00 Z\nAt 730 AM EDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Belmont, or 10 miles east of Parkersburg, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrisville, St. Marys, Pennsboro, Belmont, North Bend State Park, Ellenboro, Cairo, Pullman, Willow Island, Nutter Farm, Maxwell, Petroleum, Schultz, Arvilla, Point Lookout, Wick, Waverly, Hebron, Pike, and Highland.  This includes Route 50 in West Virginia between mile markers 16 and 43.\nGenerated: 2026-08-08 11:55:19 UTC"
-  39.1900, -80.9400
-  39.1900, -81.4100
-  39.3300, -81.4100
-  39.3500, -81.3500
-  39.3900, -81.2700
-  39.3900, -81.2200
-  39.4100, -81.2100
-  39.4400, -81.1800
-  39.4500, -81.1300
-  39.4700, -81.1100
-  39.5400, -80.9600
-  39.1900, -80.9400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 6:29AM CDT by NWS North Platte NE\nExpires: 2026-08-08 12:00 Z\nAt 629 AM CDT/529 AM MDT/, Doppler radar was tracking a strong thunderstorm 9 miles west of Mullen, moving east at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Mullen around 545 AM MDT.  Other locations impacted by this storm include Hecla and Kelso.  This includes the following highways... Highway 2 between mile markers 171 and 196. Highway 97 between mile markers 54 and 70.\nGenerated: 2026-08-08 11:55:19 UTC"
-  41.9200, -101.3400
-  42.1000, -101.3100
-  42.0800, -100.8100
-  41.8100, -100.8400
-  41.9200, -101.3400
 End:
