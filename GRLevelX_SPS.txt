@@ -3,9 +3,60 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-08 20:05:15 UTC
+; Generated: 2026-08-08 20:10:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:58PM CDT by NWS Birmingham AL\nExpires: 2026-08-08 20:30 Z\nAt 258 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Bankhead Lock And Dam, or 19 miles north of Northport, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wiley, Windham Springs, and Whitson.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:09PM CDT by NWS Huntsville AL\nExpires: 2026-08-08 21:00 Z\nAt 309 PM CDT, Doppler radar was tracking a strong thunderstorm near Henagar, or 14 miles northeast of Rainsville, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Henagar, Sylvania, Ider, Pisgah, Sulpher Springs, and Rosalie.\nGenerated: 2026-08-08 20:10:15 UTC"
+  34.5500, -85.7800
+  34.7400, -85.8900
+  34.8500, -85.7000
+  34.7700, -85.5600
+  34.6800, -85.5500
+  34.5500, -85.7800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 3:07PM CDT by NWS Birmingham AL\nExpires: 2026-08-08 20:30 Z\nAt 307 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Hackleburg to near Brinn to near Brilliant. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Winfield, Haleyville, Lynn, Hackleburg, Brilliant, Glen Allen, Lake Buttahatchee, Needmore, Bear Creek, Natural Bridge, Tucker, Posey Field Airport, Tessner, Upper Bear Creek Reservoir, Texas, Pigeye, Delmar, and Piney Grove.\nGenerated: 2026-08-08 20:10:15 UTC"
+  34.3100, -87.5700
+  34.0000, -87.5400
+  34.0000, -87.6400
+  33.9100, -87.6400
+  33.9200, -87.8500
+  34.2000, -87.7900
+  34.3100, -88.0200
+  34.3100, -87.5700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 4:06PM EDT by NWS Cleveland OH\nExpires: 2026-08-08 20:30 Z\nAt 405 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Conneaut, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Albion, Conneautville, Cranesville, and Springboro.\nGenerated: 2026-08-08 20:10:15 UTC"
+  41.9300, -80.3200
+  41.7700, -80.2900
+  41.7600, -80.5700
+  41.8400, -80.6100
+  41.9300, -80.3200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 4:05PM EDT by NWS Upton NY\nExpires: 2026-08-08 20:45 Z\nAt 405 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Coney Island, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.\nGenerated: 2026-08-08 20:10:15 UTC"
+  40.5600, -73.9500
+  40.5600, -74.0100
+  40.5800, -74.0100
+  40.6100, -74.0400
+  40.7400, -73.8400
+  40.6300, -73.7500
+  40.6300, -73.7600
+  40.6200, -73.7700
+  40.6100, -73.7500
+  40.6000, -73.7400
+  40.6000, -73.7300
+  40.5900, -73.7300
+  40.5900, -73.7500
+  40.5800, -73.7300
+  40.5300, -73.9400
+  40.5600, -73.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 2:58PM CDT by NWS Birmingham AL\nExpires: 2026-08-08 20:30 Z\nAt 258 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Bankhead Lock And Dam, or 19 miles north of Northport, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wiley, Windham Springs, and Whitson.\nGenerated: 2026-08-08 20:10:15 UTC"
   33.6100, -87.5300
   33.6000, -87.3900
   33.4500, -87.4300
@@ -14,7 +65,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:58PM CDT by NWS Birming
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:58PM EDT by NWS Burlington VT\nExpires: 2026-08-08 21:30 Z\nAt 358 PM EDT, Doppler radar was tracking a strong thunderstorm over Waddington, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Massena Village, Massena International Airport - Richards Field, Brasher, Waddington, Massena, Madrid, Norfolk, Stockholm, Lawrence, Lisbon, Louisville, Eisenhower Lock, Brasher Center, St. Lawrence State Park, Coles Creek State Park, Raquette River, Helena, Chipman, Raymondville, and Brasher Falls.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:58PM EDT by NWS Burlington VT\nExpires: 2026-08-08 21:30 Z\nAt 358 PM EDT, Doppler radar was tracking a strong thunderstorm over Waddington, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Massena Village, Massena International Airport - Richards Field, Brasher, Waddington, Massena, Madrid, Norfolk, Stockholm, Lawrence, Lisbon, Louisville, Eisenhower Lock, Brasher Center, St. Lawrence State Park, Coles Creek State Park, Raquette River, Helena, Chipman, Raymondville, and Brasher Falls.\nGenerated: 2026-08-08 20:10:15 UTC"
   44.9900, -74.7400
   44.8100, -74.6800
   44.7500, -75.2600
@@ -39,7 +90,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:58PM EDT by NWS Burling
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:57PM CDT by NWS Nashville TN\nExpires: 2026-08-08 20:45 Z\nAt 256 PM CDT, Doppler radar was tracking a strong thunderstorm near Lafayette, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lafayette and Red Boiling Springs.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:57PM CDT by NWS Nashville TN\nExpires: 2026-08-08 20:45 Z\nAt 256 PM CDT, Doppler radar was tracking a strong thunderstorm near Lafayette, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lafayette and Red Boiling Springs.\nGenerated: 2026-08-08 20:10:15 UTC"
   36.6200, -85.7900
   36.6100, -85.8000
   36.4900, -85.8100
@@ -50,7 +101,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:57PM CDT by NWS Nashvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:56PM CDT by NWS Fort Worth TX\nExpires: 2026-08-08 20:45 Z\nAt 256 PM CDT, Doppler radar was tracking a strong thunderstorm near Cumby, or near Commerce. This storm was nearly stationary.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of east central Hunt, northwestern Hopkins and southwestern Delta Counties, including the following locations... Neylandville, Ridgeway, Dixon, Peerless, and South Sulphur.  This includes Interstate 30 between mile markers 98 and 121.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:56PM CDT by NWS Fort Worth TX\nExpires: 2026-08-08 20:45 Z\nAt 256 PM CDT, Doppler radar was tracking a strong thunderstorm near Cumby, or near Commerce. This storm was nearly stationary.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of east central Hunt, northwestern Hopkins and southwestern Delta Counties, including the following locations... Neylandville, Ridgeway, Dixon, Peerless, and South Sulphur.  This includes Interstate 30 between mile markers 98 and 121.\nGenerated: 2026-08-08 20:10:15 UTC"
   33.0600, -96.0400
   33.2500, -96.0700
   33.3400, -95.7100
@@ -59,7 +110,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:56PM CDT by NWS Fort Wo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:55PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 21:00 Z\nAt 255 PM CDT, Doppler radar was tracking a strong thunderstorm near Vivian, or 18 miles southeast of Atlanta, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Vivian, Blanchard, Jefferson, Benton, Plain Dealing, Oil City, Mooringsport, Hosston, Belcher, Ida, Gilliam, Smithland, Karnack, Lodi, Woodlawn, Gray, Uncertain, Caddo Lake and Cavett.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:55PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 21:00 Z\nAt 255 PM CDT, Doppler radar was tracking a strong thunderstorm near Vivian, or 18 miles southeast of Atlanta, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Vivian, Blanchard, Jefferson, Benton, Plain Dealing, Oil City, Mooringsport, Hosston, Belcher, Ida, Gilliam, Smithland, Karnack, Lodi, Woodlawn, Gray, Uncertain, Caddo Lake and Cavett.\nGenerated: 2026-08-08 20:10:15 UTC"
   32.8700, -94.3900
   32.9300, -94.0600
   33.0200, -93.8900
@@ -71,7 +122,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:55PM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:51PM CDT by NWS Nashville TN\nExpires: 2026-08-08 20:30 Z\nAt 251 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Old Hickory, or 7 miles northeast of Nashville, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gallatin, Nashville, Madison, Hendersonville, Mount Juliet, Goodlettsville, Millersville, Lakewood, Hermitage, Rural Hill, Belinda City, Old Hickory, Berry Hill, Green Hill, and Percy Priest Lake.  This includes the following highways... Interstate 40 between mile markers 207 and 229. Interstate 65 between mile markers 81 and 101. Interstate 24 between mile markers 42 and 53.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:51PM CDT by NWS Nashville TN\nExpires: 2026-08-08 20:30 Z\nAt 251 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Old Hickory, or 7 miles northeast of Nashville, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gallatin, Nashville, Madison, Hendersonville, Mount Juliet, Goodlettsville, Millersville, Lakewood, Hermitage, Rural Hill, Belinda City, Old Hickory, Berry Hill, Green Hill, and Percy Priest Lake.  This includes the following highways... Interstate 40 between mile markers 207 and 229. Interstate 65 between mile markers 81 and 101. Interstate 24 between mile markers 42 and 53.\nGenerated: 2026-08-08 20:10:15 UTC"
   36.1200, -86.8300
   36.3800, -86.7600
   36.4100, -86.4500
@@ -80,7 +131,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:51PM CDT by NWS Nashvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:51PM EDT by NWS Burlington VT\nExpires: 2026-08-08 20:30 Z\nAt 351 PM EDT, Doppler radar was tracking a strong thunderstorm over Schuyler Falls, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Plattsburgh International Airport, Schuyler Falls, South Hero, Plattsburgh, Grand Isle, Beekmantown, Peru, North Hero, Saranac, Young Island, Colligan Point, Wilcox Point, East Beekmantown, Mooney Bay, Conner Bay, Kellogg Island, Grand Isle State Park, Jackson Point, Allens Bay In Clinton County, and Hoyt Point.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:51PM EDT by NWS Burlington VT\nExpires: 2026-08-08 20:30 Z\nAt 351 PM EDT, Doppler radar was tracking a strong thunderstorm over Schuyler Falls, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Plattsburgh International Airport, Schuyler Falls, South Hero, Plattsburgh, Grand Isle, Beekmantown, Peru, North Hero, Saranac, Young Island, Colligan Point, Wilcox Point, East Beekmantown, Mooney Bay, Conner Bay, Kellogg Island, Grand Isle State Park, Jackson Point, Allens Bay In Clinton County, and Hoyt Point.\nGenerated: 2026-08-08 20:10:15 UTC"
   44.5800, -73.6400
   44.6700, -73.7100
   44.8200, -73.3600
@@ -89,7 +140,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:51PM EDT by NWS Burling
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:50PM EDT by NWS Upton NY\nExpires: 2026-08-08 20:30 Z\nAt 349 PM EDT, Doppler radar was tracking a strong thunderstorm near Mahopac, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Danbury, Mahopac, Brewster, Newtown, Ridgefield, Bethel, Brookfield, New Fairfield, Redding, Carmel, Yorktown Heights, Jefferson Valley, Putnam Valley, Putnam Lake, and Brewster Hill.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:50PM EDT by NWS Upton NY\nExpires: 2026-08-08 20:30 Z\nAt 349 PM EDT, Doppler radar was tracking a strong thunderstorm near Mahopac, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Danbury, Mahopac, Brewster, Newtown, Ridgefield, Bethel, Brookfield, New Fairfield, Redding, Carmel, Yorktown Heights, Jefferson Valley, Putnam Valley, Putnam Lake, and Brewster Hill.\nGenerated: 2026-08-08 20:10:15 UTC"
   41.5100, -73.3900
   41.4900, -73.3700
   41.4700, -73.3300
@@ -104,7 +155,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:50PM EDT by NWS Upton N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:49PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-08 20:15 Z\nAt 349 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Newland, or near Linville Falls, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Newland, Crossnore, Table Rock, Linville Falls, B.R. Parkway-Linville Falls To Grandfather, Edgemont, Altamont, Pineola, Linville, and Jonas Ridge.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:49PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-08 20:15 Z\nAt 349 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Newland, or near Linville Falls, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Newland, Crossnore, Table Rock, Linville Falls, B.R. Parkway-Linville Falls To Grandfather, Edgemont, Altamont, Pineola, Linville, and Jonas Ridge.\nGenerated: 2026-08-08 20:10:15 UTC"
   36.0200, -81.6200
   35.9300, -81.6700
   35.8900, -81.7300
@@ -118,7 +169,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:49PM EDT by NWS Greenvi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 1:48PM MDT by NWS Denver CO\nExpires: 2026-08-08 20:30 Z\nAt 148 PM MDT, Doppler radar was tracking a line of showers and isolated thunderstorms extending from 7 miles southeast of Boyero to 20 miles southwest of Forder, or extending from 29 miles south of Flagler to 54 miles south of Limon, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Karval, Wild Horse Point, Forder and Boyero.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 1:48PM MDT by NWS Denver CO\nExpires: 2026-08-08 20:30 Z\nAt 148 PM MDT, Doppler radar was tracking a line of showers and isolated thunderstorms extending from 7 miles southeast of Boyero to 20 miles southwest of Forder, or extending from 29 miles south of Flagler to 54 miles south of Limon, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Karval, Wild Horse Point, Forder and Boyero.\nGenerated: 2026-08-08 20:10:15 UTC"
   38.6600, -104.0500
   38.7300, -103.6000
   39.0200, -103.1900
@@ -132,7 +183,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 1:48PM MDT by NWS Denver 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:48PM CDT by NWS New Orleans LA\nExpires: 2026-08-08 20:15 Z\nAt 247 PM CDT, Doppler radar was tracking a strong thunderstorm near Edgard, or 8 miles south of Reserve, moving west at 10 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Reserve, Gramercy, Lutcher, Wallace, Edgard, South Vacherie, North Vacherie, Killona, and Garyville.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:48PM CDT by NWS New Orleans LA\nExpires: 2026-08-08 20:15 Z\nAt 247 PM CDT, Doppler radar was tracking a strong thunderstorm near Edgard, or 8 miles south of Reserve, moving west at 10 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Reserve, Gramercy, Lutcher, Wallace, Edgard, South Vacherie, North Vacherie, Killona, and Garyville.\nGenerated: 2026-08-08 20:10:15 UTC"
   30.0500, -90.7200
   30.0500, -90.4900
   30.0300, -90.5000
@@ -146,7 +197,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:48PM CDT by NWS New Orl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:45PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 20:45 Z\nAt 245 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Mount Vernon, or 8 miles west of Mount Pleasant, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mount Pleasant, Leesburg, Newsome, Winfield, Miller's Cove, Rocky Mound, Monticello, Harvard, Hopewell and Roeder.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:45PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 20:45 Z\nAt 245 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Mount Vernon, or 8 miles west of Mount Pleasant, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mount Pleasant, Leesburg, Newsome, Winfield, Miller's Cove, Rocky Mound, Monticello, Harvard, Hopewell and Roeder.\nGenerated: 2026-08-08 20:10:15 UTC"
   33.0000, -95.1600
   33.1500, -95.2400
   33.2600, -95.0600
@@ -158,7 +209,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:45PM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:44PM EDT by NWS Jacksonville FL\nExpires: 2026-08-08 20:15 Z\nAt 344 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Ormond-By-the-Sea. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  This storm will remain over mainly rural areas of southeastern Flagler County.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:44PM EDT by NWS Jacksonville FL\nExpires: 2026-08-08 20:15 Z\nAt 344 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Ormond-By-the-Sea. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  This storm will remain over mainly rural areas of southeastern Flagler County.\nGenerated: 2026-08-08 20:10:15 UTC"
   29.4300, -81.1100
   29.4200, -81.1400
   29.4100, -81.1500
@@ -171,7 +222,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:44PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:42PM CDT by NWS Paducah KY\nExpires: 2026-08-08 20:30 Z\nAt 241 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Fulgham to near Lynnville. Movement was north at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mayfield, Fulton, Clinton, Cayce, Lynnville, Fulgham, Sedalia, Wingo, Hardin, Water Valley, Lowes, Fancy Farm, Kirksey, Brewers, Dukedom, and Harris Grove.  This includes Interstate 69 in Kentucky between Mile Markers 1 and 34.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:42PM CDT by NWS Paducah KY\nExpires: 2026-08-08 20:30 Z\nAt 241 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Fulgham to near Lynnville. Movement was north at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mayfield, Fulton, Clinton, Cayce, Lynnville, Fulgham, Sedalia, Wingo, Hardin, Water Valley, Lowes, Fancy Farm, Kirksey, Brewers, Dukedom, and Harris Grove.  This includes Interstate 69 in Kentucky between Mile Markers 1 and 34.\nGenerated: 2026-08-08 20:10:15 UTC"
   36.5100, -89.0600
   36.9400, -88.9400
   36.9500, -88.8800
@@ -182,7 +233,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:42PM CDT by NWS Paducah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:41PM CDT by NWS Fort Worth TX\nExpires: 2026-08-08 20:15 Z\nAt 241 PM CDT, Doppler radar was tracking a strong thunderstorm near Como, or 8 miles east of Sulphur Springs. This storm was nearly stationary.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Hopkins County, including the following locations... Pine Forest, Martin Springs, and Weaver.  This includes Interstate 30 between mile markers 126 and 139.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:41PM CDT by NWS Fort Worth TX\nExpires: 2026-08-08 20:15 Z\nAt 241 PM CDT, Doppler radar was tracking a strong thunderstorm near Como, or 8 miles east of Sulphur Springs. This storm was nearly stationary.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Hopkins County, including the following locations... Pine Forest, Martin Springs, and Weaver.  This includes Interstate 30 between mile markers 126 and 139.\nGenerated: 2026-08-08 20:10:15 UTC"
   33.0000, -95.5700
   33.1600, -95.5900
   33.2400, -95.3700
@@ -192,7 +243,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:41PM CDT by NWS Fort Wo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:39PM EDT by NWS Morristown TN\nExpires: 2026-08-08 20:30 Z\nAt 339 PM EDT, Doppler radar was tracking a strong thunderstorm near Newport, moving south at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Newport, Parrottsville, Pittman Center, Del Rio, Cosby, and Hartford.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:39PM EDT by NWS Morristown TN\nExpires: 2026-08-08 20:30 Z\nAt 339 PM EDT, Doppler radar was tracking a strong thunderstorm near Newport, moving south at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Newport, Parrottsville, Pittman Center, Del Rio, Cosby, and Hartford.\nGenerated: 2026-08-08 20:10:15 UTC"
   35.7500, -83.3400
   35.9600, -83.3300
   36.0300, -82.9900
@@ -209,7 +260,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:39PM EDT by NWS Morrist
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:36PM CDT by NWS Nashville TN\nExpires: 2026-08-08 20:15 Z\nAt 235 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Springfield, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clarksville, Springfield, White House, Millersville, Greenbrier, Coopertown, Ridgetop, Cross Plains, Guthrie, Orlinda, Adams, and Cedar Hill.  This includes the following highways... Interstate 65 between mile markers 105 and 106. Interstate 24 between mile markers 1 and 21.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:36PM CDT by NWS Nashville TN\nExpires: 2026-08-08 20:15 Z\nAt 235 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Springfield, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clarksville, Springfield, White House, Millersville, Greenbrier, Coopertown, Ridgetop, Cross Plains, Guthrie, Orlinda, Adams, and Cedar Hill.  This includes the following highways... Interstate 65 between mile markers 105 and 106. Interstate 24 between mile markers 1 and 21.\nGenerated: 2026-08-08 20:10:15 UTC"
   36.4100, -86.7000
   36.4200, -86.7500
   36.4000, -86.7700
@@ -223,7 +274,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:36PM CDT by NWS Nashvil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:34PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 20:30 Z\nAt 234 PM CDT, Doppler radar was tracking a strong thunderstorm near Maud, or 12 miles south of New Boston, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Maud, Douglassville and Bryans Mill.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:34PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 20:30 Z\nAt 234 PM CDT, Doppler radar was tracking a strong thunderstorm near Maud, or 12 miles south of New Boston, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Maud, Douglassville and Bryans Mill.\nGenerated: 2026-08-08 20:10:15 UTC"
   33.2500, -94.5900
   33.3800, -94.3400
   33.2200, -94.1700
@@ -232,7 +283,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 2:34PM CDT by NWS Shrevep
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:33PM EDT by NWS Upton NY\nExpires: 2026-08-08 20:15 Z\nAt 333 PM EDT, Doppler radar was tracking a strong thunderstorm over Perth Amboy, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Todt Hill, Huguenot, The Verrazano Narrows Bridge, Port Richmond, Tottenville, Tompkinsville, Oakwood, Annadale, New Dorp, Heartland Village, Greenridge, and Grasmere.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:33PM EDT by NWS Upton NY\nExpires: 2026-08-08 20:15 Z\nAt 333 PM EDT, Doppler radar was tracking a strong thunderstorm over Perth Amboy, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Todt Hill, Huguenot, The Verrazano Narrows Bridge, Port Richmond, Tottenville, Tompkinsville, Oakwood, Annadale, New Dorp, Heartland Village, Greenridge, and Grasmere.\nGenerated: 2026-08-08 20:10:15 UTC"
   40.5000, -74.2600
   40.5100, -74.2600
   40.5200, -74.2500
@@ -251,7 +302,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:33PM EDT by NWS Upton N
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 1:27PM MDT by NWS Denver CO\nExpires: 2026-08-08 20:15 Z\nAt 127 PM MDT, Doppler radar was tracking a line of showers extending from near Idledale to near Tarryall Reservoir, or extending from 16 miles west of Denver to 51 miles southwest of Denver, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southern Lakewood, southwestern Golden, Evergreen, Morrison, Pine Junction, Pine Grove, Bailey, Conifer, Harris Park, Wellington Lake, Buffalo Creek, Aspen Park, Highland Park, Shawnee, Brookvale, South Platte and Tiny Town.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 1:27PM MDT by NWS Denver CO\nExpires: 2026-08-08 20:15 Z\nAt 127 PM MDT, Doppler radar was tracking a line of showers extending from near Idledale to near Tarryall Reservoir, or extending from 16 miles west of Denver to 51 miles southwest of Denver, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southern Lakewood, southwestern Golden, Evergreen, Morrison, Pine Junction, Pine Grove, Bailey, Conifer, Harris Park, Wellington Lake, Buffalo Creek, Aspen Park, Highland Park, Shawnee, Brookvale, South Platte and Tiny Town.\nGenerated: 2026-08-08 20:10:15 UTC"
   39.4100, -105.8000
   39.4900, -105.6100
   39.7600, -105.2900
@@ -275,7 +326,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 1:27PM MDT by NWS Denver 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 3:25PM EDT by NWS Jacksonville FL\nExpires: 2026-08-08 20:15 Z\nAt 324 PM EDT, Doppler radar was tracking a strong thunderstorm near Lynne, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Ocala, Fort McCoy, Citra, Lynne, Weirsdale, Sparr, Anthony, The Village of Briar Meadow, Ocklawaha, and Moss Bluff.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 3:25PM EDT by NWS Jacksonville FL\nExpires: 2026-08-08 20:15 Z\nAt 324 PM EDT, Doppler radar was tracking a strong thunderstorm near Lynne, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Ocala, Fort McCoy, Citra, Lynne, Weirsdale, Sparr, Anthony, The Village of Briar Meadow, Ocklawaha, and Moss Bluff.\nGenerated: 2026-08-08 20:10:15 UTC"
   29.2600, -82.2700
   29.4300, -82.2000
   29.4800, -81.9500
@@ -286,7 +337,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 3:25PM EDT by NWS Jackson
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 2:21PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 20:15 Z\nAt 221 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Atlanta, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Atlanta, Linden, Queen City, Rodessa, Bivins, Kildare, McLeod, Ravanna, Brightstar, Fairview, Avinger, Bloomburg, Domino, Red Hill and Pruett.\nGenerated: 2026-08-08 20:05:15 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 2:21PM CDT by NWS Shreveport LA\nExpires: 2026-08-08 20:15 Z\nAt 221 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles west of Atlanta, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Atlanta, Linden, Queen City, Rodessa, Bivins, Kildare, McLeod, Ravanna, Brightstar, Fairview, Avinger, Bloomburg, Domino, Red Hill and Pruett.\nGenerated: 2026-08-08 20:10:15 UTC"
   33.1000, -94.4700
   33.2500, -94.0900
   33.0200, -93.8900
