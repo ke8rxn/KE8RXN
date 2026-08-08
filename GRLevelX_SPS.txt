@@ -3,9 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-08 15:40:16 UTC
+; Generated: 2026-08-08 15:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 10:35AM CDT by NWS Shreveport LA\nExpires: 2026-08-08 16:30 Z\nAt 1035 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Idabel, or 20 miles northeast of Clarksville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Avery, Harris, Goodlake and Beaverdams.\nGenerated: 2026-08-08 15:40:16 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 11:44AM EDT by NWS Charleston WV\nExpires: 2026-08-08 16:15 Z\nAt 1143 AM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Kenna, or 8 miles northeast of Winfield, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Winfield, Sissonville, Kenna, Harmony, Kentuck, Liberty, and Walton.  This includes the following highways... Interstate 79 between mile markers 2 and 9. Interstate 77 in West Virginia between mile markers 106 and 127.\nGenerated: 2026-08-08 15:45:16 UTC"
+  38.6800, -81.8000
+  38.6800, -81.7700
+  38.7000, -81.7900
+  38.7100, -81.7800
+  38.6900, -81.3500
+  38.3700, -81.5500
+  38.5400, -81.8900
+  38.6800, -81.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 11:41AM EDT by NWS State College PA\nExpires: 2026-08-08 16:15 Z\nAt 1141 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Weigelstown to Hanover to near Emmitsburg. Movement was east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... York, Hanover, Weigelstown, Elizabethtown, Columbia, Gettysburg, Mount Joy, Parkville, Red Lion, Spry, Dallastown, Hampton, Shiloh, East York, Stonybrook-Wilshire, West York, Salunga-Landisville, Littlestown, Carroll Valley, and Maytown.\nGenerated: 2026-08-08 15:45:16 UTC"
+  39.7400, -77.4600
+  39.8700, -77.3200
+  40.1700, -77.1100
+  40.1600, -76.7500
+  40.1200, -76.7200
+  40.1600, -76.7000
+  40.1500, -76.3800
+  39.8400, -76.5000
+  39.7200, -76.7700
+  39.7200, -77.4600
+  39.7400, -77.4600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 10:35AM CDT by NWS Shreveport LA\nExpires: 2026-08-08 16:30 Z\nAt 1035 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Idabel, or 20 miles northeast of Clarksville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Avery, Harris, Goodlake and Beaverdams.\nGenerated: 2026-08-08 15:45:16 UTC"
   33.8100, -94.9100
   33.8900, -94.7400
   33.6400, -94.5100
@@ -14,7 +41,7 @@ Line: 2,,"Special Weather Statement issued August 8 at 10:35AM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 10:31AM CDT by NWS North Platte NE\nExpires: 2026-08-08 16:15 Z\nAt 1030 AM CDT, Doppler radar was tracking a strong thunderstorm over Ericson, or 16 miles northeast of Ord, moving east at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Ericson and Pibel Lake State Recreation Area.  This includes Highway 281 between mile markers 132 and 141.\nGenerated: 2026-08-08 15:40:16 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 10:31AM CDT by NWS North Platte NE\nExpires: 2026-08-08 16:15 Z\nAt 1030 AM CDT, Doppler radar was tracking a strong thunderstorm over Ericson, or 16 miles northeast of Ord, moving east at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Ericson and Pibel Lake State Recreation Area.  This includes Highway 281 between mile markers 132 and 141.\nGenerated: 2026-08-08 15:45:16 UTC"
   41.7400, -98.8100
   41.8600, -98.8100
   41.9000, -98.3000
@@ -23,19 +50,10 @@ Line: 2,,"Special Weather Statement issued August 8 at 10:31AM CDT by NWS North 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 10:25AM CDT by NWS Hastings NE\nExpires: 2026-08-08 16:15 Z\nAt 1025 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Ord, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Spalding.\nGenerated: 2026-08-08 15:40:16 UTC"
+Line: 2,,"Special Weather Statement issued August 8 at 10:25AM CDT by NWS Hastings NE\nExpires: 2026-08-08 16:15 Z\nAt 1025 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Ord, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Spalding.\nGenerated: 2026-08-08 15:45:16 UTC"
   41.5200, -98.2900
   41.5200, -98.9700
   41.7400, -98.9500
   41.7400, -98.2900
   41.5200, -98.2900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 11:12AM EDT by NWS Charleston WV\nExpires: 2026-08-08 15:45 Z\nAt 1112 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Ripley to 6 miles northeast of Buffalo. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ripley, Spencer, Buffalo, Kenna, Statts Mills, Harmony, Given, Kentuck, Liberty, Grimms Landing, Fairplain, Gay, and Gandeeville.  This includes Interstate 77 in West Virginia between mile markers 117 and 139.\nGenerated: 2026-08-08 15:40:16 UTC"
-  38.8500, -81.1100
-  38.5300, -81.6700
-  38.6500, -82.0500
-  38.8800, -81.6500
-  38.8500, -81.1100
 End:
