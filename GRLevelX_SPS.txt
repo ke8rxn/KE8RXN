@@ -3,30 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-09 18:10:15 UTC
+; Generated: 2026-08-09 18:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 2:02PM EDT by NWS Jacksonville FL\nExpires: 2026-08-09 18:30 Z\nAt 202 PM EDT, Doppler radar was tracking a strong thunderstorm near Brunswick, moving southwest at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Brunswick, St. Simons Island, Dock Junction, St Simons Island Village, Jekyll Island, and Dover Bluff.\nGenerated: 2026-08-09 18:10:15 UTC"
+Line: 2,,"Special Weather Statement issued August 9 at 1:13PM CDT by NWS Birmingham AL\nExpires: 2026-08-09 18:45 Z\nAt 113 PM CDT, Doppler radar was tracking a strong thunderstorm near Jacksonville State University, or 7 miles west of Piedmont, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Piedmont, Reaves, and Knightens Crossroads.\nGenerated: 2026-08-09 18:15:15 UTC"
+  34.0300, -85.6300
+  33.9000, -85.6000
+  33.8300, -85.8100
+  33.9700, -85.8500
+  34.0100, -85.7500
+  34.0300, -85.6300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 9 at 1:11PM CDT by NWS Memphis TN\nExpires: 2026-08-09 18:45 Z\nAt 111 PM CDT, Doppler radar was tracking a strong thunderstorm near Vardaman, or 9 miles northwest of Houston, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Houston, Vardaman, Pyland, New Houlka, Woodland, Tabbville, Anchor, Thorn, Parkersburg, and Thelma.\nGenerated: 2026-08-09 18:15:15 UTC"
+  33.8800, -89.2600
+  34.0400, -89.1700
+  34.0200, -88.8900
+  33.7500, -89.0100
+  33.7500, -89.0400
+  33.8800, -89.2600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 9 at 2:02PM EDT by NWS Jacksonville FL\nExpires: 2026-08-09 18:30 Z\nAt 202 PM EDT, Doppler radar was tracking a strong thunderstorm near Brunswick, moving southwest at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Brunswick, St. Simons Island, Dock Junction, St Simons Island Village, Jekyll Island, and Dover Bluff.\nGenerated: 2026-08-09 18:15:15 UTC"
   31.2100, -81.5600
   31.1700, -81.3500
   30.8900, -81.4900
   31.0400, -81.7500
   31.2100, -81.5600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 1:51PM EDT by NWS Blacksburg VA\nExpires: 2026-08-09 18:15 Z\nAt 151 PM EDT, Doppler radar was tracking a strong thunderstorm over Low Gap, or near Bottom, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Airy... Galax... Flat Rock... Dobson... Ararat... Cana... and Bottom.\nGenerated: 2026-08-09 18:10:15 UTC"
-  36.4800, -80.9600
-  36.6400, -80.9300
-  36.6300, -80.4900
-  36.3400, -80.5500
-  36.4800, -80.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 12:49PM CDT by NWS Birmingham AL\nExpires: 2026-08-09 18:15 Z\nAt 1249 PM CDT, Doppler radar was tracking a strong thunderstorm over Alexandria, or over Saks, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Anniston, Saks, Fort McClellan, Weaver, and Alexandria.\nGenerated: 2026-08-09 18:10:15 UTC"
-  33.6600, -85.9300
-  33.7700, -86.0000
-  33.8400, -85.8500
-  33.7300, -85.7200
-  33.6600, -85.9300
 End:
