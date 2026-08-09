@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-09 11:10:18 UTC
+; Generated: 2026-08-09 11:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 5:56AM CDT by NWS Des Moines IA\nExpires: 2026-08-09 11:30 Z\nAt 556 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Iowa Lake, or 13 miles southeast of Fairmont, moving northeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Iowa Lake, Swea City, Lakota, and Ledyard.\nGenerated: 2026-08-09 11:10:18 UTC"
+Line: 2,,"Special Weather Statement issued August 9 at 6:14AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-09 12:00 Z\nAt 614 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near Good Thunder to 11 miles south of Elmore, or extending from 15 miles south of Mankato to 29 miles southeast of Fairmont, moving east at 25 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Blue Earth, Wells, Mapleton, Minnesota Lake, Elmore, Good Thunder, Amboy, Bricelyn, Vernon Center, Pemberton, Waldorf, Easton, Frost, Delavan, Kiester, Brush Creek, Walters, Baroda and Alma City.\nGenerated: 2026-08-09 11:15:17 UTC"
+  43.8500, -94.1600
+  44.0200, -94.1800
+  44.0600, -93.6400
+  43.8500, -93.6400
+  43.8500, -93.6500
+  43.5000, -93.6500
+  43.5000, -94.1400
+  43.5800, -94.1300
+  43.8500, -94.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 9 at 5:56AM CDT by NWS Des Moines IA\nExpires: 2026-08-09 11:30 Z\nAt 556 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles east of Iowa Lake, or 13 miles southeast of Fairmont, moving northeast at 15 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Iowa Lake, Swea City, Lakota, and Ledyard.\nGenerated: 2026-08-09 11:15:17 UTC"
   43.5000, -93.9700
   43.3800, -93.9700
   43.3400, -94.4200
@@ -14,25 +27,7 @@ Line: 2,,"Special Weather Statement issued August 9 at 5:56AM CDT by NWS Des Moi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 5:46AM CDT by NWS Des Moines IA\nExpires: 2026-08-09 11:15 Z\nAt 546 AM CDT, Doppler radar was tracking a strong thunderstorm 11 miles northwest of Humboldt, or 12 miles northwest of Dakota City, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Livermore, Bode, Lu Verne, St. Joseph, Ottosen, and Irvington.\nGenerated: 2026-08-09 11:10:18 UTC"
-  42.7700, -94.3700
-  42.8900, -94.4200
-  43.0300, -94.2000
-  42.8600, -94.0200
-  42.7700, -94.3700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 5:42AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-09 11:15 Z\nAt 542 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southeast of Fairmont, moving east at 25 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Fairmont, Blue Earth, Elmore, East Chain and Wilbert.\nGenerated: 2026-08-09 11:10:18 UTC"
-  43.5000, -94.5500
-  43.6400, -94.6000
-  43.6400, -94.1100
-  43.5000, -94.0500
-  43.5000, -94.5500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 5:38AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-09 11:45 Z\nAt 538 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from over Arlington to near Springfield, or extending from 23 miles southeast of Hutchinson to 20 miles southeast of Redwood Falls, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... New Ulm, St. Peter, New Prague, Belle Plaine, Le Sueur, Sleepy Eye, Le Center, Gaylord, Arlington, Winthrop, Nicollet, Henderson, Gibbon, Kasota, Courtland, Green Isle, Lafayette, Cleveland and Helena.\nGenerated: 2026-08-09 11:10:18 UTC"
+Line: 2,,"Special Weather Statement issued August 9 at 5:38AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-09 11:45 Z\nAt 538 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from over Arlington to near Springfield, or extending from 23 miles southeast of Hutchinson to 20 miles southeast of Redwood Falls, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... New Ulm, St. Peter, New Prague, Belle Plaine, Le Sueur, Sleepy Eye, Le Center, Gaylord, Arlington, Winthrop, Nicollet, Henderson, Gibbon, Kasota, Courtland, Green Isle, Lafayette, Cleveland and Helena.\nGenerated: 2026-08-09 11:15:17 UTC"
   44.2800, -95.0900
   44.6300, -94.5000
   44.6900, -94.2200
@@ -47,16 +42,4 @@ Line: 2,,"Special Weather Statement issued August 9 at 5:38AM CDT by NWS Twin Ci
   44.2300, -94.3700
   44.2300, -94.6700
   44.2800, -95.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 5:12AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-09 11:15 Z\nAt 512 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles west of Hanska to near Truman, or extending from 14 miles southwest of New Ulm to 9 miles north of Fairmont, moving east at 40 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mankato, Fairmont, North Mankato, St. James, Blue Earth, Lake Crystal, Eagle Lake, Madelia, Mapleton, Winnebago, Truman, Madison Lake, St. Clair, Minnesota Lake, Welcome, Good Thunder, Amboy, Hanska, Vernon Center and Lewisville.\nGenerated: 2026-08-09 11:10:18 UTC"
-  44.1100, -94.7400
-  44.2300, -94.6700
-  44.2400, -93.7700
-  43.8500, -93.7700
-  43.6300, -93.7800
-  43.6300, -94.6400
-  44.0000, -94.6800
-  44.1100, -94.7400
 End:
