@@ -3,57 +3,47 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-09 04:55:12 UTC
+; Generated: 2026-08-09 05:00:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 8 at 9:47PM MST by NWS Phoenix AZ\nExpires: 2026-08-09 05:30 Z\nAt 946 PM MST, Doppler radar was tracking a strong thunderstorm 17 miles northwest of Tonopah, moving west at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of east central La Paz and Maricopa Counties.  This includes AZ Interstate 10 between mile markers 50 and 84.\nGenerated: 2026-08-09 04:55:12 UTC"
+Line: 2,,"Special Weather Statement issued August 9 at 12:57AM EDT by NWS Charleston WV\nExpires: 2026-08-09 05:45 Z\nAt 1257 AM EDT, radar indicated strong thunderstorms were located along a line extending from 13 miles southwest of Woodsfield to 8 miles southwest of Belmont to 8 miles northeast of Sandyville. Movement was east at 30 mph.  Winds in excess of 40 mph and pea size hail are possible with these storms.  Locations impacted include... Harrisville, St. Marys, Elizabeth, Middlebourne, Paden City, Sistersville, Pennsboro, Belmont, North Bend State Park, Mineralwells, Newport, Matamoras, Ellenboro, Cairo, Friendly, Fly, Cherry, Maxwell, Schultz, and New Matamoras.  This includes the following highways... Interstate 77 in West Virginia between mile markers 161 and 163. Route 50 in West Virginia between mile markers 14 and 41.  Torrential rainfall is also occurring with these storms, and may cause localized flooding. Do not drive your vehicle through flooded roadways.\nGenerated: 2026-08-09 05:00:18 UTC"
+  39.5800, -80.8900
+  39.5900, -80.8600
+  39.3400, -80.9200
+  39.0400, -81.1400
+  39.0400, -81.1600
+  39.0000, -81.2000
+  38.9900, -81.5400
+  39.0000, -81.5300
+  39.0300, -81.5900
+  39.2600, -81.4500
+  39.5900, -81.3400
+  39.5900, -81.2800
+  39.6100, -81.2800
+  39.6100, -81.2700
+  39.5800, -81.2700
+  39.5800, -81.2500
+  39.5700, -81.0400
+  39.5400, -81.0400
+  39.6100, -80.9500
+  39.5800, -80.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 9 at 12:56AM EDT by NWS Binghamton NY\nExpires: 2026-08-09 05:15 Z\nAt 1256 AM EDT, Doppler radar was tracking a strong thunderstorm over Alder Creek, or near Boonville, moving east at 55 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Boonville, Forestport, Remsen, Alder Creek, Hawkinsville, Pixley Falls State Park, and Woodgate.\nGenerated: 2026-08-09 05:00:18 UTC"
+  43.3400, -75.0800
+  43.3200, -75.3300
+  43.4500, -75.4800
+  43.5000, -75.3400
+  43.5600, -75.2400
+  43.6100, -75.1100
+  43.3400, -75.0800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 8 at 9:47PM MST by NWS Phoenix AZ\nExpires: 2026-08-09 05:30 Z\nAt 946 PM MST, Doppler radar was tracking a strong thunderstorm 17 miles northwest of Tonopah, moving west at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of east central La Paz and Maricopa Counties.  This includes AZ Interstate 10 between mile markers 50 and 84.\nGenerated: 2026-08-09 05:00:18 UTC"
   33.7100, -113.1200
   33.4800, -113.0900
   33.4400, -113.6700
   33.7000, -113.7000
   33.7100, -113.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 12:24AM EDT by NWS Charleston WV\nExpires: 2026-08-09 05:00 Z\nAt 1223 AM EDT, Doppler radar was tracking a strong thunderstorm over Washington, or near Belpre, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Parkersburg, Belpre, Vienna, Lubeck, Washington, Mineralwells, North Hills, Blennerhassett, Walker, Davisville, Little Hocking, and Petroleum.  This includes the following highways... Interstate 77 in West Virginia between mile markers 168 and 181. Route 50 in West Virginia between mile markers 1 and 23.\nGenerated: 2026-08-09 04:55:12 UTC"
-  39.1500, -81.2600
-  39.1500, -81.3200
-  39.1700, -81.3200
-  39.1800, -81.3000
-  39.1800, -81.3100
-  39.1500, -81.3700
-  39.1600, -81.7300
-  39.1900, -81.7400
-  39.2300, -81.7200
-  39.2700, -81.7200
-  39.2700, -81.7600
-  39.3200, -81.7700
-  39.3300, -81.3000
-  39.1500, -81.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 12:20AM EDT by NWS Charleston WV\nExpires: 2026-08-09 05:00 Z\nAt 1220 AM EDT, Doppler radar was tracking a strong thunderstorm near Chesterhill, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Parkersburg, Marietta, Beverly, Vienna, Williamstown, Boaz, North Hills, Lowell, Macksburg, Waverly, Fleming, and Devola.  This includes the following highways... Interstate 77 in West Virginia between mile markers 179 and 186. Interstate 77 in Ohio between mile markers 1 and 17.\nGenerated: 2026-08-09 04:55:12 UTC"
-  39.6300, -81.4500
-  39.6300, -81.4200
-  39.3400, -81.3600
-  39.3400, -81.3700
-  39.3200, -81.3600
-  39.2800, -81.3500
-  39.3200, -81.8000
-  39.5300, -81.8000
-  39.6000, -81.5900
-  39.5900, -81.5800
-  39.5800, -81.4800
-  39.6400, -81.4700
-  39.6500, -81.4500
-  39.6300, -81.4500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 12:17AM EDT by NWS Binghamton NY\nExpires: 2026-08-09 05:00 Z\nAt 1217 AM EDT, Doppler radar was tracking a strong thunderstorm over Jasper, or 17 miles southeast of Hornell, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Corning, Campbell, Canisteo, Caton, Lindley, Painted Post, Addison, Woodhull, Hornby, and Jasper.\nGenerated: 2026-08-09 04:55:12 UTC"
-  42.2700, -77.7300
-  42.2800, -76.9700
-  42.0000, -76.9700
-  42.0000, -77.7400
-  42.2700, -77.7300
 End:
