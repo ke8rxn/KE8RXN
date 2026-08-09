@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-09 17:50:14 UTC
+; Generated: 2026-08-09 17:55:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 9 at 12:49PM CDT by NWS Birmingham AL\nExpires: 2026-08-09 18:15 Z\nAt 1249 PM CDT, Doppler radar was tracking a strong thunderstorm over Alexandria, or over Saks, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Anniston, Saks, Fort McClellan, Weaver, and Alexandria.\nGenerated: 2026-08-09 17:50:14 UTC"
+Line: 2,,"Special Weather Statement issued August 9 at 1:51PM EDT by NWS Blacksburg VA\nExpires: 2026-08-09 18:15 Z\nAt 151 PM EDT, Doppler radar was tracking a strong thunderstorm over Low Gap, or near Bottom, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mount Airy... Galax... Flat Rock... Dobson... Ararat... Cana... and Bottom.\nGenerated: 2026-08-09 17:55:15 UTC"
+  36.4800, -80.9600
+  36.6400, -80.9300
+  36.6300, -80.4900
+  36.3400, -80.5500
+  36.4800, -80.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 9 at 12:49PM CDT by NWS Birmingham AL\nExpires: 2026-08-09 18:15 Z\nAt 1249 PM CDT, Doppler radar was tracking a strong thunderstorm over Alexandria, or over Saks, moving northeast at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Anniston, Saks, Fort McClellan, Weaver, and Alexandria.\nGenerated: 2026-08-09 17:55:15 UTC"
   33.6600, -85.9300
   33.7700, -86.0000
   33.8400, -85.8500
