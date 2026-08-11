@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-11 05:25:14 UTC
+; Generated: 2026-08-11 05:30:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 10 at 10:10PM MST by NWS Phoenix AZ\nExpires: 2026-08-11 05:45 Z\nAt 1010 PM MST, Doppler radar was tracking a strong thunderstorm over Queen Valley, or 9 miles west of Superior, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Florence Junction and Queen Valley.  This includes the following highways... US Highway 60 between mile markers 209 and 219. AZ Route 79 between mile markers 146 and 150.\nGenerated: 2026-08-11 05:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 11 at 1:27AM EDT by NWS Cleveland OH\nExpires: 2026-08-11 06:00 Z\nAt 127 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Lakewood to near Cleveland. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cleveland, Willowick, Euclid, Mentor, Cleveland Heights, Willoughby, Eastlake, Warrensville Heights, South Russell, Burton, Highland Hills, Timberlake, Lakeline, Chesterland, Shaker Heights, Maple Heights, South Euclid, Mayfield Heights, East Cleveland, and Lyndhurst.\nGenerated: 2026-08-11 05:30:15 UTC"
+  41.4400, -81.1100
+  41.4200, -81.5600
+  41.5300, -81.6600
+  41.5500, -81.6300
+  41.5500, -81.6200
+  41.6200, -81.5300
+  41.6200, -81.5000
+  41.7000, -81.4100
+  41.7200, -81.3600
+  41.4400, -81.1100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 11 at 1:26AM EDT by NWS Cleveland OH\nExpires: 2026-08-11 06:00 Z\nAt 125 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Macedonia to 7 miles northeast of Hartville. Movement was east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ravenna, Kent, Solon, Hudson, Twinsburg, Tallmadge, Streetsboro, Warrensville Heights, Macedonia, Newton Falls, South Russell, Garrettsville, Mantua, Stow, Garfield Heights, Maple Heights, Aurora, Bedford, Bedford Heights, and Brimfield.\nGenerated: 2026-08-11 05:30:15 UTC"
+  41.4400, -81.1200
+  41.0000, -80.8000
+  40.9900, -81.2700
+  41.4200, -81.6500
+  41.4400, -81.1200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 10 at 10:10PM MST by NWS Phoenix AZ\nExpires: 2026-08-11 05:45 Z\nAt 1010 PM MST, Doppler radar was tracking a strong thunderstorm over Queen Valley, or 9 miles west of Superior, moving west at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Florence Junction and Queen Valley.  This includes the following highways... US Highway 60 between mile markers 209 and 219. AZ Route 79 between mile markers 146 and 150.\nGenerated: 2026-08-11 05:30:15 UTC"
   33.3300, -111.2000
   33.1900, -111.2500
   33.2000, -111.4300
@@ -14,7 +37,7 @@ Line: 2,,"Special Weather Statement issued August 10 at 10:10PM MST by NWS Phoen
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 11 at 1:10AM EDT by NWS Baltimore MD/Washington DC\nExpires: 2026-08-11 05:45 Z\nAt 110 AM EDT, Doppler radar was tracking a strong thunderstorm over Terra Alta, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mountain Lake Park, Oakland, Westernport, Bittinger, Piedmont, Loch Lynn Heights, Deer Park, Franklin, Luke, Merrill, Hutton, Crellin, Deep Creek Lake State Park, Swallow Falls State Park, McHenry, Big Run State Park, New Germany, McComas Beach, and Jennings.\nGenerated: 2026-08-11 05:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 11 at 1:10AM EDT by NWS Baltimore MD/Washington DC\nExpires: 2026-08-11 05:45 Z\nAt 110 AM EDT, Doppler radar was tracking a strong thunderstorm over Terra Alta, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mountain Lake Park, Oakland, Westernport, Bittinger, Piedmont, Loch Lynn Heights, Deer Park, Franklin, Luke, Merrill, Hutton, Crellin, Deep Creek Lake State Park, Swallow Falls State Park, McHenry, Big Run State Park, New Germany, McComas Beach, and Jennings.\nGenerated: 2026-08-11 05:30:15 UTC"
   39.6700, -79.0800
   39.4800, -79.0500
   39.4700, -79.0600
@@ -36,7 +59,7 @@ Line: 2,,"Special Weather Statement issued August 11 at 1:10AM EDT by NWS Baltim
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 10 at 11:44PM CDT by NWS Hastings NE\nExpires: 2026-08-11 05:45 Z\nAt 1144 PM CDT, Doppler radar was tracking a strong thunderstorm over Taylor, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elyria and Ord.\nGenerated: 2026-08-11 05:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 10 at 11:44PM CDT by NWS Hastings NE\nExpires: 2026-08-11 05:45 Z\nAt 1144 PM CDT, Doppler radar was tracking a strong thunderstorm over Taylor, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elyria and Ord.\nGenerated: 2026-08-11 05:30:15 UTC"
   41.7400, -98.9800
   41.7000, -98.8300
   41.3900, -98.9300
