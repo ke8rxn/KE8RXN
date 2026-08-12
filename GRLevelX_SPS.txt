@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-12 05:55:20 UTC
+; Generated: 2026-08-12 06:00:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:51AM EDT by NWS Northern Indiana\nExpires: 2026-08-12 06:30 Z\nAt 150 AM EDT, Doppler radar was tracking a strong thunderstorm over Peru, moving southeast at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Peru, Grissom Afb, Sweetser, Swayzee, Bunker Hill, La Fontaine, Mexico, Wells, Converse, Erie, Amboy, Mier, Jalapa, Herbst, Santa Fe, Treaty, Peoria, Roseburg, and Nead.\nGenerated: 2026-08-12 05:55:20 UTC"
+Line: 2,,"Special Weather Statement issued August 12 at 12:58AM CDT by NWS Bismarck ND\nExpires: 2026-08-12 06:45 Z\nAt 1258 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Jamestown, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jamestown, Ypsilanti, Spiritwood Lake, Buchanan, Spiritwood and Eldridge.\nGenerated: 2026-08-12 06:00:19 UTC"
+  46.7900, -98.9000
+  47.0200, -99.0000
+  47.1600, -98.4700
+  46.9800, -98.4700
+  46.9800, -98.4400
+  46.7800, -98.4400
+  46.7900, -98.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 12 at 1:51AM EDT by NWS Northern Indiana\nExpires: 2026-08-12 06:30 Z\nAt 150 AM EDT, Doppler radar was tracking a strong thunderstorm over Peru, moving southeast at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Marion, Peru, Grissom Afb, Sweetser, Swayzee, Bunker Hill, La Fontaine, Mexico, Wells, Converse, Erie, Amboy, Mier, Jalapa, Herbst, Santa Fe, Treaty, Peoria, Roseburg, and Nead.\nGenerated: 2026-08-12 06:00:19 UTC"
   40.5100, -85.8700
   40.5700, -85.8700
   40.5600, -85.9800
@@ -17,49 +28,4 @@ Line: 2,,"Special Weather Statement issued August 12 at 1:51AM EDT by NWS Northe
   40.6500, -85.6300
   40.4500, -85.7600
   40.5100, -85.8700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 12:29AM CDT by NWS Bismarck ND\nExpires: 2026-08-12 06:00 Z\nAt 1229 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles northwest of Pettibone to 8 miles east of Cleveland, or extending from 28 miles southwest of Carrington to 13 miles west of Jamestown, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jamestown, Medina, Buchanan, Pingree, Woodworth, Eldridge, Edmunds and Chase Lake.\nGenerated: 2026-08-12 05:55:20 UTC"
-  46.9800, -99.4800
-  47.3100, -99.4800
-  47.3200, -99.2700
-  47.2700, -98.9800
-  46.8800, -98.6800
-  46.8000, -98.9200
-  46.9300, -99.0100
-  46.8600, -99.4500
-  46.9800, -99.4500
-  46.9800, -99.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 12:27AM CDT by NWS Bismarck ND\nExpires: 2026-08-12 06:00 Z\nAt 1227 AM CDT /1127 PM MDT/, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles southwest of New Leipzig to 6 miles north of Haynes, or extending from 35 miles northeast of Hettinger to 7 miles northeast of Hettinger, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Haynes, North Lemmon and Bentley.\nGenerated: 2026-08-12 05:55:20 UTC"
-  46.1800, -102.7300
-  46.2500, -102.3300
-  46.3800, -102.0500
-  46.1700, -101.6800
-  45.9400, -101.8900
-  45.9500, -102.5600
-  46.1800, -102.7300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:22AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-12 06:00 Z\nAt 121 AM EDT, Doppler radar indicated thunderstorms with torrential rainfall along a line extending from 10 miles northwest of Walhalla to 10 miles south of Clayton to 9 miles northwest of Clarkesville, and moving southeast at 15 mph.  Locations to be impacted include... Clarkesville, Toccoa, Tallulah Falls, Lake Rabun, Lakemont, Tallulah Gorge State Park, Oconee State Park, Mountain Rest, Long Creek, and Batesville.  Very heavy rainfall rates up to 2 inches per hour will be possible in these areas.\nGenerated: 2026-08-12 05:55:20 UTC"
-  34.7900, -83.3900
-  34.9600, -83.2000
-  34.8100, -83.0500
-  34.5900, -83.2800
-  34.5800, -83.6400
-  34.6100, -83.6500
-  34.6200, -83.6400
-  34.6500, -83.6600
-  34.6800, -83.6400
-  34.7100, -83.6400
-  34.7300, -83.6200
-  34.7400, -83.6200
-  34.7700, -83.6300
-  34.7700, -83.6500
-  34.7900, -83.6600
-  34.7900, -83.3900
 End:
