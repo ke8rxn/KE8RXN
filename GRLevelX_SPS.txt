@@ -3,9 +3,19 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-12 08:55:19 UTC
+; Generated: 2026-08-12 09:00:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 4:38AM EDT by NWS Jackson KY\nExpires: 2026-08-12 09:15 Z\nAt 438 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles north of Sideview to Cadentown to 6 miles southwest of Lawrenceburg. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mount Sterling, Stanton, Frenchburg, Jeffersonville, Camargo, Clay City, Sharpsburg, Campsites in the Indian Creek area of the Daniel Boone National Forrest, Clay Lick, Levee, Bowen, Cornwell, Kimbrell, Rothwell, Rice Station, Kings Station, Flat Creek, Fagan, Calloway Crossing, and Wiseman Crossing Station.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 12 and 30. Interstate 64 in eastern Kentucky between mile markers 105 and 117.\nGenerated: 2026-08-12 08:55:19 UTC"
+Line: 2,,"Special Weather Statement issued August 12 at 3:59AM CDT by NWS Hastings NE\nExpires: 2026-08-12 09:45 Z\nAt 359 AM CDT, Doppler radar was tracking a strong thunderstorm near St. Libory, or 8 miles north of Grand Island, moving southeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Phillips around 410 AM CDT.  Other locations in the path of this storm include Aurora and Stockham.  This includes Interstate 80 between mile markers 315 and 340.\nGenerated: 2026-08-12 09:00:23 UTC"
+  40.7000, -98.1400
+  40.9400, -98.5200
+  41.1900, -98.3100
+  41.0600, -97.8300
+  40.7000, -97.8300
+  40.7000, -98.1400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 12 at 4:38AM EDT by NWS Jackson KY\nExpires: 2026-08-12 09:15 Z\nAt 438 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles north of Sideview to Cadentown to 6 miles southwest of Lawrenceburg. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mount Sterling, Stanton, Frenchburg, Jeffersonville, Camargo, Clay City, Sharpsburg, Campsites in the Indian Creek area of the Daniel Boone National Forrest, Clay Lick, Levee, Bowen, Cornwell, Kimbrell, Rothwell, Rice Station, Kings Station, Flat Creek, Fagan, Calloway Crossing, and Wiseman Crossing Station.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 12 and 30. Interstate 64 in eastern Kentucky between mile markers 105 and 117.\nGenerated: 2026-08-12 09:00:23 UTC"
   37.8900, -83.5500
   37.6600, -84.1100
   37.6800, -84.0900
@@ -30,7 +40,7 @@ Line: 2,,"Special Weather Statement issued August 12 at 4:38AM EDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 3:31AM CDT by NWS Marquette MI\nExpires: 2026-08-12 09:15 Z\nAt 329 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Pound, or 13 miles west of Marinette, moving east at 30 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.\nGenerated: 2026-08-12 08:55:19 UTC"
+Line: 2,,"Special Weather Statement issued August 12 at 3:31AM CDT by NWS Marquette MI\nExpires: 2026-08-12 09:15 Z\nAt 329 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Pound, or 13 miles west of Marinette, moving east at 30 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.\nGenerated: 2026-08-12 09:00:23 UTC"
   45.1100, -87.6300
   45.1100, -87.6600
   45.1500, -87.6800
@@ -39,79 +49,4 @@ Line: 2,,"Special Weather Statement issued August 12 at 3:31AM CDT by NWS Marque
   45.1200, -87.6100
   45.1000, -87.5900
   45.1100, -87.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 3:25AM CDT by NWS Green Bay WI\nExpires: 2026-08-12 09:00 Z\nAt 325 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Oconto, or 12 miles west of Marinette, moving east at 30 mph.  HAZARD...Half inch size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Other locations impacted by this strong thunderstorm include County Line, Harmony, Cullen and Peshtigo.\nGenerated: 2026-08-12 08:55:19 UTC"
-  44.9200, -87.9700
-  45.1400, -87.9600
-  45.1500, -87.7100
-  45.1400, -87.6800
-  45.1200, -87.6800
-  45.1100, -87.6600
-  45.1000, -87.6300
-  45.0900, -87.5900
-  45.1000, -87.5900
-  45.1200, -87.6100
-  45.1300, -87.6100
-  45.1400, -87.6000
-  45.1400, -87.5700
-  44.9700, -87.5800
-  44.9500, -87.5900
-  44.9400, -87.6000
-  44.9300, -87.6400
-  44.9300, -87.7200
-  44.9200, -87.7600
-  44.9200, -87.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 3:20AM CDT by NWS Hastings NE\nExpires: 2026-08-12 09:00 Z\nAt 320 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wolbach to St. Paul to near Boelus. Movement was southeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... St. Paul, Dannebrog, and Cushing around 325 AM CDT. Palmer around 330 AM CDT. St. Libory around 335 AM CDT.  Other locations in the path of these storms include Archer and Grand Island.  This includes Interstate 80 between mile markers 309 and 320.\nGenerated: 2026-08-12 08:55:19 UTC"
-  41.4000, -97.7000
-  41.2400, -97.7600
-  41.1700, -97.8300
-  41.0700, -97.8300
-  40.9300, -97.8800
-  40.7700, -98.3800
-  41.0300, -98.7200
-  41.0500, -98.7200
-  41.0500, -98.7400
-  41.1200, -98.8400
-  41.2300, -98.5200
-  41.4800, -98.3100
-  41.4000, -97.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 4:17AM EDT by NWS Louisville KY\nExpires: 2026-08-12 09:00 Z\nAt 417 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Paris to Bryan Station to near Lawrenceburg. Movement was southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lexington, Richmond, Georgetown, Frankfort, Nicholasville, Winchester, Lawrenceburg, Versailles, Paris, and Harrodsburg.\nGenerated: 2026-08-12 08:55:19 UTC"
-  37.9200, -83.9900
-  37.8600, -84.0100
-  37.8700, -84.0300
-  37.8300, -84.0000
-  37.8500, -84.0600
-  37.8200, -84.0700
-  37.8500, -84.0800
-  37.8200, -84.1200
-  37.8100, -84.0800
-  37.7800, -84.1100
-  37.7700, -84.0800
-  37.7200, -84.1000
-  37.6700, -84.0900
-  37.7200, -84.8100
-  38.2000, -85.0500
-  38.2400, -84.4900
-  38.4000, -84.2000
-  38.1800, -83.9900
-  38.1200, -84.0800
-  37.9300, -83.9700
-  37.9200, -83.9900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 3:13AM CDT by NWS Green Bay WI\nExpires: 2026-08-12 09:00 Z\nAt 313 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Pulaski, or 14 miles west of Green Bay, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Pulaski around 320 AM CDT. Green Bay around 350 AM CDT. Long Tail Point Light around 355 AM CDT.  Other locations impacted by this strong thunderstorm include Pittsfield, Rose Lawn, Laney, Hofa Park, Angelica, Oneida, Kunesh, Anston, Flintville, Howard, and Suamico.\nGenerated: 2026-08-12 08:55:19 UTC"
-  44.6700, -88.3300
-  44.6900, -87.9900
-  44.5000, -87.9900
-  44.5200, -88.3300
-  44.6700, -88.3300
 End:
