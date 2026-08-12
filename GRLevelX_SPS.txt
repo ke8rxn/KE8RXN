@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-12 17:55:15 UTC
+; Generated: 2026-08-12 18:00:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:53PM EDT by NWS Tallahassee FL\nExpires: 2026-08-12 19:00 Z\nAt 153 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from Omega to near Lakeland. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nashville, Moultrie, Adel, Valdosta, Lakeland, Hahira, Sparks, Omega, Ray City, Norman Park, Lenox, Doerun, Pavo, Coolidge, I-75 At Exit 16, Moody Air Force Base, Riverside, Schley, Remerton, and Meigs.\nGenerated: 2026-08-12 17:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 12 at 1:57PM EDT by NWS Jacksonville FL\nExpires: 2026-08-12 19:00 Z\nAt 157 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Race Pond to near St. George. Movement was southeast at 30 mph.  HAZARD...Wind gusts of 45 to 55 mph, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Jacksonville, St. Marys, Kingsland, Fernandina Beach, Hilliard, Folkston, Woodbine, Callahan, Nahunta, and Jacksonville International Arpt.\nGenerated: 2026-08-12 18:00:23 UTC"
+  30.4400, -82.2000
+  30.8500, -82.4100
+  31.1500, -82.3800
+  31.3600, -81.9700
+  31.0300, -81.3800
+  30.7700, -81.4200
+  29.9900, -81.2800
+  30.4400, -82.2000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 12 at 1:53PM EDT by NWS Tallahassee FL\nExpires: 2026-08-12 19:00 Z\nAt 153 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from Omega to near Lakeland. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nashville, Moultrie, Adel, Valdosta, Lakeland, Hahira, Sparks, Omega, Ray City, Norman Park, Lenox, Doerun, Pavo, Coolidge, I-75 At Exit 16, Moody Air Force Base, Riverside, Schley, Remerton, and Meigs.\nGenerated: 2026-08-12 18:00:23 UTC"
   30.8500, -83.0100
   30.8500, -83.0900
   30.8000, -83.1000
@@ -23,7 +35,7 @@ Line: 2,,"Special Weather Statement issued August 12 at 1:53PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:38PM EDT by NWS Burlington VT\nExpires: 2026-08-12 18:45 Z\nAt 137 PM EDT, Doppler radar was tracking a strong thunderstorm over Louisville, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Massena Village, Massena International Airport - Richards Field, Brushton, Norwood, Dickinson, Bangor, Massena, Bombay, Moira, Waddington, Stockholm, Madrid, Norfolk, Brasher, Lawrence, Brandon, Fort Covington, Westville, Waverly, and Constable.\nGenerated: 2026-08-12 17:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 12 at 1:38PM EDT by NWS Burlington VT\nExpires: 2026-08-12 18:45 Z\nAt 137 PM EDT, Doppler radar was tracking a strong thunderstorm over Louisville, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Massena Village, Massena International Airport - Richards Field, Brushton, Norwood, Dickinson, Bangor, Massena, Bombay, Moira, Waddington, Stockholm, Madrid, Norfolk, Brasher, Lawrence, Brandon, Fort Covington, Westville, Waverly, and Constable.\nGenerated: 2026-08-12 18:00:23 UTC"
   44.9000, -74.2900
   44.5600, -74.5000
   44.8200, -75.3000
@@ -46,16 +58,7 @@ Line: 2,,"Special Weather Statement issued August 12 at 1:38PM EDT by NWS Burlin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 10:33AM PDT by NWS Hanford CA\nExpires: 2026-08-12 18:00 Z\nAt 1033 AM PDT, Doppler radar was tracking a strong thunderstorm 22 miles northeast of Sanger, or 22 miles northeast of Clovis, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shaver Lake, Mountain Rest, and Trimmer Springs.\nGenerated: 2026-08-12 17:55:15 UTC"
-  36.9000, -119.2500
-  36.9100, -119.4000
-  37.1300, -119.4100
-  37.1200, -119.1400
-  36.9000, -119.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:32PM EDT by NWS Jacksonville FL\nExpires: 2026-08-12 18:15 Z\nAt 132 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Du Pont, or near Homerville, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Homerville, Pearson, Fargo, Argyle, Statenville, Du Pont, Mayday, Needmore, Manor, and Cogdell.\nGenerated: 2026-08-12 17:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 12 at 1:32PM EDT by NWS Jacksonville FL\nExpires: 2026-08-12 18:15 Z\nAt 132 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Du Pont, or near Homerville, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Homerville, Pearson, Fargo, Argyle, Statenville, Du Pont, Mayday, Needmore, Manor, and Cogdell.\nGenerated: 2026-08-12 18:00:23 UTC"
   30.8000, -83.1300
   30.8100, -83.1000
   30.8300, -83.1000
@@ -77,81 +80,10 @@ Line: 2,,"Special Weather Statement issued August 12 at 1:32PM EDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:31PM EDT by NWS Indianapolis IN\nExpires: 2026-08-12 18:00 Z\nAt 130 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Clinton to near Vermilion to 7 miles northeast of Marshall. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph, frequent lightning, very heavy rainfall, and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Terre Haute, West Terre Haute, Prairieton, Seelyville, Riley, Fontanet, Shepardsville, Pimento, North Terre Haute, Indiana State University, and Sandford.\nGenerated: 2026-08-12 17:55:15 UTC"
-  39.3500, -87.5300
-  39.6100, -87.5300
-  39.6100, -87.2000
-  39.5200, -87.2000
-  39.5200, -87.2400
-  39.3800, -87.2400
-  39.2700, -87.3300
-  39.3500, -87.5500
-  39.3500, -87.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 11:29AM MDT by NWS Salt Lake City UT\nExpires: 2026-08-12 18:15 Z\nAt 1129 AM MDT, Doppler radar was tracking a strong thunderstorm over Panguitch, or 31 miles southwest of Junction, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Panguitch and Hillsdale.  This includes the following highways... US Route 89 between mile markers 124 and 150. Utah Route 12 near mile marker 0.\nGenerated: 2026-08-12 17:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 12 at 11:29AM MDT by NWS Salt Lake City UT\nExpires: 2026-08-12 18:15 Z\nAt 1129 AM MDT, Doppler radar was tracking a strong thunderstorm over Panguitch, or 31 miles southwest of Junction, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Panguitch and Hillsdale.  This includes the following highways... US Route 89 between mile markers 124 and 150. Utah Route 12 near mile marker 0.\nGenerated: 2026-08-12 18:00:23 UTC"
   37.6900, -112.4600
   37.8300, -112.6100
   38.1200, -112.3900
   37.9100, -112.0800
   37.6900, -112.4600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:28PM EDT by NWS Indianapolis IN\nExpires: 2026-08-12 18:00 Z\nAt 128 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles northeast of Greencastle to 8 miles north of Brazil. Movement was east at 55 mph.  HAZARD...Wind gusts up to 50 mph, frequent lightning, very heavy rainfall, and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greencastle, Roachdale, Bainbridge, Fillmore, Russellville, Carpentersville, Groveland, and Belle Union.\nGenerated: 2026-08-12 17:55:15 UTC"
-  39.8700, -87.0100
-  39.8600, -86.6900
-  39.6300, -86.6900
-  39.6300, -86.6500
-  39.6100, -86.6500
-  39.6100, -86.6600
-  39.5700, -86.6600
-  39.5800, -87.0100
-  39.8700, -87.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:18PM EDT by NWS Jacksonville FL\nExpires: 2026-08-12 18:00 Z\nAt 118 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near St. Marys to near Cisco Gardens. Movement was east at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, St. Marys, Kingsland, Fernandina Beach, Jacksonville International Arpt, Unf, Kings Bay Base, Arlington, Ponte Vedra Beach, and Jacksonville Beach.\nGenerated: 2026-08-12 17:55:15 UTC"
-  30.3000, -81.9200
-  30.9200, -81.6100
-  30.8900, -81.4100
-  30.7700, -81.4200
-  30.1000, -81.3000
-  30.3000, -81.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:12PM EDT by NWS Jacksonville FL\nExpires: 2026-08-12 18:00 Z\nAt 112 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 11 miles south of Braganza to 11 miles southeast of Fargo. Movement was southeast at 25 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kingsland, Hilliard, Folkston, Woodbine, Callahan, Stephen Foster State Park, Homeland, Kings Ferry, Cisco Gardens, and St. George.\nGenerated: 2026-08-12 17:55:15 UTC"
-  30.9200, -81.6000
-  30.3300, -81.7500
-  30.6000, -82.4700
-  31.0200, -82.5200
-  31.1400, -82.2900
-  30.9200, -81.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 1:02PM EDT by NWS Tallahassee FL\nExpires: 2026-08-12 18:00 Z\nAt 102 PM EDT, Doppler radar was tracking a strong thunderstorm near Ray City, or near Nashville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lakeland, Ray City, Moody Air Force Base, Meigs, Naylor, Courthouse, Barretts, Greenwood, Allenville, Hansell, Stockton, and Teeterville.\nGenerated: 2026-08-12 17:55:15 UTC"
-  30.8600, -83.0000
-  30.8500, -83.0100
-  30.8500, -83.0900
-  30.8300, -83.0900
-  30.8300, -83.1000
-  30.8000, -83.1000
-  30.8000, -83.1300
-  31.1700, -83.2900
-  31.2300, -83.1100
-  31.1400, -82.9700
-  30.8700, -82.9700
-  30.8600, -83.0000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 12:57PM EDT by NWS Burlington VT\nExpires: 2026-08-12 18:00 Z\nAt 1256 PM EDT, Doppler radar was tracking a strong thunderstorm over St. George, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... South Burlington, Hinesburg, St. George, Huntington, Warren, Monkton Ridge, Duxbury, Moretown, Waitsfield, Fayston, Starksboro, Buels Gore, Williston, Richmond, Lincoln, Monkton, Shelburne, Charlotte, Bolton, and Essex.\nGenerated: 2026-08-12 17:55:15 UTC"
-  44.3600, -73.2500
-  44.4900, -73.0700
-  44.2300, -72.6600
-  44.0600, -72.9200
-  44.3600, -73.2500
 End:
