@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-13 07:10:18 UTC
+; Generated: 2026-08-13 07:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 12:06AM PDT by NWS Spokane WA\nExpires: 2026-08-13 08:00 Z\nAt 1206 AM PDT, Doppler radar was tracking a strong thunderstorm 23 miles northwest of Davenport, or 51 miles northwest of Cheney, moving north at 15 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Lincoln, Wilbur, Creston, Miles, Sherman, Keller, and Coffeepot Lake.\nGenerated: 2026-08-13 07:10:18 UTC"
+Line: 2,,"Special Weather Statement issued August 13 at 12:14AM PDT by NWS Spokane WA\nExpires: 2026-08-13 08:15 Z\nAt 1214 AM PDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Chewelah, or 32 miles northwest of Spokane, moving northeast at 25 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Chewelah, Springdale, Cusick, Valley, Chewelah Peak, Usk, Loon Lake, and 49 Degrees North.  This includes the following highways... U.S. Highway 20 in Washington between mile markers 421 and 423. U.S. Highway 395 in Washington between mile markers 189 and 210.\nGenerated: 2026-08-13 07:15:17 UTC"
+  47.9700, -117.7000
+  48.0500, -117.9400
+  48.3900, -117.7100
+  48.3200, -117.2100
+  47.9700, -117.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 13 at 12:06AM PDT by NWS Spokane WA\nExpires: 2026-08-13 08:00 Z\nAt 1206 AM PDT, Doppler radar was tracking a strong thunderstorm 23 miles northwest of Davenport, or 51 miles northwest of Cheney, moving north at 15 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Lincoln, Wilbur, Creston, Miles, Sherman, Keller, and Coffeepot Lake.\nGenerated: 2026-08-13 07:15:17 UTC"
   47.6500, -118.4700
   47.7400, -118.7600
   48.1200, -118.7000
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued August 13 at 12:06AM PDT by NWS Spoka
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 2:46AM EDT by NWS Upton NY\nExpires: 2026-08-13 07:30 Z\nAt 246 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Brookhaven National Laboratory to near Montauk Point. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Riverhead and Manorville around 250 AM EDT. Southampton around 255 AM EDT.\nGenerated: 2026-08-13 07:10:18 UTC"
+Line: 2,,"Special Weather Statement issued August 13 at 2:46AM EDT by NWS Upton NY\nExpires: 2026-08-13 07:30 Z\nAt 246 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Brookhaven National Laboratory to near Montauk Point. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Riverhead and Manorville around 250 AM EDT. Southampton around 255 AM EDT.\nGenerated: 2026-08-13 07:15:17 UTC"
   41.0000, -71.9600
   40.7700, -72.6600
   40.9900, -73.1000
@@ -35,22 +44,4 @@ Line: 2,,"Special Weather Statement issued August 13 at 2:46AM EDT by NWS Upton 
   41.0900, -71.9400
   41.0600, -71.8500
   41.0000, -71.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 11:15PM PDT by NWS Spokane WA\nExpires: 2026-08-13 07:15 Z\nAt 1115 PM PDT, Doppler radar was tracking a strong thunderstorm 17 miles northeast of Davenport, or 31 miles northwest of Spokane, moving northeast at 20 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Springdale, Little Falls Dam, Wellpinit, Ford, and Loon Lake.  This includes U.S. Highway 395 in Washington between mile markers 189 and 192.\nGenerated: 2026-08-13 07:10:18 UTC"
-  47.7600, -117.9800
-  47.8500, -118.1300
-  48.0900, -117.9500
-  48.0800, -117.5300
-  47.7600, -117.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 12 at 11:13PM PDT by NWS Spokane WA\nExpires: 2026-08-13 07:15 Z\nAt 1113 PM PDT, Doppler radar was tracking a strong thunderstorm 15 miles northeast of Banks Lake South, or 46 miles southeast of Omak, moving north at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Coulee Dam, Grand Coulee, Electric City, Elmer City, Spring Canyon Campground, and Bagdad Junction.\nGenerated: 2026-08-13 07:10:18 UTC"
-  47.7400, -118.9300
-  47.7400, -119.1600
-  48.0200, -119.2800
-  48.0300, -118.8400
-  47.7400, -118.9300
 End:
