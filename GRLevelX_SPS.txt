@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-14 02:25:14 UTC
+; Generated: 2026-08-14 02:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 10:23PM EDT by NWS Charleston WV\nExpires: 2026-08-14 03:45 Z\nLocally heavy rain of up to an inch has fallen over the last hour in some locations. While rainfall is currently exiting the area, localized high water is possible over the next hour or so in the typical low-lying trouble areas, with any high water receding thereafter. Do not drive your vehicle into areas where water covers the roadway. The water depth may be too great to allow your car to cross safely.\nGenerated: 2026-08-14 02:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 13 at 9:27PM CDT by NWS Birmingham AL\nExpires: 2026-08-14 03:15 Z\nAt 927 PM CDT, Doppler radar was tracking a strong thunderstorm near Pinedale, or 8 miles southeast of Montgomery, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southern Montgomery, Pike Road, Snowdoun, Hyundai Motors Of Alabama, Pinedale, Hope Hull, Pintlala, Carters Hill, and Barachias.\nGenerated: 2026-08-14 02:30:19 UTC"
+  32.1600, -86.4100
+  32.2400, -86.4100
+  32.2500, -86.4200
+  32.2600, -86.4400
+  32.2900, -86.4500
+  32.3400, -86.0500
+  32.1300, -86.0300
+  32.1600, -86.4100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 13 at 10:23PM EDT by NWS Charleston WV\nExpires: 2026-08-14 03:45 Z\nLocally heavy rain of up to an inch has fallen over the last hour in some locations. While rainfall is currently exiting the area, localized high water is possible over the next hour or so in the typical low-lying trouble areas, with any high water receding thereafter. Do not drive your vehicle into areas where water covers the roadway. The water depth may be too great to allow your car to cross safely.\nGenerated: 2026-08-14 02:30:19 UTC"
   37.0200, -82.4800
   37.0300, -82.4800
   37.0700, -82.5000
@@ -18,7 +30,7 @@ Line: 2,,"Special Weather Statement issued August 13 at 10:23PM EDT by NWS Charl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 9:21PM CDT by NWS Dodge City KS\nExpires: 2026-08-14 02:45 Z\nAt 921 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Modoc, moving north at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Modoc around 930 PM CDT.\nGenerated: 2026-08-14 02:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 13 at 9:21PM CDT by NWS Dodge City KS\nExpires: 2026-08-14 02:45 Z\nAt 921 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Modoc, moving north at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Modoc around 930 PM CDT.\nGenerated: 2026-08-14 02:30:19 UTC"
   38.7000, -100.7100
   38.2700, -100.7300
   38.2700, -101.1200
@@ -27,16 +39,7 @@ Line: 2,,"Special Weather Statement issued August 13 at 9:21PM CDT by NWS Dodge 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 7:15PM PDT by NWS Pendleton OR\nExpires: 2026-08-14 02:30 Z\nAt 715 PM PDT, Doppler radar was tracking a strong thunderstorm near Hyak, or 7 miles southeast of Snoqualmie Pass. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Kittitas County.  This includes Interstate 90 near mile marker 60.\nGenerated: 2026-08-14 02:25:14 UTC"
-  47.3300, -121.1500
-  47.3300, -121.3600
-  47.4400, -121.3700
-  47.4500, -121.1900
-  47.3300, -121.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 7:11PM PDT by NWS Medford OR\nExpires: 2026-08-14 02:45 Z\nAt 710 PM PDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Silver Lake, or 36 miles south of La Pine, moving north at 10 mph.  HAZARD...Winds around 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northwestern Lake and northeastern Klamath Counties.\nGenerated: 2026-08-14 02:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 13 at 7:11PM PDT by NWS Medford OR\nExpires: 2026-08-14 02:45 Z\nAt 710 PM PDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Silver Lake, or 36 miles south of La Pine, moving north at 10 mph.  HAZARD...Winds around 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northwestern Lake and northeastern Klamath Counties.\nGenerated: 2026-08-14 02:30:19 UTC"
   43.0800, -121.1500
   43.1200, -121.3900
   43.3700, -121.3700
@@ -45,7 +48,7 @@ Line: 2,,"Special Weather Statement issued August 13 at 7:11PM PDT by NWS Medfor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 9:08PM CDT by NWS Dodge City KS\nExpires: 2026-08-14 02:45 Z\nAt 908 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Alexander to 9 miles east of Friend. Movement was north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Ness City, Bazine, Alexander, and Beeler around 915 PM CDT. Alamota around 925 PM CDT.  Other locations in the path of these storms include McCracken.\nGenerated: 2026-08-14 02:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 13 at 9:08PM CDT by NWS Dodge City KS\nExpires: 2026-08-14 02:45 Z\nAt 908 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Alexander to 9 miles east of Friend. Movement was north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Ness City, Bazine, Alexander, and Beeler around 915 PM CDT. Alamota around 925 PM CDT.  Other locations in the path of these storms include McCracken.\nGenerated: 2026-08-14 02:30:19 UTC"
   38.7600, -99.6200
   38.4000, -99.4900
   38.1700, -100.8400
@@ -56,49 +59,7 @@ Line: 2,,"Special Weather Statement issued August 13 at 9:08PM CDT by NWS Dodge 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 8:04PM MDT by NWS Cheyenne WY\nExpires: 2026-08-14 02:30 Z\nAt 804 PM MDT, Doppler radar was tracking a strong thunderstorm over Bosler, or 20 miles north of Laramie, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bosler and Baldy Peak.\nGenerated: 2026-08-14 02:25:14 UTC"
-  41.5800, -105.7200
-  41.6400, -105.7200
-  41.7200, -105.4800
-  41.4400, -105.4800
-  41.5800, -105.7200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 8:00PM MDT by NWS Cheyenne WY\nExpires: 2026-08-14 02:30 Z\nAt 759 PM MDT, Doppler radar was tracking a strong thunderstorm near Egbert, or 28 miles east of Cheyenne, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pine Bluffs and Pine Bluffs Municipal Airport.  This includes Interstate 80 in Wyoming between mile markers 391 and 402.\nGenerated: 2026-08-14 02:25:14 UTC"
-  41.0100, -104.3200
-  41.1500, -104.2900
-  41.2300, -104.0600
-  41.0000, -104.0600
-  41.0000, -104.3100
-  41.0100, -104.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 7:56PM MDT by NWS Denver CO\nExpires: 2026-08-14 02:30 Z\nAt 756 PM MDT, Doppler radar was tracking a strong thunderstorm over Severance, or 10 miles east of Fort Collins, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Windsor, Eaton, Severance, Ault, Pierce, Lucerne, Black Hollow Reservoir and New Windsor Reservoir.\nGenerated: 2026-08-14 02:25:14 UTC"
-  40.5800, -104.9000
-  40.6400, -104.9000
-  40.7000, -104.6300
-  40.5800, -104.6000
-  40.5800, -104.6300
-  40.5200, -104.6300
-  40.5200, -104.5900
-  40.4500, -104.5700
-  40.4700, -104.9000
-  40.5800, -104.9000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 8:53PM CDT by NWS Midland/Odessa TX\nExpires: 2026-08-14 02:30 Z\nAt 852 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Alpine-Casparis Municipal Airport, or 11 miles northeast of Alpine, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Alpine and Alpine-Casparis Municipal Airport.\nGenerated: 2026-08-14 02:25:14 UTC"
-  30.8000, -103.6300
-  30.5700, -103.3000
-  30.2900, -103.5800
-  30.4100, -103.7700
-  30.8000, -103.6300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 7:53PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-14 02:45 Z\nAt 753 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Coalville to 13 miles south of Timber Lakes. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kamas, Oakley, Francis, Wanship, Samak, Mirror Lake, Timber Lakes, North Snyderville Basin, South Snyderville Basin, Peoa, Hanna, Woodland, Trial Lk, Marion, Hailstone, Jordanelle Reservoir, and Rockport State Park.  This includes the following highways... Interstate 80 in Utah between mile markers 148 and 150. US Route 40 between mile markers 2 and 5, between mile markers 8 and 10, and between mile markers 23 and 42. Utah Route 35 between mile markers 0 and 38. Mirror Lake Highway between mile markers 0 and 39.\nGenerated: 2026-08-14 02:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 13 at 7:53PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-14 02:45 Z\nAt 753 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Coalville to 13 miles south of Timber Lakes. Movement was northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kamas, Oakley, Francis, Wanship, Samak, Mirror Lake, Timber Lakes, North Snyderville Basin, South Snyderville Basin, Peoa, Hanna, Woodland, Trial Lk, Marion, Hailstone, Jordanelle Reservoir, and Rockport State Park.  This includes the following highways... Interstate 80 in Utah between mile markers 148 and 150. US Route 40 between mile markers 2 and 5, between mile markers 8 and 10, and between mile markers 23 and 42. Utah Route 35 between mile markers 0 and 38. Mirror Lake Highway between mile markers 0 and 39.\nGenerated: 2026-08-14 02:30:19 UTC"
   40.4100, -110.7400
   40.2000, -111.2500
   40.7500, -111.5000
@@ -106,38 +67,4 @@ Line: 2,,"Special Weather Statement issued August 13 at 7:53PM MDT by NWS Salt L
   41.0000, -110.9700
   40.9900, -110.9600
   40.4100, -110.7400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 7:52PM MDT by NWS Denver CO\nExpires: 2026-08-14 02:30 Z\nAt 752 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Wiggins, or 10 miles southwest of Fort Morgan, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fort Morgan, Log Lane Village, Weldona and Fort Morgan Airport.\nGenerated: 2026-08-14 02:25:14 UTC"
-  40.0600, -103.8500
-  40.1300, -104.1000
-  40.4200, -104.0100
-  40.3300, -103.6500
-  40.0600, -103.8500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 13 at 5:31PM PDT by NWS Reno NV\nExpires: 2026-08-14 02:30 Z\nAt 528 PM PDT, Doppler radar was tracking several strong storms forming across the eastern Sierra and western Nevada. Storms will continue to form and move northeast this evening.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carson City, Fallon, Mammoth Lakes, Bodie, Chalfant, Crowley Lake, Virginia City, Benton, June Lake, Pyramid Lake, Bridgeport, Lee Vining, Twin Lakes, Lahontan Reservoir, Toms Place, Mono Lake, Coleville, Topaz Lake, Fernley, and Dayton.\nGenerated: 2026-08-14 02:25:14 UTC"
-  37.4800, -118.8500
-  37.7400, -119.1300
-  37.7300, -119.2600
-  37.8800, -119.2000
-  38.0700, -119.3400
-  38.2000, -119.6300
-  38.5000, -119.5400
-  38.7800, -119.6700
-  40.0900, -119.6600
-  40.0600, -118.5800
-  39.6200, -118.5900
-  39.4000, -117.6800
-  39.3500, -117.7700
-  39.1000, -117.7800
-  39.0100, -118.1800
-  38.9200, -118.1900
-  38.4700, -117.7000
-  37.8900, -118.4200
-  37.4700, -117.8300
-  37.4600, -117.8400
-  37.4800, -118.8500
 End:
