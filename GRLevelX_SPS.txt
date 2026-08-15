@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-15 20:15:18 UTC
+; Generated: 2026-08-15 20:20:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 4:12PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 21:00 Z\nAt 412 PM EDT, Doppler radar was tracking a strong thunderstorm near Columbus, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Columbus and Tryon.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:16PM CDT by NWS Tallahassee FL\nExpires: 2026-08-15 20:45 Z\nAt 315 PM CDT, Doppler radar was tracking a strong thunderstorm near Elba, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elba, Lee, Kinston, Pine Level, Perry Store, Curtis, Carl Folsom A/p, Ino, Turner Crossroads, Lowry Mill, Camp Humming Hills, Wise Mill, Goodman, Basin, Arcus, Woodland Grove Church, Jack, Richburg, Alberton, and Danleys Crossroads.\nGenerated: 2026-08-15 20:20:14 UTC"
+  31.5300, -86.1900
+  31.5400, -86.1400
+  31.6200, -86.1500
+  31.6200, -85.9300
+  31.1900, -85.9800
+  31.1900, -86.1100
+  31.1800, -86.1200
+  31.1900, -86.1300
+  31.1900, -86.1900
+  31.5300, -86.1900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 15 at 4:15PM EDT by NWS Blacksburg VA\nExpires: 2026-08-15 20:45 Z\nAt 415 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Speedwell, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Galax... Rural Retreat... Independence... Fries... Mount Rogers National Recreation Area... Speedwell... and Sugar Grove.\nGenerated: 2026-08-15 20:20:14 UTC"
+  36.9500, -81.3300
+  36.9400, -81.1500
+  36.6600, -80.7800
+  36.5700, -81.0500
+  36.5700, -81.2500
+  36.7900, -81.5400
+  36.9500, -81.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 15 at 4:12PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 21:00 Z\nAt 412 PM EDT, Doppler radar was tracking a strong thunderstorm near Columbus, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Columbus and Tryon.\nGenerated: 2026-08-15 20:20:14 UTC"
   35.2400, -82.1000
   35.1900, -82.1800
   35.2000, -82.2700
@@ -15,7 +40,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 4:12PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 2:08PM MDT by NWS Denver CO\nExpires: 2026-08-15 20:45 Z\nAt 208 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from over Lakewood to over Castle Rock, or extending from 11 miles west of Denver to 23 miles south of Denver, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Denver, southwestern Aurora, Lakewood, southeastern Arvada, Centennial, Highlands Ranch, Castle Rock, Parker, Littleton, Englewood, Wheat Ridge, Greenwood Village, Lone Tree, Sheridan, Morrison, Castle Pines, The Pinery and Franktown.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 2:08PM MDT by NWS Denver CO\nExpires: 2026-08-15 20:45 Z\nAt 208 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from over Lakewood to over Castle Rock, or extending from 11 miles west of Denver to 23 miles south of Denver, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Denver, southwestern Aurora, Lakewood, southeastern Arvada, Centennial, Highlands Ranch, Castle Rock, Parker, Littleton, Englewood, Wheat Ridge, Greenwood Village, Lone Tree, Sheridan, Morrison, Castle Pines, The Pinery and Franktown.\nGenerated: 2026-08-15 20:20:14 UTC"
   39.6800, -104.7800
   39.4300, -104.6500
   39.3300, -104.9000
@@ -32,7 +57,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 2:08PM MDT by NWS Denver
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 2:08PM MDT by NWS Riverton WY\nExpires: 2026-08-15 20:45 Z\nAt 207 PM MDT, Doppler radar was tracking a strong thunderstorm near Goldeneye Reservoir, which is 18 miles northwest of Casper, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of central Natrona County, including the following locations... Casper-Natrona County International Airport.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 2:08PM MDT by NWS Riverton WY\nExpires: 2026-08-15 20:45 Z\nAt 207 PM MDT, Doppler radar was tracking a strong thunderstorm near Goldeneye Reservoir, which is 18 miles northwest of Casper, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of central Natrona County, including the following locations... Casper-Natrona County International Airport.\nGenerated: 2026-08-15 20:20:14 UTC"
   42.8400, -106.7200
   43.0000, -106.7400
   43.1100, -106.5100
@@ -41,7 +66,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 2:08PM MDT by NWS Rivert
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 4:07PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 21:00 Z\nAt 407 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Shelby to 8 miles southeast of Forest City. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Shelby, Gaffney, Bessemer City, Boiling Springs NC, Lawndale, Patterson Springs, Fallston, Lattimore, Mooresboro, and Waco.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 4:07PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 21:00 Z\nAt 407 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northeast of Shelby to 8 miles southeast of Forest City. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Shelby, Gaffney, Bessemer City, Boiling Springs NC, Lawndale, Patterson Springs, Fallston, Lattimore, Mooresboro, and Waco.\nGenerated: 2026-08-15 20:20:14 UTC"
   35.4200, -81.4600
   35.4200, -81.4200
   35.2800, -81.2800
@@ -52,7 +77,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 4:07PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 1:06PM PDT by NWS Pendleton OR\nExpires: 2026-08-15 20:45 Z\nAt 106 PM PDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Wallowa, or 17 miles north of Enterprise, moving north at 25 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Flora.  This includes Highway 3 between mile markers 10 and 32.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 1:06PM PDT by NWS Pendleton OR\nExpires: 2026-08-15 20:45 Z\nAt 106 PM PDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Wallowa, or 17 miles north of Enterprise, moving north at 25 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Flora.  This includes Highway 3 between mile markers 10 and 32.\nGenerated: 2026-08-15 20:20:14 UTC"
   45.5700, -117.2300
   45.6100, -117.4200
   45.9300, -117.4200
@@ -61,7 +86,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 1:06PM PDT by NWS Pendle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 4:01PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 401 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Mocksville, or near Cooleemee, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Mocksville, Cooleemee, Fork Church, and Woodleaf.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 4:01PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 401 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Mocksville, or near Cooleemee, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Mocksville, Cooleemee, Fork Church, and Woodleaf.\nGenerated: 2026-08-15 20:20:14 UTC"
   35.8500, -80.4100
   35.8500, -80.4300
   35.8300, -80.4300
@@ -81,7 +106,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 4:01PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 4:01PM EDT by NWS Raleigh NC\nExpires: 2026-08-15 21:00 Z\nAt 401 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Walnut Cove to near Kernersville to Winston-Salem. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greensboro, Winston-Salem, High Point, Thomasville, Kernersville, Clemmons, Bermuda Run, Huntsville, Lewisville, and Archdale.  This includes the following highways... Interstate 85 between Mile Markers 33 and 35, and between Mile Markers 102 and 124. Interstate 40 between Mile Markers 182 and 223. Interstate 73 between Mile Markers 90 and 103. Interstate 74 between Mile Markers 56 and 78.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 4:01PM EDT by NWS Raleigh NC\nExpires: 2026-08-15 21:00 Z\nAt 401 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles southeast of Walnut Cove to near Kernersville to Winston-Salem. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Greensboro, Winston-Salem, High Point, Thomasville, Kernersville, Clemmons, Bermuda Run, Huntsville, Lewisville, and Archdale.  This includes the following highways... Interstate 85 between Mile Markers 33 and 35, and between Mile Markers 102 and 124. Interstate 40 between Mile Markers 182 and 223. Interstate 73 between Mile Markers 90 and 103. Interstate 74 between Mile Markers 56 and 78.\nGenerated: 2026-08-15 20:20:14 UTC"
   36.1100, -80.5000
   36.1200, -80.4500
   36.1400, -80.4400
@@ -104,7 +129,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 4:01PM EDT by NWS Raleig
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 3:00PM CDT by NWS Mobile AL\nExpires: 2026-08-15 20:45 Z\nAt 300 PM CDT, Doppler radar was tracking a strong thunderstorm over Castleberry, or 11 miles north of Brewton. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Castleberry.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:00PM CDT by NWS Mobile AL\nExpires: 2026-08-15 20:45 Z\nAt 300 PM CDT, Doppler radar was tracking a strong thunderstorm over Castleberry, or 11 miles north of Brewton. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Castleberry.\nGenerated: 2026-08-15 20:20:14 UTC"
   31.3000, -87.1500
   31.3700, -87.0100
   31.2200, -86.8500
@@ -113,7 +138,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 3:00PM CDT by NWS Mobile
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 4:00PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 400 PM EDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Hickory, or near Lake Hickory, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, St. Stephens, Longview, Granite Falls, Hildebran, Rhodhiss, Hickory Regional Airport, Lake Hickory, Mountain View, and Sawmills.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 4:00PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 400 PM EDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Hickory, or near Lake Hickory, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, St. Stephens, Longview, Granite Falls, Hildebran, Rhodhiss, Hickory Regional Airport, Lake Hickory, Mountain View, and Sawmills.\nGenerated: 2026-08-15 20:20:14 UTC"
   35.8600, -81.3300
   35.8400, -81.3400
   35.8100, -81.3300
@@ -128,7 +153,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 4:00PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 3:58PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 358 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles south of Blowing Rock to 10 miles northwest of Morganton. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Table Rock, Glen Alpine, Lake James, Edgemont, Globe, Collettsville, Patterson, Upton, and Oak Hill.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:58PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 358 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles south of Blowing Rock to 10 miles northwest of Morganton. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Table Rock, Glen Alpine, Lake James, Edgemont, Globe, Collettsville, Patterson, Upton, and Oak Hill.\nGenerated: 2026-08-15 20:20:14 UTC"
   36.0300, -81.5100
   35.7300, -81.7800
   35.8300, -81.9500
@@ -141,7 +166,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 3:58PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 3:57PM EDT by NWS Charleston WV\nExpires: 2026-08-15 20:30 Z\nAt 353 PM EDT, heavy thunderstorms were clustered over Fort Gay, or over Louisa, moving east at 15 mph.  Locations impacted include... Louisa, Wayne, Blaine, Yatesville Lake State Park, Fort Gay, East Lynn Lake, Dunlow, Martha, Gallup, Clifford, Glenhayes, Houckville, Fallsburg, East Lynn, and Genoa.  Torrential rainfall is occurring with this storm, and may cause localized flooding. Locally heavy rain of up to an 1.5 inches has fallen over the last hour in some locations. Localized high water is possible over typical low-lying trouble areas. Do not drive your vehicle into areas where water covers the roadway. The water depth may be too great to allow your car to cross safely.  Frequent cloud to ground lightning is occurring with this storm. Lightning can strike 10 miles away from a thunderstorm. Seek a safe shelter inside a building or vehicle.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:57PM EDT by NWS Charleston WV\nExpires: 2026-08-15 20:30 Z\nAt 353 PM EDT, heavy thunderstorms were clustered over Fort Gay, or over Louisa, moving east at 15 mph.  Locations impacted include... Louisa, Wayne, Blaine, Yatesville Lake State Park, Fort Gay, East Lynn Lake, Dunlow, Martha, Gallup, Clifford, Glenhayes, Houckville, Fallsburg, East Lynn, and Genoa.  Torrential rainfall is occurring with this storm, and may cause localized flooding. Locally heavy rain of up to an 1.5 inches has fallen over the last hour in some locations. Localized high water is possible over typical low-lying trouble areas. Do not drive your vehicle into areas where water covers the roadway. The water depth may be too great to allow your car to cross safely.  Frequent cloud to ground lightning is occurring with this storm. Lightning can strike 10 miles away from a thunderstorm. Seek a safe shelter inside a building or vehicle.\nGenerated: 2026-08-15 20:20:14 UTC"
   38.0300, -83.0000
   38.0400, -83.0000
   38.0400, -82.9900
@@ -159,7 +184,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 3:57PM EDT by NWS Charle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 1:57PM MDT by NWS Boise ID\nExpires: 2026-08-15 20:45 Z\nAt 157 PM MDT, Doppler radar was tracking a strong thunderstorm near Black Warrior Mountain, or 38 miles east of Rome, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Delamar Mine around 210 PM MDT. Silver City around 230 PM MDT.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 1:57PM MDT by NWS Boise ID\nExpires: 2026-08-15 20:45 Z\nAt 157 PM MDT, Doppler radar was tracking a strong thunderstorm near Black Warrior Mountain, or 38 miles east of Rome, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Delamar Mine around 210 PM MDT. Silver City around 230 PM MDT.\nGenerated: 2026-08-15 20:20:14 UTC"
   42.8200, -116.8500
   42.9100, -117.0100
   43.1400, -116.8600
@@ -168,7 +193,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 1:57PM MDT by NWS Boise 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 1:56PM MDT by NWS Pueblo CO\nExpires: 2026-08-15 20:45 Z\nAt 156 PM MDT, Doppler radar was tracking a strong thunderstorm near Boncarbo, or 8 miles northwest of Trinidad, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Trinidad, Aguilar, Cokedale, Starkville, Gulnare, Raton Pass, Boncarbo, Model, Segundo, Hoehne, Tyrone, and Weston.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 1:56PM MDT by NWS Pueblo CO\nExpires: 2026-08-15 20:45 Z\nAt 156 PM MDT, Doppler radar was tracking a strong thunderstorm near Boncarbo, or 8 miles northwest of Trinidad, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Trinidad, Aguilar, Cokedale, Starkville, Gulnare, Raton Pass, Boncarbo, Model, Segundo, Hoehne, Tyrone, and Weston.\nGenerated: 2026-08-15 20:20:14 UTC"
   37.0100, -104.9800
   37.5700, -104.7500
   37.6600, -104.1300
@@ -178,7 +203,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 1:56PM MDT by NWS Pueblo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 1:50PM MDT by NWS Pueblo CO\nExpires: 2026-08-15 20:30 Z\nAt 149 PM MDT, Doppler radar was tracking a strong thunderstorm near Pikes Peak, or 14 miles west of Colorado Springs, moving northeast at 15 mph.  HAZARD...Heavy rain, wind gusts 40 to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Western Colorado Springs, Manitou Springs, Green Mountain Falls, Pikes Peak, Chipita Park, and Cascade.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 1:50PM MDT by NWS Pueblo CO\nExpires: 2026-08-15 20:30 Z\nAt 149 PM MDT, Doppler radar was tracking a strong thunderstorm near Pikes Peak, or 14 miles west of Colorado Springs, moving northeast at 15 mph.  HAZARD...Heavy rain, wind gusts 40 to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Western Colorado Springs, Manitou Springs, Green Mountain Falls, Pikes Peak, Chipita Park, and Cascade.\nGenerated: 2026-08-15 20:20:14 UTC"
   38.7100, -105.0900
   38.8000, -105.1600
   38.9600, -104.9800
@@ -188,7 +213,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 1:50PM MDT by NWS Pueblo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 3:48PM EDT by NWS Raleigh NC\nExpires: 2026-08-15 20:45 Z\nAt 348 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Bermuda Run to Mocksville to Cooleemee. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Linwood and High Rock Lake.  This includes Interstate 85 between Mile Markers 83 and 89.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:48PM EDT by NWS Raleigh NC\nExpires: 2026-08-15 20:45 Z\nAt 348 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles west of Bermuda Run to Mocksville to Cooleemee. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Linwood and High Rock Lake.  This includes Interstate 85 between Mile Markers 83 and 89.\nGenerated: 2026-08-15 20:20:14 UTC"
   35.8400, -80.4800
   35.8300, -80.4600
   35.8300, -80.4300
@@ -213,7 +238,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 3:48PM EDT by NWS Raleig
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 12:47PM PDT by NWS Boise ID\nExpires: 2026-08-15 20:30 Z\nAt 1247 PM PDT, Doppler radar was tracking a strong thunderstorm near Flat Top Mountain, or 20 miles southwest of Rome, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Flat Top Mountain around 150 PM MDT. Burns Junction around 210 PM MDT.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 12:47PM PDT by NWS Boise ID\nExpires: 2026-08-15 20:30 Z\nAt 1247 PM PDT, Doppler radar was tracking a strong thunderstorm near Flat Top Mountain, or 20 miles southwest of Rome, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Flat Top Mountain around 150 PM MDT. Burns Junction around 210 PM MDT.\nGenerated: 2026-08-15 20:20:14 UTC"
   42.5500, -117.8700
   42.6000, -118.0700
   42.9100, -118.0100
@@ -222,7 +247,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 12:47PM PDT by NWS Boise
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 12:46PM PDT by NWS Boise ID\nExpires: 2026-08-15 20:30 Z\nAt 1246 PM PDT, Doppler radar was tracking a strong thunderstorm over Bowden Hills, or 19 miles south of Rome, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Jackies Butte around 200 PM MDT. Scott Reservoir around 220 PM MDT.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 12:46PM PDT by NWS Boise ID\nExpires: 2026-08-15 20:30 Z\nAt 1246 PM PDT, Doppler radar was tracking a strong thunderstorm over Bowden Hills, or 19 miles south of Rome, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Jackies Butte around 200 PM MDT. Scott Reservoir around 220 PM MDT.\nGenerated: 2026-08-15 20:20:14 UTC"
   42.4400, -117.6700
   42.5500, -117.8700
   42.8200, -117.6400
@@ -231,7 +256,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 12:46PM PDT by NWS Boise
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 3:46PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 346 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Hendersonville, or 5 miles north of Pleasant Ridge State Park, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Pleasant Ridge State Park, North Saluda Reservoir, and Glassy Mountain.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:46PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 346 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Hendersonville, or 5 miles north of Pleasant Ridge State Park, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Pleasant Ridge State Park, North Saluda Reservoir, and Glassy Mountain.\nGenerated: 2026-08-15 20:20:14 UTC"
   35.1300, -82.3400
   35.0900, -82.4700
   35.0900, -82.4900
@@ -248,7 +273,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 3:46PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 2:45PM CDT by NWS Mobile AL\nExpires: 2026-08-15 20:30 Z\nAt 245 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Georgiana, or 11 miles southwest of Greenville, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Georgiana.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 2:45PM CDT by NWS Mobile AL\nExpires: 2026-08-15 20:30 Z\nAt 245 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Georgiana, or 11 miles southwest of Greenville, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Georgiana.\nGenerated: 2026-08-15 20:20:14 UTC"
   31.7800, -86.9000
   31.8300, -86.7100
   31.6500, -86.5500
@@ -257,7 +282,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 2:45PM CDT by NWS Mobile
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 3:43PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 343 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 4 miles southeast of Toccoa to 9 miles northwest of Homer. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Toccoa, Carnesville, Cornelia, Baldwin, Lavonia, Mount Airy, Alto, Martin, Avalon, and Gumlog.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:43PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-15 20:30 Z\nAt 343 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 4 miles southeast of Toccoa to 9 miles northwest of Homer. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Toccoa, Carnesville, Cornelia, Baldwin, Lavonia, Mount Airy, Alto, Martin, Avalon, and Gumlog.\nGenerated: 2026-08-15 20:20:14 UTC"
   34.6100, -83.2100
   34.4400, -83.0800
   34.4100, -83.0900
@@ -272,7 +297,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 3:43PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 3:43PM EDT by NWS Wilmington NC\nExpires: 2026-08-15 20:30 Z\nAt 343 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Dongola to near Myrtle Beach. Movement was south at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Myrtle Beach, Surfside Beach, Myrtle Beach Airport, Springmaid Pier, Socastee, Garden City, Murrells Inlet, Red Hill, Burgess, Horry Georgetown Technical College Conway Campus, Bucksville, Bucksport, Dongola, Plantersville, Forestbrook, Yauhannah, Coastal Carolina University, Barefoot Landing Area Of North Myrtle Beach, Briarcliffe Acres, and Waccamaw Community Hospital.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 3:43PM EDT by NWS Wilmington NC\nExpires: 2026-08-15 20:30 Z\nAt 343 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Dongola to near Myrtle Beach. Movement was south at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Myrtle Beach, Surfside Beach, Myrtle Beach Airport, Springmaid Pier, Socastee, Garden City, Murrells Inlet, Red Hill, Burgess, Horry Georgetown Technical College Conway Campus, Bucksville, Bucksport, Dongola, Plantersville, Forestbrook, Yauhannah, Coastal Carolina University, Barefoot Landing Area Of North Myrtle Beach, Briarcliffe Acres, and Waccamaw Community Hospital.\nGenerated: 2026-08-15 20:20:14 UTC"
   33.4800, -79.2600
   33.7900, -79.2500
   33.8400, -78.7800
@@ -284,7 +309,7 @@ Line: 2,,"Special Weather Statement issued August 15 at 3:43PM EDT by NWS Wilmin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 1:40PM MDT by NWS Boise ID\nExpires: 2026-08-15 20:30 Z\nAt 140 PM MDT/1240 PM PDT/, Doppler radar was tracking a strong thunderstorm over Oregon Hill, or 36 miles northeast of McDermitt, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Toppin Creek Butte around 1250 PM PDT. Bald Mountain around 200 PM MDT.\nGenerated: 2026-08-15 20:15:18 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 1:40PM MDT by NWS Boise ID\nExpires: 2026-08-15 20:30 Z\nAt 140 PM MDT/1240 PM PDT/, Doppler radar was tracking a strong thunderstorm over Oregon Hill, or 36 miles northeast of McDermitt, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Toppin Creek Butte around 1250 PM PDT. Bald Mountain around 200 PM MDT.\nGenerated: 2026-08-15 20:20:14 UTC"
   42.1900, -117.1000
   42.3100, -117.2400
   42.5900, -117.0200
