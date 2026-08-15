@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-15 03:25:17 UTC
+; Generated: 2026-08-15 03:30:30 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 8:09PM PDT by NWS Portland OR\nExpires: 2026-08-15 04:00 Z\nAt 808 PM PDT, Doppler radar was tracking a strong thunderstorm near Bennett Pass, or 11 miles east of Government Camp, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Hood River County.  In Oregon this includes State Highway 35 between mile markers 66 and 77.\nGenerated: 2026-08-15 03:25:17 UTC"
+Line: 2,,"Special Weather Statement issued August 14 at 9:27PM MDT by NWS Goodland KS\nExpires: 2026-08-15 04:00 Z\nAt 927 PM MDT/1027 PM CDT/, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Wallace, or 16 miles east of Sharon Springs, moving northeast at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Winona around 1045 PM CDT.\nGenerated: 2026-08-15 03:30:30 UTC"
+  38.9200, -101.9400
+  39.1300, -101.7100
+  39.1400, -100.8800
+  38.7600, -101.0000
+  38.9200, -101.9400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 14 at 8:09PM PDT by NWS Portland OR\nExpires: 2026-08-15 04:00 Z\nAt 808 PM PDT, Doppler radar was tracking a strong thunderstorm near Bennett Pass, or 11 miles east of Government Camp, moving north at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Hood River County.  In Oregon this includes State Highway 35 between mile markers 66 and 77.\nGenerated: 2026-08-15 03:30:30 UTC"
   45.5200, -121.4800
   45.2600, -121.4800
   45.2600, -121.6100
@@ -26,51 +35,7 @@ Line: 2,,"Special Weather Statement issued August 14 at 8:09PM PDT by NWS Portla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 10:02PM CDT by NWS Topeka KS\nExpires: 2026-08-15 03:30 Z\nAt 1002 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Manhattan, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations impacted include... Manhattan and Ogden.  This includes Interstate 70 between mile markers 305 and 326.\nGenerated: 2026-08-15 03:25:17 UTC"
-  38.9700, -96.5700
-  39.1200, -96.8200
-  39.2900, -96.5700
-  39.0700, -96.2900
-  38.9700, -96.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 8:59PM MDT by NWS Goodland KS\nExpires: 2026-08-15 03:30 Z\nAt 858 PM MDT/958 PM CDT/, Doppler radar was tracking a strong thunderstorm over Tribune, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of Wichita, southern Wallace, southwestern Logan and Greeley Counties, including the following locations... Marienthal, Lydia, and Selkirk.\nGenerated: 2026-08-15 03:25:17 UTC"
-  38.6100, -102.0400
-  38.9500, -102.0400
-  38.8200, -101.1200
-  38.7000, -101.1200
-  38.7000, -101.1300
-  38.2600, -101.1300
-  38.2600, -101.6200
-  38.6100, -102.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 7:44PM PDT by NWS Pendleton OR\nExpires: 2026-08-15 03:30 Z\nAt 744 PM PDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Pine Grove, or 15 miles southeast of Government Camp, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wamic and Pine Grove.  This includes Highway 26 between mile markers 71 and 79.\nGenerated: 2026-08-15 03:25:17 UTC"
-  45.2600, -121.6000
-  45.2600, -121.4800
-  45.3000, -121.4900
-  45.3300, -121.4800
-  45.2700, -121.2100
-  45.0300, -121.4200
-  45.0400, -121.5400
-  45.1100, -121.6200
-  45.2600, -121.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 8:37PM MDT by NWS Denver CO\nExpires: 2026-08-15 03:30 Z\nAt 837 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from over Ovid to 8 miles southeast of Highland Center, or extending from 5 miles west of Julesburg to 15 miles southwest of Holyoke, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Holyoke, Julesburg, Ovid, Sedgwick, Paoli, Sixteen-Mile Corner, Amherst, Fairfield, Marks Butte, Pleasant Valley and Highland Center.\nGenerated: 2026-08-15 03:25:17 UTC"
-  40.7500, -102.6000
-  41.0000, -102.6300
-  41.0000, -102.0500
-  40.4400, -102.0500
-  40.4400, -102.5900
-  40.7500, -102.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 7:20PM PDT by NWS Reno NV\nExpires: 2026-08-15 04:15 Z\nAt 718 PM PDT, Doppler radar was tracking strong thunderstorms over Churchill and Mineral counties. These storms will continue to move northeast early this evening.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fallon, Luning, Mina, Middlegate, Stillwater, Trinity Junction, Mina Airport, Junction U.S 50 And Nv 121 (Dixie Valley Rd), Junction U.S 50 And NV 839, Junction U.S 50 And NV 116 (Stuart Rd), Schurz, Junction I 80 And U.S 95 (exit 83), Nv 361 At Mineral-Nye Co Line South Of Gabbs), Silver Hill, Rawhide, Frenchman, Fairview Peak, Indian Head Peak, Dixie Valley, and Us 95 At Lyon-Churchill Co Line.\nGenerated: 2026-08-15 03:25:17 UTC"
+Line: 2,,"Special Weather Statement issued August 14 at 7:20PM PDT by NWS Reno NV\nExpires: 2026-08-15 04:15 Z\nAt 718 PM PDT, Doppler radar was tracking strong thunderstorms over Churchill and Mineral counties. These storms will continue to move northeast early this evening.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fallon, Luning, Mina, Middlegate, Stillwater, Trinity Junction, Mina Airport, Junction U.S 50 And Nv 121 (Dixie Valley Rd), Junction U.S 50 And NV 839, Junction U.S 50 And NV 116 (Stuart Rd), Schurz, Junction I 80 And U.S 95 (exit 83), Nv 361 At Mineral-Nye Co Line South Of Gabbs), Silver Hill, Rawhide, Frenchman, Fairview Peak, Indian Head Peak, Dixie Valley, and Us 95 At Lyon-Churchill Co Line.\nGenerated: 2026-08-15 03:30:30 UTC"
   39.5500, -117.4900
   39.3800, -117.7600
   39.2200, -117.7200
