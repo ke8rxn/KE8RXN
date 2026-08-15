@@ -3,9 +3,45 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-15 01:40:17 UTC
+; Generated: 2026-08-15 01:45:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 8:30PM CDT by NWS Dodge City KS\nExpires: 2026-08-15 02:15 Z\nAt 830 PM CDT/730 PM MDT/, Doppler radar was tracking a strong thunderstorm 13 miles north of The Saunders Elevator, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southern Hamilton and northwestern Stanton Counties.\nGenerated: 2026-08-15 01:40:17 UTC"
+Line: 2,,"Special Weather Statement issued August 14 at 7:44PM MDT by NWS Denver CO\nExpires: 2026-08-15 02:30 Z\nAt 744 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from near Lorenzo to 8 miles northwest of Burdett, or extending from 11 miles southwest of Sidney to 14 miles southeast of Sterling, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sterling, Fleming, Iliff, Peetz, Crook, Proctor, Padroni, St Petersburg, Twin Buttes and Reiradon Hill.\nGenerated: 2026-08-15 01:45:17 UTC"
+  40.4400, -103.1900
+  40.7100, -103.2100
+  41.0000, -103.1900
+  41.0000, -102.7400
+  40.7100, -102.7500
+  40.4400, -102.7100
+  40.4400, -103.1900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 14 at 7:42PM MDT by NWS Billings MT\nExpires: 2026-08-15 03:00 Z\nAt 742 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 18 miles northwest of Clyde Park to 10 miles west of Livingston, moving east at 25 mph.  HAZARD...Wind gusts of 45 to 55 mph, brief moderate rain and perhaps pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Livingston, Clyde Park, Wilsall and Springdale.  Expect sudden and erratic winds on I-90 from Bozeman Pass to Springdale.\nGenerated: 2026-08-15 01:45:17 UTC"
+  46.1900, -110.7800
+  46.1900, -110.5200
+  46.1700, -110.4900
+  46.1600, -110.5000
+  45.9900, -110.4900
+  45.8900, -110.4200
+  45.8900, -110.2900
+  45.7900, -110.2900
+  45.7800, -110.2200
+  45.5700, -110.2200
+  45.5600, -110.2800
+  45.6000, -110.3000
+  45.6500, -110.2300
+  45.6300, -110.3600
+  45.5900, -110.3000
+  45.5800, -110.3400
+  45.6300, -110.4400
+  45.5900, -110.5200
+  45.6200, -110.7800
+  45.6500, -110.8000
+  46.1900, -110.7800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 14 at 8:30PM CDT by NWS Dodge City KS\nExpires: 2026-08-15 02:15 Z\nAt 830 PM CDT/730 PM MDT/, Doppler radar was tracking a strong thunderstorm 13 miles north of The Saunders Elevator, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southern Hamilton and northwestern Stanton Counties.\nGenerated: 2026-08-15 01:45:17 UTC"
   38.1700, -102.0400
   38.0100, -101.6000
   37.5400, -102.0200
@@ -14,7 +50,7 @@ Line: 2,,"Special Weather Statement issued August 14 at 8:30PM CDT by NWS Dodge 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 9:23PM EDT by NWS Wakefield VA\nExpires: 2026-08-15 02:15 Z\nAt 923 PM EDT, Doppler radar was tracking a strong thunderstorm near Mechanicsville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Mechanicsville and East Highland Park around 930 PM EDT. Highland Springs around 935 PM EDT.  Other locations impacted by this storm include Wrights Corner, Richmond Heights, Hanover Airport, Orapax Farms, Montrose, Longdale, Sandston, Westwood, Richmond International, and Fair Oaks.\nGenerated: 2026-08-15 01:40:17 UTC"
+Line: 2,,"Special Weather Statement issued August 14 at 9:23PM EDT by NWS Wakefield VA\nExpires: 2026-08-15 02:15 Z\nAt 923 PM EDT, Doppler radar was tracking a strong thunderstorm near Mechanicsville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Mechanicsville and East Highland Park around 930 PM EDT. Highland Springs around 935 PM EDT.  Other locations impacted by this storm include Wrights Corner, Richmond Heights, Hanover Airport, Orapax Farms, Montrose, Longdale, Sandston, Westwood, Richmond International, and Fair Oaks.\nGenerated: 2026-08-15 01:45:17 UTC"
   37.7600, -77.3400
   37.7500, -77.3000
   37.7300, -77.3200
@@ -35,65 +71,7 @@ Line: 2,,"Special Weather Statement issued August 14 at 9:23PM EDT by NWS Wakefi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 6:15PM PDT by NWS Elko NV\nExpires: 2026-08-15 01:45 Z\nAt 611 PM PDT, Doppler radar was tracking a strong thunderstorm 23 miles southwest of Battle Mountain, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. This storm may reach State Route 305 by 630PM.  This storm will remain over mainly rural areas of southeastern Humboldt and north central Lander Counties.\nGenerated: 2026-08-15 01:40:17 UTC"
-  40.5900, -117.2900
-  40.4000, -116.9300
-  40.1800, -117.2100
-  40.2900, -117.4100
-  40.3900, -117.3700
-  40.5200, -117.3000
-  40.5600, -117.3000
-  40.5900, -117.2900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 7:08PM MDT by NWS Albuquerque NM\nExpires: 2026-08-15 01:45 Z\nAt 708 PM MDT, Doppler radar was tracking a strong thunderstorm near Elkins, or 31 miles northeast of Roswell, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Elkins.\nGenerated: 2026-08-15 01:40:17 UTC"
-  33.5600, -104.0100
-  33.5800, -104.2300
-  33.9200, -104.3200
-  33.9300, -103.8400
-  33.5600, -104.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 7:03PM MDT by NWS Denver CO\nExpires: 2026-08-15 01:45 Z\nAt 703 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles east of Elbert to near Thurman, or extending from 41 miles west of Limon to 34 miles northeast of Limon, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Limon, Elbert, Kiowa, Simla, Genoa, Matheson, Cedar Point and Fondis.\nGenerated: 2026-08-15 01:40:17 UTC"
-  39.4200, -104.2500
-  39.4400, -103.8000
-  39.5600, -103.4700
-  39.5700, -103.2400
-  39.5700, -103.1500
-  39.5200, -103.1500
-  39.1700, -103.6200
-  39.1300, -104.2500
-  39.1300, -104.5400
-  39.4100, -104.5500
-  39.4200, -104.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 9:02PM EDT by NWS Tallahassee FL\nExpires: 2026-08-15 01:45 Z\nAt 901 PM EDT, Doppler radar was tracking a strong thunderstorm near Carrabelle, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carrabelle, St George Island, Eastpoint, Franklin, Carrabelle Beach, Morgan Place, Turkey Point, Royal Bluff, Mcintyre, High Bluff, Yent Place, St George Island St Pk, Beverly, Green Point, Lanark Village, Creels, Curtis Mill, and Hays Place.\nGenerated: 2026-08-15 01:40:17 UTC"
-  29.7900, -85.0300
-  30.0100, -84.8900
-  30.0100, -84.4600
-  29.7800, -84.5100
-  29.7500, -84.5300
-  29.6400, -84.7400
-  29.6400, -84.8900
-  29.7900, -85.0300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 7:00PM MDT by NWS Denver CO\nExpires: 2026-08-15 01:45 Z\nAt 700 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 12 miles south of Otis to over Thurman, or extending from 16 miles southeast of Akron to 33 miles northeast of Limon, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Arickaree School, Cope, Anton and Thurman.\nGenerated: 2026-08-15 01:40:17 UTC"
-  39.5700, -103.3200
-  39.8400, -103.1800
-  40.0200, -103.1300
-  40.0000, -102.8000
-  39.5700, -102.8000
-  39.5700, -103.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 6:58PM MDT by NWS Great Falls MT\nExpires: 2026-08-15 02:00 Z\nAt 658 PM MDT, Doppler radar was tracking a strong thunderstorm near Three Forks, or 26 miles northwest of Bozeman, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bozeman, Belgrade, Manhattan, Menard, and Logan.\nGenerated: 2026-08-15 01:40:17 UTC"
+Line: 2,,"Special Weather Statement issued August 14 at 6:58PM MDT by NWS Great Falls MT\nExpires: 2026-08-15 02:00 Z\nAt 658 PM MDT, Doppler radar was tracking a strong thunderstorm near Three Forks, or 26 miles northwest of Bozeman, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bozeman, Belgrade, Manhattan, Menard, and Logan.\nGenerated: 2026-08-15 01:45:17 UTC"
   45.8000, -111.4100
   45.8400, -111.4300
   45.9100, -111.4300
@@ -108,25 +86,7 @@ Line: 2,,"Special Weather Statement issued August 14 at 6:58PM MDT by NWS Great 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 8:57PM EDT by NWS Wakefield VA\nExpires: 2026-08-15 01:45 Z\nAt 857 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Roduco to near Ahoskie. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Ahoskie, Gates, Winton, Cofield, Powellsville, and Roduco around 900 PM EDT. Gatesville around 905 PM EDT. Harrellsville around 910 PM EDT. Colerain around 920 PM EDT. Ryland, Sunbury, Rockyhock, and Hobbsville around 925 PM EDT. Tyner around 930 PM EDT. Valhalla and Belvidere around 935 PM EDT.  Other locations impacted by these storms include Goose Pond, Whites Crossroads, Tunis, Gliden, Earleys, Newsome Store, Arrowhead Beach, Peach, Chowan Beach, and Topsy.\nGenerated: 2026-08-15 01:40:17 UTC"
-  36.2800, -77.1300
-  36.5400, -76.9300
-  36.4400, -76.4800
-  36.3600, -76.4500
-  36.3000, -76.4000
-  36.0300, -76.6000
-  36.0500, -76.6100
-  36.0600, -76.6200
-  36.0400, -76.6400
-  36.0400, -76.6600
-  36.0100, -76.6900
-  35.9900, -76.6800
-  35.9900, -76.6900
-  36.2800, -77.1300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 14 at 5:21PM PDT by NWS Reno NV\nExpires: 2026-08-15 02:15 Z\nAt 518 PM PDT, Doppler radar was tracking strong thunderstorms from Pyramid Lake south to southern Lyon and Mineral counties. These storms will continue to slowly move to the northeast through the early evening.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Reno, Carson City, Fallon, Lovelock, Gerlach, Gardnerville, Virginia City, Pyramid Lake, Lahontan Reservoir, Topaz Lake, Sparks, Gardnerville Ranchos, Fernley, Dayton, Johnson Lane, Hawthorne, Yerington, Wingfield Springs, Cold Springs, and Golden Valley.\nGenerated: 2026-08-15 01:40:17 UTC"
+Line: 2,,"Special Weather Statement issued August 14 at 5:21PM PDT by NWS Reno NV\nExpires: 2026-08-15 02:15 Z\nAt 518 PM PDT, Doppler radar was tracking strong thunderstorms from Pyramid Lake south to southern Lyon and Mineral counties. These storms will continue to slowly move to the northeast through the early evening.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Reno, Carson City, Fallon, Lovelock, Gerlach, Gardnerville, Virginia City, Pyramid Lake, Lahontan Reservoir, Topaz Lake, Sparks, Gardnerville Ranchos, Fernley, Dayton, Johnson Lane, Hawthorne, Yerington, Wingfield Springs, Cold Springs, and Golden Valley.\nGenerated: 2026-08-15 01:45:17 UTC"
   37.8900, -118.3500
   37.8900, -118.4300
   38.8900, -119.8500
