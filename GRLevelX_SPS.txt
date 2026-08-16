@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-16 03:55:20 UTC
+; Generated: 2026-08-16 04:00:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 9:40PM MDT by NWS Goodland KS\nExpires: 2026-08-16 04:15 Z\nAt 939 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Cheyenne Wells, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of eastern Cheyenne County in east central Colorado and southwestern Wallace Counties in west central Kansas, including the following locations... Arapahoe.  This includes Highway 385 between mile markers 139 and 160, and between mile markers 164 and 165.\nGenerated: 2026-08-16 03:55:20 UTC"
+Line: 2,,"Special Weather Statement issued August 15 at 9:58PM MDT by NWS Pocatello ID\nExpires: 2026-08-16 05:00 Z\nAt 958 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles north of Southwest Inl to near Atomic City to near Rockford. Movement was east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blackfoot, Firth, Rose, Fort Hall Eagle Lodge, Fort Hall Lincoln Creek Lodge, Central Inl, Taber, Southeast Inl, Rockford, Moreland, Groveland, East Butte, Wapello, and Kettle Butte.\nGenerated: 2026-08-16 04:00:22 UTC"
+  43.7900, -112.8400
+  43.5700, -112.3200
+  43.1700, -112.1000
+  43.0600, -112.5600
+  43.4600, -112.7900
+  43.6400, -113.2300
+  43.7900, -112.8400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 15 at 9:40PM MDT by NWS Goodland KS\nExpires: 2026-08-16 04:15 Z\nAt 939 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Cheyenne Wells, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of eastern Cheyenne County in east central Colorado and southwestern Wallace Counties in west central Kansas, including the following locations... Arapahoe.  This includes Highway 385 between mile markers 139 and 160, and between mile markers 164 and 165.\nGenerated: 2026-08-16 04:00:22 UTC"
   38.7100, -102.4900
   39.0100, -102.3300
   38.8800, -101.8700
@@ -15,19 +26,4 @@ Line: 2,,"Special Weather Statement issued August 15 at 9:40PM MDT by NWS Goodla
   38.6200, -102.1100
   38.6100, -102.2000
   38.7100, -102.4900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 15 at 10:21PM CDT by NWS Quad Cities IA IL\nExpires: 2026-08-16 04:00 Z\nAt 1021 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Annawan to near Elmira to near Elmore. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Strong winds could break small tree limbs and blow around unsecured objects.  Locations impacted include... Princeton, Hennepin, DePue, Wyanet, Tiskilwa, Buda, Bureau Junction, Putnam, Mark, Malden, Manlius, Milo, Dover, Providence, Coal Hollow, Lake Thunderbird, Florid, Lone Tree Corners, and Bureau  County Fairgrounds.  This includes the following highways... Interstate 80 in Illinois between mile markers 44 and 63. Interstate 180 between mile markers 1 and 13.\nGenerated: 2026-08-16 03:55:20 UTC"
-  41.1000, -89.2900
-  41.1000, -89.3600
-  41.1200, -89.3400
-  41.1500, -89.3300
-  41.1500, -89.6400
-  41.2300, -89.6400
-  41.2400, -89.7200
-  41.4600, -89.7200
-  41.4500, -89.3600
-  41.2000, -89.2300
-  41.1000, -89.2900
 End:
