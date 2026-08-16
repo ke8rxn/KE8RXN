@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-16 17:00:21 UTC
+; Generated: 2026-08-16 17:05:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 12:52PM EDT by NWS Charleston WV\nExpires: 2026-08-16 17:30 Z\nAt 1252 PM EDT, Doppler radar was tracking a strong thunderstorm near Oak Hill, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gallipolis, Oak Hill, Rio Grande, Vinton, Adamsville, and Salem Center.\nGenerated: 2026-08-16 17:00:21 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 1:04PM EDT by NWS Wilmington OH\nExpires: 2026-08-16 17:30 Z\nAt 104 PM EDT, a strong thunderstorm was located near Johnstown, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and very heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Visibility will be poor and hydroplaning is possible.  Locations impacted include... Newark, Gahanna, Heath, Granville, Pataskala, Johnstown, Utica, Granville South, Beechwood Trails, New Albany, Jersey, Alexandria, Hartford, St. Louisville, Fredonia, US Route 62 at State Route 661, State Route 310 at State Route 161, and Center Village.  If outdoors, consider seeking shelter inside a sturdy building.  Motorists should slow down and use extra caution.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-08-16 17:05:20 UTC"
+  40.0300, -82.3300
+  40.0300, -82.8500
+  40.2900, -82.8100
+  40.3000, -82.7500
+  40.2800, -82.7500
+  40.2700, -82.4800
+  40.2500, -82.4800
+  40.2400, -82.3500
+  40.0300, -82.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 16 at 12:01PM CDT by NWS Quad Cities IA IL\nExpires: 2026-08-16 17:45 Z\nAt 1201 PM CDT, Doppler radar was tracking a thunderstorm over Tennessee, or 9 miles southwest of Macomb, moving east at 45 mph.  HAZARD...Winds in excess of 40 mph and minor flooding.  SOURCE...Radar indicated.  IMPACT...Gusty winds could cause minor tree limb damage and blow around unsecured objects. Slowing or redirecting of traffic due to ponding or flowing water. Closure of waterfront access due to flooding.  Locations impacted include... Macomb, Colchester, Industry, Tennessee, Western Illinois University, Adair, Fandon, Colmar, Pennington Point, McDonough County 4-H Grounds, Doddsville, and Argyle Lake State Park.\nGenerated: 2026-08-16 17:05:20 UTC"
+  40.2800, -90.8200
+  40.3500, -91.0200
+  40.5100, -90.8900
+  40.4800, -90.4500
+  40.2800, -90.4500
+  40.2800, -90.8200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 16 at 12:52PM EDT by NWS Charleston WV\nExpires: 2026-08-16 17:30 Z\nAt 1252 PM EDT, Doppler radar was tracking a strong thunderstorm near Oak Hill, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gallipolis, Oak Hill, Rio Grande, Vinton, Adamsville, and Salem Center.\nGenerated: 2026-08-16 17:05:20 UTC"
   39.0000, -82.5900
   39.0400, -82.4200
   39.0300, -82.3200
@@ -17,7 +40,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 12:52PM EDT by NWS Charl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 12:27PM EDT by NWS Cleveland OH\nExpires: 2026-08-16 17:15 Z\nAt 1227 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Savannah to near Ontario to 8 miles northeast of Marion. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mansfield, Marion, Ashland, Mount Gilead, Galion, Ontario, Lexington, Loudonville, Fredericktown, Bellville, Hayesville, Waterford, Butler, Perrysville, Lucas, Caledonia, Jeromesville, Mifflin, North Liberty, and Rowsburg.\nGenerated: 2026-08-16 17:00:21 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 12:27PM EDT by NWS Cleveland OH\nExpires: 2026-08-16 17:15 Z\nAt 1227 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Savannah to near Ontario to 8 miles northeast of Marion. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mansfield, Marion, Ashland, Mount Gilead, Galion, Ontario, Lexington, Loudonville, Fredericktown, Bellville, Hayesville, Waterford, Butler, Perrysville, Lucas, Caledonia, Jeromesville, Mifflin, North Liberty, and Rowsburg.\nGenerated: 2026-08-16 17:05:20 UTC"
   40.6400, -83.1500
   40.7600, -82.7300
   40.9500, -82.4700
@@ -28,7 +51,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 12:27PM EDT by NWS Cleve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 11:10AM CDT by NWS Quad Cities IA IL\nExpires: 2026-08-16 17:15 Z\nAt 1110 AM CDT, Doppler radar was tracking a thunderstorm near Wayland, or 9 miles southwest of Keokuk, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph and minor flooding.  SOURCE...Radar indicated.  IMPACT...Gusty winds could cause minor tree limb damage and blow around unsecured objects. Slowing or redirecting of traffic due to ponding or flowing water. Closure of waterfront access due to flooding.  Locations impacted include... Macomb, Keokuk, Carthage, Kahoka, Nauvoo, Hamilton, Warsaw, Colchester, Montrose, Blandinsville, Augusta, Wayland, Bowen, Industry, Bardolph, West Point, Alexandria, Ferris, Tennessee, and Luray.\nGenerated: 2026-08-16 17:00:21 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 11:10AM CDT by NWS Quad Cities IA IL\nExpires: 2026-08-16 17:15 Z\nAt 1110 AM CDT, Doppler radar was tracking a thunderstorm near Wayland, or 9 miles southwest of Keokuk, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph and minor flooding.  SOURCE...Radar indicated.  IMPACT...Gusty winds could cause minor tree limb damage and blow around unsecured objects. Slowing or redirecting of traffic due to ponding or flowing water. Closure of waterfront access due to flooding.  Locations impacted include... Macomb, Keokuk, Carthage, Kahoka, Nauvoo, Hamilton, Warsaw, Colchester, Montrose, Blandinsville, Augusta, Wayland, Bowen, Industry, Bardolph, West Point, Alexandria, Ferris, Tennessee, and Luray.\nGenerated: 2026-08-16 17:05:20 UTC"
   40.2400, -91.5100
   40.2500, -91.5200
   40.2600, -91.9000
