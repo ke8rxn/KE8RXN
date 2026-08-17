@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-17 01:10:17 UTC
+; Generated: 2026-08-17 01:15:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 9:03PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-17 01:45 Z\nAt 903 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Downtown Concord, or 4 miles north of Mt Pleasant, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Mt Pleasant, Rockwell, and Gold Hill.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 6:14PM PDT by NWS Spokane WA\nExpires: 2026-08-17 01:30 Z\nAt 613 PM PDT, Doppler radar was tracking a strong thunderstorm over Winchester, or 15 miles southeast of Lapwai, moving northeast at 30 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Craigmont, Winchester, and Reubens.  This includes U.S. Highway 95 in Idaho between mile markers 271 and 286.\nGenerated: 2026-08-17 01:15:23 UTC"
+  46.1500, -116.6300
+  46.2000, -116.7200
+  46.4000, -116.5600
+  46.2600, -116.3400
+  46.1500, -116.6300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 16 at 9:03PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-17 01:45 Z\nAt 903 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Downtown Concord, or 4 miles north of Mt Pleasant, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Mt Pleasant, Rockwell, and Gold Hill.\nGenerated: 2026-08-17 01:15:23 UTC"
   35.5000, -80.3000
   35.4000, -80.3600
   35.4000, -80.4700
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 9:03PM EDT by NWS Greenv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 7:02PM MDT by NWS Albuquerque NM\nExpires: 2026-08-17 01:30 Z\nAt 702 PM MDT, Doppler radar was tracking a strong thunderstorm 21 miles south of Mount Dora, or 22 miles southwest of Clayton, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Central Union County.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 7:02PM MDT by NWS Albuquerque NM\nExpires: 2026-08-17 01:30 Z\nAt 702 PM MDT, Doppler radar was tracking a strong thunderstorm 21 miles south of Mount Dora, or 22 miles southwest of Clayton, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Central Union County.\nGenerated: 2026-08-17 01:15:23 UTC"
   36.0900, -103.3800
   36.0900, -103.7100
   36.4100, -103.5900
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 7:02PM MDT by NWS Albuqu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 7:00PM MDT by NWS Billings MT\nExpires: 2026-08-17 02:00 Z\nAt 700 PM MDT, Trained spotters reported a gust front extending from 29 miles northwest of Roundup to 24 miles southeast of Harlowton, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Weather Station Observed.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Roundup, Ryegate, Lavina, Klein and Franklin.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 7:00PM MDT by NWS Billings MT\nExpires: 2026-08-17 02:00 Z\nAt 700 PM MDT, Trained spotters reported a gust front extending from 29 miles northwest of Roundup to 24 miles southeast of Harlowton, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Weather Station Observed.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Roundup, Ryegate, Lavina, Klein and Franklin.\nGenerated: 2026-08-17 01:15:23 UTC"
   46.5300, -109.3800
   46.7500, -109.1800
   46.7600, -107.9800
@@ -41,7 +50,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 7:00PM MDT by NWS Billin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 8:57PM EDT by NWS Charleston WV\nExpires: 2026-08-17 01:30 Z\nAt 857 PM EDT, Doppler radar was tracking a strong thunderstorm over Winfield, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Charleston, Nitro, Winfield, Jefferson, South Charleston, St. Albans, Dunbar, Hurricane, Sissonville, Eleanor, Poca, Cross Lanes, Institute, Teays Valley, and Bancroft.  This includes the following highways... Interstate 77 in West Virginia between mile markers 100 and 114. Interstate 64 in West Virginia between mile markers 35 and 57. Route 119 between mile markers 76 and 80.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 8:57PM EDT by NWS Charleston WV\nExpires: 2026-08-17 01:30 Z\nAt 857 PM EDT, Doppler radar was tracking a strong thunderstorm over Winfield, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Charleston, Nitro, Winfield, Jefferson, South Charleston, St. Albans, Dunbar, Hurricane, Sissonville, Eleanor, Poca, Cross Lanes, Institute, Teays Valley, and Bancroft.  This includes the following highways... Interstate 77 in West Virginia between mile markers 100 and 114. Interstate 64 in West Virginia between mile markers 35 and 57. Route 119 between mile markers 76 and 80.\nGenerated: 2026-08-17 01:15:23 UTC"
   38.4500, -82.0300
   38.5700, -81.9700
   38.5200, -81.5200
@@ -50,7 +59,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 8:57PM EDT by NWS Charle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 8:57PM EDT by NWS Jackson KY\nExpires: 2026-08-17 01:30 Z\nAt 857 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Board Tree to Buckhorn Hollow to Hardshell. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pikeville, Hazard, Prestonsburg, Jackson, Hindman, Simpson, Estill, Bath, Coal Run Village, Elkhorn City, Wheelwright, Martin, Pippa Passes, Forest Hills, Wayland, Allen, Elic, Meta, Buck, and Handshoe.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 53 and 56. Hal Rogers Parkway between mile markers 57 and 59. Kentucky Highway 80 in Floyd County between mile markers 1 and 14. Kentucky Highway 80 in Knott County between mile markers 1 and 20. Kentucky Highway 80 in Perry County between mile markers 9 and 15. U.S. Highway 119 in Pike County between mile markers 1 and 24. U.S. Highway 23 in Floyd County between mile markers 1 and 16. U.S. Highway 23 in Lethcher County between mile markers 6 and 7. U.S. Highway 23 in Pike County between mile markers 0 and 32.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 8:57PM EDT by NWS Jackson KY\nExpires: 2026-08-17 01:30 Z\nAt 857 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Board Tree to Buckhorn Hollow to Hardshell. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pikeville, Hazard, Prestonsburg, Jackson, Hindman, Simpson, Estill, Bath, Coal Run Village, Elkhorn City, Wheelwright, Martin, Pippa Passes, Forest Hills, Wayland, Allen, Elic, Meta, Buck, and Handshoe.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Bert T. Combs Mountain Parkway between mile markers 53 and 56. Hal Rogers Parkway between mile markers 57 and 59. Kentucky Highway 80 in Floyd County between mile markers 1 and 14. Kentucky Highway 80 in Knott County between mile markers 1 and 20. Kentucky Highway 80 in Perry County between mile markers 9 and 15. U.S. Highway 119 in Pike County between mile markers 1 and 24. U.S. Highway 23 in Floyd County between mile markers 1 and 16. U.S. Highway 23 in Lethcher County between mile markers 6 and 7. U.S. Highway 23 in Pike County between mile markers 0 and 32.\nGenerated: 2026-08-17 01:15:23 UTC"
   37.2700, -82.3500
   37.2100, -82.5300
   37.2700, -83.3100
@@ -75,7 +84,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 8:57PM EDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 6:52PM MDT by NWS Pueblo CO\nExpires: 2026-08-17 01:30 Z\nAt 652 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Greenhorn Mountain, or 22 miles southwest of Pueblo, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beulah and Colorado City.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 6:52PM MDT by NWS Pueblo CO\nExpires: 2026-08-17 01:30 Z\nAt 652 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles northeast of Greenhorn Mountain, or 22 miles southwest of Pueblo, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beulah and Colorado City.\nGenerated: 2026-08-17 01:15:23 UTC"
   37.9900, -105.0000
   38.1000, -104.9800
   38.1000, -104.7300
@@ -84,69 +93,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 6:52PM MDT by NWS Pueblo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 5:52PM PDT by NWS Spokane WA\nExpires: 2026-08-17 01:15 Z\nAt 552 PM PDT, Doppler radar was tracking a strong thunderstorm 16 miles northeast of Paradise, or 20 miles south of Lewiston, moving northeast at 35 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Rogersburg and Waha.\nGenerated: 2026-08-17 01:10:17 UTC"
-  46.0000, -117.1500
-  46.2700, -116.9800
-  46.2000, -116.7700
-  46.0000, -116.9300
-  46.0000, -117.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 6:50PM MDT by NWS Pueblo CO\nExpires: 2026-08-17 01:15 Z\nAt 650 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Blende, or 13 miles southeast of Pueblo, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of central Pueblo County.\nGenerated: 2026-08-17 01:10:17 UTC"
-  38.0500, -104.6000
-  38.1500, -104.5900
-  38.1600, -104.3300
-  37.9900, -104.3800
-  38.0500, -104.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 8:48PM EDT by NWS Blacksburg VA\nExpires: 2026-08-17 01:15 Z\nAt 848 PM EDT, Doppler radar was tracking a strong thunderstorm over Wingina, or 7 miles northeast of Bent Creek, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckingham... Dillwyn... Wingina... Toga... Centenary... and Andersonville.\nGenerated: 2026-08-17 01:10:17 UTC"
-  37.4400, -78.4500
-  37.5100, -78.7700
-  37.5500, -78.8100
-  37.6400, -78.7900
-  37.6300, -78.7400
-  37.6400, -78.7200
-  37.6700, -78.7200
-  37.6800, -78.6900
-  37.7000, -78.6900
-  37.6800, -78.6600
-  37.6800, -78.6400
-  37.7100, -78.6500
-  37.7500, -78.6200
-  37.7600, -78.5500
-  37.7600, -78.5100
-  37.8000, -78.4900
-  37.7600, -78.4700
-  37.7300, -78.4000
-  37.6100, -78.3800
-  37.4400, -78.4500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 8:46PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-08-17 01:15 Z\nAt 846 PM EDT, Doppler radar was tracking a strong thunderstorm near Downtown Concord, moving northeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Concord and Kannapolis.\nGenerated: 2026-08-17 01:10:17 UTC"
-  35.3900, -80.5700
-  35.4600, -80.6500
-  35.5100, -80.5900
-  35.5000, -80.5200
-  35.4500, -80.4500
-  35.3900, -80.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 7:46PM CDT by NWS Amarillo TX\nExpires: 2026-08-17 01:15 Z\nAt 746 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southwest of Masterson, or 18 miles south of Dumas, moving north at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Masterson, Four Way, and Lake Meredith.\nGenerated: 2026-08-17 01:10:17 UTC"
-  35.4600, -102.0600
-  35.6300, -102.1700
-  35.6900, -102.1600
-  35.8200, -101.6800
-  35.6100, -101.6300
-  35.4600, -102.0600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 8:45PM EDT by NWS Charleston WV\nExpires: 2026-08-17 01:30 Z\nAt 844 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of West Union to near Gassaway. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckhannon, Weston, Glenville, Sutton, Gassaway, Jackson Mill, Holly River State Park, Cedar Creek State Park, Stonewall Jackson, Rock Cave, West Milford, Burnsville, Lost Creek, Jane Lew, Flatwoods, Sand Fork, Pullman, Auburn, Eden, and Newberne.  This includes the following highways... Interstate 79 between mile markers 61 and 115. Route 33 between mile markers 1 and 16.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 8:45PM EDT by NWS Charleston WV\nExpires: 2026-08-17 01:30 Z\nAt 844 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles south of West Union to near Gassaway. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Buckhannon, Weston, Glenville, Sutton, Gassaway, Jackson Mill, Holly River State Park, Cedar Creek State Park, Stonewall Jackson, Rock Cave, West Milford, Burnsville, Lost Creek, Jane Lew, Flatwoods, Sand Fork, Pullman, Auburn, Eden, and Newberne.  This includes the following highways... Interstate 79 between mile markers 61 and 115. Route 33 between mile markers 1 and 16.\nGenerated: 2026-08-17 01:15:23 UTC"
   38.7100, -80.2600
   38.6900, -80.2800
   38.6800, -80.2700
@@ -158,16 +105,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 8:45PM EDT by NWS Charle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 8:44PM EDT by NWS Jackson KY\nExpires: 2026-08-17 01:15 Z\nAt 844 PM EDT, Doppler radar was tracking a strong thunderstorm over Fixer, or 7 miles north of Beattyville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beattyville, Booneville, Fincastle, Turin, Pilot, Torrent, White Ash, Leeco, Pinnacle, Fillmore, Grass, Chestnut Gap, Copebranch, Patsey, Scoville, Ida May, Lerose, War Creek, Vada, and Pitts.\nGenerated: 2026-08-17 01:10:17 UTC"
-  37.7200, -83.9000
-  37.7800, -83.7000
-  37.5500, -83.4300
-  37.4100, -83.7300
-  37.7200, -83.9000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 6:43PM MDT by NWS Denver CO\nExpires: 2026-08-17 01:30 Z\nAt 643 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from near Merino to 7 miles southeast of Kersey, or extending from 12 miles southwest of Sterling to 16 miles southeast of Greeley, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fort Morgan, Brush, Wiggins, Log Lane Village, Hillrose, Weldona, Goodrich, Orchard, Adena School, Antelope Springs, Riverside Reservoir, Snyder, Roggen, Willard, Prewitt Reservoir, Fort Morgan Airport, Masters, Union and Messex.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 6:43PM MDT by NWS Denver CO\nExpires: 2026-08-17 01:30 Z\nAt 643 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from near Merino to 7 miles southeast of Kersey, or extending from 12 miles southwest of Sterling to 16 miles southeast of Greeley, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fort Morgan, Brush, Wiggins, Log Lane Village, Hillrose, Weldona, Goodrich, Orchard, Adena School, Antelope Springs, Riverside Reservoir, Snyder, Roggen, Willard, Prewitt Reservoir, Fort Morgan Airport, Masters, Union and Messex.\nGenerated: 2026-08-17 01:15:23 UTC"
   40.4200, -104.5200
   40.3600, -103.8500
   40.5200, -103.6000
@@ -181,78 +119,7 @@ Line: 2,,"Special Weather Statement issued August 16 at 6:43PM MDT by NWS Denver
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 7:40PM CDT by NWS Norman OK\nExpires: 2026-08-17 01:15 Z\nAt 740 PM CDT, Doppler radar was tracking a strong thunderstorm near Goldsby. This storm was nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southwestern Norman, Newcastle, Noble, and Goldsby.\nGenerated: 2026-08-17 01:10:17 UTC"
-  35.1300, -97.5400
-  35.2000, -97.5800
-  35.2400, -97.4400
-  35.1200, -97.3900
-  35.1300, -97.5400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 6:39PM MDT by NWS Pueblo CO\nExpires: 2026-08-17 01:15 Z\nAt 639 PM MDT, Doppler radar was tracking a strong thunderstorm over Cripple Creek, or 19 miles west of Colorado Springs, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cripple Creek and Victor.\nGenerated: 2026-08-17 01:10:17 UTC"
-  38.7300, -105.2300
-  38.8200, -105.2000
-  38.8300, -104.9800
-  38.6500, -105.0600
-  38.7300, -105.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 5:39PM PDT by NWS Pendleton OR\nExpires: 2026-08-17 01:15 Z\nAt 539 PM PDT, Doppler radar was tracking a strong thunderstorm near Paradise, or 31 miles south of Lewiston, moving northeast at 10 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Paradise.\nGenerated: 2026-08-17 01:10:17 UTC"
-  45.8500, -117.0900
-  45.8600, -117.1700
-  45.9000, -117.2400
-  46.0000, -117.2100
-  45.9900, -116.9100
-  45.8500, -117.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 5:38PM PDT by NWS Spokane WA\nExpires: 2026-08-17 01:15 Z\nAt 538 PM PDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Winchester, or 18 miles south of Lapwai, moving northeast at 50 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Craigmont, Winchester, and Reubens.  This includes U.S. Highway 95 in Idaho between mile markers 271 and 288.\nGenerated: 2026-08-17 01:10:17 UTC"
-  46.0600, -116.6900
-  46.1800, -116.8500
-  46.4600, -116.5200
-  46.3300, -116.2900
-  46.0600, -116.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 8:32PM EDT by NWS Charleston WV\nExpires: 2026-08-17 01:15 Z\nAt 832 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Chesapeake to near Hode. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Beckley, Williamson, Welch, Logan, Pineville, Oak Hill, Mullens, Mount Hope, Mabscott, Oceana, Sophia, Man, Delbarton, Van, Gilbert Creek, Mount Gay-Shamrock, Piney View, Coal City, Prosperity, and Mallory.  This includes the following highways... West Virginia Turnpike between mile markers 28 and 72. Interstate 64 in West Virginia between mile markers 120 and 137. Route 119 between mile markers 1 and 28. Route 19 between mile markers 1 and 11.\nGenerated: 2026-08-17 01:10:17 UTC"
-  37.4600, -82.0800
-  37.5400, -81.9700
-  37.5500, -82.1300
-  37.6500, -82.1800
-  37.6300, -82.1900
-  37.6800, -82.3000
-  37.7400, -82.3300
-  37.7600, -82.3300
-  38.1300, -81.4200
-  37.8400, -80.8900
-  37.8200, -80.9400
-  37.7700, -80.8900
-  37.7400, -80.9200
-  37.6800, -80.8800
-  37.7100, -80.9800
-  37.5900, -81.0900
-  37.6000, -81.1400
-  37.5500, -81.2000
-  37.3200, -81.9300
-  37.4600, -82.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 6:29PM MDT by NWS Rapid City SD\nExpires: 2026-08-17 01:15 Z\nAt 629 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Badlands National Park, or 41 miles north of Pine Ridge, moving southeast at 35 MPH.  HAZARD...Wind gusts up to 50 MPH and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kyle, Potato Creek, Allen, Kyle North Route Housing, Yellow Bear Canyon, Snake Butte, southern Badlands National Park and Pine Ridge Reservation.\nGenerated: 2026-08-17 01:10:17 UTC"
-  43.5400, -102.5300
-  43.6900, -102.4200
-  43.6900, -102.3300
-  43.4800, -101.7000
-  43.2100, -101.9700
-  43.5400, -102.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 16 at 6:27PM MDT by NWS Pocatello ID\nExpires: 2026-08-17 01:30 Z\nAt 626 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 20 miles south of Lima to 9 miles northwest of Monteview. Movement was east at 15 mph.  HAZARD...Wind gusts in excess of 35 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Dubois, Hamer, Spencer, Monteview, Edie School, Small, and Humphrey.\nGenerated: 2026-08-17 01:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 16 at 6:27PM MDT by NWS Pocatello ID\nExpires: 2026-08-17 01:30 Z\nAt 626 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 20 miles south of Lima to 9 miles northwest of Monteview. Movement was east at 15 mph.  HAZARD...Wind gusts in excess of 35 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Dubois, Hamer, Spencer, Monteview, Edie School, Small, and Humphrey.\nGenerated: 2026-08-17 01:15:23 UTC"
   43.8400, -112.2000
   43.9400, -112.7400
   44.4400, -112.6400
