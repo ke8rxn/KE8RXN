@@ -3,9 +3,41 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-17 06:40:18 UTC
+; Generated: 2026-08-17 06:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 17 at 1:38AM CDT by NWS Paducah KY\nExpires: 2026-08-17 07:00 Z\nAt 137 AM CDT, Doppler radar was tracking a strong thunderstorm near Dale, or 22 miles northeast of Boonville, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dale and Santa Claus.  This includes Interstate 64 in Indiana between Mile Markers 57 and 60.\nGenerated: 2026-08-17 06:40:18 UTC"
+Line: 2,,"Special Weather Statement issued August 17 at 12:43AM MDT by NWS Pueblo CO\nExpires: 2026-08-17 07:15 Z\nAt 1243 AM MDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Pueblo West, or 16 miles northwest of Pueblo. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pueblo West.\nGenerated: 2026-08-17 06:45:15 UTC"
+  38.2700, -104.8900
+  38.4600, -104.9700
+  38.5100, -104.7200
+  38.3300, -104.6400
+  38.2700, -104.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 17 at 2:40AM EDT by NWS Louisville KY\nExpires: 2026-08-17 07:15 Z\nAt 240 AM EDT/140 AM CDT/, Doppler radar was tracking a strong thunderstorm near Santa Claus, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tell City, Ferdinand, Leopold, Troy, Ranger, Sassafras, Bristow, Oriole, Celina, and Lilly Dale.\nGenerated: 2026-08-17 06:45:15 UTC"
+  38.3200, -86.9000
+  38.2000, -86.4600
+  37.9200, -86.7200
+  38.0000, -86.8100
+  38.0200, -86.8000
+  38.0000, -86.7800
+  38.0000, -86.7700
+  38.0300, -86.7800
+  38.0300, -86.7700
+  38.0400, -86.7900
+  38.0600, -86.7700
+  38.0800, -86.7800
+  38.1000, -86.7700
+  38.1200, -86.8100
+  38.1200, -86.8000
+  38.1500, -86.8100
+  38.2000, -86.7900
+  38.2000, -87.0100
+  38.3200, -86.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 17 at 1:38AM CDT by NWS Paducah KY\nExpires: 2026-08-17 07:00 Z\nAt 137 AM CDT, Doppler radar was tracking a strong thunderstorm near Dale, or 22 miles northeast of Boonville, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dale and Santa Claus.  This includes Interstate 64 in Indiana between Mile Markers 57 and 60.\nGenerated: 2026-08-17 06:45:15 UTC"
   38.0500, -86.7700
   38.1100, -87.0000
   38.2000, -86.9800
@@ -24,7 +56,7 @@ Line: 2,,"Special Weather Statement issued August 17 at 1:38AM CDT by NWS Paduca
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 17 at 2:22AM EDT by NWS Wakefield VA\nExpires: 2026-08-17 07:00 Z\nAt 221 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Providence Forge to Garysville to near Carson. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph, pea size hail, heavy rain, and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Reduced visibility and minor flooding possible. Frequent cloud to ground lightning strikes.  Locations impacted include... Williamsburg, Charles City, Gloucester Courthouse, Waverly, Wakefield, Claremont, Surry, Queens Lake, Disputanta, Norge, Toano, College Of William And Mary, Dendron, Busch Gardens, Rustic, Burrowsville, Garysville, Providence Forge, Carver Gardens, and Elberon.\nGenerated: 2026-08-17 06:40:18 UTC"
+Line: 2,,"Special Weather Statement issued August 17 at 2:22AM EDT by NWS Wakefield VA\nExpires: 2026-08-17 07:00 Z\nAt 221 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Providence Forge to Garysville to near Carson. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph, pea size hail, heavy rain, and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Reduced visibility and minor flooding possible. Frequent cloud to ground lightning strikes.  Locations impacted include... Williamsburg, Charles City, Gloucester Courthouse, Waverly, Wakefield, Claremont, Surry, Queens Lake, Disputanta, Norge, Toano, College Of William And Mary, Dendron, Busch Gardens, Rustic, Burrowsville, Garysville, Providence Forge, Carver Gardens, and Elberon.\nGenerated: 2026-08-17 06:45:15 UTC"
   37.2700, -77.2300
   37.4900, -77.1000
   37.4900, -76.4500
@@ -32,49 +64,4 @@ Line: 2,,"Special Weather Statement issued August 17 at 2:22AM EDT by NWS Wakefi
   36.9400, -76.9600
   37.0000, -77.5500
   37.2700, -77.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 17 at 12:15AM MDT by NWS Pueblo CO\nExpires: 2026-08-17 06:45 Z\nAt 1214 AM MDT, Doppler radar was tracking a strong thunderstorm just north of Penrose, or 23 miles southwest of Colorado Springs, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Penrose.\nGenerated: 2026-08-17 06:40:18 UTC"
-  38.4200, -105.0100
-  38.5700, -105.0500
-  38.6300, -104.8400
-  38.4300, -104.7500
-  38.4200, -105.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 17 at 12:08AM MDT by NWS Rapid City SD\nExpires: 2026-08-17 06:45 Z\nAt 1208 AM MDT, Doppler radar was tracking a strong thunderstorm over Batesland, or 18 miles west of Martin, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Batesland and Wakpamni.\nGenerated: 2026-08-17 06:40:18 UTC"
-  43.0900, -102.2100
-  43.1800, -102.0300
-  43.1000, -101.7400
-  43.0000, -101.9400
-  43.0000, -102.1300
-  43.0900, -102.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 17 at 12:57AM CDT by NWS North Platte NE\nExpires: 2026-08-17 06:45 Z\nAt 1257 AM CDT/1157 PM MDT/, Doppler radar was tracking a strong thunderstorm 12 miles northwest of Mullen, moving southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mullen, Seneca, Hecla, and Kelso.  This includes the following highways... Highway 2 between mile markers 173 and 197. Highway 97 between mile markers 54 and 79.\nGenerated: 2026-08-17 06:40:18 UTC"
-  42.1600, -101.3900
-  42.2900, -101.2000
-  42.0900, -100.7200
-  41.8200, -101.0900
-  42.1600, -101.3900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 17 at 1:55AM EDT by NWS Wakefield VA\nExpires: 2026-08-17 06:45 Z\nAt 155 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Bellwood to near Sutherland to near Fort Barfoot. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph, heavy rain, and frequent lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible. Frequent cloud to ground lightning strikes.  Locations impacted include... Petersburg, Dinwiddie, Hopewell, Colonial Heights, McKenney, Fort Lee, Disputanta, Virginia State University, Chester, Prince George, Burrowsville, Garysville, Dewitt, Matoaca, Sutherland, Ettrick, Carson, Jordans Point, Bellwood, and Taylors Corner.\nGenerated: 2026-08-17 06:40:18 UTC"
-  37.2200, -77.7200
-  37.2200, -77.6900
-  37.2600, -77.6500
-  37.4200, -77.3900
-  37.2800, -76.9400
-  37.2300, -77.0200
-  37.2000, -77.0300
-  37.1900, -77.0700
-  37.1100, -77.1600
-  36.9000, -77.5900
-  37.0300, -77.8900
-  37.1000, -77.9000
-  37.2200, -77.7200
 End:
