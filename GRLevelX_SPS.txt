@@ -3,9 +3,57 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-18 23:00:20 UTC
+; Generated: 2026-08-18 23:05:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 4:52PM MDT by NWS Billings MT\nExpires: 2026-08-18 23:45 Z\nAt 452 PM MDT, Doppler radar was tracking a line of showers and wind extending from 12 miles northeast of Harlowton to 14 miles northwest of Absarokee moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Ryegate, Deadmans Basin Reservoir, Absarokee, Lavina, Judith Gap, Rapelje, Hailstone Wildlife Refuge, Franklin, Halfbreed Lake Wildlife, Shawmut, Reed Point, Molt, Greycliff and Park City.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 7:02PM EDT by NWS Jacksonville FL\nExpires: 2026-08-18 23:30 Z\nAt 702 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Providence to near Melrose. Movement was south at 15 mph.  HAZARD...Wind gusts up to 50 mph, pea size hail, excessive cloud-to-ground lightning, and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Minor flooding due to heavy rainfall is possible. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Gainesville, Ocala, Starke, Rainbow Lakes Estates, Lake Butler, Keystone Heights, Melrose, Worthington Spring, Citra, and Alachua.\nGenerated: 2026-08-18 23:05:17 UTC"
+  29.0400, -82.5300
+  29.2100, -82.5400
+  29.2200, -82.4000
+  29.4800, -82.4100
+  29.4800, -82.5500
+  29.5400, -82.5600
+  29.5400, -82.6100
+  29.7900, -82.6100
+  30.1600, -82.6900
+  30.1100, -82.4100
+  29.9100, -81.9000
+  29.6800, -82.0400
+  29.2200, -82.0900
+  29.0400, -82.5000
+  29.0400, -82.5300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 18 at 5:59PM CDT by NWS Mobile AL\nExpires: 2026-08-18 23:45 Z\nAt 559 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Crestview to 12 miles north of Roeville to 8 miles southeast of Bratt to near Stockton. Movement was south at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crestview, Niceville, Bay Minette, Milton, Valparaiso, Baker, Molino, Roeville, and Point Baker.\nGenerated: 2026-08-18 23:05:17 UTC"
+  30.5800, -86.7800
+  30.6000, -86.9800
+  30.6200, -87.0200
+  30.6000, -87.0200
+  30.6300, -87.0300
+  30.6000, -87.0700
+  30.6200, -87.2800
+  30.7500, -87.7600
+  31.0600, -87.8500
+  30.9000, -87.3500
+  30.9300, -86.9000
+  30.7400, -86.3900
+  30.4800, -86.3900
+  30.5800, -86.7800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 18 at 5:59PM CDT by NWS Jackson MS\nExpires: 2026-08-19 00:00 Z\nAt 559 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Rockport, or 14 miles east of Hazlehurst, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crystal Springs, Hazlehurst, Mendenhall, D'Lo, Georgetown, Braxton, Gallman, Hopewell, Harrisville, Union, Pinola, Shivers, and Rockport.\nGenerated: 2026-08-18 23:05:17 UTC"
+  32.0500, -90.4000
+  32.0500, -89.7900
+  31.7700, -89.8100
+  31.7600, -89.9700
+  31.7500, -89.9700
+  31.7000, -90.3800
+  32.0500, -90.4000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 18 at 4:52PM MDT by NWS Billings MT\nExpires: 2026-08-18 23:45 Z\nAt 452 PM MDT, Doppler radar was tracking a line of showers and wind extending from 12 miles northeast of Harlowton to 14 miles northwest of Absarokee moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Ryegate, Deadmans Basin Reservoir, Absarokee, Lavina, Judith Gap, Rapelje, Hailstone Wildlife Refuge, Franklin, Halfbreed Lake Wildlife, Shawmut, Reed Point, Molt, Greycliff and Park City.\nGenerated: 2026-08-18 23:05:17 UTC"
   45.5900, -109.8600
   46.6900, -109.7600
   46.6900, -109.3900
@@ -30,7 +78,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 4:52PM MDT by NWS Billin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 5:52PM CDT by NWS Shreveport LA\nExpires: 2026-08-18 23:30 Z\nAt 552 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southeast of Olla, or 18 miles south of Columbia, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jena and Midway.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 5:52PM CDT by NWS Shreveport LA\nExpires: 2026-08-18 23:30 Z\nAt 552 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southeast of Olla, or 18 miles south of Columbia, moving southeast at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jena and Midway.\nGenerated: 2026-08-18 23:05:17 UTC"
   31.8200, -92.2600
   31.9700, -92.1200
   31.9300, -92.0000
@@ -41,7 +89,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 5:52PM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 4:50PM MDT by NWS Cheyenne WY\nExpires: 2026-08-18 23:15 Z\nAt 450 PM MDT, Doppler radar was tracking a strong thunderstorm near Hawk Springs, or 21 miles southwest of Torrington, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Grange, Hawk Springs Reservoir, Hawk Springs State Recreation Area, Hawk Springs, Wycross, and Hawk Springs Campground.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 4:50PM MDT by NWS Cheyenne WY\nExpires: 2026-08-18 23:15 Z\nAt 450 PM MDT, Doppler radar was tracking a strong thunderstorm near Hawk Springs, or 21 miles southwest of Torrington, moving east at 50 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Grange, Hawk Springs Reservoir, Hawk Springs State Recreation Area, Hawk Springs, Wycross, and Hawk Springs Campground.\nGenerated: 2026-08-18 23:05:17 UTC"
   41.6000, -104.1200
   41.5900, -104.1300
   41.6000, -104.1300
@@ -53,7 +101,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 4:50PM MDT by NWS Cheyen
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 4:48PM MDT by NWS Billings MT\nExpires: 2026-08-18 23:30 Z\nAt 448 PM MDT, Doppler radar was tracking a strong thunderstorm near Laurel moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Billings, Laurel, Billings West End and Lockwood.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 4:48PM MDT by NWS Billings MT\nExpires: 2026-08-18 23:30 Z\nAt 448 PM MDT, Doppler radar was tracking a strong thunderstorm near Laurel moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Billings, Laurel, Billings West End and Lockwood.\nGenerated: 2026-08-18 23:05:17 UTC"
   45.8100, -108.9000
   45.8200, -108.4100
   45.5400, -108.5800
@@ -64,7 +112,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 4:48PM MDT by NWS Billin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 6:48PM EDT by NWS Melbourne FL\nExpires: 2026-08-18 23:30 Z\nAt 645 PM EDT, Doppler radar was tracking stronger thunderstorms along a line extending from near Crescent City to near Fruitland to near Lake Delancy. Movement was south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pierson, Barberville, Lake George, Eldridge, and Seville.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 6:48PM EDT by NWS Melbourne FL\nExpires: 2026-08-18 23:30 Z\nAt 645 PM EDT, Doppler radar was tracking stronger thunderstorms along a line extending from near Crescent City to near Fruitland to near Lake Delancy. Movement was south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pierson, Barberville, Lake George, Eldridge, and Seville.\nGenerated: 2026-08-18 23:05:17 UTC"
   29.2600, -81.4200
   29.2600, -81.3600
   29.1700, -81.3600
@@ -80,7 +128,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 6:48PM EDT by NWS Melbou
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 5:48PM CDT by NWS Jackson MS\nExpires: 2026-08-18 23:45 Z\nAt 548 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles south of Shuqualak, or 8 miles northeast of De Kalb, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scooba, Shuqualak, Porterville, Cooksville, Paulette, and Electric Mills.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 5:48PM CDT by NWS Jackson MS\nExpires: 2026-08-18 23:45 Z\nAt 548 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles south of Shuqualak, or 8 miles northeast of De Kalb, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scooba, Shuqualak, Porterville, Cooksville, Paulette, and Electric Mills.\nGenerated: 2026-08-18 23:05:17 UTC"
   32.6600, -88.3800
   32.6600, -88.5200
   32.8900, -88.7600
@@ -93,7 +141,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 5:48PM CDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 6:47PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-18 23:30 Z\nAt 647 PM EDT, Doppler radar was tracking a strong thunderstorm near Fowlers Bluff, or 13 miles southwest of Chiefland, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fowlers Bluff.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 6:47PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-18 23:30 Z\nAt 647 PM EDT, Doppler radar was tracking a strong thunderstorm near Fowlers Bluff, or 13 miles southwest of Chiefland, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fowlers Bluff.\nGenerated: 2026-08-18 23:05:17 UTC"
   29.2900, -83.1800
   29.3100, -83.1500
   29.3200, -83.1400
@@ -115,7 +163,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 6:47PM EDT by NWS Tampa 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 6:46PM EDT by NWS Tallahassee FL\nExpires: 2026-08-18 23:30 Z\nAt 646 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Fowlers Bluff, or 9 miles south of Cross City, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cross City, Steinhatchee, Horseshoe Point, Suwannee, Horseshoe Beach, Shamrock, Shired Island, Cross City Airport, Old Town, Guaranto Springs, Jena, Hines, Jonesboro, Eugene, Fletcher, Yellow Jacket, and Fanning Springs.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 6:46PM EDT by NWS Tallahassee FL\nExpires: 2026-08-18 23:30 Z\nAt 646 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Fowlers Bluff, or 9 miles south of Cross City, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cross City, Steinhatchee, Horseshoe Point, Suwannee, Horseshoe Beach, Shamrock, Shired Island, Cross City Airport, Old Town, Guaranto Springs, Jena, Hines, Jonesboro, Eugene, Fletcher, Yellow Jacket, and Fanning Springs.\nGenerated: 2026-08-18 23:05:17 UTC"
   29.2900, -83.2500
   29.3500, -83.2900
   29.4100, -83.3900
@@ -139,7 +187,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 6:46PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 5:44PM CDT by NWS Marquette MI\nExpires: 2026-08-18 23:15 Z\nAt 544 PM CDT, Doppler radar was tracking a strong thunderstorm near Stephenson, or 27 miles north of Marinette, moving east at 30 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stephenson, Cedar River, Bagley, Daggett, and Wells State Park.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 5:44PM CDT by NWS Marquette MI\nExpires: 2026-08-18 23:15 Z\nAt 544 PM CDT, Doppler radar was tracking a strong thunderstorm near Stephenson, or 27 miles north of Marinette, moving east at 30 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Stephenson, Cedar River, Bagley, Daggett, and Wells State Park.\nGenerated: 2026-08-18 23:05:17 UTC"
   45.4100, -87.6200
   45.5600, -87.6000
   45.5600, -87.3300
@@ -154,7 +202,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 5:44PM CDT by NWS Marque
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 5:35PM CDT by NWS Mobile AL\nExpires: 2026-08-18 23:15 Z\nAt 535 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northeast of Gulfcrest, or 5 miles southeast of Citronelle, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saraland, Chickasaw, Satsuma, Citronelle, Creola, Chunchula, Gulfcrest, Axis, Mount Vernon, Semmes, Wilmer, I65 And AL 158, and Movico.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 5:35PM CDT by NWS Mobile AL\nExpires: 2026-08-18 23:15 Z\nAt 535 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northeast of Gulfcrest, or 5 miles southeast of Citronelle, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saraland, Chickasaw, Satsuma, Citronelle, Creola, Chunchula, Gulfcrest, Axis, Mount Vernon, Semmes, Wilmer, I65 And AL 158, and Movico.\nGenerated: 2026-08-18 23:05:17 UTC"
   30.7800, -88.4100
   31.1400, -88.3200
   31.1300, -87.9900
@@ -176,7 +224,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 5:35PM CDT by NWS Mobile
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 4:23PM MDT by NWS Great Falls MT\nExpires: 2026-08-18 23:30 Z\nAt 423 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 16 miles south of White Sulphur Springs, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lennep and Ringling.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 4:23PM MDT by NWS Great Falls MT\nExpires: 2026-08-18 23:30 Z\nAt 423 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 16 miles south of White Sulphur Springs, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lennep and Ringling.\nGenerated: 2026-08-18 23:05:17 UTC"
   46.2000, -111.0500
   46.2400, -111.0600
   46.2800, -111.1100
@@ -190,7 +238,7 @@ Line: 2,,"Special Weather Statement issued August 18 at 4:23PM MDT by NWS Great 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 18 at 6:12PM EDT by NWS Tallahassee FL\nExpires: 2026-08-18 23:15 Z\nAt 612 PM EDT/512 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southeast of Geneva to near Chattahoochee to near Ochlocknee. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Bonifay, Thomasville, Quincy, Havana, Marianna, Chipley, Graceville, Bainbridge, Midway, Cairo, Quitman, Boston, Ochlocknee, Whigham, Chattahoochee, Greensboro, West Bainbridge, Bradford, and Malone.\nGenerated: 2026-08-18 23:00:20 UTC"
+Line: 2,,"Special Weather Statement issued August 18 at 6:12PM EDT by NWS Tallahassee FL\nExpires: 2026-08-18 23:15 Z\nAt 612 PM EDT/512 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southeast of Geneva to near Chattahoochee to near Ochlocknee. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Bonifay, Thomasville, Quincy, Havana, Marianna, Chipley, Graceville, Bainbridge, Midway, Cairo, Quitman, Boston, Ochlocknee, Whigham, Chattahoochee, Greensboro, West Bainbridge, Bradford, and Malone.\nGenerated: 2026-08-18 23:05:17 UTC"
   30.9900, -85.9000
   30.9900, -85.0100
   31.0700, -84.0300
