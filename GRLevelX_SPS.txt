@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-19 19:25:13 UTC
+; Generated: 2026-08-19 19:30:57 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 1:18PM MDT by NWS Pueblo CO\nExpires: 2026-08-19 19:45 Z\nAt 118 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Del Norte, or 30 miles west of Alamosa, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Rio Grande and northwestern Conejos Counties.\nGenerated: 2026-08-19 19:25:13 UTC"
+Line: 2,,"Special Weather Statement issued August 19 at 3:26PM EDT by NWS Miami FL\nExpires: 2026-08-19 20:00 Z\nAt 326 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 8 miles northwest of Brighton Seminole Reservation, or 14 miles north of Lakeport, moving northeast at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lakeport, Buckhead Ridge, and Brighton Seminole Reservation.\nGenerated: 2026-08-19 19:30:57 UTC"
+  27.1900, -80.9100
+  27.1800, -80.9100
+  27.1400, -80.8700
+  27.1200, -80.8900
+  27.1200, -80.9100
+  27.0800, -80.9300
+  27.0900, -80.9500
+  27.0700, -80.9600
+  27.0800, -80.9500
+  27.0500, -80.9600
+  27.0600, -80.9700
+  27.0200, -81.0100
+  26.9700, -81.0900
+  26.9600, -81.0800
+  26.9300, -81.1200
+  27.1200, -81.2200
+  27.1200, -81.1700
+  27.2100, -81.1700
+  27.2100, -80.9400
+  27.1900, -80.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 19 at 1:18PM MDT by NWS Pueblo CO\nExpires: 2026-08-19 19:45 Z\nAt 118 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Del Norte, or 30 miles west of Alamosa, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Rio Grande and northwestern Conejos Counties.\nGenerated: 2026-08-19 19:30:57 UTC"
   37.6100, -106.4900
   37.5700, -106.3000
   37.3300, -106.3400
@@ -14,7 +38,7 @@ Line: 2,,"Special Weather Statement issued August 19 at 1:18PM MDT by NWS Pueblo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 2:07PM CDT by NWS Tallahassee FL\nExpires: 2026-08-19 19:45 Z\nAt 207 PM CDT, Doppler radar was tracking a strong thunderstorm near Florala, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eglin Air Force Base, Liberty, Paxton, Gordon, Pond Creek, Oakwood Hills, Cluster Springs, Fox Hill, Sand Hill, Lakewood, Flowersville, New Harmony, Mossy Head, Caney Creek, and Glendale.\nGenerated: 2026-08-19 19:25:13 UTC"
+Line: 2,,"Special Weather Statement issued August 19 at 2:07PM CDT by NWS Tallahassee FL\nExpires: 2026-08-19 19:45 Z\nAt 207 PM CDT, Doppler radar was tracking a strong thunderstorm near Florala, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eglin Air Force Base, Liberty, Paxton, Gordon, Pond Creek, Oakwood Hills, Cluster Springs, Fox Hill, Sand Hill, Lakewood, Flowersville, New Harmony, Mossy Head, Caney Creek, and Glendale.\nGenerated: 2026-08-19 19:30:57 UTC"
   30.9900, -86.3900
   30.9900, -86.2000
   30.9200, -86.0500
@@ -22,54 +46,4 @@ Line: 2,,"Special Weather Statement issued August 19 at 2:07PM CDT by NWS Tallah
   30.7100, -86.3100
   30.7700, -86.3900
   30.9900, -86.3900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 2:55PM EDT by NWS Jacksonville FL\nExpires: 2026-08-19 19:30 Z\nAt 255 PM EDT, Doppler radar was tracking a strong thunderstorm over Pittman, or 7 miles west of Paisley, moving northwest at 10 mph.  HAZARD...Wind gusts around 40 mph and excessive cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Excessive cloud-to-ground lightning is occurring.  Locations impacted include... Juniper Springs.\nGenerated: 2026-08-19 19:25:13 UTC"
-  29.0800, -81.8700
-  29.1900, -81.8000
-  29.1700, -81.6400
-  29.0500, -81.6400
-  29.0500, -81.6600
-  28.9600, -81.6600
-  28.9600, -81.8100
-  29.0800, -81.8700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 2:46PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-19 19:30 Z\nAt 246 PM EDT, Doppler radar was tracking an area of strong thunderstorms near Sylvan Shores, or 5 miles northeast of Lake Placid, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sebring, Avon Park, Lake Placid, Lake Istokpoga, Sylvan Shores, Sebring Regional Airport, Lorida, Lake Josephine, Placid Lakes, Archbold, Cornwell, Avon Park Air Force Range, Sebring Shores and Brighton.\nGenerated: 2026-08-19 19:25:13 UTC"
-  27.3500, -81.5500
-  27.6400, -81.4800
-  27.6400, -81.1400
-  27.6000, -81.1400
-  27.5300, -81.2100
-  27.5100, -81.2000
-  27.4900, -81.2000
-  27.4500, -81.1500
-  27.3900, -81.1200
-  27.3800, -81.0600
-  27.3600, -81.0300
-  27.3300, -81.0400
-  27.3000, -81.0300
-  27.3000, -81.0000
-  27.2300, -80.9800
-  27.2100, -80.9400
-  27.2100, -81.1700
-  27.1200, -81.1700
-  27.1200, -81.2700
-  27.0700, -81.2700
-  27.3500, -81.5500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 2:45PM EDT by NWS Tallahassee FL\nExpires: 2026-08-19 19:30 Z\nAt 243 PM EDT/143 PM CDT/, Doppler radar was tracking a strong thunderstorm near White City, or 7 miles north of Port St. Joe, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Eastpoint, Apalachicola, St George Island, Port St. Joe, Mexico Beach, White City, Tyndall Air Force Base, Franklin, Royal Bluff, Eleven Mile, St George Island St Pk, Odena, Indian Pass, Beverly, Overstreet, Davis Beach, Bay City, Willis Landing, Apalachicola Airport, and Simmons Bayou.\nGenerated: 2026-08-19 19:25:13 UTC"
-  29.6000, -85.2400
-  29.5900, -85.3200
-  29.9800, -85.4800
-  30.0500, -85.1900
-  29.8100, -84.6900
-  29.6400, -84.7500
-  29.5500, -84.9300
-  29.5200, -85.0300
-  29.6000, -85.2400
 End:
