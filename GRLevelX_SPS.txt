@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-20 02:40:17 UTC
+; Generated: 2026-08-20 02:45:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 10:27PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-20 03:00 Z\nAt 1027 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Lake Kissimmee, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... River Ranch and Indian Lake Estates.\nGenerated: 2026-08-20 02:40:17 UTC"
+Line: 2,,"Special Weather Statement issued August 19 at 10:41PM EDT by NWS Jacksonville FL\nExpires: 2026-08-20 03:15 Z\nAt 1041 PM EDT, Doppler radar was tracking a strong thunderstorm near Hawthorne, or 9 miles north of Citra, moving northwest at 5 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hawthorne, Lochloosa, and Johnson.\nGenerated: 2026-08-20 02:45:13 UTC"
+  29.5200, -82.1700
+  29.6300, -82.1300
+  29.5800, -81.9400
+  29.5000, -81.9900
+  29.5000, -82.0000
+  29.4900, -82.0300
+  29.5200, -82.1700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 19 at 10:40PM EDT by NWS Jacksonville FL\nExpires: 2026-08-20 03:15 Z\nAt 1040 PM EDT, Doppler radar was tracking a strong thunderstorm over Mandarin, moving north at 5 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orange Park, Mandarin, Fruit Cove, Nas Jax, Fleming Island, Doctors Inlet, Ortega, Lakeside, Normandy, and Bellair-Meadowbrook Terrace.\nGenerated: 2026-08-20 02:45:13 UTC"
+  30.0900, -81.7900
+  30.3200, -81.7600
+  30.3100, -81.6100
+  30.1000, -81.5400
+  30.0900, -81.7900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 19 at 10:27PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-20 03:00 Z\nAt 1027 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Lake Kissimmee, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... River Ranch and Indian Lake Estates.\nGenerated: 2026-08-20 02:45:13 UTC"
   27.6500, -81.3300
   27.8100, -81.5100
   27.8900, -81.3100
@@ -19,31 +39,4 @@ Line: 2,,"Special Weather Statement issued August 19 at 10:27PM EDT by NWS Tampa
   27.7500, -81.1800
   27.7400, -81.1700
   27.6500, -81.3300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 7:19PM MST by NWS Phoenix AZ\nExpires: 2026-08-20 02:45 Z\nAt 719 PM MST, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Globe, moving west at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Globe, Central Heights-Midland City, and Claypool.  This includes the following highways... US Highway 60 between mile markers 246 and 268. AZ Route 70 between mile markers 253 and 258. AZ Route 77 between mile markers 169 and 170.\nGenerated: 2026-08-20 02:40:17 UTC"
-  33.6100, -110.5200
-  33.4300, -110.4900
-  33.3000, -110.8100
-  33.5600, -110.9000
-  33.6100, -110.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 10:10PM EDT by NWS Jacksonville FL\nExpires: 2026-08-20 02:45 Z\nAt 1010 PM EDT, Doppler radar was tracking a strong thunderstorm near Middleburg, moving northwest at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Green Cove Springs, Starke, Keystone Heights, Middleburg, Fleming Island, George's Lake, Oakleaf Plantation, Bellair-Meadowbrook Terrace, Camp Blanding, and Cecil Field.\nGenerated: 2026-08-20 02:40:17 UTC"
-  30.0200, -81.6700
-  29.6900, -81.9300
-  30.0000, -82.1600
-  30.3000, -81.7900
-  30.0200, -81.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 9:05PM CDT by NWS Lincoln IL\nExpires: 2026-08-20 02:45 Z\nAt 905 PM CDT, Doppler radar was tracking a strong thunderstorm over Beason, or 9 miles west of Clinton, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clinton, Wapella, Kenney, De Witt, Clinton Power Station, Weldon Springs State Park, Lane, Midland City, and Hallsville.  This also includes Clinton Lake State Recreation Area and Weldon Springs State Park.\nGenerated: 2026-08-20 02:40:17 UTC"
-  40.0600, -89.1900
-  40.2200, -89.1800
-  40.2100, -88.7600
-  40.0600, -88.7600
-  40.0600, -89.1900
 End:
