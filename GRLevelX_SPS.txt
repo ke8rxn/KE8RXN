@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-20 03:15:16 UTC
+; Generated: 2026-08-20 03:20:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 11:11PM EDT by NWS Jacksonville FL\nExpires: 2026-08-20 04:00 Z\nAt 1111 PM EDT, Doppler radar was tracking a strong thunderstorm over Bayard, or near Fruit Cove, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Unf, Baymeadows, Nocatee, Bayard, Durbin, and Craig Field.\nGenerated: 2026-08-20 03:15:16 UTC"
+Line: 2,,"Special Weather Statement issued August 19 at 10:18PM CDT by NWS Little Rock AR\nExpires: 2026-08-20 03:45 Z\nAt 1018 PM CDT, Doppler radar was tracking a strong thunderstorm over Ott, or 13 miles northwest of Salem in Fulton County, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Salem in Fulton County...         Viola... Sturkie...                        Flint Springs... Ott...                            Moko... Camp...\nGenerated: 2026-08-20 03:20:17 UTC"
+  36.3800, -91.7100
+  36.3400, -92.1000
+  36.5000, -92.0900
+  36.5000, -91.7100
+  36.3800, -91.7100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 19 at 11:11PM EDT by NWS Jacksonville FL\nExpires: 2026-08-20 04:00 Z\nAt 1111 PM EDT, Doppler radar was tracking a strong thunderstorm over Bayard, or near Fruit Cove, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Unf, Baymeadows, Nocatee, Bayard, Durbin, and Craig Field.\nGenerated: 2026-08-20 03:20:17 UTC"
   30.0800, -81.5700
   30.3200, -81.6200
   30.3400, -81.4900
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued August 19 at 11:11PM EDT by NWS Jacks
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 19 at 10:59PM EDT by NWS Jacksonville FL\nExpires: 2026-08-20 03:30 Z\nAt 1059 PM EDT, Doppler radar was tracking a strong thunderstorm over San Pablo, or near Ponte Vedra Beach. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Jacksonville Beach, Atlantic Beach, Neptune Beach, and San Pablo.\nGenerated: 2026-08-20 03:15:16 UTC"
+Line: 2,,"Special Weather Statement issued August 19 at 10:59PM EDT by NWS Jacksonville FL\nExpires: 2026-08-20 03:30 Z\nAt 1059 PM EDT, Doppler radar was tracking a strong thunderstorm over San Pablo, or near Ponte Vedra Beach. A strong thunderstorm was nearly stationary.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Jacksonville Beach, Atlantic Beach, Neptune Beach, and San Pablo.\nGenerated: 2026-08-20 03:20:17 UTC"
   30.2300, -81.3800
   30.2500, -81.3800
   30.2500, -81.4300
