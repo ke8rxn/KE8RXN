@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-22 04:10:17 UTC
+; Generated: 2026-08-22 04:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 21 at 11:09PM CDT by NWS Lincoln IL\nExpires: 2026-08-22 04:45 Z\nAt 1109 PM CDT, Doppler radar was tracking a strong thunderstorm over Delavan, or 13 miles southeast of Pekin, moving southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tremont, Delavan, South Pekin, Hopedale, Emden, Armington, and Dillon.  This includes Interstate 155 between mile markers 6 and 23.\nGenerated: 2026-08-22 04:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 21 at 10:12PM MDT by NWS Goodland KS\nExpires: 2026-08-22 04:30 Z\nAt 1012 PM MDT/1112 PM CDT/, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 11 miles south of Wauneta to 14 miles northwest of Benkelman to 16 miles northeast of Haigler. Movement was south at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  These storms will remain over mainly rural areas of northwestern Hitchcock and central Dundy Counties, including the following locations... Max.\nGenerated: 2026-08-22 04:15:16 UTC"
+  40.1400, -101.1400
+  40.0300, -101.8700
+  40.2900, -101.9100
+  40.3200, -101.2600
+  40.1400, -101.1400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 21 at 11:09PM CDT by NWS Lincoln IL\nExpires: 2026-08-22 04:45 Z\nAt 1109 PM CDT, Doppler radar was tracking a strong thunderstorm over Delavan, or 13 miles southeast of Pekin, moving southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tremont, Delavan, South Pekin, Hopedale, Emden, Armington, and Dillon.  This includes Interstate 155 between mile markers 6 and 23.\nGenerated: 2026-08-22 04:15:16 UTC"
   40.4900, -89.6700
   40.5600, -89.5400
   40.3200, -89.2900
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued August 21 at 11:09PM CDT by NWS Linco
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 21 at 10:05PM MDT by NWS Great Falls MT\nExpires: 2026-08-22 05:00 Z\nAt 1003 PM MDT, Doppler radar was tracking a cluster of thunderstorms with strong gusty winds approaching southwestern Beaverhead County. Movement was north at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lima, Dell, and Bannack Pass.\nGenerated: 2026-08-22 04:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 21 at 10:05PM MDT by NWS Great Falls MT\nExpires: 2026-08-22 05:00 Z\nAt 1003 PM MDT, Doppler radar was tracking a cluster of thunderstorms with strong gusty winds approaching southwestern Beaverhead County. Movement was north at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lima, Dell, and Bannack Pass.\nGenerated: 2026-08-22 04:15:16 UTC"
   44.3900, -112.8800
   44.4300, -112.9800
   44.4900, -113.0300
@@ -33,7 +42,7 @@ Line: 2,,"Special Weather Statement issued August 21 at 10:05PM MDT by NWS Great
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 21 at 9:59PM MDT by NWS Missoula MT\nExpires: 2026-08-22 04:30 Z\nAt 959 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles southeast of Gilmore, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gilmore and Nicholia.\nGenerated: 2026-08-22 04:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 21 at 9:59PM MDT by NWS Missoula MT\nExpires: 2026-08-22 04:30 Z\nAt 959 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles southeast of Gilmore, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gilmore and Nicholia.\nGenerated: 2026-08-22 04:15:16 UTC"
   44.3500, -113.3700
   44.6000, -113.3000
   44.6800, -113.0700
@@ -58,7 +67,7 @@ Line: 2,,"Special Weather Statement issued August 21 at 9:59PM MDT by NWS Missou
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 21 at 9:48PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-22 04:30 Z\nAt 948 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 19 miles east of Montello to 11 miles west of Dugway English Village. Movement was north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Delle, Knolls, Utah Test and Training Range North, Clive, Skull Valley, and Lakeside.  This includes the following highways... Interstate 80 in Utah between mile markers 31 and 79. Utah Route 30 between mile markers 12 and 41.\nGenerated: 2026-08-22 04:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 21 at 9:48PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-22 04:30 Z\nAt 948 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 19 miles east of Montello to 11 miles west of Dugway English Village. Movement was north at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Delle, Knolls, Utah Test and Training Range North, Clive, Skull Valley, and Lakeside.  This includes the following highways... Interstate 80 in Utah between mile markers 31 and 79. Utah Route 30 between mile markers 12 and 41.\nGenerated: 2026-08-22 04:15:16 UTC"
   41.8400, -113.7000
   41.3400, -112.9200
   40.6900, -112.5700
@@ -68,7 +77,7 @@ Line: 2,,"Special Weather Statement issued August 21 at 9:48PM MDT by NWS Salt L
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 21 at 10:33PM CDT by NWS Lincoln IL\nExpires: 2026-08-22 04:15 Z\nAt 1033 PM CDT, Doppler radar was tracking a strong thunderstorm over Mapleton, or near Pekin, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Peoria, Pekin, East Peoria, Morton, Bartonville, Creve Coeur, Marquette Heights, Tremont, Bellevue, Mackinaw, Delavan, South Pekin, Glasford, Hopedale, Green Valley, Mapleton, Peoria International Airport, North Pekin, Dillon, and Groveland.  This includes the following highways... Interstate 155 between mile markers 15 and 29. Interstate 474 between mile markers 5 and 12.  This also includes Powerton Lake State Fish and Wildlife Area.\nGenerated: 2026-08-22 04:10:17 UTC"
+Line: 2,,"Special Weather Statement issued August 21 at 10:33PM CDT by NWS Lincoln IL\nExpires: 2026-08-22 04:15 Z\nAt 1033 PM CDT, Doppler radar was tracking a strong thunderstorm over Mapleton, or near Pekin, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Peoria, Pekin, East Peoria, Morton, Bartonville, Creve Coeur, Marquette Heights, Tremont, Bellevue, Mackinaw, Delavan, South Pekin, Glasford, Hopedale, Green Valley, Mapleton, Peoria International Airport, North Pekin, Dillon, and Groveland.  This includes the following highways... Interstate 155 between mile markers 15 and 29. Interstate 474 between mile markers 5 and 12.  This also includes Powerton Lake State Fish and Wildlife Area.\nGenerated: 2026-08-22 04:15:16 UTC"
   40.5900, -89.8200
   40.6900, -89.6600
   40.4800, -89.2700
