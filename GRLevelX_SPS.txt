@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-22 17:50:16 UTC
+; Generated: 2026-08-22 17:55:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 22 at 1:46PM EDT by NWS Cleveland OH\nExpires: 2026-08-22 18:30 Z\nAt 146 PM EDT, Doppler radar was tracking a strong thunderstorm near Mantua, or 11 miles north of Ravenna, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Warren, Cortland, Middlefield, Garrettsville, North Bloomfield, Mantua, West Farmington, Bristolville, Leavittsburg, Parkman, Mecca, Windham, Johnston, Hiram, and Champion Heights.\nGenerated: 2026-08-22 17:50:16 UTC"
+Line: 2,,"Special Weather Statement issued August 22 at 12:54PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-08-22 18:30 Z\nAt 1254 PM CDT, Doppler radar was tracking a strong thunderstorm over Howards Grove, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheboygan, Sheboygan Falls, Howards Grove, Oostburg, Kohler, Haven, and Gibbsville.  This includes Interstate 43 between mile markers 114 and 135.\nGenerated: 2026-08-22 17:55:14 UTC"
+  43.6800, -87.7000
+  43.5600, -87.7900
+  43.8100, -87.9000
+  43.8900, -87.8000
+  43.8900, -87.7300
+  43.8100, -87.7300
+  43.7600, -87.7000
+  43.7300, -87.7100
+  43.7000, -87.7000
+  43.6800, -87.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 22 at 1:52PM EDT by NWS Northern Indiana\nExpires: 2026-08-22 18:30 Z\nAt 152 PM EDT, Doppler radar was tracking a strong thunderstorm over Hillsdale, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hillsdale, Jonesville, Reading, Jerome, Somerset, Cambria, Pittsford, Moscow, Ransom, Camden, North Adams, Bear Lake, Prattville, Lake Wilson, Frontier, Shadyside, Betzer, Osseo, and Somerset Center.\nGenerated: 2026-08-22 17:55:14 UTC"
+  42.0700, -84.3600
+  41.7300, -84.3600
+  41.7600, -84.7700
+  42.0700, -84.6600
+  42.0700, -84.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 22 at 1:46PM EDT by NWS Cleveland OH\nExpires: 2026-08-22 18:30 Z\nAt 146 PM EDT, Doppler radar was tracking a strong thunderstorm near Mantua, or 11 miles north of Ravenna, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Warren, Cortland, Middlefield, Garrettsville, North Bloomfield, Mantua, West Farmington, Bristolville, Leavittsburg, Parkman, Mecca, Windham, Johnston, Hiram, and Champion Heights.\nGenerated: 2026-08-22 17:55:14 UTC"
   41.2000, -81.2200
   41.4300, -81.3000
   41.4800, -80.6900
@@ -14,7 +37,7 @@ Line: 2,,"Special Weather Statement issued August 22 at 1:46PM EDT by NWS Clevel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 22 at 1:45PM EDT by NWS Tallahassee FL\nExpires: 2026-08-22 18:15 Z\nAt 145 PM EDT/1245 PM CDT/, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Stonemill Creek, or 12 miles south of Blountstown, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orange, Telogia, East Camp, Jewel Fire Tower, Morgan Place, Vilas, Jensen Place, Central City, Red Hill, Clio, Owens Bridge, Marysville, Poplar Camp, Estiffanulga, Kern, Wilma, Lewis, Sumatra, Woods, and Willis Landing.\nGenerated: 2026-08-22 17:50:16 UTC"
+Line: 2,,"Special Weather Statement issued August 22 at 1:45PM EDT by NWS Tallahassee FL\nExpires: 2026-08-22 18:15 Z\nAt 145 PM EDT/1245 PM CDT/, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Stonemill Creek, or 12 miles south of Blountstown, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orange, Telogia, East Camp, Jewel Fire Tower, Morgan Place, Vilas, Jensen Place, Central City, Red Hill, Clio, Owens Bridge, Marysville, Poplar Camp, Estiffanulga, Kern, Wilma, Lewis, Sumatra, Woods, and Willis Landing.\nGenerated: 2026-08-22 17:55:14 UTC"
   29.9200, -84.9300
   29.9100, -85.1100
   30.1700, -85.1400
@@ -39,7 +62,7 @@ Line: 2,,"Special Weather Statement issued August 22 at 1:45PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 22 at 1:43PM EDT by NWS Charleston WV\nExpires: 2026-08-22 18:15 Z\nAt 143 PM EDT, Doppler radar was tracking a strong thunderstorm over Dunlow, or 12 miles southeast of Louisa, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kiahsville, Ranger, Dunlow, Harts, Breeden, and Wilsondale.\nGenerated: 2026-08-22 17:50:16 UTC"
+Line: 2,,"Special Weather Statement issued August 22 at 1:43PM EDT by NWS Charleston WV\nExpires: 2026-08-22 18:15 Z\nAt 143 PM EDT, Doppler radar was tracking a strong thunderstorm over Dunlow, or 12 miles southeast of Louisa, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kiahsville, Ranger, Dunlow, Harts, Breeden, and Wilsondale.\nGenerated: 2026-08-22 17:55:14 UTC"
   38.0700, -82.4800
   38.1600, -82.1500
   37.8600, -82.1300
@@ -51,7 +74,7 @@ Line: 2,,"Special Weather Statement issued August 22 at 1:43PM EDT by NWS Charle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 22 at 1:31PM EDT by NWS Cleveland OH\nExpires: 2026-08-22 18:15 Z\nAt 131 PM EDT, Doppler radar was tracking a strong thunderstorm near Cleveland, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Willowick, Chardon, Parma, Lakewood, Euclid, Mentor, Cleveland Heights, Westlake, Solon, Willoughby, Eastlake, Warrensville Heights, South Russell, Highland Hills, Chesterland, Garfield Heights, Shaker Heights, Maple Heights, and South Euclid.\nGenerated: 2026-08-22 17:50:16 UTC"
+Line: 2,,"Special Weather Statement issued August 22 at 1:31PM EDT by NWS Cleveland OH\nExpires: 2026-08-22 18:15 Z\nAt 131 PM EDT, Doppler radar was tracking a strong thunderstorm near Cleveland, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Willowick, Chardon, Parma, Lakewood, Euclid, Mentor, Cleveland Heights, Westlake, Solon, Willoughby, Eastlake, Warrensville Heights, South Russell, Highland Hills, Chesterland, Garfield Heights, Shaker Heights, Maple Heights, and South Euclid.\nGenerated: 2026-08-22 17:55:14 UTC"
   41.5200, -81.1600
   41.4000, -81.4000
   41.3900, -81.8100
@@ -65,7 +88,7 @@ Line: 2,,"Special Weather Statement issued August 22 at 1:31PM EDT by NWS Clevel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 22 at 1:17PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-08-22 18:30 Z\nAt 117 PM EDT, Doppler radar was tracking a strong thunderstorm over Midland, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Saginaw, Midland, Bay City, Auburn, Freeland, Kawkawlin, Essexville, Zilwaukee, Munger, Linwood, Carrollton, Arthur, Poseyville, Willard, Indiantown, Laporte, Bay City State Recreation Area, Hemlock, Shields, and Buena Vista Township.  People attending Midland County Fair  should seek safe shelter immediately!\nGenerated: 2026-08-22 17:50:16 UTC"
+Line: 2,,"Special Weather Statement issued August 22 at 1:17PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-08-22 18:30 Z\nAt 117 PM EDT, Doppler radar was tracking a strong thunderstorm over Midland, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Saginaw, Midland, Bay City, Auburn, Freeland, Kawkawlin, Essexville, Zilwaukee, Munger, Linwood, Carrollton, Arthur, Poseyville, Willard, Indiantown, Laporte, Bay City State Recreation Area, Hemlock, Shields, and Buena Vista Township.  People attending Midland County Fair  should seek safe shelter immediately!\nGenerated: 2026-08-22 17:55:14 UTC"
   43.7000, -84.3300
   43.7700, -83.9000
   43.7400, -83.9100
