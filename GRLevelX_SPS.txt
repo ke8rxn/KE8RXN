@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-24 03:10:13 UTC
+; Generated: 2026-08-24 03:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 8:58PM MDT by NWS Riverton WY\nExpires: 2026-08-24 03:30 Z\nAt 857 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Superior, which is 15 miles east of Rock Springs, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects.  This storm will remain over mainly rural areas of central Sweetwater County, including the following locations... Point Of Rocks, Bitter Creek, and Southwest Wyoming Regional Airport.  This includes Interstate 80 between mile markers 116 and 118, and between mile markers 131 and 150.\nGenerated: 2026-08-24 03:10:13 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 8:58PM MDT by NWS Riverton WY\nExpires: 2026-08-24 03:30 Z\nAt 857 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Superior, which is 15 miles east of Rock Springs, moving east at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could blow around unsecured objects.  This storm will remain over mainly rural areas of central Sweetwater County, including the following locations... Point Of Rocks, Bitter Creek, and Southwest Wyoming Regional Airport.  This includes Interstate 80 between mile markers 116 and 118, and between mile markers 131 and 150.\nGenerated: 2026-08-24 03:15:16 UTC"
   41.3800, -109.0900
   41.6500, -109.0500
   41.7200, -108.4100
@@ -14,7 +14,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 8:58PM MDT by NWS Rivert
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 9:55PM CDT by NWS Bismarck ND\nExpires: 2026-08-24 03:45 Z\nAt 955 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Goodrich, or 19 miles southwest of Harvey, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Goodrich, Hurdsfield, Denhoff and Sheyenne Lake.\nGenerated: 2026-08-24 03:10:13 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 9:55PM CDT by NWS Bismarck ND\nExpires: 2026-08-24 03:45 Z\nAt 955 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Goodrich, or 19 miles southwest of Harvey, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Goodrich, Hurdsfield, Denhoff and Sheyenne Lake.\nGenerated: 2026-08-24 03:15:16 UTC"
   47.5500, -100.4200
   47.7200, -100.3100
   47.6300, -99.7600
@@ -23,25 +23,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 9:55PM CDT by NWS Bismar
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 8:45PM MDT by NWS Rapid City SD\nExpires: 2026-08-24 03:15 Z\nAt 845 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles west of Slim Buttes, or 16 miles southeast of Buffalo, moving south at 30 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Slim Buttes.\nGenerated: 2026-08-24 03:10:13 UTC"
-  45.4700, -103.4100
-  45.5300, -103.1700
-  45.3100, -102.9800
-  45.2400, -103.3600
-  45.4700, -103.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 10:45PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-08-24 03:15 Z\nAt 1045 PM EDT, Doppler radar was tracking a strong thunderstorm over Avon, or 11 miles northeast of Frisco, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Avon and Avon Pier.\nGenerated: 2026-08-24 03:10:13 UTC"
-  35.3000, -75.5500
-  35.5000, -75.5200
-  35.5100, -75.4400
-  35.3000, -75.4600
-  35.3000, -75.5500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 8:45PM MDT by NWS Billings MT\nExpires: 2026-08-24 03:30 Z\nAt 845 PM MDT, Doppler radar was tracking a line of showers and isolated thunderstorms extending from 33 miles northwest of Miles City to 38 miles south of Ashland, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  Wind gusts 40 to 50 mph have been recently reported along this line.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Gusty winds may arrive absent any precipitation or thunder.  The shower will be near... Miles City around 900 PM MDT. Volborg around 915 PM MDT. Broadus around 925 PM MDT.  Other locations impacted by this shower include Otter, Hathaway, Angela, Rock Springs and Brandenberg.\nGenerated: 2026-08-24 03:10:13 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 8:45PM MDT by NWS Billings MT\nExpires: 2026-08-24 03:30 Z\nAt 845 PM MDT, Doppler radar was tracking a line of showers and isolated thunderstorms extending from 33 miles northwest of Miles City to 38 miles south of Ashland, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  Wind gusts 40 to 50 mph have been recently reported along this line.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Gusty winds may arrive absent any precipitation or thunder.  The shower will be near... Miles City around 900 PM MDT. Volborg around 915 PM MDT. Broadus around 925 PM MDT.  Other locations impacted by this shower include Otter, Hathaway, Angela, Rock Springs and Brandenberg.\nGenerated: 2026-08-24 03:15:16 UTC"
   45.0100, -106.4900
   45.7600, -106.4700
   46.8500, -106.5100
@@ -64,62 +46,10 @@ Line: 2,,"Special Weather Statement issued August 23 at 8:45PM MDT by NWS Billin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 10:45PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-08-24 03:15 Z\nAt 1045 PM EDT, Doppler radar was tracking a strong thunderstorm over Williston, or 8 miles north of Harkers Island, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Morehead City, North River, Sealevel, Marshallberg, Smyrna, Atlantic, Davis, Williston, Otway, Open Grounds Farm, Stacy, and Bettie.\nGenerated: 2026-08-24 03:10:13 UTC"
-  34.7400, -76.6800
-  34.8800, -76.6700
-  34.9700, -76.3200
-  34.7100, -76.2800
-  34.7400, -76.6800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 10:35PM EDT by NWS Cleveland OH\nExpires: 2026-08-24 03:15 Z\nAt 1034 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Campbell to Sebring. Movement was southeast at 25 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Youngstown, Salem, Columbiana, Boardman, Alliance, Campbell, Canfield, Sebring, Struthers, Poland, Ellsworth, New Middletown, Lowellville, Beloit, Maple Ridge, and Greenford.\nGenerated: 2026-08-24 03:10:13 UTC"
-  40.9600, -81.0800
-  41.1200, -80.5200
-  40.9000, -80.5200
-  40.9000, -80.8200
-  40.9300, -80.8300
-  40.9300, -80.8900
-  40.9000, -80.9000
-  40.9100, -81.0900
-  40.9600, -81.0800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 8:29PM MDT by NWS Glasgow MT\nExpires: 2026-08-24 03:30 Z\nAt 829 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Sand Springs, or 32 miles east of Winnett, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jordan, Cohagen, Sand Springs, Edwards, and Steve Fork.\nGenerated: 2026-08-24 03:10:13 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 8:29PM MDT by NWS Glasgow MT\nExpires: 2026-08-24 03:30 Z\nAt 829 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Sand Springs, or 32 miles east of Winnett, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jordan, Cohagen, Sand Springs, Edwards, and Steve Fork.\nGenerated: 2026-08-24 03:15:16 UTC"
   47.0000, -107.8300
   47.3200, -107.7800
   47.4000, -106.6200
   47.0100, -106.6100
   47.0000, -107.8300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 9:29PM CDT by NWS Mobile AL\nExpires: 2026-08-24 03:15 Z\nAt 929 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles west of Bay Minette, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bay Minette, Stapleton, and I65 And AL 225.\nGenerated: 2026-08-24 03:10:13 UTC"
-  30.8200, -87.9500
-  30.8300, -87.9400
-  30.8400, -87.9500
-  30.9200, -87.9500
-  30.9300, -87.9600
-  30.9300, -87.9500
-  30.9400, -87.9200
-  30.9200, -87.9100
-  30.9300, -87.9100
-  30.9300, -87.9000
-  30.9500, -87.9000
-  30.9400, -87.8800
-  30.9600, -87.8700
-  30.9800, -87.8100
-  30.7600, -87.6100
-  30.6900, -87.9400
-  30.8200, -87.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 9:17PM CDT by NWS Dodge City KS\nExpires: 2026-08-24 03:15 Z\nAt 916 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Walsh, or 10 miles west of The Saunders Elevator, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Manter.\nGenerated: 2026-08-24 03:10:13 UTC"
-  37.7300, -102.0400
-  37.7300, -101.8300
-  37.4000, -101.7600
-  37.4000, -102.0400
-  37.7300, -102.0400
 End:
