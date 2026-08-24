@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-24 01:20:16 UTC
+; Generated: 2026-08-24 01:25:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 9:17PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-08-24 01:45 Z\nAt 917 PM EDT, Doppler radar was tracking a strong thunderstorm near Middletown, or 15 miles southwest of Stumpy Point, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern Hyde and west central Dare Counties.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 9:21PM EDT by NWS Cleveland OH\nExpires: 2026-08-24 02:00 Z\nAt 920 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Middlefield to near Mantua to Macedonia. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Youngstown, Warren, Sharon, Ravenna, Cuyahoga Falls, Kent, Solon, Hudson, Niles, Twinsburg, Tallmadge, Streetsboro, Macedonia, Hubbard, Cortland, Newton Falls, Lordstown, Middlefield, Garrettsville, and Mantua.\nGenerated: 2026-08-24 01:25:15 UTC"
+  41.0300, -80.8400
+  40.9800, -81.0800
+  40.9900, -81.0900
+  40.9900, -81.3100
+  41.2800, -81.6000
+  41.2900, -81.5700
+  41.3300, -81.6000
+  41.3500, -81.4900
+  41.3500, -81.4000
+  41.3700, -81.3900
+  41.3900, -81.3000
+  41.5100, -81.0100
+  41.2200, -80.5100
+  41.1600, -80.5200
+  41.0300, -80.8400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 23 at 9:17PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-08-24 01:45 Z\nAt 917 PM EDT, Doppler radar was tracking a strong thunderstorm near Middletown, or 15 miles southwest of Stumpy Point, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northeastern Hyde and west central Dare Counties.\nGenerated: 2026-08-24 01:25:15 UTC"
   35.4600, -75.9500
   35.5400, -76.0200
   35.7300, -75.8100
@@ -14,7 +33,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 9:17PM EDT by NWS Newpor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 9:15PM EDT by NWS Cleveland OH\nExpires: 2026-08-24 02:00 Z\nAt 915 PM EDT, Doppler radar was tracking a strong thunderstorm over Orwell, or 17 miles north of Warren, moving southeast at 30 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Cortland, Kinsman, North Bloomfield, Orwell, Mecca, Johnston, Orangeville, Yankee Lake, and Brookfield Center.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 9:15PM EDT by NWS Cleveland OH\nExpires: 2026-08-24 02:00 Z\nAt 915 PM EDT, Doppler radar was tracking a strong thunderstorm over Orwell, or 17 miles north of Warren, moving southeast at 30 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Cortland, Kinsman, North Bloomfield, Orwell, Mecca, Johnston, Orangeville, Yankee Lake, and Brookfield Center.\nGenerated: 2026-08-24 01:25:15 UTC"
   41.4300, -80.9400
   41.5900, -80.8300
   41.4900, -80.5200
@@ -23,7 +42,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 9:15PM EDT by NWS Clevel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 8:07PM CDT by NWS Amarillo TX\nExpires: 2026-08-24 01:30 Z\nAt 806 PM CDT, Doppler radar was tracking a strong thunderstorm over Briscoe, or 22 miles east of Miami, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Briscoe and Allison.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 8:07PM CDT by NWS Amarillo TX\nExpires: 2026-08-24 01:30 Z\nAt 806 PM CDT, Doppler radar was tracking a strong thunderstorm over Briscoe, or 22 miles east of Miami, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Briscoe and Allison.\nGenerated: 2026-08-24 01:25:15 UTC"
   35.3500, -100.0700
   35.5700, -100.5000
   35.7200, -100.3800
@@ -33,7 +52,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 8:07PM CDT by NWS Amaril
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 7:56PM CDT by NWS Shreveport LA\nExpires: 2026-08-24 01:45 Z\nAt 756 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles east of Montgomery to 11 miles southwest of Midway, or extending from 18 miles southwest of Winnfield to 33 miles southeast of Winnfield, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colfax, Pollock, Dry Prong, Georgetown, Atlanta, Williana, Bentley, Lake Iatt, Fishville, Aloha and Rogers.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 7:56PM CDT by NWS Shreveport LA\nExpires: 2026-08-24 01:45 Z\nAt 756 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles east of Montgomery to 11 miles southwest of Midway, or extending from 18 miles southwest of Winnfield to 33 miles southeast of Winnfield, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Colfax, Pollock, Dry Prong, Georgetown, Atlanta, Williana, Bentley, Lake Iatt, Fishville, Aloha and Rogers.\nGenerated: 2026-08-24 01:25:15 UTC"
   31.4200, -92.8700
   31.8100, -92.7600
   31.7300, -92.2000
@@ -58,7 +77,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 7:56PM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 7:54PM CDT by NWS Bismarck ND\nExpires: 2026-08-24 01:30 Z\nAt 754 PM CDT /654 PM MDT/, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Mckenzie Bay Recreation Area, or 39 miles east of Watford City, moving east at 15 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mckenzie Bay Recreation Area, Skunk Creek Bay Recreation Area, Fort Berthold and Deep Water Creek Recreation Area.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 7:54PM CDT by NWS Bismarck ND\nExpires: 2026-08-24 01:30 Z\nAt 754 PM CDT /654 PM MDT/, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Mckenzie Bay Recreation Area, or 39 miles east of Watford City, moving east at 15 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mckenzie Bay Recreation Area, Skunk Creek Bay Recreation Area, Fort Berthold and Deep Water Creek Recreation Area.\nGenerated: 2026-08-24 01:25:15 UTC"
   47.7000, -102.6400
   47.7800, -102.5700
   47.7800, -102.4900
@@ -75,7 +94,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 7:54PM CDT by NWS Bismar
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 6:52PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-24 01:30 Z\nAt 652 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 16 miles southeast of Dugway Proving Ground Test Range to 18 miles south of Vernon. Movement was northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dugway English Village, Vernon, Ophir, Tooele Army Depot South, Skull Valley, Dugway Proving Ground Test Range, Rush Valley, Fairfield, Faust, Lofgreen, and Little Sahara State Park.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 6:52PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-24 01:30 Z\nAt 652 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 16 miles southeast of Dugway Proving Ground Test Range to 18 miles south of Vernon. Movement was northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dugway English Village, Vernon, Ophir, Tooele Army Depot South, Skull Valley, Dugway Proving Ground Test Range, Rush Valley, Fairfield, Faust, Lofgreen, and Little Sahara State Park.\nGenerated: 2026-08-24 01:25:15 UTC"
   40.4300, -112.8300
   40.4200, -112.3100
   40.1400, -111.9600
@@ -85,7 +104,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 6:52PM MDT by NWS Salt L
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 6:50PM MDT by NWS Glasgow MT\nExpires: 2026-08-24 01:45 Z\nAt 650 PM MDT, Doppler radar was tracking a strong thunderstorm near Grass Range, or 19 miles northwest of Winnett, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Winnett and Tiegen.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 6:50PM MDT by NWS Glasgow MT\nExpires: 2026-08-24 01:45 Z\nAt 650 PM MDT, Doppler radar was tracking a strong thunderstorm near Grass Range, or 19 miles northwest of Winnett, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Winnett and Tiegen.\nGenerated: 2026-08-24 01:25:15 UTC"
   47.1800, -108.7400
   47.1900, -108.7200
   47.2200, -108.7200
@@ -98,7 +117,7 @@ Line: 2,,"Special Weather Statement issued August 23 at 6:50PM MDT by NWS Glasgo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 23 at 7:46PM CDT by NWS New Orleans LA\nExpires: 2026-08-24 01:30 Z\nAt 746 PM CDT, Doppler radar was tracking a strong thunderstorm over Escatawpa, moving southeast at 15 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pascagoula, Moss Point, Escatawpa, Hickory Hills, Helena, and Vancleave.  This includes Interstate 10 in Mississippi between mile markers 63 and 76.\nGenerated: 2026-08-24 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued August 23 at 7:46PM CDT by NWS New Orleans LA\nExpires: 2026-08-24 01:30 Z\nAt 746 PM CDT, Doppler radar was tracking a strong thunderstorm over Escatawpa, moving southeast at 15 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pascagoula, Moss Point, Escatawpa, Hickory Hills, Helena, and Vancleave.  This includes Interstate 10 in Mississippi between mile markers 63 and 76.\nGenerated: 2026-08-24 01:25:15 UTC"
   30.3400, -88.4000
   30.3300, -88.4000
   30.3300, -88.4300
