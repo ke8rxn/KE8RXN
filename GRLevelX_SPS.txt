@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-24 17:10:20 UTC
+; Generated: 2026-08-24 17:15:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 1:03PM EDT by NWS Tallahassee FL\nExpires: 2026-08-24 17:45 Z\nAt 103 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles east of St. Marks to 13 miles southwest of Crawfordville. These storms were nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crawfordville, St. Marks, Sopchoppy, Hyde Park, Panacea-Wakulla Airport, Sanborn, Tully, Plum Orchard, Panacea, Shell Point, Port Leon, Medart, Wakulla Beach, Buckhorn, Spring Creek, Liveoak Island, and Curtis Mill.\nGenerated: 2026-08-24 17:10:20 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 1:13PM AST by NWS San Juan PR\nExpires: 2026-08-24 18:15 Z\nAt 112 PM AST, Doppler radar was tracking a cluster of strong thunderstorms over Aguada, moving northwest at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-08-24 17:15:19 UTC"
+  18.2800, -66.9200
+  18.1900, -67.0400
+  18.2000, -67.1500
+  18.2200, -67.1700
+  18.2800, -67.1900
+  18.3000, -67.2400
+  18.3600, -67.2700
+  18.3900, -67.2000
+  18.4200, -67.1600
+  18.4700, -67.1600
+  18.2800, -66.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 24 at 1:03PM EDT by NWS Tallahassee FL\nExpires: 2026-08-24 17:45 Z\nAt 103 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles east of St. Marks to 13 miles southwest of Crawfordville. These storms were nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crawfordville, St. Marks, Sopchoppy, Hyde Park, Panacea-Wakulla Airport, Sanborn, Tully, Plum Orchard, Panacea, Shell Point, Port Leon, Medart, Wakulla Beach, Buckhorn, Spring Creek, Liveoak Island, and Curtis Mill.\nGenerated: 2026-08-24 17:15:19 UTC"
   29.9600, -84.4100
   29.9600, -84.4400
   30.0000, -84.4600
@@ -25,7 +40,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 1:03PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 12:02PM CDT by NWS Birmingham AL\nExpires: 2026-08-24 17:45 Z\nAt 1201 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Orrville, or 16 miles southeast of Uniontown. Storms are also developing along the Dallas and Wilcox County line. These storms were moving slowly southeast.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Orrville, Belknap, Bogue Chitto, Dallas Lake, Old Cahaba Park, Dannelly Reservoir, Central Mills, Tilden, Whites Bluff, Carlowville, Safford, Hazen, Minter, and Crumptonia.\nGenerated: 2026-08-24 17:10:20 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 12:02PM CDT by NWS Birmingham AL\nExpires: 2026-08-24 17:45 Z\nAt 1201 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Orrville, or 16 miles southeast of Uniontown. Storms are also developing along the Dallas and Wilcox County line. These storms were moving slowly southeast.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Orrville, Belknap, Bogue Chitto, Dallas Lake, Old Cahaba Park, Dannelly Reservoir, Central Mills, Tilden, Whites Bluff, Carlowville, Safford, Hazen, Minter, and Crumptonia.\nGenerated: 2026-08-24 17:15:19 UTC"
   32.0800, -87.1900
   32.1200, -87.2600
   32.1400, -87.2500
@@ -46,25 +61,4 @@ Line: 2,,"Special Weather Statement issued August 24 at 12:02PM CDT by NWS Birmi
   32.0500, -86.9100
   32.0500, -87.1800
   32.0800, -87.1900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 11:37AM CDT by NWS Jackson MS\nExpires: 2026-08-24 17:15 Z\nAt 1137 AM CDT, Doppler radar was tracking a strong thunderstorm over Morton, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Morton and Pulaski around 1140 AM CDT.\nGenerated: 2026-08-24 17:10:20 UTC"
-  32.3100, -89.8200
-  32.5200, -89.6700
-  32.4700, -89.3400
-  32.0700, -89.5000
-  32.3100, -89.8200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 11:33AM CDT by NWS Jackson MS\nExpires: 2026-08-24 17:15 Z\nAt 1132 AM CDT, Doppler radar was tracking a strong thunderstorm over Arm, or 7 miles east of Monticello, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Oak Vale, Society Hill, and Tilton around 1140 AM CDT. Goss around 1145 AM CDT. Holly Springs around 1155 AM CDT.\nGenerated: 2026-08-24 17:10:20 UTC"
-  31.2400, -90.0400
-  31.3300, -90.0400
-  31.3300, -90.0800
-  31.5300, -90.1700
-  31.6300, -89.9500
-  31.4000, -89.7100
-  31.2300, -90.0300
-  31.2400, -90.0400
 End:
