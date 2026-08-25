@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-25 17:45:19 UTC
+; Generated: 2026-08-25 17:50:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 1:36PM EDT by NWS Jacksonville FL\nExpires: 2026-08-25 18:00 Z\nAt 135 PM EDT, Doppler radar was tracking a strong thunderstorm near Callahan, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Yulee.\nGenerated: 2026-08-25 17:45:19 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 1:45PM EDT by NWS Jacksonville FL\nExpires: 2026-08-25 18:15 Z\nAt 145 PM EDT, Doppler radar was tracking a strong thunderstorm near Ratliff, or near Callahan, moving east at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville International Arpt, Cisco Gardens, Nassau Village-Ratliff, Ratliff, Oceanway, and Tallyrand.\nGenerated: 2026-08-25 17:50:17 UTC"
+  30.3800, -81.9300
+  30.5200, -81.8600
+  30.5500, -81.5000
+  30.3400, -81.5600
+  30.3800, -81.9300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 25 at 1:36PM EDT by NWS Jacksonville FL\nExpires: 2026-08-25 18:00 Z\nAt 135 PM EDT, Doppler radar was tracking a strong thunderstorm near Callahan, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Yulee.\nGenerated: 2026-08-25 17:50:17 UTC"
   30.5200, -81.7800
   30.6600, -81.7800
   30.7200, -81.5500
