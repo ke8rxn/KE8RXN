@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-25 22:25:16 UTC
+; Generated: 2026-08-25 22:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 4:23PM MDT by NWS Pueblo CO\nExpires: 2026-08-25 23:00 Z\nAt 423 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Florence, or 27 miles west of Pueblo, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beulah and Wetmore.\nGenerated: 2026-08-25 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 4:27PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 23:00 Z\nAt 427 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms near Harrisburg, or 15 miles north of Kimball, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrisburg and Wrights Gap.\nGenerated: 2026-08-25 22:30:17 UTC"
+  41.2800, -103.7600
+  41.4900, -103.8700
+  41.7200, -103.5500
+  41.3000, -103.4000
+  41.2800, -103.7600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 25 at 6:25PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 23:00 Z\nAt 625 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles west of Crawfordville, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crawfordville, Hilliardville, Leon Sinks, Bethel, and Arran.\nGenerated: 2026-08-25 22:30:17 UTC"
+  30.1700, -84.6600
+  30.3700, -84.5200
+  30.2800, -84.2500
+  30.0500, -84.5300
+  30.1700, -84.6600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 25 at 4:23PM MDT by NWS Pueblo CO\nExpires: 2026-08-25 23:00 Z\nAt 423 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles south of Florence, or 27 miles west of Pueblo, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beulah and Wetmore.\nGenerated: 2026-08-25 22:30:17 UTC"
   38.1600, -105.2100
   38.2500, -105.1900
   38.2700, -105.1300
@@ -15,7 +33,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 4:23PM MDT by NWS Pueblo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 5:19PM CDT by NWS New Orleans LA\nExpires: 2026-08-25 22:45 Z\nAt 517 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Whitehall, or 15 miles southwest of Hammond, moving west at 15 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammond, Reserve, Laplace, Gramercy, Lutcher, Livingston, Sorrento, French Settlement, Albany, Port Vincent, Springfield, Garyville, Whitehall, Natalbany, Killian, and Tickfaw.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 183 and 204. Interstate 12 between mile markers 21 and 39. Interstate 55 in Louisiana between mile markers 27 and 36.\nGenerated: 2026-08-25 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 5:19PM CDT by NWS New Orleans LA\nExpires: 2026-08-25 22:45 Z\nAt 517 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Whitehall, or 15 miles southwest of Hammond, moving west at 15 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammond, Reserve, Laplace, Gramercy, Lutcher, Livingston, Sorrento, French Settlement, Albany, Port Vincent, Springfield, Garyville, Whitehall, Natalbany, Killian, and Tickfaw.  This includes the following Interstates... Interstate 10 in Louisiana between mile markers 183 and 204. Interstate 12 between mile markers 21 and 39. Interstate 55 in Louisiana between mile markers 27 and 36.\nGenerated: 2026-08-25 22:30:17 UTC"
   30.5700, -90.4900
   30.3500, -90.4500
   30.3100, -90.4700
@@ -35,7 +53,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 5:19PM CDT by NWS New Or
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 6:18PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 23:00 Z\nAt 617 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Adel to near Hahira. Movement was east at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nashville, Hahira, Ray City, Moody Air Force Base, Cecil, Cottle, Berrien Co A/P, Barretts, New Lois, Massee, I-75 At Exit 29, Allenville, and Teeterville.\nGenerated: 2026-08-25 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 6:18PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 23:00 Z\nAt 617 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Adel to near Hahira. Movement was east at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Nashville, Hahira, Ray City, Moody Air Force Base, Cecil, Cottle, Berrien Co A/P, Barretts, New Lois, Massee, I-75 At Exit 29, Allenville, and Teeterville.\nGenerated: 2026-08-25 22:30:17 UTC"
   31.2300, -83.1100
   30.9800, -83.1300
   30.9800, -83.4000
@@ -44,7 +62,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 6:18PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 4:18PM MDT by NWS Riverton WY\nExpires: 2026-08-25 22:45 Z\nAt 418 PM MDT, Doppler radar was tracking a strong thunderstorm near Ocean Lake, which is 8 miles northwest of Riverton, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Riverton around 425 PM MDT.\nGenerated: 2026-08-25 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 4:18PM MDT by NWS Riverton WY\nExpires: 2026-08-25 22:45 Z\nAt 418 PM MDT, Doppler radar was tracking a strong thunderstorm near Ocean Lake, which is 8 miles northwest of Riverton, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Riverton around 425 PM MDT.\nGenerated: 2026-08-25 22:30:17 UTC"
   42.8200, -108.4300
   42.8300, -108.4700
   43.1200, -108.7600
@@ -54,7 +72,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 4:18PM MDT by NWS Rivert
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 4:17PM MDT by NWS Albuquerque NM\nExpires: 2026-08-25 22:45 Z\nAt 417 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 9 miles southwest of Ramon to 10 miles northeast of Arabela, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ramon.  This includes Highway 285 between Mile Markers 156 and 177.\nGenerated: 2026-08-25 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 4:17PM MDT by NWS Albuquerque NM\nExpires: 2026-08-25 22:45 Z\nAt 417 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 9 miles southwest of Ramon to 10 miles northeast of Arabela, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ramon.  This includes Highway 285 between Mile Markers 156 and 177.\nGenerated: 2026-08-25 22:30:17 UTC"
   33.6600, -105.2500
   33.8800, -105.2200
   34.2000, -105.2400
@@ -67,7 +85,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 4:17PM MDT by NWS Albuqu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 6:15PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 22:45 Z\nAt 615 PM EDT, Doppler radar was tracking a strong thunderstorm near Dawson, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dawson, Sasser, Bronwood, Parrott, Dawson Municipal A/P, Graves, Chambliss, Bridges Crossroad, Oakville, Herod, Chickasawhatchee, and Yeomans.\nGenerated: 2026-08-25 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 6:15PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 22:45 Z\nAt 615 PM EDT, Doppler radar was tracking a strong thunderstorm near Dawson, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dawson, Sasser, Bronwood, Parrott, Dawson Municipal A/P, Graves, Chambliss, Bridges Crossroad, Oakville, Herod, Chickasawhatchee, and Yeomans.\nGenerated: 2026-08-25 22:30:17 UTC"
   31.9500, -84.4300
   31.8700, -84.3400
   31.8600, -84.2900
@@ -85,132 +103,10 @@ Line: 2,,"Special Weather Statement issued August 25 at 6:15PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 4:11PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 22:45 Z\nAt 411 PM MDT, Doppler radar was tracking a strong thunderstorm over Wheatland, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wheatland, Phifer Airfield, Chugcreek, Lakeview North, Bordeaux, Y-O Ranch, Slater, Westview Circle, Grayrocks Reservoir, Platte County Fairgrounds, and Antelope Gap.\nGenerated: 2026-08-25 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 4:11PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 22:45 Z\nAt 411 PM MDT, Doppler radar was tracking a strong thunderstorm over Wheatland, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wheatland, Phifer Airfield, Chugcreek, Lakeview North, Bordeaux, Y-O Ranch, Slater, Westview Circle, Grayrocks Reservoir, Platte County Fairgrounds, and Antelope Gap.\nGenerated: 2026-08-25 22:30:17 UTC"
   42.0000, -105.1100
   42.1400, -105.0200
   42.1300, -104.5800
   41.8000, -104.8300
   42.0000, -105.1100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 6:06PM EDT by NWS Peachtree City GA\nExpires: 2026-08-25 22:30 Z\nAt 606 PM EDT, a strong thunderstorm was over Workmore, or 9 miles south of McRae. This storm was nearly stationary.  HAZARD...40 to 50 mph wind, up to penny sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Jacksonville, Horse Creek Wma, and Workmore.\nGenerated: 2026-08-25 22:25:16 UTC"
-  31.7800, -82.9200
-  31.7900, -82.9900
-  31.9100, -83.0600
-  32.0300, -82.8900
-  31.9000, -82.7100
-  31.8600, -82.7700
-  31.8600, -82.7800
-  31.8500, -82.7900
-  31.8400, -82.7900
-  31.8200, -82.8400
-  31.7800, -82.8800
-  31.7800, -82.8900
-  31.7900, -82.9000
-  31.7800, -82.9200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 5:02PM CDT by NWS Amarillo TX\nExpires: 2026-08-25 22:30 Z\nAt 502 PM CDT, Doppler radar was tracking a strong thunderstorm over Lutie, or 11 miles south of Shamrock, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wellington, Clarendon, Shamrock, Mclean, Hedley, Dodson, Lutie, Lelia Lake, Twitty, Lela, Quail, Samnorwood, Kellerville, Dozier, and Alanreed.  This includes Interstate 40 between mile markers 127 and 172.\nGenerated: 2026-08-25 22:25:16 UTC"
-  34.7500, -100.9300
-  35.3800, -100.8400
-  35.3800, -100.3500
-  35.1900, -100.0000
-  34.7500, -100.0000
-  34.7500, -100.9300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 6:01PM EDT by NWS Jacksonville FL\nExpires: 2026-08-25 22:30 Z\nAt 600 PM EDT, Doppler radar was tracking a strong thunderstorm near Snipesville, or near Broxton, moving south at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Douglas, Broxton, Nicholls, Pridgen, West Green, Snipesville, and Denton.\nGenerated: 2026-08-25 22:25:16 UTC"
-  31.4000, -82.4800
-  31.4300, -83.0000
-  31.7000, -83.0000
-  31.7900, -82.9900
-  31.7900, -82.9400
-  31.7800, -82.9200
-  31.7900, -82.9000
-  31.7800, -82.8900
-  31.7800, -82.8600
-  31.8200, -82.8400
-  31.8100, -82.8200
-  31.8400, -82.7800
-  31.8500, -82.7900
-  31.8600, -82.7700
-  31.8600, -82.7600
-  31.8800, -82.7400
-  31.4000, -82.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 3:59PM MDT by NWS Pueblo CO\nExpires: 2026-08-25 22:30 Z\nAt 359 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Florence, or 31 miles west of Pueblo, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wetmore.\nGenerated: 2026-08-25 22:25:16 UTC"
-  38.1800, -105.3000
-  38.3400, -105.2800
-  38.3700, -105.0100
-  38.1200, -105.0500
-  38.1800, -105.3000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 3:58PM MDT by NWS Pueblo CO\nExpires: 2026-08-25 22:30 Z\nAt 358 PM MDT, Doppler radar was tracking a strong thunderstorm over Pueblo Reservoir, or near Pueblo, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pueblo, Pueblo Reservoir, and Pueblo West.\nGenerated: 2026-08-25 22:25:16 UTC"
-  38.2400, -104.8100
-  38.3200, -104.7800
-  38.3100, -104.5600
-  38.1200, -104.6900
-  38.2400, -104.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 5:57PM EDT by NWS Jacksonville FL\nExpires: 2026-08-25 22:30 Z\nAt 557 PM EDT, Doppler radar was tracking a strong thunderstorm over Pearson, moving south at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pearson, Cogdell, Millwood, Bickley, and Axson.\nGenerated: 2026-08-25 22:25:16 UTC"
-  31.2500, -83.0400
-  31.2600, -83.0400
-  31.2700, -83.0300
-  31.2800, -83.0400
-  31.4200, -82.9700
-  31.4100, -82.5600
-  31.1200, -82.7000
-  31.1700, -82.9700
-  31.1900, -82.9700
-  31.1900, -83.0500
-  31.2300, -83.0500
-  31.2500, -83.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 3:57PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 22:30 Z\nAt 357 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 9 miles east of Albin, or 20 miles northwest of Kimball, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Harrisburg.\nGenerated: 2026-08-25 22:25:16 UTC"
-  41.3400, -104.0700
-  41.5000, -104.0000
-  41.5400, -103.7200
-  41.2300, -103.7800
-  41.3400, -104.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 3:54PM MDT by NWS Albuquerque NM\nExpires: 2026-08-25 22:30 Z\nAt 354 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 18 miles northwest of Hayden to near Mosquero, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mosquero, Bueyeros, Hayden and Rosebud.\nGenerated: 2026-08-25 22:25:16 UTC"
-  35.7100, -104.1400
-  35.9500, -103.9400
-  36.3100, -103.5500
-  36.0600, -103.1800
-  35.7900, -103.4500
-  35.5200, -103.7900
-  35.7100, -104.1400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 5:54PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 22:30 Z\nAt 554 PM EDT, Doppler radar was tracking a strong thunderstorm near Hahira, or near Adel. The strong thunderstorm is nearly stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Adel, Hahira, Sparks, Cecil, Cook Co A/P, and I-75 At Exit 29.\nGenerated: 2026-08-25 22:25:16 UTC"
-  30.9500, -83.2800
-  30.9500, -83.4200
-  31.1700, -83.4900
-  31.1900, -83.2800
-  30.9500, -83.2800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 4:39PM CDT by NWS New Orleans LA\nExpires: 2026-08-25 22:30 Z\nAt 438 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles west of Folsom, or 11 miles southeast of Amite. This thunderstorm was moving southwest at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hammond, Ponchatoula, Independence, Natalbany, Robert, and Tickfaw.  This includes the following Interstates... Interstate 12 between mile markers 40 and 52. Interstate 55 in Louisiana between mile markers 23 and 27.\nGenerated: 2026-08-25 22:25:16 UTC"
-  30.7400, -90.3900
-  30.6600, -90.2200
-  30.3700, -90.2700
-  30.3900, -90.4600
-  30.6900, -90.5100
-  30.7400, -90.3900
 End:
