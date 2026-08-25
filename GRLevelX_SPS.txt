@@ -3,9 +3,37 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-25 00:35:13 UTC
+; Generated: 2026-08-25 00:40:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:31PM MDT by NWS Rapid City SD\nExpires: 2026-08-25 01:00 Z\nAt 631 PM MDT, Doppler radar was tracking a strong thunderstorm over Midland, or 25 miles northeast of Kadoka, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Midland.  This includes Interstate 90 in South Dakota between Mile Markers 170 and 174.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 7:37PM CDT by NWS Norman OK\nExpires: 2026-08-25 01:30 Z\nAt 733 PM CDT, Doppler radar was tracking the potential for strong wind gusts with decaying rain showers along a line extending from 8 miles south of Childress to 9 miles northwest of Paducah. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Quanah, Goodlett, Lazare, and Copper Breaks State Park.\nGenerated: 2026-08-25 00:40:16 UTC"
+  34.1900, -100.0500
+  34.2400, -100.0400
+  34.2400, -100.0100
+  34.2300, -100.0000
+  34.4200, -100.0000
+  34.3300, -99.7300
+  33.8300, -99.7900
+  33.8200, -99.8300
+  33.8400, -99.8400
+  33.8400, -100.0500
+  34.1900, -100.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 24 at 6:35PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-25 01:30 Z\nAt 634 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Stansbury Park to near Bingham Canyon Mine. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Lake City, West Valley City, Sandy, Layton, Murray, Bountiful, Tooele, Farmington, Grantsville, West Jordan, Taylorsville, South Jordan, Draper, Riverton, Cottonwood Heights, Midvale, Kaysville, Holladay, Syracuse, and South Salt Lake.  This includes the following highways... Interstate 15 between mile markers 289 and 332. Interstate 80 in Utah between mile markers 73 and 142.\nGenerated: 2026-08-25 00:40:16 UTC"
+  40.7700, -111.5300
+  40.7600, -111.5700
+  40.7100, -111.5500
+  40.6800, -111.5600
+  40.5400, -111.4400
+  40.4500, -112.1500
+  40.7900, -112.7900
+  41.0900, -111.9700
+  40.7700, -111.5300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 24 at 6:31PM MDT by NWS Rapid City SD\nExpires: 2026-08-25 01:00 Z\nAt 631 PM MDT, Doppler radar was tracking a strong thunderstorm over Midland, or 25 miles northeast of Kadoka, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Midland.  This includes Interstate 90 in South Dakota between Mile Markers 170 and 174.\nGenerated: 2026-08-25 00:40:16 UTC"
   44.0900, -101.2800
   44.1500, -101.2200
   44.1700, -101.1700
@@ -19,7 +47,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:31PM MDT by NWS Rapid 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:29PM MDT by NWS Boise ID\nExpires: 2026-08-25 01:15 Z\nAt 628 PM MDT, Doppler radar was tracking a strong thunderstorm near 45 Hill, or 41 miles west of Owyhee, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Locations impacted include... 45 Ranch Launch Site, Rickard Crossing, Piute Basin Reservoir, Star Valley Ranch, Garat Crossing Launch Site, Coyote Hole, Four Corners, Brace Ranch, 45 Hill, Wiley Ranch, and Twin Springs Ranch.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 6:29PM MDT by NWS Boise ID\nExpires: 2026-08-25 01:15 Z\nAt 628 PM MDT, Doppler radar was tracking a strong thunderstorm near 45 Hill, or 41 miles west of Owyhee, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Locations impacted include... 45 Ranch Launch Site, Rickard Crossing, Piute Basin Reservoir, Star Valley Ranch, Garat Crossing Launch Site, Coyote Hole, Four Corners, Brace Ranch, 45 Hill, Wiley Ranch, and Twin Springs Ranch.\nGenerated: 2026-08-25 00:40:16 UTC"
   42.0900, -117.0300
   42.1100, -117.0200
   42.4300, -116.6400
@@ -30,7 +58,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:29PM MDT by NWS Boise 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:24PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 01:00 Z\nAt 624 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles north of Rock River to near Medicine Bow Peak. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albany, Rock River, Bosler, Brooklyn Lake Campground, Woods Landing-Jelm, McFadden, Nash Fork Campground, Wheatland Reservoir Number 3, Lake Owen, Arlington, Brooklyn Lake, Sugar Loaf Campground, Libby Creek Campground, Twin Buttes Lake, Deep Creek Campground, Sybille Canyon, Sheep Mountain, Centennial, Snowy Range Pass, and Flying X Ranch.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 6:24PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 01:00 Z\nAt 624 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles north of Rock River to near Medicine Bow Peak. Movement was southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Albany, Rock River, Bosler, Brooklyn Lake Campground, Woods Landing-Jelm, McFadden, Nash Fork Campground, Wheatland Reservoir Number 3, Lake Owen, Arlington, Brooklyn Lake, Sugar Loaf Campground, Libby Creek Campground, Twin Buttes Lake, Deep Creek Campground, Sybille Canyon, Sheep Mountain, Centennial, Snowy Range Pass, and Flying X Ranch.\nGenerated: 2026-08-25 00:40:16 UTC"
   41.8800, -105.2700
   41.0300, -106.0000
   41.3700, -106.4300
@@ -39,7 +67,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:24PM MDT by NWS Cheyen
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:23PM MDT by NWS Pueblo CO\nExpires: 2026-08-25 01:00 Z\nAt 623 PM MDT, Doppler radar was tracking a strong thunderstorm near La Veta Pass, or 41 miles east of Alamosa. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Veta Pass, Spring Burn Scar north of Highway 160, northern Spring Burn Scar south of Highway 160 in Costilla county, and northwestern Spring Burn Scar south of Highway 160 in Huerfano county.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 6:23PM MDT by NWS Pueblo CO\nExpires: 2026-08-25 01:00 Z\nAt 623 PM MDT, Doppler radar was tracking a strong thunderstorm near La Veta Pass, or 41 miles east of Alamosa. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... La Veta Pass, Spring Burn Scar north of Highway 160, northern Spring Burn Scar south of Highway 160 in Costilla county, and northwestern Spring Burn Scar south of Highway 160 in Huerfano county.\nGenerated: 2026-08-25 00:40:16 UTC"
   37.5800, -105.2000
   37.6800, -105.1900
   37.7300, -104.9700
@@ -48,7 +76,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:23PM MDT by NWS Pueblo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 8:17PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 00:45 Z\nAt 817 PM EDT, Doppler radar was tracking a strong thunderstorm over Leesburg, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Leesburg, Albany, Stocks, Forrester, Palmyra, Century, Jordan Place, Starksville, Byne Crossroads, Armena, Neyami, Philema, and Mossy Dell.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 8:17PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 00:45 Z\nAt 817 PM EDT, Doppler radar was tracking a strong thunderstorm over Leesburg, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Leesburg, Albany, Stocks, Forrester, Palmyra, Century, Jordan Place, Starksville, Byne Crossroads, Armena, Neyami, Philema, and Mossy Dell.\nGenerated: 2026-08-25 00:40:16 UTC"
   31.8300, -83.9600
   31.8300, -83.9700
   31.8000, -83.9800
@@ -70,7 +98,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 8:17PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:16PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-25 01:00 Z\nAt 616 PM MDT, Doppler radar was tracking a strong thunderstorm near Laketown, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Randolph, Laketown, Bear Lake, Garden, and Meadowville.  This includes Utah Route 30 between mile markers 115 and 135.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 6:16PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-25 01:00 Z\nAt 616 PM MDT, Doppler radar was tracking a strong thunderstorm near Laketown, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Randolph, Laketown, Bear Lake, Garden, and Meadowville.  This includes Utah Route 30 between mile markers 115 and 135.\nGenerated: 2026-08-25 00:40:16 UTC"
   41.6500, -111.0500
   41.6400, -111.0400
   41.6000, -111.3300
@@ -81,7 +109,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:16PM MDT by NWS Salt L
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:15PM MDT by NWS Riverton WY\nExpires: 2026-08-25 01:15 Z\nAt 614 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 14 miles northwest of Teapot Rock to near Muddy Gap. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Independence Rock, Devil's Gate, and Goldeneye Reservoir around 620 PM MDT. Teapot Rock around 625 PM MDT. Emigrant Gap around 630 PM MDT.  Other locations in the path of these storms include Bar Nunn, Homa Hills, Antelope Hills, Alcova, Casper, Mills, Red Butte, Paradise Valley, Evansville, Beartrap Meadows County Park and Bates Hole.  This includes Interstate 25 between mile markers 176 and 228.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 6:15PM MDT by NWS Riverton WY\nExpires: 2026-08-25 01:15 Z\nAt 614 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 14 miles northwest of Teapot Rock to near Muddy Gap. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Independence Rock, Devil's Gate, and Goldeneye Reservoir around 620 PM MDT. Teapot Rock around 625 PM MDT. Emigrant Gap around 630 PM MDT.  Other locations in the path of these storms include Bar Nunn, Homa Hills, Antelope Hills, Alcova, Casper, Mills, Red Butte, Paradise Valley, Evansville, Beartrap Meadows County Park and Bates Hole.  This includes Interstate 25 between mile markers 176 and 228.\nGenerated: 2026-08-25 00:40:16 UTC"
   42.4400, -107.5000
   43.4400, -106.6900
   43.4100, -106.0700
@@ -90,7 +118,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:15PM MDT by NWS Rivert
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 8:14PM EDT by NWS Melbourne FL\nExpires: 2026-08-25 00:45 Z\nAt 814 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Lake Marian, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Marian.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 8:14PM EDT by NWS Melbourne FL\nExpires: 2026-08-25 00:45 Z\nAt 814 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles south of Lake Marian, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Marian.\nGenerated: 2026-08-25 00:40:16 UTC"
   27.5600, -81.1500
   27.5700, -81.1600
   27.6000, -81.1400
@@ -108,7 +136,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 8:14PM EDT by NWS Melbou
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:13PM MDT by NWS Boise ID\nExpires: 2026-08-25 01:15 Z\nAt 611 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms in south-central Idaho, including the Southwest Idaho Highlands and the Magic Valley, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  Locations impacted include... Twin Falls, Jerome, Gooding, Buhl, Kimberly, Wendell, Filer, Hansen, Hagerman, Hazelton, Eden, Rogerson, Bliss, Hollister, Castleford, Murtaugh, Sevy Falls, Black Stone Mountain, Rock Creek, and Middle Butte.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 6:13PM MDT by NWS Boise ID\nExpires: 2026-08-25 01:15 Z\nAt 611 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms in south-central Idaho, including the Southwest Idaho Highlands and the Magic Valley, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility.  Locations impacted include... Twin Falls, Jerome, Gooding, Buhl, Kimberly, Wendell, Filer, Hansen, Hagerman, Hazelton, Eden, Rogerson, Bliss, Hollister, Castleford, Murtaugh, Sevy Falls, Black Stone Mountain, Rock Creek, and Middle Butte.\nGenerated: 2026-08-25 00:40:16 UTC"
   42.0000, -116.3900
   43.2000, -114.6000
   42.8500, -114.5900
@@ -125,7 +153,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:13PM MDT by NWS Boise 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 8:13PM EDT by NWS Jacksonville FL\nExpires: 2026-08-25 00:45 Z\nAt 812 PM EDT, Doppler radar was tracking a strong thunderstorm near Gardi, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gardi, Doctortown, and Mount Pleasant.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 8:13PM EDT by NWS Jacksonville FL\nExpires: 2026-08-25 00:45 Z\nAt 812 PM EDT, Doppler radar was tracking a strong thunderstorm near Gardi, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gardi, Doctortown, and Mount Pleasant.\nGenerated: 2026-08-25 00:40:16 UTC"
   31.6400, -81.7900
   31.6300, -81.7900
   31.6300, -81.7700
@@ -149,7 +177,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 8:13PM EDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 6:11PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 00:45 Z\nAt 611 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Evansville to 7 miles west of Seminoe Dam. Movement was southeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Seminoe Campground, Miracle Mile, Shirley Basin, Seminoe Dam, Kortes Dam, Prior Flat Campground, Boxelder, Dome Rock, Campbell Creek Campground, and Seminoe State Park.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 6:11PM MDT by NWS Cheyenne WY\nExpires: 2026-08-25 00:45 Z\nAt 611 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Evansville to 7 miles west of Seminoe Dam. Movement was southeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Seminoe Campground, Miracle Mile, Shirley Basin, Seminoe Dam, Kortes Dam, Prior Flat Campground, Boxelder, Dome Rock, Campbell Creek Campground, and Seminoe State Park.\nGenerated: 2026-08-25 00:40:16 UTC"
   42.4300, -107.3600
   42.4300, -106.0800
   42.9000, -106.0700
@@ -159,7 +187,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 6:11PM MDT by NWS Cheyen
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 8:09PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 00:45 Z\nAt 809 PM EDT, Doppler radar was tracking a strong thunderstorm over Moultrie, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moultrie, Norman Park, Riverside, Schley, Berlin, Ellenton, Cool Spring, Pineboro, Autreyville, Spence Airport, South Moultrie, Sigsbee, Moultrie Municipal A/P, Murphy, Reed Bingham State Park, and Flat Ford.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 8:09PM EDT by NWS Tallahassee FL\nExpires: 2026-08-25 00:45 Z\nAt 809 PM EDT, Doppler radar was tracking a strong thunderstorm over Moultrie, moving east at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moultrie, Norman Park, Riverside, Schley, Berlin, Ellenton, Cool Spring, Pineboro, Autreyville, Spence Airport, South Moultrie, Sigsbee, Moultrie Municipal A/P, Murphy, Reed Bingham State Park, and Flat Ford.\nGenerated: 2026-08-25 00:40:16 UTC"
   31.2000, -83.5100
   31.1800, -83.5400
   31.1500, -83.5400
@@ -179,7 +207,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 8:09PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 5:54PM MDT by NWS Pocatello ID\nExpires: 2026-08-25 00:45 Z\nAt 553 PM MDT, Doppler radar was tracking gusty showers along a line extending from near Rose to 8 miles south of Goshen. Movement was northeast at 30 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Ririe Reservoir, Goshen, Ammon, Shelley, Iona, Ucon, Firth, Bone, Basalt, and Wapello.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 5:54PM MDT by NWS Pocatello ID\nExpires: 2026-08-25 00:45 Z\nAt 553 PM MDT, Doppler radar was tracking gusty showers along a line extending from near Rose to 8 miles south of Goshen. Movement was northeast at 30 mph.  HAZARD...Wind gusts in excess of 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Idaho Falls, Ririe Reservoir, Goshen, Ammon, Shelley, Iona, Ucon, Firth, Bone, Basalt, and Wapello.\nGenerated: 2026-08-25 00:40:16 UTC"
   43.6200, -111.9400
   43.4000, -111.4300
   43.1400, -111.9100
@@ -188,7 +216,7 @@ Line: 2,,"Special Weather Statement issued August 24 at 5:54PM MDT by NWS Pocate
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 24 at 5:40PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-25 00:45 Z\nAt 539 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from Dugway Proving Ground Test Range to 14 miles southwest of Dugway English Village. Movement was northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dugway English Village, Dugway Proving Ground Test Range, Skull Valley, and Rush Valley.\nGenerated: 2026-08-25 00:35:13 UTC"
+Line: 2,,"Special Weather Statement issued August 24 at 5:40PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-25 00:45 Z\nAt 539 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from Dugway Proving Ground Test Range to 14 miles southwest of Dugway English Village. Movement was northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dugway English Village, Dugway Proving Ground Test Range, Skull Valley, and Rush Valley.\nGenerated: 2026-08-25 00:40:16 UTC"
   40.5000, -113.2700
   40.3800, -112.3800
   40.0600, -112.7700
