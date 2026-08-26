@@ -3,9 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-26 02:20:14 UTC
+; Generated: 2026-08-26 02:25:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 8:19PM MDT by NWS Cheyenne WY\nExpires: 2026-08-26 02:45 Z\nAt 819 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles north of Angora, or 17 miles southwest of Alliance, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bayard, Angora, Moomaw Corner, and The Intersection Of Highway 385 And L62.\nGenerated: 2026-08-26 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 8:23PM MDT by NWS Riverton WY\nExpires: 2026-08-26 03:15 Z\nAt 823 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Teapot Rock to near Beartrap Meadows County Park to near Prior Flat Campground. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Eastern Casper, Evansville, and Beartrap Meadows County Park around 830 PM MDT.  This includes Interstate 25 between mile markers 176 and 218.\nGenerated: 2026-08-26 02:25:17 UTC"
+  42.4300, -106.6200
+  42.7500, -106.4700
+  43.2800, -106.4400
+  43.3100, -106.0700
+  42.4300, -106.0800
+  42.4300, -106.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 25 at 8:20PM MDT by NWS Missoula MT\nExpires: 2026-08-26 02:45 Z\nAt 820 PM MDT, Doppler radar was tracking a strong thunderstorm over Missoula, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Missoula, East Missoula, Bonner-West Riverside, Evaro, Wye and Turah.\nGenerated: 2026-08-26 02:25:17 UTC"
+  47.0100, -114.0700
+  47.0900, -114.0200
+  47.1200, -113.9600
+  46.8800, -113.6900
+  46.8300, -113.8500
+  46.8500, -113.9000
+  46.8500, -113.9700
+  46.8200, -114.0000
+  46.7700, -114.0100
+  46.7600, -114.0500
+  46.8200, -114.1300
+  46.8300, -114.1300
+  46.9500, -114.2500
+  47.0200, -114.1300
+  47.0100, -114.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 25 at 8:19PM MDT by NWS Cheyenne WY\nExpires: 2026-08-26 02:45 Z\nAt 819 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles north of Angora, or 17 miles southwest of Alliance, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bayard, Angora, Moomaw Corner, and The Intersection Of Highway 385 And L62.\nGenerated: 2026-08-26 02:25:17 UTC"
   41.9900, -103.3100
   42.0800, -103.1100
   41.9700, -102.7100
@@ -14,7 +43,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 8:19PM MDT by NWS Cheyen
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 10:15PM EDT by NWS Tallahassee FL\nExpires: 2026-08-26 03:00 Z\nAt 1015 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Cairo, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Cairo, Macon Community Park, Miccosukee Road Greenway, Darsey, Rocky Hill, Calvary, Killearn Estates, Princes Still, Nickleville, Forest Meadows Park, Pisgah Church, Moncrief, Lake Iamonia, Concord, Orchard Pond, Maclay State Gardens, Gibson, Killearn Lakes, and Reno.\nGenerated: 2026-08-26 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 10:15PM EDT by NWS Tallahassee FL\nExpires: 2026-08-26 03:00 Z\nAt 1015 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Cairo, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallahassee, Cairo, Macon Community Park, Miccosukee Road Greenway, Darsey, Rocky Hill, Calvary, Killearn Estates, Princes Still, Nickleville, Forest Meadows Park, Pisgah Church, Moncrief, Lake Iamonia, Concord, Orchard Pond, Maclay State Gardens, Gibson, Killearn Lakes, and Reno.\nGenerated: 2026-08-26 02:25:17 UTC"
   30.5100, -84.0700
   30.4600, -84.2500
   30.5300, -84.4200
@@ -27,7 +56,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 10:15PM EDT by NWS Talla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 10:11PM EDT by NWS Melbourne FL\nExpires: 2026-08-26 02:45 Z\nAt 1011 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Basinger, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kissimmee Prairie Preserve.\nGenerated: 2026-08-26 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 10:11PM EDT by NWS Melbourne FL\nExpires: 2026-08-26 02:45 Z\nAt 1011 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Basinger, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kissimmee Prairie Preserve.\nGenerated: 2026-08-26 02:25:17 UTC"
   27.4200, -81.1400
   27.4300, -81.1400
   27.4500, -81.1500
@@ -48,7 +77,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 10:11PM EDT by NWS Melbo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 9:07PM CDT by NWS Tallahassee FL\nExpires: 2026-08-26 03:00 Z\nAt 907 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of De Funiak Springs, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Funiak Springs, Eglin Air Force Base, Union, Live Oak, Ponce De Leon, Caryville, Westville, Hinsons Crossroads, Oakwood Hills, Alpine Heights, De Funiak Spring Airport, Rock Hill, Glendale, Pleasant Ridge, Center Ridge, Knox Hill, Hickory Hill, Piney Grove, Argyle, and Red Bay.\nGenerated: 2026-08-26 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 9:07PM CDT by NWS Tallahassee FL\nExpires: 2026-08-26 03:00 Z\nAt 907 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of De Funiak Springs, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... De Funiak Springs, Eglin Air Force Base, Union, Live Oak, Ponce De Leon, Caryville, Westville, Hinsons Crossroads, Oakwood Hills, Alpine Heights, De Funiak Spring Airport, Rock Hill, Glendale, Pleasant Ridge, Center Ridge, Knox Hill, Hickory Hill, Piney Grove, Argyle, and Red Bay.\nGenerated: 2026-08-26 02:25:17 UTC"
   30.9000, -86.1400
   30.8100, -85.8200
   30.5300, -85.8500
@@ -57,7 +86,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 9:07PM CDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 9:51PM EDT by NWS Tallahassee FL\nExpires: 2026-08-26 02:45 Z\nAt 951 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Morgan to 8 miles southeast of Blakely. Movement was south at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Colquitt, Morgan, Edison, Arlington, Leary, Douglasville, Centerville, Damascus, Iveys Mill, Parksville, Holt, Mayhaw, Clarks Mill, Aycock Mill, Hentown, Chickasawhatchee, Rowena, Milford, Crestview, and Herod.\nGenerated: 2026-08-26 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 9:51PM EDT by NWS Tallahassee FL\nExpires: 2026-08-26 02:45 Z\nAt 951 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Morgan to 8 miles southeast of Blakely. Movement was south at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Colquitt, Morgan, Edison, Arlington, Leary, Douglasville, Centerville, Damascus, Iveys Mill, Parksville, Holt, Mayhaw, Clarks Mill, Aycock Mill, Hentown, Chickasawhatchee, Rowena, Milford, Crestview, and Herod.\nGenerated: 2026-08-26 02:25:17 UTC"
   31.3700, -84.3900
   31.0700, -84.7800
   31.0700, -84.9200
@@ -68,7 +97,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 9:51PM EDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 8:44PM CDT by NWS Tallahassee FL\nExpires: 2026-08-26 02:30 Z\nAt 844 PM CDT, Doppler radar was tracking a strong thunderstorm near Geneva, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Geneva, Union, Leonia, Eunola, Barker Store, Cerrogordo, Prosperity, Darlington, Gritney, Arrant Settlement, Sweetgum Head, Royals Crossroads, Geneva Municipal A/P, Glendale, Vaughanville, Pleasant Hill, Hickory Hill, Izagora, New Hope, and Baker Settlement.\nGenerated: 2026-08-26 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 8:44PM CDT by NWS Tallahassee FL\nExpires: 2026-08-26 02:30 Z\nAt 844 PM CDT, Doppler radar was tracking a strong thunderstorm near Geneva, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Geneva, Union, Leonia, Eunola, Barker Store, Cerrogordo, Prosperity, Darlington, Gritney, Arrant Settlement, Sweetgum Head, Royals Crossroads, Geneva Municipal A/P, Glendale, Vaughanville, Pleasant Hill, Hickory Hill, Izagora, New Hope, and Baker Settlement.\nGenerated: 2026-08-26 02:25:17 UTC"
   31.0700, -86.0500
   31.0500, -85.8300
   30.8000, -85.8100
@@ -78,7 +107,7 @@ Line: 2,,"Special Weather Statement issued August 25 at 8:44PM CDT by NWS Tallah
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 25 at 8:27PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-26 02:30 Z\nAt 827 PM CDT, Doppler radar was tracking a strong thunderstorm over Almena, or 15 miles west of Rice Lake, moving east at 20 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Rice Lake, Barron, Chetek, Cameron, Almena, Sumner, Arland, Canton, Hillsdale, and Comstock.\nGenerated: 2026-08-26 02:20:14 UTC"
+Line: 2,,"Special Weather Statement issued August 25 at 8:27PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-08-26 02:30 Z\nAt 827 PM CDT, Doppler radar was tracking a strong thunderstorm over Almena, or 15 miles west of Rice Lake, moving east at 20 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Rice Lake, Barron, Chetek, Cameron, Almena, Sumner, Arland, Canton, Hillsdale, and Comstock.\nGenerated: 2026-08-26 02:25:17 UTC"
   45.5200, -92.0600
   45.4700, -91.5400
   45.3600, -91.5400
