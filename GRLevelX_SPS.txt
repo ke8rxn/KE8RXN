@@ -3,9 +3,72 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-27 01:30:19 UTC
+; Generated: 2026-08-27 01:35:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 8:29PM CDT by NWS Jackson MS\nExpires: 2026-08-27 02:15 Z\nAt 829 PM CDT, Doppler radar was tracking a strong thunderstorm near Bew Springs, or near Grenada, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grenada, Elliott, and Bew Springs.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 7:34PM MDT by NWS Cheyenne WY\nExpires: 2026-08-27 02:00 Z\nAt 734 PM MDT, Doppler radar was tracking a strong thunderstorm over Glenrock, or 23 miles west of Douglas, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glenrock, Rolling Hills, and Deer Creek.\nGenerated: 2026-08-27 01:35:14 UTC"
+  42.8100, -105.9600
+  42.9100, -105.9100
+  42.9200, -105.5300
+  42.6500, -105.6500
+  42.8100, -105.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 26 at 7:34PM MDT by NWS Great Falls MT\nExpires: 2026-08-27 02:15 Z\nAt 734 PM MDT, Doppler radar was tracking a strong thunderstorm over Belt, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Belt, Highwood, Shonkin, Armington, Sluice Boxes State Park, Sand Coulee, Tracy, and Centerville.\nGenerated: 2026-08-27 01:35:14 UTC"
+  47.1800, -110.9400
+  47.4000, -111.1900
+  47.7200, -110.6200
+  47.5200, -110.3600
+  47.1800, -110.9400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 26 at 7:33PM MDT by NWS Missoula MT\nExpires: 2026-08-27 02:00 Z\nAt 733 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Florence, or 21 miles southwest of Missoula, moving northeast at 25 mph.  HAZARD...Wind gusts 40 to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Missoula, Lolo and Lolo Hot Springs.\nGenerated: 2026-08-27 01:35:14 UTC"
+  46.7000, -114.6100
+  46.9200, -114.1300
+  46.7500, -113.9600
+  46.6200, -114.3300
+  46.6300, -114.3200
+  46.6400, -114.3200
+  46.6600, -114.3300
+  46.6700, -114.3600
+  46.6600, -114.4300
+  46.6500, -114.4500
+  46.6300, -114.4700
+  46.6500, -114.5500
+  46.7000, -114.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 26 at 7:31PM MDT by NWS Pueblo CO\nExpires: 2026-08-27 02:00 Z\nAt 731 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Delhi, or 36 miles northeast of Trinidad, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Delhi.\nGenerated: 2026-08-27 01:35:14 UTC"
+  37.5600, -104.3300
+  37.6900, -104.2600
+  37.7000, -104.0300
+  37.6300, -104.0100
+  37.5100, -104.1100
+  37.5600, -104.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 26 at 7:31PM MDT by NWS Great Falls MT\nExpires: 2026-08-27 02:15 Z\nAt 730 PM MDT, Doppler radar was tracking a strong thunderstorm near Logan Pass, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Many Glacier, Babb, Saint Mary, and Logan Pass.\nGenerated: 2026-08-27 01:35:14 UTC"
+  48.9700, -113.5300
+  48.7600, -113.2800
+  48.5900, -113.6900
+  48.6200, -113.7500
+  48.7300, -113.7100
+  48.7800, -113.7700
+  48.8200, -113.7600
+  48.8400, -113.7800
+  48.8500, -113.9100
+  48.8200, -113.9500
+  48.8300, -114.0000
+  48.8400, -113.9900
+  48.8700, -114.0200
+  48.9700, -113.5300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 26 at 8:29PM CDT by NWS Jackson MS\nExpires: 2026-08-27 02:15 Z\nAt 829 PM CDT, Doppler radar was tracking a strong thunderstorm near Bew Springs, or near Grenada, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grenada, Elliott, and Bew Springs.\nGenerated: 2026-08-27 01:35:14 UTC"
   33.7900, -89.6700
   33.6800, -89.7300
   33.6800, -89.9900
@@ -14,7 +77,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 8:29PM CDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 8:24PM CDT by NWS Little Rock AR\nExpires: 2026-08-27 02:00 Z\nAt 824 PM CDT, Doppler radar was tracking a strong thunderstorm near Douglas, or 15 miles northwest of Pea Ridge, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pea Ridge...                      Gould... Gillett...                        Grady... Watson...                         Yancopin... Whitefield...                     Woodville... Langford...                       Douglas... Little Bayou Meto Park...         Trusten Holder WMA... Merrisach Lake...                 Arkansas Post... Pendleton...                      Tamo... Tichnor...                        Morgan Point Recreation Area... Reydell...                        Weber...\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 8:24PM CDT by NWS Little Rock AR\nExpires: 2026-08-27 02:00 Z\nAt 824 PM CDT, Doppler radar was tracking a strong thunderstorm near Douglas, or 15 miles northwest of Pea Ridge, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Pea Ridge...                      Gould... Gillett...                        Grady... Watson...                         Yancopin... Whitefield...                     Woodville... Langford...                       Douglas... Little Bayou Meto Park...         Trusten Holder WMA... Merrisach Lake...                 Arkansas Post... Pendleton...                      Tamo... Tichnor...                        Morgan Point Recreation Area... Reydell...                        Weber...\nGenerated: 2026-08-27 01:35:14 UTC"
   34.0200, -90.9000
   34.0200, -90.9900
   33.9800, -90.9600
@@ -39,7 +102,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 8:24PM CDT by NWS Little
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 9:22PM EDT by NWS Indianapolis IN\nExpires: 2026-08-27 02:00 Z\nAt 922 PM EDT, Doppler radar was tracking a strong thunderstorm near St. Francisville, or 7 miles northeast of Mount Carmel, moving southeast at 20 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Decker.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 9:22PM EDT by NWS Indianapolis IN\nExpires: 2026-08-27 02:00 Z\nAt 922 PM EDT, Doppler radar was tracking a strong thunderstorm near St. Francisville, or 7 miles northeast of Mount Carmel, moving southeast at 20 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Decker.\nGenerated: 2026-08-27 01:35:14 UTC"
   38.4500, -87.7300
   38.4600, -87.7600
   38.4800, -87.7400
@@ -63,7 +126,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 9:22PM EDT by NWS Indian
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 8:18PM CDT by NWS Jackson MS\nExpires: 2026-08-27 02:00 Z\nAt 818 PM CDT, Doppler radar was tracking a strong thunderstorm over Malmaison, or near Carrollton, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carrollton, North Carrollton, Malmaison, Coila, and Teoc.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 8:18PM CDT by NWS Jackson MS\nExpires: 2026-08-27 02:00 Z\nAt 818 PM CDT, Doppler radar was tracking a strong thunderstorm over Malmaison, or near Carrollton, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Carrollton, North Carrollton, Malmaison, Coila, and Teoc.\nGenerated: 2026-08-27 01:35:14 UTC"
   33.5300, -90.1000
   33.6500, -89.9900
   33.5800, -89.7900
@@ -72,7 +135,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 8:18PM CDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 8:11PM CDT by NWS Paducah KY\nExpires: 2026-08-27 01:45 Z\nAt 811 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Lancaster, or 8 miles north of Mount Carmel, moving east at 20 mph. Another storm upstream was following its same track as well.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Princeton, Mount Carmel, Lancaster, Patoka, Allendale, and Hazleton.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 8:11PM CDT by NWS Paducah KY\nExpires: 2026-08-27 01:45 Z\nAt 811 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Lancaster, or 8 miles north of Mount Carmel, moving east at 20 mph. Another storm upstream was following its same track as well.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Princeton, Mount Carmel, Lancaster, Patoka, Allendale, and Hazleton.\nGenerated: 2026-08-27 01:35:14 UTC"
   38.4900, -87.9600
   38.5300, -87.9400
   38.5600, -87.9600
@@ -95,7 +158,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 8:11PM CDT by NWS Paduca
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 8:10PM CDT by NWS Shreveport LA\nExpires: 2026-08-27 02:15 Z\nAt 810 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Corinth, or 9 miles north of Nashville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Nashville, Prescott, Mineral Springs, Blevins, Tollette, Washington, Corinth, Saratoga, Center Point, McCaskill, Ozan, Oakhaven, Bright Star, Silver Ridge, Boughton and Provo.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 8:10PM CDT by NWS Shreveport LA\nExpires: 2026-08-27 02:15 Z\nAt 810 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Corinth, or 9 miles north of Nashville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Nashville, Prescott, Mineral Springs, Blevins, Tollette, Washington, Corinth, Saratoga, Center Point, McCaskill, Ozan, Oakhaven, Bright Star, Silver Ridge, Boughton and Provo.\nGenerated: 2026-08-27 01:35:14 UTC"
   34.1100, -93.8200
   34.0100, -93.8200
   34.0100, -93.7500
@@ -119,7 +182,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 8:10PM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 8:09PM CDT by NWS Jackson MS\nExpires: 2026-08-27 01:45 Z\nAt 809 PM CDT, Doppler radar was tracking a strong thunderstorm near Raleigh, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 8:09PM CDT by NWS Jackson MS\nExpires: 2026-08-27 01:45 Z\nAt 809 PM CDT, Doppler radar was tracking a strong thunderstorm near Raleigh, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh.\nGenerated: 2026-08-27 01:35:14 UTC"
   31.9100, -89.5200
   32.0100, -89.6500
   32.0500, -89.6700
@@ -129,7 +192,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 8:09PM CDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 8:08PM CDT by NWS Jackson MS\nExpires: 2026-08-27 01:45 Z\nAt 808 PM CDT, Doppler radar was tracking a strong thunderstorm near Bowling Green, or near Lexington, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Emory and Bowling Green.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 8:08PM CDT by NWS Jackson MS\nExpires: 2026-08-27 01:45 Z\nAt 808 PM CDT, Doppler radar was tracking a strong thunderstorm near Bowling Green, or near Lexington, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Emory and Bowling Green.\nGenerated: 2026-08-27 01:35:14 UTC"
   33.1700, -90.0800
   33.2700, -90.0300
   33.2400, -89.8400
@@ -138,7 +201,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 8:08PM CDT by NWS Jackso
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 7:02PM MDT by NWS Great Falls MT\nExpires: 2026-08-27 01:45 Z\nAt 701 PM MDT, Doppler radar was tracking a strong thunderstorm near Wisdom, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wisdom.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 7:02PM MDT by NWS Great Falls MT\nExpires: 2026-08-27 01:45 Z\nAt 701 PM MDT, Doppler radar was tracking a strong thunderstorm near Wisdom, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wisdom.\nGenerated: 2026-08-27 01:35:14 UTC"
   45.4000, -113.6100
   45.6800, -113.6400
   45.8100, -113.0400
@@ -147,7 +210,7 @@ Line: 2,,"Special Weather Statement issued August 26 at 7:02PM MDT by NWS Great 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 6:54PM MDT by NWS Albuquerque NM\nExpires: 2026-08-27 01:45 Z\nAt 654 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles southwest of Wheatland to 7 miles south of Tolar, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Melrose, Grady, Saint Vrain, Ranchvale, Cannon Air Force Base, Tolar, Broadview, Bellview, Floyd and Portair.  This includes Highway 60 between Mile Markers 344 and 383.\nGenerated: 2026-08-27 01:30:19 UTC"
+Line: 2,,"Special Weather Statement issued August 26 at 6:54PM MDT by NWS Albuquerque NM\nExpires: 2026-08-27 01:45 Z\nAt 654 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles southwest of Wheatland to 7 miles south of Tolar, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Melrose, Grady, Saint Vrain, Ranchvale, Cannon Air Force Base, Tolar, Broadview, Bellview, Floyd and Portair.  This includes Highway 60 between Mile Markers 344 and 383.\nGenerated: 2026-08-27 01:35:14 UTC"
   34.3600, -104.0800
   34.6000, -103.7600
   34.9300, -103.5800
