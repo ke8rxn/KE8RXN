@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-27 07:15:15 UTC
+; Generated: 2026-08-27 07:20:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 2:08AM CDT by NWS New Orleans LA\nExpires: 2026-08-27 07:45 Z\nAt 208 AM CDT, Doppler radar was tracking a strong thunderstorm near Tylertown, or 15 miles north of Franklinton, moving east at 10 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Franklinton, Tylertown, and Dexter.\nGenerated: 2026-08-27 07:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 2:16AM CDT by NWS Shreveport LA\nExpires: 2026-08-27 08:00 Z\nAt 216 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near Ringgold to 6 miles northeast of Stonewall, or extending from 23 miles south of Minden to 12 miles south of Shreveport, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Shreveport, Coushatta, Ringgold, Martin, Hall Summit, Ashland, Castor, Edgefield, Jamestown, Loggy Bayou, Ninock, Crichton, Lake Bistineau South, Caspiana, Grand Bayou, Mc Dade, Womack, Elm Grove and Taylortown.\nGenerated: 2026-08-27 07:20:21 UTC"
+  32.4200, -93.8600
+  32.4200, -93.7400
+  32.3700, -93.2000
+  32.1400, -92.9800
+  32.0000, -93.2100
+  32.0700, -93.6000
+  32.4200, -93.8600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 27 at 2:08AM CDT by NWS New Orleans LA\nExpires: 2026-08-27 07:45 Z\nAt 208 AM CDT, Doppler radar was tracking a strong thunderstorm near Tylertown, or 15 miles north of Franklinton, moving east at 10 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Franklinton, Tylertown, and Dexter.\nGenerated: 2026-08-27 07:20:21 UTC"
   31.1800, -90.0300
   31.1700, -90.0000
   31.1300, -90.0000
@@ -21,7 +32,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 2:08AM CDT by NWS New Or
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 1:53AM CDT by NWS Shreveport LA\nExpires: 2026-08-27 07:30 Z\nAt 153 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles northeast of Many to 11 miles southeast of Milam, or extending from 21 miles west of Natchitoches to 39 miles southwest of Natchitoches, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Many, Florien, Fisher, Mount Carmel and Negreet.\nGenerated: 2026-08-27 07:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 1:53AM CDT by NWS Shreveport LA\nExpires: 2026-08-27 07:30 Z\nAt 153 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 5 miles northeast of Many to 11 miles southeast of Milam, or extending from 21 miles west of Natchitoches to 39 miles southwest of Natchitoches, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Many, Florien, Fisher, Mount Carmel and Negreet.\nGenerated: 2026-08-27 07:20:21 UTC"
   31.4000, -93.6700
   31.5600, -93.5800
   31.6900, -93.4300
@@ -44,7 +55,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 1:53AM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 1:53AM CDT by NWS Lake Charles LA\nExpires: 2026-08-27 07:30 Z\nAt 153 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Lecompte to near Burkeville. Movement was south at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alexandria, Pineville, De Ridder, Oakdale, Leesville, Marksville, Bunkie, Simmesport, Rosepine, Glenmora, Merryville, Boyce, Moreauville, Anacoco, Cheneyville, Elizabeth, Turkey Creek, Sugartown, Toledo Bend Dam, and Hineston.  This includes Interstate 49 between mile markers 47 and 109.\nGenerated: 2026-08-27 07:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 1:53AM CDT by NWS Lake Charles LA\nExpires: 2026-08-27 07:30 Z\nAt 153 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Lecompte to near Burkeville. Movement was south at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Alexandria, Pineville, De Ridder, Oakdale, Leesville, Marksville, Bunkie, Simmesport, Rosepine, Glenmora, Merryville, Boyce, Moreauville, Anacoco, Cheneyville, Elizabeth, Turkey Creek, Sugartown, Toledo Bend Dam, and Hineston.  This includes Interstate 49 between mile markers 47 and 109.\nGenerated: 2026-08-27 07:20:21 UTC"
   31.3900, -92.6600
   31.4700, -92.1600
   31.3300, -92.0800
@@ -69,7 +80,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 1:53AM CDT by NWS Lake C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 1:51AM CDT by NWS Shreveport LA\nExpires: 2026-08-27 07:30 Z\nAt 151 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Greenwood, or 7 miles west of Shreveport, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Shreveport, Greenwood, Blanchard, Cross Lake, Keithville and Forbing.\nGenerated: 2026-08-27 07:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 1:51AM CDT by NWS Shreveport LA\nExpires: 2026-08-27 07:30 Z\nAt 151 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Greenwood, or 7 miles west of Shreveport, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Shreveport, Greenwood, Blanchard, Cross Lake, Keithville and Forbing.\nGenerated: 2026-08-27 07:20:21 UTC"
   32.4900, -94.0400
   32.6100, -93.8700
   32.4900, -93.7200
@@ -86,7 +97,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 1:51AM CDT by NWS Shreve
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 1:48AM CDT by NWS New Orleans LA\nExpires: 2026-08-27 07:45 Z\nAt 147 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Varnado to Mcneil to near Long Beach. Movement was west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Gulfport, Biloxi, Long Beach, Bogalusa, Picayune, Bay St. Louis, Waveland, Pass Christian, Poplarville, Diamondhead, Varnado, Sun, Kiln, Lyman, Crossroads, Saucier, Bush, Mcneil, Shoreline Park, and Angie.  This includes the following Interstates... Interstate 10 in Mississippi between mile markers 11 and 37. Interstate 59 in Mississippi between mile markers 2 and 37.\nGenerated: 2026-08-27 07:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 1:48AM CDT by NWS New Orleans LA\nExpires: 2026-08-27 07:45 Z\nAt 147 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Varnado to Mcneil to near Long Beach. Movement was west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Gulfport, Biloxi, Long Beach, Bogalusa, Picayune, Bay St. Louis, Waveland, Pass Christian, Poplarville, Diamondhead, Varnado, Sun, Kiln, Lyman, Crossroads, Saucier, Bush, Mcneil, Shoreline Park, and Angie.  This includes the following Interstates... Interstate 10 in Mississippi between mile markers 11 and 37. Interstate 59 in Mississippi between mile markers 2 and 37.\nGenerated: 2026-08-27 07:20:21 UTC"
   30.9700, -89.4600
   30.8400, -89.3400
   30.6500, -89.3400
@@ -105,7 +116,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 1:48AM CDT by NWS New Or
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 1:44AM CDT by NWS Dodge City KS\nExpires: 2026-08-27 07:30 Z\nAt 144 AM CDT, Doppler radar was tracking a strong thunderstorm very near The Saunders Elevator, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Morton and southwestern Stanton Counties.\nGenerated: 2026-08-27 07:15:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 1:44AM CDT by NWS Dodge City KS\nExpires: 2026-08-27 07:30 Z\nAt 144 AM CDT, Doppler radar was tracking a strong thunderstorm very near The Saunders Elevator, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Morton and southwestern Stanton Counties.\nGenerated: 2026-08-27 07:20:21 UTC"
   37.5300, -102.0400
   37.4600, -101.8000
   37.2400, -101.9700
