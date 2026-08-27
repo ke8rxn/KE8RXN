@@ -3,9 +3,56 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-27 05:15:20 UTC
+; Generated: 2026-08-27 05:20:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 11:04PM MDT by NWS Pueblo CO\nExpires: 2026-08-27 05:30 Z\nAt 1104 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Blue Lake, or 26 miles northwest of Lamar, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Neegronda Reservoir, Sweetwater Reservoir, and McClave.\nGenerated: 2026-08-27 05:15:20 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 12:19AM CDT by NWS Jackson MS\nExpires: 2026-08-27 06:15 Z\nAt 1219 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Crowville to near Clinton. Movement was south at 70 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Byram, Raymond, Newellton, Terry, Utica, Learned, Reganton, Yokena, and Dry Grove around 1225 AM CDT. Carpenter, Whites, and Lake Bruin around 1230 AM CDT. Crystal Springs, Port Gibson, St. Joseph, Alcorn State, Hermanville, Hopewell, Helena, Dentville, Gallman, and Cooter Point around 1235 AM CDT. Hazlehurst, Waterproof, Pattison, Peyton, and Lorman around 1240 AM CDT. Georgetown, Glancy, Church Hill, Blue Hill, Allen, Martinsville, Red Lick, Mcbride, and Barlow around 1245 AM CDT. Fayette, Wesson, Beauregard, Pleasant Hill, Caseyville, Oma, Union Church, Rockport, Stampley, and Mcnair around 1250 AM CDT. Natchez, Brookhaven, Hamburg, Cranfield, Sontag, Stanton, and Loyd Star around 1255 AM CDT. Roxie, Mccall Creek, New Hope, Vaughn, Wanilla, and Kirby around 100 AM CDT.  Other locations impacted by these storms include Delta.\nGenerated: 2026-08-27 05:20:18 UTC"
+  31.4400, -91.5100
+  31.5300, -91.5200
+  31.5800, -91.4000
+  31.5900, -91.4900
+  31.6300, -91.5200
+  31.6200, -91.4000
+  31.7500, -91.3800
+  31.7500, -91.5400
+  31.8000, -91.5800
+  32.0000, -91.5000
+  32.2000, -91.4900
+  32.2000, -91.5400
+  32.2500, -91.5600
+  32.3400, -91.4800
+  32.3500, -91.5000
+  32.4500, -90.0300
+  31.4300, -89.9600
+  31.3800, -91.4600
+  31.4300, -91.5100
+  31.3800, -91.5700
+  31.4400, -91.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 27 at 12:17AM CDT by NWS Lubbock TX\nExpires: 2026-08-27 05:45 Z\nAt 1217 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northeast of Locketville to 9 miles southeast of Tokio to 8 miles northeast of Hobbs. Movement was southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brownfield, Denver City, Locketville, Tokio, Meadow, Ropesville, and Wellman.\nGenerated: 2026-08-27 05:20:18 UTC"
+  32.9600, -103.0500
+  33.2700, -102.7100
+  33.5700, -102.2400
+  33.5300, -102.0800
+  32.9600, -102.0800
+  32.9600, -103.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 27 at 12:16AM CDT by NWS Midland/Odessa TX\nExpires: 2026-08-27 06:00 Z\nAt 1215 AM CDT/1115 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles east of Seagraves Airport to near Eunice Airport to 10 miles northeast of Malaga. Movement was south at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hobbs, Seminole, Eunice, Seagraves, Jal, Monument, Seagraves Airport, Humble City, Eunice Airport, Jal Airport, Nadine, Gaines County Airport, Welch, Red Bluff Reservoir, Orla, McKenzie Lake, Halfway, Bennett, Lea County Regional Airport, and Gaines County Park.\nGenerated: 2026-08-27 05:20:18 UTC"
+  32.9600, -103.0600
+  32.9600, -101.7000
+  32.0500, -103.0500
+  31.7900, -103.9700
+  32.5600, -104.0600
+  32.9200, -103.3200
+  33.1000, -103.0600
+  32.9600, -103.0600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 26 at 11:04PM MDT by NWS Pueblo CO\nExpires: 2026-08-27 05:30 Z\nAt 1104 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Blue Lake, or 26 miles northwest of Lamar, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Neegronda Reservoir, Sweetwater Reservoir, and McClave.\nGenerated: 2026-08-27 05:20:18 UTC"
   38.2000, -103.1600
   38.3600, -103.1200
   38.4000, -102.7400
