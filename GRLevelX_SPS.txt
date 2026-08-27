@@ -3,9 +3,42 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-27 05:55:15 UTC
+; Generated: 2026-08-27 06:05:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:50AM CDT by NWS Dodge City KS\nExpires: 2026-08-27 06:15 Z\nAt 1250 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Modoc, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northwestern Finney and southwestern Scott Counties.\nGenerated: 2026-08-27 05:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 1:00AM CDT by NWS New Orleans LA\nExpires: 2026-08-27 06:45 Z\nAt 1259 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Varnado to 7 miles south of Poplarville to 12 miles southwest of McHenry to near Saucier. Movement was south at 10 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Gulfport, Biloxi, Bogalusa, Poplarville, Saucier, Lyman, Mcneil, and Crossroads.  This includes Interstate 59 in Mississippi between mile markers 9 and 42.\nGenerated: 2026-08-27 06:05:15 UTC"
+  30.6500, -89.3400
+  30.6500, -89.2500
+  30.6800, -89.2400
+  30.6800, -88.8900
+  30.4900, -88.9100
+  30.4400, -89.3400
+  30.4900, -89.5600
+  30.8000, -89.8600
+  31.0000, -89.7600
+  31.0100, -89.5100
+  31.0000, -89.4700
+  30.9800, -89.4700
+  30.9800, -89.4300
+  31.0100, -89.4200
+  31.0100, -89.3500
+  30.6500, -89.3400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 27 at 12:56AM CDT by NWS Fort Worth TX\nExpires: 2026-08-27 06:45 Z\nAt 1255 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Hillsboro to near Dawson. Movement was southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Hillsboro, Hubbard, Dawson, Bynum, Aquilla Lake, and Navarro Mills Lake around 100 AM CDT. Coolidge around 115 AM CDT. West and Wortham around 120 AM CDT. Mexia around 125 AM CDT.  Other locations impacted by these storms include Malone, Rock Creek, Watt, Dresden, Irene, Prairie Hill, Woodbury, Gholson, Aquilla, and Peoria.  This includes the following highways... Interstate 35 between mile markers 331 and 369. Interstate 35W between mile markers 1 and 3. Interstate 35E between mile markers 371 and 374.\nGenerated: 2026-08-27 06:05:15 UTC"
+  31.7200, -96.3100
+  31.4800, -97.1300
+  31.8900, -97.4500
+  32.0700, -97.3500
+  32.1100, -97.0900
+  32.0500, -96.9400
+  32.0800, -96.8900
+  31.9800, -96.4600
+  31.7200, -96.3100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 27 at 12:50AM CDT by NWS Dodge City KS\nExpires: 2026-08-27 06:15 Z\nAt 1250 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Modoc, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northwestern Finney and southwestern Scott Counties.\nGenerated: 2026-08-27 06:05:15 UTC"
   38.3600, -100.8700
   38.2100, -101.0600
   38.2300, -101.1000
@@ -16,7 +49,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 12:50AM CDT by NWS Dodge
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:49AM CDT by NWS Amarillo TX\nExpires: 2026-08-27 06:30 Z\nAt 1249 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles west of Elkhart to 4 miles southwest of Keyes to 8 miles northeast of Felt. Movement was southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Boise City, Keyes, Eva, Griggs, and Sturgis.\nGenerated: 2026-08-27 05:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 12:49AM CDT by NWS Amarillo TX\nExpires: 2026-08-27 06:30 Z\nAt 1249 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles west of Elkhart to 4 miles southwest of Keyes to 8 miles northeast of Felt. Movement was southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Boise City, Keyes, Eva, Griggs, and Sturgis.\nGenerated: 2026-08-27 06:05:15 UTC"
   36.9900, -101.8600
   36.8700, -101.5900
   36.5000, -101.9800
@@ -28,34 +61,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 12:49AM CDT by NWS Amari
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:34AM CDT by NWS Fort Worth TX\nExpires: 2026-08-27 06:00 Z\nAt 1233 AM CDT, Doppler radar was tracking a strong thunderstorm near Covington, or 10 miles northwest of Hillsboro, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of northwestern Hill County, including the following locations... Osceola, Mayfield, Lovelace, Woodbury, and Peoria.  This includes the following highways... Interstate 35 between mile markers 363 and 369. Interstate 35W between mile markers 1 and 7. Interstate 35E near mile marker 371.\nGenerated: 2026-08-27 05:55:15 UTC"
-  32.1700, -97.3300
-  32.2000, -97.1500
-  31.9600, -97.0100
-  31.9100, -97.4100
-  31.9200, -97.4200
-  31.9500, -97.4200
-  31.9500, -97.4100
-  31.9800, -97.3800
-  31.9900, -97.3800
-  31.9900, -97.4000
-  32.0000, -97.4200
-  32.0900, -97.4300
-  32.1700, -97.3300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:33AM CDT by NWS Goodland KS\nExpires: 2026-08-27 06:00 Z\nAt 1232 AM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Modoc, moving east at 10 mph.  HAZARD...Wind gusts up to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Wichita County, including the following locations... Marienthal.\nGenerated: 2026-08-27 05:55:15 UTC"
-  38.3000, -101.2500
-  38.3200, -101.3200
-  38.4900, -101.2800
-  38.4900, -101.1300
-  38.2900, -101.1300
-  38.3000, -101.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:33AM CDT by NWS Shreveport LA\nExpires: 2026-08-27 06:30 Z\nAt 1233 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 8 miles southeast of Winnfield to 6 miles west of Converse, or extending from 8 miles southeast of Winnfield to 19 miles south of Mansfield, moving south at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Natchitoches, Center, Winnfield, Milam, Many, San Augustine, Zwolle, Colfax, Tenaha, Campti, Montgomery, Converse, Patroon, Rosevine, Shelbyville, Bland Lake, Neuville, Macune and Allen.\nGenerated: 2026-08-27 05:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 12:33AM CDT by NWS Shreveport LA\nExpires: 2026-08-27 06:30 Z\nAt 1233 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 8 miles southeast of Winnfield to 6 miles west of Converse, or extending from 8 miles southeast of Winnfield to 19 miles south of Mansfield, moving south at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Natchitoches, Center, Winnfield, Milam, Many, San Augustine, Zwolle, Colfax, Tenaha, Campti, Montgomery, Converse, Patroon, Rosevine, Shelbyville, Bland Lake, Neuville, Macune and Allen.\nGenerated: 2026-08-27 06:05:15 UTC"
   31.9700, -94.2900
   31.8800, -93.1700
   32.0000, -92.5500
@@ -79,33 +85,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 12:33AM CDT by NWS Shrev
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:28AM CDT by NWS New Orleans LA\nExpires: 2026-08-27 06:00 Z\nAt 1227 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Sandy Hook to 10 miles northeast of Crossroads to near Poplarville to 15 miles west of Perkinston. Movement was southwest at 20 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bogalusa, Poplarville, Varnado, Mcneil, Crossroads, and Angie.  This includes Interstate 59 in Mississippi between mile markers 14 and 42.\nGenerated: 2026-08-27 05:55:15 UTC"
-  30.5900, -89.3400
-  30.6400, -89.6300
-  30.7300, -89.8200
-  30.9000, -89.9300
-  31.0100, -89.8000
-  31.0000, -89.7500
-  31.0100, -89.5100
-  31.0000, -89.4700
-  30.9800, -89.4700
-  30.9800, -89.4300
-  31.0100, -89.4200
-  31.0100, -89.3500
-  30.5900, -89.3400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 26 at 11:21PM MDT by NWS Goodland KS\nExpires: 2026-08-27 06:00 Z\nAt 1120 PM MDT, Doppler radar was tracking a strong thunderstorm 4 miles east of Towner, or 13 miles west of Tribune, moving south at 10 mph.  HAZARD...Wind gusts up to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southwestern Greeley County.\nGenerated: 2026-08-27 05:55:15 UTC"
-  38.5400, -102.0400
-  38.5400, -101.9100
-  38.2600, -101.8800
-  38.2600, -102.0400
-  38.5400, -102.0400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:19AM CDT by NWS Jackson MS\nExpires: 2026-08-27 06:15 Z\nAt 1219 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Crowville to near Clinton. Movement was south at 70 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Byram, Raymond, Newellton, Terry, Utica, Learned, Reganton, Yokena, and Dry Grove around 1225 AM CDT. Carpenter, Whites, and Lake Bruin around 1230 AM CDT. Crystal Springs, Port Gibson, St. Joseph, Alcorn State, Hermanville, Hopewell, Helena, Dentville, Gallman, and Cooter Point around 1235 AM CDT. Hazlehurst, Waterproof, Pattison, Peyton, and Lorman around 1240 AM CDT. Georgetown, Glancy, Church Hill, Blue Hill, Allen, Martinsville, Red Lick, Mcbride, and Barlow around 1245 AM CDT. Fayette, Wesson, Beauregard, Pleasant Hill, Caseyville, Oma, Union Church, Rockport, Stampley, and Mcnair around 1250 AM CDT. Natchez, Brookhaven, Hamburg, Cranfield, Sontag, Stanton, and Loyd Star around 1255 AM CDT. Roxie, Mccall Creek, New Hope, Vaughn, Wanilla, and Kirby around 100 AM CDT.  Other locations impacted by these storms include Delta.\nGenerated: 2026-08-27 05:55:15 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 12:19AM CDT by NWS Jackson MS\nExpires: 2026-08-27 06:15 Z\nAt 1219 AM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Crowville to near Clinton. Movement was south at 70 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Jackson, Byram, Raymond, Newellton, Terry, Utica, Learned, Reganton, Yokena, and Dry Grove around 1225 AM CDT. Carpenter, Whites, and Lake Bruin around 1230 AM CDT. Crystal Springs, Port Gibson, St. Joseph, Alcorn State, Hermanville, Hopewell, Helena, Dentville, Gallman, and Cooter Point around 1235 AM CDT. Hazlehurst, Waterproof, Pattison, Peyton, and Lorman around 1240 AM CDT. Georgetown, Glancy, Church Hill, Blue Hill, Allen, Martinsville, Red Lick, Mcbride, and Barlow around 1245 AM CDT. Fayette, Wesson, Beauregard, Pleasant Hill, Caseyville, Oma, Union Church, Rockport, Stampley, and Mcnair around 1250 AM CDT. Natchez, Brookhaven, Hamburg, Cranfield, Sontag, Stanton, and Loyd Star around 1255 AM CDT. Roxie, Mccall Creek, New Hope, Vaughn, Wanilla, and Kirby around 100 AM CDT.  Other locations impacted by these storms include Delta.\nGenerated: 2026-08-27 06:05:15 UTC"
   31.4400, -91.5100
   31.5300, -91.5200
   31.5800, -91.4000
@@ -127,16 +107,4 @@ Line: 2,,"Special Weather Statement issued August 27 at 12:19AM CDT by NWS Jacks
   31.4300, -91.5100
   31.3800, -91.5700
   31.4400, -91.5100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 12:16AM CDT by NWS Midland/Odessa TX\nExpires: 2026-08-27 06:00 Z\nAt 1215 AM CDT/1115 PM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles east of Seagraves Airport to near Eunice Airport to 10 miles northeast of Malaga. Movement was south at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hobbs, Seminole, Eunice, Seagraves, Jal, Monument, Seagraves Airport, Humble City, Eunice Airport, Jal Airport, Nadine, Gaines County Airport, Welch, Red Bluff Reservoir, Orla, McKenzie Lake, Halfway, Bennett, Lea County Regional Airport, and Gaines County Park.\nGenerated: 2026-08-27 05:55:15 UTC"
-  32.9600, -103.0600
-  32.9600, -101.7000
-  32.0500, -103.0500
-  31.7900, -103.9700
-  32.5600, -104.0600
-  32.9200, -103.3200
-  33.1000, -103.0600
-  32.9600, -103.0600
 End:
