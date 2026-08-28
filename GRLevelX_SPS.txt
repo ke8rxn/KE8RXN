@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-28 08:50:16 UTC
+; Generated: 2026-08-28 08:55:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 28 at 3:18AM CDT by NWS Dodge City KS\nExpires: 2026-08-28 09:00 Z\nAt 318 AM CDT, Doppler radar was tracking a strong thunderstorm near Deerfield, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of east central Kearny, southwestern Finney and northwestern Haskell Counties.\nGenerated: 2026-08-28 08:50:16 UTC"
+Line: 2,,"Special Weather Statement issued August 28 at 3:50AM CDT by NWS Mobile AL\nExpires: 2026-08-28 09:15 Z\nAt 349 AM CDT, Doppler radar was tracking a strong thunderstorm over Destin, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Destin, Eglin AFB, Ocean City, Lake Lorraine, and Shalimar.\nGenerated: 2026-08-28 08:55:17 UTC"
+  30.3800, -86.5900
+  30.4500, -86.6200
+  30.5100, -86.3900
+  30.4000, -86.3900
+  30.3800, -86.4000
+  30.3700, -86.4000
+  30.3800, -86.5900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 28 at 3:18AM CDT by NWS Dodge City KS\nExpires: 2026-08-28 09:00 Z\nAt 318 AM CDT, Doppler radar was tracking a strong thunderstorm near Deerfield, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of east central Kearny, southwestern Finney and northwestern Haskell Counties.\nGenerated: 2026-08-28 08:55:17 UTC"
   37.9200, -101.2200
   38.0500, -101.0800
   37.7400, -100.7000
