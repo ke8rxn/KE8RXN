@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-28 00:45:14 UTC
+; Generated: 2026-08-28 00:50:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 6:42PM MDT by NWS Albuquerque NM\nExpires: 2026-08-28 01:15 Z\nAt 642 PM MDT, Doppler radar was tracking a strong thunderstorm over Texico, or 9 miles east of Clovis, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis and Texico.  This includes Highway 60 between Mile Markers 383 and 397.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 8:47PM EDT by NWS Baltimore MD/Washington DC\nExpires: 2026-08-28 01:30 Z\nAt 846 PM EDT, Doppler radar was tracking a strong thunderstorm over Kingwood, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mountain Lake Park, Oakland, Loch Lynn Heights, Deer Park, Crellin, Deep Creek Lake State Park, Swallow Falls State Park, McHenry, Hutton, and McComas Beach.\nGenerated: 2026-08-28 00:50:14 UTC"
+  39.5500, -79.2500
+  39.4600, -79.2400
+  39.3600, -79.2600
+  39.3600, -79.4800
+  39.5700, -79.4800
+  39.5900, -79.2300
+  39.5500, -79.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 27 at 6:42PM MDT by NWS Albuquerque NM\nExpires: 2026-08-28 01:15 Z\nAt 642 PM MDT, Doppler radar was tracking a strong thunderstorm over Texico, or 9 miles east of Clovis, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Clovis and Texico.  This includes Highway 60 between Mile Markers 383 and 397.\nGenerated: 2026-08-28 00:50:14 UTC"
   34.3000, -103.2500
   34.4600, -103.3200
   34.4900, -103.0400
@@ -15,7 +26,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 6:42PM MDT by NWS Albuqu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 7:42PM CDT by NWS Houston/Galveston TX\nExpires: 2026-08-28 01:15 Z\nAt 742 PM CDT, Doppler radar was tracking strong thunderstorms near Huntsville, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, Willis, New Waverly, Riverside, Huntsville State Park, Crabbs Prairie, Richards, Oakhurst, and Evergreen.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 7:42PM CDT by NWS Houston/Galveston TX\nExpires: 2026-08-28 01:15 Z\nAt 742 PM CDT, Doppler radar was tracking strong thunderstorms near Huntsville, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, Willis, New Waverly, Riverside, Huntsville State Park, Crabbs Prairie, Richards, Oakhurst, and Evergreen.\nGenerated: 2026-08-28 00:50:14 UTC"
   30.8000, -95.7700
   30.8600, -95.2600
   30.4000, -95.2100
@@ -24,7 +35,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 7:42PM CDT by NWS Housto
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 6:42PM MDT by NWS Great Falls MT\nExpires: 2026-08-28 01:30 Z\nAt 642 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 21 miles northwest of Chester to 11 miles west of Lothair. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chester, Joplin, Inverness, Lothair, Whitlash, Devon, and Galata.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 6:42PM MDT by NWS Great Falls MT\nExpires: 2026-08-28 01:30 Z\nAt 642 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 21 miles northwest of Chester to 11 miles west of Lothair. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Chester, Joplin, Inverness, Lothair, Whitlash, Devon, and Galata.\nGenerated: 2026-08-28 00:50:14 UTC"
   48.4800, -110.6300
   48.4300, -111.5400
   49.0000, -111.3800
@@ -33,7 +44,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 6:42PM MDT by NWS Great 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 7:41PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-08-28 01:30 Z\nAt 741 PM CDT, Doppler radar was tracking a strong thunderstorm over Somerset, or 12 miles southwest of Stinson Municipal Airport, moving south at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pleasanton, Jourdanton, Poteet, Lytle, Somerset, Leming, Sandy Oaks, Von Ormy, Buena Vista, Iuka, Mitchell Lake, Losoya, Graytown, Kyote, Mangus Corner, Thelma, Coughran, Espey, Amphion, and Rossville.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 7:41PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-08-28 01:30 Z\nAt 741 PM CDT, Doppler radar was tracking a strong thunderstorm over Somerset, or 12 miles southwest of Stinson Municipal Airport, moving south at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pleasanton, Jourdanton, Poteet, Lytle, Somerset, Leming, Sandy Oaks, Von Ormy, Buena Vista, Iuka, Mitchell Lake, Losoya, Graytown, Kyote, Mangus Corner, Thelma, Coughran, Espey, Amphion, and Rossville.\nGenerated: 2026-08-28 00:50:14 UTC"
   29.3200, -98.8000
   29.3000, -98.4700
   28.9400, -98.2500
@@ -42,7 +53,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 7:41PM CDT by NWS Austin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 6:40PM MDT by NWS Pocatello ID\nExpires: 2026-08-28 01:15 Z\nAt 640 PM MDT, Doppler radar was tracking a strong thunderstorm over Rexburg, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Rexburg, Rigby, Lorenzo, Sugar City, Teton, Parker, Archer, Egin, St Anthony, Chester, Plano, Ashton Reservoir, Green Canyon Hot Springs, Newdale, Thornton, and Saint Anthony Sand Dunes.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 6:40PM MDT by NWS Pocatello ID\nExpires: 2026-08-28 01:15 Z\nAt 640 PM MDT, Doppler radar was tracking a strong thunderstorm over Rexburg, moving northeast at 25 mph.  HAZARD...Wind gusts in excess of 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Rexburg, Rigby, Lorenzo, Sugar City, Teton, Parker, Archer, Egin, St Anthony, Chester, Plano, Ashton Reservoir, Green Canyon Hot Springs, Newdale, Thornton, and Saint Anthony Sand Dunes.\nGenerated: 2026-08-28 00:50:14 UTC"
   43.6400, -111.8900
   43.9400, -112.1000
   44.1700, -111.5500
@@ -51,7 +62,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 6:40PM MDT by NWS Pocate
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 6:39PM MDT by NWS Great Falls MT\nExpires: 2026-08-28 01:15 Z\nAt 639 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 16 miles northeast of Belgrade to near Bozeman to 6 miles east of Ennis. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bozeman and Gallatin Gateway.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 6:39PM MDT by NWS Great Falls MT\nExpires: 2026-08-28 01:15 Z\nAt 639 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 16 miles northeast of Belgrade to near Bozeman to 6 miles east of Ennis. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bozeman and Gallatin Gateway.\nGenerated: 2026-08-28 00:50:14 UTC"
   45.3100, -111.7400
   45.6300, -111.1500
   46.1700, -111.0900
@@ -67,7 +78,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 6:39PM MDT by NWS Great 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 7:36PM CDT by NWS Fort Worth TX\nExpires: 2026-08-28 01:00 Z\nAt 736 PM CDT, Doppler radar was tracking a strong thunderstorm near Rising Star, or 16 miles south of Cisco. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southwestern Eastland and west central Comanche Counties, including the following locations... Sipe Springs and Okra.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 7:36PM CDT by NWS Fort Worth TX\nExpires: 2026-08-28 01:00 Z\nAt 736 PM CDT, Doppler radar was tracking a strong thunderstorm near Rising Star, or 16 miles south of Cisco. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southwestern Eastland and west central Comanche Counties, including the following locations... Sipe Springs and Okra.\nGenerated: 2026-08-28 00:50:14 UTC"
   32.1900, -98.9900
   32.2400, -98.8800
   32.1100, -98.7400
@@ -78,7 +89,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 7:36PM CDT by NWS Fort W
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 8:35PM EDT by NWS Charleston WV\nExpires: 2026-08-28 01:00 Z\nAt 835 PM EDT, Doppler radar was tracking a strong thunderstorm near Twin Falls State Park, or 7 miles north of Pineville, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pineville, Sophia, Crab Orchard, Coal City, Twin Falls State Park, Macarthur, Lester, Glen Daniel, Bolt, and Maben.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 8:35PM EDT by NWS Charleston WV\nExpires: 2026-08-28 01:00 Z\nAt 835 PM EDT, Doppler radar was tracking a strong thunderstorm near Twin Falls State Park, or 7 miles north of Pineville, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pineville, Sophia, Crab Orchard, Coal City, Twin Falls State Park, Macarthur, Lester, Glen Daniel, Bolt, and Maben.\nGenerated: 2026-08-28 00:50:14 UTC"
   37.5900, -81.5300
   37.7200, -81.5900
   37.9000, -81.3200
@@ -87,7 +98,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 8:35PM EDT by NWS Charle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 8:33PM EDT by NWS Binghamton NY\nExpires: 2026-08-28 01:00 Z\nAt 833 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Worcester to near Unadilla. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oneonta, Davenport, Worcester, Middlefield, Maryland, Cooperstown, Westville, Unadilla, Otego, and Westford.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 8:33PM EDT by NWS Binghamton NY\nExpires: 2026-08-28 01:00 Z\nAt 833 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Worcester to near Unadilla. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Oneonta, Davenport, Worcester, Middlefield, Maryland, Cooperstown, Westville, Unadilla, Otego, and Westford.\nGenerated: 2026-08-28 00:50:14 UTC"
   42.5500, -74.6800
   42.5200, -74.7100
   42.4700, -74.6700
@@ -99,7 +110,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 8:33PM EDT by NWS Bingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 8:29PM EDT by NWS Binghamton NY\nExpires: 2026-08-28 01:00 Z\nAt 828 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Clarks Summit to near Penobscot. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Scranton, Wilkes-Barre, Dunmore, Kingston, Plains, Old Forge, Pittston, Archbald, Blakely, and Taylor.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 8:29PM EDT by NWS Binghamton NY\nExpires: 2026-08-28 01:00 Z\nAt 828 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Clarks Summit to near Penobscot. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Scranton, Wilkes-Barre, Dunmore, Kingston, Plains, Old Forge, Pittston, Archbald, Blakely, and Taylor.\nGenerated: 2026-08-28 00:50:14 UTC"
   41.1400, -75.9600
   41.2800, -75.8900
   41.4000, -75.9000
@@ -111,7 +122,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 8:29PM EDT by NWS Bingha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 8:28PM EDT by NWS Peachtree City GA\nExpires: 2026-08-28 01:00 Z\nAt 828 PM EDT, a strong thunderstorm was over Luthersville, or 11 miles south of Newnan, moving east at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Senoia, Grantville, Luthersville, Moreland, Haralson, Lone Oak, Gay, Rocky Mount, Hollonville, Alvaton, Digbey, Wooster, and Hilltop.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 8:28PM EDT by NWS Peachtree City GA\nExpires: 2026-08-28 01:00 Z\nAt 828 PM EDT, a strong thunderstorm was over Luthersville, or 11 miles south of Newnan, moving east at 15 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Senoia, Grantville, Luthersville, Moreland, Haralson, Lone Oak, Gay, Rocky Mount, Hollonville, Alvaton, Digbey, Wooster, and Hilltop.\nGenerated: 2026-08-28 00:50:14 UTC"
   33.3100, -84.7800
   33.2900, -84.5200
   33.2600, -84.5000
@@ -123,7 +134,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 8:28PM EDT by NWS Peacht
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 6:25PM MDT by NWS Albuquerque NM\nExpires: 2026-08-28 01:00 Z\nAt 625 PM MDT, Doppler radar was tracking a strong thunderstorm near San Ysidro, or 17 miles northwest of Rio Rancho, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Ysidro, Zia Pueblo, Mariposa and Jemez Pueblo.  This includes Highway 550 between Mile Markers 8 and 28.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 6:25PM MDT by NWS Albuquerque NM\nExpires: 2026-08-28 01:00 Z\nAt 625 PM MDT, Doppler radar was tracking a strong thunderstorm near San Ysidro, or 17 miles northwest of Rio Rancho, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Ysidro, Zia Pueblo, Mariposa and Jemez Pueblo.  This includes Highway 550 between Mile Markers 8 and 28.\nGenerated: 2026-08-28 00:50:14 UTC"
   35.6100, -106.8600
   35.6400, -106.7400
   35.4300, -106.5100
@@ -143,7 +154,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 6:25PM MDT by NWS Albuqu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 6:15PM MDT by NWS Great Falls MT\nExpires: 2026-08-28 01:15 Z\nAt 615 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Highwood, or 17 miles east of Great Falls, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Benton, Geraldine, Highwood, Shonkin, and Loma.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 6:15PM MDT by NWS Great Falls MT\nExpires: 2026-08-28 01:15 Z\nAt 615 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Highwood, or 17 miles east of Great Falls, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fort Benton, Geraldine, Highwood, Shonkin, and Loma.\nGenerated: 2026-08-28 00:50:14 UTC"
   47.4100, -110.8600
   47.6300, -111.0900
   47.9900, -110.5000
@@ -152,7 +163,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 6:15PM MDT by NWS Great 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 6:00PM MDT by NWS Billings MT\nExpires: 2026-08-28 01:00 Z\nAt 600 PM MDT, Doppler radar was tracking a line of thunderstorms producing gusty winds extending from 19 miles southwest of Melstone to 11 miles southwest of Busby, or extending from 21 miles east of Roundup to 30 miles southeast of Hardin, moving northeast at 45 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hardin, Colstrip, Forsyth, Hysham, Custer, Melstone, Crow Agency, Busby, Lame Deer, Ashland, Musselshell, Bighorn, Vananda, Ingomar, Pompeys Pillar, Muddy Cluster, St. Xavier, Crow Indian Reservation and Northern Cheyenne Indian Reservation.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 6:00PM MDT by NWS Billings MT\nExpires: 2026-08-28 01:00 Z\nAt 600 PM MDT, Doppler radar was tracking a line of thunderstorms producing gusty winds extending from 19 miles southwest of Melstone to 11 miles southwest of Busby, or extending from 21 miles east of Roundup to 30 miles southeast of Hardin, moving northeast at 45 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hardin, Colstrip, Forsyth, Hysham, Custer, Melstone, Crow Agency, Busby, Lame Deer, Ashland, Musselshell, Bighorn, Vananda, Ingomar, Pompeys Pillar, Muddy Cluster, St. Xavier, Crow Indian Reservation and Northern Cheyenne Indian Reservation.\nGenerated: 2026-08-28 00:50:14 UTC"
   46.3100, -108.4200
   46.7600, -107.9300
   46.7600, -107.8300
@@ -166,7 +177,7 @@ Line: 2,,"Special Weather Statement issued August 27 at 6:00PM MDT by NWS Billin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 27 at 5:57PM MDT by NWS Billings MT\nExpires: 2026-08-28 01:00 Z\nAt 557 PM MDT, Doppler radar was tracking a line of thunderstorms producing gusty winds extending from 7 miles northeast of Lodge Grass to near Sheridan, moving east at 45 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheridan, Ranchester, Dayton, Lodge Grass, Big Horn, Clearmont, Birney, Tongue River Reservoir, Rosebud Battlefield Park, Kirby, Banner, Birney Village, Leiter, Otter, Parkman, Wyola, Arvada, Northern Cheyenne Indian Reservation and Crow Indian Reservation.\nGenerated: 2026-08-28 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued August 27 at 5:57PM MDT by NWS Billings MT\nExpires: 2026-08-28 01:00 Z\nAt 557 PM MDT, Doppler radar was tracking a line of thunderstorms producing gusty winds extending from 7 miles northeast of Lodge Grass to near Sheridan, moving east at 45 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheridan, Ranchester, Dayton, Lodge Grass, Big Horn, Clearmont, Birney, Tongue River Reservoir, Rosebud Battlefield Park, Kirby, Banner, Birney Village, Leiter, Otter, Parkman, Wyola, Arvada, Northern Cheyenne Indian Reservation and Crow Indian Reservation.\nGenerated: 2026-08-28 00:50:14 UTC"
   45.3700, -107.7400
   45.4600, -106.3000
   45.2000, -105.9900
