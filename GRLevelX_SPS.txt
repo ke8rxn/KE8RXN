@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-29 17:35:16 UTC
+; Generated: 2026-08-29 17:40:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 10:32AM MST by NWS Phoenix AZ\nExpires: 2026-08-29 18:00 Z\nAt 1031 AM MST, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Aguila, or 20 miles southwest of Wickenburg, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wickenburg.  This includes US Highway 60 between mile markers 86 and 110.\nGenerated: 2026-08-29 17:35:16 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 11:39AM MDT by NWS Grand Junction CO\nExpires: 2026-08-29 18:30 Z\nAt 1138 AM MDT, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Cortez, or 42 miles east of Blanding, moving northeast at 30 mph.  HAZARD...Wind gusts 40 TO 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cortez, Dolores, Lebanon, Towaoc, Stoner, Lewis, Arriola, and Yellow Jacket.  This includes the following highways... U.S. Highway 491 in Colorado between mile markers 27 and 45. U.S. Highway 160 in Colorado between mile markers 24 and 42. Colorado 145 between mile markers 1 and 27.\nGenerated: 2026-08-29 17:40:16 UTC"
+  37.1400, -108.7200
+  37.3700, -109.0400
+  37.8900, -108.3200
+  37.7600, -108.1100
+  37.1400, -108.7200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 29 at 10:32AM MST by NWS Phoenix AZ\nExpires: 2026-08-29 18:00 Z\nAt 1031 AM MST, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Aguila, or 20 miles southwest of Wickenburg, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wickenburg.  This includes US Highway 60 between mile markers 86 and 110.\nGenerated: 2026-08-29 17:40:16 UTC"
   33.9700, -112.7300
   33.6200, -112.9700
   33.6900, -113.2500
@@ -15,7 +24,7 @@ Line: 2,,"Special Weather Statement issued August 29 at 10:32AM MST by NWS Phoen
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 1:25PM EDT by NWS Miami FL\nExpires: 2026-08-29 18:00 Z\nAt 125 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 10 miles north of Lion Country Safari Park, or 13 miles south of Indiantown, moving west at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pahokee, Canal Point, and Fremd Village-Padgett Island.\nGenerated: 2026-08-29 17:35:16 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 1:25PM EDT by NWS Miami FL\nExpires: 2026-08-29 18:00 Z\nAt 125 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm 10 miles north of Lion Country Safari Park, or 13 miles south of Indiantown, moving west at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pahokee, Canal Point, and Fremd Village-Padgett Island.\nGenerated: 2026-08-29 17:40:16 UTC"
   26.7700, -80.4000
   26.8000, -80.6700
   26.8400, -80.6600
@@ -27,7 +36,7 @@ Line: 2,,"Special Weather Statement issued August 29 at 1:25PM EDT by NWS Miami 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 1:21PM EDT by NWS Miami FL\nExpires: 2026-08-29 17:45 Z\nAt 121 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Lake Harbor, moving northwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clewiston, South Bay, Lake Harbor, and Harlem.\nGenerated: 2026-08-29 17:35:16 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 1:21PM EDT by NWS Miami FL\nExpires: 2026-08-29 17:45 Z\nAt 121 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Lake Harbor, moving northwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clewiston, South Bay, Lake Harbor, and Harlem.\nGenerated: 2026-08-29 17:40:16 UTC"
   26.7700, -80.9400
   26.7300, -80.8500
   26.7000, -80.8200
@@ -42,7 +51,7 @@ Line: 2,,"Special Weather Statement issued August 29 at 1:21PM EDT by NWS Miami 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 11:12AM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 18:00 Z\nAt 1111 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from Clinton to near Eagle Mountain. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Salt Lake City, West Valley City, Provo, Sandy, Ogden, Layton, Murray, Bountiful, Farmington, Park City, Morgan, Coalville, Hill Air Force Base, Heber City, West Jordan, Orem, Taylorsville, South Jordan, Lehi, and Draper.  This includes the following highways... Interstate 15 between mile markers 262 and 347. Interstate 84 between mile markers 82 and 119. Interstate 80 in Utah between mile markers 106 and 181. US Route 40 between mile markers 0 and 24, and between mile markers 28 and 43. Utah Route 35 between mile markers 0 and 5. Mirror Lake Highway between mile markers 0 and 1.\nGenerated: 2026-08-29 17:35:16 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 11:12AM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 18:00 Z\nAt 1111 AM MDT, Doppler radar was tracking strong thunderstorms along a line extending from Clinton to near Eagle Mountain. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Salt Lake City, West Valley City, Provo, Sandy, Ogden, Layton, Murray, Bountiful, Farmington, Park City, Morgan, Coalville, Hill Air Force Base, Heber City, West Jordan, Orem, Taylorsville, South Jordan, Lehi, and Draper.  This includes the following highways... Interstate 15 between mile markers 262 and 347. Interstate 84 between mile markers 82 and 119. Interstate 80 in Utah between mile markers 106 and 181. US Route 40 between mile markers 0 and 24, and between mile markers 28 and 43. Utah Route 35 between mile markers 0 and 5. Mirror Lake Highway between mile markers 0 and 1.\nGenerated: 2026-08-29 17:40:16 UTC"
   41.8000, -111.3100
   41.0800, -111.2200
   40.9600, -111.4200
