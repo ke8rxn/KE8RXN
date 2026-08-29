@@ -3,9 +3,48 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-29 19:25:14 UTC
+; Generated: 2026-08-29 19:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 3:11PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-29 20:00 Z\nAt 311 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Lake Marian to 13 miles northwest of Kissimmee Prairie Preserve to Sebring Regional Airport. Movement was west at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake Wales, Sebring, Avon Park, Lake Placid, Sebring Regional Airport, Sylvan Shores, Lake Istokpoga, Frostproof, Hillcrest Heights, Highland Park, Indian Lake Estates, River Ranch, Cornwell, Sebring Shores, Babson Park, Lake Josephine, Placid Lakes, Lorida, Avon Park Executive Airport, and Avon Park Air Force Range.\nGenerated: 2026-08-29 19:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 1:29PM MDT by NWS Denver CO\nExpires: 2026-08-29 20:15 Z\nAt 129 PM MDT, Doppler radar was tracking a line of showers and thunderstorms extending from 10 miles northwest of Red Feather Lakes to over Grand Lake, or extending from 41 miles northwest of Fort Collins to 47 miles southwest of Fort Collins, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Estes Park, Trail Ridge, Bear Lake, Grand Lake, Jamestown, Ward, Kinikinik, Stove Prairie, Pennock Pass, Pingree Park, Glen Haven, Rustic, Mishawaka, Buckhorn Mountain, Drake, Red Feather Lakes, Poudre Park, Longs Peak, Cedar Cove and Meeker Park.\nGenerated: 2026-08-29 19:30:17 UTC"
+  40.1600, -105.9900
+  40.6400, -105.8200
+  41.0000, -105.8400
+  41.0000, -105.1600
+  40.6000, -105.1900
+  40.2500, -105.3000
+  40.2600, -105.3100
+  40.2400, -105.3300
+  40.2400, -105.3100
+  40.0500, -105.3700
+  40.1600, -105.9900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 29 at 3:29PM EDT by NWS Raleigh NC\nExpires: 2026-08-29 20:30 Z\nAt 329 PM EDT, Doppler radar was tracking a strong thunderstorm near Goldston, or near Sanford, moving southwest at 15 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sanford, Carthage, Goldston, Whispering Pines, Gum Springs, Cumnock, Highfalls, Harpers Crossroads, Tramway, and Glendon.  This includes US 1 between Mile Markers 69 and 73.\nGenerated: 2026-08-29 19:30:17 UTC"
+  35.5100, -79.6100
+  35.5200, -79.5800
+  35.5100, -79.5600
+  35.5200, -79.5500
+  35.5500, -79.5600
+  35.6200, -79.5500
+  35.7100, -79.2700
+  35.4800, -79.0800
+  35.2400, -79.3900
+  35.5100, -79.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 29 at 12:27PM MST by NWS Flagstaff AZ\nExpires: 2026-08-29 20:00 Z\nAt 1227 PM MST /127 PM MDT/, Doppler radar was tracking a strong thunderstorm just west of Joseph City, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Navajo County.  This includes the following highways... Interstate 40 between mile markers 262 and 279. Business Interstate 40 between mile markers 275 and 276.\nGenerated: 2026-08-29 19:30:17 UTC"
+  34.8400, -110.4200
+  34.9900, -110.5800
+  35.1900, -110.3200
+  35.1500, -110.2300
+  35.0400, -110.1000
+  34.8400, -110.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 29 at 3:11PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-29 20:00 Z\nAt 311 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Lake Marian to 13 miles northwest of Kissimmee Prairie Preserve to Sebring Regional Airport. Movement was west at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lake Wales, Sebring, Avon Park, Lake Placid, Sebring Regional Airport, Sylvan Shores, Lake Istokpoga, Frostproof, Hillcrest Heights, Highland Park, Indian Lake Estates, River Ranch, Cornwell, Sebring Shores, Babson Park, Lake Josephine, Placid Lakes, Lorida, Avon Park Executive Airport, and Avon Park Air Force Range.\nGenerated: 2026-08-29 19:30:17 UTC"
   27.2200, -81.5600
   27.9100, -81.5600
   27.8800, -81.3000
@@ -30,7 +69,7 @@ Line: 2,,"Special Weather Statement issued August 29 at 3:11PM EDT by NWS Tampa 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 1:08PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 20:00 Z\nAt 108 PM MDT, Doppler radar was tracking a strong thunderstorm near Delta, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Delta, Levan, Oak City, Leamington, Lynndyl, Sutherland, Mills, and Yuba Lake State Park.  This includes the following highways... Interstate 15 between mile markers 196 and 218. US Route 6 between mile markers 86 and 109. US Route 50 between mile markers 90 and 101.\nGenerated: 2026-08-29 19:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 1:08PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 20:00 Z\nAt 108 PM MDT, Doppler radar was tracking a strong thunderstorm near Delta, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Delta, Levan, Oak City, Leamington, Lynndyl, Sutherland, Mills, and Yuba Lake State Park.  This includes the following highways... Interstate 15 between mile markers 196 and 218. US Route 6 between mile markers 86 and 109. US Route 50 between mile markers 90 and 101.\nGenerated: 2026-08-29 19:30:17 UTC"
   39.7800, -112.0300
   39.7800, -112.0100
   39.4600, -111.7500
@@ -40,7 +79,7 @@ Line: 2,,"Special Weather Statement issued August 29 at 1:08PM MDT by NWS Salt L
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 1:03PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 19:45 Z\nAt 103 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Antimony, or 15 miles east of Junction, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Loa, Bicknell, Torrey, Teasdale, Lyman, Angle, and Fremont.  This includes Utah Route 24 between mile markers 44 and 69.\nGenerated: 2026-08-29 19:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 1:03PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 19:45 Z\nAt 103 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Antimony, or 15 miles east of Junction, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Loa, Bicknell, Torrey, Teasdale, Lyman, Angle, and Fremont.  This includes Utah Route 24 between mile markers 44 and 69.\nGenerated: 2026-08-29 19:30:17 UTC"
   38.1500, -111.9900
   38.3200, -112.0800
   38.5500, -111.5200
@@ -49,62 +88,10 @@ Line: 2,,"Special Weather Statement issued August 29 at 1:03PM MDT by NWS Salt L
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 12:56PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 19:45 Z\nAt 1255 PM MDT, Doppler radar was tracking a strong thunderstorm 24 miles west of Kanosh, or 28 miles west of Fillmore, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fillmore and Flowell.  This includes the following highways... Interstate 15 between mile markers 166 and 169. US Route 50 between mile markers 107 and 108.\nGenerated: 2026-08-29 19:25:14 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 12:56PM MDT by NWS Salt Lake City UT\nExpires: 2026-08-29 19:45 Z\nAt 1255 PM MDT, Doppler radar was tracking a strong thunderstorm 24 miles west of Kanosh, or 28 miles west of Fillmore, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fillmore and Flowell.  This includes the following highways... Interstate 15 between mile markers 166 and 169. US Route 50 between mile markers 107 and 108.\nGenerated: 2026-08-29 19:30:17 UTC"
   38.8100, -112.9500
   38.9500, -113.0700
   39.3400, -112.5300
   38.9900, -112.2800
   38.8100, -112.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 12:51PM MDT by NWS Denver CO\nExpires: 2026-08-29 19:30 Z\nAt 1251 PM MDT, Doppler radar was tracking a line of showers and thunderstorms extending from 6 miles southeast of Walden to 10 miles northwest of Parshall, or extending from 59 miles west of Fort Collins to 55 miles west of Fort Collins, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations impacted include... Trail Ridge, Grand Lake, Kinikinik, Gould, Cameron Pass, Rand, Glendevey and Four Corners.\nGenerated: 2026-08-29 19:25:14 UTC"
-  40.1500, -106.4400
-  40.5900, -106.2000
-  40.6800, -106.2800
-  40.9800, -105.7300
-  40.6700, -105.5900
-  40.1800, -105.7400
-  40.1500, -106.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 2:44PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-08-29 19:30 Z\nAt 244 PM EDT, Doppler radar was tracking a strong thunderstorm near Muse, or 10 miles west of Labelle, moving northwest at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Babcock Ranch, Babcock Webb Wma, and North Fort Myers.\nGenerated: 2026-08-29 19:25:14 UTC"
-  26.7200, -81.5900
-  26.7700, -81.8100
-  26.7700, -81.9300
-  26.8200, -81.9400
-  27.0400, -81.9100
-  27.0300, -81.5600
-  26.7600, -81.5600
-  26.7100, -81.5700
-  26.7100, -81.5800
-  26.7200, -81.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 12:31PM MDT by NWS Cheyenne WY\nExpires: 2026-08-29 19:30 Z\nAt 1229 PM MDT, Doppler radar was tracking showers and thunderstorms from near Creston Junction to near Silver Lake Campground. Movement was northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rawlins, Saratoga, Hanna, Encampment, Sinclair, Elk Mountain, Riverside, McFadden, Rambler, Teton Reservoir, Shively Field, Separation Lake, Rob Roy Reservoir, Arlington, French Creek Campground, Pike Pole Campground, Turpin Reservoir, Bow River Campground, Lincoln Park Campground, and Snowy Range Pass.\nGenerated: 2026-08-29 19:25:14 UTC"
-  41.5200, -107.6000
-  41.6600, -107.5300
-  41.6600, -107.5100
-  41.6800, -107.5100
-  42.2200, -107.2200
-  41.5600, -105.6600
-  41.0100, -106.5600
-  41.5200, -107.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 2:28PM EDT by NWS Raleigh NC\nExpires: 2026-08-29 19:30 Z\nAt 225 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms from Asheboro to Siler City to McLeansville, moving southwest at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Burlington, Asheboro, Randleman, Siler City, North Carolina Zoo, Goldston, Seagrove, Elon, McLeansville, and Gibsonville.  This includes the following highways... Interstate 85 between Mile Markers 125 and 131. Interstate 40 between Mile Markers 132 and 143. Interstate 73 between Mile Markers 60 and 90.\nGenerated: 2026-08-29 19:25:14 UTC"
-  35.9400, -79.3300
-  35.8700, -79.2400
-  35.8000, -79.2400
-  35.6500, -79.2700
-  35.5200, -79.3400
-  35.5100, -79.8000
-  35.6000, -79.8900
-  35.9100, -79.8500
-  36.0800, -79.6800
-  36.1000, -79.4900
-  35.9400, -79.3300
 End:
