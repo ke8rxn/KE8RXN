@@ -3,9 +3,24 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-30 02:15:17 UTC
+; Generated: 2026-08-30 02:20:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 29 at 7:06PM MST by NWS Phoenix AZ\nExpires: 2026-08-30 02:30 Z\nAt 706 PM MST, Doppler radar was tracking a strong thunderstorm over Christmas, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hayden and Christmas.  This includes AZ Route 77 near mile marker 143, and between mile markers 146 and 165.\nGenerated: 2026-08-30 02:15:17 UTC"
+Line: 2,,"Special Weather Statement issued August 29 at 8:16PM MDT by NWS Billings MT\nExpires: 2026-08-30 03:00 Z\nAt 816 PM MDT, Doppler radar was tracking a gust front ahead of a line of showers and thunderstorms extending from 9 miles northwest of Billings West End to near Laurel, moving east at 35 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Billings, Laurel, Billings West End, Billings Heights, Lockwood, Shepherd, Huntley, Acton, Comanche, Molt and Park City.\nGenerated: 2026-08-30 02:20:16 UTC"
+  45.6200, -109.0400
+  45.7700, -109.1100
+  45.9900, -109.0800
+  46.0700, -108.3100
+  46.0200, -108.2400
+  45.7300, -108.1800
+  45.5600, -108.2500
+  45.6000, -108.7900
+  45.6400, -108.7800
+  45.6100, -108.8700
+  45.6200, -109.0400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 29 at 7:06PM MST by NWS Phoenix AZ\nExpires: 2026-08-30 02:30 Z\nAt 706 PM MST, Doppler radar was tracking a strong thunderstorm over Christmas, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hayden and Christmas.  This includes AZ Route 77 near mile marker 143, and between mile markers 146 and 165.\nGenerated: 2026-08-30 02:20:16 UTC"
   33.1400, -110.5900
   33.1500, -110.6300
   33.0800, -110.7000
