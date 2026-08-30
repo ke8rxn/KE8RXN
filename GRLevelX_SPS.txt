@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-08-30 17:05:18 UTC
+; Generated: 2026-08-30 17:10:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 30 at 12:25PM AST by NWS San Juan PR\nExpires: 2026-08-30 17:45 Z\nAt 1225 PM AST, Doppler radar was tracking a strong thunderstorm entering southeastern Puerto Rico, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Guayama, Patillas, San Lorenzo, Cayey, Caguas, Cidra, Arroyo, Juncos, Yabucoa, Maunabo, Las Piedras, Comerio, Aibonito, Humacao, Barranquitas, Salinas, Naguabo, Emajagua, Buena Vista and Playita.\nGenerated: 2026-08-30 17:05:18 UTC"
+Line: 2,,"Special Weather Statement issued August 30 at 1:05PM AST by NWS San Juan PR\nExpires: 2026-08-30 18:00 Z\nAt 105 PM AST, Doppler radar was tracking a strong thunderstorm over southwestern municipalities, moving southwest at 15 mph.  HAZARD...Wind gusts up to 40 mph and frequent lightning. Funnel clouds possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Yauco, Sabana Grande, San German, Lajas, Guanica, Hormigueros, Cabo Rojo, Guayanilla, Mayaguez, Monte Grande, Puerto Real, Palomas, Maricao, Liborio Negron Torres, Lluveras, Sabana Eneas, Fuig, La Parguera and Maria Antonia.\nGenerated: 2026-08-30 17:10:16 UTC"
+  18.2100, -67.1600
+  18.2100, -66.7500
+  17.9800, -66.7600
+  18.0000, -66.7600
+  17.9900, -66.8000
+  17.9500, -66.8400
+  17.9700, -66.9200
+  17.9800, -66.9200
+  17.9400, -66.9300
+  17.9300, -66.9200
+  17.9800, -67.0200
+  17.9500, -67.1100
+  17.9500, -67.1900
+  17.9400, -67.1900
+  17.9300, -67.1800
+  17.9500, -67.2100
+  17.9900, -67.2100
+  18.0100, -67.1700
+  18.0100, -67.1800
+  18.0400, -67.2100
+  18.2100, -67.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 30 at 12:25PM AST by NWS San Juan PR\nExpires: 2026-08-30 17:45 Z\nAt 1225 PM AST, Doppler radar was tracking a strong thunderstorm entering southeastern Puerto Rico, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Guayama, Patillas, San Lorenzo, Cayey, Caguas, Cidra, Arroyo, Juncos, Yabucoa, Maunabo, Las Piedras, Comerio, Aibonito, Humacao, Barranquitas, Salinas, Naguabo, Emajagua, Buena Vista and Playita.\nGenerated: 2026-08-30 17:10:16 UTC"
   17.9800, -66.3200
   18.2300, -66.3000
   18.2500, -65.6800
