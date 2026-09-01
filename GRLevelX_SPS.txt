@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-01 00:45:17 UTC
+; Generated: 2026-09-01 00:50:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 31 at 6:42PM MDT by NWS Albuquerque NM\nExpires: 2026-09-01 01:30 Z\nAt 642 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 5 miles northwest of Isleta Pueblo to 9 miles east of San Acacia, moving northwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Los Lunas, Belen, Valencia, Veguita, Casa Colorada, Jarales, Bernardo, Rio Communities, Los Trujillos-Gabaldon and La Joya.  This includes the following highways... Highway 60 between Mile Markers 166 and 191. Interstate 25 between Mile Markers 160 and 202.\nGenerated: 2026-09-01 00:45:17 UTC"
+Line: 2,,"Special Weather Statement issued August 31 at 6:47PM MDT by NWS Pueblo CO\nExpires: 2026-09-01 01:15 Z\nAt 647 PM MDT, Doppler radar was tracking a strong thunderstorm 18 miles north of Pritchett, or 24 miles northwest of Springfield, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southwestern Prowers, northwestern Baca and southeastern Bent Counties.\nGenerated: 2026-09-01 00:50:18 UTC"
+  37.5100, -102.9000
+  37.6100, -103.0700
+  37.8600, -102.9700
+  37.7100, -102.6600
+  37.5100, -102.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 31 at 7:45PM CDT by NWS Goodland KS\nExpires: 2026-09-01 01:15 Z\nAt 745 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 11 miles east of Bonny Reservoir, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of Cheyenne County in northwestern Kansas, including the following locations... Wheeler.\nGenerated: 2026-09-01 00:50:18 UTC"
+  40.0000, -101.5000
+  39.5700, -101.4700
+  39.5700, -102.0500
+  40.0000, -102.0500
+  40.0000, -101.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued August 31 at 6:42PM MDT by NWS Albuquerque NM\nExpires: 2026-09-01 01:30 Z\nAt 642 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 5 miles northwest of Isleta Pueblo to 9 miles east of San Acacia, moving northwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Los Lunas, Belen, Valencia, Veguita, Casa Colorada, Jarales, Bernardo, Rio Communities, Los Trujillos-Gabaldon and La Joya.  This includes the following highways... Highway 60 between Mile Markers 166 and 191. Interstate 25 between Mile Markers 160 and 202.\nGenerated: 2026-09-01 00:50:18 UTC"
   34.8200, -106.8900
   34.7800, -106.3800
   34.5100, -106.4300
@@ -22,7 +40,7 @@ Line: 2,,"Special Weather Statement issued August 31 at 6:42PM MDT by NWS Albuqu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 31 at 5:41PM MST by NWS Phoenix AZ\nExpires: 2026-09-01 01:30 Z\nAt 540 PM MST, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles east of Kofa Wildlife Refuge to 24 miles south of Vicksburg Junction to 20 miles northwest of Paloma. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kofa Wildlife Refuge and Palm Canyon.  This includes AZ Route 95 between mile markers 57 and 64, and between mile markers 66 and 87.\nGenerated: 2026-09-01 00:45:17 UTC"
+Line: 2,,"Special Weather Statement issued August 31 at 5:41PM MST by NWS Phoenix AZ\nExpires: 2026-09-01 01:30 Z\nAt 540 PM MST, Doppler radar was tracking strong thunderstorms along a line extending from 15 miles east of Kofa Wildlife Refuge to 24 miles south of Vicksburg Junction to 20 miles northwest of Paloma. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kofa Wildlife Refuge and Palm Canyon.  This includes AZ Route 95 between mile markers 57 and 64, and between mile markers 66 and 87.\nGenerated: 2026-09-01 00:50:18 UTC"
   33.5800, -113.5400
   33.4600, -113.4200
   33.1700, -113.3400
@@ -33,7 +51,7 @@ Line: 2,,"Special Weather Statement issued August 31 at 5:41PM MST by NWS Phoeni
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 31 at 6:41PM MDT by NWS Goodland KS\nExpires: 2026-09-01 01:00 Z\nAt 641 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northwest of Eads to 10 miles north of Towner. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  These storms will remain over mainly rural areas of southeastern Cheyenne County in east central Colorado, including the following locations... Arapahoe and Firstview.  This includes Highway 385 between mile markers 136 and 155.\nGenerated: 2026-09-01 00:45:17 UTC"
+Line: 2,,"Special Weather Statement issued August 31 at 6:41PM MDT by NWS Goodland KS\nExpires: 2026-09-01 01:00 Z\nAt 641 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northwest of Eads to 10 miles north of Towner. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  These storms will remain over mainly rural areas of southeastern Cheyenne County in east central Colorado, including the following locations... Arapahoe and Firstview.  This includes Highway 385 between mile markers 136 and 155.\nGenerated: 2026-09-01 00:50:18 UTC"
   38.8900, -102.7800
   38.9000, -102.0500
   38.6200, -102.0500
@@ -42,7 +60,7 @@ Line: 2,,"Special Weather Statement issued August 31 at 6:41PM MDT by NWS Goodla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued August 31 at 7:30PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-01 01:15 Z\nAt 729 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles east of Kent, moving northwest at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kent, Balmorhea, Balmorhea Lake, Saragosa, Balmorhea State Park, Toyahvale, and Buffalo Trail Scout Camp.  This includes the following highways... Interstate 10 between mile markers 177 and 216. Interstate 20 between mile markers 0 and 17.\nGenerated: 2026-09-01 00:45:17 UTC"
+Line: 2,,"Special Weather Statement issued August 31 at 7:30PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-01 01:15 Z\nAt 729 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles east of Kent, moving northwest at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kent, Balmorhea, Balmorhea Lake, Saragosa, Balmorhea State Park, Toyahvale, and Buffalo Trail Scout Camp.  This includes the following highways... Interstate 10 between mile markers 177 and 216. Interstate 20 between mile markers 0 and 17.\nGenerated: 2026-09-01 00:50:18 UTC"
   30.9900, -103.5800
   30.7100, -103.8700
   31.1800, -104.3400
