@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-01 20:45:16 UTC
+; Generated: 2026-09-01 20:50:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 4:39PM EDT by NWS Jacksonville FL\nExpires: 2026-09-01 21:15 Z\nAt 439 PM EDT, Doppler radar was tracking a strong thunderstorm near Columbia, or near Ichetucknee Spring, moving west at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ichetucknee Spring, Obrien, Branford, and Hildreth.\nGenerated: 2026-09-01 20:45:16 UTC"
+Line: 2,,"Special Weather Statement issued September 1 at 3:47PM CDT by NWS Shreveport LA\nExpires: 2026-09-01 21:30 Z\nAt 347 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles north of Huntington to 31 miles south of Diboll, or extending from 8 miles northeast of Lufkin to 31 miles south of Diboll, moving west at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lufkin, Diboll, Hudson, Huntington, Pollok, Burke, Homer, Redland, Clawson and Central.\nGenerated: 2026-09-01 20:50:17 UTC"
+  31.4000, -94.4900
+  31.0600, -94.5700
+  31.1000, -94.6500
+  31.0900, -94.6600
+  31.1100, -94.7100
+  31.1100, -94.7500
+  31.1500, -94.8600
+  31.2300, -94.8600
+  31.2600, -94.9000
+  31.2800, -94.8800
+  31.3000, -94.9000
+  31.3300, -94.9000
+  31.3400, -94.9600
+  31.3800, -94.9500
+  31.4200, -95.0000
+  31.4800, -94.9100
+  31.4200, -94.5400
+  31.4000, -94.5400
+  31.4100, -94.5100
+  31.4000, -94.4900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 1 at 4:39PM EDT by NWS Jacksonville FL\nExpires: 2026-09-01 21:15 Z\nAt 439 PM EDT, Doppler radar was tracking a strong thunderstorm near Columbia, or near Ichetucknee Spring, moving west at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ichetucknee Spring, Obrien, Branford, and Hildreth.\nGenerated: 2026-09-01 20:50:17 UTC"
   30.1100, -82.7200
   30.0200, -82.6700
   29.8900, -82.8800
@@ -25,7 +49,7 @@ Line: 2,,"Special Weather Statement issued September 1 at 4:39PM EDT by NWS Jack
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 3:18PM CDT by NWS North Platte NE\nExpires: 2026-09-01 21:00 Z\nAt 318 PM CDT, Doppler radar was tracking a strong thunderstorm 14 miles east of Springview, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nets Peak, Mills, Brocksburg, and Mariaville.  This includes Highway 12 between mile markers 68 and 92.\nGenerated: 2026-09-01 20:45:16 UTC"
+Line: 2,,"Special Weather Statement issued September 1 at 3:18PM CDT by NWS North Platte NE\nExpires: 2026-09-01 21:00 Z\nAt 318 PM CDT, Doppler radar was tracking a strong thunderstorm 14 miles east of Springview, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nets Peak, Mills, Brocksburg, and Mariaville.  This includes Highway 12 between mile markers 68 and 92.\nGenerated: 2026-09-01 20:50:17 UTC"
   42.6900, -99.4000
   42.7900, -99.6100
   43.0000, -99.4800
