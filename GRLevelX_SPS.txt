@@ -3,9 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-01 22:40:15 UTC
+; Generated: 2026-09-01 22:45:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 5:38PM CDT by NWS Amarillo TX\nExpires: 2026-09-01 23:15 Z\nAt 538 PM CDT, Doppler radar was tracking a strong thunderstorm near Kenton, or 30 miles northwest of Boise City, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Black Mesa Park and Kenton.\nGenerated: 2026-09-01 22:40:15 UTC"
+Line: 2,,"Special Weather Statement issued September 1 at 4:44PM MDT by NWS Boise ID\nExpires: 2026-09-01 23:30 Z\nAt 444 PM MDT, Doppler radar was tracking a strong thunderstorm near Minidoka National Monument, or 8 miles east of Jerome, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of central Twin Falls and Jerome Counties.\nGenerated: 2026-09-01 22:45:18 UTC"
+  42.5100, -114.4100
+  42.6100, -114.6400
+  42.8600, -114.5100
+  42.8500, -114.3800
+  42.8100, -114.3500
+  42.8100, -114.0500
+  42.7600, -114.0500
+  42.7700, -113.9800
+  42.5100, -114.4100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 1 at 4:43PM MDT by NWS Albuquerque NM\nExpires: 2026-09-01 23:15 Z\nAt 443 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from over Bueyeros to 16 miles northwest of Ute Lake State Park, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bueyeros and Rosebud.\nGenerated: 2026-09-01 22:45:18 UTC"
+  35.4100, -103.8700
+  35.7900, -103.8400
+  36.0000, -103.8500
+  36.2100, -103.3900
+  35.9200, -103.3200
+  35.5200, -103.3300
+  35.4100, -103.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 1 at 5:38PM CDT by NWS Amarillo TX\nExpires: 2026-09-01 23:15 Z\nAt 538 PM CDT, Doppler radar was tracking a strong thunderstorm near Kenton, or 30 miles northwest of Boise City, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Black Mesa Park and Kenton.\nGenerated: 2026-09-01 22:45:18 UTC"
   36.9900, -102.5300
   36.7800, -103.0000
   37.0000, -103.0000
@@ -13,17 +37,30 @@ Line: 2,,"Special Weather Statement issued September 1 at 5:38PM CDT by NWS Amar
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 5:12PM CDT by NWS Dodge City KS\nExpires: 2026-09-01 22:45 Z\nAt 512 PM CDT/412 PM MDT/, Doppler radar was tracking a strong thunderstorm 14 miles north of The Saunders Elevator, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of western Hamilton and northwestern Stanton Counties.\nGenerated: 2026-09-01 22:40:15 UTC"
-  38.2000, -102.0500
-  38.2600, -102.0200
-  37.7500, -101.6900
-  37.6200, -102.0300
-  37.6300, -102.0500
-  38.2000, -102.0500
+Line: 2,,"Special Weather Statement issued September 1 at 6:38PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-09-01 23:15 Z\nAt 638 PM EDT, Doppler radar was tracking a strong thunderstorm over Anna Maria Island, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bradenton, Palmetto, Longboat Key, Anna Maria Island, Anna Maria, West Bradenton, South Bradenton, Memphis, Holmes Beach, Bradenton Beach, Cortez, Palma Sola and Whitney Beach.\nGenerated: 2026-09-01 22:45:18 UTC"
+  27.5500, -82.7500
+  27.5500, -82.7300
+  27.5400, -82.7100
+  27.5100, -82.6900
+  27.5200, -82.6900
+  27.5300, -82.6600
+  27.5500, -82.6400
+  27.5700, -82.6300
+  27.5500, -82.5600
+  27.4100, -82.6000
+  27.4300, -82.6500
+  27.4000, -82.6200
+  27.3800, -82.6300
+  27.3900, -82.6400
+  27.3800, -82.6400
+  27.3800, -82.6600
+  27.4300, -82.6900
+  27.4400, -82.7100
+  27.5500, -82.7500
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 4:09PM MDT by NWS Pueblo CO\nExpires: 2026-09-01 23:00 Z\nAt 408 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles southeast of Kim, or 40 miles northeast of Des Moines, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kim.\nGenerated: 2026-09-01 22:40:15 UTC"
+Line: 2,,"Special Weather Statement issued September 1 at 4:09PM MDT by NWS Pueblo CO\nExpires: 2026-09-01 23:00 Z\nAt 408 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles southeast of Kim, or 40 miles northeast of Des Moines, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kim.\nGenerated: 2026-09-01 22:45:18 UTC"
   37.2200, -103.6200
   37.3100, -103.3800
   37.2800, -103.0800
@@ -34,53 +71,7 @@ Line: 2,,"Special Weather Statement issued September 1 at 4:09PM MDT by NWS Pueb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 4:06PM MDT by NWS Pueblo CO\nExpires: 2026-09-01 22:45 Z\nAt 406 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles northeast of Two Buttes to near Vilas to near Campo. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Walsh, Vilas, Campo, and Stonington.\nGenerated: 2026-09-01 22:40:15 UTC"
-  37.1200, -102.3100
-  37.1000, -102.7300
-  37.6600, -102.2800
-  37.5700, -102.1500
-  37.6200, -102.0400
-  37.4100, -102.0400
-  37.1200, -102.3100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 3:59PM MDT by NWS Pueblo CO\nExpires: 2026-09-01 22:45 Z\nAt 359 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Two Buttes, or 14 miles northwest of The Saunders Elevator, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Prowers and northeastern Baca Counties.\nGenerated: 2026-09-01 22:40:15 UTC"
-  37.5600, -102.1500
-  37.6500, -102.2900
-  37.9100, -102.0500
-  37.8500, -102.0400
-  37.6100, -102.0400
-  37.5600, -102.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 5:58PM EDT by NWS Upton NY\nExpires: 2026-09-01 22:45 Z\nAt 558 PM EDT, Doppler radar was tracking a strong thunderstorm over Newark, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newark, Jersey City, Elizabeth, Flatbush, Bayonne, Hoboken, Coney Island, Secaucus, Harrison, Rockaway Beach, Todt Hill, Crown Heights, Huguenot, The Verrazano Narrows Bridge, and Canarsie.\nGenerated: 2026-09-01 22:40:15 UTC"
-  40.5900, -74.2100
-  40.7200, -74.2400
-  40.7700, -74.2100
-  40.7900, -74.1500
-  40.7800, -74.1000
-  40.7600, -74.0900
-  40.7900, -74.0800
-  40.8200, -74.0200
-  40.7500, -73.9500
-  40.7400, -73.9600
-  40.7200, -73.9300
-  40.6800, -73.9000
-  40.6900, -73.8800
-  40.5800, -73.7500
-  40.5300, -73.9400
-  40.5600, -73.9500
-  40.5600, -74.0100
-  40.6000, -74.0300
-  40.5300, -74.1000
-  40.5000, -74.2000
-  40.5900, -74.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 5:57PM EDT by NWS Cleveland OH\nExpires: 2026-09-01 23:00 Z\nAt 557 PM EDT, Doppler radar was tracking a strong thunderstorm near Meadville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Meadville, Titusville, Cambridge Springs, Riceville, Lincolnville, Canadohta Lake, Guys Mills, Saegertown, Hydetown, Blooming Valley, Townville, Spartansburg, Venango, and Woodcock.\nGenerated: 2026-09-01 22:40:15 UTC"
+Line: 2,,"Special Weather Statement issued September 1 at 5:57PM EDT by NWS Cleveland OH\nExpires: 2026-09-01 23:00 Z\nAt 557 PM EDT, Doppler radar was tracking a strong thunderstorm near Meadville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Meadville, Titusville, Cambridge Springs, Riceville, Lincolnville, Canadohta Lake, Guys Mills, Saegertown, Hydetown, Blooming Valley, Townville, Spartansburg, Venango, and Woodcock.\nGenerated: 2026-09-01 22:45:18 UTC"
   41.6200, -79.6100
   41.6200, -79.8200
   41.6000, -79.8300
