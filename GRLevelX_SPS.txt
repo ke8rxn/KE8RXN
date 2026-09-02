@@ -3,9 +3,48 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-02 22:40:17 UTC
+; Generated: 2026-09-02 22:45:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 6:28PM EDT by NWS Raleigh NC\nExpires: 2026-09-02 23:15 Z\nAt 628 PM EDT, Doppler radar was tracking a strong thunderstorm over Bailey, or 18 miles southwest of Nashville, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bailey, Kenly, Middlesex, Sims, Emit, and Buckhorn Reservoir.  This includes the following highways... Interstate 95 between Mile Markers 119 and 105. NC Highway 264 between Mile Markers 24 and 35, and between Mile Markers 37 and 38.\nGenerated: 2026-09-02 22:40:17 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 6:43PM EDT by NWS Raleigh NC\nExpires: 2026-09-02 23:30 Z\nAt 643 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms 11 miles southeast of Warrenton, moving southwest at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Louisburg, Castalia, Centerville, Arcola, Ingleside, Medoc Mountain State Park, and Aventon.\nGenerated: 2026-09-02 22:45:17 UTC"
+  36.4200, -78.0100
+  36.2700, -77.8100
+  35.9600, -78.0800
+  36.0300, -78.2800
+  36.1800, -78.3900
+  36.4200, -78.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 2 at 4:42PM MDT by NWS Glasgow MT\nExpires: 2026-09-02 23:45 Z\nAt 442 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Zortman, moving northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Malta, Zortman, Dodson, Phillips, and Wagner.\nGenerated: 2026-09-02 22:45:17 UTC"
+  47.9200, -108.6300
+  47.9900, -108.6100
+  47.9800, -108.5500
+  47.9800, -108.4300
+  48.4500, -108.4100
+  48.4400, -108.4000
+  48.4400, -108.3600
+  48.4300, -108.3600
+  48.4400, -108.3400
+  48.5700, -108.3500
+  48.5700, -108.3200
+  48.6100, -108.3200
+  48.3400, -107.5300
+  47.8100, -108.3000
+  47.9200, -108.6900
+  47.9200, -108.6300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 2 at 4:41PM MDT by NWS Billings MT\nExpires: 2026-09-02 23:15 Z\nAt 441 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles west of Miles City, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Miles City, Hathaway and Matthews Recreation Area.\nGenerated: 2026-09-02 22:45:17 UTC"
+  46.1600, -106.1600
+  46.3200, -106.4500
+  46.7100, -106.0000
+  46.5100, -105.6200
+  46.1600, -106.1600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 2 at 6:28PM EDT by NWS Raleigh NC\nExpires: 2026-09-02 23:15 Z\nAt 628 PM EDT, Doppler radar was tracking a strong thunderstorm over Bailey, or 18 miles southwest of Nashville, moving southwest at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bailey, Kenly, Middlesex, Sims, Emit, and Buckhorn Reservoir.  This includes the following highways... Interstate 95 between Mile Markers 119 and 105. NC Highway 264 between Mile Markers 24 and 35, and between Mile Markers 37 and 38.\nGenerated: 2026-09-02 22:45:17 UTC"
   35.8600, -78.1500
   35.7300, -77.9900
   35.5500, -78.1300
@@ -15,7 +54,7 @@ Line: 2,,"Special Weather Statement issued September 2 at 6:28PM EDT by NWS Rale
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 5:28PM CDT by NWS Birmingham AL\nExpires: 2026-09-02 23:00 Z\nAt 528 PM CDT, Doppler radar was tracking a strong thunderstorm near Tallassee, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallassee, Milstead, Reeves Airport and Tallapoosa City.\nGenerated: 2026-09-02 22:40:17 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 5:28PM CDT by NWS Birmingham AL\nExpires: 2026-09-02 23:00 Z\nAt 528 PM CDT, Doppler radar was tracking a strong thunderstorm near Tallassee, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tallassee, Milstead, Reeves Airport and Tallapoosa City.\nGenerated: 2026-09-02 22:45:17 UTC"
   32.4400, -85.9900
   32.4700, -86.0600
   32.5800, -86.0200
@@ -25,47 +64,10 @@ Line: 2,,"Special Weather Statement issued September 2 at 5:28PM CDT by NWS Birm
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 4:23PM MDT by NWS Cheyenne WY\nExpires: 2026-09-02 23:00 Z\nAt 423 PM MDT, Doppler radar was tracking a strong thunderstorm over Granite Canon, which is 19 miles west of Cheyenne, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Happy Valley and Table Mountain Ranches around 430 PM MDT. Rocking Star Ranch and Silver Sage Estates around 435 PM MDT.  Other locations in the path of this storm include Ranchettes.\nGenerated: 2026-09-02 22:40:17 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 4:23PM MDT by NWS Cheyenne WY\nExpires: 2026-09-02 23:00 Z\nAt 423 PM MDT, Doppler radar was tracking a strong thunderstorm over Granite Canon, which is 19 miles west of Cheyenne, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Happy Valley and Table Mountain Ranches around 430 PM MDT. Rocking Star Ranch and Silver Sage Estates around 435 PM MDT.  Other locations in the path of this storm include Ranchettes.\nGenerated: 2026-09-02 22:45:17 UTC"
   41.4400, -105.1500
   41.3300, -104.6200
   41.0000, -104.8800
   41.0000, -105.4100
   41.4400, -105.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 5:20PM CDT by NWS New Orleans LA\nExpires: 2026-09-02 22:45 Z\nAt 520 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Saucier, or 21 miles north of Gulfport, moving west at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saucier.\nGenerated: 2026-09-02 22:40:17 UTC"
-  30.6800, -88.9600
-  30.5900, -88.9700
-  30.5000, -89.3400
-  30.6500, -89.3400
-  30.6500, -89.2400
-  30.6800, -89.2400
-  30.6800, -88.9600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 4:18PM MDT by NWS Cheyenne WY\nExpires: 2026-09-02 22:45 Z\nAt 418 PM MDT, Doppler radar was tracking a strong thunderstorm 15 miles southwest of Agate Fossil Beds National Monument, which is 16 miles northeast of Torrington, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of northwestern Box Butte, northwestern Scotts Bluff, southern Sioux and northeastern Goshen Counties, including the following locations... Goshen County Fairgrounds.\nGenerated: 2026-09-02 22:40:17 UTC"
-  41.9300, -103.9800
-  42.1800, -104.3900
-  42.6200, -104.0300
-  42.3000, -103.3300
-  41.9300, -103.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 3:49PM MDT by NWS Great Falls MT\nExpires: 2026-09-02 22:45 Z\nAt 348 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 11 miles west of Kiowa, or 37 miles northeast of Evergreen, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Kiowa.\nGenerated: 2026-09-02 22:40:17 UTC"
-  48.7400, -113.7000
-  48.6500, -113.1300
-  48.4200, -113.3500
-  48.4100, -113.3800
-  48.4600, -113.4800
-  48.5600, -113.4800
-  48.5500, -113.5000
-  48.5900, -113.5400
-  48.5800, -113.6100
-  48.6000, -113.6400
-  48.6000, -113.7100
-  48.6900, -113.7200
-  48.7400, -113.7000
 End:
