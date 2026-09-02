@@ -3,55 +3,58 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-02 00:25:19 UTC
+; Generated: 2026-09-02 00:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 6:11PM MDT by NWS Pocatello ID\nExpires: 2026-09-02 01:00 Z\nAt 611 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms over Carey, moving northwest at 15 mph.  HAZARD...Wind gusts in excess of 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hailey, eastern Ketchum, Sun Valley, Carey, Little Wood Reservoir, Picabo, Bellevue, and Gannett.\nGenerated: 2026-09-02 00:25:19 UTC"
+Line: 2,,"Special Weather Statement issued September 1 at 7:29PM CDT by NWS North Platte NE\nExpires: 2026-09-02 01:15 Z\nAt 729 PM CDT, Doppler radar was tracking a strong thunderstorm near Bassett, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bassett, Newport, and Mariaville.  This includes the following highways... Highway 183 between mile markers 175 and 191. Highway 20 between mile markers 255 and 275. Highway 12 near mile marker 81.\nGenerated: 2026-09-02 00:30:19 UTC"
+  42.4500, -99.5200
+  42.6100, -99.6700
+  42.9300, -99.3300
+  42.6800, -99.0400
+  42.4500, -99.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 1 at 7:28PM CDT by NWS Mobile AL\nExpires: 2026-09-02 01:15 Z\nAt 728 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northeast of I65 And AL 21, or 10 miles northeast of Atmore, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... McCullough, I65 And CR 1, I65 And AL 21, and Poarch Creek Reservation.\nGenerated: 2026-09-02 00:30:19 UTC"
+  31.0300, -87.7900
+  31.2700, -87.7900
+  31.2800, -87.7800
+  31.2900, -87.7900
+  31.2800, -87.6900
+  31.2500, -87.6600
+  31.2400, -87.5900
+  31.2300, -87.5600
+  31.2600, -87.4800
+  31.2500, -87.3200
+  31.0700, -87.3200
+  31.0300, -87.7900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 1 at 6:27PM MDT by NWS Boise ID\nExpires: 2026-09-02 01:00 Z\nAt 626 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms near Lowman, Atlanta, and Highway 21, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... Lowman, Atlanta, Rocky Bar, Clear Creek Summit, Helende Campground, Featherville, Graham Guard Station, Dutch Creek Guard Station, Warm Springs Guard Station, Grandjean, Trinity Lakes, James Creek Summit, and Barber Flat Guard Station.\nGenerated: 2026-09-02 00:30:19 UTC"
+  43.8900, -114.9900
+  43.5900, -115.2300
+  43.6500, -115.6100
+  44.3500, -115.6500
+  44.3300, -115.2900
+  44.2900, -115.2400
+  44.3100, -115.2200
+  44.2800, -115.1700
+  44.2400, -115.1800
+  44.1900, -115.1400
+  44.1600, -115.0300
+  44.1400, -115.0200
+  44.1200, -115.0500
+  44.0800, -115.0000
+  44.0400, -115.0500
+  44.0100, -114.9800
+  43.8900, -114.9900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 1 at 6:11PM MDT by NWS Pocatello ID\nExpires: 2026-09-02 01:00 Z\nAt 611 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms over Carey, moving northwest at 15 mph.  HAZARD...Wind gusts in excess of 45 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hailey, eastern Ketchum, Sun Valley, Carey, Little Wood Reservoir, Picabo, Bellevue, and Gannett.\nGenerated: 2026-09-02 00:30:19 UTC"
   43.0400, -113.8900
   43.0600, -114.1600
   43.6700, -114.3800
   43.5800, -113.7700
   43.0400, -113.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 6:08PM MDT by NWS Goodland KS\nExpires: 2026-09-02 00:30 Z\nAt 607 PM MDT, Doppler radar was tracking a strong thunderstorm over Weskan, or 12 miles west of Sharon Springs, moving north at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Cheyenne, southeastern Kit Carson Counties in east central Colorado and western Wallace Counties in west central Kansas.\nGenerated: 2026-09-02 00:25:19 UTC"
-  39.1200, -102.1500
-  39.1400, -101.8700
-  39.1300, -101.7800
-  38.7700, -101.8600
-  38.7700, -102.1300
-  39.1200, -102.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 7:04PM CDT by NWS Amarillo TX\nExpires: 2026-09-02 00:30 Z\nAt 703 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northwest of Keyes to 3 miles southeast of Texline. Movement was northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Boise City, Texline, Keyes, Kenton, Wheeless, Black Mesa Park, Ware, Felt, and Sturgis.\nGenerated: 2026-09-02 00:25:19 UTC"
-  36.9900, -101.8600
-  35.8500, -103.0400
-  37.0000, -103.0000
-  36.9900, -101.8600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 6:03PM MDT by NWS Boise ID\nExpires: 2026-09-02 00:30 Z\nAt 602 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms 17 miles southeast of Lowman, and 5 miles west of Featherville, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Locations impacted include... Lowman, Pine, Prairie, Rocky Bar, Helende Campground, Featherville, Trinity Lakes, Graham Guard Station, James Creek Summit, Barber Flat Guard Station, Dutch Creek Guard Station, and Anderson Ranch Reservoir.\nGenerated: 2026-09-02 00:25:19 UTC"
-  44.0600, -115.0500
-  44.0200, -115.0300
-  43.4100, -115.3300
-  43.4300, -115.6200
-  44.1500, -115.6800
-  44.1000, -115.0300
-  44.0900, -115.0000
-  44.0600, -115.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 1 at 5:52PM MDT by NWS Boise ID\nExpires: 2026-09-02 00:30 Z\nAt 552 PM MDT, Doppler radar was tracking a strong thunderstorm near Twin Falls, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust reducing visibility. Minor damage to outdoor objects is possible.  Locations impacted include... Twin Falls, Jerome, Kimberly, and Minidoka National Monument.\nGenerated: 2026-09-02 00:25:19 UTC"
-  42.4900, -114.4100
-  42.5600, -114.5700
-  42.8500, -114.4600
-  42.8500, -114.3800
-  42.8100, -114.3500
-  42.8100, -114.2900
-  42.8000, -114.0500
-  42.7600, -114.0400
-  42.4900, -114.4100
 End:
