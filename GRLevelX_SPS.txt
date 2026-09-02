@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-02 20:40:20 UTC
+; Generated: 2026-09-02 20:45:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 2:33PM MDT by NWS Great Falls MT\nExpires: 2026-09-02 21:00 Z\nAt 233 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Highwood, or 22 miles south of Fort Benton, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shonkin.\nGenerated: 2026-09-02 20:40:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 4:43PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-09-02 21:15 Z\nAt 443 PM EDT, Doppler radar was tracking a strong thunderstorm over Belhaven, or 19 miles east of River Road. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Belhaven, Sladesville, Ransomville, Pamlico Beach, Winsteadville, Sidney Crossroads, Yeatesville, and Sydney Crossroads.\nGenerated: 2026-09-02 20:45:18 UTC"
+  35.4300, -76.4100
+  35.3700, -76.7000
+  35.5400, -76.7400
+  35.5900, -76.5600
+  35.4300, -76.4100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 2 at 2:33PM MDT by NWS Great Falls MT\nExpires: 2026-09-02 21:00 Z\nAt 233 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Highwood, or 22 miles south of Fort Benton, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Shonkin.\nGenerated: 2026-09-02 20:45:18 UTC"
   47.4200, -110.4600
   47.4600, -110.7000
   47.7700, -110.6000
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued September 2 at 2:33PM MDT by NWS Grea
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 4:32PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-09-02 21:00 Z\nAt 432 PM EDT, Doppler radar was tracking a strong thunderstorm near Alligator Lake, or 30 miles southeast of Plymouth. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fairfield, Kilkenny, Killkenny, and Alligator Lake.\nGenerated: 2026-09-02 20:40:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 4:32PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-09-02 21:00 Z\nAt 432 PM EDT, Doppler radar was tracking a strong thunderstorm near Alligator Lake, or 30 miles southeast of Plymouth. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fairfield, Kilkenny, Killkenny, and Alligator Lake.\nGenerated: 2026-09-02 20:45:18 UTC"
   35.6700, -76.3600
   35.7100, -76.1600
   35.5600, -76.0300
@@ -23,7 +32,7 @@ Line: 2,,"Special Weather Statement issued September 2 at 4:32PM EDT by NWS Newp
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 4:23PM EDT by NWS Cleveland OH\nExpires: 2026-09-02 21:15 Z\nAt 423 PM EDT, Doppler radar was tracking a strong thunderstorm over Ravenna, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ravenna, Streetsboro, Garrettsville, Windham, Brady Lake, Sugar Bush Knolls, and Wayland.\nGenerated: 2026-09-02 20:40:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 4:23PM EDT by NWS Cleveland OH\nExpires: 2026-09-02 21:15 Z\nAt 423 PM EDT, Doppler radar was tracking a strong thunderstorm over Ravenna, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ravenna, Streetsboro, Garrettsville, Windham, Brady Lake, Sugar Bush Knolls, and Wayland.\nGenerated: 2026-09-02 20:45:18 UTC"
   41.1400, -81.2900
   41.2000, -81.3900
   41.2500, -81.3900
@@ -33,16 +42,7 @@ Line: 2,,"Special Weather Statement issued September 2 at 4:23PM EDT by NWS Clev
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 4:22PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-09-02 20:45 Z\nAt 421 PM EDT, Doppler radar was tracking a strong thunderstorm over Belhaven, or 21 miles east of River Road. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Belhaven, Sladesville, Scranton, Pamlico Beach, Leechville, Winsteadville, Rose Bay, Sidney Crossroads, and Sydney Crossroads.\nGenerated: 2026-09-02 20:40:20 UTC"
-  35.5400, -76.6900
-  35.5900, -76.5100
-  35.4400, -76.3500
-  35.3700, -76.6600
-  35.5400, -76.6900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 4:20PM EDT by NWS Wakefield VA\nExpires: 2026-09-02 21:00 Z\nAt 420 PM EDT, Doppler radar was tracking a strong thunderstorm near Highland Springs, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Chester around 450 PM EDT.  Other locations impacted by this storm include Richmond International, Fair Oaks, Meadowville, Wayside, Varina, Elko, Sandston, Glendale, and Montrose.\nGenerated: 2026-09-02 20:40:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 4:20PM EDT by NWS Wakefield VA\nExpires: 2026-09-02 21:00 Z\nAt 420 PM EDT, Doppler radar was tracking a strong thunderstorm near Highland Springs, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This strong thunderstorm will be near... Chester around 450 PM EDT.  Other locations impacted by this storm include Richmond International, Fair Oaks, Meadowville, Wayside, Varina, Elko, Sandston, Glendale, and Montrose.\nGenerated: 2026-09-02 20:45:18 UTC"
   37.5500, -77.3600
   37.5200, -77.2100
   37.4800, -77.1700
@@ -59,25 +59,7 @@ Line: 2,,"Special Weather Statement issued September 2 at 4:20PM EDT by NWS Wake
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 2:16PM MDT by NWS Great Falls MT\nExpires: 2026-09-02 20:45 Z\nAt 216 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Denton, or 26 miles northeast of Stanford, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Fergus and southeastern Chouteau Counties.\nGenerated: 2026-09-02 20:40:20 UTC"
-  47.3800, -109.9800
-  47.5600, -110.1000
-  47.7100, -109.6900
-  47.4900, -109.5600
-  47.3800, -109.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 3:11PM CDT by NWS Amarillo TX\nExpires: 2026-09-02 20:45 Z\nAt 311 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Mescalero Park, or 8 miles north of Canyon, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Amarillo and Mescalero Park.  This includes the following highways... Interstate 27 between mile markers 114 and 123. Interstate 40 between mile markers 60 and 80.\nGenerated: 2026-09-02 20:40:20 UTC"
-  35.0500, -101.9900
-  35.1500, -102.0700
-  35.3700, -101.8000
-  35.1700, -101.6300
-  35.0500, -101.9900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 2:08PM MDT by NWS Missoula MT\nExpires: 2026-09-02 21:00 Z\nAt 208 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 9 miles northeast of Turtle Lake to 6 miles east of Seeley Lake, or extending from 10 miles northeast of Polson to 37 miles north of Drummond, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Swan Lake, Seeley Lake, Kings Point, Condon, Salmon Prairie and Finley Point.\nGenerated: 2026-09-02 20:40:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 2:08PM MDT by NWS Missoula MT\nExpires: 2026-09-02 21:00 Z\nAt 208 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 9 miles northeast of Turtle Lake to 6 miles east of Seeley Lake, or extending from 10 miles northeast of Polson to 37 miles north of Drummond, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Swan Lake, Seeley Lake, Kings Point, Condon, Salmon Prairie and Finley Point.\nGenerated: 2026-09-02 20:45:18 UTC"
   48.1200, -113.4500
   47.7300, -113.1500
   47.7200, -113.1700
@@ -94,27 +76,4 @@ Line: 2,,"Special Weather Statement issued September 2 at 2:08PM MDT by NWS Miss
   47.4800, -113.8200
   47.7800, -114.1700
   48.1200, -113.4500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 2:07PM MDT by NWS Rapid City SD\nExpires: 2026-09-02 20:45 Z\nAt 207 PM MDT, Doppler radar was tracking a shower.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Edgemont, Dewey, Pringle, Morrisey, Clareton, Argyle, Rochelle, Elk Mountain Lookout, Burdock, Jewel Cave National Monument, Cottonwood Springs Dam and Cascade Falls.\nGenerated: 2026-09-02 20:40:20 UTC"
-  43.7200, -105.0700
-  43.8100, -104.6100
-  43.8200, -103.8600
-  43.6300, -103.5500
-  43.3200, -103.4700
-  43.2800, -103.5500
-  43.1600, -104.0500
-  43.5000, -104.0500
-  43.5000, -105.0700
-  43.7200, -105.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 4:05PM EDT by NWS Cleveland OH\nExpires: 2026-09-02 20:45 Z\nAt 405 PM EDT, Doppler radar was tracking a strong thunderstorm near North Bloomfield, or 14 miles north of Warren, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cortland, Kinsman, North Bloomfield, Andover, Mecca, Johnston, and Orangeville.\nGenerated: 2026-09-02 20:40:20 UTC"
-  41.3400, -80.5200
-  41.3800, -80.8700
-  41.4900, -80.9100
-  41.6400, -80.5200
-  41.3400, -80.5200
 End:
