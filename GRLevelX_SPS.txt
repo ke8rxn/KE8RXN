@@ -3,33 +3,59 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-02 17:55:16 UTC
+; Generated: 2026-09-02 18:00:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 11:52AM MDT by NWS Grand Junction CO\nExpires: 2026-09-02 18:30 Z\nAt 1151 AM MDT, Doppler radar was tracking a strong thunderstorm 23 miles northeast of Castle Valley, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cisco.  This includes the following highways... Interstate 70 in Colorado between mile markers 1 and 5. Interstate 70 in Utah between mile markers 215 and 231. Utah 128 between mile markers 33 and 41.\nGenerated: 2026-09-02 17:55:16 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 11:56AM MDT by NWS Missoula MT\nExpires: 2026-09-02 18:30 Z\nAt 1156 AM MDT, Doppler radar was tracking a strong thunderstorm 14 miles north of Gibbonsville, or 34 miles south of Hamilton, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sula and Lost Trail Pass.\nGenerated: 2026-09-02 18:00:24 UTC"
+  46.0900, -114.0100
+  46.0000, -113.5600
+  45.8300, -113.7100
+  45.7900, -113.7800
+  45.7600, -113.8100
+  45.7500, -113.8500
+  45.7800, -113.8700
+  45.7700, -113.9000
+  45.7500, -113.9200
+  45.7200, -113.9000
+  45.7000, -113.9100
+  45.6900, -113.9600
+  45.7000, -113.9900
+  45.6900, -114.0200
+  45.6800, -114.0300
+  45.6700, -114.0200
+  45.7200, -114.1800
+  46.0900, -114.0100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 2 at 11:54AM MDT by NWS Great Falls MT\nExpires: 2026-09-02 19:00 Z\nAt 1154 AM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 9 miles north of Gibbonsville to 13 miles east of North Fork to 12 miles southeast of Salmon. Movement was northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wisdom, Jackson, and Polaris.\nGenerated: 2026-09-02 18:00:24 UTC"
+  45.7800, -113.8700
+  45.7600, -113.8500
+  45.8400, -113.7000
+  45.8800, -113.5400
+  45.9400, -113.5100
+  45.7500, -113.3600
+  45.8100, -113.3300
+  45.8800, -113.1800
+  45.8800, -113.1000
+  45.8100, -113.0000
+  45.4800, -112.9100
+  45.1000, -113.5100
+  45.3300, -113.7400
+  45.3900, -113.7300
+  45.4100, -113.7800
+  45.5000, -113.7600
+  45.5200, -113.8300
+  45.5900, -113.8000
+  45.6200, -113.9000
+  45.6900, -113.9400
+  45.7800, -113.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 2 at 11:52AM MDT by NWS Grand Junction CO\nExpires: 2026-09-02 18:30 Z\nAt 1151 AM MDT, Doppler radar was tracking a strong thunderstorm 23 miles northeast of Castle Valley, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cisco.  This includes the following highways... Interstate 70 in Colorado between mile markers 1 and 5. Interstate 70 in Utah between mile markers 215 and 231. Utah 128 between mile markers 33 and 41.\nGenerated: 2026-09-02 18:00:24 UTC"
   38.7900, -109.2400
   38.9200, -109.3800
   39.3100, -109.0600
   39.0200, -108.7300
   38.7900, -109.2400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 11:29AM MDT by NWS Missoula MT\nExpires: 2026-09-02 18:00 Z\nAt 1129 AM MDT, Doppler radar was tracking a strong thunderstorm 13 miles northwest of North Fork, or 29 miles northwest of Salmon, moving north at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lost Trail Pass.\nGenerated: 2026-09-02 17:55:16 UTC"
-  45.4900, -114.3300
-  45.8300, -114.2800
-  45.7600, -113.8400
-  45.7500, -113.8500
-  45.7600, -113.8500
-  45.7600, -113.9000
-  45.7500, -113.9200
-  45.7300, -113.9000
-  45.7300, -113.9100
-  45.7200, -113.9000
-  45.7100, -113.9100
-  45.7000, -113.9100
-  45.7000, -113.9400
-  45.6700, -113.9300
-  45.6500, -113.9100
-  45.4400, -114.0600
-  45.4900, -114.3300
 End:
