@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-03 10:25:14 UTC
+; Generated: 2026-09-03 10:30:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 6:15AM EDT by NWS State College PA\nExpires: 2026-09-03 11:00 Z\nAt 613 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 2 miles south of Elgin to 6 miles west  of Grand Valley to 10 miles north of Oil City. Movement was southeast at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheffield, Garland, Grand Valley, Chapman State Park, and Tidioute.\nGenerated: 2026-09-03 10:25:14 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 6:29AM EDT by NWS Cleveland OH\nExpires: 2026-09-03 11:15 Z\nAt 628 AM EDT, Doppler radar was tracking a strong thunderstorm near Middlefield, or 10 miles southeast of Chardon, moving east at 70 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warren, Chardon, Niles, Hubbard, Cortland, South Russell, Middlefield, Kinsman, North Bloomfield, Orwell, Burton, Andover, West Farmington, Chesterland, Vienna Center, Bristolville, Leavittsburg, Maplewood Park, Girard, and Kirtland.\nGenerated: 2026-09-03 10:30:20 UTC"
+  41.6900, -80.5200
+  41.1400, -80.5200
+  41.1300, -80.5400
+  41.3200, -81.1100
+  41.3200, -81.1200
+  41.3300, -81.1300
+  41.4400, -81.4800
+  41.7000, -81.2000
+  41.6900, -80.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 3 at 6:15AM EDT by NWS State College PA\nExpires: 2026-09-03 11:00 Z\nAt 613 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 2 miles south of Elgin to 6 miles west  of Grand Valley to 10 miles north of Oil City. Movement was southeast at 50 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Sheffield, Garland, Grand Valley, Chapman State Park, and Tidioute.\nGenerated: 2026-09-03 10:30:20 UTC"
   41.8700, -79.6100
   41.7300, -78.9500
   41.6300, -78.9600
@@ -16,24 +29,4 @@ Line: 2,,"Special Weather Statement issued September 3 at 6:15AM EDT by NWS Stat
   41.6300, -79.2300
   41.6300, -79.6100
   41.8700, -79.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 5:07AM CDT by NWS Rapid City SD\nExpires: 2026-09-03 10:30 Z\nAt 507 AM CDT, Doppler radar was tracking a strong thunderstorm 5 miles north of Littleburg, or 17 miles southeast of Mission, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Winner, Mission, Okreek, Millboro, Keyapaha, Hidden Timber, Littleburg, Clearfield, Sicangu Village, Antelope, Ideal South Housing, Lakeview, Wewela, Haystack Butte, Dog Ear Lake and Rosebud Reservation.\nGenerated: 2026-09-03 10:25:14 UTC"
-  43.3800, -100.2100
-  43.3900, -99.7400
-  43.0000, -99.7700
-  43.0000, -100.9400
-  43.3800, -100.6500
-  43.3800, -100.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 4:55AM CDT by NWS North Platte NE\nExpires: 2026-09-03 10:30 Z\nAt 455 AM CDT, Doppler radar was tracking gusty showers over Valentine, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Valentine, Kilgore, Crookston, Anderson Bridge State Wildlife Management Area, Smith Falls State Park, Schlagel Creek State Wildlife Management Area, Highway 97 crossing the Niobrara River, and Sparks.  This includes the following highways... Highway 20 between mile markers 172 and 211. Highway 97 between mile markers 119 and 141. Highway 83 between mile markers 200 and 222. Highway 12 between mile markers 1 and 22.\nGenerated: 2026-09-03 10:25:14 UTC"
-  42.7500, -100.1900
-  42.6600, -100.9400
-  42.9800, -101.0400
-  43.0000, -100.8900
-  42.9900, -100.2000
-  42.7500, -100.1900
 End:
