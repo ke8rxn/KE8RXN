@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-03 21:25:18 UTC
+; Generated: 2026-09-03 21:30:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 4:23PM CDT by NWS Amarillo TX\nExpires: 2026-09-03 22:00 Z\nAt 423 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Bushland, or 8 miles west of Amarillo, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Amarillo, Canyon, Mescalero Park, and Bushland.  This includes the following highways... Interstate 27 between mile markers 110 and 122. Interstate 40 between mile markers 52 and 70.\nGenerated: 2026-09-03 21:25:18 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 4:25PM CDT by NWS Birmingham AL\nExpires: 2026-09-03 21:45 Z\nAt 425 PM CDT, Doppler radar was tracking a strong thunderstorm near Fayette, moving west at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fayette, Belk, Bevill State College Fayette, Stone Wall, and Richard Arthur Field.\nGenerated: 2026-09-03 21:30:19 UTC"
+  33.7700, -87.9500
+  33.7400, -87.7700
+  33.5800, -87.7800
+  33.5900, -87.9500
+  33.7700, -87.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 3 at 4:23PM CDT by NWS Amarillo TX\nExpires: 2026-09-03 22:00 Z\nAt 423 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Bushland, or 8 miles west of Amarillo, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Amarillo, Canyon, Mescalero Park, and Bushland.  This includes the following highways... Interstate 27 between mile markers 110 and 122. Interstate 40 between mile markers 52 and 70.\nGenerated: 2026-09-03 21:30:19 UTC"
   35.0700, -102.1700
   35.2100, -102.1700
   35.3200, -102.1200
@@ -15,7 +24,7 @@ Line: 2,,"Special Weather Statement issued September 3 at 4:23PM CDT by NWS Amar
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 5:16PM EDT by NWS Northern Indiana\nExpires: 2026-09-03 21:45 Z\nAt 515 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Napoleon, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Napoleon, Deshler, Liberty Center, Mcclure, Hamler, Texas, Malinta, Florida, Colton, Grelton, Gerald, and Elery.\nGenerated: 2026-09-03 21:25:18 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 5:16PM EDT by NWS Northern Indiana\nExpires: 2026-09-03 21:45 Z\nAt 515 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Napoleon, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Napoleon, Deshler, Liberty Center, Mcclure, Hamler, Texas, Malinta, Florida, Colton, Grelton, Gerald, and Elery.\nGenerated: 2026-09-03 21:30:19 UTC"
   41.2900, -84.2100
   41.4900, -84.1900
   41.4900, -84.1600
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued September 3 at 5:16PM EDT by NWS Nort
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 4:07PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-03 22:00 Z\nAt 407 PM CDT, Doppler radar was tracking a strong thunderstorm 21 miles southeast of Fort Stockton, moving west at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of central Pecos County.\nGenerated: 2026-09-03 21:25:18 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 4:07PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-03 22:00 Z\nAt 407 PM CDT, Doppler radar was tracking a strong thunderstorm 21 miles southeast of Fort Stockton, moving west at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of central Pecos County.\nGenerated: 2026-09-03 21:30:19 UTC"
   30.7400, -102.5300
   30.6300, -102.5200
   30.5600, -102.7100
@@ -34,50 +43,7 @@ Line: 2,,"Special Weather Statement issued September 3 at 4:07PM CDT by NWS Midl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 4:05PM CDT by NWS Lubbock TX\nExpires: 2026-09-03 21:30 Z\nAt 403 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Vigo Park, or 16 miles northwest of Silverton, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vigo Park.\nGenerated: 2026-09-03 21:25:18 UTC"
-  34.5900, -101.0900
-  34.6000, -101.5500
-  34.7500, -101.5600
-  34.7500, -101.0900
-  34.5900, -101.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 4:03PM CDT by NWS Amarillo TX\nExpires: 2026-09-03 21:30 Z\nAt 403 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Goodnight, or 17 miles west of Clarendon, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Clarendon, Howardwick, Wayside, Greenbelt Lake, and Goodnight.\nGenerated: 2026-09-03 21:25:18 UTC"
-  35.1600, -101.1000
-  35.0400, -100.7200
-  34.7500, -100.9300
-  34.7500, -101.6000
-  35.1600, -101.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 3:57PM CDT by NWS New Orleans LA\nExpires: 2026-09-03 21:30 Z\nAt 357 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Labadieville, or 15 miles southwest of Thibodaux, moving southwest at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of South Central Assumption Parish.\nGenerated: 2026-09-03 21:25:18 UTC"
-  29.7300, -91.1100
-  29.7400, -91.1000
-  29.7600, -91.0900
-  29.7500, -90.9800
-  29.7100, -91.0100
-  29.7200, -90.9500
-  29.6500, -90.9100
-  29.4200, -91.0500
-  29.6000, -91.2000
-  29.6100, -91.1800
-  29.5900, -91.1600
-  29.6000, -91.1500
-  29.6000, -91.1400
-  29.6100, -91.1400
-  29.6100, -91.1200
-  29.6200, -91.1200
-  29.6200, -91.0800
-  29.6300, -91.0900
-  29.6400, -91.1100
-  29.7000, -91.1000
-  29.7300, -91.1100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 3:54PM CDT by NWS Jackson MS\nExpires: 2026-09-03 22:00 Z\nAt 353 PM CDT, Doppler radar was tracking a strong thunderstorm near Melba, or 12 miles southwest of Collins, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Bassfield and Carson around 400 PM CDT. Bunker Hill around 405 PM CDT. Society Hill around 420 PM CDT. Goss around 430 PM CDT. Progress around 440 PM CDT.\nGenerated: 2026-09-03 21:25:18 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 3:54PM CDT by NWS Jackson MS\nExpires: 2026-09-03 22:00 Z\nAt 353 PM CDT, Doppler radar was tracking a strong thunderstorm near Melba, or 12 miles southwest of Collins, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Bassfield and Carson around 400 PM CDT. Bunker Hill around 405 PM CDT. Society Hill around 420 PM CDT. Goss around 430 PM CDT. Progress around 440 PM CDT.\nGenerated: 2026-09-03 21:30:19 UTC"
   31.0500, -89.8400
   31.0700, -89.8400
   31.0800, -89.8500
@@ -87,36 +53,4 @@ Line: 2,,"Special Weather Statement issued September 3 at 3:54PM CDT by NWS Jack
   31.0000, -89.7100
   31.0000, -89.8100
   31.0500, -89.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 3:37PM CDT by NWS Jackson MS\nExpires: 2026-09-03 21:30 Z\nAt 336 PM CDT, Doppler radar was tracking a strong thunderstorm near Ludlow, or 14 miles northwest of Morton, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Leesburg, Goshen Springs, and Pisgah around 340 PM CDT. Fannin around 400 PM CDT.\nGenerated: 2026-09-03 21:25:18 UTC"
-  32.4600, -89.6600
-  32.2900, -90.0100
-  32.6300, -90.1200
-  32.7000, -89.7400
-  32.6600, -89.7300
-  32.5800, -89.7300
-  32.5800, -89.7000
-  32.4600, -89.6600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 3:30PM CDT by NWS Jackson MS\nExpires: 2026-09-03 21:30 Z\nAt 329 PM CDT, Doppler radar was tracking a strong thunderstorm over Star, or near Florence, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Jackson, Florence, Whites, and Harrisville around 335 PM CDT.\nGenerated: 2026-09-03 21:25:18 UTC"
-  32.0100, -90.2300
-  32.0200, -90.2200
-  32.0200, -90.2300
-  32.0300, -90.2500
-  32.0400, -90.2300
-  32.0900, -90.2300
-  32.0900, -90.2500
-  32.1000, -90.2400
-  32.1100, -90.2500
-  32.1400, -90.2400
-  32.1500, -90.2500
-  32.1900, -90.0000
-  31.9000, -89.4100
-  31.7800, -89.6500
-  31.7700, -89.8500
-  32.0100, -90.2300
 End:
