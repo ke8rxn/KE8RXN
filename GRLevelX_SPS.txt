@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-03 06:10:17 UTC
+; Generated: 2026-09-03 06:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 2:01AM EDT by NWS Grand Rapids MI\nExpires: 2026-09-03 06:45 Z\nAt 200 AM EDT, Doppler radar was tracking a strong thunderstorm near East Lansing, or 8 miles northeast of Lansing, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lansing...             East Lansing...        Williamston... DeWitt...              Capital Region Inter...Webberville... Okemos...              Bell Oak...            Bath... Haslett...\nGenerated: 2026-09-03 06:10:17 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 2:12AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-09-03 07:15 Z\nAt 212 AM EDT, Doppler radar indicated a strong thunderstorm near Birmingham, or near Pontiac, moving southeast at 45 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and damage unsecured objects.  This strong thunderstorm will be near... Troy, Southfield, Royal Oak, and Birmingham around 215 AM EDT. Warren and Sterling Heights around 220 AM EDT. Clinton Township around 225 AM EDT. St. Clair Shores around 230 AM EDT.  Other locations impacted by this storm include Anchorville, Franklin, Keego Harbor, Orchard Lake, Roseville, Shelby Township, Utica, Bingham Farms, Lathrup Village, and Auburn Hills.\nGenerated: 2026-09-03 06:15:15 UTC"
+  42.6100, -82.5200
+  42.5500, -82.6100
+  42.5500, -82.6500
+  42.5000, -82.7000
+  42.5400, -82.7600
+  42.5400, -82.8100
+  42.4400, -82.8300
+  42.3600, -82.8800
+  42.3200, -83.0600
+  42.2900, -83.1000
+  42.4800, -83.4400
+  42.7300, -83.3100
+  42.7000, -82.4900
+  42.6100, -82.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 3 at 2:01AM EDT by NWS Grand Rapids MI\nExpires: 2026-09-03 06:45 Z\nAt 200 AM EDT, Doppler radar was tracking a strong thunderstorm near East Lansing, or 8 miles northeast of Lansing, moving east at 40 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lansing...             East Lansing...        Williamston... DeWitt...              Capital Region Inter...Webberville... Okemos...              Bell Oak...            Bath... Haslett...\nGenerated: 2026-09-03 06:15:15 UTC"
   42.7000, -84.5800
   42.8800, -84.5800
   42.8600, -84.3700
@@ -13,51 +31,4 @@ Line: 2,,"Special Weather Statement issued September 3 at 2:01AM EDT by NWS Gran
   42.7800, -84.1600
   42.6000, -84.1400
   42.7000, -84.5800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 1:36AM EDT by NWS Cleveland OH\nExpires: 2026-09-03 06:15 Z\nAt 136 AM EDT, Doppler radar was tracking a strong thunderstorm near Lincolnville, or 14 miles northeast of Meadville, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Titusville, Cambridge Springs, Riceville, Canadohta Lake, Guys Mills, Lincolnville, Hydetown, Blooming Valley, Townville, Venango, and Woodcock.\nGenerated: 2026-09-03 06:10:17 UTC"
-  41.6200, -79.8200
-  41.5700, -79.8800
-  41.5700, -79.8900
-  41.5500, -79.9200
-  41.5400, -79.9300
-  41.8000, -80.1600
-  41.8600, -79.9300
-  41.8500, -79.7900
-  41.7500, -79.6100
-  41.6200, -79.6100
-  41.6200, -79.8200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 1:24AM EDT by NWS Cleveland OH\nExpires: 2026-09-03 06:15 Z\nAt 124 AM EDT, Doppler radar was tracking a strong thunderstorm near Fairport Harbor, moving east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Painesville, Fairport Harbor, Mentor, Geneva, Madison, Kinsman, Perry, Orwell, Andover, Linesville, Pymatuning North, Pymatuning Central, Mentor-On-The-Lake, Austinburg, Montville, Hartsgrove, Roaming Shores, Pierpont, Cherry Valley, and North Perry.\nGenerated: 2026-09-03 06:10:17 UTC"
-  41.7000, -80.3100
-  41.4200, -80.6300
-  41.7200, -81.3600
-  41.7600, -81.2900
-  41.7600, -81.2400
-  41.8100, -81.1300
-  41.8500, -81.0300
-  41.7000, -80.3100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 11:11PM MDT by NWS Cheyenne WY\nExpires: 2026-09-03 06:15 Z\nAt 1111 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Bayard, or 19 miles east of Scottsbluff, moving northeast at 45 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Alliance, Bayard, Berea, Alliance Municipal Airport, Angora, Wild Horse Butte, The Intersection Of Highway 385 And L62 and Moomaw Corner.\nGenerated: 2026-09-03 06:10:17 UTC"
-  42.0000, -103.3700
-  42.5500, -102.8000
-  42.5100, -102.7700
-  42.4400, -102.7700
-  42.4400, -102.7500
-  42.2500, -102.7500
-  42.1800, -102.7400
-  42.0900, -102.7400
-  42.0900, -102.7000
-  42.0000, -102.7000
-  42.0100, -102.6800
-  42.0000, -102.6800
-  41.7300, -103.3200
-  41.8500, -103.3600
-  42.0000, -103.3600
-  42.0000, -103.3700
 End:
