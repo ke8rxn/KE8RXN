@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-03 00:10:20 UTC
+; Generated: 2026-09-03 00:15:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 7:03PM CDT by NWS Houston/Galveston TX\nExpires: 2026-09-03 00:30 Z\nAt 702 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near North Cleveland to 7 miles north of Patton Village to near Splendora. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Splendora, Plum Grove, North Cleveland, and Tarkington Prairie.\nGenerated: 2026-09-03 00:10:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 7:03PM CDT by NWS Houston/Galveston TX\nExpires: 2026-09-03 00:30 Z\nAt 702 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near North Cleveland to 7 miles north of Patton Village to near Splendora. Movement was east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Splendora, Plum Grove, North Cleveland, and Tarkington Prairie.\nGenerated: 2026-09-03 00:15:19 UTC"
   30.3900, -94.9400
   30.3500, -94.9400
   30.2100, -95.0000
@@ -17,7 +17,7 @@ Line: 2,,"Special Weather Statement issued September 2 at 7:03PM CDT by NWS Hous
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 7:58PM EDT by NWS Cleveland OH\nExpires: 2026-09-03 00:45 Z\nAt 758 PM EDT, Doppler radar was tracking a strong thunderstorm over Mantua, or 7 miles north of Ravenna, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Warren, Niles, Streetsboro, Newton Falls, Lordstown, Garrettsville, Mantua, West Farmington, Bristolville, Leavittsburg, Aurora, Parkman, Windham, Hiram, Bolindale, Turnpike Interchange, Champion Heights, and South Canal.\nGenerated: 2026-09-03 00:10:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 7:58PM EDT by NWS Cleveland OH\nExpires: 2026-09-03 00:45 Z\nAt 758 PM EDT, Doppler radar was tracking a strong thunderstorm over Mantua, or 7 miles north of Ravenna, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Warren, Niles, Streetsboro, Newton Falls, Lordstown, Garrettsville, Mantua, West Farmington, Bristolville, Leavittsburg, Aurora, Parkman, Windham, Hiram, Bolindale, Turnpike Interchange, Champion Heights, and South Canal.\nGenerated: 2026-09-03 00:15:19 UTC"
   41.2000, -81.2500
   41.2900, -81.3700
   41.3800, -81.2100
@@ -28,33 +28,7 @@ Line: 2,,"Special Weather Statement issued September 2 at 7:58PM EDT by NWS Clev
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 5:55PM MDT by NWS Riverton WY\nExpires: 2026-09-03 00:15 Z\nAt 555 PM MDT, Doppler radar was tracking a strong thunderstorm outflow over Lander, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Hudson around 600 PM MDT.\nGenerated: 2026-09-03 00:10:20 UTC"
-  42.8500, -108.8600
-  43.0200, -108.6500
-  42.8600, -108.3600
-  42.7200, -108.6800
-  42.7500, -108.7200
-  42.7600, -108.7200
-  42.7800, -108.7300
-  42.7800, -108.7600
-  42.8500, -108.8600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 6:47PM CDT by NWS Lake Charles LA\nExpires: 2026-09-03 00:15 Z\nAt 647 PM CDT, Doppler radar was tracking a strong thunderstorm near Wildwood, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warren, Thicket, Wildwood, Votaw, Honey Island, Village Mills, and Ivanhoe.\nGenerated: 2026-09-03 00:10:20 UTC"
-  30.4900, -94.5400
-  30.5100, -94.5400
-  30.6600, -94.5800
-  30.7000, -94.4200
-  30.5100, -94.3900
-  30.3400, -94.4400
-  30.3700, -94.6900
-  30.4900, -94.7300
-  30.4900, -94.5400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 5:46PM MDT by NWS Glasgow MT\nExpires: 2026-09-03 00:45 Z\nAt 546 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Zortman, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Malta, Zortman, Dodson, Phillips, Bowdoin, and Wagner.\nGenerated: 2026-09-03 00:10:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 5:46PM MDT by NWS Glasgow MT\nExpires: 2026-09-03 00:45 Z\nAt 546 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Zortman, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Malta, Zortman, Dodson, Phillips, Bowdoin, and Wagner.\nGenerated: 2026-09-03 00:15:19 UTC"
   47.9800, -108.5300
   47.9800, -108.4300
   48.4400, -108.4100
@@ -67,50 +41,10 @@ Line: 2,,"Special Weather Statement issued September 2 at 5:46PM MDT by NWS Glas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 6:46PM CDT by NWS Amarillo TX\nExpires: 2026-09-03 00:15 Z\nAt 646 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Vega, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Amarillo, Vega, Wildorado, and Bushland.  This includes Interstate 40 between mile markers 34 and 67.\nGenerated: 2026-09-03 00:10:20 UTC"
-  35.1000, -102.4500
-  35.3300, -102.4800
-  35.4400, -101.9000
-  35.1600, -101.8800
-  35.1000, -102.4500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 7:45PM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-09-03 00:15 Z\nAt 745 PM EDT, Doppler radar was tracking a strong thunderstorm over Carsonville, or near Sandusky, moving southeast at 50 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Croswell, Lexington, Port Sanilac, Carsonville, Applegate, Watertown, Forester, and McGregor.\nGenerated: 2026-09-03 00:10:20 UTC"
-  43.3400, -82.8400
-  43.5100, -82.7600
-  43.5500, -82.5700
-  43.3400, -82.4900
-  43.2500, -82.4800
-  43.3400, -82.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 6:40PM CDT by NWS Houston/Galveston TX\nExpires: 2026-09-03 00:15 Z\nAt 640 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles north of Votaw, or 10 miles north of Thicket, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Segno.\nGenerated: 2026-09-03 00:10:20 UTC"
-  30.4900, -94.7300
-  30.5900, -94.7900
-  30.6600, -94.5800
-  30.4900, -94.5400
-  30.4900, -94.7300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 5:37PM MDT by NWS Glasgow MT\nExpires: 2026-09-03 00:30 Z\nAt 537 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Bredette, or 14 miles north of Poplar, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bredette.\nGenerated: 2026-09-03 00:10:20 UTC"
+Line: 2,,"Special Weather Statement issued September 2 at 5:37PM MDT by NWS Glasgow MT\nExpires: 2026-09-03 00:30 Z\nAt 537 PM MDT, Doppler radar was tracking a strong thunderstorm 13 miles south of Bredette, or 14 miles north of Poplar, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bredette.\nGenerated: 2026-09-03 00:15:19 UTC"
   48.2500, -105.1200
   48.2500, -105.4200
   48.6500, -105.5400
   48.6600, -104.9400
   48.2500, -105.1200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 2 at 7:20PM EDT by NWS Raleigh NC\nExpires: 2026-09-03 00:15 Z\nAt 720 PM EDT, Doppler radar was tracking a strong thunderstorm near Fremont, or 7 miles north of Goldsboro, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Goldsboro, Fremont, Princeton, Pikeville, Eureka, Mar-Mac, Brogden, Nahunta, and Elroy.\nGenerated: 2026-09-03 00:10:20 UTC"
-  35.2300, -77.9900
-  35.4900, -78.2400
-  35.5800, -77.9000
-  35.4900, -77.8200
-  35.4800, -77.8300
-  35.4300, -77.8300
-  35.4000, -77.8000
-  35.2300, -77.9900
 End:
