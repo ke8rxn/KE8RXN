@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-04 11:55:18 UTC
+; Generated: 2026-09-04 12:00:25 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 4 at 6:53AM CDT by NWS Green Bay WI\nExpires: 2026-09-04 12:30 Z\nAt 653 AM CDT, Doppler radar was tracking a strong thunderstorm near Napowan Scout Camp, or 11 miles east of Wautoma, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Lake Poygan around 705 AM CDT.  Other locations impacted by this storm include Saxeville, Mount Morris, Orihula, Rivermoor, Auroraville, Borth, Winneconne, Silver Lake, Spring Lake, and Lohrville.\nGenerated: 2026-09-04 11:55:18 UTC"
+Line: 2,,"Special Weather Statement issued September 4 at 7:59AM EDT by NWS Cleveland OH\nExpires: 2026-09-04 12:45 Z\nAt 759 AM EDT, Doppler radar was tracking a strong thunderstorm near Oregon, or 12 miles east of Toledo, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Clinton, Oregon, Northwood, Oak Harbor, Millbury, Marblehead, Rocky Ridge, Clay Center, Reno Beach, Williston, and Bono.\nGenerated: 2026-09-04 12:00:25 UTC"
+  41.6900, -83.4200
+  41.7100, -83.3300
+  41.6400, -83.2300
+  41.6100, -83.0800
+  41.5200, -82.9700
+  41.5100, -82.9900
+  41.5200, -82.8900
+  41.5800, -82.8300
+  41.5500, -82.8000
+  41.5300, -82.8200
+  41.5300, -82.7100
+  41.5000, -82.7100
+  41.5100, -82.8100
+  41.4900, -82.9600
+  41.4500, -83.0400
+  41.4500, -83.1400
+  41.5500, -83.3200
+  41.5600, -83.4200
+  41.6900, -83.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 4 at 6:53AM CDT by NWS Green Bay WI\nExpires: 2026-09-04 12:30 Z\nAt 653 AM CDT, Doppler radar was tracking a strong thunderstorm near Napowan Scout Camp, or 11 miles east of Wautoma, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Lake Poygan around 705 AM CDT.  Other locations impacted by this storm include Saxeville, Mount Morris, Orihula, Rivermoor, Auroraville, Borth, Winneconne, Silver Lake, Spring Lake, and Lohrville.\nGenerated: 2026-09-04 12:00:25 UTC"
   43.9300, -88.8900
   43.9800, -88.8900
   43.9800, -89.2500
@@ -13,19 +36,4 @@ Line: 2,,"Special Weather Statement issued September 4 at 6:53AM CDT by NWS Gree
   44.2400, -88.6800
   43.9200, -88.6900
   43.9300, -88.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 4 at 6:32AM EDT by NWS Detroit/Pontiac MI\nExpires: 2026-09-04 12:00 Z\nAt 631 AM EDT, Doppler radar was tracking a strong thunderstorm over Brooklyn, or 8 miles west of Manchester, moving southeast at 35 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Adrian, Monroe, Saline, Tecumseh, Milan, Chelsea, Dundee, Blissfield, Manchester, Temperance, Ida, Luna Pier, Petersburg, Onsted, Deerfield, Addison, Britton, Maybee, Cement City, and Clayton.\nGenerated: 2026-09-04 11:55:18 UTC"
-  41.8900, -84.3600
-  42.0700, -84.3600
-  42.0700, -84.1300
-  42.3800, -84.1300
-  41.9100, -83.2300
-  41.9000, -83.3000
-  41.8400, -83.3500
-  41.7200, -83.4100
-  41.7300, -83.4700
-  41.7100, -84.1100
-  41.8900, -84.3600
 End:
