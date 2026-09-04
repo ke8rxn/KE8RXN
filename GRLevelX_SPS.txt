@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-04 01:40:18 UTC
+; Generated: 2026-09-04 01:50:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 8:34PM CDT by NWS La Crosse WI\nExpires: 2026-09-04 02:00 Z\nAt 834 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Plainfield, or 14 miles northeast of Friendship, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Juneau and northern Adams Counties, including the following locations... Lake Arrowhead, Colburn, Highways 13 And 21, County Roads G And O, County Roads G And M, The Colburn Wildlife Area, County Roads O And W, County Roads D And G, The Leola Marsh Wildlife Area, and Cottonville.\nGenerated: 2026-09-04 01:40:18 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 8:48PM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-09-04 02:15 Z\nAt 848 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles north of Brandon, or 18 miles north of Alexandria, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Millerville and Leaf Valley.\nGenerated: 2026-09-04 01:50:13 UTC"
+  46.0700, -95.6100
+  46.1100, -95.6100
+  46.1100, -95.2900
+  46.0000, -95.3200
+  46.0700, -95.6100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 3 at 8:34PM CDT by NWS La Crosse WI\nExpires: 2026-09-04 02:00 Z\nAt 834 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Plainfield, or 14 miles northeast of Friendship, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Juneau and northern Adams Counties, including the following locations... Lake Arrowhead, Colburn, Highways 13 And 21, County Roads G And O, County Roads G And M, The Colburn Wildlife Area, County Roads O And W, County Roads D And G, The Leola Marsh Wildlife Area, and Cottonville.\nGenerated: 2026-09-04 01:50:13 UTC"
   44.1200, -90.0100
   44.2500, -90.0200
   44.2500, -89.6000
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued September 3 at 8:34PM CDT by NWS La C
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 8:30PM CDT by NWS Green Bay WI\nExpires: 2026-09-04 02:15 Z\nAt 830 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles north of Plainfield to 13 miles south of Lake Wazeecha, or extending from 15 miles south of Stevens Point to 15 miles south of Wisconsin Rapids, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Plainfield around 835 PM CDT. Wautoma around 855 PM CDT. Napowan Scout Camp around 900 PM CDT. Redgranite around 905 PM CDT.  Other locations impacted by this strong thunderstorm include Bancroft, Keene, Coddington, Almond, Hancock, Heffron, Wild Rose, Coloma, Richford and Mount Morris.\nGenerated: 2026-09-04 01:40:18 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 8:30PM CDT by NWS Green Bay WI\nExpires: 2026-09-04 02:15 Z\nAt 830 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 7 miles north of Plainfield to 13 miles south of Lake Wazeecha, or extending from 15 miles south of Stevens Point to 15 miles south of Wisconsin Rapids, moving southeast at 40 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Plainfield around 835 PM CDT. Wautoma around 855 PM CDT. Napowan Scout Camp around 900 PM CDT. Redgranite around 905 PM CDT.  Other locations impacted by this strong thunderstorm include Bancroft, Keene, Coddington, Almond, Hancock, Heffron, Wild Rose, Coloma, Richford and Mount Morris.\nGenerated: 2026-09-04 01:50:13 UTC"
   44.2500, -89.6000
   44.2500, -89.7200
   44.3200, -89.6500
@@ -26,37 +35,4 @@ Line: 2,,"Special Weather Statement issued September 3 at 8:30PM CDT by NWS Gree
   43.9800, -89.1300
   43.9800, -89.6000
   44.2500, -89.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 9:17PM EDT by NWS Baltimore MD/Washington DC\nExpires: 2026-09-04 01:45 Z\nAt 917 PM EDT, Doppler radar was tracking a strong thunderstorm over Friendsville, or 9 miles northwest of Bittinger, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bittinger, Grantsville, Friendsville, Accident, Deep Creek Lake State Park, McHenry, Selbysport, Big Run State Park, Jennings, Keysers Ridge, and Mineral Spring.  This includes Interstate 68 in Maryland between mile markers 1 and 19.\nGenerated: 2026-09-04 01:40:18 UTC"
-  39.7200, -79.1500
-  39.4600, -79.1600
-  39.5900, -79.4800
-  39.6500, -79.4800
-  39.7200, -79.4300
-  39.7200, -79.1500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 9:16PM EDT by NWS Charleston WV\nExpires: 2026-09-04 01:45 Z\nAt 916 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Middlebourne, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... West Union, Wick, Mountain, and Hebron.  This includes Route 50 in West Virginia near mile marker 54.\nGenerated: 2026-09-04 01:40:18 UTC"
-  39.3700, -81.0900
-  39.4900, -81.0500
-  39.4800, -80.9200
-  39.4500, -80.9300
-  39.2700, -80.7200
-  39.3700, -81.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 9:08PM EDT by NWS State College PA\nExpires: 2026-09-04 01:45 Z\nAt 908 PM EDT, Doppler radar was tracking a strong thunderstorm over Claylick, or 11 miles west of Greencastle, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waynesboro, Gettysburg, Greencastle, Carroll Valley, Wayne Heights, Bonneauville, Mont Alto, Mercersburg, Lake Heritage, Rouzerville, Orrtanna, Claylick, State Line, Fairfield, Quincy, Upton, Two Taverns and Penn State Mont Alto.  This includes Interstate 81 between mile markers 1 and 9.\nGenerated: 2026-09-04 01:40:18 UTC"
-  39.7200, -78.0700
-  39.7500, -78.0700
-  39.7900, -78.0400
-  39.8100, -78.0100
-  39.8300, -78.0000
-  39.8400, -77.9900
-  39.8700, -77.0900
-  39.7200, -77.1000
-  39.7200, -78.0700
 End:
