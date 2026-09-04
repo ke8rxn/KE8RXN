@@ -3,27 +3,38 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-04 04:55:16 UTC
+; Generated: 2026-09-04 05:00:42 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 4 at 12:15AM EDT by NWS Wakefield VA\nExpires: 2026-09-04 05:00 Z\nAt 1215 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Londontowne to Breezy Point to near Saint Marys River. Movement was east at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Taylors Island around 1220 AM EDT. University Of Maryland Center For Environmental Studies around 1240 AM EDT. Cambridge and Deal Island around 1245 AM EDT.  Other locations impacted by these storms include Wetipquin, Waterview, Madison, Andrews, Hudson, Crocheron, Dames Quarter, Church Creek, Wingate, and Lloyds.\nGenerated: 2026-09-04 04:55:16 UTC"
-  37.9100, -75.8500
-  38.1500, -75.9200
-  38.1200, -75.9500
-  38.1300, -75.9600
+Line: 2,,"Special Weather Statement issued September 4 at 12:58AM EDT by NWS Wakefield VA\nExpires: 2026-09-04 06:00 Z\nAt 1258 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Denton to near Westover to 11 miles northeast of Deltaville. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small trees and blow around unsecured objects. Wind impacting handling of high profile vehicles.  Strong thunderstorms will be near... Salisbury, Fruitland, Pocomoke City, Salisbury University, Hebron, West Pocomoke, and Marion Station around 105 AM EDT. Delmar around 110 AM EDT. Parsonsburg around 120 AM EDT. Snow Hill, Onancock, and Parksley around 125 AM EDT. Onley around 130 AM EDT. Newark around 135 AM EDT.  Other locations impacted by these storms include Hallwood, Harborton, Melfa, Brookview, Trinity, Cokesbury, Eden, Wallops Island, Nelsonia, and Sanford.\nGenerated: 2026-09-04 05:00:42 UTC"
+  38.4600, -75.6900
+  38.4500, -75.1800
+  38.1000, -75.1400
+  37.4600, -75.6100
+  37.5200, -76.0100
+  37.7400, -75.8800
+  38.0300, -76.0500
+  38.1400, -75.7900
+  38.1200, -76.0900
+  38.1400, -75.9700
   38.1400, -75.9600
   38.3500, -75.8600
   38.3600, -75.8700
-  38.2400, -75.9500
+  38.2300, -75.9700
   38.3700, -76.0100
-  38.3100, -76.0600
-  37.9500, -75.9900
-  37.9500, -76.0000
-  38.2700, -76.0700
-  38.4900, -76.3400
-  38.4900, -76.3200
-  38.5300, -76.2000
+  38.3600, -76.0100
+  38.1500, -76.0300
   38.6300, -76.2900
-  38.5700, -76.0300
   38.7000, -75.8300
-  37.9100, -75.8500
+  38.4600, -75.6900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 3 at 11:56PM CDT by NWS Green Bay WI\nExpires: 2026-09-04 05:30 Z\nAt 1156 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Wittenberg, or 18 miles west of Shawano, moving east at 50 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Legend Lake and Keshena around 1225 AM CDT.  Other locations impacted by this strong thunderstorm include Caroline, Tilleda, Marion, Leopolis, Pella, Lyndhurst, Gresham, Adams Beach, Thornton and Red River.\nGenerated: 2026-09-04 05:00:42 UTC"
+  44.6800, -88.9900
+  44.8200, -89.0600
+  45.0500, -88.5600
+  44.6700, -88.4200
+  44.6700, -88.6100
+  44.6800, -88.6100
+  44.6800, -88.9900
 End:
