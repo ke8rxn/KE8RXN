@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-04 09:20:17 UTC
+; Generated: 2026-09-04 09:25:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 4 at 5:18AM EDT by NWS Grand Rapids MI\nExpires: 2026-09-04 10:45 Z\nAt 517 AM EDT, Doppler radar was tracking a strong thunderstorm over Charlotte, moving southeast at 35 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lansing...             Jackson...             Charlotte... Albion...              Mason...               Marshall... Eaton Rapids...        East Lansing...        Potterville... Leslie...              Homer...               Bellevue... Brooklyn...            Grass Lake...          Vandercook Lake... Leoni...               Spring Arbor...        Napoleon... Sandstone...           Aurelius...\nGenerated: 2026-09-04 09:20:17 UTC"
+Line: 2,,"Special Weather Statement issued September 4 at 5:21AM EDT by NWS Cleveland OH\nExpires: 2026-09-04 10:00 Z\nAt 521 AM EDT, Doppler radar was tracking a strong thunderstorm over Holland, or near Toledo, moving southeast at 35 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Toledo, Perrysburg, Oregon, Sylvania, Rossford, Northwood, Gibsonburg, Genoa, Woodville, Holland, Elmore, Maumee, Ottawa Hills, Walbridge, Pemberville, Millbury, Luckey, Rocky Ridge, Clay Center, and Berkey.\nGenerated: 2026-09-04 09:25:15 UTC"
+  41.7200, -83.8700
+  41.7300, -83.6700
+  41.5700, -83.1800
+  41.4500, -83.2000
+  41.3500, -83.3800
+  41.5900, -83.8800
+  41.7200, -83.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 4 at 5:18AM EDT by NWS Grand Rapids MI\nExpires: 2026-09-04 10:45 Z\nAt 517 AM EDT, Doppler radar was tracking a strong thunderstorm over Charlotte, moving southeast at 35 mph.  HAZARD...Winds in excess of 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lansing...             Jackson...             Charlotte... Albion...              Mason...               Marshall... Eaton Rapids...        East Lansing...        Potterville... Leslie...              Homer...               Bellevue... Brooklyn...            Grass Lake...          Vandercook Lake... Leoni...               Spring Arbor...        Napoleon... Sandstone...           Aurelius...\nGenerated: 2026-09-04 09:25:15 UTC"
   42.0700, -84.1400
   42.0700, -84.7900
   42.5500, -85.1400
@@ -16,7 +27,7 @@ Line: 2,,"Special Weather Statement issued September 4 at 5:18AM EDT by NWS Gran
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 4 at 4:18AM CDT by NWS New Orleans LA\nExpires: 2026-09-04 09:45 Z\nAt 418 AM CDT, Doppler radar was tracking a strong thunderstorm near Shoreline Park, or near Waveland, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The strong thunderstorm will be near... Shoreline Park and Diamondhead around 420 AM CDT.\nGenerated: 2026-09-04 09:20:17 UTC"
+Line: 2,,"Special Weather Statement issued September 4 at 4:18AM CDT by NWS New Orleans LA\nExpires: 2026-09-04 09:45 Z\nAt 418 AM CDT, Doppler radar was tracking a strong thunderstorm near Shoreline Park, or near Waveland, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The strong thunderstorm will be near... Shoreline Park and Diamondhead around 420 AM CDT.\nGenerated: 2026-09-04 09:25:15 UTC"
   30.1900, -89.5800
   30.2200, -89.6200
   30.2900, -89.6500
@@ -37,7 +48,7 @@ Line: 2,,"Special Weather Statement issued September 4 at 4:18AM CDT by NWS New 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 4 at 4:18AM EDT by NWS Grand Rapids MI\nExpires: 2026-09-04 09:45 Z\nAt 418 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Saranac to near Portland. Movement was east at 45 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lansing...             Ionia...               Charlotte... Mason...               St. Johns...           Portland... East Lansing...        Grand Ledge...         Williamston... Potterville...         Saranac...             Edgemont Park... DeWitt...              Capital Region Inter...Ovid... Webberville...         Dimondale...           Fowler... Sebewa...              Westphalia...\nGenerated: 2026-09-04 09:20:17 UTC"
+Line: 2,,"Special Weather Statement issued September 4 at 4:18AM EDT by NWS Grand Rapids MI\nExpires: 2026-09-04 09:45 Z\nAt 418 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Saranac to near Portland. Movement was east at 45 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lansing...             Ionia...               Charlotte... Mason...               St. Johns...           Portland... East Lansing...        Grand Ledge...         Williamston... Potterville...         Saranac...             Edgemont Park... DeWitt...              Capital Region Inter...Ovid... Webberville...         Dimondale...           Fowler... Sebewa...              Westphalia...\nGenerated: 2026-09-04 09:25:15 UTC"
   42.5800, -84.8900
   43.0000, -85.3200
   43.0400, -85.3100
