@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-04 03:25:14 UTC
+; Generated: 2026-09-04 03:30:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 10:20PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-09-04 04:00 Z\nAt 1020 PM CDT, Doppler radar was tracking a strong thunderstorm near Brandon, or near Waupun, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Waupun, Mayville, Lomira, Oakfield, Brandon, Lamartine, Byron, Alto, Brownsville, Fairwater, Kekoskee, Atwater, Oak Center, Lagoda, and Knowles.  This includes the following highways... U.S. Highway 151 between mile markers 140 and 160. Interstate 41 between mile markers 89 and 95.\nGenerated: 2026-09-04 03:25:14 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 11:29PM EDT by NWS Charleston WV\nExpires: 2026-09-04 04:00 Z\nAt 1129 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles south of Hendricks to 6 miles southwest of Belington. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elkins, Belington, Mill Creek, Dailey, Beverly, Junior, Womelsdorf (Coalton), Huttonsville, Harman, Bowden, Kerens, and Glady.  This includes Route 33 between mile markers 31 and 35.\nGenerated: 2026-09-04 03:30:18 UTC"
+  38.8900, -79.5200
+  38.8700, -79.5100
+  38.8400, -79.5400
+  38.8300, -79.5200
+  38.8100, -79.5300
+  38.8000, -79.5100
+  38.7800, -79.5100
+  38.6900, -79.6000
+  38.6600, -79.6000
+  38.6700, -79.6200
+  38.6400, -79.6300
+  38.6800, -80.0200
+  38.9300, -80.0900
+  39.0500, -79.8800
+  38.9800, -79.5500
+  38.8900, -79.4600
+  38.8900, -79.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 3 at 10:20PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-09-04 04:00 Z\nAt 1020 PM CDT, Doppler radar was tracking a strong thunderstorm near Brandon, or near Waupun, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Waupun, Mayville, Lomira, Oakfield, Brandon, Lamartine, Byron, Alto, Brownsville, Fairwater, Kekoskee, Atwater, Oak Center, Lagoda, and Knowles.  This includes the following highways... U.S. Highway 151 between mile markers 140 and 160. Interstate 41 between mile markers 89 and 95.\nGenerated: 2026-09-04 03:30:18 UTC"
   43.6500, -88.9800
   43.8000, -88.8900
   43.7200, -88.3800
@@ -14,7 +35,7 @@ Line: 2,,"Special Weather Statement issued September 3 at 10:20PM CDT by NWS Mil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 11:12PM EDT by NWS Charleston WV\nExpires: 2026-09-04 03:45 Z\nAt 1112 PM EDT, Doppler radar was tracking a strong thunderstorm over Rock Cave, or 12 miles south of Buckhannon, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rock Cave, Alexander, Kanawha Head, Alton, and French Creek.\nGenerated: 2026-09-04 03:25:14 UTC"
+Line: 2,,"Special Weather Statement issued September 3 at 11:12PM EDT by NWS Charleston WV\nExpires: 2026-09-04 03:45 Z\nAt 1112 PM EDT, Doppler radar was tracking a strong thunderstorm over Rock Cave, or 12 miles south of Buckhannon, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Rock Cave, Alexander, Kanawha Head, Alton, and French Creek.\nGenerated: 2026-09-04 03:30:18 UTC"
   38.6800, -80.0200
   38.7000, -80.0900
   38.7200, -80.1100
@@ -24,26 +45,4 @@ Line: 2,,"Special Weather Statement issued September 3 at 11:12PM EDT by NWS Cha
   38.9000, -80.0500
   38.8100, -80.0000
   38.6800, -80.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 3 at 11:01PM EDT by NWS Charleston WV\nExpires: 2026-09-04 03:30 Z\nAt 1101 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Philippi to near Davis. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elkins, Philippi, Audra State Park, Belington, Beverly, Junior, Womelsdorf (Coalton), Montrose, Harman, Pheasant Run, Dryfork, Bowden, and Kerens.  This includes Route 33 between mile markers 31 and 35.\nGenerated: 2026-09-04 03:25:14 UTC"
-  38.9200, -79.3700
-  38.9300, -79.4500
-  38.9000, -79.4500
-  38.8900, -79.4800
-  38.8900, -79.5200
-  38.8700, -79.5100
-  38.8400, -79.5400
-  38.8200, -79.5300
-  38.8200, -80.0100
-  39.1400, -80.1500
-  39.1100, -79.8300
-  39.0800, -79.7800
-  39.0400, -79.7800
-  39.0400, -79.7700
-  38.9700, -79.5100
-  38.9800, -79.4800
-  38.9600, -79.3500
-  38.9200, -79.3700
 End:
