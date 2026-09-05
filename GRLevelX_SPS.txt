@@ -3,9 +3,36 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-05 17:40:12 UTC
+; Generated: 2026-09-05 17:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 12:39PM CDT by NWS North Platte NE\nExpires: 2026-09-05 18:15 Z\nAt 1239 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Page, or 11 miles east of O'Neill, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Page.  This includes Highway 20 between mile markers 317 and 323.\nGenerated: 2026-09-05 17:40:12 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 1:41PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-05 18:15 Z\nAt 140 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles east of Brevard to 15 miles northwest of Pickens. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Brevard, Rosman, Lake Toxaway, Jocassee Gorges, Table Rock State Park, Caesars Head State Park, Pleasant Ridge State Park, Jones Gap State Park, Dupont State Forest, and Gorges State Park.\nGenerated: 2026-09-05 17:45:16 UTC"
+  34.9200, -82.9100
+  34.9500, -82.9100
+  35.0000, -82.9400
+  35.0100, -82.9100
+  35.0300, -82.9200
+  35.0500, -82.9000
+  35.0400, -82.9500
+  35.1900, -82.9900
+  35.1900, -82.9700
+  35.2200, -82.9600
+  35.3400, -82.6400
+  35.0900, -82.4600
+  34.8000, -82.8700
+  34.9200, -82.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 5 at 1:40PM EDT by NWS Blacksburg VA\nExpires: 2026-09-05 18:00 Z\nAt 139 PM EDT, Doppler radar was tracking a strong thunderstorm over Hanging Rock State Park, or near Danbury, moving south at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walnut Cove... Danbury... King... Pinnacle... Hanging Rock State Park... Capella... and Germanton.\nGenerated: 2026-09-05 17:45:16 UTC"
+  36.2600, -80.4100
+  36.4000, -80.4400
+  36.4400, -80.1600
+  36.2600, -80.1000
+  36.2600, -80.4100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 5 at 12:39PM CDT by NWS North Platte NE\nExpires: 2026-09-05 18:15 Z\nAt 1239 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Page, or 11 miles east of O'Neill, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Page.  This includes Highway 20 between mile markers 317 and 323.\nGenerated: 2026-09-05 17:45:16 UTC"
   42.3300, -98.5100
   42.5600, -98.5600
   42.5700, -98.3000
@@ -15,7 +42,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 12:39PM CDT by NWS Nor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 1:32PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-05 18:00 Z\nAt 132 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northwest of Marshall to 15 miles north of Waynesville to 16 miles south of Newport. Movement was south at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Waynesville, Marshall, Woodfin, Canton, Lake Junaluska, Clyde, Maggie Valley, Hot Springs, Smoky Mountains-Balsam Mountain, and Smoky Mountains-Big Creek.\nGenerated: 2026-09-05 17:40:12 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 1:32PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-05 18:00 Z\nAt 132 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northwest of Marshall to 15 miles north of Waynesville to 16 miles south of Newport. Movement was south at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Waynesville, Marshall, Woodfin, Canton, Lake Junaluska, Clyde, Maggie Valley, Hot Springs, Smoky Mountains-Balsam Mountain, and Smoky Mountains-Big Creek.\nGenerated: 2026-09-05 17:45:16 UTC"
   35.9200, -82.7900
   35.6200, -82.5600
   35.4500, -82.7100
@@ -37,7 +64,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 1:32PM EDT by NWS Gree
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 1:29PM EDT by NWS Raleigh NC\nExpires: 2026-09-05 18:30 Z\nAt 129 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Roxboro, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oxford, Roxboro, Creedmoor, Butner, Rougemont, Concord, Stem, Stovall, Lake Michie, and Mayo Reservoir.  This includes Interstate 85 between Mile Markers 188 and 208.\nGenerated: 2026-09-05 17:40:12 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 1:29PM EDT by NWS Raleigh NC\nExpires: 2026-09-05 18:30 Z\nAt 129 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Roxboro, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oxford, Roxboro, Creedmoor, Butner, Rougemont, Concord, Stem, Stovall, Lake Michie, and Mayo Reservoir.  This includes Interstate 85 between Mile Markers 188 and 208.\nGenerated: 2026-09-05 17:45:16 UTC"
   36.4300, -78.5200
   36.1400, -78.5100
   36.1000, -78.5300
@@ -49,7 +76,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 1:29PM EDT by NWS Rale
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 1:28PM EDT by NWS Raleigh NC\nExpires: 2026-09-05 18:30 Z\nAt 127 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Capella, or near Francisco, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greensboro, Winston-Salem, High Point, Asheboro, Lexington, Randleman, Thomasville, Kernersville, Clemmons, and Bermuda Run.\nGenerated: 2026-09-05 17:40:12 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 1:28PM EDT by NWS Raleigh NC\nExpires: 2026-09-05 18:30 Z\nAt 127 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Capella, or near Francisco, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greensboro, Winston-Salem, High Point, Asheboro, Lexington, Randleman, Thomasville, Kernersville, Clemmons, and Bermuda Run.\nGenerated: 2026-09-05 17:45:16 UTC"
   36.1100, -80.5000
   36.1400, -80.4400
   36.2200, -80.4300
@@ -74,40 +101,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 1:28PM EDT by NWS Rale
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 1:19PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-05 17:45 Z\nAt 119 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Waynesville, or near Balsam, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Waynesville, Cullowhee, Balsam, B.R. Parkway-Black Balsam To Mount Pisgah, B.R. Parkway-Balsam Gap To Black Balsam Area, Black Balsam Area, Lake Junaluska, B.R. Parkway-Smoky Mountains To Balsam Gap, Tuckasegee, and Sunburst.\nGenerated: 2026-09-05 17:40:12 UTC"
-  35.4700, -83.2000
-  35.5300, -83.0000
-  35.3100, -82.8800
-  35.3100, -82.9000
-  35.2900, -82.9200
-  35.2500, -83.1800
-  35.4700, -83.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 1:14PM EDT by NWS Wakefield VA\nExpires: 2026-09-05 17:45 Z\nAt 113 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Cabin Point to Claremont to near Rustic. Movement was east southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newport News, Williamsburg, Claremont, Surry, College Of William And Mary, Queens Lake, Gloucester Point, Dendron, Busch Gardens, Scotland, Rustic, Burrowsville, Holdcroft, York Terrace, Carver Gardens, Elberon, Grove, Kings Point, Jamestown, and Cabin Point.\nGenerated: 2026-09-05 17:40:12 UTC"
-  37.2000, -76.5500
-  37.2200, -76.5600
-  37.2200, -76.5900
-  37.1800, -76.5800
-  37.1300, -76.6600
-  37.1400, -76.6800
-  37.0600, -76.7000
-  36.9800, -76.8800
-  37.0100, -76.9700
-  37.0500, -76.9700
-  37.0700, -77.0700
-  37.0800, -77.0800
-  37.0900, -77.1000
-  37.1000, -77.1100
-  37.1500, -77.2100
-  37.3800, -76.9600
-  37.2700, -76.5100
-  37.2000, -76.5500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 1:11PM EDT by NWS Morristown TN\nExpires: 2026-09-05 18:00 Z\nAt 111 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Tusculum to near Parrottsville to near Dandridge. Movement was south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Newport, Parrottsville, Del Rio, Cedar Creek, Round Mountain, Cosby, Hartford, Camp Creek, and Max Patch.\nGenerated: 2026-09-05 17:40:12 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 1:11PM EDT by NWS Morristown TN\nExpires: 2026-09-05 18:00 Z\nAt 111 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Tusculum to near Parrottsville to near Dandridge. Movement was south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Newport, Parrottsville, Del Rio, Cedar Creek, Round Mountain, Cosby, Hartford, Camp Creek, and Max Patch.\nGenerated: 2026-09-05 17:45:16 UTC"
   35.8000, -83.2900
   35.8300, -83.2600
   35.8900, -83.3200
@@ -129,78 +123,4 @@ Line: 2,,"Special Weather Statement issued September 5 at 1:11PM EDT by NWS Morr
   35.7300, -83.2000
   35.7200, -83.2700
   35.8000, -83.2900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 1:09PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-05 17:45 Z\nAt 109 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles northwest of Taylorsville to 5 miles west of Lenoir. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, Lenoir, Taylorsville, Statesville, Newton, St. Stephens, Conover, Longview, Sawmills, and Granite Falls.\nGenerated: 2026-09-05 17:40:12 UTC"
-  35.7700, -80.8700
-  35.6800, -81.1600
-  35.6200, -81.5900
-  35.8900, -81.7300
-  35.9500, -81.6300
-  35.9700, -81.4000
-  36.0300, -81.2000
-  35.7700, -80.8700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 12:59PM EDT by NWS Morristown TN\nExpires: 2026-09-05 17:45 Z\nAt 1259 PM EDT, Doppler radar was tracking a strong thunderstorm over Oliver Springs, or near Oak Ridge, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oak Ridge, Lenoir City, Kingston, Loudon, Farragut, Oliver Springs, Louisville, Friendsville, Coalfield, and Bradbury.\nGenerated: 2026-09-05 17:40:12 UTC"
-  36.0800, -84.4700
-  36.1100, -84.2900
-  35.7600, -84.0500
-  35.6700, -84.5100
-  36.0800, -84.4700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 12:58PM EDT by NWS Morristown TN\nExpires: 2026-09-05 17:45 Z\nAt 1258 PM EDT, Doppler radar was tracking a strong thunderstorm near Knoxville, moving south at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Knoxville, Oak Ridge, Maryville, Alcoa, Farragut, Louisville, Rockford, Eagleton Village, Friendsville, and Karns.\nGenerated: 2026-09-05 17:40:12 UTC"
-  35.7200, -84.1700
-  35.7600, -84.1500
-  35.7700, -84.1800
-  35.8100, -84.1700
-  35.8400, -84.2000
-  36.0400, -84.2000
-  36.0800, -84.0000
-  35.8700, -83.7800
-  35.8100, -83.7500
-  35.8100, -83.7400
-  35.7900, -83.7500
-  35.7000, -84.1600
-  35.7200, -84.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 12:54PM EDT by NWS Wakefield VA\nExpires: 2026-09-05 17:45 Z\nAt 1254 PM EDT, Doppler radar was tracking a strong thunderstorm over Highland Springs, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Highland Springs around 100 PM EDT. Bottoms Bridge around 105 PM EDT. Roxbury around 115 PM EDT. Talleysville and Providence Forge around 125 PM EDT.  Other locations impacted by this storm include Eltham, Chickahominy Shore, Wayside, Mountcastle, Elko, Montrose, Dragonville, Cohoke, Sandston, and Glendale.\nGenerated: 2026-09-05 17:40:12 UTC"
-  37.7000, -76.7400
-  37.6900, -76.7300
-  37.4500, -76.8100
-  37.4300, -76.9000
-  37.3800, -76.8900
-  37.3500, -76.9200
-  37.3700, -76.8800
-  37.3000, -76.8600
-  37.2200, -76.8900
-  37.2400, -76.9600
-  37.3000, -77.0000
-  37.2800, -77.0500
-  37.4900, -77.4200
-  37.5200, -77.4200
-  37.5100, -77.3900
-  37.5300, -77.3800
-  37.5500, -77.4100
-  37.5800, -77.4100
-  37.5900, -77.4400
-  37.7300, -77.3500
-  37.7000, -76.7400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 11:54AM CDT by NWS Bismarck ND\nExpires: 2026-09-05 17:45 Z\nAt 1154 AM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Bottineau, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bottineau, Gardena and Omemee.\nGenerated: 2026-09-05 17:40:12 UTC"
-  48.6500, -100.6100
-  48.7400, -100.6700
-  48.8500, -100.5800
-  48.8500, -100.1800
-  48.7800, -100.1800
-  48.6200, -100.1900
-  48.6500, -100.6100
 End:
