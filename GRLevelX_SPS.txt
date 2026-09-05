@@ -3,9 +3,37 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-05 10:15:50 UTC
+; Generated: 2026-09-05 10:20:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 6:02AM EDT by NWS Louisville KY\nExpires: 2026-09-05 10:45 Z\nAt 601 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles northeast of New Castle to 14 miles northeast of Shelbyville to 7 miles west of Frankfort. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Frankfort, Lawrenceburg, Versailles, Midway, Pleasureville, Stamping Ground, Gratz, Slickway, Farmdale, and Harvieland.\nGenerated: 2026-09-05 10:15:50 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 3:16AM PDT by NWS Pendleton OR\nExpires: 2026-09-05 11:00 Z\nAt 316 AM PDT, Doppler radar was tracking a strong thunderstorm over Lehman Hot Springs, or 28 miles southwest of Meacham, moving north at 30 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Lehman Hot Springs and Starkey.\nGenerated: 2026-09-05 10:20:13 UTC"
+  45.0400, -118.5600
+  45.0800, -118.7600
+  45.3800, -118.7900
+  45.3600, -118.4300
+  45.3000, -118.4300
+  45.3000, -118.3800
+  45.2900, -118.3700
+  45.0400, -118.5600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 5 at 6:16AM EDT by NWS Charleston WV\nExpires: 2026-09-05 10:45 Z\nAt 616 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pleasantville to 10 miles east of Circleville. Movement was southeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Nelsonville, New Lexington, Somerset, Shawnee, Perry State Forest, Crooksville, Junction City, New Straitsville, Corning, Buchtel, Murray City, Hemlock, and Rendville.\nGenerated: 2026-09-05 10:20:13 UTC"
+  39.7000, -81.8100
+  39.3800, -82.2900
+  39.4700, -82.2800
+  39.4700, -82.1700
+  39.5500, -82.1600
+  39.5600, -82.2600
+  39.5900, -82.2600
+  39.6000, -82.3800
+  39.7400, -82.3600
+  39.7400, -82.4100
+  39.8300, -82.4000
+  39.7000, -81.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 5 at 6:02AM EDT by NWS Louisville KY\nExpires: 2026-09-05 10:45 Z\nAt 601 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 6 miles northeast of New Castle to 14 miles northeast of Shelbyville to 7 miles west of Frankfort. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Frankfort, Lawrenceburg, Versailles, Midway, Pleasureville, Stamping Ground, Gratz, Slickway, Farmdale, and Harvieland.\nGenerated: 2026-09-05 10:20:13 UTC"
   38.5600, -85.0100
   38.5100, -85.0300
   38.5100, -84.9800
@@ -30,7 +58,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 6:02AM EDT by NWS Loui
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 5:02AM CDT by NWS Bismarck ND\nExpires: 2026-09-05 10:30 Z\nAt 502 AM CDT, strong thunderstorms were located from near St. John to 6 miles southeast of Rolla, or from 33 miles east of Bottineau to 37 miles northeast of Rugby, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Rolla, St. John, and Turtle Mountain.\nGenerated: 2026-09-05 10:15:50 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 5:02AM CDT by NWS Bismarck ND\nExpires: 2026-09-05 10:30 Z\nAt 502 AM CDT, strong thunderstorms were located from near St. John to 6 miles southeast of Rolla, or from 33 miles east of Bottineau to 37 miles northeast of Rugby, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Rolla, St. John, and Turtle Mountain.\nGenerated: 2026-09-05 10:20:13 UTC"
   48.7600, -99.6100
   48.8700, -99.7200
   49.0000, -99.9200
@@ -40,7 +68,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 5:02AM CDT by NWS Bism
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 6:02AM EDT by NWS Charleston WV\nExpires: 2026-09-05 10:30 Z\nAt 602 AM EDT, Doppler radar was tracking a strong thunderstorm near Coolville, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Parkersburg, Coolville, Forked Run State Park, Washington, Mineralwells, Tuppers Plains, Lubeck, Belleville, Reedsville, Walker, Little Hocking, Blennerhassett, Morristown, Davisville, and Rockport.  This includes the following highways... Interstate 77 in West Virginia between mile markers 153 and 174. Route 50 in West Virginia between mile markers 1 and 5.\nGenerated: 2026-09-05 10:15:50 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 6:02AM EDT by NWS Charleston WV\nExpires: 2026-09-05 10:30 Z\nAt 602 AM EDT, Doppler radar was tracking a strong thunderstorm near Coolville, moving southeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Parkersburg, Coolville, Forked Run State Park, Washington, Mineralwells, Tuppers Plains, Lubeck, Belleville, Reedsville, Walker, Little Hocking, Blennerhassett, Morristown, Davisville, and Rockport.  This includes the following highways... Interstate 77 in West Virginia between mile markers 153 and 174. Route 50 in West Virginia between mile markers 1 and 5.\nGenerated: 2026-09-05 10:20:13 UTC"
   39.1600, -82.0400
   39.3400, -81.9200
   39.2100, -81.3600
@@ -49,7 +77,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 6:02AM EDT by NWS Char
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 6:01AM EDT by NWS Wilmington OH\nExpires: 2026-09-05 10:45 Z\nAt 601 AM EDT, a strong thunderstorm was located 7 miles south of Canal Winchester, moving southeast at 50 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Lancaster, Pickerington, Logan, Canal Winchester, Nelsonville, Baltimore, Bremen, Pleasantville, Hide-A-Way Hills, Royalton, Lithopolis, Amanda, Thurston, Stoutsville, Carroll, Murray City, Sugar Grove, Rushville, West Rushville, and Fairfield County Airport.  If outdoors, consider seeking shelter inside a sturdy building.  A Severe Thunderstorm Watch remains in effect until 800 AM EDT for central Ohio.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-05 10:15:50 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 6:01AM EDT by NWS Wilmington OH\nExpires: 2026-09-05 10:45 Z\nAt 601 AM EDT, a strong thunderstorm was located 7 miles south of Canal Winchester, moving southeast at 50 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Lancaster, Pickerington, Logan, Canal Winchester, Nelsonville, Baltimore, Bremen, Pleasantville, Hide-A-Way Hills, Royalton, Lithopolis, Amanda, Thurston, Stoutsville, Carroll, Murray City, Sugar Grove, Rushville, West Rushville, and Fairfield County Airport.  If outdoors, consider seeking shelter inside a sturdy building.  A Severe Thunderstorm Watch remains in effect until 800 AM EDT for central Ohio.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-05 10:20:13 UTC"
   39.4700, -82.1700
   39.4700, -82.2800
   39.4200, -82.2900
@@ -68,7 +96,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 6:01AM EDT by NWS Wilm
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 4:51AM CDT by NWS Bismarck ND\nExpires: 2026-09-05 10:30 Z\nAt 451 AM CDT, a strong thunderstorm was located 10 miles north of Kenmare, or 38 miles northeast of Stanley, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kenmare, Mohall, Sherwood, Tolley, Norma, and Loraine.\nGenerated: 2026-09-05 10:15:50 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 4:51AM CDT by NWS Bismarck ND\nExpires: 2026-09-05 10:30 Z\nAt 451 AM CDT, a strong thunderstorm was located 10 miles north of Kenmare, or 38 miles northeast of Stanley, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Kenmare, Mohall, Sherwood, Tolley, Norma, and Loraine.\nGenerated: 2026-09-05 10:20:13 UTC"
   48.8100, -102.1400
   48.9200, -102.1700
   49.0000, -102.0300
@@ -79,7 +107,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 4:51AM CDT by NWS Bism
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 5:50AM EDT by NWS Wilmington OH\nExpires: 2026-09-05 10:30 Z\nAt 550 AM EDT, strong thunderstorms were located along a line extending from near Florence to 7 miles south of New Castle, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Carrollton, Vevay, Warsaw, Owenton, Florence, Kentucky Speedway, Glencoe, Ghent, Sanders, Sparta, Worthville, Prestonville, Monterey, Gratz, Braytown, Langstaff, Wheatley, and Markland.  This includes I-71 in Kentucky between mile markers 39 and 65.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-05 10:15:50 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 5:50AM EDT by NWS Wilmington OH\nExpires: 2026-09-05 10:30 Z\nAt 550 AM EDT, strong thunderstorms were located along a line extending from near Florence to 7 miles south of New Castle, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Carrollton, Vevay, Warsaw, Owenton, Florence, Kentucky Speedway, Glencoe, Ghent, Sanders, Sparta, Worthville, Prestonville, Monterey, Gratz, Braytown, Langstaff, Wheatley, and Markland.  This includes I-71 in Kentucky between mile markers 39 and 65.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-05 10:20:13 UTC"
   38.3700, -84.8900
   38.4200, -84.8800
   38.4300, -84.9300
@@ -103,7 +131,7 @@ Line: 2,,"Special Weather Statement issued September 5 at 5:50AM EDT by NWS Wilm
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 5:49AM EDT by NWS Louisville KY\nExpires: 2026-09-05 10:30 Z\nAt 549 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near New Castle to 11 miles northeast of Shelbyville to 10 miles west of Lawrenceburg. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Frankfort, Lawrenceburg, Versailles, New Castle, Eminence, Midway, Pleasureville, Campbellsburg, Slickway, and Farmdale.\nGenerated: 2026-09-05 10:15:50 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 5:49AM EDT by NWS Louisville KY\nExpires: 2026-09-05 10:30 Z\nAt 549 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near New Castle to 11 miles northeast of Shelbyville to 10 miles west of Lawrenceburg. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Frankfort, Lawrenceburg, Versailles, New Castle, Eminence, Midway, Pleasureville, Campbellsburg, Slickway, and Farmdale.\nGenerated: 2026-09-05 10:20:13 UTC"
   38.5500, -85.0100
   38.5100, -85.0300
   38.5100, -84.9800
