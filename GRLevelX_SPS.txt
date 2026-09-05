@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-05 15:10:17 UTC
+; Generated: 2026-09-05 15:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 10:06AM CDT by NWS Grand Forks ND\nExpires: 2026-09-05 15:45 Z\nAt 1006 AM CDT, Doppler radar was tracking a strong thunderstorm over Voss, or 7 miles south of Grafton, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Grafton, Minto, Alvarado, Oslo, Hoople, Forest River, and Warsaw.  This includes Interstate 29 between mile markers 157 and 184.\nGenerated: 2026-09-05 15:10:17 UTC"
+Line: 2,,"Special Weather Statement issued September 5 at 10:14AM CDT by NWS Omaha/Valley NE\nExpires: 2026-09-05 15:45 Z\nAt 1014 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Coleridge, or 10 miles east of Hartington, moving east at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree branches and blow around unsecured objects. Minor hail damage to vegetation is possible.  * Locations impacted include... The Highway 84 and 15 Junction.\nGenerated: 2026-09-05 15:15:15 UTC"
+  42.4500, -97.0200
+  42.4800, -97.1800
+  42.6600, -97.1500
+  42.6600, -97.0200
+  42.4500, -97.0200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 5 at 10:06AM CDT by NWS Grand Forks ND\nExpires: 2026-09-05 15:45 Z\nAt 1006 AM CDT, Doppler radar was tracking a strong thunderstorm over Voss, or 7 miles south of Grafton, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Grafton, Minto, Alvarado, Oslo, Hoople, Forest River, and Warsaw.  This includes Interstate 29 between mile markers 157 and 184.\nGenerated: 2026-09-05 15:15:15 UTC"
   48.5400, -96.9300
   48.1700, -96.8400
   48.1700, -97.1400
@@ -17,36 +26,4 @@ Line: 2,,"Special Weather Statement issued September 5 at 10:06AM CDT by NWS Gra
   48.1200, -97.6500
   48.5400, -97.7300
   48.5400, -96.9300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 9:52AM CDT by NWS Bismarck ND\nExpires: 2026-09-05 15:15 Z\nAt 952 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Rolla, or 28 miles northeast of Rugby, moving east at 40 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mylo and Agate.\nGenerated: 2026-09-05 15:10:17 UTC"
-  48.6300, -99.8200
-  48.8000, -99.8000
-  48.8200, -99.5300
-  48.7200, -99.5300
-  48.7200, -99.4900
-  48.5500, -99.4900
-  48.6300, -99.8200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 5 at 10:29AM EDT by NWS Morristown TN\nExpires: 2026-09-05 15:15 Z\nAt 1028 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Eolia, or 8 miles southeast of Whitesburg, moving southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Norton, Wise, Jonesville, Big Stone Gap, Pennington Gap, Coeburn, Appalachia, Pound, St. Charles, and Dryden.\nGenerated: 2026-09-05 15:10:17 UTC"
-  37.1300, -82.5500
-  37.0300, -82.4800
-  36.9800, -82.3700
-  36.9600, -82.3600
-  36.5900, -83.1200
-  36.7100, -83.2800
-  36.7400, -83.1400
-  36.7800, -83.1300
-  36.8500, -83.0700
-  36.8500, -83.0100
-  36.8900, -82.8800
-  36.9300, -82.8600
-  36.9800, -82.8700
-  37.0500, -82.7200
-  37.1200, -82.7200
-  37.2000, -82.5500
-  37.1300, -82.5500
 End:
