@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-06 14:40:49 UTC
+; Generated: 2026-09-06 14:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 10:27AM EDT by NWS Morristown TN\nExpires: 2026-09-06 15:30 Z\nAt 1026 AM EDT, Doppler radar was tracking a strong thunderstorm near Eolia, or 9 miles south of Whitesburg, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kingsport, Norton, Wise, Gate City, Big Stone Gap, Weber City, Coeburn, Appalachia, St. Paul, and Nickelsville.\nGenerated: 2026-09-06 14:40:49 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 10:41AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-06 15:30 Z\nAt 1041 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles southwest of Yadkinville to 6 miles east of Statesville to 9 miles northeast of Newton. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Salisbury, Statesville, Mocksville, Mooresville, China Grove, Spencer, Landis, Granite Quarry, Troutman, and Bermuda Run.\nGenerated: 2026-09-06 14:45:15 UTC"
+  35.8800, -80.4200
+  35.8500, -80.3900
+  35.8500, -80.4200
+  35.8300, -80.4300
+  35.8300, -80.4600
+  35.8400, -80.4700
+  35.8300, -80.4900
+  35.7700, -80.4500
+  35.7400, -80.4600
+  35.7200, -80.3800
+  35.5400, -80.4100
+  35.5500, -81.0000
+  35.7600, -81.2100
+  36.0600, -80.7700
+  36.0400, -80.4900
+  36.0600, -80.4600
+  36.0100, -80.4200
+  35.9900, -80.4200
+  35.9600, -80.3800
+  35.8900, -80.3700
+  35.8800, -80.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 6 at 10:27AM EDT by NWS Morristown TN\nExpires: 2026-09-06 15:30 Z\nAt 1026 AM EDT, Doppler radar was tracking a strong thunderstorm near Eolia, or 9 miles south of Whitesburg, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kingsport, Norton, Wise, Gate City, Big Stone Gap, Weber City, Coeburn, Appalachia, St. Paul, and Nickelsville.\nGenerated: 2026-09-06 14:45:15 UTC"
   36.8000, -82.0800
   36.5100, -82.5200
   36.9200, -82.8700
@@ -25,7 +50,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 10:27AM EDT by NWS Mor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 9:27AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-09-06 15:00 Z\nAt 927 AM CDT, Doppler radar was tracking heavy rain and minor flooding near Morgan, or 9 miles southeast of Redwood Falls, moving north at 15 mph.  Locations impacted include... Redwood Falls, Morgan, Morton, Clements, Redwood Falls Airport and North Redwood.\nGenerated: 2026-09-06 14:40:49 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 9:27AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-09-06 15:00 Z\nAt 927 AM CDT, Doppler radar was tracking heavy rain and minor flooding near Morgan, or 9 miles southeast of Redwood Falls, moving north at 15 mph.  Locations impacted include... Redwood Falls, Morgan, Morton, Clements, Redwood Falls Airport and North Redwood.\nGenerated: 2026-09-06 14:45:15 UTC"
   44.3400, -94.8700
   44.3600, -95.1300
   44.6100, -95.1500
@@ -48,7 +73,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 9:27AM CDT by NWS Twin
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 9:23AM CDT by NWS Bismarck ND\nExpires: 2026-09-06 15:00 Z\nAt 923 AM CDT /823 AM MDT/, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Dickinson, moving northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Killdeer, Halliday, Dunn Center, Dodge, Manning, Marshall and Hirschville.\nGenerated: 2026-09-06 14:40:49 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 9:23AM CDT by NWS Bismarck ND\nExpires: 2026-09-06 15:00 Z\nAt 923 AM CDT /823 AM MDT/, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Dickinson, moving northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Killdeer, Halliday, Dunn Center, Dodge, Manning, Marshall and Hirschville.\nGenerated: 2026-09-06 14:45:15 UTC"
   46.9800, -102.8400
   47.1100, -103.0100
   47.5300, -102.6300
@@ -57,22 +82,4 @@ Line: 2,,"Special Weather Statement issued September 6 at 9:23AM CDT by NWS Bism
   46.9000, -102.5700
   46.8500, -102.6700
   46.9800, -102.8400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 10:02AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-06 14:45 Z\nAt 1002 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Wilkesboro to 7 miles northeast of Hickory to 9 miles west of Lenoir. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, Statesville, Lenoir, Morganton, Newton, Taylorsville, St. Stephens, Conover, Longview, and Sawmills.\nGenerated: 2026-09-06 14:40:49 UTC"
-  35.9400, -80.7000
-  35.8600, -80.7100
-  35.6200, -80.9700
-  35.6600, -81.6600
-  35.9700, -81.8400
-  35.9700, -81.4100
-  36.0300, -81.2700
-  36.0400, -81.1900
-  36.0300, -81.1700
-  36.0400, -81.1300
-  36.0300, -81.0700
-  36.0600, -80.9900
-  36.0600, -80.9300
-  35.9400, -80.7000
 End:
