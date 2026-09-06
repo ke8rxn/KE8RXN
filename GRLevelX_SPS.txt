@@ -3,9 +3,52 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-06 14:25:15 UTC
+; Generated: 2026-09-06 14:30:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 9:23AM CDT by NWS Bismarck ND\nExpires: 2026-09-06 15:00 Z\nAt 923 AM CDT /823 AM MDT/, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Dickinson, moving northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Killdeer, Halliday, Dunn Center, Dodge, Manning, Marshall and Hirschville.\nGenerated: 2026-09-06 14:25:15 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 10:27AM EDT by NWS Morristown TN\nExpires: 2026-09-06 15:30 Z\nAt 1026 AM EDT, Doppler radar was tracking a strong thunderstorm near Eolia, or 9 miles south of Whitesburg, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kingsport, Norton, Wise, Gate City, Big Stone Gap, Weber City, Coeburn, Appalachia, St. Paul, and Nickelsville.\nGenerated: 2026-09-06 14:30:16 UTC"
+  36.8000, -82.0800
+  36.5100, -82.5200
+  36.9200, -82.8700
+  36.9300, -82.8600
+  36.9500, -82.8600
+  36.9700, -82.8700
+  36.9900, -82.8300
+  37.0100, -82.8300
+  37.0100, -82.7900
+  37.0300, -82.7600
+  37.0300, -82.7500
+  37.0400, -82.7400
+  37.0500, -82.7200
+  37.0700, -82.7300
+  37.0800, -82.7200
+  36.8000, -82.0800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 6 at 9:27AM CDT by NWS Twin Cities/Chanhassen MN\nExpires: 2026-09-06 15:00 Z\nAt 927 AM CDT, Doppler radar was tracking heavy rain and minor flooding near Morgan, or 9 miles southeast of Redwood Falls, moving north at 15 mph.  Locations impacted include... Redwood Falls, Morgan, Morton, Clements, Redwood Falls Airport and North Redwood.\nGenerated: 2026-09-06 14:30:16 UTC"
+  44.3400, -94.8700
+  44.3600, -95.1300
+  44.6100, -95.1500
+  44.5800, -95.0900
+  44.5700, -95.1000
+  44.5700, -95.0700
+  44.5500, -95.0200
+  44.5500, -95.0100
+  44.5400, -95.0200
+  44.5500, -94.9900
+  44.5400, -94.9800
+  44.5400, -94.9700
+  44.5300, -94.9700
+  44.5300, -94.9400
+  44.5200, -94.9400
+  44.5200, -94.8800
+  44.5100, -94.8800
+  44.5000, -94.8700
+  44.3400, -94.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 6 at 9:23AM CDT by NWS Bismarck ND\nExpires: 2026-09-06 15:00 Z\nAt 923 AM CDT /823 AM MDT/, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Dickinson, moving northeast at 50 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Killdeer, Halliday, Dunn Center, Dodge, Manning, Marshall and Hirschville.\nGenerated: 2026-09-06 14:30:16 UTC"
   46.9800, -102.8400
   47.1100, -103.0100
   47.5300, -102.6300
@@ -17,7 +60,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 9:23AM CDT by NWS Bism
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 10:02AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-06 14:45 Z\nAt 1002 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Wilkesboro to 7 miles northeast of Hickory to 9 miles west of Lenoir. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, Statesville, Lenoir, Morganton, Newton, Taylorsville, St. Stephens, Conover, Longview, and Sawmills.\nGenerated: 2026-09-06 14:25:15 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 10:02AM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-06 14:45 Z\nAt 1002 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles southeast of Wilkesboro to 7 miles northeast of Hickory to 9 miles west of Lenoir. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hickory, Statesville, Lenoir, Morganton, Newton, Taylorsville, St. Stephens, Conover, Longview, and Sawmills.\nGenerated: 2026-09-06 14:30:16 UTC"
   35.9400, -80.7000
   35.8600, -80.7100
   35.6200, -80.9700
@@ -32,36 +75,4 @@ Line: 2,,"Special Weather Statement issued September 6 at 10:02AM EDT by NWS Gre
   36.0600, -80.9900
   36.0600, -80.9300
   35.9400, -80.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 9:58AM EDT by NWS Blacksburg VA\nExpires: 2026-09-06 14:30 Z\nAt 957 AM EDT, Doppler radar was tracking a cluster of strong thunderstorms over Clingman, or near Ronda, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... North Wilkesboro... Elkin... Wilkesboro... Fairview... Yadkinville... Jonesville... and Dobson.\nGenerated: 2026-09-06 14:25:15 UTC"
-  36.0000, -81.3200
-  36.0300, -81.3500
-  36.3700, -81.0200
-  36.3800, -80.9800
-  36.4100, -80.9600
-  36.4300, -80.9600
-  36.4800, -80.7900
-  36.3100, -80.4500
-  36.1400, -80.4400
-  36.1100, -80.5100
-  36.0500, -80.5000
-  36.0600, -80.9600
-  36.0300, -81.0900
-  36.0400, -81.2000
-  36.0300, -81.2700
-  36.0000, -81.3200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 8:57AM CDT by NWS Bismarck ND\nExpires: 2026-09-06 14:30 Z\nAt 857 AM CDT /757 AM MDT/, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Belfield, or 16 miles west of Dickinson, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Belfield, South Heart, South Fairfield and New Hradec.\nGenerated: 2026-09-06 14:25:15 UTC"
-  46.9000, -103.2300
-  46.9300, -103.2600
-  47.2700, -103.1700
-  47.2100, -102.8500
-  47.0600, -102.6600
-  46.7800, -103.0200
-  46.8700, -103.2100
-  46.9000, -103.2300
 End:
