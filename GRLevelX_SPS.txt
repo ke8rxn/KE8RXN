@@ -3,33 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-07 15:42:26 UTC
+; Generated: 2026-09-07 15:45:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 11:20AM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-09-07 15:45 Z\nAt 1120 AM EDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Lake Kissimmee, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... River Ranch and Indian Lake Estates.\nGenerated: 2026-09-07 15:42:26 UTC"
-  27.6500, -81.5200
-  27.9400, -81.4800
-  27.9500, -81.3400
-  27.9400, -81.3500
-  27.9200, -81.3100
-  27.9000, -81.3100
-  27.8600, -81.3000
-  27.8500, -81.2700
-  27.8500, -81.2400
-  27.8300, -81.2200
-  27.7600, -81.1800
-  27.7500, -81.1800
-  27.7400, -81.1600
-  27.7300, -81.1700
+Line: 2,,"Special Weather Statement issued September 7 at 11:44AM EDT by NWS Melbourne FL\nExpires: 2026-09-07 16:15 Z\nAt 1144 AM EDT, Doppler radar was tracking a strong thunderstorm near Lake Kissimmee, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Kissimmee.\nGenerated: 2026-09-07 15:45:21 UTC"
+  28.0400, -81.0600
+  27.6600, -81.0800
+  27.6700, -81.1400
   27.7100, -81.1500
-  27.6400, -81.1400
-  27.6500, -81.5200
+  27.7300, -81.1700
+  27.7400, -81.1600
+  27.7500, -81.1800
+  27.7600, -81.1700
+  27.8200, -81.2100
+  27.8500, -81.2400
+  27.8500, -81.2700
+  27.8600, -81.3000
+  27.9200, -81.3100
+  27.9400, -81.3500
+  28.0400, -81.0600
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 11:00AM EDT by NWS Jacksonville FL\nExpires: 2026-09-07 15:45 Z\nAt 1100 AM EDT, Doppler radar was tracking a strong thunderstorm near Amelia City, or 7 miles south of Fernandina Beach, moving southwest at 5 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Fernandina Beach, Yulee, Amelia City, and Talbot Island.\nGenerated: 2026-09-07 15:42:26 UTC"
-  30.6900, -81.4200
-  30.4800, -81.3800
-  30.4400, -81.5500
-  30.6900, -81.5900
-  30.6900, -81.4200
+Line: 2,,"Special Weather Statement issued September 7 at 10:42AM CDT by NWS Bismarck ND\nExpires: 2026-09-07 16:15 Z\nAt 1042 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles southwest of Souris to 7 miles west of Drake, or extending from 17 miles west of Bottineau to 29 miles west of Harvey, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Rugby, Bottineau, Dunseith, Rolette, Towner, Granville, Willow City, Upham, Denbigh, Karlsruhe, Souris, Wolford, Barton City, Barton, Berwick, Landa, Gardena, Kramer, Balfour and Overly.\nGenerated: 2026-09-07 15:45:21 UTC"
+  48.6300, -100.8600
+  48.6600, -100.8600
+  48.9200, -100.9700
+  49.0000, -100.8400
+  49.0000, -100.0900
+  48.9100, -100.0300
+  48.4700, -99.6800
+  48.3700, -99.8200
+  48.3700, -99.8500
+  48.3500, -99.8500
+  47.8600, -100.5600
+  48.1700, -100.8700
+  48.6300, -100.8600
 End:
