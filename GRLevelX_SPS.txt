@@ -3,9 +3,26 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-07 18:25:13 UTC
+; Generated: 2026-09-07 18:30:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 2:24PM EDT by NWS Miami FL\nExpires: 2026-09-07 19:00 Z\nAt 224 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Haverhill, or near West Palm Beach, moving east at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... West Palm Beach, Wellington, Palm Beach Gardens, Lake Worth, Riviera Beach, Palm Beach, Greenacres, Royal Palm Beach, Palm Springs, Lantana, Lake Park, Haverhill, Cloud Lake, President Donald J. Trump International Airport, Port Of Palm Beach, Golden Lakes, Gun Club Estates, Schall Circle, Royal Palm Estates, and Lake Belvedere Estates.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 12:28PM MDT by NWS Billings MT\nExpires: 2026-09-07 19:30 Z\nAt 1228 PM MDT, Doppler radar was tracking a line of showers and thunderstorms extending from 15 miles northwest of Shepherd to near Joliet moving southeast at 30 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Billings, Laurel, Joliet, Fromberg, Billings West End, Billings Heights, Lockwood, Shepherd, Huntley, Worden, Ballantine, Broadview, Acton, Silesia, Comanche, Park City, Rockvale, Molt, Edgar and Boyd.\nGenerated: 2026-09-07 18:30:15 UTC"
+  45.4200, -109.2400
+  46.1300, -108.9300
+  46.1300, -108.4000
+  45.9000, -108.0500
+  45.6500, -108.0800
+  45.4900, -108.2000
+  45.4900, -108.3100
+  45.4700, -108.3300
+  45.4700, -108.6500
+  45.4300, -108.6900
+  45.3100, -108.7200
+  45.3100, -109.0300
+  45.4200, -109.2400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 7 at 2:24PM EDT by NWS Miami FL\nExpires: 2026-09-07 19:00 Z\nAt 224 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Haverhill, or near West Palm Beach, moving east at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... West Palm Beach, Wellington, Palm Beach Gardens, Lake Worth, Riviera Beach, Palm Beach, Greenacres, Royal Palm Beach, Palm Springs, Lantana, Lake Park, Haverhill, Cloud Lake, President Donald J. Trump International Airport, Port Of Palm Beach, Golden Lakes, Gun Club Estates, Schall Circle, Royal Palm Estates, and Lake Belvedere Estates.\nGenerated: 2026-09-07 18:30:15 UTC"
   26.6500, -80.0400
   26.7100, -80.0400
   26.7100, -80.0500
@@ -26,7 +43,7 @@ Line: 2,,"Special Weather Statement issued September 7 at 2:24PM EDT by NWS Miam
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 12:22PM MDT by NWS Billings MT\nExpires: 2026-09-07 19:15 Z\nAt 1222 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 17 miles north of Roundup to 16 miles northwest of Billings West End moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roundup, Melstone, Worden, Musselshell and Klein. This does NOT include the city Billings.  Strong winds may occur with little to no precipitation.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 12:22PM MDT by NWS Billings MT\nExpires: 2026-09-07 19:15 Z\nAt 1222 PM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 17 miles north of Roundup to 16 miles northwest of Billings West End moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roundup, Melstone, Worden, Musselshell and Klein. This does NOT include the city Billings.  Strong winds may occur with little to no precipitation.\nGenerated: 2026-09-07 18:30:15 UTC"
   46.1300, -109.1000
   46.3800, -108.8100
   46.7500, -108.6500
@@ -43,7 +60,7 @@ Line: 2,,"Special Weather Statement issued September 7 at 12:22PM MDT by NWS Bil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 2:20PM EDT by NWS Miami FL\nExpires: 2026-09-07 19:00 Z\nAt 220 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near Hendry Correctional, or 11 miles southeast of Ave Maria, moving east at 20 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hendry Correctional, Big Cypress National Preserve, and Miles City.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 2:20PM EDT by NWS Miami FL\nExpires: 2026-09-07 19:00 Z\nAt 220 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm near Hendry Correctional, or 11 miles southeast of Ave Maria, moving east at 20 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hendry Correctional, Big Cypress National Preserve, and Miles City.\nGenerated: 2026-09-07 18:30:15 UTC"
   26.0800, -81.3800
   26.2600, -81.3100
   26.4300, -81.3800
@@ -53,7 +70,7 @@ Line: 2,,"Special Weather Statement issued September 7 at 2:20PM EDT by NWS Miam
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 1:19PM CDT by NWS New Orleans LA\nExpires: 2026-09-07 19:00 Z\nAt 119 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles southeast of Chauvin, or 15 miles southwest of Galliano, moving southwest at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cocodrie, Dulac, Montegut, Tambour Bay Buoy, and Lumcon Center Buoy.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 1:19PM CDT by NWS New Orleans LA\nExpires: 2026-09-07 19:00 Z\nAt 119 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms 7 miles southeast of Chauvin, or 15 miles southwest of Galliano, moving southwest at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cocodrie, Dulac, Montegut, Tambour Bay Buoy, and Lumcon Center Buoy.\nGenerated: 2026-09-07 18:30:15 UTC"
   29.2500, -90.9100
   29.4400, -90.5500
   29.3200, -90.4300
@@ -68,7 +85,7 @@ Line: 2,,"Special Weather Statement issued September 7 at 1:19PM CDT by NWS New 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 1:14PM CDT by NWS New Orleans LA\nExpires: 2026-09-07 19:00 Z\nAt 114 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Lacombe, or near Mandeville. These storms were nearly stationary.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mandeville, Covington, Abita Springs, Madisonville, and Lacombe.  This includes Interstate 12 between mile markers 56 and 78.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 1:14PM CDT by NWS New Orleans LA\nExpires: 2026-09-07 19:00 Z\nAt 114 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Lacombe, or near Mandeville. These storms were nearly stationary.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mandeville, Covington, Abita Springs, Madisonville, and Lacombe.  This includes Interstate 12 between mile markers 56 and 78.\nGenerated: 2026-09-07 18:30:15 UTC"
   30.4800, -89.8300
   30.2400, -89.8700
   30.2700, -90.0100
@@ -79,7 +96,7 @@ Line: 2,,"Special Weather Statement issued September 7 at 1:14PM CDT by NWS New 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 2:12PM EDT by NWS Melbourne FL\nExpires: 2026-09-07 18:45 Z\nAt 211 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Vero Beach to Fort Pierce North to near Treasure Island. Movement was east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Saint Lucie, Walton, Fort Pierce, Stuart, and Vero Beach.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 2:12PM EDT by NWS Melbourne FL\nExpires: 2026-09-07 18:45 Z\nAt 211 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Vero Beach to Fort Pierce North to near Treasure Island. Movement was east at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Saint Lucie, Walton, Fort Pierce, Stuart, and Vero Beach.\nGenerated: 2026-09-07 18:30:15 UTC"
   27.0800, -80.6600
   27.1100, -80.6600
   27.1600, -80.7100
@@ -94,7 +111,7 @@ Line: 2,,"Special Weather Statement issued September 7 at 2:12PM EDT by NWS Melb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 1:06PM CDT by NWS New Orleans LA\nExpires: 2026-09-07 18:45 Z\nAt 106 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Waveland, moving west at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bay St. Louis, Waveland, Diamondhead, Kiln, Pearlington, and Shoreline Park.  This includes Interstate 10 in Mississippi between mile markers 3 and 18.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 1:06PM CDT by NWS New Orleans LA\nExpires: 2026-09-07 18:45 Z\nAt 106 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Waveland, moving west at 5 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bay St. Louis, Waveland, Diamondhead, Kiln, Pearlington, and Shoreline Park.  This includes Interstate 10 in Mississippi between mile markers 3 and 18.\nGenerated: 2026-09-07 18:30:15 UTC"
   30.2300, -89.4000
   30.2200, -89.6300
   30.4800, -89.5800
@@ -107,26 +124,7 @@ Line: 2,,"Special Weather Statement issued September 7 at 1:06PM CDT by NWS New 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 11:54AM MDT by NWS Billings MT\nExpires: 2026-09-07 18:30 Z\nAt 1154 AM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles west of Roundup to 7 miles northwest of Columbus, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Broadview, Molt, Comanche and Acton. This does NOT include the cityBillings.  Strong winds may occur with little to no precipitation.\nGenerated: 2026-09-07 18:25:13 UTC"
-  45.6700, -109.5300
-  45.9600, -109.4300
-  45.9600, -109.4200
-  45.9800, -109.4200
-  45.8900, -108.9200
-  46.1300, -108.9300
-  46.1300, -108.4000
-  45.6600, -108.8800
-  45.5800, -109.1700
-  45.6300, -109.5100
-  45.6300, -109.5300
-  45.6400, -109.5300
-  45.6400, -109.5200
-  45.6500, -109.5300
-  45.6700, -109.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 1:53PM EDT by NWS Miami FL\nExpires: 2026-09-07 18:45 Z\nAt 153 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Clewiston to 7 miles west of Lake Harbor to 8 miles northwest of Rotenberger Wildlife Refuge to near Big Cypress Seminole Reservation. Movement was east at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Belle Glade, Clewiston, South Bay, Lake Harbor, Okeelanta, Holey Land Wildlife Refuge, Big Cypress Seminole Reservation, Rotenberger Wildlife Refuge, Belle Glade Camp, and Harlem.\nGenerated: 2026-09-07 18:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 1:53PM EDT by NWS Miami FL\nExpires: 2026-09-07 18:45 Z\nAt 153 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Clewiston to 7 miles west of Lake Harbor to 8 miles northwest of Rotenberger Wildlife Refuge to near Big Cypress Seminole Reservation. Movement was east at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Belle Glade, Clewiston, South Bay, Lake Harbor, Okeelanta, Holey Land Wildlife Refuge, Big Cypress Seminole Reservation, Rotenberger Wildlife Refuge, Belle Glade Camp, and Harlem.\nGenerated: 2026-09-07 18:30:15 UTC"
   26.7900, -80.5900
   26.2600, -80.6300
   26.2300, -81.0700
@@ -148,34 +146,4 @@ Line: 2,,"Special Weather Statement issued September 7 at 1:53PM EDT by NWS Miam
   26.7600, -80.6900
   26.7900, -80.7000
   26.7900, -80.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 11:48AM MDT by NWS Great Falls MT\nExpires: 2026-09-07 18:30 Z\nAt 1148 AM MDT, Doppler radar was tracking a strong thunderstorm 19 miles south of Grass Range, or 27 miles northwest of Roundup, moving east at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Fergus County.\nGenerated: 2026-09-07 18:25:13 UTC"
-  46.7500, -108.6400
-  46.7500, -109.2200
-  46.8600, -109.4600
-  47.0100, -108.6100
-  46.7500, -108.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 11:40AM MDT by NWS Billings MT\nExpires: 2026-09-07 18:30 Z\nAt 1140 AM MDT, Doppler radar was tracking an area of strong thunderstorms extending from 30 miles north of Ryegate to 17 miles south of Ryegate moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roundup, Lavina, Klein, Hailstone Wildlife Refuge, Halfbreed Lake Wildlife and Rapelje.\nGenerated: 2026-09-07 18:25:13 UTC"
-  46.0500, -109.5800
-  46.2700, -109.1400
-  46.4200, -109.1000
-  46.7500, -109.3100
-  46.7500, -108.5100
-  46.3700, -108.3500
-  46.2400, -108.3800
-  46.2400, -108.4100
-  46.1400, -108.4100
-  46.1400, -108.9300
-  45.9600, -108.9300
-  45.9500, -108.9100
-  45.9000, -108.9100
-  45.8900, -108.9200
-  45.9800, -109.4200
-  46.0400, -109.4200
-  46.0500, -109.5800
 End:
