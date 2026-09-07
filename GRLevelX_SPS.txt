@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-07 15:00:22 UTC
+; Generated: 2026-09-07 15:05:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 7 at 10:56AM EDT by NWS Melbourne FL\nExpires: 2026-09-07 15:30 Z\nAt 1056 AM EDT, Doppler radar was tracking a strong thunderstorm over Buena Ventura Lakes, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Kissimmee, Buena Ventura Lakes, East Lake Toho, and Narcoossee.\nGenerated: 2026-09-07 15:00:22 UTC"
+Line: 2,,"Special Weather Statement issued September 7 at 11:00AM EDT by NWS Jacksonville FL\nExpires: 2026-09-07 15:45 Z\nAt 1100 AM EDT, Doppler radar was tracking a strong thunderstorm near Amelia City, or 7 miles south of Fernandina Beach, moving southwest at 5 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Fernandina Beach, Yulee, Amelia City, and Talbot Island.\nGenerated: 2026-09-07 15:05:12 UTC"
+  30.6900, -81.4200
+  30.4800, -81.3800
+  30.4400, -81.5500
+  30.6900, -81.5900
+  30.6900, -81.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 7 at 10:56AM EDT by NWS Melbourne FL\nExpires: 2026-09-07 15:30 Z\nAt 1056 AM EDT, Doppler radar was tracking a strong thunderstorm over Buena Ventura Lakes, moving east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orlando, Kissimmee, Buena Ventura Lakes, East Lake Toho, and Narcoossee.\nGenerated: 2026-09-07 15:05:12 UTC"
   28.2800, -81.3900
   28.3800, -81.3900
   28.4300, -81.1100
