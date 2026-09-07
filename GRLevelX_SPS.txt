@@ -3,9 +3,45 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-07 00:00:23 UTC
+; Generated: 2026-09-07 00:05:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 7:59PM EDT by NWS Jacksonville FL\nExpires: 2026-09-07 00:45 Z\nAt 759 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pearson to near Race Pond. Movement was south at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Homerville, Pearson, Argyle, Boggy Bay, Manor, Cogdell, Braganza, Race Pond, Needham, and Millwood.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 7:03PM CDT by NWS Topeka KS\nExpires: 2026-09-07 00:30 Z\nAt 701 PM CDT, Doppler radar was tracking a strong thunderstorm near Oskaloosa, moving east at 10 mph.  HAZARD...Wind gusts of 40 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down twigs or small limbs and blow around objects. Minor damage to vegetation is possible.  Locations impacted include... Oskaloosa and McLouth.\nGenerated: 2026-09-07 00:05:12 UTC"
+  39.1300, -95.1900
+  39.1100, -95.1900
+  39.0800, -95.3000
+  39.2500, -95.3600
+  39.3100, -95.1800
+  39.1300, -95.1800
+  39.1300, -95.1900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 6 at 8:03PM EDT by NWS Tallahassee FL\nExpires: 2026-09-07 00:45 Z\nAt 803 PM EDT, Doppler radar was tracking a strong thunderstorm near Dowling Park, or 10 miles southwest of Suwannee River State Park, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mayo, Townsend, Cooks Hammock, Chancey, Hatch Bend, Buckville, San Pedro Junction, Day, Alton, Mayo Junction, Grady, and Fletcher Springs.\nGenerated: 2026-09-07 00:05:12 UTC"
+  29.8300, -82.9000
+  29.8200, -83.3500
+  29.8900, -83.3500
+  29.8900, -83.3700
+  30.2600, -83.3600
+  30.2600, -83.2600
+  30.2500, -83.2400
+  30.1100, -83.2300
+  30.1000, -83.1800
+  30.1100, -83.1600
+  30.1000, -83.1300
+  30.1000, -83.1200
+  30.0800, -83.0700
+  30.0100, -83.0000
+  29.9900, -82.9600
+  29.9600, -82.9500
+  29.9500, -82.9200
+  29.8900, -82.9200
+  29.9000, -82.9000
+  29.8800, -82.8800
+  29.8300, -82.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 6 at 7:59PM EDT by NWS Jacksonville FL\nExpires: 2026-09-07 00:45 Z\nAt 759 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Pearson to near Race Pond. Movement was south at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Homerville, Pearson, Argyle, Boggy Bay, Manor, Cogdell, Braganza, Race Pond, Needham, and Millwood.\nGenerated: 2026-09-07 00:05:12 UTC"
   31.3500, -82.8000
   31.0900, -82.0400
   30.7800, -82.0900
@@ -15,7 +51,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 7:59PM EDT by NWS Jack
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 6:52PM CDT by NWS Topeka KS\nExpires: 2026-09-07 00:15 Z\nAt 651 PM CDT, Doppler radar was tracking a strong thunderstorm near Williamstown, moving east at 15 mph.  HAZARD...Wind gusts of 40 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Lawrence, Eudora, Lecompton, and Williamstown.  This includes Kansas Turnpike between mile markers 194 and 205.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 6:52PM CDT by NWS Topeka KS\nExpires: 2026-09-07 00:15 Z\nAt 651 PM CDT, Doppler radar was tracking a strong thunderstorm near Williamstown, moving east at 15 mph.  HAZARD...Wind gusts of 40 to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Lawrence, Eudora, Lecompton, and Williamstown.  This includes Kansas Turnpike between mile markers 194 and 205.\nGenerated: 2026-09-07 00:05:12 UTC"
   38.9400, -95.4200
   39.0500, -95.4100
   39.1200, -95.1900
@@ -33,7 +69,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 6:52PM CDT by NWS Tope
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 5:52PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 552 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 13 miles southwest of Noxon to 20 miles northwest of Haugan, or extending from 36 miles northwest of Thompson Falls to 19 miles west of Thompson Falls, moving north at 25 mph.  HAZARD...Wind gusts up to 30 mph and penny size hail with brief but heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Noxon, Tuscor and Trout Creek.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 5:52PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 552 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 13 miles southwest of Noxon to 20 miles northwest of Haugan, or extending from 36 miles northwest of Thompson Falls to 19 miles west of Thompson Falls, moving north at 25 mph.  HAZARD...Wind gusts up to 30 mph and penny size hail with brief but heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Noxon, Tuscor and Trout Creek.\nGenerated: 2026-09-07 00:05:12 UTC"
   48.0600, -116.0500
   47.9700, -115.6800
   47.8700, -115.5900
@@ -58,7 +94,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 5:52PM MDT by NWS Miss
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 4:51PM PDT by NWS Spokane WA\nExpires: 2026-09-07 00:15 Z\nAt 451 PM PDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Noxon, or 17 miles north of Osburn, moving north at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of north central Shoshone County.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 4:51PM PDT by NWS Spokane WA\nExpires: 2026-09-07 00:15 Z\nAt 451 PM PDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Noxon, or 17 miles north of Osburn, moving north at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  This storm will remain over mainly rural areas of north central Shoshone County.\nGenerated: 2026-09-07 00:05:12 UTC"
   47.6100, -115.7500
   47.6800, -115.9600
   47.8900, -115.9600
@@ -73,7 +109,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 4:51PM PDT by NWS Spok
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 7:51PM EDT by NWS Tallahassee FL\nExpires: 2026-09-07 00:30 Z\nAt 751 PM EDT/651 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northeast of Florala to near Graceville to 10 miles northwest of Donalsonville. Movement was south at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cottonwood, Bonifay, Geneva, Chipley, Graceville, Marianna, Dothan, Hartford, Taylor, Ashford, Slocomb, Samson, Cowarts, Union, Liberty, Malone, Malvern, Rehobeth, Cottondale, and Greenwood.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 7:51PM EDT by NWS Tallahassee FL\nExpires: 2026-09-07 00:30 Z\nAt 751 PM EDT/651 PM CDT/, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles northeast of Florala to near Graceville to 10 miles northwest of Donalsonville. Movement was south at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cottonwood, Bonifay, Geneva, Chipley, Graceville, Marianna, Dothan, Hartford, Taylor, Ashford, Slocomb, Samson, Cowarts, Union, Liberty, Malone, Malvern, Rehobeth, Cottondale, and Greenwood.\nGenerated: 2026-09-07 00:05:12 UTC"
   30.8900, -86.3900
   31.0000, -86.3300
   31.0000, -86.1900
@@ -90,7 +126,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 7:51PM EDT by NWS Tall
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 5:50PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 550 PM MDT, Doppler radar was tracking a strong thunderstorm 18 miles south of Alberton, or 24 miles southwest of Missoula, moving north at 50 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Alberton, Frenchtown, Ninemile, Huson, Lolo Hot Springs and Stark.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 5:50PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 550 PM MDT, Doppler radar was tracking a strong thunderstorm 18 miles south of Alberton, or 24 miles southwest of Missoula, moving north at 50 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Alberton, Frenchtown, Ninemile, Huson, Lolo Hot Springs and Stark.\nGenerated: 2026-09-07 00:05:12 UTC"
   46.7100, -114.6300
   47.1300, -114.5600
   47.1000, -114.2400
@@ -103,7 +139,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 5:50PM MDT by NWS Miss
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Jacksonville FL\nExpires: 2026-09-07 00:15 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm near Suwannee River State Park, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Suwannee River State Park, Dowling Park, Luraville, Mcalpin, and Newburn.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Jacksonville FL\nExpires: 2026-09-07 00:15 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm near Suwannee River State Park, moving southeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Suwannee River State Park, Dowling Park, Luraville, Mcalpin, and Newburn.\nGenerated: 2026-09-07 00:05:12 UTC"
   30.2600, -83.2400
   30.2900, -83.2300
   30.3100, -83.2100
@@ -128,7 +164,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Jack
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Tallahassee FL\nExpires: 2026-09-07 00:45 Z\nAt 749 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northeast of Ashburn to Ocilla to 6 miles southwest of Douglas. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fitzgerald, Ashburn, Ocilla, Enigma, Alapaha, Mystic, Worth, Sycamore, Rebecca, Gladys, Amboy, Osierfield, Glory, Harding, Waterloo, Pinetta, Ashton, Irwinville, Turner Co Airport, and Irwinville Airport.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Tallahassee FL\nExpires: 2026-09-07 00:45 Z\nAt 749 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northeast of Ashburn to Ocilla to 6 miles southwest of Douglas. Movement was south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fitzgerald, Ashburn, Ocilla, Enigma, Alapaha, Mystic, Worth, Sycamore, Rebecca, Gladys, Amboy, Osierfield, Glory, Harding, Waterloo, Pinetta, Ashton, Irwinville, Turner Co Airport, and Irwinville Airport.\nGenerated: 2026-09-07 00:05:12 UTC"
   31.6600, -83.0000
   31.6100, -83.0600
   31.5500, -83.0600
@@ -150,7 +186,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Tall
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Columbia SC\nExpires: 2026-09-07 00:15 Z\nAt 749 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Augusta Regional Airport to 7 miles west of Barnwell. Movement was south at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Savannah River Site, Plant Vogtle, Jackson, Snelling, Girard, Shell Bluff, Shell Bluff Landing, Audubon's Silver Bluff Sanctuary, Savannah River Site Badge Office, Savannah River Site H Canyon, Bennock Mill, and Savannah River Site K Complex.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Columbia SC\nExpires: 2026-09-07 00:15 Z\nAt 749 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Augusta Regional Airport to 7 miles west of Barnwell. Movement was south at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Savannah River Site, Plant Vogtle, Jackson, Snelling, Girard, Shell Bluff, Shell Bluff Landing, Audubon's Silver Bluff Sanctuary, Savannah River Site Badge Office, Savannah River Site H Canyon, Bennock Mill, and Savannah River Site K Complex.\nGenerated: 2026-09-07 00:05:12 UTC"
   33.1200, -81.9900
   33.4000, -81.9000
   33.3100, -81.4500
@@ -168,7 +204,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 7:49PM EDT by NWS Colu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 5:47PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 547 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles northeast of Deer Lodge, moving northeast at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Elliston and Blossburg.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 5:47PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 547 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles northeast of Deer Lodge, moving northeast at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Elliston and Blossburg.\nGenerated: 2026-09-07 00:05:12 UTC"
   46.5300, -112.6500
   46.7000, -112.4300
   46.7000, -112.4100
@@ -193,7 +229,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 5:47PM MDT by NWS Miss
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 4:47PM PDT by NWS Spokane WA\nExpires: 2026-09-07 00:15 Z\nAt 447 PM PDT, Doppler radar was tracking a strong thunderstorm over Rathdrum, moving north at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hayden, Rathdrum, Spirit Lake, and Athol.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 4:47PM PDT by NWS Spokane WA\nExpires: 2026-09-07 00:15 Z\nAt 447 PM PDT, Doppler radar was tracking a strong thunderstorm over Rathdrum, moving north at 20 mph.  HAZARD...Winds in excess of 30 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Hayden, Rathdrum, Spirit Lake, and Athol.\nGenerated: 2026-09-07 00:05:12 UTC"
   47.7600, -116.8300
   47.7700, -116.9500
   47.9900, -116.9700
@@ -202,7 +238,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 4:47PM PDT by NWS Spok
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 5:47PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 547 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Galen, or 10 miles southeast of Deer Lodge, moving northeast at 35 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Elliston and Racetrack.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 5:47PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 547 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles northeast of Galen, or 10 miles southeast of Deer Lodge, moving northeast at 35 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Elliston and Racetrack.\nGenerated: 2026-09-07 00:05:12 UTC"
   46.2900, -112.8100
   46.5800, -112.5000
   46.4700, -112.3100
@@ -227,7 +263,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 5:47PM MDT by NWS Miss
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 4:46PM PDT by NWS Spokane WA\nExpires: 2026-09-07 00:15 Z\nAt 446 PM PDT, Doppler radar was tracking a strong thunderstorm near Davenport, or 24 miles northwest of Cheney, moving north at 15 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Gravelles and Mondovi.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 4:46PM PDT by NWS Spokane WA\nExpires: 2026-09-07 00:15 Z\nAt 446 PM PDT, Doppler radar was tracking a strong thunderstorm near Davenport, or 24 miles northwest of Cheney, moving north at 15 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Gravelles and Mondovi.\nGenerated: 2026-09-07 00:05:12 UTC"
   47.5800, -118.0200
   47.6000, -118.1100
   47.7800, -118.1200
@@ -236,7 +272,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 4:46PM PDT by NWS Spok
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 6:43PM CDT by NWS Jackson MS\nExpires: 2026-09-07 00:45 Z\nAt 643 PM CDT, Doppler radar was tracking a strong thunderstorm over Harperville, or 9 miles northwest of Forest, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Forest and Hillsboro around 650 PM CDT. Morton around 655 PM CDT.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 6:43PM CDT by NWS Jackson MS\nExpires: 2026-09-07 00:45 Z\nAt 643 PM CDT, Doppler radar was tracking a strong thunderstorm over Harperville, or 9 miles northwest of Forest, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Forest and Hillsboro around 650 PM CDT. Morton around 655 PM CDT.\nGenerated: 2026-09-07 00:05:12 UTC"
   32.2900, -89.4200
   32.3100, -89.7300
   32.5800, -89.5900
@@ -246,7 +282,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 6:43PM CDT by NWS Jack
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 5:42PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 542 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of Libby, moving north at 20 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Libby.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 5:42PM MDT by NWS Missoula MT\nExpires: 2026-09-07 00:15 Z\nAt 542 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of Libby, moving north at 20 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Libby.\nGenerated: 2026-09-07 00:05:12 UTC"
   48.2700, -115.6400
   48.5500, -115.7300
   48.5800, -115.3700
@@ -255,7 +291,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 5:42PM MDT by NWS Miss
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 5:42PM MDT by NWS Denver CO\nExpires: 2026-09-07 00:30 Z\nAt 542 PM MDT, Doppler radar was tracking an area of strong thunderstorms 4 miles northeast of Todd Creek, or 22 miles north of Denver, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Northeastern Denver, northwestern Aurora, Thornton, eastern Arvada, Westminster, Broomfield, Commerce City, Northglenn, Brighton, Erie, Federal Heights, Firestone, Denver International Airport, D.I.A Terminal and Concourses, Frederick, Fort Lupton, Lochbuie and Dacono.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 5:42PM MDT by NWS Denver CO\nExpires: 2026-09-07 00:30 Z\nAt 542 PM MDT, Doppler radar was tracking an area of strong thunderstorms 4 miles northeast of Todd Creek, or 22 miles north of Denver, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Northeastern Denver, northwestern Aurora, Thornton, eastern Arvada, Westminster, Broomfield, Commerce City, Northglenn, Brighton, Erie, Federal Heights, Firestone, Denver International Airport, D.I.A Terminal and Concourses, Frederick, Fort Lupton, Lochbuie and Dacono.\nGenerated: 2026-09-07 00:05:12 UTC"
   39.9700, -105.0600
   39.9800, -105.0500
   39.9900, -105.0500
@@ -268,7 +304,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 5:42PM MDT by NWS Denv
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 7:40PM EDT by NWS Wilmington NC\nExpires: 2026-09-07 00:15 Z\nAt 739 PM EDT, Doppler radar was tracking a strong thunderstorm near Earle, or 19 miles southeast of Kingstree, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Andrews, Lambert, Trio, Warsaw, and Earle.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 7:40PM EDT by NWS Wilmington NC\nExpires: 2026-09-07 00:15 Z\nAt 739 PM EDT, Doppler radar was tracking a strong thunderstorm near Earle, or 19 miles southeast of Kingstree, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Andrews, Lambert, Trio, Warsaw, and Earle.\nGenerated: 2026-09-07 00:05:12 UTC"
   33.2500, -79.5500
   33.2700, -79.5500
   33.2600, -79.5600
@@ -290,7 +326,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 7:40PM EDT by NWS Wilm
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 7:40PM EDT by NWS Tallahassee FL\nExpires: 2026-09-07 00:30 Z\nAt 739 PM EDT, Doppler radar was tracking a strong thunderstorm near Blue Springs, or 7 miles southeast of Madison, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madison, Lee, Chancey, Hopewell, Hanson, Day, and Mayo Junction.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 7:40PM EDT by NWS Tallahassee FL\nExpires: 2026-09-07 00:30 Z\nAt 739 PM EDT, Doppler radar was tracking a strong thunderstorm near Blue Springs, or 7 miles southeast of Madison, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Madison, Lee, Chancey, Hopewell, Hanson, Day, and Mayo Junction.\nGenerated: 2026-09-07 00:05:12 UTC"
   30.3700, -83.1900
   30.3500, -83.1900
   30.3500, -83.2100
@@ -315,7 +351,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 7:40PM EDT by NWS Tall
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 6:39PM CDT by NWS Jackson MS\nExpires: 2026-09-07 00:45 Z\nAt 639 PM CDT, Doppler radar was tracking a strong thunderstorm over Myrleville, or 13 miles southeast of Yazoo City, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Flora around 645 PM CDT. Jackson around 655 PM CDT. Annandale around 700 PM CDT. Canton around 710 PM CDT.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 6:39PM CDT by NWS Jackson MS\nExpires: 2026-09-07 00:45 Z\nAt 639 PM CDT, Doppler radar was tracking a strong thunderstorm over Myrleville, or 13 miles southeast of Yazoo City, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Flora around 645 PM CDT. Jackson around 655 PM CDT. Annandale around 700 PM CDT. Canton around 710 PM CDT.\nGenerated: 2026-09-07 00:05:12 UTC"
   32.5900, -89.9300
   32.4900, -90.2500
   32.4900, -90.4100
@@ -325,7 +361,7 @@ Line: 2,,"Special Weather Statement issued September 6 at 6:39PM CDT by NWS Jack
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 6 at 6:36PM CDT by NWS Jackson MS\nExpires: 2026-09-07 00:30 Z\nAt 636 PM CDT, Doppler radar was tracking a strong thunderstorm near Mer Rouge, or 11 miles east of Bastrop, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Mer Rouge around 640 PM CDT.\nGenerated: 2026-09-07 00:00:23 UTC"
+Line: 2,,"Special Weather Statement issued September 6 at 6:36PM CDT by NWS Jackson MS\nExpires: 2026-09-07 00:30 Z\nAt 636 PM CDT, Doppler radar was tracking a strong thunderstorm near Mer Rouge, or 11 miles east of Bastrop, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Mer Rouge around 640 PM CDT.\nGenerated: 2026-09-07 00:05:12 UTC"
   32.9500, -91.6900
   32.8700, -91.5500
   32.8500, -91.5700
