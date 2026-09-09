@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-09 20:20:18 UTC
+; Generated: 2026-09-09 20:25:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 4:15PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-09-09 21:00 Z\nAt 415 PM EDT, Doppler radar was tracking a strong thunderstorm over San Carlos Park, or 7 miles east of Fort Myers Beach, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cape Coral, Sanibel, Fort Myers Beach, Captiva, North Captiva Island, San Carlos Park, McGregor, Pine Manor, Lovers Key State Park, Southwest Florida Airport, Harlem Heights, Iona, Cypress Lake, St. James City, Villas, Three Oaks, Pine Island Center, Saint James City, Whiskey Creek, and Page Park.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 3:21PM CDT by NWS Topeka KS\nExpires: 2026-09-09 20:45 Z\nAt 321 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles north of Admire, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Harveyville, Allen, Admire, and Bushong.  This includes Kansas Turnpike between mile markers 143 and 161.\nGenerated: 2026-09-09 20:25:15 UTC"
+  38.6400, -96.3300
+  38.7900, -96.2700
+  38.8400, -95.8900
+  38.7000, -95.8400
+  38.5700, -95.8700
+  38.6400, -96.3300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 9 at 3:21PM CDT by NWS Norman OK\nExpires: 2026-09-09 20:45 Z\nAt 321 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southwest of Aetna to 8 miles west of Buffalo. Movement was southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Laverne, Buffalo, Freedom, May, Rosston, Alabaster Caverns State Park, Selman, and Camp Houston.\nGenerated: 2026-09-09 20:25:15 UTC"
+  37.0000, -98.9600
+  36.7200, -98.8500
+  36.5900, -99.3100
+  36.6000, -99.9900
+  37.0000, -99.8800
+  37.0000, -98.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 9 at 4:15PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-09-09 21:00 Z\nAt 415 PM EDT, Doppler radar was tracking a strong thunderstorm over San Carlos Park, or 7 miles east of Fort Myers Beach, moving west at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cape Coral, Sanibel, Fort Myers Beach, Captiva, North Captiva Island, San Carlos Park, McGregor, Pine Manor, Lovers Key State Park, Southwest Florida Airport, Harlem Heights, Iona, Cypress Lake, St. James City, Villas, Three Oaks, Pine Island Center, Saint James City, Whiskey Creek, and Page Park.\nGenerated: 2026-09-09 20:25:15 UTC"
   26.3600, -82.0800
   26.3900, -82.1600
   26.4500, -82.2000
@@ -18,7 +38,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 4:15PM EDT by NWS Tamp
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 4:13PM EDT by NWS Cleveland OH\nExpires: 2026-09-09 21:00 Z\nAt 413 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Willowick to near Parma. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Chardon, Parma, Euclid, Cleveland Heights, Strongsville, North Royalton, Solon, Twinsburg, Warrensville Heights, Macedonia, South Russell, Middlefield, Burton, Highland Hills, Chesterland, Garfield Heights, Shaker Heights, Maple Heights, and South Euclid.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 4:13PM EDT by NWS Cleveland OH\nExpires: 2026-09-09 21:00 Z\nAt 413 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Willowick to near Parma. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Chardon, Parma, Euclid, Cleveland Heights, Strongsville, North Royalton, Solon, Twinsburg, Warrensville Heights, Macedonia, South Russell, Middlefield, Burton, Highland Hills, Chesterland, Garfield Heights, Shaker Heights, Maple Heights, and South Euclid.\nGenerated: 2026-09-09 20:25:15 UTC"
   41.4500, -81.0000
   41.3400, -81.1500
   41.3500, -81.3900
@@ -36,7 +56,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 4:13PM EDT by NWS Clev
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 3:12PM CDT by NWS Topeka KS\nExpires: 2026-09-09 20:45 Z\nAt 312 PM CDT, Doppler radar was tracking a strong thunderstorm over Williamsburg, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Ottawa, Centropolis, and Pomona.  This includes Interstate 35 between mile markers 173 and 193.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 3:12PM CDT by NWS Topeka KS\nExpires: 2026-09-09 20:45 Z\nAt 312 PM CDT, Doppler radar was tracking a strong thunderstorm over Williamsburg, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Ottawa, Centropolis, and Pomona.  This includes Interstate 35 between mile markers 173 and 193.\nGenerated: 2026-09-09 20:25:15 UTC"
   38.4700, -95.3600
   38.5400, -95.5100
   38.5900, -95.5100
@@ -47,7 +67,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 3:12PM CDT by NWS Tope
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 3:09PM CDT by NWS Houston/Galveston TX\nExpires: 2026-09-09 20:45 Z\nAt 308 PM CDT, Doppler radar was tracking strong thunderstormS near Huntsville State Park, or near Huntsville, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, New Waverly, Riverside, and Huntsville State Park.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 3:09PM CDT by NWS Houston/Galveston TX\nExpires: 2026-09-09 20:45 Z\nAt 308 PM CDT, Doppler radar was tracking strong thunderstormS near Huntsville State Park, or near Huntsville, moving northwest at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Huntsville, New Waverly, Riverside, and Huntsville State Park.\nGenerated: 2026-09-09 20:25:15 UTC"
   30.6000, -95.3000
   30.5000, -95.4100
   30.7000, -95.7100
@@ -56,7 +76,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 3:09PM CDT by NWS Hous
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 4:06PM EDT by NWS Cleveland OH\nExpires: 2026-09-09 20:45 Z\nAt 405 PM EDT, Doppler radar was tracking a strong thunderstorm near Upper Sandusky, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bucyrus, Upper Sandusky, Galion, Crestline, New Washington, Sycamore, Morral, Chatfield, Marseilles, Benton, Nevada, Tiro, North Robinson, Harpster, Oceola, and Sulpher Springs.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 4:06PM EDT by NWS Cleveland OH\nExpires: 2026-09-09 20:45 Z\nAt 405 PM EDT, Doppler radar was tracking a strong thunderstorm near Upper Sandusky, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bucyrus, Upper Sandusky, Galion, Crestline, New Washington, Sycamore, Morral, Chatfield, Marseilles, Benton, Nevada, Tiro, North Robinson, Harpster, Oceola, and Sulpher Springs.\nGenerated: 2026-09-09 20:25:15 UTC"
   40.9800, -83.1300
   40.9700, -82.7300
   40.7100, -82.8000
@@ -71,7 +91,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 4:06PM EDT by NWS Clev
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 3:03PM CDT by NWS Dodge City KS\nExpires: 2026-09-09 20:45 Z\nAt 303 PM CDT, Doppler radar was tracking a strong thunderstorm near Hardtner, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Barber County.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 3:03PM CDT by NWS Dodge City KS\nExpires: 2026-09-09 20:45 Z\nAt 303 PM CDT, Doppler radar was tracking a strong thunderstorm near Hardtner, moving east at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Barber County.\nGenerated: 2026-09-09 20:25:15 UTC"
   37.0000, -98.6700
   37.2200, -98.7000
   37.2600, -98.3900
@@ -81,7 +101,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 3:03PM CDT by NWS Dodg
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 2:57PM CDT by NWS Topeka KS\nExpires: 2026-09-09 20:30 Z\nAt 257 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Madison, moving east at 30 mph.  HAZARD...Strong wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Olpe.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 2:57PM CDT by NWS Topeka KS\nExpires: 2026-09-09 20:30 Z\nAt 257 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Madison, moving east at 30 mph.  HAZARD...Strong wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Olpe.\nGenerated: 2026-09-09 20:25:15 UTC"
   38.1700, -96.3600
   38.2900, -96.3500
   38.2700, -95.9500
@@ -92,7 +112,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 2:57PM CDT by NWS Tope
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 2:54PM CDT by NWS Norman OK\nExpires: 2026-09-09 20:30 Z\nAt 253 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles west of Capron, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Alva, Burlington, and Capron.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 2:54PM CDT by NWS Norman OK\nExpires: 2026-09-09 20:30 Z\nAt 253 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles west of Capron, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Alva, Burlington, and Capron.\nGenerated: 2026-09-09 20:25:15 UTC"
   36.8400, -98.4000
   36.7900, -98.7200
   36.9900, -98.8800
@@ -102,7 +122,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 2:54PM CDT by NWS Norm
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 2:53PM CDT by NWS Amarillo TX\nExpires: 2026-09-09 20:30 Z\nAt 253 PM CDT, Doppler radar was tracking a strong thunderstorm near Dalhart, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dalhart, Romero, and Conlen.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 2:53PM CDT by NWS Amarillo TX\nExpires: 2026-09-09 20:30 Z\nAt 253 PM CDT, Doppler radar was tracking a strong thunderstorm near Dalhart, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Dalhart, Romero, and Conlen.\nGenerated: 2026-09-09 20:25:15 UTC"
   35.6500, -103.0400
   36.4600, -102.1700
   36.2600, -102.0500
@@ -111,7 +131,7 @@ Line: 2,,"Special Weather Statement issued September 9 at 2:53PM CDT by NWS Amar
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 9 at 3:40PM EDT by NWS Cleveland OH\nExpires: 2026-09-09 20:30 Z\nAt 340 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Western Vermilion to near Northern Milan to near Bloomville. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Lorain, Elyria, Tiffin, Norwalk, Vermilion, Western Vermilion, Parma, Lakewood, Strongsville, Westlake, North Ridgeville, Avon Lake, Amherst, Grafton, Willard, Wellington, New London, Plymouth, and Milan.\nGenerated: 2026-09-09 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 9 at 3:40PM EDT by NWS Cleveland OH\nExpires: 2026-09-09 20:30 Z\nAt 340 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Western Vermilion to near Northern Milan to near Bloomville. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Cleveland, Lorain, Elyria, Tiffin, Norwalk, Vermilion, Western Vermilion, Parma, Lakewood, Strongsville, Westlake, North Ridgeville, Avon Lake, Amherst, Grafton, Willard, Wellington, New London, Plymouth, and Milan.\nGenerated: 2026-09-09 20:25:15 UTC"
   41.1100, -83.1900
   41.2400, -82.7000
   41.4300, -82.3400
