@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-10 06:55:16 UTC
+; Generated: 2026-09-10 07:00:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 2:55AM AST by NWS San Juan PR\nExpires: 2026-09-10 07:30 Z\nAt 255 AM AST, Doppler radar was tracking a strong thunderstorm over the Southern Coastal Waters, moving northwest at 20 mph towards southwestern Puerto Rico.  HAZARD...Wind gusts up to 30 to 40 mph, frequent lightning and heavy rain. Funnel cloud possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lajas, San German, Sabana Grande, Guanica, Cabo Rojo, Monte Grande, Puerto Real, La Parguera, Sabana Eneas, Liborio Negron Torres, Betances, Fuig, Lluveras, Boqueron, Maria Antonia, Pole Ojea and Palmarejo.\nGenerated: 2026-09-10 06:55:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 2:55AM AST by NWS San Juan PR\nExpires: 2026-09-10 07:30 Z\nAt 255 AM AST, Doppler radar was tracking a strong thunderstorm over the Southern Coastal Waters, moving northwest at 20 mph towards southwestern Puerto Rico.  HAZARD...Wind gusts up to 30 to 40 mph, frequent lightning and heavy rain. Funnel cloud possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lajas, San German, Sabana Grande, Guanica, Cabo Rojo, Monte Grande, Puerto Real, La Parguera, Sabana Eneas, Liborio Negron Torres, Betances, Fuig, Lluveras, Boqueron, Maria Antonia, Pole Ojea and Palmarejo.\nGenerated: 2026-09-10 07:00:19 UTC"
   17.9500, -66.8600
   17.9500, -66.9000
   17.9800, -66.9200
@@ -30,7 +30,18 @@ Line: 2,,"Special Weather Statement issued September 10 at 2:55AM AST by NWS San
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 2:07AM AST by NWS San Juan PR\nExpires: 2026-09-10 07:30 Z\nAt 207 AM AST, Doppler radar was tracking strong thunderstorms over the Southern Coastal Waters, moving northwest at 20 mph towards mainly south-central to southeastern Puerto Rico.  HAZARD...Wind gusts up to 30 to 40 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponce, Yauco, Guayama, Coamo, Santa Isabel, Salinas, Aibonito, Villalba, Juana Diaz, Cayey, Arroyo, Patillas, Penuelas, Guayanilla, Maunabo, Yabucoa, Emajagua, Los Llanos, Las Ollas and Jauca.\nGenerated: 2026-09-10 06:55:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:55AM CDT by NWS Dodge City KS\nExpires: 2026-09-10 07:30 Z\nAt 155 AM CDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Shallow Water, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Kearny, northwestern Finney and southwestern Scott Counties.\nGenerated: 2026-09-10 07:00:19 UTC"
+  38.2200, -100.8000
+  38.1100, -101.1100
+  38.2600, -101.1700
+  38.2700, -101.1200
+  38.4100, -101.1300
+  38.4500, -101.0000
+  38.2200, -100.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 10 at 2:07AM AST by NWS San Juan PR\nExpires: 2026-09-10 07:30 Z\nAt 207 AM AST, Doppler radar was tracking strong thunderstorms over the Southern Coastal Waters, moving northwest at 20 mph towards mainly south-central to southeastern Puerto Rico.  HAZARD...Wind gusts up to 30 to 40 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponce, Yauco, Guayama, Coamo, Santa Isabel, Salinas, Aibonito, Villalba, Juana Diaz, Cayey, Arroyo, Patillas, Penuelas, Guayanilla, Maunabo, Yabucoa, Emajagua, Los Llanos, Las Ollas and Jauca.\nGenerated: 2026-09-10 07:00:19 UTC"
   18.1500, -65.8800
   18.0200, -65.8300
   17.9800, -65.9200
