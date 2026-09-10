@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-10 18:20:16 UTC
+; Generated: 2026-09-10 18:25:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 2:18PM EDT by NWS Miami FL\nExpires: 2026-09-10 18:30 Z\nAt 218 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from 6 miles south of Ave Maria to near Golden Gate. Movement was northwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Golden Gate Estates, West Toll Gate On Alligator Alley, Orangetree, and Intersection I-75 And Everglades Blvd.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:23PM CDT by NWS San Angelo TX\nExpires: 2026-09-10 19:00 Z\nAt 122 PM CDT, Doppler radar was tracking a strong thunderstorm near Haskell, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Haskell, Stamford, Rule, Irby, Avoca, Lake Stamford Marina, and Paint Creek.\nGenerated: 2026-09-10 18:25:15 UTC"
+  32.8800, -99.4700
+  32.8500, -99.9200
+  33.2000, -99.9300
+  33.2600, -99.5200
+  32.8800, -99.4700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 10 at 2:18PM EDT by NWS Miami FL\nExpires: 2026-09-10 18:30 Z\nAt 218 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from 6 miles south of Ave Maria to near Golden Gate. Movement was northwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Golden Gate Estates, West Toll Gate On Alligator Alley, Orangetree, and Intersection I-75 And Everglades Blvd.\nGenerated: 2026-09-10 18:25:15 UTC"
   26.3200, -81.6800
   26.3200, -81.6600
   26.3300, -81.6600
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 2:18PM EDT by NWS Mia
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 1:17PM CDT by NWS Quad Cities IA IL\nExpires: 2026-09-10 19:00 Z\nAt 115 PM CDT, Doppler radar was a heavy shower 7 miles southeast of Monmouth. This shower was nearly stationary.  HAZARD...Funnel clouds and possibly weak, brief tornadoes.  SOURCE...Radar and spotter indicated.  IMPACT...Isolated damage to roofs, siding and trees is possible if any touchdown occurred.  Locations impacted include... Berwick, Ormonde, and Larchland.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:17PM CDT by NWS Quad Cities IA IL\nExpires: 2026-09-10 19:00 Z\nAt 115 PM CDT, Doppler radar was a heavy shower 7 miles southeast of Monmouth. This shower was nearly stationary.  HAZARD...Funnel clouds and possibly weak, brief tornadoes.  SOURCE...Radar and spotter indicated.  IMPACT...Isolated damage to roofs, siding and trees is possible if any touchdown occurred.  Locations impacted include... Berwick, Ormonde, and Larchland.\nGenerated: 2026-09-10 18:25:15 UTC"
   40.8000, -90.6600
   40.8600, -90.6200
   40.8700, -90.4400
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 1:17PM CDT by NWS Qua
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 1:15PM CDT by NWS New Orleans LA\nExpires: 2026-09-10 19:00 Z\nAt 115 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds and waterspouts over Myrtle Grove, or 15 miles south of Belle Chasse, moving northwest at 10 mph.  HAZARD...Waterspouts and funnel clouds.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Belle Chasse, Jean Lafitte, Myrtle Grove, Lafitte, Barataria, and Poydras.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:15PM CDT by NWS New Orleans LA\nExpires: 2026-09-10 19:00 Z\nAt 115 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms capable of producing funnel clouds and waterspouts over Myrtle Grove, or 15 miles south of Belle Chasse, moving northwest at 10 mph.  HAZARD...Waterspouts and funnel clouds.  SOURCE...Radar indicated.  IMPACT...Waterspouts can easily overturn boats and create locally hazardous waters. If a funnel cloud briefly touches down, minor damage to outdoor objects is possible.  Locations impacted include... Belle Chasse, Jean Lafitte, Myrtle Grove, Lafitte, Barataria, and Poydras.\nGenerated: 2026-09-10 18:25:15 UTC"
   29.5500, -90.0900
   29.7500, -90.1900
   29.7600, -90.1700
@@ -45,7 +54,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 1:15PM CDT by NWS New
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 1:05PM CDT by NWS Norman OK\nExpires: 2026-09-10 18:30 Z\nAt 104 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Centrahoma, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Coalgate, Tupelo, Gerty, and Centrahoma.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:05PM CDT by NWS Norman OK\nExpires: 2026-09-10 18:30 Z\nAt 104 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Centrahoma, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Coalgate, Tupelo, Gerty, and Centrahoma.\nGenerated: 2026-09-10 18:25:15 UTC"
   34.4500, -96.2700
   34.5300, -96.5300
   34.8600, -96.4000
@@ -55,7 +64,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 1:05PM CDT by NWS Nor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 1:02PM CDT by NWS Fort Worth TX\nExpires: 2026-09-10 18:45 Z\nAt 101 PM CDT, Doppler radar was tracking a strong thunderstorm near Sunset, or southwest of Bowie, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowie, Alvord, Sunset, Lake Amon G Carter, Mallard, Fruitland, and Forestburg.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:02PM CDT by NWS Fort Worth TX\nExpires: 2026-09-10 18:45 Z\nAt 101 PM CDT, Doppler radar was tracking a strong thunderstorm near Sunset, or southwest of Bowie, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowie, Alvord, Sunset, Lake Amon G Carter, Mallard, Fruitland, and Forestburg.\nGenerated: 2026-09-10 18:25:15 UTC"
   33.4800, -97.4900
   33.4400, -97.4900
   33.2700, -97.6700
@@ -65,7 +74,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 1:02PM CDT by NWS For
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 12:58PM CDT by NWS Fort Worth TX\nExpires: 2026-09-10 18:45 Z\nAt 1258 PM CDT, Doppler radar was tracking a strong thunderstorm near Bellevue, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowie, Stoneburg, Ringgold, and Belcherville.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 12:58PM CDT by NWS Fort Worth TX\nExpires: 2026-09-10 18:45 Z\nAt 1258 PM CDT, Doppler radar was tracking a strong thunderstorm near Bellevue, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bowie, Stoneburg, Ringgold, and Belcherville.\nGenerated: 2026-09-10 18:25:15 UTC"
   33.7400, -97.6900
   33.5200, -97.8700
   33.5900, -97.9800
@@ -74,7 +83,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 12:58PM CDT by NWS Fo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 12:57PM CDT by NWS Norman OK\nExpires: 2026-09-10 18:30 Z\nAt 1257 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Of The Arbuckles to 4 miles southwest of Lone Grove. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ardmore, Sulphur, Lone Grove, Wilson, Dickson, Mannsville, Springer, Mill Creek, Dougherty, Gene Autry, Overbrook, Lake Of The Arbuckles, Reagan, Lake Murray, Turner Falls, and Scullin.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 12:57PM CDT by NWS Norman OK\nExpires: 2026-09-10 18:30 Z\nAt 1257 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lake Of The Arbuckles to 4 miles southwest of Lone Grove. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ardmore, Sulphur, Lone Grove, Wilson, Dickson, Mannsville, Springer, Mill Creek, Dougherty, Gene Autry, Overbrook, Lake Of The Arbuckles, Reagan, Lake Murray, Turner Falls, and Scullin.\nGenerated: 2026-09-10 18:25:15 UTC"
   34.1700, -97.4700
   34.5600, -97.0000
   34.5200, -96.8300
@@ -87,7 +96,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 12:57PM CDT by NWS No
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 12:54PM CDT by NWS Tulsa OK\nExpires: 2026-09-10 18:30 Z\nAt 1254 PM CDT, Doppler radar indicated gusty winds along an outflow boundary along a line extending from 4 miles south of Short to near Muldrow. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Fort Smith...                     Van Buren... Alma...                           Muldrow... Roland...                         Arkoma... Moffett...                        Rudy... Figure Five...                    Fort Smith Regional Airport... Concord...                        Shibley... Mill Creek...                     Cottonwood... Dora...                           Furry...  This includes the following highways, Interstate 40 in Arkansas between mile markers 0 and 12. Interstate 40 in Oklahoma between mile markers 316 and 328. Interstate 540 between mile markers 1 and 12. Interstate 49 between mile markers 22 and 27.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 12:54PM CDT by NWS Tulsa OK\nExpires: 2026-09-10 18:30 Z\nAt 1254 PM CDT, Doppler radar indicated gusty winds along an outflow boundary along a line extending from 4 miles south of Short to near Muldrow. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Fort Smith...                     Van Buren... Alma...                           Muldrow... Roland...                         Arkoma... Moffett...                        Rudy... Figure Five...                    Fort Smith Regional Airport... Concord...                        Shibley... Mill Creek...                     Cottonwood... Dora...                           Furry...  This includes the following highways, Interstate 40 in Arkansas between mile markers 0 and 12. Interstate 40 in Oklahoma between mile markers 316 and 328. Interstate 540 between mile markers 1 and 12. Interstate 49 between mile markers 22 and 27.\nGenerated: 2026-09-10 18:25:15 UTC"
   35.3200, -94.3500
   35.3400, -94.6800
   35.5000, -94.5900
@@ -96,7 +105,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 12:54PM CDT by NWS Tu
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 1:51PM EDT by NWS Miami FL\nExpires: 2026-09-10 18:30 Z\nAt 151 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Naples Park to near Naples Manor. Movement was northwest at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Naples, Golden Gate Estates, Naples Park, Naples Manor, Golden Gate, East Naples, Lely Resort, Vineyards, North Naples, Pelican Bay, Lely, Rookery Bay Aquatic Preserve, and Quail Creek Estate.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:51PM EDT by NWS Miami FL\nExpires: 2026-09-10 18:30 Z\nAt 151 PM EDT, National Weather Service meteorologists were tracking strong thunderstorms along a line extending from near Naples Park to near Naples Manor. Movement was northwest at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Naples, Golden Gate Estates, Naples Park, Naples Manor, Golden Gate, East Naples, Lely Resort, Vineyards, North Naples, Pelican Bay, Lely, Rookery Bay Aquatic Preserve, and Quail Creek Estate.\nGenerated: 2026-09-10 18:25:15 UTC"
   26.3200, -81.6800
   26.1300, -81.6800
   26.0200, -81.7400
@@ -112,7 +121,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 1:51PM EDT by NWS Mia
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 1:46PM EDT by NWS Miami FL\nExpires: 2026-09-10 18:30 Z\nAt 146 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Hendry Correctional, or 16 miles east of Ave Maria, moving northwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ave Maria, Immokalee, Hendry Correctional, Miles City, Sunniland, and Bunker Hill.\nGenerated: 2026-09-10 18:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:46PM EDT by NWS Miami FL\nExpires: 2026-09-10 18:30 Z\nAt 146 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm over Hendry Correctional, or 16 miles east of Ave Maria, moving northwest at 10 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ave Maria, Immokalee, Hendry Correctional, Miles City, Sunniland, and Bunker Hill.\nGenerated: 2026-09-10 18:25:15 UTC"
   26.3100, -81.0900
   26.0900, -81.2800
   26.3100, -81.5400
