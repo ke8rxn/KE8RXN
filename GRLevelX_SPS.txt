@@ -3,9 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-10 22:35:13 UTC
+; Generated: 2026-09-10 22:40:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 6:32PM EDT by NWS Jacksonville FL\nExpires: 2026-09-10 23:00 Z\nAt 632 PM EDT, Doppler radar was tracking a strong thunderstorm near Pomona Park, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crescent City, Pomona Park, Salt Springs, Andalusia, Fruitland, Satsuma, Welaka, Lake Como, and Georgetown.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 6:39PM EDT by NWS Jacksonville FL\nExpires: 2026-09-10 23:15 Z\nAt 639 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 7 miles northeast of Raiford to near Kingsley to near Hawthorne. Movement was north at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Starke, Keystone Heights, Raiford, Melrose, Middleburg, Macclenny, Hawthorne, Glen St. Mary, Maxville, and Lake Geneva.\nGenerated: 2026-09-10 22:40:24 UTC"
+  30.3500, -82.1500
+  30.1400, -81.8900
+  29.5400, -81.9500
+  29.5500, -82.1800
+  29.8900, -82.1200
+  30.1000, -82.2600
+  30.3500, -82.1500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 10 at 5:37PM CDT by NWS San Angelo TX\nExpires: 2026-09-10 23:15 Z\nAt 537 PM CDT, Doppler radar was tracking a strong thunderstorm over Ballinger, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ballinger, Rowena, and Us-83 Near The Concho-Runnels County Line.\nGenerated: 2026-09-10 22:40:24 UTC"
+  31.5800, -99.9100
+  31.5800, -100.0200
+  31.6400, -100.1400
+  31.8200, -99.9800
+  31.7600, -99.8300
+  31.5800, -99.9100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 10 at 3:35PM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-09-10 23:00 Z\nAt 334 PM PDT, Doppler radar was tracking a strong thunderstorm near Llano, or 11 miles south of Lake Los Angeles. This storm was nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pearblossom... Llano... Valyermo... and Highway 138 between Llano and the San Bernardino County line.\nGenerated: 2026-09-10 22:40:24 UTC"
+  34.3800, -117.8100
+  34.3800, -117.9300
+  34.5200, -117.9200
+  34.5200, -117.8000
+  34.3800, -117.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 10 at 6:32PM EDT by NWS Jacksonville FL\nExpires: 2026-09-10 23:00 Z\nAt 632 PM EDT, Doppler radar was tracking a strong thunderstorm near Pomona Park, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crescent City, Pomona Park, Salt Springs, Andalusia, Fruitland, Satsuma, Welaka, Lake Como, and Georgetown.\nGenerated: 2026-09-10 22:40:24 UTC"
   29.4000, -81.4200
   29.4000, -81.4300
   29.3800, -81.4400
@@ -16,7 +46,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 6:32PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 5:32PM CDT by NWS Lake Charles LA\nExpires: 2026-09-10 23:00 Z\nAt 532 PM CDT, Doppler radar was tracking a strong thunderstorm over Rayne, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crowley, Rayne, Duson, Mire, and Branch.  This includes Interstate 10 in Louisiana between mile markers 81 and 95.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 5:32PM CDT by NWS Lake Charles LA\nExpires: 2026-09-10 23:00 Z\nAt 532 PM CDT, Doppler radar was tracking a strong thunderstorm over Rayne, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Crowley, Rayne, Duson, Mire, and Branch.  This includes Interstate 10 in Louisiana between mile markers 81 and 95.\nGenerated: 2026-09-10 22:40:24 UTC"
   30.0900, -92.2800
   30.2500, -92.4100
   30.3900, -92.2900
@@ -30,7 +60,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 5:32PM CDT by NWS Lak
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 5:26PM CDT by NWS Corpus Christi TX\nExpires: 2026-09-10 23:00 Z\nAt 526 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Tynan, or 7 miles west of Skidmore, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Skidmore, Dinero, Mount Lucas, Argenta, Lagarto, Tynan, Karon and Lake Corpus Christi.  This includes the following highways... US Highway 59 between mile markers 700 and 716. Interstate 37 between mile markers 38 and 57. US Highway 181 between mile markers 600 and 604.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 5:26PM CDT by NWS Corpus Christi TX\nExpires: 2026-09-10 23:00 Z\nAt 526 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Tynan, or 7 miles west of Skidmore, moving west at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Skidmore, Dinero, Mount Lucas, Argenta, Lagarto, Tynan, Karon and Lake Corpus Christi.  This includes the following highways... US Highway 59 between mile markers 700 and 716. Interstate 37 between mile markers 38 and 57. US Highway 181 between mile markers 600 and 604.\nGenerated: 2026-09-10 22:40:24 UTC"
   28.1000, -98.0700
   28.5300, -98.0100
   28.3000, -97.6700
@@ -39,7 +69,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 5:26PM CDT by NWS Cor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 6:18PM EDT by NWS Jacksonville FL\nExpires: 2026-09-10 22:45 Z\nAt 618 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Raiford, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Starke, Keystone Heights, Raiford, Middleburg, Macclenny, Glen St. Mary, Maxville, Beasley, New River, and Camp Blanding.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 6:18PM EDT by NWS Jacksonville FL\nExpires: 2026-09-10 22:45 Z\nAt 618 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Raiford, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph and minor flooding due to heavy rainfall.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor flooding due to heavy rainfall is possible.  Locations impacted include... Starke, Keystone Heights, Raiford, Middleburg, Macclenny, Glen St. Mary, Maxville, Beasley, New River, and Camp Blanding.\nGenerated: 2026-09-10 22:40:24 UTC"
   29.8100, -81.9400
   29.8800, -82.3400
   30.3100, -82.2700
@@ -48,7 +78,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 6:18PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 5:14PM CDT by NWS Shreveport LA\nExpires: 2026-09-10 22:45 Z\nAt 514 PM CDT, Doppler radar was tracking a strong thunderstorm 24 miles northwest of Broken Bow, or 38 miles northwest of De Queen, moving northeast at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Bethel, Battiest, Mount Herman and Sherwood.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 5:14PM CDT by NWS Shreveport LA\nExpires: 2026-09-10 22:45 Z\nAt 514 PM CDT, Doppler radar was tracking a strong thunderstorm 24 miles northwest of Broken Bow, or 38 miles northwest of De Queen, moving northeast at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Bethel, Battiest, Mount Herman and Sherwood.\nGenerated: 2026-09-10 22:40:24 UTC"
   34.3500, -95.0300
   34.5100, -94.9300
   34.5100, -94.7600
@@ -58,7 +88,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 5:14PM CDT by NWS Shr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 6:14PM EDT by NWS Jackson KY\nExpires: 2026-09-10 22:45 Z\nAt 613 PM EDT, Doppler radar was tracking a strong thunderstorm over Nancy, or 9 miles west of Somerset, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Somerset, Burnside, Naomi, Cains Store, Stab, Nancy, Pointer, Bronston, Ruth, Elihu, Quinton, Frazer, Tateville, Somerset Pulaski Airport, Pulaski County Park, Hogue, Faubush, General Burnside S.P., Magnum, and Kidder.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Kentucky Highway 80 in Pulaski County between mile markers 17 and 26. Louis B. Nunn Parkway\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 6:14PM EDT by NWS Jackson KY\nExpires: 2026-09-10 22:45 Z\nAt 613 PM EDT, Doppler radar was tracking a strong thunderstorm over Nancy, or 9 miles west of Somerset, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Somerset, Burnside, Naomi, Cains Store, Stab, Nancy, Pointer, Bronston, Ruth, Elihu, Quinton, Frazer, Tateville, Somerset Pulaski Airport, Pulaski County Park, Hogue, Faubush, General Burnside S.P., Magnum, and Kidder.  THIS INCLUDES THE FOLLOWING HIGHWAYS... Kentucky Highway 80 in Pulaski County between mile markers 17 and 26. Louis B. Nunn Parkway\nGenerated: 2026-09-10 22:40:24 UTC"
   37.1200, -84.9000
   37.1800, -84.8100
   37.1500, -84.4900
@@ -72,7 +102,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 6:14PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 5:13PM CDT by NWS Amarillo TX\nExpires: 2026-09-10 23:00 Z\nAt 512 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles north of Lake Tanglewood to near Canyon to 6 miles northwest of Dawn. Movement was southeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Amarillo, Canyon, Lake Tanglewood, Mescalero Park, Buffalo Lake, Dawn, Wayside, Umbarger, Palo Duro Canyon, and Timbercreek Canyon.  This includes Interstate 27 between mile markers 91 and 120.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 5:13PM CDT by NWS Amarillo TX\nExpires: 2026-09-10 23:00 Z\nAt 512 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles north of Lake Tanglewood to near Canyon to 6 miles northwest of Dawn. Movement was southeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Amarillo, Canyon, Lake Tanglewood, Mescalero Park, Buffalo Lake, Dawn, Wayside, Umbarger, Palo Duro Canyon, and Timbercreek Canyon.  This includes Interstate 27 between mile markers 91 and 120.\nGenerated: 2026-09-10 22:40:24 UTC"
   34.7500, -102.2800
   35.0600, -102.3700
   35.1300, -101.9800
@@ -84,7 +114,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 5:13PM CDT by NWS Ama
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 5:11PM CDT by NWS Lubbock TX\nExpires: 2026-09-10 22:45 Z\nAt 510 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Tulia, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tulia.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 5:11PM CDT by NWS Lubbock TX\nExpires: 2026-09-10 22:45 Z\nAt 510 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Tulia, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Tulia.\nGenerated: 2026-09-10 22:40:24 UTC"
   34.4300, -101.6600
   34.3100, -101.8700
   34.3100, -101.9500
@@ -94,7 +124,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 5:11PM CDT by NWS Lub
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 5:09PM CDT by NWS Goodland KS\nExpires: 2026-09-10 22:45 Z\nAt 508 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Atwood. This storm is nearly stationary.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Atwood, Blakeman, and Beardsley.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 5:09PM CDT by NWS Goodland KS\nExpires: 2026-09-10 22:45 Z\nAt 508 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Atwood. This storm is nearly stationary.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Atwood, Blakeman, and Beardsley.\nGenerated: 2026-09-10 22:40:24 UTC"
   39.7500, -101.2000
   39.9200, -101.3000
   39.9700, -101.0600
@@ -103,7 +133,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 5:09PM CDT by NWS Goo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 5:04PM CDT by NWS Nashville TN\nExpires: 2026-09-10 22:45 Z\nAt 504 PM CDT, Doppler radar was tracking a strong thunderstorm over Cross Plains, or 8 miles east of Springfield, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gallatin, Springfield, White House, Millersville, Greenbrier, Ridgetop, Cross Plains, Portland, Orlinda, Mitchellville, Cottontown, and Oak Grove.  This includes Interstate 65 between mile markers 103 and 120.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 5:04PM CDT by NWS Nashville TN\nExpires: 2026-09-10 22:45 Z\nAt 504 PM CDT, Doppler radar was tracking a strong thunderstorm over Cross Plains, or 8 miles east of Springfield, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Gallatin, Springfield, White House, Millersville, Greenbrier, Ridgetop, Cross Plains, Portland, Orlinda, Mitchellville, Cottontown, and Oak Grove.  This includes Interstate 65 between mile markers 103 and 120.\nGenerated: 2026-09-10 22:40:24 UTC"
   36.6500, -86.3500
   36.3700, -86.4500
   36.4000, -86.7400
@@ -118,7 +148,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 5:04PM CDT by NWS Nas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 4:53PM CDT by NWS Paducah KY\nExpires: 2026-09-10 22:45 Z\nAt 453 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Murray, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kirksey.\nGenerated: 2026-09-10 22:35:13 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 4:53PM CDT by NWS Paducah KY\nExpires: 2026-09-10 22:45 Z\nAt 453 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Murray, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kirksey.\nGenerated: 2026-09-10 22:40:24 UTC"
   36.7500, -88.4900
   36.7500, -88.4300
   36.7500, -88.2200
