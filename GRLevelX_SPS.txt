@@ -3,9 +3,44 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-10 07:40:14 UTC
+; Generated: 2026-09-10 07:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 2:26AM CDT by NWS Dodge City KS\nExpires: 2026-09-10 08:00 Z\nAt 225 AM CDT/125 AM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 14 miles west of Friend to 16 miles northeast of Kendall to 9 miles north of Coolidge. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  These storms will remain over mainly rural areas of northern Hamilton, Kearny and west central Finney Counties.\nGenerated: 2026-09-10 07:40:14 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 3:42AM AST by NWS San Juan PR\nExpires: 2026-09-10 09:00 Z\nAt 342 AM AST, Doppler radar was tracking strong thunderstorms over the Southern Coastal Waters, moving northwest at 20 mph towards mainly south-central to southeastern Puerto Rico.  HAZARD...Wind gusts up to 30 to 40 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponce, Guayama, Coamo, Santa Isabel, Salinas, Aibonito, Cayey, Villalba, Juana Diaz, Arroyo, Patillas, Maunabo, Yabucoa, Emajagua, Vazquez, Coco, Coqui, Los Llanos, Jauca and Las Ollas.\nGenerated: 2026-09-10 07:45:15 UTC"
+  18.1500, -66.7300
+  18.1500, -65.8800
+  18.0300, -65.8300
+  18.0200, -65.8300
+  17.9800, -65.9200
+  17.9800, -66.0200
+  17.9400, -66.1400
+  17.9600, -66.2100
+  17.9500, -66.2400
+  17.9400, -66.2300
+  17.9400, -66.2900
+  17.9800, -66.3200
+  17.9400, -66.3900
+  17.9900, -66.4800
+  17.9600, -66.5800
+  17.9800, -66.6400
+  18.0000, -66.6400
+  17.9700, -66.6700
+  17.9800, -66.7000
+  18.1500, -66.7300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 10 at 2:41AM CDT by NWS Dodge City KS\nExpires: 2026-09-10 08:15 Z\nAt 241 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Garden City, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of Finney and northwestern Gray Counties.\nGenerated: 2026-09-10 07:45:15 UTC"
+  38.0900, -101.0500
+  38.2700, -100.7300
+  38.2600, -100.6500
+  38.1300, -100.2500
+  37.8600, -100.3800
+  37.7400, -100.9400
+  38.0900, -101.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 10 at 2:26AM CDT by NWS Dodge City KS\nExpires: 2026-09-10 08:00 Z\nAt 225 AM CDT/125 AM MDT/, Doppler radar was tracking strong thunderstorms along a line extending from 14 miles west of Friend to 16 miles northeast of Kendall to 9 miles north of Coolidge. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  These storms will remain over mainly rural areas of northern Hamilton, Kearny and west central Finney Counties.\nGenerated: 2026-09-10 07:45:15 UTC"
   38.2600, -101.1400
   37.8600, -101.0800
   37.8600, -101.4000
@@ -15,7 +50,7 @@ Line: 2,,"Special Weather Statement issued September 10 at 2:26AM CDT by NWS Dod
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 1:23AM MDT by NWS Denver CO\nExpires: 2026-09-10 08:00 Z\nAt 123 AM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles north of Karval to 13 miles east of Wild Horse Point, or extending from 33 miles south of Limon to 53 miles southeast of Limon, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Southeastern Lincoln County.\nGenerated: 2026-09-10 07:40:14 UTC"
+Line: 2,,"Special Weather Statement issued September 10 at 1:23AM MDT by NWS Denver CO\nExpires: 2026-09-10 08:00 Z\nAt 123 AM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles north of Karval to 13 miles east of Wild Horse Point, or extending from 33 miles south of Limon to 53 miles southeast of Limon, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Southeastern Lincoln County.\nGenerated: 2026-09-10 07:45:15 UTC"
   38.5500, -103.3600
   38.6500, -103.4200
   38.8000, -103.6100
@@ -25,13 +60,4 @@ Line: 2,,"Special Weather Statement issued September 10 at 1:23AM MDT by NWS Den
   38.6900, -103.1700
   38.5500, -103.1700
   38.5500, -103.3600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 10 at 2:14AM CDT by NWS Dodge City KS\nExpires: 2026-09-10 07:45 Z\nAt 214 AM CDT, Doppler radar was tracking a strong thunderstorm near Friend, moving southeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Garden City around 230 AM CDT.\nGenerated: 2026-09-10 07:40:14 UTC"
-  38.2600, -101.1300
-  38.3500, -100.8500
-  38.1100, -100.4800
-  37.8600, -101.0800
-  38.2600, -101.1300
 End:
