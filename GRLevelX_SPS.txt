@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-11 21:55:13 UTC
+; Generated: 2026-09-11 22:00:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:54PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 23:00 Z\nAt 554 PM EDT, Doppler radar was tracking a strong thunderstorm near Moss Bluff, or 7 miles north of Emeralda, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Springs, Juniper Springs, Lynne, Lake Delancy, Fruitland, Moss Bluff, Welaka, and Georgetown.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:54PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 23:00 Z\nAt 554 PM EDT, Doppler radar was tracking a strong thunderstorm near Moss Bluff, or 7 miles north of Emeralda, moving northeast at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Salt Springs, Juniper Springs, Lynne, Lake Delancy, Fruitland, Moss Bluff, Welaka, and Georgetown.\nGenerated: 2026-09-11 22:00:20 UTC"
   29.3300, -82.0100
   29.5300, -81.6200
   29.3500, -81.5600
@@ -19,7 +19,16 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:54PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:53PM CDT by NWS Tulsa OK\nExpires: 2026-09-11 22:30 Z\nAt 453 PM CDT, Doppler radar indicated a strong thunderstorm over Nashoba, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Nashoba...\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:54PM EDT by NWS Peachtree City GA\nExpires: 2026-09-11 22:30 Z\nAt 554 PM EDT, a line of strong thunderstorms was along a line extending from near Candler to near Eastville, and moving northwest at 20 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Gainesville, Winder, Jefferson, Braselton, Statham, Arcade, Hoschton, Bogart, Bethlehem, Pendergrass, Gillsville, Talmo, Athens-Clarke County, Candler, Bear Creek Reservoir, and Russell.\nGenerated: 2026-09-11 22:00:20 UTC"
+  34.3400, -83.9000
+  33.9500, -83.7100
+  33.9200, -83.4300
+  34.3600, -83.6400
+  34.3400, -83.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 4:53PM CDT by NWS Tulsa OK\nExpires: 2026-09-11 22:30 Z\nAt 453 PM CDT, Doppler radar indicated a strong thunderstorm over Nashoba, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Nashoba...\nGenerated: 2026-09-11 22:00:20 UTC"
   34.3900, -95.3100
   34.5200, -95.3100
   34.6100, -95.0400
@@ -30,7 +39,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 4:53PM CDT by NWS Tul
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:53PM EDT by NWS Blacksburg VA\nExpires: 2026-09-11 22:30 Z\nAt 553 PM EDT, Doppler radar was tracking a strong thunderstorm near Huddleston, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Altavista... Hurt... Evington... Huddleston... Hodges... and Timberlake.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:53PM EDT by NWS Blacksburg VA\nExpires: 2026-09-11 22:30 Z\nAt 553 PM EDT, Doppler radar was tracking a strong thunderstorm near Huddleston, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Altavista... Hurt... Evington... Huddleston... Hodges... and Timberlake.\nGenerated: 2026-09-11 22:00:20 UTC"
   37.0700, -79.1800
   37.0600, -79.1900
   37.0700, -79.2000
@@ -52,7 +61,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:53PM EDT by NWS Bla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:48PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-11 22:15 Z\nAt 548 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Greenwood, or near Hodges, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Cokesbury and Hodges.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:48PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-11 22:15 Z\nAt 548 PM EDT, Doppler radar was tracking a strong thunderstorm 6 miles northwest of Greenwood, or near Hodges, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Cokesbury and Hodges.\nGenerated: 2026-09-11 22:00:20 UTC"
   34.2100, -82.2400
   34.2500, -82.2700
   34.2700, -82.3000
@@ -64,7 +73,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:48PM EDT by NWS Gre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:46PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-11 22:15 Z\nAt 545 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Hartwell, or near Royston, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Royston, Franklin Springs, Victoria Bryant State Park, and Vanna.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:46PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-11 22:15 Z\nAt 545 PM EDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Hartwell, or near Royston, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Royston, Franklin Springs, Victoria Bryant State Park, and Vanna.\nGenerated: 2026-09-11 22:00:20 UTC"
   34.2700, -83.1200
   34.2500, -83.1600
   34.3100, -83.1900
@@ -75,7 +84,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:46PM EDT by NWS Gre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:45PM CDT by NWS Jackson MS\nExpires: 2026-09-11 22:30 Z\nAt 445 PM CDT, Doppler radar was tracking a strong thunderstorm near Soso, or 11 miles south of Bay Springs, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Laurel, Soso, and Moss around 450 PM CDT. Sandersville around 505 PM CDT.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 4:45PM CDT by NWS Jackson MS\nExpires: 2026-09-11 22:30 Z\nAt 445 PM CDT, Doppler radar was tracking a strong thunderstorm near Soso, or 11 miles south of Bay Springs, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Laurel, Soso, and Moss around 450 PM CDT. Sandersville around 505 PM CDT.\nGenerated: 2026-09-11 22:00:20 UTC"
   31.6600, -89.1000
   31.5900, -89.3900
   31.7800, -89.6000
@@ -86,7 +95,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 4:45PM CDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:44PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-09-11 22:15 Z\nAt 543 PM EDT, Doppler radar was tracking a strong thunderstorm near Phillips Crossroads, or 13 miles southeast of Kinston, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kinston, Phillips Crossroads, Pleasant Hill, Wyse Fork, Dover, and Trenton.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:44PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-09-11 22:15 Z\nAt 543 PM EDT, Doppler radar was tracking a strong thunderstorm near Phillips Crossroads, or 13 miles southeast of Kinston, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kinston, Phillips Crossroads, Pleasant Hill, Wyse Fork, Dover, and Trenton.\nGenerated: 2026-09-11 22:00:20 UTC"
   35.0500, -77.2900
   34.9900, -77.5900
   35.2100, -77.6500
@@ -95,7 +104,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:44PM EDT by NWS New
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:44PM CDT by NWS Memphis TN\nExpires: 2026-09-11 22:15 Z\nAt 444 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Millington to near Bartlett to near Southeast Memphis. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bartlett, Collierville, Germantown, Millington, T O Fuller State Park, Meeman Shelby Forest State Park, Cordova, Memphis, Lakeland, Arlington, Munford, Brighton, Southwest Memphis, Ellendale, Whitehaven, Frayser, Midtown Memphis, Southeast Memphis, Downtown Memphis, and Eads.  This includes the following highways... Interstate 40 in Arkansas near mile marker 284. Interstate 40 in Tennessee between mile markers 1 and 26. Interstate 240 between mile markers 12 and 30. Interstate 55 in Tennessee between mile markers 1 and 12.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 4:44PM CDT by NWS Memphis TN\nExpires: 2026-09-11 22:15 Z\nAt 444 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Millington to near Bartlett to near Southeast Memphis. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bartlett, Collierville, Germantown, Millington, T O Fuller State Park, Meeman Shelby Forest State Park, Cordova, Memphis, Lakeland, Arlington, Munford, Brighton, Southwest Memphis, Ellendale, Whitehaven, Frayser, Midtown Memphis, Southeast Memphis, Downtown Memphis, and Eads.  This includes the following highways... Interstate 40 in Arkansas near mile marker 284. Interstate 40 in Tennessee between mile markers 1 and 26. Interstate 240 between mile markers 12 and 30. Interstate 55 in Tennessee between mile markers 1 and 12.\nGenerated: 2026-09-11 22:00:20 UTC"
   35.1200, -90.1200
   35.1200, -90.0900
   35.1400, -90.0600
@@ -116,7 +125,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 4:44PM CDT by NWS Mem
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:40PM EDT by NWS Peachtree City GA\nExpires: 2026-09-11 22:15 Z\nAt 540 PM EDT, a strong thunderstorm was over Marblehill, or near Jasper. This storm was nearly stationary.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Jasper, Nelson, Tate, Sequoyah Lake, Lake Tamarack, and Marblehill.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:40PM EDT by NWS Peachtree City GA\nExpires: 2026-09-11 22:15 Z\nAt 540 PM EDT, a strong thunderstorm was over Marblehill, or near Jasper. This storm was nearly stationary.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Jasper, Nelson, Tate, Sequoyah Lake, Lake Tamarack, and Marblehill.\nGenerated: 2026-09-11 22:00:20 UTC"
   34.5600, -84.3200
   34.3900, -84.2500
   34.3800, -84.3800
@@ -128,7 +137,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:40PM EDT by NWS Pea
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:40PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-09-11 22:30 Z\nAt 440 PM CDT, Doppler radar was tracking a strong thunderstorm near Jarrell, or 12 miles northeast of Serenada, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Granger, Bartlett, Jarrell, Granger Dam, Theon, Hoxie, Waterloo, Walburg, and Schwertner.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 4:40PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-09-11 22:30 Z\nAt 440 PM CDT, Doppler radar was tracking a strong thunderstorm near Jarrell, or 12 miles northeast of Serenada, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Granger, Bartlett, Jarrell, Granger Dam, Theon, Hoxie, Waterloo, Walburg, and Schwertner.\nGenerated: 2026-09-11 22:00:20 UTC"
   30.8700, -97.6200
   30.7400, -97.2700
   30.5800, -97.3200
@@ -138,7 +147,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 4:40PM CDT by NWS Aus
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:39PM CDT by NWS New Orleans LA\nExpires: 2026-09-11 22:30 Z\nAt 439 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Poplarville, moving southeast at 10 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Poplarville and Mcneil.  This includes Interstate 59 in Mississippi between mile markers 13 and 42.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 4:39PM CDT by NWS New Orleans LA\nExpires: 2026-09-11 22:30 Z\nAt 439 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Poplarville, moving southeast at 10 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Poplarville and Mcneil.  This includes Interstate 59 in Mississippi between mile markers 13 and 42.\nGenerated: 2026-09-11 22:00:20 UTC"
   30.5600, -89.3400
   30.5100, -89.3700
   30.7000, -89.8000
@@ -154,7 +163,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 4:39PM CDT by NWS New
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:39PM EDT by NWS Wilmington NC\nExpires: 2026-09-11 22:15 Z\nAt 539 PM EDT, Doppler radar was tracking a strong thunderstorm near Bladenboro, or 13 miles southeast of Lumberton. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bladenboro, Butters, Abbottsburg, and Clarkton.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:39PM EDT by NWS Wilmington NC\nExpires: 2026-09-11 22:15 Z\nAt 539 PM EDT, Doppler radar was tracking a strong thunderstorm near Bladenboro, or 13 miles southeast of Lumberton. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bladenboro, Butters, Abbottsburg, and Clarkton.\nGenerated: 2026-09-11 22:00:20 UTC"
   34.3900, -78.8400
   34.4900, -78.9800
   34.6300, -78.8500
@@ -163,7 +172,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:39PM EDT by NWS Wil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:37PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-09-11 22:15 Z\nAt 537 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Medulla to 10 miles north of Ona to 6 miles east of Myakka City. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lakeland, Winter Haven, Haines City, Bartow, Lake Wales, Auburndale, Arcadia, Wauchula, Medulla, Ona, Fussels Corner, Combee Settlement, Lakeland Linder Airport, Southeast Arcadia, Jan Phyl Village, Myakka City, Sweetwater, Fort Meade, Lake Alfred, and Crooked Lake Park.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:37PM EDT by NWS Tampa Bay Ruskin FL\nExpires: 2026-09-11 22:15 Z\nAt 537 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Medulla to 10 miles north of Ona to 6 miles east of Myakka City. Movement was east at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lakeland, Winter Haven, Haines City, Bartow, Lake Wales, Auburndale, Arcadia, Wauchula, Medulla, Ona, Fussels Corner, Combee Settlement, Lakeland Linder Airport, Southeast Arcadia, Jan Phyl Village, Myakka City, Sweetwater, Fort Meade, Lake Alfred, and Crooked Lake Park.\nGenerated: 2026-09-11 22:00:20 UTC"
   27.6600, -81.5700
   27.0400, -81.6600
   27.3200, -82.2100
@@ -176,16 +185,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:37PM EDT by NWS Tam
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:36PM CDT by NWS Fort Worth TX\nExpires: 2026-09-11 22:00 Z\nAt 434 PM CDT, Doppler radar was tracking a strong thunderstorm over west Lake Tawakoni, or 5 miles southeast of Quinlan, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wills Point, West Tawakoni, Quinlan, Hawk Cove, Lake Tawakoni State Park, New Terrell City Lake, Lake Tawakoni, Elmo, and Alsa.  This includes Interstate 20 between mile markers 508 and 510.\nGenerated: 2026-09-11 21:55:13 UTC"
-  32.8900, -96.2200
-  32.9400, -96.0700
-  32.7600, -95.8600
-  32.6400, -96.1400
-  32.8900, -96.2200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:32PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:15 Z\nAt 532 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Everett to near Yulee. Movement was east at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brunswick, St. Simons Island, Fernandina Beach, Dock Junction, Country Club Estates, Sea Island, Jekyll Island, St Simons Island Village, High Point, and Dover Bluff.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:32PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:15 Z\nAt 532 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Everett to near Yulee. Movement was east at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brunswick, St. Simons Island, Fernandina Beach, Dock Junction, Country Club Estates, Sea Island, Jekyll Island, St Simons Island Village, High Point, and Dover Bluff.\nGenerated: 2026-09-11 22:00:20 UTC"
   31.1900, -81.2500
   31.1000, -81.3700
   30.7900, -81.4200
@@ -207,7 +207,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:32PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:28PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:15 Z\nAt 528 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Jacksonville International Arpt to 8 miles southwest of Green Cove Springs. Movement was east at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine, Unf, Fruit Cove, Ponte Vedra Beach, Jacksonville Beach, Atlantic Beach, Neptune Beach, World Golf Village, Baymeadows, and Nocatee.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:28PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:15 Z\nAt 528 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Jacksonville International Arpt to 8 miles southwest of Green Cove Springs. Movement was east at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine, Unf, Fruit Cove, Ponte Vedra Beach, Jacksonville Beach, Atlantic Beach, Neptune Beach, World Golf Village, Baymeadows, and Nocatee.\nGenerated: 2026-09-11 22:00:20 UTC"
   29.8600, -81.6600
   30.6200, -81.5500
   30.6400, -81.4000
@@ -217,85 +217,10 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:28PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:25PM CDT by NWS Fort Worth TX\nExpires: 2026-09-11 22:00 Z\nAt 425 PM CDT, Doppler radar was tracking a strong thunderstorm over Stillhouse Hollow Lake, or near Harker Heights, moving east at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Salado and Stillhouse Hollow Lake around 430 PM CDT. Belton around 440 PM CDT.  Other locations impacted by this storm include Pendleton, Cedar Valley, Moffat, Heidenheimer, Union Grove, Owl Creek, Sparks, Prairie Dell, Woodland, and White Hall.  This includes Interstate 35 between mile markers 278 and 304.\nGenerated: 2026-09-11 21:55:13 UTC"
-  30.9100, -97.7100
-  31.1500, -97.7300
-  31.2900, -97.3900
-  31.2800, -97.3700
-  30.9700, -97.2600
-  30.7800, -97.3800
-  30.9100, -97.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 3:24PM MDT by NWS Cheyenne WY\nExpires: 2026-09-11 22:15 Z\nAt 324 PM MDT, Doppler radar was tracking gusty showers near Orin, or near Douglas, moving east at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Douglas, Lusk, Glendo, Manville, Orin, Glendo State Park, Sandy Beach Campground, Reno Cove Campground, Keeline, Jay Em, Converse County Airport, Rawhide Buttes, Bennett Hill Campground, Lance Creek, Manning Ranch, Lost Springs, Shawnee, and Niobrara County Fairgrounds.\nGenerated: 2026-09-11 21:55:13 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 3:24PM MDT by NWS Cheyenne WY\nExpires: 2026-09-11 22:15 Z\nAt 324 PM MDT, Doppler radar was tracking gusty showers near Orin, or near Douglas, moving east at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Douglas, Lusk, Glendo, Manville, Orin, Glendo State Park, Sandy Beach Campground, Reno Cove Campground, Keeline, Jay Em, Converse County Airport, Rawhide Buttes, Bennett Hill Campground, Lance Creek, Manning Ranch, Lost Springs, Shawnee, and Niobrara County Fairgrounds.\nGenerated: 2026-09-11 22:00:20 UTC"
   42.5600, -105.5700
   42.7800, -105.6100
   43.1500, -104.5100
   42.4100, -104.2600
   42.5600, -105.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:20PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:00 Z\nAt 520 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Waynesville to near Callahan. Movement was northeast at 20 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... St. Marys, Kingsland, Woodbine, Dock Junction, Kings Bay Base, Yulee, Kings Ferry, Thalmann, Everett, and Waynesville.\nGenerated: 2026-09-11 21:55:13 UTC"
-  30.6000, -81.5300
-  30.5700, -81.9000
-  31.3200, -81.9300
-  31.4600, -81.6200
-  31.4500, -81.6300
-  31.4400, -81.6100
-  31.4300, -81.6100
-  31.4000, -81.5800
-  31.3800, -81.5500
-  31.3800, -81.5400
-  31.3600, -81.5100
-  30.6000, -81.5300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:13PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:00 Z\nAt 513 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles west of Middleburg, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Orange Park, Green Cove Springs, Middleburg, Mandarin, Fruit Cove, Maxville, Fleming Island, Oakleaf Plantation, Bellair-Meadowbrook Terrace, and Switzerland.\nGenerated: 2026-09-11 21:55:13 UTC"
-  29.9000, -81.6100
-  29.9100, -82.0800
-  30.2600, -82.0800
-  30.2400, -81.5900
-  29.9000, -81.6100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:13PM CDT by NWS Shreveport LA\nExpires: 2026-09-11 22:00 Z\nAt 413 PM CDT, Doppler radar was tracking a strong thunderstorm 29 miles northwest of Broken Bow, or 45 miles northwest of De Queen, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Bethel, Mount Herman, Battiest, Sherwood and Pickens.\nGenerated: 2026-09-11 21:55:13 UTC"
-  34.4800, -95.0500
-  34.5000, -95.0300
-  34.3700, -94.6700
-  34.1500, -94.8300
-  34.3100, -95.0500
-  34.4800, -95.0500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 4:12PM CDT by NWS Shreveport LA\nExpires: 2026-09-11 22:00 Z\nAt 412 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles northeast of Clarksville, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Avery, Annona, English, Bryarly, Beaverdams and Goodlake.\nGenerated: 2026-09-11 21:55:13 UTC"
-  33.8100, -94.9500
-  33.8300, -94.9400
-  33.7000, -94.6100
-  33.4900, -94.7600
-  33.6800, -95.0600
-  33.8100, -94.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:11PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:00 Z\nAt 511 PM EDT, Doppler radar was tracking a strong thunderstorm over Anthony, or 8 miles northeast of Ocala, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ocala, Fort McCoy, Citra, Lynne, Sparr, Anthony, and Burbank.\nGenerated: 2026-09-11 21:55:13 UTC"
-  29.1300, -82.2100
-  29.4300, -82.1800
-  29.4800, -81.8400
-  29.1400, -81.8300
-  29.1300, -82.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:10PM EDT by NWS Jacksonville FL\nExpires: 2026-09-11 22:00 Z\nAt 510 PM EDT, Doppler radar was tracking a strong thunderstorm over Bryceville, or 14 miles southwest of Callahan, moving east at 15 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, Callahan, Jacksonville International Arpt, Arlington, Yulee, Cisco Gardens, Ortega, Bryceville, Nas Jax, and Nassau Village-Ratliff.\nGenerated: 2026-09-11 21:55:13 UTC"
-  30.2100, -81.6000
-  30.2600, -82.0300
-  30.5700, -82.0100
-  30.6300, -81.5800
-  30.4800, -81.5200
-  30.2100, -81.6000
 End:
