@@ -3,9 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-11 23:30:16 UTC
+; Generated: 2026-09-11 23:35:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:29PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:00 Z\nAt 629 PM CDT, Doppler radar indicated a strong thunderstorm near Lake Wister State Park, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Lake Wister State Park...         Summerfield... Hodgen...\nGenerated: 2026-09-11 23:30:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:30PM CDT by NWS Memphis TN\nExpires: 2026-09-12 00:00 Z\nAt 630 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Slayden to near Red Banks to near Barr. Movement was east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Holly Springs, Wall Doxey State Park, Lamar, Snow Lake Shores, Barr, Mt Pleasant, Michigan City, Red Banks, Slayden, Marianna, Waterford, Aiken, Higdon, Crossroad, Gilton, Chulahoma, Taska, Galena, Looxahoma, and Victoria.  This includes Interstate 22 in Mississipppi between mile markers 16 and 36.\nGenerated: 2026-09-11 23:35:12 UTC"
+  34.5900, -89.8600
+  34.7600, -89.6900
+  34.9000, -89.6600
+  35.0000, -89.4100
+  34.9900, -89.1700
+  34.8300, -89.2100
+  34.6000, -89.4800
+  34.5900, -89.8600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 5:30PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-09-12 00:00 Z\nAt 530 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles east of Antelope Wells, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Antelope Wells, Alamo Hueco, and Playas Valley.\nGenerated: 2026-09-11 23:35:12 UTC"
+  31.4700, -108.5600
+  31.4700, -108.2100
+  31.3300, -108.2100
+  31.3400, -108.6300
+  31.4700, -108.5600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 6:29PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:00 Z\nAt 629 PM CDT, Doppler radar indicated a strong thunderstorm near Lake Wister State Park, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Lake Wister State Park...         Summerfield... Hodgen...\nGenerated: 2026-09-11 23:35:12 UTC"
   34.9200, -94.9200
   35.0000, -94.7900
   34.8400, -94.5900
@@ -14,7 +35,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:29PM CDT by NWS Tul
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:27PM CDT by NWS Memphis TN\nExpires: 2026-09-12 00:00 Z\nAt 627 PM CDT, Doppler radar was tracking a strong thunderstorm near Hillville, or 12 miles northwest of Bolivar, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bolivar, Whiteville, Somerville, Hillville, Dancyville, Cloverport, Mercer, Toone, Asbury, Neely, Yum Yum, Laconia, Fayette Corners, Cedar Chapel, Hickory Point, Vildo, Hatchie, Uptonville, Taylor Chapel, and Morton Hill.  This includes Interstate 40 in Tennessee between mile markers 43 and 68.\nGenerated: 2026-09-11 23:30:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:27PM CDT by NWS Memphis TN\nExpires: 2026-09-12 00:00 Z\nAt 627 PM CDT, Doppler radar was tracking a strong thunderstorm near Hillville, or 12 miles northwest of Bolivar, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bolivar, Whiteville, Somerville, Hillville, Dancyville, Cloverport, Mercer, Toone, Asbury, Neely, Yum Yum, Laconia, Fayette Corners, Cedar Chapel, Hickory Point, Vildo, Hatchie, Uptonville, Taylor Chapel, and Morton Hill.  This includes Interstate 40 in Tennessee between mile markers 43 and 68.\nGenerated: 2026-09-11 23:35:12 UTC"
   35.1700, -89.3200
   35.4100, -89.4200
   35.6200, -89.0900
@@ -24,7 +45,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:27PM CDT by NWS Mem
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:19PM CDT by NWS Fort Worth TX\nExpires: 2026-09-11 23:45 Z\nAt 619 PM CDT, Doppler radar was tracking a strong thunderstorm over Desoto, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Dallas, Desoto, Cedar Hill, Duncanville, Lancaster, Waxahachie, Midlothian, Glenn Heights, Red Oak, Hutchins, Wilmer, Ovilla, Ferris, Oak Leaf, Cedar Hill State Park, and Pecan Hill.  This includes the following highways... Interstate 35E between mile markers 407 and 422. Interstate 20 between mile markers 461 and 473. Interstate 45 between mile markers 264 and 266, and between mile markers 270 and 282.\nGenerated: 2026-09-11 23:30:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:19PM CDT by NWS Fort Worth TX\nExpires: 2026-09-11 23:45 Z\nAt 619 PM CDT, Doppler radar was tracking a strong thunderstorm over Desoto, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Dallas, Desoto, Cedar Hill, Duncanville, Lancaster, Waxahachie, Midlothian, Glenn Heights, Red Oak, Hutchins, Wilmer, Ovilla, Ferris, Oak Leaf, Cedar Hill State Park, and Pecan Hill.  This includes the following highways... Interstate 35E between mile markers 407 and 422. Interstate 20 between mile markers 461 and 473. Interstate 45 between mile markers 264 and 266, and between mile markers 270 and 282.\nGenerated: 2026-09-11 23:35:12 UTC"
   32.4700, -96.9100
   32.6400, -96.9800
   32.7600, -96.7500
@@ -33,7 +54,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:19PM CDT by NWS For
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:18PM CDT by NWS Fort Worth TX\nExpires: 2026-09-11 23:45 Z\nAt 618 PM CDT, Doppler radar was tracking a strong thunderstorm over Forest Hill, moving east at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Fort Worth, Arlington, Forest Hill, Kennedale, Everman, and Rendon around 625 PM CDT.  Other locations impacted by this storm include Dalworthington Gardens, Lake Arlington, and Joe Pool Lake.  This includes the following highways... Interstate 35W between mile markers 39 and 49. Interstate 20 between mile markers 435 and 453.\nGenerated: 2026-09-11 23:30:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:18PM CDT by NWS Fort Worth TX\nExpires: 2026-09-11 23:45 Z\nAt 618 PM CDT, Doppler radar was tracking a strong thunderstorm over Forest Hill, moving east at 15 mph.  HAZARD...Winds in excess of 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Fort Worth, Arlington, Forest Hill, Kennedale, Everman, and Rendon around 625 PM CDT.  Other locations impacted by this storm include Dalworthington Gardens, Lake Arlington, and Joe Pool Lake.  This includes the following highways... Interstate 35W between mile markers 39 and 49. Interstate 20 between mile markers 435 and 453.\nGenerated: 2026-09-11 23:35:12 UTC"
   32.7300, -97.0400
   32.5500, -97.0400
   32.5500, -97.2600
@@ -43,7 +64,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:18PM CDT by NWS For
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:09PM CDT by NWS San Angelo TX\nExpires: 2026-09-11 23:45 Z\nAt 608 PM CDT, Doppler radar was tracking a strong thunderstorm over Grape Creek, moving southeast at 10 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grape Creek.  People attending Grape Creek Eagle Stadium should seek safe shelter immediately!\nGenerated: 2026-09-11 23:30:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:09PM CDT by NWS San Angelo TX\nExpires: 2026-09-11 23:45 Z\nAt 608 PM CDT, Doppler radar was tracking a strong thunderstorm over Grape Creek, moving southeast at 10 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Grape Creek.  People attending Grape Creek Eagle Stadium should seek safe shelter immediately!\nGenerated: 2026-09-11 23:35:12 UTC"
   31.6500, -100.6000
   31.6900, -100.4900
   31.5500, -100.3900
