@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-12 14:00:26 UTC
+; Generated: 2026-09-12 14:05:12 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 10:00AM EDT by NWS Tallahassee FL\nExpires: 2026-09-12 15:00 Z\nAt 959 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northeast of Perry to 18 miles northwest of Steinhatchee. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Perry, Pinland, Cooks Hammock, Jug Island, Chancey, Smith, Buckville, Carbur, Mayo Junction, Adams Beach, Townsend, Dekle Beach, Jack Lee Island, Foley, Salem, Blue Springs, Bucell Junction, Athena, San Pedro Junction, and Day.\nGenerated: 2026-09-12 14:00:26 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 10:00AM EDT by NWS Tallahassee FL\nExpires: 2026-09-12 15:00 Z\nAt 959 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles northeast of Perry to 18 miles northwest of Steinhatchee. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Perry, Pinland, Cooks Hammock, Jug Island, Chancey, Smith, Buckville, Carbur, Mayo Junction, Adams Beach, Townsend, Dekle Beach, Jack Lee Island, Foley, Salem, Blue Springs, Bucell Junction, Athena, San Pedro Junction, and Day.\nGenerated: 2026-09-12 14:05:12 UTC"
   29.8100, -83.7000
   30.2400, -83.4700
   30.3300, -83.2100
@@ -27,7 +27,16 @@ Line: 2,,"Special Weather Statement issued September 12 at 10:00AM EDT by NWS Ta
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 8:57AM CDT by NWS Topeka KS\nExpires: 2026-09-12 14:30 Z\nAt 856 AM CDT, Doppler radar was tracking a strong thunderstorm near Willard, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Topeka, Rossville, Dover, Silver Lake, Auburn, Willard, and Pauline.  This includes the following highways... Interstate 70 between mile markers 341 and 355. Kansas Turnpike between mile markers 166 and 183.\nGenerated: 2026-09-12 14:00:26 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 9:00AM CDT by NWS Hastings NE\nExpires: 2026-09-12 14:45 Z\nAt 900 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles south of Sutton, or 28 miles southwest of York, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Geneva, Shickley, Milligan, Ohiowa and Strang.\nGenerated: 2026-09-12 14:05:12 UTC"
+  40.6100, -97.8200
+  40.6100, -97.3700
+  40.3700, -97.3700
+  40.4200, -97.8200
+  40.6100, -97.8200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 12 at 8:57AM CDT by NWS Topeka KS\nExpires: 2026-09-12 14:30 Z\nAt 856 AM CDT, Doppler radar was tracking a strong thunderstorm near Willard, moving southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor damage to vegetation is possible.  Locations impacted include... Topeka, Rossville, Dover, Silver Lake, Auburn, Willard, and Pauline.  This includes the following highways... Interstate 70 between mile markers 341 and 355. Kansas Turnpike between mile markers 166 and 183.\nGenerated: 2026-09-12 14:05:12 UTC"
   38.8700, -95.7800
   38.8700, -95.8300
   39.0100, -96.1000
@@ -37,7 +46,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 8:57AM CDT by NWS Top
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 9:46AM EDT by NWS Tallahassee FL\nExpires: 2026-09-12 14:30 Z\nAt 946 AM EDT/846 AM CDT/, Doppler radar was tracking a strong thunderstorm near Mexico Beach, or 8 miles northwest of Port St. Joe, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port St. Joe, Mexico Beach, White City, Tyndall Air Force Base, Honeyville, Highland View, St Joseph State Park, Overstreet, Howard Creek, Willis Landing, Beacon Hill, Dalkeith, and Saint Joe Beach.\nGenerated: 2026-09-12 14:00:26 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 9:46AM EDT by NWS Tallahassee FL\nExpires: 2026-09-12 14:30 Z\nAt 946 AM EDT/846 AM CDT/, Doppler radar was tracking a strong thunderstorm near Mexico Beach, or 8 miles northwest of Port St. Joe, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port St. Joe, Mexico Beach, White City, Tyndall Air Force Base, Honeyville, Highland View, St Joseph State Park, Overstreet, Howard Creek, Willis Landing, Beacon Hill, Dalkeith, and Saint Joe Beach.\nGenerated: 2026-09-12 14:05:12 UTC"
   29.8800, -85.4900
   29.9200, -85.5500
   29.9300, -85.5500
@@ -51,7 +60,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 9:46AM EDT by NWS Tal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 8:44AM CDT by NWS Memphis TN\nExpires: 2026-09-12 14:15 Z\nAt 843 AM CDT, Doppler radar was tracking a strong thunderstorm near Etta, or 13 miles west of New Albany, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... New Albany, Ecru, Cambridge, Keownville, Etta, Bethlehem, Pinedale, Thaxton, Myrtle, Shari, Hortontown, Poolville, Keel, Esperanza, Old Myrtle, Pumpkin Center, Baker, Smalco, Glenfield, and Cotton Plant.  This includes Interstate 22 in Mississipppi between mile markers 51 and 69.\nGenerated: 2026-09-12 14:00:26 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 8:44AM CDT by NWS Memphis TN\nExpires: 2026-09-12 14:15 Z\nAt 843 AM CDT, Doppler radar was tracking a strong thunderstorm near Etta, or 13 miles west of New Albany, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... New Albany, Ecru, Cambridge, Keownville, Etta, Bethlehem, Pinedale, Thaxton, Myrtle, Shari, Hortontown, Poolville, Keel, Esperanza, Old Myrtle, Pumpkin Center, Baker, Smalco, Glenfield, and Cotton Plant.  This includes Interstate 22 in Mississipppi between mile markers 51 and 69.\nGenerated: 2026-09-12 14:05:12 UTC"
   34.4800, -89.4900
   34.6000, -89.3100
   34.6000, -89.3000
@@ -65,7 +74,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 8:44AM CDT by NWS Mem
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 8:41AM CDT by NWS Hastings NE\nExpires: 2026-09-12 14:15 Z\nAt 841 AM CDT, Doppler radar was tracking a strong thunderstorm over Glenvil, or 9 miles southeast of Hastings, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sutton, Clay Center, Fairfield, Glenvil, Inland and Saronville.\nGenerated: 2026-09-12 14:00:26 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 8:41AM CDT by NWS Hastings NE\nExpires: 2026-09-12 14:15 Z\nAt 841 AM CDT, Doppler radar was tracking a strong thunderstorm over Glenvil, or 9 miles southeast of Hastings, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sutton, Clay Center, Fairfield, Glenvil, Inland and Saronville.\nGenerated: 2026-09-12 14:05:12 UTC"
   40.6100, -98.2800
   40.6000, -97.8200
   40.5100, -97.8200
