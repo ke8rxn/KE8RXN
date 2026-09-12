@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-12 17:10:12 UTC
+; Generated: 2026-09-12 17:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 12:09PM CDT by NWS Little Rock AR\nExpires: 2026-09-12 18:00 Z\nAt 1209 PM CDT, Doppler radar was tracking a strong thunderstorm near Carver, or 7 miles east of Jasper, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jasper...                         Eula... Pruitt...                         Point Peter... Piercetown...                     Carver... Bass...                           Yardelle... Vendor...                         Hasty... Woolum Recreation Area...         Mt Judea...\nGenerated: 2026-09-12 17:10:12 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 12:10PM CDT by NWS Memphis TN\nExpires: 2026-09-12 17:45 Z\nAt 1210 PM CDT, Doppler radar was tracking a strong thunderstorm over Lambert, or 16 miles northwest of Charleston, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Charleston, Lambert, Crowder, Enid, Vance, Waverly, Mims, Denton, and Longstreet.\nGenerated: 2026-09-12 17:15:15 UTC"
+  34.1400, -90.3600
+  34.2900, -90.2100
+  34.1300, -89.9200
+  34.1200, -89.9300
+  34.0100, -89.9800
+  33.9300, -90.1600
+  34.1400, -90.3600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 12 at 12:09PM CDT by NWS Little Rock AR\nExpires: 2026-09-12 18:00 Z\nAt 1209 PM CDT, Doppler radar was tracking a strong thunderstorm near Carver, or 7 miles east of Jasper, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jasper...                         Eula... Pruitt...                         Point Peter... Piercetown...                     Carver... Bass...                           Yardelle... Vendor...                         Hasty... Woolum Recreation Area...         Mt Judea...\nGenerated: 2026-09-12 17:15:15 UTC"
   36.0400, -93.2000
   36.1100, -93.0200
   35.9400, -92.7900
@@ -14,96 +25,11 @@ Line: 2,,"Special Weather Statement issued September 12 at 12:09PM CDT by NWS Li
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 1:02PM EDT by NWS Charleston WV\nExpires: 2026-09-12 17:15 Z\nAt 102 PM EDT, Doppler radar was tracking a strong thunderstorm near Greenup, or near Ironton, moving northeast at 20 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Ironton, Lake Vesuvius, Greenup, Flatwoods, Russell, Raceland, Worthington, Wurtland, Hanging Rock, and Pedro.\nGenerated: 2026-09-12 17:10:12 UTC"
-  38.5900, -82.8900
-  38.6100, -82.8600
-  38.5800, -82.8400
-  38.5700, -82.8100
-  38.6000, -82.7400
-  38.6500, -82.7700
-  38.6700, -82.7600
-  38.6800, -82.7500
-  38.6800, -82.7100
-  38.7100, -82.7000
-  38.7200, -82.6900
-  38.5300, -82.5200
-  38.5000, -82.8100
-  38.5900, -82.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 11:57AM CDT by NWS Little Rock AR\nExpires: 2026-09-12 17:30 Z\nAt 1156 AM CDT, Doppler radar was tracking a strong thunderstorm near Pettigrew, or 19 miles northeast of Ozark, moving south at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Yale...                           Oak Grove in Johnson County... Friley...                         Wolf Pen Campground... Oark...\nGenerated: 2026-09-12 17:10:12 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 11:57AM CDT by NWS Little Rock AR\nExpires: 2026-09-12 17:30 Z\nAt 1156 AM CDT, Doppler radar was tracking a strong thunderstorm near Pettigrew, or 19 miles northeast of Ozark, moving south at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Yale...                           Oak Grove in Johnson County... Friley...                         Wolf Pen Campground... Oark...\nGenerated: 2026-09-12 17:15:15 UTC"
   35.7700, -93.7000
   35.7700, -93.5900
   35.7600, -93.5800
   35.5700, -93.5600
   35.5400, -93.7000
   35.7700, -93.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 11:50AM CDT by NWS Omaha/Valley NE\nExpires: 2026-09-12 17:15 Z\nAt 1149 AM CDT, Doppler radar was tracking a strong thunderstorm 3 miles northeast of Table Rock, or 9 miles northeast of Pawnee City, moving east at 30 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  * This strong thunderstorm will be near... Humboldt around 1155 AM CDT.\nGenerated: 2026-09-12 17:10:12 UTC"
-  40.1700, -96.2100
-  40.2600, -96.1300
-  40.2600, -96.0700
-  40.2800, -96.0600
-  40.2800, -95.7700
-  40.1400, -95.7900
-  40.1700, -96.2100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 12:49PM EDT by NWS Newport/Morehead City NC\nExpires: 2026-09-12 17:15 Z\nAt 1249 PM EDT, Doppler radar was tracking a strong thunderstorm over Buffalo City, or 13 miles northwest of Stumpy Point. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mashoes, East Lake, and Buffalo City.\nGenerated: 2026-09-12 17:10:12 UTC"
-  35.7800, -75.8300
-  35.7900, -76.0000
-  35.9800, -75.9800
-  35.9800, -75.7900
-  35.7800, -75.8300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 11:48AM CDT by NWS Memphis TN\nExpires: 2026-09-12 17:15 Z\nAt 1148 AM CDT, Doppler radar was tracking a strong thunderstorm over Belen, or 12 miles northeast of Clarksdale, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Marks, Lambert, Belen, Vance, West Marks, Sabino, Barksdale, Essex, Denton, Riverview, Longstreet, and Hinchcliff.\nGenerated: 2026-09-12 17:10:12 UTC"
-  34.2600, -90.4900
-  34.3800, -90.3800
-  34.2800, -90.1600
-  34.2700, -90.1300
-  34.2400, -90.1300
-  34.0700, -90.2900
-  34.0700, -90.3100
-  34.2600, -90.4900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 11:46AM CDT by NWS Little Rock AR\nExpires: 2026-09-12 17:15 Z\nAt 1145 AM CDT, Doppler radar was tracking a strong thunderstorm near Boston, or 20 miles southeast of Huntsville, moving south at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Walnut...                         Devils Knob... Rosetta...                        Salus... Catalpa...                        Fort Douglas... Ozone...                          Fallsville... Haw Creek Falls Campground...     Dixon Ridge... Arbaugh...                        Mineral Springs Recreation Area... Harmony...                        Oark...\nGenerated: 2026-09-12 17:10:12 UTC"
-  35.6600, -93.2000
-  35.5500, -93.5600
-  35.7600, -93.5800
-  35.7600, -93.5200
-  35.7700, -93.5200
-  35.8800, -93.5300
-  35.8800, -93.5000
-  35.9200, -93.5000
-  35.9300, -93.4700
-  35.6600, -93.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 11:44AM CDT by NWS Topeka KS\nExpires: 2026-09-12 17:15 Z\nAt 1144 AM CDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of Marysville, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Marysville, Frankfort, Beattie, and Bremen.\nGenerated: 2026-09-12 17:10:12 UTC"
-  39.7400, -96.8000
-  39.9100, -96.8000
-  39.9400, -96.5300
-  39.9300, -96.2800
-  39.6900, -96.3900
-  39.7400, -96.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 11:43AM CDT by NWS Tulsa OK\nExpires: 2026-09-12 17:15 Z\nAt 1143 AM CDT, Doppler radar indicated a strong thunderstorm over Mounds, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Glenpool...                       Kiefer... Beggs...                          Mounds... Liberty...                        Hectorville...\nGenerated: 2026-09-12 17:10:12 UTC"
-  35.9600, -96.0600
-  35.8700, -95.8200
-  35.8600, -95.8200
-  35.8500, -95.8100
-  35.7000, -96.0300
-  35.8700, -96.1600
-  35.9600, -96.0600
 End:
