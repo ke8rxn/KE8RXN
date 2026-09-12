@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-12 05:10:14 UTC
+; Generated: 2026-09-12 05:15:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 12:04AM CDT by NWS Paducah KY\nExpires: 2026-09-12 05:45 Z\nAt 1204 AM CDT /104 AM EDT/, Doppler radar was tracking a line of strong thunderstorms extending from near Grayville to near Darmstadt, or extending from 6 miles southeast of Albion to 8 miles northwest of Evansville, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The strong thunderstorm will be near... Fort Branch and Mount Carmel around 1220 AM CDT. Princeton around 1225 AM CDT. Patoka around 1230 AM CDT. Lancaster around 1235 AM CDT. Oakland City around 1240 AM CDT.  Other locations impacted by this strong thunderstorm include Keensburg, Bellmont, Francisco, Hazleton and Allendale.\nGenerated: 2026-09-12 05:10:14 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 11:13PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 05:45 Z\nAt 1112 PM MDT, Doppler radar was tracking a strong thunderstorm near Hanksville, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hanksville, Capitol Reef National Park, Torrey, Caineville, and Fruita.  This includes the following highways... Utah Route 12 between mile markers 109 and 122. Utah Route 24 between mile markers 68 and 125. Utah Route 95 between mile markers 0 and 23.\nGenerated: 2026-09-12 05:15:13 UTC"
+  38.4900, -110.3100
+  38.0400, -110.4300
+  38.1400, -111.5000
+  38.4900, -111.3800
+  38.4900, -110.3100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 12 at 12:04AM CDT by NWS Paducah KY\nExpires: 2026-09-12 05:45 Z\nAt 1204 AM CDT /104 AM EDT/, Doppler radar was tracking a line of strong thunderstorms extending from near Grayville to near Darmstadt, or extending from 6 miles southeast of Albion to 8 miles northwest of Evansville, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  The strong thunderstorm will be near... Fort Branch and Mount Carmel around 1220 AM CDT. Princeton around 1225 AM CDT. Patoka around 1230 AM CDT. Lancaster around 1235 AM CDT. Oakland City around 1240 AM CDT.  Other locations impacted by this strong thunderstorm include Keensburg, Bellmont, Francisco, Hazleton and Allendale.\nGenerated: 2026-09-12 05:15:13 UTC"
   38.3600, -87.9700
   38.5700, -87.8900
   38.5700, -87.6500
@@ -30,7 +39,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 12:04AM CDT by NWS Pa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 12:01AM CDT by NWS Hastings NE\nExpires: 2026-09-12 05:30 Z\nAt 1201 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near Shelby to near Hordville, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Stromsburg, Polk, Shelby, Hordville and Osceola around 1205 AM CDT. Benedict around 1220 AM CDT. Gresham and Hampton around 1225 AM CDT.  Other locations impacted by this strong thunderstorm include Thayer.\nGenerated: 2026-09-12 05:10:14 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 12:01AM CDT by NWS Hastings NE\nExpires: 2026-09-12 05:30 Z\nAt 1201 AM CDT, Doppler radar was tracking a line of strong thunderstorms extending from near Shelby to near Hordville, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Strong thunderstorms will be near... Stromsburg, Polk, Shelby, Hordville and Osceola around 1205 AM CDT. Benedict around 1220 AM CDT. Gresham and Hampton around 1225 AM CDT.  Other locations impacted by this strong thunderstorm include Thayer.\nGenerated: 2026-09-12 05:15:13 UTC"
   41.1700, -97.8300
   41.2300, -97.6100
   41.2800, -97.3700
@@ -44,27 +53,4 @@ Line: 2,,"Special Weather Statement issued September 12 at 12:01AM CDT by NWS Ha
   41.1100, -97.8900
   41.1300, -97.8600
   41.1700, -97.8300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 10:34PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 05:15 Z\nAt 1034 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles northeast of Capitol Reef National Park, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hanksville, Capitol Reef National Park, and Caineville.  This includes the following highways... Utah Route 24 near mile marker 89, and between mile markers 91 and 119. Utah Route 95 between mile markers 0 and 18.\nGenerated: 2026-09-12 05:10:14 UTC"
-  38.1000, -110.5700
-  38.3100, -111.2000
-  38.5200, -111.1100
-  38.3600, -110.4600
-  38.1000, -110.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 11:31PM CDT by NWS Hastings NE\nExpires: 2026-09-12 05:15 Z\nAt 1131 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 14 miles east of Shelby to near Clarks, or extending from 35 miles northeast of York to 27 miles northwest of York, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Stromsburg, Osceola, Shelby, Clarks, Silver Creek and Polk.\nGenerated: 2026-09-12 05:10:14 UTC"
-  41.2900, -97.9800
-  41.2900, -97.9000
-  41.3000, -97.9000
-  41.3100, -97.8200
-  41.3100, -97.7100
-  41.3200, -97.7000
-  41.3400, -97.3700
-  41.0500, -97.3700
-  41.0500, -97.8400
-  41.2900, -97.9800
 End:
