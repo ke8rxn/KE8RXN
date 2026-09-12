@@ -3,9 +3,49 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-12 00:05:16 UTC
+; Generated: 2026-09-12 00:10:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:58PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:30 Z\nAt 658 PM CDT, Doppler radar indicated a strong thunderstorm 7 miles south of Soper, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Arthur City...                    Ord... Gay...\nGenerated: 2026-09-12 00:05:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 8:06PM EDT by NWS Raleigh NC\nExpires: 2026-09-12 00:30 Z\nAt 805 PM EDT, Doppler radar was tracking a strong thunderstorm near RDU International, or near Cary, moving northeast at 10 mph. A second strong storm was located just north of Knightdale, also drifting northeast near 10 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh, Cary, Wake Forest, Garner, RDU International, Apex, Morrisville, Knightdale, Rolesville, and William B Umstead State Park.  This includes the following highways... Interstate 40 between Mile Markers 280 and 305. Interstate 440 between Mile Markers 1 and 16. Interstate 540 between Mile Markers 0 and 24. US 1 between Mile Markers 94 and 101. the Durham Freeway between Mile Markers 2 and 4.\nGenerated: 2026-09-12 00:10:14 UTC"
+  35.9900, -78.5500
+  35.8800, -78.3300
+  35.7000, -78.5300
+  35.7000, -78.9600
+  35.8400, -78.9100
+  36.0000, -78.7900
+  35.9900, -78.5500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 7:06PM CDT by NWS San Angelo TX\nExpires: 2026-09-12 00:45 Z\nAt 706 PM CDT, Doppler radar was tracking a strong thunderstorm over northeastern San Angelo, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... San Angelo, Goodfellow Air Force Base, and Harriet.\nGenerated: 2026-09-12 00:10:14 UTC"
+  31.5500, -100.4500
+  31.5600, -100.3200
+  31.3900, -100.2600
+  31.3700, -100.4500
+  31.5500, -100.4500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 6:06PM MDT by NWS Cheyenne WY\nExpires: 2026-09-12 00:45 Z\nAt 606 PM MDT, Doppler radar was tracking gusty showers 7 miles northwest of Laramie Regional Airport, or 11 miles west of Laramie, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Laramie, West Laramie, Antelope Buttes, Nine Mile, Rogers Canyon, Tie City Campground, University Of Wyoming War Memorial Stadium, Twin Buttes Lake, North Crow Campground, Baldy Peak, Laramie Regional Airport, Lake Hattie Reservoir, Wild Horse Ranch, Yellow Pine Campground, Curt Gowdy State Park, Paddocks, Pope Springs, and Albany County Fairgrounds.\nGenerated: 2026-09-12 00:10:14 UTC"
+  41.2100, -105.9300
+  41.4100, -106.0200
+  41.7000, -105.3700
+  41.1900, -105.2600
+  41.2100, -105.9300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 7:06PM CDT by NWS Memphis TN\nExpires: 2026-09-12 00:30 Z\nAt 706 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Lagrange to near Wall Doxey State Park to near Harmontown. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Holly Springs, Wall Doxey State Park, Lamar, Snow Lake Shores, Lagrange, Michigan City, Laws Hill, Slayden, Marianna, Moscow, Grand Junction, La Grange, Hickory Valley, Malone, Waterford, Aiken, Higdon, Tyro, Gilton, and Chulahoma.  This includes Interstate 22 in Mississipppi between mile markers 22 and 39.\nGenerated: 2026-09-12 00:10:14 UTC"
+  34.5600, -89.8400
+  34.7300, -89.6500
+  35.1200, -89.3900
+  35.1800, -89.0300
+  34.8200, -89.2100
+  34.5500, -89.4500
+  34.5600, -89.8400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 6:58PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:30 Z\nAt 658 PM CDT, Doppler radar indicated a strong thunderstorm 7 miles south of Soper, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Arthur City...                    Ord... Gay...\nGenerated: 2026-09-12 00:10:14 UTC"
   33.8900, -95.4700
   33.8700, -95.5000
   33.8900, -95.5100
@@ -26,7 +66,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:58PM CDT by NWS Tul
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 5:53PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 00:45 Z\nAt 553 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Big Water, or 46 miles south of Escalante, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Water, Lake Powell, and Dangling Rope Marina.  This storm will be capable of producing strong gusty winds on Lake Powell. This will lead to a sudden increase in waves and very choppy waters which will result in hazardous boating conditions. Boaters are urged to seek safe harbor if possible.  This includes US Route 89 between mile markers 2 and 9.\nGenerated: 2026-09-12 00:05:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 5:53PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 00:45 Z\nAt 553 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles east of Big Water, or 46 miles south of Escalante, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Water, Lake Powell, and Dangling Rope Marina.  This storm will be capable of producing strong gusty winds on Lake Powell. This will lead to a sudden increase in waves and very choppy waters which will result in hazardous boating conditions. Boaters are urged to seek safe harbor if possible.  This includes US Route 89 between mile markers 2 and 9.\nGenerated: 2026-09-12 00:10:14 UTC"
   37.0500, -111.7200
   37.2300, -111.6000
   37.1300, -110.9600
@@ -36,7 +76,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 5:53PM MDT by NWS Sal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:52PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:30 Z\nAt 652 PM CDT, Doppler radar indicated a strong thunderstorm near Boswell, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Boswell...\nGenerated: 2026-09-12 00:05:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:52PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:30 Z\nAt 652 PM CDT, Doppler radar indicated a strong thunderstorm near Boswell, moving southeast at 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Boswell...\nGenerated: 2026-09-12 00:10:14 UTC"
   33.9100, -95.8800
   33.9200, -95.9000
   33.9200, -95.9100
@@ -49,7 +89,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:52PM CDT by NWS Tul
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 7:48PM EDT by NWS Columbia SC\nExpires: 2026-09-12 00:15 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm near Newberry, moving southwest at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newberry, Saluda, Whitmire, Newberry County Airport, Newberry College, Silverstreet, Newberry County Detention Center, US- 176 and SC- 34 Crossroads, Belfast Wildlife Management Area, Chappells, Chappells Fire Station, Scurry Airport, Bush River Fire Station, Hickory Grove, Vaughnville, Enoree Ranger District Office, and Kinards.  This includes Interstate 26 between mile markers 62 and 78.\nGenerated: 2026-09-12 00:05:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 7:48PM EDT by NWS Columbia SC\nExpires: 2026-09-12 00:15 Z\nAt 748 PM EDT, Doppler radar was tracking a strong thunderstorm near Newberry, moving southwest at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newberry, Saluda, Whitmire, Newberry County Airport, Newberry College, Silverstreet, Newberry County Detention Center, US- 176 and SC- 34 Crossroads, Belfast Wildlife Management Area, Chappells, Chappells Fire Station, Scurry Airport, Bush River Fire Station, Hickory Grove, Vaughnville, Enoree Ranger District Office, and Kinards.  This includes Interstate 26 between mile markers 62 and 78.\nGenerated: 2026-09-12 00:10:14 UTC"
   34.4700, -81.5500
   34.4500, -81.5500
   34.4500, -81.5300
@@ -70,7 +110,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 7:48PM EDT by NWS Col
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:45PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:15 Z\nAt 645 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles northeast of Heavener, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Heavener...\nGenerated: 2026-09-12 00:05:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:45PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 00:15 Z\nAt 645 PM CDT, Doppler radar indicated a strong thunderstorm 3 miles northeast of Heavener, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Heavener...\nGenerated: 2026-09-12 00:10:14 UTC"
   34.7800, -94.5400
   34.9400, -94.6600
   35.0000, -94.5000
@@ -81,7 +121,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:45PM CDT by NWS Tul
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 6:41PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-09-12 00:30 Z\nAt 640 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Coupland to 6 miles southwest of Rosanky. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elgin, Bastrop, Giddings, La Grange, Smithville, Lexington, Fedor, Paige, Muldoon, Camp Swift, Cistern, Circle D-KC Estates, Rosanky, Tanglewood, Upton, Knobb Springs, Phelan, Bastrop State Park, Hills Prairie, and Northrup.\nGenerated: 2026-09-12 00:05:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 6:41PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-09-12 00:30 Z\nAt 640 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Coupland to 6 miles southwest of Rosanky. Movement was east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Elgin, Bastrop, Giddings, La Grange, Smithville, Lexington, Fedor, Paige, Muldoon, Camp Swift, Cistern, Circle D-KC Estates, Rosanky, Tanglewood, Upton, Knobb Springs, Phelan, Bastrop State Park, Hills Prairie, and Northrup.\nGenerated: 2026-09-12 00:10:14 UTC"
   29.8200, -96.8800
   29.7300, -97.1100
   29.8200, -97.3500
@@ -92,7 +132,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 6:41PM CDT by NWS Aus
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 7:36PM EDT by NWS Raleigh NC\nExpires: 2026-09-12 00:15 Z\nAt 736 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Warrenton, moving northeast at 10 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Littleton, Arcola, Medoc Mountain State Park, and Airlie.\nGenerated: 2026-09-12 00:05:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 7:36PM EDT by NWS Raleigh NC\nExpires: 2026-09-12 00:15 Z\nAt 736 PM EDT, Doppler radar was tracking a strong thunderstorm 12 miles southeast of Warrenton, moving northeast at 10 mph.  HAZARD...Wind gusts in excess of 30 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Littleton, Arcola, Medoc Mountain State Park, and Airlie.\nGenerated: 2026-09-12 00:10:14 UTC"
   36.3900, -77.7900
   36.2200, -77.7300
   36.1800, -77.9300
