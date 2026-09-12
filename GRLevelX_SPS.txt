@@ -3,9 +3,60 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-12 22:50:13 UTC
+; Generated: 2026-09-12 22:55:13 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 4:46PM MDT by NWS Albuquerque NM\nExpires: 2026-09-12 23:15 Z\nAt 446 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Navajo, or 31 miles north of Gallup, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of Southwestern San Juan and Northwestern McKinley Counties.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:54PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-09-12 23:30 Z\nAt 553 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Linwood to near Vinland to near Ottawa. Movement was east at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Overland Park, Olathe, Lee's Summit, Shawnee, Lenexa, Leawood, Grandview, Belton, Raymore, Gardner, De Soto, Paola, Spring Hill, Osawatomie, Louisburg, Edgerton, Cleveland, Linwood, Fontana, and West Line.  This includes the following highways... Interstate 35 in Kansas between mile markers 200 and 222. Interstate 435 between mile markers 0 and 2, and between mile markers 80 and 83. Kansas Turnpike between mile markers 206 and 211. Interstate 49 between mile markers 170 and 180.\nGenerated: 2026-09-12 22:55:13 UTC"
+  38.3900, -95.0700
+  38.9700, -95.0600
+  38.9900, -95.0700
+  38.9800, -95.0900
+  38.9600, -95.0800
+  38.9800, -95.1600
+  38.9600, -95.1700
+  38.9700, -95.1900
+  39.0600, -95.1800
+  38.8600, -94.4000
+  38.3900, -94.7100
+  38.3900, -95.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 12 at 5:51PM CDT by NWS Lubbock TX\nExpires: 2026-09-12 23:15 Z\nAt 551 PM CDT, Doppler radar was tracking a strong thunderstorm near Memphis, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Memphis, Lakeview, and Plaska Community.\nGenerated: 2026-09-12 22:55:13 UTC"
+  34.7100, -100.4200
+  34.5500, -100.6200
+  34.7300, -100.7600
+  34.7500, -100.7200
+  34.7500, -100.4200
+  34.7100, -100.4200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 12 at 5:51PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 00:00 Z\nAt 551 PM CDT, Doppler radar was tracking an area of strong thunderstorms 9 miles east of Broken Bow, or 14 miles west of Horatio, moving south at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ashdown, Foreman, Idabel, Wilton, Winthrop, Arkinda, Richmond, Haworth, Wallace, America, Tom, Moon, Shinewell, Bokhoma, Arden, Goodwater, Goodlake, Harris and Pine Prairie.\nGenerated: 2026-09-12 22:55:13 UTC"
+  33.9800, -94.8100
+  33.9000, -94.4700
+  33.6000, -93.8700
+  33.5900, -94.1000
+  33.6200, -94.4400
+  33.6300, -94.4600
+  33.6400, -94.4500
+  33.6500, -94.4600
+  33.6400, -94.4900
+  33.6700, -94.5800
+  33.6900, -94.5900
+  33.6700, -94.5900
+  33.6800, -94.6500
+  33.7000, -94.6400
+  33.6900, -94.6500
+  33.7200, -94.7400
+  33.7300, -94.7400
+  33.7200, -94.7500
+  33.7300, -94.7500
+  33.7300, -94.7800
+  33.9800, -94.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 12 at 4:46PM MDT by NWS Albuquerque NM\nExpires: 2026-09-12 23:15 Z\nAt 446 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Navajo, or 31 miles north of Gallup, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mainly rural areas of Southwestern San Juan and Northwestern McKinley Counties.\nGenerated: 2026-09-12 22:55:13 UTC"
   35.8500, -108.9600
   35.9400, -109.0400
   36.0800, -108.8800
@@ -14,7 +65,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 4:46PM MDT by NWS Alb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:46PM CDT by NWS Mobile AL\nExpires: 2026-09-12 23:45 Z\nAt 546 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Lisman to 4 miles north of Quitman. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Butler, Lisman, Silas, Coffeeville, Gilbertown, and Toxey.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:46PM CDT by NWS Mobile AL\nExpires: 2026-09-12 23:45 Z\nAt 546 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles east of Lisman to 4 miles north of Quitman. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Butler, Lisman, Silas, Coffeeville, Gilbertown, and Toxey.\nGenerated: 2026-09-12 22:55:13 UTC"
   32.1400, -88.0200
   32.1400, -88.0400
   32.0900, -88.0400
@@ -37,7 +88,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:46PM CDT by NWS Mob
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:45PM CDT by NWS Dodge City KS\nExpires: 2026-09-12 23:30 Z\nAt 544 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Acres to 6 miles northeast of Buffalo. Movement was northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Ashland around 600 PM CDT.  Other locations in the path of these storms include Sitka.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:45PM CDT by NWS Dodge City KS\nExpires: 2026-09-12 23:30 Z\nAt 544 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Acres to 6 miles northeast of Buffalo. Movement was northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Strong thunderstorms will be near... Ashland around 600 PM CDT.  Other locations in the path of these storms include Sitka.\nGenerated: 2026-09-12 22:55:13 UTC"
   37.0000, -99.9600
   37.3200, -99.8800
   37.0100, -99.2600
@@ -46,7 +97,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:45PM CDT by NWS Dod
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:43PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 23:15 Z\nAt 543 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles east of Antlers to 5 miles west of Moyers. Movement was south at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Antlers...                        Moyers... Kellond...                        Messer... Darwin...                         Speer... Dela...\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:43PM CDT by NWS Tulsa OK\nExpires: 2026-09-12 23:15 Z\nAt 543 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 4 miles east of Antlers to 5 miles west of Moyers. Movement was south at 5 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Antlers...                        Moyers... Kellond...                        Messer... Darwin...                         Speer... Dela...\nGenerated: 2026-09-12 22:55:13 UTC"
   34.1500, -95.7800
   34.3800, -95.7800
   34.2600, -95.4500
@@ -55,7 +106,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:43PM CDT by NWS Tul
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:42PM CDT by NWS Birmingham AL\nExpires: 2026-09-12 23:15 Z\nAt 541 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Brighton, or over Fairfield, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southern Birmingham, Hoover, Vestavia Hills, Bessemer, Homewood, Mountain Brook, Hueytown, Fairfield, Pleasant Grove, Midfield, Brighton, Lipscomb, Mulga, Birmingham Fairgounds, Edgewater, Five Points South, Ensley, Bluff Park, Legion Field, and U.A.B. Campus.  This includes the following highways... Interstate 65 between mile markers 249 and 260. Interstate 459 between mile markers 1 and 24. Interstate 59 between mile markers 101 and 125.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:42PM CDT by NWS Birmingham AL\nExpires: 2026-09-12 23:15 Z\nAt 541 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms over Brighton, or over Fairfield, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southern Birmingham, Hoover, Vestavia Hills, Bessemer, Homewood, Mountain Brook, Hueytown, Fairfield, Pleasant Grove, Midfield, Brighton, Lipscomb, Mulga, Birmingham Fairgounds, Edgewater, Five Points South, Ensley, Bluff Park, Legion Field, and U.A.B. Campus.  This includes the following highways... Interstate 65 between mile markers 249 and 260. Interstate 459 between mile markers 1 and 24. Interstate 59 between mile markers 101 and 125.\nGenerated: 2026-09-12 22:55:13 UTC"
   33.4800, -86.6100
   33.4600, -86.6300
   33.4700, -86.6700
@@ -80,7 +131,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:42PM CDT by NWS Bir
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:39PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 00:00 Z\nAt 539 PM CDT, Doppler radar was tracking an area of strong thunderstorms 7 miles east of Prescott, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hope, Nashville, Prescott, Mineral Springs, Emmet, Wilton, Blevins, Perrytown, Rosston, Tollette, Fulton, Washington, Willisville, Ben Lomond, Bodcaw, Bluff City, Saratoga, Oak Grove and McCaskill.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:39PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 00:00 Z\nAt 539 PM CDT, Doppler radar was tracking an area of strong thunderstorms 7 miles east of Prescott, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hope, Nashville, Prescott, Mineral Springs, Emmet, Wilton, Blevins, Perrytown, Rosston, Tollette, Fulton, Washington, Willisville, Ben Lomond, Bodcaw, Bluff City, Saratoga, Oak Grove and McCaskill.\nGenerated: 2026-09-12 22:55:13 UTC"
   33.9000, -94.4700
   34.0100, -93.8200
   33.9400, -93.5300
@@ -101,7 +152,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:39PM CDT by NWS Shr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:37PM CDT by NWS Little Rock AR\nExpires: 2026-09-12 23:00 Z\nAt 537 PM CDT, Doppler radar was tracking a strong thunderstorm near Glenwood, or 16 miles northeast of Murfreesboro, moving southeast at 30 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Murfreesboro...                   Glenwood... Amity...                          Okolona... Halfway...                        Crater Of Diamonds State Park... Delight...                        Antoine... Alpine...                         Bear Creek Public Use Area... Salem in Pike County...           Shawmut... Rosboro...                        Pike City... Hollywood...                      Kirby...\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:37PM CDT by NWS Little Rock AR\nExpires: 2026-09-12 23:00 Z\nAt 537 PM CDT, Doppler radar was tracking a strong thunderstorm near Glenwood, or 16 miles northeast of Murfreesboro, moving southeast at 30 mph.  HAZARD...Winds in excess of 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Murfreesboro...                   Glenwood... Amity...                          Okolona... Halfway...                        Crater Of Diamonds State Park... Delight...                        Antoine... Alpine...                         Bear Creek Public Use Area... Salem in Pike County...           Shawmut... Rosboro...                        Pike City... Hollywood...                      Kirby...\nGenerated: 2026-09-12 22:55:13 UTC"
   34.3400, -93.7100
   34.3300, -93.3600
   34.3200, -93.3500
@@ -113,7 +164,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:37PM CDT by NWS Lit
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:36PM CDT by NWS Norman OK\nExpires: 2026-09-12 23:00 Z\nAt 535 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles south of Acres Kansas to near Selman. Movement was east-northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Buffalo and Selman.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:36PM CDT by NWS Norman OK\nExpires: 2026-09-12 23:00 Z\nAt 535 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles south of Acres Kansas to near Selman. Movement was east-northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Buffalo and Selman.\nGenerated: 2026-09-12 22:55:13 UTC"
   37.0000, -99.5500
   36.8500, -99.3200
   36.8200, -99.2900
@@ -125,7 +176,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:36PM CDT by NWS Nor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:32PM CDT by NWS Amarillo TX\nExpires: 2026-09-12 23:00 Z\nAt 532 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles west of Elmwood, or 12 miles south of Beaver, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beaver, Elmwood, and Balko.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:32PM CDT by NWS Amarillo TX\nExpires: 2026-09-12 23:00 Z\nAt 532 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles west of Elmwood, or 12 miles south of Beaver, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Beaver, Elmwood, and Balko.\nGenerated: 2026-09-12 22:55:13 UTC"
   36.5200, -100.6000
   36.6100, -100.8000
   36.8700, -100.5500
@@ -134,7 +185,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:32PM CDT by NWS Ama
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:31PM CDT by NWS Norman OK\nExpires: 2026-09-12 23:00 Z\nAt 530 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Stringtown, moving southeast at 10 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McGee Creek Lake.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:31PM CDT by NWS Norman OK\nExpires: 2026-09-12 23:00 Z\nAt 530 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Stringtown, moving southeast at 10 mph.  HAZARD...Wind gusts of 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... McGee Creek Lake.\nGenerated: 2026-09-12 22:55:13 UTC"
   34.2600, -95.9400
   34.4700, -96.0100
   34.5200, -95.8800
@@ -144,7 +195,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:31PM CDT by NWS Nor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:31PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-12 23:00 Z\nAt 531 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Fort Stockton to 33 miles northeast of Marathon. These storms were nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Stockton, Sierra Madera, and Fort Stockton-Pecos County Airport.  This includes Interstate 10 between mile markers 248 and 257.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:31PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-12 23:00 Z\nAt 531 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Fort Stockton to 33 miles northeast of Marathon. These storms were nearly stationary.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Fort Stockton, Sierra Madera, and Fort Stockton-Pecos County Airport.  This includes Interstate 10 between mile markers 248 and 257.\nGenerated: 2026-09-12 22:55:13 UTC"
   30.9200, -102.9200
   30.4900, -102.7600
   30.4600, -102.9800
@@ -153,7 +204,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:31PM CDT by NWS Mid
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 6:29PM EDT by NWS Melbourne FL\nExpires: 2026-09-12 23:00 Z\nAt 628 PM EDT, Doppler radar was tracking a strong thunderstorm near Lake Marian, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Marian, Holopaw, Kenansville, Forever Florida, and Deer Park.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 6:29PM EDT by NWS Melbourne FL\nExpires: 2026-09-12 23:00 Z\nAt 628 PM EDT, Doppler radar was tracking a strong thunderstorm near Lake Marian, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Marian, Holopaw, Kenansville, Forever Florida, and Deer Park.\nGenerated: 2026-09-12 22:55:13 UTC"
   27.7900, -81.1000
   28.0400, -81.2100
   28.2800, -80.9400
@@ -162,7 +213,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 6:29PM EDT by NWS Mel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:22PM CDT by NWS Topeka KS\nExpires: 2026-09-12 23:00 Z\nAt 521 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles south of Perry Lake to 7 miles northwest of Osage City. Movement was southeast at 55 mph.  HAZARD...Strong wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southeastern Topeka, Lawrence, Emporia, Ottawa, Baldwin City, Osage City, Burlington, Carbondale, Tecumseh, Eudora, Richland, Wellsville, Auburn, Overbrook, Lyndon, Centropolis, Lebo, Burlingame, Perry, and Pomona.  This includes the following highways... Interstate 35 between mile markers 128 and 198. Kansas Turnpike between mile markers 123 and 205.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:22PM CDT by NWS Topeka KS\nExpires: 2026-09-12 23:00 Z\nAt 521 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles south of Perry Lake to 7 miles northwest of Osage City. Movement was southeast at 55 mph.  HAZARD...Strong wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Southeastern Topeka, Lawrence, Emporia, Ottawa, Baldwin City, Osage City, Burlington, Carbondale, Tecumseh, Eudora, Richland, Wellsville, Auburn, Overbrook, Lyndon, Centropolis, Lebo, Burlingame, Perry, and Pomona.  This includes the following highways... Interstate 35 between mile markers 128 and 198. Kansas Turnpike between mile markers 123 and 205.\nGenerated: 2026-09-12 22:55:13 UTC"
   38.6800, -95.0700
   38.3900, -95.4800
   38.3900, -95.5000
@@ -184,7 +235,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:22PM CDT by NWS Top
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:21PM CDT by NWS Jackson MS\nExpires: 2026-09-12 23:15 Z\nAt 520 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Goshen Springs, or 7 miles east of Canton, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jackson, Pearl, Brandon, Flowood, Pelahatchie, Leesburg, Pisgah, Goshen Springs, and Fannin.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:21PM CDT by NWS Jackson MS\nExpires: 2026-09-12 23:15 Z\nAt 520 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Goshen Springs, or 7 miles east of Canton, moving south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jackson, Pearl, Brandon, Flowood, Pelahatchie, Leesburg, Pisgah, Goshen Springs, and Fannin.\nGenerated: 2026-09-12 22:55:13 UTC"
   32.2700, -90.1800
   32.2800, -90.1700
   32.2800, -90.1500
@@ -200,7 +251,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:21PM CDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 6:17PM EDT by NWS Wakefield VA\nExpires: 2026-09-12 23:00 Z\nAt 616 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Claresville, or 8 miles west of Boykins, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This storm will remain over mainly rural areas of northeastern Northampton, Greensville, southern Southampton and southwestern Sussex Counties and the City of Emporia, including the following locations... Vicksville, Adams Grove, Grizzard, Lanes Corner, Yale, Bryants Corner, Emporia Reservoir, Worrell, Cowie Corner, and Hilda.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 6:17PM EDT by NWS Wakefield VA\nExpires: 2026-09-12 23:00 Z\nAt 616 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles southeast of Claresville, or 8 miles west of Boykins, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Reduced visibility and minor flooding possible.  This storm will remain over mainly rural areas of northeastern Northampton, Greensville, southern Southampton and southwestern Sussex Counties and the City of Emporia, including the following locations... Vicksville, Adams Grove, Grizzard, Lanes Corner, Yale, Bryants Corner, Emporia Reservoir, Worrell, Cowie Corner, and Hilda.\nGenerated: 2026-09-12 22:55:13 UTC"
   36.5000, -77.6400
   36.9000, -77.5700
   36.9400, -77.4900
@@ -210,7 +261,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 6:17PM EDT by NWS Wak
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 5:15PM CDT by NWS Topeka KS\nExpires: 2026-09-12 23:00 Z\nAt 515 PM CDT, Doppler radar was tracking a strong thunderstorm over Clyde, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Concordia, Clay Center, Clyde, Clifton, Morganville, Green, Aurora, Vining, and Idana.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 5:15PM CDT by NWS Topeka KS\nExpires: 2026-09-12 23:00 Z\nAt 515 PM CDT, Doppler radar was tracking a strong thunderstorm over Clyde, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Concordia, Clay Center, Clyde, Clifton, Morganville, Green, Aurora, Vining, and Idana.\nGenerated: 2026-09-12 22:55:13 UTC"
   39.6500, -97.6600
   39.6500, -97.3500
   39.5700, -96.9600
@@ -221,7 +272,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 5:15PM CDT by NWS Top
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 4:55PM CDT by NWS Jackson MS\nExpires: 2026-09-12 23:00 Z\nAt 455 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Cuba to near Chunky. Movement was south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Meridian, Marion, Nellieburg, Toomsuba, and Kewanee around 500 PM CDT. Alamucha around 505 PM CDT. Zero around 515 PM CDT. Causeyville around 535 PM CDT.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 4:55PM CDT by NWS Jackson MS\nExpires: 2026-09-12 23:00 Z\nAt 455 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Cuba to near Chunky. Movement was south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Meridian, Marion, Nellieburg, Toomsuba, and Kewanee around 500 PM CDT. Alamucha around 505 PM CDT. Zero around 515 PM CDT. Causeyville around 535 PM CDT.\nGenerated: 2026-09-12 22:55:13 UTC"
   32.1300, -88.4500
   32.1100, -88.6700
   32.1200, -88.8800
@@ -234,7 +285,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 4:55PM CDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 4:54PM CDT by NWS Shreveport LA\nExpires: 2026-09-12 23:15 Z\nAt 454 PM CDT, Doppler radar was tracking an area of strong thunderstorms 19 miles north of Broken Bow, or 23 miles northwest of De Queen, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... De Queen, Dierks, Horatio, Umpire, Broken Bow, Lockesburg, Gillham, Corinth, Athens, Center Point, Wright City, Hochatown, Eagletown, West Line, Plunketville, Watson, Cerrogordo, West Otis and Sherwood.\nGenerated: 2026-09-12 22:50:13 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 4:54PM CDT by NWS Shreveport LA\nExpires: 2026-09-12 23:15 Z\nAt 454 PM CDT, Doppler radar was tracking an area of strong thunderstorms 19 miles north of Broken Bow, or 23 miles northwest of De Queen, moving south at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... De Queen, Dierks, Horatio, Umpire, Broken Bow, Lockesburg, Gillham, Corinth, Athens, Center Point, Wright City, Hochatown, Eagletown, West Line, Plunketville, Watson, Cerrogordo, West Otis and Sherwood.\nGenerated: 2026-09-12 22:55:13 UTC"
   34.5100, -94.8000
   34.4500, -94.4600
   34.1900, -94.4700
