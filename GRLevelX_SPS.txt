@@ -3,9 +3,44 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-12 01:20:16 UTC
+; Generated: 2026-09-12 01:25:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 8:18PM CDT by NWS North Platte NE\nExpires: 2026-09-12 01:45 Z\nAt 818 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Ewing to 10 miles south of Chambers. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ewing, Knievels Corner, Buffalo Flats, Goose Lake State Wildlife Management Area, Cumminsville, and Four Corners.  This includes Highway 281 between mile markers 143 and 159.\nGenerated: 2026-09-12 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 8:23PM CDT by NWS Houston/Galveston TX\nExpires: 2026-09-12 02:30 Z\nAt 822 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Somerville to near Shelby to 6 miles north of Schulenburg. Movement was southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Brenham, Columbus, Shelby, Weimar, Somerville, Industry, Burton, Lake Somerville Dam, Lake Somerville State Park & Trailway, Carmine, Lyons, New Ulm, Quarry, and Frelsburg.\nGenerated: 2026-09-12 01:25:14 UTC"
+  29.9600, -96.5700
+  30.0400, -96.6200
+  30.1500, -96.6500
+  30.1600, -96.6900
+  30.1400, -96.7700
+  30.1600, -96.7900
+  30.2000, -96.7400
+  30.2400, -96.7300
+  30.2500, -96.6900
+  30.3000, -96.6400
+  30.3200, -96.7400
+  30.3600, -96.7700
+  30.4500, -96.5300
+  30.2200, -96.2300
+  29.7100, -96.4400
+  29.4900, -96.7100
+  29.5800, -96.7900
+  29.5800, -96.8400
+  29.6100, -96.8400
+  29.6300, -96.8700
+  29.9600, -96.5700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 8:19PM CDT by NWS Paducah KY\nExpires: 2026-09-12 01:45 Z\nAt 819 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles south of Weir, or 17 miles north of Elkton, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Central City, Powderly, Greenville, Weir, Graham, Drakesboro and Clifty.\nGenerated: 2026-09-12 01:25:14 UTC"
+  37.1100, -87.3100
+  37.3300, -87.3000
+  37.3000, -87.0200
+  36.9900, -87.1000
+  37.0100, -87.3100
+  37.1100, -87.3100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 8:18PM CDT by NWS North Platte NE\nExpires: 2026-09-12 01:45 Z\nAt 818 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from near Ewing to 10 miles south of Chambers. Movement was southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ewing, Knievels Corner, Buffalo Flats, Goose Lake State Wildlife Management Area, Cumminsville, and Four Corners.  This includes Highway 281 between mile markers 143 and 159.\nGenerated: 2026-09-12 01:25:14 UTC"
   41.8000, -98.7500
   42.0800, -98.7400
   42.2700, -98.3000
@@ -14,7 +49,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 8:18PM CDT by NWS Nor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 8:15PM CDT by NWS San Angelo TX\nExpires: 2026-09-12 02:15 Z\nAt 814 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles east of Christoval, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Adams.\nGenerated: 2026-09-12 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 8:15PM CDT by NWS San Angelo TX\nExpires: 2026-09-12 02:15 Z\nAt 814 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles east of Christoval, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Adams.\nGenerated: 2026-09-12 01:25:14 UTC"
   31.2600, -100.4500
   31.3300, -100.1200
   30.9600, -100.1100
@@ -23,7 +58,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 8:15PM CDT by NWS San
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 7:42PM CDT by NWS San Angelo TX\nExpires: 2026-09-12 01:30 Z\nAt 742 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Christoval, moving south at 20 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Christoval.\nGenerated: 2026-09-12 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 7:42PM CDT by NWS San Angelo TX\nExpires: 2026-09-12 01:30 Z\nAt 742 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles south of Christoval, moving south at 20 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Christoval.\nGenerated: 2026-09-12 01:25:14 UTC"
   31.2300, -100.6700
   31.2500, -100.4400
   30.9500, -100.3000
@@ -32,7 +67,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 7:42PM CDT by NWS San
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 7:41PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-09-12 01:30 Z\nAt 740 PM CDT, Doppler radar was tracking a strong thunderstorm near Waelder, or 15 miles west of Flatonia, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Flatonia, Waelder, Cistern, Muldoon, Delhi, Moravia, Newtonville, Elm Grove, Engle, O'Quinn, Floy, Thompsonville, Jeddo, and Colony.\nGenerated: 2026-09-12 01:20:16 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 7:41PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-09-12 01:30 Z\nAt 740 PM CDT, Doppler radar was tracking a strong thunderstorm near Waelder, or 15 miles west of Flatonia, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Flatonia, Waelder, Cistern, Muldoon, Delhi, Moravia, Newtonville, Elm Grove, Engle, O'Quinn, Floy, Thompsonville, Jeddo, and Colony.\nGenerated: 2026-09-12 01:25:14 UTC"
   29.6200, -97.5400
   29.8400, -97.5000
   29.9400, -96.9800
