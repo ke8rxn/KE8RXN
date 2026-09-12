@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-12 03:40:17 UTC
+; Generated: 2026-09-12 03:45:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 9:37PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 04:30 Z\nAt 937 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Ticaboo, or 41 miles southeast of Capitol Reef National Park, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ticaboo and Bullfrog.  This includes Utah Route 276 between mile markers 23 and 34.\nGenerated: 2026-09-12 03:40:17 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 10:41PM CDT by NWS Paducah KY\nExpires: 2026-09-12 04:15 Z\nAt 1041 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles north of Golconda to near Providence, or extending from 15 miles south of Harrisburg to near Providence, moving north at 40 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  The strong thunderstorm will be near... Sturgis, Clay and Providence around 1045 PM CDT. Dixon around 1050 PM CDT. Shawneetown, Morganfield and Breckinridge Center around 1055 PM CDT. Equality and Harrisburg around 1100 PM CDT. Uniontown, Ridgway, Eldorado and Corydon around 1105 PM CDT.  Other locations impacted by this strong thunderstorm include Karbers Ridge, Wheatcroft, Gross, Old Shawneetown, Junction, Waverly, Muddy and Raleigh.\nGenerated: 2026-09-12 03:45:14 UTC"
+  37.8400, -88.5500
+  37.8600, -88.0500
+  37.6900, -87.5600
+  37.3100, -87.6600
+  37.3600, -87.8300
+  37.3700, -87.8100
+  37.3600, -87.8400
+  37.4300, -88.1400
+  37.3700, -88.5300
+  37.8400, -88.5500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 11 at 9:37PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 04:30 Z\nAt 937 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles west of Ticaboo, or 41 miles southeast of Capitol Reef National Park, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ticaboo and Bullfrog.  This includes Utah Route 276 between mile markers 23 and 34.\nGenerated: 2026-09-12 03:45:14 UTC"
   37.6700, -110.4400
   37.6200, -110.4700
   37.6100, -110.5300
@@ -18,32 +32,7 @@ Line: 2,,"Special Weather Statement issued September 11 at 9:37PM MDT by NWS Sal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 10:24PM CDT by NWS Paducah KY\nExpires: 2026-09-12 03:45 Z\nAt 1024 PM CDT, Doppler radar was tracking a strong thunderstorm near Creswell, or 7 miles southeast of Marion, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Marion and Creswell.\nGenerated: 2026-09-12 03:40:17 UTC"
-  37.2500, -88.1000
-  37.4400, -88.0600
-  37.4100, -87.9300
-  37.4000, -87.9000
-  37.4100, -87.8700
-  37.4200, -87.8500
-  37.4000, -87.8400
-  37.3900, -87.8600
-  37.3800, -87.8600
-  37.3800, -87.8400
-  37.3900, -87.8200
-  37.3800, -87.8100
-  37.3600, -87.8100
-  37.3600, -87.8300
-  37.3500, -87.8100
-  37.3400, -87.8400
-  37.3200, -87.8500
-  37.3100, -87.8400
-  37.3100, -87.8300
-  37.2000, -87.9300
-  37.2500, -88.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 10:16PM CDT by NWS Hastings NE\nExpires: 2026-09-12 04:00 Z\nAt 1016 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 18 miles northeast of Genoa to 7 miles northwest of Belgrade, or extending from 54 miles north of York to 42 miles east of Ord, moving south at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fullerton, Genoa and Belgrade.\nGenerated: 2026-09-12 03:40:17 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 10:16PM CDT by NWS Hastings NE\nExpires: 2026-09-12 04:00 Z\nAt 1016 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 18 miles northeast of Genoa to 7 miles northwest of Belgrade, or extending from 54 miles north of York to 42 miles east of Ord, moving south at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Fullerton, Genoa and Belgrade.\nGenerated: 2026-09-12 03:45:14 UTC"
   41.3500, -97.7000
   41.3000, -98.0000
   41.4800, -98.1000
@@ -57,22 +46,10 @@ Line: 2,,"Special Weather Statement issued September 11 at 10:16PM CDT by NWS Ha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 9:14PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 04:00 Z\nAt 913 PM MDT, Doppler radar was tracking a strong thunderstorm 22 miles southeast of Boulder, or 26 miles south of Capitol Reef National Park, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of central Garfield County.  This includes Utah Route 276 between mile markers 19 and 27.\nGenerated: 2026-09-12 03:40:17 UTC"
+Line: 2,,"Special Weather Statement issued September 11 at 9:14PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-12 04:00 Z\nAt 913 PM MDT, Doppler radar was tracking a strong thunderstorm 22 miles southeast of Boulder, or 26 miles south of Capitol Reef National Park, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of central Garfield County.  This includes Utah Route 276 between mile markers 19 and 27.\nGenerated: 2026-09-12 03:45:14 UTC"
   37.7000, -111.1000
   37.8700, -111.1100
   37.9400, -110.6500
   37.6700, -110.6300
   37.7000, -111.1000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 11 at 10:05PM CDT by NWS Austin/San Antonio TX\nExpires: 2026-09-12 03:45 Z\nAt 1004 PM CDT, Doppler radar was tracking a strong thunderstorm over Kirby, or near Converse, moving southwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... San Antonio, Schertz, Converse, Universal City, Live Oak, San Antonio Int Airport, Stinson Municipal Airport, Randolph AFB, Leon Valley, Kirby, Alamo Heights, Windcrest, Terrell Hills, Olmos Park, St. Hedwig, China Grove, Castle Hills, Balcones Heights, Buena Vista, and Martinez.\nGenerated: 2026-09-12 03:40:17 UTC"
-  29.2300, -98.5000
-  29.5300, -98.6600
-  29.5600, -98.2900
-  29.5400, -98.2500
-  29.5500, -98.2600
-  29.5500, -98.2500
-  29.4400, -98.1400
-  29.2300, -98.5000
 End:
