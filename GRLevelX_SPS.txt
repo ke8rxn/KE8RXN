@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-13 00:35:15 UTC
+; Generated: 2026-09-13 00:40:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 7:31PM CDT by NWS Topeka KS\nExpires: 2026-09-13 01:00 Z\nAt 731 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles north of White City, moving southeast at 25 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to vegetation is possible.  Locations impacted include... White City, Dwight, and Parkerville.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 6:38PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-13 01:15 Z\nAt 637 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Sunnyside, or 15 miles east of Price, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sunnyside and East Carbon.  This includes US Route 6 between mile markers 259 and 260.\nGenerated: 2026-09-13 00:40:15 UTC"
+  39.4800, -110.5200
+  39.6900, -110.6400
+  39.8300, -110.3200
+  39.5300, -110.1100
+  39.4800, -110.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 12 at 7:31PM CDT by NWS Topeka KS\nExpires: 2026-09-13 01:00 Z\nAt 731 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles north of White City, moving southeast at 25 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to vegetation is possible.  Locations impacted include... White City, Dwight, and Parkerville.\nGenerated: 2026-09-13 00:40:15 UTC"
   38.9100, -96.9300
   39.0000, -96.8000
   38.9500, -96.5000
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 7:31PM CDT by NWS Top
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 7:27PM CDT by NWS Topeka KS\nExpires: 2026-09-13 01:15 Z\nAt 727 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Council Grove, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Emporia, Council Grove, Americus, Allen, Admire, Bushong, Dunlap, and Council Grove Lake.  This includes the following highways... Interstate 35 between mile markers 128 and 138. Kansas Turnpike between mile markers 117 and 147.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 7:27PM CDT by NWS Topeka KS\nExpires: 2026-09-13 01:15 Z\nAt 727 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Council Grove, moving southeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects and vegetation is possible.  Locations impacted include... Emporia, Council Grove, Americus, Allen, Admire, Bushong, Dunlap, and Council Grove Lake.  This includes the following highways... Interstate 35 between mile markers 128 and 138. Kansas Turnpike between mile markers 117 and 147.\nGenerated: 2026-09-13 00:40:15 UTC"
   38.5200, -96.3500
   38.5200, -96.5100
   38.6700, -96.6000
@@ -31,7 +40,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 7:27PM CDT by NWS Top
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 6:24PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 01:00 Z\nAt 624 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 17 miles north of Omega to 10 miles north of Fence Lake, moving west at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fence Lake.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 6:24PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 01:00 Z\nAt 624 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 17 miles north of Omega to 10 miles north of Fence Lake, moving west at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Fence Lake.\nGenerated: 2026-09-13 00:40:15 UTC"
   34.8500, -108.6200
   34.7400, -108.5200
   34.5500, -108.0900
@@ -46,7 +55,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 6:24PM MDT by NWS Alb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 8:20PM EDT by NWS Blacksburg VA\nExpires: 2026-09-13 01:00 Z\nA thunderstorm with one hour rainfall rates of 2 to 4 inches will move slowly north across Martinsville and Axton through 9pm. This torrential rainfall will lead to some localized street flooding and flooding of poor drainage areas like ditches. Those traveling should be alert and slow down to avoid hydroplaning.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 8:20PM EDT by NWS Blacksburg VA\nExpires: 2026-09-13 01:00 Z\nA thunderstorm with one hour rainfall rates of 2 to 4 inches will move slowly north across Martinsville and Axton through 9pm. This torrential rainfall will lead to some localized street flooding and flooding of poor drainage areas like ditches. Those traveling should be alert and slow down to avoid hydroplaning.\nGenerated: 2026-09-13 00:40:15 UTC"
   36.5700, -79.9400
   36.8100, -79.8900
   36.7900, -79.8000
@@ -61,7 +70,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 8:20PM EDT by NWS Bla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 7:17PM CDT by NWS Amarillo TX\nExpires: 2026-09-13 00:45 Z\nAt 717 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Lipscomb, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lipscomb and Follett.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 7:17PM CDT by NWS Amarillo TX\nExpires: 2026-09-13 00:45 Z\nAt 717 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles northwest of Lipscomb, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lipscomb and Follett.\nGenerated: 2026-09-13 00:40:15 UTC"
   36.0600, -100.4800
   36.0600, -100.5800
   36.1900, -100.6500
@@ -74,7 +83,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 7:17PM CDT by NWS Ama
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 7:17PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 01:00 Z\nAt 717 PM CDT, Doppler radar was tracking an area of strong thunderstorms near Lisbon, or 9 miles west of El Dorado, moving southwest at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... El Dorado, Smackover, Norphlet, Junction City, Calion, Wesson, Lisbon, Mount Holly, Atlanta, Village, Spearsville, Lillie, Newell, Three Creeks, Cairo, Hew Hope, Catesville, Marysville and Summerfield.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 7:17PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 01:00 Z\nAt 717 PM CDT, Doppler radar was tracking an area of strong thunderstorms near Lisbon, or 9 miles west of El Dorado, moving southwest at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... El Dorado, Smackover, Norphlet, Junction City, Calion, Wesson, Lisbon, Mount Holly, Atlanta, Village, Spearsville, Lillie, Newell, Three Creeks, Cairo, Hew Hope, Catesville, Marysville and Summerfield.\nGenerated: 2026-09-13 00:40:15 UTC"
   33.0200, -93.1300
   33.3800, -93.1200
   33.3700, -92.8000
@@ -99,7 +108,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 7:17PM CDT by NWS Shr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 6:56PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 01:00 Z\nAt 656 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Buckner, or 6 miles northwest of Waldo, moving south at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Magnolia, Stamps, Waldo, Lewisville, McNeil, Fouke, Bradley, Taylor, Emerson, Buckner, Garland, Canfield, Bussey, Smithland, Welcome, Macedonia, Brightstar, Calhoun and Mount Vernon.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 6:56PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 01:00 Z\nAt 656 PM CDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Buckner, or 6 miles northwest of Waldo, moving south at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Magnolia, Stamps, Waldo, Lewisville, McNeil, Fouke, Bradley, Taylor, Emerson, Buckner, Garland, Canfield, Bussey, Smithland, Welcome, Macedonia, Brightstar, Calhoun and Mount Vernon.\nGenerated: 2026-09-13 00:40:15 UTC"
   33.5700, -93.8200
   33.4400, -93.5600
   33.4400, -93.2200
@@ -114,7 +123,7 @@ Line: 2,,"Special Weather Statement issued September 12 at 6:56PM CDT by NWS Shr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 12 at 6:46PM CDT by NWS Jackson MS\nExpires: 2026-09-13 00:45 Z\nAt 646 PM CDT, Doppler radar was tracking a strong thunderstorm near Berlin, or 13 miles south of Hamburg, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Jones around 650 PM CDT. Bonita around 655 PM CDT.\nGenerated: 2026-09-13 00:35:15 UTC"
+Line: 2,,"Special Weather Statement issued September 12 at 6:46PM CDT by NWS Jackson MS\nExpires: 2026-09-13 00:45 Z\nAt 646 PM CDT, Doppler radar was tracking a strong thunderstorm near Berlin, or 13 miles south of Hamburg, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Jones around 650 PM CDT. Bonita around 655 PM CDT.\nGenerated: 2026-09-13 00:40:15 UTC"
   33.0000, -91.9500
   33.1600, -91.7600
   33.0000, -91.4700
