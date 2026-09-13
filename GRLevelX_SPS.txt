@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-13 20:50:16 UTC
+; Generated: 2026-09-13 20:55:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:49PM EDT by NWS Cleveland OH\nExpires: 2026-09-13 21:30 Z\nAt 449 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wadsworth to near Lodi. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Akron, Medina, Cuyahoga Falls, Barberton, Green, Wadsworth, Tallmadge, Rittman, Mogadore, Doylestown, Lodi, Creston, West Salem, Chippewa Lake, New Franklin, Norton, Fairlawn, Lakemore, Seville, and Clinton.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 2:51PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 21:15 Z\nAt 251 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles west of Mills, or 15 miles northeast of Wagon Mound, moving east at 10 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mills.\nGenerated: 2026-09-13 20:55:16 UTC"
+  35.9700, -104.5200
+  36.2000, -104.6200
+  36.3300, -104.4100
+  36.1800, -104.2200
+  35.9800, -104.1700
+  35.9700, -104.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 4:51PM EDT by NWS Miami FL\nExpires: 2026-09-13 21:15 Z\nAt 451 PM EDT, National Weather Service meteorologists were tracking a strong thunderstorm capable of producing a funnel cloud near Loxahatchee NWR, or 9 miles south of Wellington, moving north at 20 mph.  HAZARD...Funnel clouds and wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Funnel clouds occasionally touch down and produce tornadoes or waterspouts. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Boca Raton, Wellington, Loxahatchee NWR, Hamptons At Boca Raton, Whisper Walk, Kings Point, Mission Bay, Aberdeen, Aberdeen Golf Course, Morikami Park, Florida Gardens, Villages Of Oriole, Boca Raton Equestrian, Boca West, and South County Regional Park.\nGenerated: 2026-09-13 20:55:16 UTC"
+  26.3800, -80.1500
+  26.3800, -80.3500
+  26.6600, -80.4000
+  26.6700, -80.1600
+  26.3800, -80.1500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 4:49PM EDT by NWS Cleveland OH\nExpires: 2026-09-13 21:30 Z\nAt 449 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Wadsworth to near Lodi. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Akron, Medina, Cuyahoga Falls, Barberton, Green, Wadsworth, Tallmadge, Rittman, Mogadore, Doylestown, Lodi, Creston, West Salem, Chippewa Lake, New Franklin, Norton, Fairlawn, Lakemore, Seville, and Clinton.\nGenerated: 2026-09-13 20:55:16 UTC"
   40.9900, -82.1300
   41.0000, -82.1500
   41.1000, -82.1700
@@ -21,7 +40,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:49PM EDT by NWS Cle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 2:49PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 21:15 Z\nAt 249 PM MDT, Doppler radar was tracking a strong thunderstorm near Nenahnezad, or 14 miles east of Shiprock, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kirtland, Fruitland and Nenahnezad.  This includes Highway 64 between Mile Markers 34 and 40.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 2:49PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 21:15 Z\nAt 249 PM MDT, Doppler radar was tracking a strong thunderstorm near Nenahnezad, or 14 miles east of Shiprock, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kirtland, Fruitland and Nenahnezad.  This includes Highway 64 between Mile Markers 34 and 40.\nGenerated: 2026-09-13 20:55:16 UTC"
   36.7100, -108.4100
   36.7900, -108.5900
   37.0000, -108.4300
@@ -31,7 +50,22 @@ Line: 2,,"Special Weather Statement issued September 13 at 2:49PM MDT by NWS Alb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 3:48PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 21:45 Z\nAt 348 PM CDT, Doppler radar was tracking an area of strong thunderstorms 7 miles southeast of Grayson, or 10 miles south of Columbia, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Monroe, Claiborne, West Monroe, Columbia, Brownsville-Bawcomville, Brownsville-Bawcom, Jena, Richwood, Olla, Clarks, Grayson, Midway, Urania, Chatham, Tullos, Eros, Sikes, Riverton and Vixen.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 2:49PM MDT by NWS Missoula MT\nExpires: 2026-09-13 21:45 Z\nAt 249 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 13 miles north of Plains extending from 20 miles east of Thompson Falls to 28 miles east of Superior, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Flathead Lake, Polson, Ronan, Kerr, Big Arm, Jette, Rocky Point, Kings Point, Pablo, Turtle Lake, Dixon, Old Agency, Hot Springs, Round Butte, Elmo, Dayton, Charlo, Moiese, Proctor, Lonepine and Niarada.\nGenerated: 2026-09-13 20:55:16 UTC"
+  47.7300, -114.7200
+  47.9500, -114.3400
+  47.8600, -114.0800
+  47.7500, -113.8300
+  47.6000, -113.9900
+  47.6000, -114.0200
+  47.5700, -114.0100
+  47.2500, -114.3500
+  47.4000, -114.6000
+  47.6000, -114.9500
+  47.7300, -114.7200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 3:48PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 21:45 Z\nAt 348 PM CDT, Doppler radar was tracking an area of strong thunderstorms 7 miles southeast of Grayson, or 10 miles south of Columbia, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Monroe, Claiborne, West Monroe, Columbia, Brownsville-Bawcomville, Brownsville-Bawcom, Jena, Richwood, Olla, Clarks, Grayson, Midway, Urania, Chatham, Tullos, Eros, Sikes, Riverton and Vixen.\nGenerated: 2026-09-13 20:55:16 UTC"
   32.1900, -92.5500
   32.3800, -92.5200
   32.5700, -92.2700
@@ -55,7 +89,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 3:48PM CDT by NWS Shr
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:48PM EDT by NWS Wilmington OH\nExpires: 2026-09-13 21:30 Z\nAt 448 PM EDT, a strong thunderstorm was located near West Jefferson, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Grove City, London, Jefferson, West Jefferson, Lake Darby, Urbancrest, Valleyview, Lafayette, Interstate 70 at US Route 42, Lilly Chapel, State Route 29 at State Route 38, Georgesville, Darbydale, Lincoln Village, Wrightsville, and New Rome.  This includes the following Interstates... I-70 in Ohio between mile markers 76 and 90, and between mile markers 96 and 102. I-71 in Ohio between mile markers 96 and 108.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:48PM EDT by NWS Wilmington OH\nExpires: 2026-09-13 21:30 Z\nAt 448 PM EDT, a strong thunderstorm was located near West Jefferson, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Grove City, London, Jefferson, West Jefferson, Lake Darby, Urbancrest, Valleyview, Lafayette, Interstate 70 at US Route 42, Lilly Chapel, State Route 29 at State Route 38, Georgesville, Darbydale, Lincoln Village, Wrightsville, and New Rome.  This includes the following Interstates... I-70 in Ohio between mile markers 76 and 90, and between mile markers 96 and 102. I-71 in Ohio between mile markers 96 and 108.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-13 20:55:16 UTC"
   39.9000, -83.4600
   40.0000, -83.4300
   39.9600, -82.9600
@@ -64,7 +98,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:48PM EDT by NWS Wil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 2:47PM MDT by NWS Cheyenne WY\nExpires: 2026-09-13 21:15 Z\nAt 247 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Chugwater, or 31 miles south of Wheatland, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Slater.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 2:47PM MDT by NWS Cheyenne WY\nExpires: 2026-09-13 21:15 Z\nAt 247 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles southeast of Chugwater, or 31 miles south of Wheatland, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Slater.\nGenerated: 2026-09-13 20:55:16 UTC"
   41.5600, -104.6900
   41.6200, -104.8200
   41.9000, -104.7500
@@ -73,7 +107,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 2:47PM MDT by NWS Che
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 3:46PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-13 21:30 Z\nAt 345 PM CDT, Doppler radar was tracking a strong thunderstorm near Valentine, or 29 miles northeast of Candelaria, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Valentine.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 3:46PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-13 21:30 Z\nAt 345 PM CDT, Doppler radar was tracking a strong thunderstorm near Valentine, or 29 miles northeast of Candelaria, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Valentine.\nGenerated: 2026-09-13 20:55:16 UTC"
   30.6000, -104.4700
   30.5200, -104.4000
   30.3500, -104.5800
@@ -82,7 +116,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 3:46PM CDT by NWS Mid
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:43PM EDT by NWS Melbourne FL\nExpires: 2026-09-13 21:30 Z\nAt 442 PM EDT, Doppler radar was tracking strong thunderstorms 8 miles northeast of Four Seasons Estates, or 10 miles northeast of Treasure Island. These thunderstorms were nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Treasure Island, Indiantown, Fort Drum, Four Seasons Estates, and Tradition.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:43PM EDT by NWS Melbourne FL\nExpires: 2026-09-13 21:30 Z\nAt 442 PM EDT, Doppler radar was tracking strong thunderstorms 8 miles northeast of Four Seasons Estates, or 10 miles northeast of Treasure Island. These thunderstorms were nearly stationary.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Treasure Island, Indiantown, Fort Drum, Four Seasons Estates, and Tradition.\nGenerated: 2026-09-13 20:55:16 UTC"
   27.1100, -80.6600
   27.1600, -80.7100
   27.2000, -80.7800
@@ -95,7 +129,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:43PM EDT by NWS Mel
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:42PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 21:30 Z\nAt 442 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Oceanway to near Craig Field. Movement was east at 5 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Unf, Jacksonville Beach, Atlantic Beach, Neptune Beach, Mayport, Talbot Island, Oceanway, Craig Field, San Pablo, and Little Talbot Island.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:42PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 21:30 Z\nAt 442 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Oceanway to near Craig Field. Movement was east at 5 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Unf, Jacksonville Beach, Atlantic Beach, Neptune Beach, Mayport, Talbot Island, Oceanway, Craig Field, San Pablo, and Little Talbot Island.\nGenerated: 2026-09-13 20:55:16 UTC"
   30.2600, -81.5700
   30.4800, -81.6400
   30.5200, -81.4100
@@ -105,7 +139,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:42PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:36PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 21:15 Z\nAt 436 PM EDT, Doppler radar was tracking a strong thunderstorm near Bunnell, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palm Coast, Bunnell, and Espanola.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:36PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 21:15 Z\nAt 436 PM EDT, Doppler radar was tracking a strong thunderstorm near Bunnell, moving northeast at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Palm Coast, Bunnell, and Espanola.\nGenerated: 2026-09-13 20:55:16 UTC"
   29.4600, -81.1600
   29.4300, -81.3500
   29.6000, -81.4200
@@ -114,7 +148,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:36PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:34PM EDT by NWS Cleveland OH\nExpires: 2026-09-13 21:00 Z\nAt 434 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Spring Creek to near Guys Mills. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Titusville, Riceville, Canadohta Lake, Guys Mills, Lincolnville, Saegertown, Hydetown, Blooming Valley, Townville, Spartansburg, Venango, and Woodcock.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:34PM EDT by NWS Cleveland OH\nExpires: 2026-09-13 21:00 Z\nAt 434 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Spring Creek to near Guys Mills. Movement was east at 40 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Titusville, Riceville, Canadohta Lake, Guys Mills, Lincolnville, Saegertown, Hydetown, Blooming Valley, Townville, Spartansburg, Venango, and Woodcock.\nGenerated: 2026-09-13 20:55:16 UTC"
   41.6200, -79.6200
   41.6200, -79.8200
   41.5700, -79.8800
@@ -125,7 +159,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:34PM EDT by NWS Cle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 3:33PM CDT by NWS Jackson MS\nExpires: 2026-09-13 21:30 Z\nAt 333 PM CDT, Doppler radar was tracking a strong thunderstorm over Sontag, or 9 miles northwest of Monticello, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Monticello, Wanilla, and Sontag around 340 PM CDT. East Lincoln around 355 PM CDT. Robinwood around 410 PM CDT.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 3:33PM CDT by NWS Jackson MS\nExpires: 2026-09-13 21:30 Z\nAt 333 PM CDT, Doppler radar was tracking a strong thunderstorm over Sontag, or 9 miles northwest of Monticello, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Monticello, Wanilla, and Sontag around 340 PM CDT. East Lincoln around 355 PM CDT. Robinwood around 410 PM CDT.\nGenerated: 2026-09-13 20:55:16 UTC"
   31.5200, -90.4300
   31.9300, -90.2500
   31.9000, -90.0100
@@ -134,7 +168,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 3:33PM CDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 2:32PM MDT by NWS Cheyenne WY\nExpires: 2026-09-13 21:00 Z\nAt 231 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles north of Horse Creek, or 31 miles south of Wheatland, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chugwater.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 2:32PM MDT by NWS Cheyenne WY\nExpires: 2026-09-13 21:00 Z\nAt 231 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles north of Horse Creek, or 31 miles south of Wheatland, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Chugwater.\nGenerated: 2026-09-13 20:55:16 UTC"
   41.5500, -105.1500
   41.6300, -105.2100
   41.8300, -104.8900
@@ -143,7 +177,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 2:32PM MDT by NWS Che
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:22PM EDT by NWS Wilmington OH\nExpires: 2026-09-13 21:00 Z\nAt 422 PM EDT, a strong thunderstorm was located near Springfield, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Springfield, London, Northridge, West Jefferson, South Charleston, Choctaw Lake, Harmony, Lisbon, Brighton, Lafayette, South Vienna, Newport, Buck Creek State Park, Interstate 70 at US Route 42, Interstate 70 at State Route 56, New Moorefield, and Plattsburg.  This includes I-70 in Ohio between mile markers 55 and 81.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-13 20:50:16 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:22PM EDT by NWS Wilmington OH\nExpires: 2026-09-13 21:00 Z\nAt 422 PM EDT, a strong thunderstorm was located near Springfield, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Springfield, London, Northridge, West Jefferson, South Charleston, Choctaw Lake, Harmony, Lisbon, Brighton, Lafayette, South Vienna, Newport, Buck Creek State Park, Interstate 70 at US Route 42, Interstate 70 at State Route 56, New Moorefield, and Plattsburg.  This includes I-70 in Ohio between mile markers 55 and 81.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-13 20:55:16 UTC"
   39.9100, -83.8400
   40.0000, -83.7600
   39.9600, -83.3300
