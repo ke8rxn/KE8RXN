@@ -3,9 +3,65 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-13 21:45:13 UTC
+; Generated: 2026-09-13 21:50:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 3:43PM MDT by NWS Cheyenne WY\nExpires: 2026-09-13 22:30 Z\nAt 343 PM MDT, Doppler radar was tracking a strong thunderstorm over Hawk Springs State Recreation Area, or 23 miles south of Torrington, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morrill, La Grange, Lyman, Henry, Huntley, Hawk Springs Reservoir, Stegall, Hawk Springs State Recreation Area, Hawk Springs, Wycross, Hubbard Hill, and Hawk Springs Campground.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:48PM CDT by NWS Mobile AL\nExpires: 2026-09-13 22:30 Z\nAt 448 PM CDT, Doppler radar was tracking a strong thunderstorm 9 miles southwest of Putnam, or 14 miles southeast of Butler, moving south at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Coffeeville.\nGenerated: 2026-09-13 21:50:15 UTC"
+  31.6600, -87.8100
+  31.5900, -88.2400
+  31.9900, -88.2300
+  31.9900, -87.9000
+  31.6600, -87.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 3:48PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 22:15 Z\nAt 348 PM MDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Variadero, or 27 miles north of Santa Rosa, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Variadero.  This includes State Road 104 between Mile Markers 48 and 66.\nGenerated: 2026-09-13 21:50:15 UTC"
+  35.2200, -104.6700
+  35.3300, -104.7200
+  35.4900, -104.3900
+  35.2600, -104.2600
+  35.2200, -104.5500
+  35.2200, -104.6700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 3:45PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 22:15 Z\nAt 345 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 6 miles north of Mills to 9 miles southwest of Roy, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Roy, Chicosa Lake State Park, Mills and Solano.\nGenerated: 2026-09-13 21:50:15 UTC"
+  35.8300, -104.5100
+  36.0200, -104.3300
+  36.2300, -104.3700
+  36.2500, -104.0100
+  36.1700, -104.0100
+  36.1700, -103.9400
+  35.9500, -103.9300
+  35.7200, -104.0800
+  35.8300, -104.5100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 4:45PM CDT by NWS Shreveport LA\nExpires: 2026-09-13 23:00 Z\nAt 445 PM CDT, Doppler radar was tracking an area of strong thunderstorms 15 miles northwest of Clarks, or 14 miles northwest of Columbia, moving southwest at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ruston, Grambling, Jonesboro, Columbia, Jena, Arcadia, Olla, Clarks, Grayson, Midway, Urania, Choudrant, Simsboro, Chatham, Hodge, North Hodge, Vienna and Tullos.\nGenerated: 2026-09-13 21:50:15 UTC"
+  32.6600, -92.8500
+  32.6900, -92.6500
+  32.5900, -92.4200
+  32.4000, -92.3000
+  32.2100, -92.1300
+  32.1100, -91.8800
+  32.1000, -91.8700
+  32.0700, -91.9300
+  32.0400, -91.9000
+  31.9700, -91.8900
+  31.9300, -91.9000
+  31.9200, -92.0100
+  31.6200, -92.0100
+  31.6300, -92.1600
+  31.8900, -92.5900
+  32.1200, -92.8200
+  32.3300, -92.9500
+  32.4500, -93.0100
+  32.5700, -92.9900
+  32.6600, -92.8500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 3:43PM MDT by NWS Cheyenne WY\nExpires: 2026-09-13 22:30 Z\nAt 343 PM MDT, Doppler radar was tracking a strong thunderstorm over Hawk Springs State Recreation Area, or 23 miles south of Torrington, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morrill, La Grange, Lyman, Henry, Huntley, Hawk Springs Reservoir, Stegall, Hawk Springs State Recreation Area, Hawk Springs, Wycross, Hubbard Hill, and Hawk Springs Campground.\nGenerated: 2026-09-13 21:50:15 UTC"
   41.6700, -104.4300
   41.8000, -104.3700
   42.0500, -103.9500
@@ -16,7 +72,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 3:43PM MDT by NWS Che
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:42PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-13 22:15 Z\nAt 442 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Candelaria, moving west at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Candelaria.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:42PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-13 22:15 Z\nAt 442 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Candelaria, moving west at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Candelaria.\nGenerated: 2026-09-13 21:50:15 UTC"
   30.3300, -104.5500
   30.1600, -104.4900
   30.1000, -104.6900
@@ -34,7 +90,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:42PM CDT by NWS Mid
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 2:37PM PDT by NWS Spokane WA\nExpires: 2026-09-13 22:00 Z\nAt 236 PM PDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Clarkston Heights-Vineland, or 11 miles southwest of Clarkston, moving northeast at 20 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Lewiston, Clarkston, Clarkston Heights-Vineland, West Clarkston-Highland, Asotin, Clarkston Heights, Cloverland, and Jerry.  This includes U.S. Highway 12 in Washington between mile markers 430 and 432.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 2:37PM PDT by NWS Spokane WA\nExpires: 2026-09-13 22:00 Z\nAt 236 PM PDT, Doppler radar was tracking a strong thunderstorm 8 miles southwest of Clarkston Heights-Vineland, or 11 miles southwest of Clarkston, moving northeast at 20 mph.  HAZARD...Winds in excess of 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Lewiston, Clarkston, Clarkston Heights-Vineland, West Clarkston-Highland, Asotin, Clarkston Heights, Cloverland, and Jerry.  This includes U.S. Highway 12 in Washington between mile markers 430 and 432.\nGenerated: 2026-09-13 21:50:15 UTC"
   46.2000, -117.2300
   46.2700, -117.3200
   46.4500, -117.1100
@@ -43,7 +99,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 2:37PM PDT by NWS Spo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:35PM CDT by NWS Mobile AL\nExpires: 2026-09-13 22:15 Z\nAt 435 PM CDT, Doppler radar was tracking a strong thunderstorm near Evergreen, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Evergreen, Castleberry, and I65 And US 84.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:35PM CDT by NWS Mobile AL\nExpires: 2026-09-13 22:15 Z\nAt 435 PM CDT, Doppler radar was tracking a strong thunderstorm near Evergreen, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Evergreen, Castleberry, and I65 And US 84.\nGenerated: 2026-09-13 21:50:15 UTC"
   31.5400, -87.0800
   31.5500, -86.8700
   31.2100, -86.8000
@@ -52,7 +108,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 4:35PM CDT by NWS Mob
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 3:34PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 22:00 Z\nAt 334 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from near Capulin to 5 miles north of Farley, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Des Moines, Folsom and Capulin.  This includes Highway 64 between Mile Markers 372 and 400.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 3:34PM MDT by NWS Albuquerque NM\nExpires: 2026-09-13 22:00 Z\nAt 334 PM MDT, Doppler radar was tracking a line of strong thunderstorms extending from near Capulin to 5 miles north of Farley, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Des Moines, Folsom and Capulin.  This includes Highway 64 between Mile Markers 372 and 400.\nGenerated: 2026-09-13 21:50:15 UTC"
   36.3600, -104.2100
   36.6300, -104.0500
   36.8000, -104.0800
@@ -63,7 +119,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 3:34PM MDT by NWS Alb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 3:32PM MDT by NWS Pueblo CO\nExpires: 2026-09-13 22:00 Z\nAt 332 PM MDT, Doppler radar was tracking a strong thunderstorm near Thatcher, or 38 miles northeast of Trinidad, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southern Otero and central Las Animas Counties.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 3:32PM MDT by NWS Pueblo CO\nExpires: 2026-09-13 22:00 Z\nAt 332 PM MDT, Doppler radar was tracking a strong thunderstorm near Thatcher, or 38 miles northeast of Trinidad, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southern Otero and central Las Animas Counties.\nGenerated: 2026-09-13 21:50:15 UTC"
   37.3500, -103.9100
   37.5200, -104.0400
   37.7000, -103.9500
@@ -72,7 +128,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 3:32PM MDT by NWS Pue
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 5:27PM EDT by NWS Cleveland OH\nExpires: 2026-09-13 22:15 Z\nAt 527 PM EDT, Doppler radar was tracking a strong thunderstorm over Green, or 8 miles southeast of Akron, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Akron, Canton, Green, Alliance, North Canton, Louisville, Sebring, Hartville, Lakemore, Beloit, Limaville, Greentown, Maple Ridge, Maximo, and Uniontown.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 5:27PM EDT by NWS Cleveland OH\nExpires: 2026-09-13 22:15 Z\nAt 527 PM EDT, Doppler radar was tracking a strong thunderstorm over Green, or 8 miles southeast of Akron, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Akron, Canton, Green, Alliance, North Canton, Louisville, Sebring, Hartville, Lakemore, Beloit, Limaville, Greentown, Maple Ridge, Maximo, and Uniontown.\nGenerated: 2026-09-13 21:50:15 UTC"
   40.9000, -81.5400
   41.0400, -81.4800
   41.0000, -81.0000
@@ -83,7 +139,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 5:27PM EDT by NWS Cle
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 5:22PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 22:00 Z\nAt 521 PM EDT, Doppler radar was tracking a strong thunderstorm near Flagler Beach, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Flagler Beach and Bunnell.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 5:22PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 22:00 Z\nAt 521 PM EDT, Doppler radar was tracking a strong thunderstorm near Flagler Beach, moving east at 10 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Flagler Beach and Bunnell.\nGenerated: 2026-09-13 21:50:15 UTC"
   29.5000, -81.1100
   29.4600, -81.1100
   29.4600, -81.1200
@@ -97,7 +153,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 5:22PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 5:17PM EDT by NWS Burlington VT\nExpires: 2026-09-13 22:00 Z\nAt 517 PM EDT, Doppler radar was tracking a strong thunderstorm near Brasher, or near Massena International Airport - Richards Field, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Brushton, Massena International Airport - Richards Field, Malone Village, Bombay, Moira, Fort Covington, Bangor, Brasher, Westville, Massena, Constable, Malone, South Bombay, Akwesasne Mohawk Territory, Hogansburg, Fort Covington Center and Ironton.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 5:17PM EDT by NWS Burlington VT\nExpires: 2026-09-13 22:00 Z\nAt 517 PM EDT, Doppler radar was tracking a strong thunderstorm near Brasher, or near Massena International Airport - Richards Field, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Brushton, Massena International Airport - Richards Field, Malone Village, Bombay, Moira, Fort Covington, Bangor, Brasher, Westville, Massena, Constable, Malone, South Bombay, Akwesasne Mohawk Territory, Hogansburg, Fort Covington Center and Ironton.\nGenerated: 2026-09-13 21:50:15 UTC"
   44.9900, -74.8700
   45.0100, -74.7700
   45.0100, -74.7600
@@ -119,7 +175,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 5:17PM EDT by NWS Bur
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 5:12PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 22:00 Z\nAt 512 PM EDT, Doppler radar was tracking a strong thunderstorm near Hastings, moving southeast at 5 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine Shores, Butler Beach, Crescent Beach, Spuds, Dupont Center, and Elkton.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 5:12PM EDT by NWS Jacksonville FL\nExpires: 2026-09-13 22:00 Z\nAt 512 PM EDT, Doppler radar was tracking a strong thunderstorm near Hastings, moving southeast at 5 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Saint Augustine Shores, Butler Beach, Crescent Beach, Spuds, Dupont Center, and Elkton.\nGenerated: 2026-09-13 21:50:15 UTC"
   29.6600, -81.3000
   29.6200, -81.3800
   29.6300, -81.3900
@@ -130,7 +186,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 5:12PM EDT by NWS Jac
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 5:09PM EDT by NWS Wilmington OH\nExpires: 2026-09-13 22:00 Z\nAt 509 PM EDT, a strong thunderstorm was located near Bexley, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Lancaster, Reynoldsburg, Grove City, Pickerington, Bexley, Canal Winchester, Groveport, Baltimore, Bremen, Millersport, Pleasantville, Obetz, Lithopolis, Thurston, Carroll, Rushville, West Rushville, Brice, and Fairfield County Airport.  This includes the following Interstates... I-70 in Ohio between mile markers 100 and 112. I-71 in Ohio near mile marker 108.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 5:09PM EDT by NWS Wilmington OH\nExpires: 2026-09-13 22:00 Z\nAt 509 PM EDT, a strong thunderstorm was located near Bexley, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Columbus, Lancaster, Reynoldsburg, Grove City, Pickerington, Bexley, Canal Winchester, Groveport, Baltimore, Bremen, Millersport, Pleasantville, Obetz, Lithopolis, Thurston, Carroll, Rushville, West Rushville, Brice, and Fairfield County Airport.  This includes the following Interstates... I-70 in Ohio between mile markers 100 and 112. I-71 in Ohio near mile marker 108.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-13 21:50:15 UTC"
   39.6700, -82.3700
   39.7900, -82.8300
   39.8000, -82.8300
@@ -146,7 +202,7 @@ Line: 2,,"Special Weather Statement issued September 13 at 5:09PM EDT by NWS Wil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 4:08PM CDT by NWS Jackson MS\nExpires: 2026-09-13 22:15 Z\nAt 407 PM CDT, Doppler radar was tracking a strong thunderstorm near Prentiss, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Prentiss and Carson around 415 PM CDT. Bassfield and Progress around 420 PM CDT. Oak Vale around 505 PM CDT.\nGenerated: 2026-09-13 21:45:13 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 4:08PM CDT by NWS Jackson MS\nExpires: 2026-09-13 22:15 Z\nAt 407 PM CDT, Doppler radar was tracking a strong thunderstorm near Prentiss, moving south at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Prentiss and Carson around 415 PM CDT. Bassfield and Progress around 420 PM CDT. Oak Vale around 505 PM CDT.\nGenerated: 2026-09-13 21:50:15 UTC"
   31.7600, -90.0200
   31.7700, -89.6000
   31.3900, -89.5100
