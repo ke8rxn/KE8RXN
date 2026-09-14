@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-14 02:55:14 UTC
+; Generated: 2026-09-14 03:00:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 9:43PM CDT by NWS Amarillo TX\nExpires: 2026-09-14 03:15 Z\nAt 943 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Four Way, or 14 miles southwest of Dumas, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dumas, Stratford, Hartley, Cactus, Sunray, Channing, Four Way, Valley De Oro, Conlen, Boys Ranch, and Masterson.\nGenerated: 2026-09-14 02:55:14 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 8:57PM MDT by NWS Great Falls MT\nExpires: 2026-09-14 03:30 Z\nAt 857 PM MDT, Doppler radar was tracking a strong thunderstorm near Geraldine, or 27 miles north of Stanford, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Geraldine and Square Butte.\nGenerated: 2026-09-14 03:00:21 UTC"
+  47.4700, -110.2100
+  47.6000, -110.3500
+  47.8900, -109.9200
+  47.6000, -109.6400
+  47.4700, -110.2100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 13 at 9:43PM CDT by NWS Amarillo TX\nExpires: 2026-09-14 03:15 Z\nAt 943 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles west of Four Way, or 14 miles southwest of Dumas, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Dumas, Stratford, Hartley, Cactus, Sunray, Channing, Four Way, Valley De Oro, Conlen, Boys Ranch, and Masterson.\nGenerated: 2026-09-14 03:00:21 UTC"
   35.3500, -101.9700
   35.4300, -102.2800
   35.6800, -102.5600
@@ -16,44 +25,10 @@ Line: 2,,"Special Weather Statement issued September 13 at 9:43PM CDT by NWS Ama
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 8:35PM MDT by NWS Great Falls MT\nExpires: 2026-09-14 03:15 Z\nAt 835 PM MDT, Doppler radar was tracking a strong thunderstorm 30 miles northwest of White Sulphur Springs, moving northeast at 40 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Monarch.\nGenerated: 2026-09-14 02:55:14 UTC"
+Line: 2,,"Special Weather Statement issued September 13 at 8:35PM MDT by NWS Great Falls MT\nExpires: 2026-09-14 03:15 Z\nAt 835 PM MDT, Doppler radar was tracking a strong thunderstorm 30 miles northwest of White Sulphur Springs, moving northeast at 40 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Monarch.\nGenerated: 2026-09-14 03:00:21 UTC"
   46.8100, -111.2300
   46.9100, -111.4100
   47.2400, -111.0800
   47.0400, -110.6900
   46.8100, -111.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 8:23PM MDT by NWS Great Falls MT\nExpires: 2026-09-14 03:00 Z\nAt 822 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles southwest of Belt, or 25 miles southeast of Great Falls, moving northeast at 35 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Belt, Sluice Boxes State Park, and Armington.\nGenerated: 2026-09-14 02:55:14 UTC"
-  47.0700, -111.0100
-  47.1400, -111.2000
-  47.5000, -111.0300
-  47.4100, -110.8000
-  47.2600, -110.8000
-  47.1800, -110.7800
-  47.0700, -111.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 8:21PM MDT by NWS Denver CO\nExpires: 2026-09-14 03:00 Z\nAt 821 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles southeast of Tarryall Reservoir, or 50 miles southwest of Denver, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Wellington Lake, Tarryall Reservoir, Bailey, Cheesman Reservoir, Deckers, Tarryall and Glenisle.\nGenerated: 2026-09-14 02:55:14 UTC"
-  39.2500, -105.6500
-  39.4500, -105.5000
-  39.2600, -105.1800
-  39.0400, -105.5500
-  39.1600, -105.7100
-  39.2500, -105.6500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 13 at 8:13PM MDT by NWS Great Falls MT\nExpires: 2026-09-14 03:00 Z\nAt 812 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles northwest of Geyser, or 24 miles northwest of Stanford, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Geraldine, Geyser, Shonkin, Raynesford, and Square Butte.\nGenerated: 2026-09-14 02:55:14 UTC"
-  47.4200, -110.1400
-  47.4200, -110.2100
-  47.3700, -110.2200
-  47.3600, -110.1600
-  47.1800, -110.6300
-  47.3400, -110.8800
-  47.8200, -110.3800
-  47.5000, -109.9500
-  47.4200, -110.1400
 End:
