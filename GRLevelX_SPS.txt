@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-15 02:25:14 UTC
+; Generated: 2026-09-15 02:30:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 14 at 9:13PM CDT by NWS Dodge City KS\nExpires: 2026-09-15 03:00 Z\nAt 913 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from Ryus to near Cave to 7 miles south of Hugoton. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Satanta around 920 PM CDT. Woods around 930 PM CDT.  Other locations in the path of these storms include Sublette.\nGenerated: 2026-09-15 02:25:14 UTC"
+Line: 2,,"Special Weather Statement issued September 14 at 8:25PM MDT by NWS Grand Junction CO\nExpires: 2026-09-15 03:00 Z\nAt 824 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southwest of Olathe to 8 miles west of Montrose. Movement was east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Montrose.  This includes the following highways... U.S. Highway 550 in Colorado between mile markers 118 and 130. U.S. Highway 50 in Colorado between mile markers 85 and 99. Colorado 90 between mile markers 82 and 89.\nGenerated: 2026-09-15 02:30:18 UTC"
+  38.6300, -107.8400
+  38.4400, -107.7300
+  38.3000, -107.8000
+  38.4000, -108.1000
+  38.4500, -108.1000
+  38.5300, -108.1200
+  38.6300, -107.8400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 14 at 9:13PM CDT by NWS Dodge City KS\nExpires: 2026-09-15 03:00 Z\nAt 913 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from Ryus to near Cave to 7 miles south of Hugoton. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Satanta around 920 PM CDT. Woods around 930 PM CDT.  Other locations in the path of these storms include Sublette.\nGenerated: 2026-09-15 02:30:18 UTC"
   36.9900, -101.5500
   37.1200, -101.5600
   37.5000, -101.4900
@@ -13,22 +24,4 @@ Line: 2,,"Special Weather Statement issued September 14 at 9:13PM CDT by NWS Dod
   37.5100, -100.7400
   37.0000, -100.7300
   36.9900, -101.5500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 14 at 7:07PM MST by NWS Phoenix AZ\nExpires: 2026-09-15 02:30 Z\nAt 706 PM MST, Doppler radar was tracking a strong thunderstorm near Florence Junction, or 10 miles south of Gold Canyon, moving northeast at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Florence Junction and Queen Valley.  This includes the following highways... US Highway 60 between mile markers 207 and 222. AZ Route 79 between mile markers 142 and 150.\nGenerated: 2026-09-15 02:25:14 UTC"
-  33.1100, -111.3900
-  33.2100, -111.5000
-  33.3800, -111.3500
-  33.2700, -111.1600
-  33.1100, -111.3900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 14 at 7:57PM MDT by NWS Grand Junction CO\nExpires: 2026-09-15 02:30 Z\nAt 756 PM MDT, Doppler radar was tracking a strong thunderstorm 18 miles southwest of Olathe, or 22 miles west of Montrose, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of central Montrose County.\nGenerated: 2026-09-15 02:25:14 UTC"
-  38.4200, -108.3300
-  38.5400, -108.3000
-  38.5500, -107.9700
-  38.2900, -108.0400
-  38.4200, -108.3300
 End:
