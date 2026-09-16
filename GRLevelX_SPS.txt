@@ -3,9 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-16 00:45:14 UTC
+; Generated: 2026-09-16 00:50:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 8:42PM EDT by NWS Grand Rapids MI\nExpires: 2026-09-16 01:45 Z\nAt 841 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Climax, or 13 miles south of Battle Creek, moving east at 45 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jackson...             Albion...              Marshall... Homer...               Union City...          Burlington... Vandercook Lake...     Spring Arbor...        Sandstone... Fulton...              Marengo...             Pulaski... Concord...             Athens...              Horton... Springport...          Parma...               Tekonsha... Hanover...             Liberty...\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 8:49PM EDT by NWS Northern Indiana\nExpires: 2026-09-16 01:30 Z\nAt 849 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Union City to near Centreville. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Coldwater, Union City, Colon, Girard, Leonidas, Mendon, Sherwood, South Butler, Wasepi, Hodunk, and Fairfax.  This includes Interstate 69 in Michigan between mile markers 13 and 21.\nGenerated: 2026-09-16 00:50:16 UTC"
+  41.9300, -84.9500
+  41.9400, -85.5500
+  42.0700, -85.3600
+  42.0700, -84.8300
+  41.9300, -84.9500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 15 at 8:45PM EDT by NWS Northern Indiana\nExpires: 2026-09-16 01:30 Z\nAt 845 PM EDT, Doppler radar was tracking a strong thunderstorm near Winona Lake, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warsaw, Winona Lake, Pierceton, Claypool, Ridinger Lake, Palestine, and Wooster.\nGenerated: 2026-09-16 00:50:16 UTC"
+  41.1300, -85.9300
+  41.1900, -85.9600
+  41.2900, -85.6600
+  41.1800, -85.6500
+  41.1800, -85.6900
+  41.1600, -85.6900
+  41.1300, -85.9300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 15 at 7:44PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 01:30 Z\nAt 744 PM CDT/644 PM MDT/, Doppler radar was tracking a strong thunderstorm 12 miles northwest of Wink, moving north at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bennett and Winkler County Airport.\nGenerated: 2026-09-16 00:50:16 UTC"
+  31.7600, -103.2100
+  31.7500, -103.4300
+  32.0400, -103.5000
+  32.1300, -103.3200
+  32.0400, -103.1700
+  31.7600, -103.2100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 15 at 8:42PM EDT by NWS Grand Rapids MI\nExpires: 2026-09-16 01:45 Z\nAt 841 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles south of Climax, or 13 miles south of Battle Creek, moving east at 45 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jackson...             Albion...              Marshall... Homer...               Union City...          Burlington... Vandercook Lake...     Spring Arbor...        Sandstone... Fulton...              Marengo...             Pulaski... Concord...             Athens...              Horton... Springport...          Parma...               Tekonsha... Hanover...             Liberty...\nGenerated: 2026-09-16 00:50:16 UTC"
   42.0700, -85.4000
   42.1600, -85.4500
   42.4200, -84.6100
@@ -15,7 +45,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 8:42PM EDT by NWS Gra
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 5:39PM MST by NWS Phoenix AZ\nExpires: 2026-09-16 01:15 Z\nAt 538 PM MST, Doppler radar was tracking a strong thunderstorm over Perryville, or near Buckeye, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Glendale, Goodyear, Buckeye, Perryville, White Tank Mountain Park, Luke AFB, and Liberty.  This includes the following highways... AZ Interstate 10 between mile markers 112 and 125. AZ Route 85 between mile markers 153 and 154. AZ Route 303 between mile markers 105 and 112.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 5:39PM MST by NWS Phoenix AZ\nExpires: 2026-09-16 01:15 Z\nAt 538 PM MST, Doppler radar was tracking a strong thunderstorm over Perryville, or near Buckeye, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Glendale, Goodyear, Buckeye, Perryville, White Tank Mountain Park, Luke AFB, and Liberty.  This includes the following highways... AZ Interstate 10 between mile markers 112 and 125. AZ Route 85 between mile markers 153 and 154. AZ Route 303 between mile markers 105 and 112.\nGenerated: 2026-09-16 00:50:16 UTC"
   33.3500, -112.4800
   33.4000, -112.6500
   33.6400, -112.5900
@@ -24,7 +54,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 5:39PM MST by NWS Pho
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 8:38PM EDT by NWS Northern Indiana\nExpires: 2026-09-16 01:15 Z\nAt 838 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Winona Lake to 8 miles southeast of Mentone to near Akron. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... North Manchester, Akron, Pierceton, Silver Lake, Claypool, Sidney, Beaver Dam Lake, Packerton, Beaver Dam, and Disko.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 8:38PM EDT by NWS Northern Indiana\nExpires: 2026-09-16 01:15 Z\nAt 838 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southwest of Winona Lake to 8 miles southeast of Mentone to near Akron. Movement was east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... North Manchester, Akron, Pierceton, Silver Lake, Claypool, Sidney, Beaver Dam Lake, Packerton, Beaver Dam, and Disko.\nGenerated: 2026-09-16 00:50:16 UTC"
   40.9900, -85.9500
   41.0000, -85.9500
   41.0000, -86.0700
@@ -41,7 +71,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 8:38PM EDT by NWS Nor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 7:33PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 01:00 Z\nAt 733 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of Lamesa, moving north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Andrews, southeastern Gaines, northwestern Martin and southwestern Dawson Counties.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 7:33PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 01:00 Z\nAt 733 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles southwest of Lamesa, moving north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Andrews, southeastern Gaines, northwestern Martin and southwestern Dawson Counties.\nGenerated: 2026-09-16 00:50:16 UTC"
   32.7900, -101.9900
   32.5200, -102.0700
   32.5200, -102.2600
@@ -51,7 +81,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 7:33PM CDT by NWS Mid
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 6:32PM MDT by NWS Grand Junction CO\nExpires: 2026-09-16 01:00 Z\nAt 632 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Fruita, or 18 miles northwest of Grand Junction, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Mesa County.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 6:32PM MDT by NWS Grand Junction CO\nExpires: 2026-09-16 01:00 Z\nAt 632 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Fruita, or 18 miles northwest of Grand Junction, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Mesa County.\nGenerated: 2026-09-16 00:50:16 UTC"
   39.2700, -108.7200
   39.3700, -108.7700
   39.4700, -108.5200
@@ -60,7 +90,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 6:32PM MDT by NWS Gra
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 7:27PM CDT by NWS Norman OK\nExpires: 2026-09-16 01:00 Z\nAt 726 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles northwest of Freedom to 8 miles northwest of Alva. Movement was northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Freedom and Camp Houston.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 7:27PM CDT by NWS Norman OK\nExpires: 2026-09-16 01:00 Z\nAt 726 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles northwest of Freedom to 8 miles northwest of Alva. Movement was northeast at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Freedom and Camp Houston.\nGenerated: 2026-09-16 00:50:16 UTC"
   37.0000, -98.5800
   36.7600, -98.8000
   36.7700, -99.1300
@@ -72,7 +102,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 7:27PM CDT by NWS Nor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 7:26PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 01:00 Z\nAt 726 PM CDT, Doppler radar was tracking a strong thunderstorm 24 miles southeast of Saragosa, or 30 miles west of Fort Stockton, moving north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Pecos County.  This includes Interstate 10 between mile markers 228 and 231.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 7:26PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 01:00 Z\nAt 726 PM CDT, Doppler radar was tracking a strong thunderstorm 24 miles southeast of Saragosa, or 30 miles west of Fort Stockton, moving north at 10 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of west central Pecos County.  This includes Interstate 10 between mile markers 228 and 231.\nGenerated: 2026-09-16 00:50:16 UTC"
   30.7600, -103.1800
   30.6200, -103.3600
   30.7800, -103.5700
@@ -81,7 +111,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 7:26PM CDT by NWS Mid
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 7:25PM CDT by NWS Dodge City KS\nExpires: 2026-09-16 01:00 Z\nAt 724 PM CDT, Doppler radar was tracking a strong thunderstorm very near Kiowa, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Hazelton around 730 PM CDT.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 7:25PM CDT by NWS Dodge City KS\nExpires: 2026-09-16 01:00 Z\nAt 724 PM CDT, Doppler radar was tracking a strong thunderstorm very near Kiowa, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Hazelton around 730 PM CDT.\nGenerated: 2026-09-16 00:50:16 UTC"
   37.0000, -98.7300
   37.2200, -98.6300
   37.1700, -98.3500
@@ -90,7 +120,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 7:25PM CDT by NWS Dod
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 7:11PM CDT by NWS Dodge City KS\nExpires: 2026-09-16 01:00 Z\nAt 710 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Aetna, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Aetna around 730 PM CDT.\nGenerated: 2026-09-16 00:45:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 7:11PM CDT by NWS Dodge City KS\nExpires: 2026-09-16 01:00 Z\nAt 710 PM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of Aetna, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Aetna around 730 PM CDT.\nGenerated: 2026-09-16 00:50:16 UTC"
   37.2800, -99.0600
   37.2700, -98.6100
   37.0000, -98.7300
