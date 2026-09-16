@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-16 02:15:14 UTC
+; Generated: 2026-09-16 02:20:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 6:55PM MST by NWS Phoenix AZ\nExpires: 2026-09-16 02:30 Z\nAt 655 PM MST, Doppler radar was tracking a strong thunderstorm near Tonopah, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tonopah, Palo Verde Nuclear Generation Station, and Wintersburg.  This includes AZ Interstate 10 between mile markers 88 and 101.\nGenerated: 2026-09-16 02:15:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 10:17PM EDT by NWS Northern Indiana\nExpires: 2026-09-16 02:45 Z\nAt 1016 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 9 miles east of Lagrange to near Ligonier. Movement was east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Kendallville, Angola, Ligonier, Albion, Fremont, Rome City, Topeka, Wolcottville, Ashley, Hudson, Cromwell, Clear Lake, York, Brimfield, Flint, Lake Gauge, Nevada Mills, Brushy Prairie, Pleasant Lake, and Golden Lake.  This includes the following highways... Interstate 69 in Indiana between mile markers 341 and 355. Interstate 80 in Indiana between mile markers 146 and 153.\nGenerated: 2026-09-16 02:20:15 UTC"
+  41.6800, -84.8100
+  41.3800, -85.3300
+  41.4100, -85.6500
+  41.4700, -85.6600
+  41.7200, -85.2500
+  41.7400, -84.8100
+  41.6800, -84.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 15 at 6:55PM MST by NWS Phoenix AZ\nExpires: 2026-09-16 02:30 Z\nAt 655 PM MST, Doppler radar was tracking a strong thunderstorm near Tonopah, moving north at 15 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Tonopah, Palo Verde Nuclear Generation Station, and Wintersburg.  This includes AZ Interstate 10 between mile markers 88 and 101.\nGenerated: 2026-09-16 02:20:15 UTC"
   33.3500, -112.8900
   33.4000, -113.0600
   33.6000, -113.0400
@@ -14,7 +25,7 @@ Line: 2,,"Special Weather Statement issued September 15 at 6:55PM MST by NWS Pho
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 7:46PM MDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 02:45 Z\nAt 746 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms spanning over much of Lea County, moving north at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hobbs, Lovington, Eunice, Jal, Tatum, Monument, Humble City, Eunice Airport, McDonald, Jal Airport, Nadine, Gladiola, Tatum Airport, Knowles, Bennett, Lea County Regional Airport, Industrial Airpark, and Oil Center.\nGenerated: 2026-09-16 02:15:14 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 7:46PM MDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 02:45 Z\nAt 746 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms spanning over much of Lea County, moving north at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Hobbs, Lovington, Eunice, Jal, Tatum, Monument, Humble City, Eunice Airport, McDonald, Jal Airport, Nadine, Gladiola, Tatum Airport, Knowles, Bennett, Lea County Regional Airport, Industrial Airpark, and Oil Center.\nGenerated: 2026-09-16 02:20:15 UTC"
   32.0100, -103.0700
   32.0200, -103.5600
   33.4500, -103.6500
