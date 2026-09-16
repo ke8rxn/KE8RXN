@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-16 04:40:15 UTC
+; Generated: 2026-09-16 04:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 12:38AM EDT by NWS Wilmington OH\nExpires: 2026-09-16 05:15 Z\nAt 1237 AM EDT, a strong thunderstorm was located near Berne, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Rockford, Mendon, Chattanooga, and Tama.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 04:40:15 UTC"
+Line: 2,,"Special Weather Statement issued September 15 at 11:40PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 05:15 Z\nAt 1140 PM CDT, Doppler radar was tracking a cluster of strong thunderstorms near Gaines County Airport, or near Seminole, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Seminole, Gaines County Airport, and Paynes Corner.\nGenerated: 2026-09-16 04:45:15 UTC"
+  32.5500, -102.3400
+  32.5200, -102.3400
+  32.5200, -102.3800
+  32.5700, -102.8900
+  32.8100, -102.8300
+  32.8500, -102.3800
+  32.5500, -102.3400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 16 at 12:38AM EDT by NWS Wilmington OH\nExpires: 2026-09-16 05:15 Z\nAt 1237 AM EDT, a strong thunderstorm was located near Berne, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Rockford, Mendon, Chattanooga, and Tama.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 04:45:15 UTC"
   40.7300, -84.5000
   40.5900, -84.5300
   40.5700, -84.8000
@@ -14,7 +25,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 12:38AM EDT by NWS Wi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 12:27AM EDT by NWS Northern Indiana\nExpires: 2026-09-16 05:00 Z\nAt 1227 AM EDT, Doppler radar was tracking a strong thunderstorm near Berne, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bluffton, Berne, Geneva, Monroe, Ohio City, Willshire, Wren, Vera Cruz, Ceylon, Reiffsburg, Glenmore, Dull, Abanaka, Jonestown, Linn Grove, Domestic, Schumm, and Pleasant Mills.\nGenerated: 2026-09-16 04:40:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 12:27AM EDT by NWS Northern Indiana\nExpires: 2026-09-16 05:00 Z\nAt 1227 AM EDT, Doppler radar was tracking a strong thunderstorm near Berne, moving east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bluffton, Berne, Geneva, Monroe, Ohio City, Willshire, Wren, Vera Cruz, Ceylon, Reiffsburg, Glenmore, Dull, Abanaka, Jonestown, Linn Grove, Domestic, Schumm, and Pleasant Mills.\nGenerated: 2026-09-16 04:45:15 UTC"
   40.7300, -85.1700
   40.8400, -84.5200
   40.7300, -84.5000
@@ -22,24 +33,4 @@ Line: 2,,"Special Weather Statement issued September 16 at 12:27AM EDT by NWS No
   40.5700, -84.8000
   40.5700, -85.1400
   40.7300, -85.1700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 10:20PM MDT by NWS Albuquerque NM\nExpires: 2026-09-16 04:45 Z\nAt 1020 PM MDT, Doppler radar was tracking a strong thunderstorm 14 miles northwest of Hayden, or 21 miles northwest of Amistad, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of Southeastern Union and Eastern Harding Counties.\nGenerated: 2026-09-16 04:40:15 UTC"
-  36.0900, -103.5200
-  36.1400, -103.6000
-  36.4200, -103.3300
-  36.2700, -103.0500
-  36.0000, -103.3900
-  36.0900, -103.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 15 at 10:00PM MDT by NWS Midland/Odessa TX\nExpires: 2026-09-16 04:45 Z\nAt 1000 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles west of Jal, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southeastern Lea County.\nGenerated: 2026-09-16 04:40:15 UTC"
-  32.0100, -103.2800
-  32.0100, -103.5400
-  32.3800, -103.5300
-  32.4100, -103.3100
-  32.3100, -103.1600
-  32.0100, -103.2800
 End:
