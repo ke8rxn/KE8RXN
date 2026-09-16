@@ -3,42 +3,62 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-16 20:20:18 UTC
+; Generated: 2026-09-16 20:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 3:06PM CDT by NWS Springfield MO\nExpires: 2026-09-16 20:45 Z\nAt 306 PM CDT, Doppler radar was tracking a strong thunderstorm near Belle, or 16 miles north of Rolla, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Belle.\nGenerated: 2026-09-16 20:20:18 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 1:29PM MST by NWS Phoenix AZ\nExpires: 2026-09-16 21:00 Z\nAt 129 PM MST, Doppler radar was tracking a strong thunderstorm near Florence Junction, or 9 miles south of Gold Canyon, moving northwest at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Apache Junction, Gold Canyon, Queen Creek, Florence Junction, Queen Valley, Gold Camp, Kings Ranch, and Magma.  This includes the following highways... US Highway 60 between mile markers 201 and 215. AZ Route 79 between mile markers 143 and 150.\nGenerated: 2026-09-16 20:30:17 UTC"
+  33.2000, -111.2500
+  33.0900, -111.4800
+  33.2900, -111.6400
+  33.4200, -111.3800
+  33.2000, -111.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 16 at 4:25PM EDT by NWS Indianapolis IN\nExpires: 2026-09-16 21:00 Z\nAt 424 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Lawrenceville Vincennes Airport, or near Lawrenceville, moving east at 25 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bicknell, Carlisle, Oaktown, Bruceville, and Freelandville.\nGenerated: 2026-09-16 20:30:17 UTC"
+  38.8800, -87.5400
+  38.8900, -87.5400
+  38.8900, -87.5300
+  38.9000, -87.5300
+  38.9000, -87.5200
+  38.9100, -87.5300
+  38.9400, -87.5200
+  38.9800, -87.2700
+  38.7200, -87.2900
+  38.7100, -87.5200
+  38.7400, -87.5000
+  38.7700, -87.5000
+  38.7700, -87.5100
+  38.7800, -87.4900
+  38.8200, -87.5300
+  38.8500, -87.5300
+  38.8600, -87.5500
+  38.8800, -87.5400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 16 at 4:23PM EDT by NWS Wilmington OH\nExpires: 2026-09-16 21:00 Z\nAt 422 PM EDT, a strong thunderstorm was located over Ansonia, moving east at 25 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Greenville, Versailles, Bradford, Union City, Ansonia, Webster, Gettysburg, Rossburg, Union Corners, Darke County Airport, Cosmos, Sharpeye, Brock, State Route 47 at US Route 127, Sharps Crossing, Horatio, and Pikeville.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 20:30:17 UTC"
+  40.2800, -84.8000
+  40.2800, -84.4300
+  40.0500, -84.4300
+  40.1100, -84.8000
+  40.2800, -84.8000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 16 at 2:22PM MDT by NWS Grand Junction CO\nExpires: 2026-09-16 20:45 Z\nAt 222 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles northwest of Moab, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of Grand County.  This includes U.S. Highway 191 in Utah between mile markers 137 and 139.\nGenerated: 2026-09-16 20:30:17 UTC"
+  38.6600, -109.6700
+  38.6900, -109.7100
+  38.8300, -109.6500
+  38.7700, -109.5200
+  38.6600, -109.6700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 16 at 3:06PM CDT by NWS Springfield MO\nExpires: 2026-09-16 20:45 Z\nAt 306 PM CDT, Doppler radar was tracking a strong thunderstorm near Belle, or 16 miles north of Rolla, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Belle.\nGenerated: 2026-09-16 20:30:17 UTC"
   38.1800, -91.6400
   38.1200, -91.7500
   38.1500, -91.8400
   38.2900, -91.7800
   38.2900, -91.6500
   38.1800, -91.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 3:55PM EDT by NWS Indianapolis IN\nExpires: 2026-09-16 20:30 Z\nAt 355 PM EDT, Doppler radar was tracking a strong thunderstorm over Union City, or 12 miles northwest of Greenville, moving east at 40 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Union City and Saratoga.\nGenerated: 2026-09-16 20:20:18 UTC"
-  40.1400, -84.8900
-  40.2200, -84.9600
-  40.3100, -84.8900
-  40.3100, -84.8000
-  40.1300, -84.8100
-  40.1400, -84.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 1:40PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-16 20:30 Z\nAt 140 PM MDT, Doppler radar was tracking a strong thunderstorm 22 miles northwest of Canyonlands National Park, or 24 miles south of Green River, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of southeastern Emery County.\nGenerated: 2026-09-16 20:20:18 UTC"
-  38.5900, -110.0500
-  38.5400, -110.1000
-  38.6700, -110.2600
-  38.8200, -110.1100
-  38.7800, -110.1200
-  38.7500, -110.0800
-  38.7300, -110.1200
-  38.7100, -110.0800
-  38.6900, -110.1000
-  38.6500, -110.0300
-  38.6100, -110.0700
-  38.6000, -110.0300
-  38.6200, -110.0100
-  38.6000, -110.0000
-  38.5900, -110.0500
 End:
