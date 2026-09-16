@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-16 20:55:15 UTC
+; Generated: 2026-09-16 21:00:31 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 3:53PM CDT by NWS Tulsa OK\nExpires: 2026-09-16 21:30 Z\nAt 352 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles east of Jenks Riverside Airport, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tulsa...                          Broken Arrow... Bixby...                          Jenks... Glenpool...                       Catoosa... Jenks Riverside Airport...  This includes Interstate 44 between mile markers 220 and 232.\nGenerated: 2026-09-16 20:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 4:57PM EDT by NWS Wilmington OH\nExpires: 2026-09-16 21:30 Z\nAt 457 PM EDT, a strong thunderstorm was located near Versailles, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Sidney, Piqua, Versailles, Covington, Bradford, Webster, Russia, Lockington, Polo, Newbern, Bloomer, Horatio, and Houston.  This includes I-75 in Ohio between mile markers 80 and 87.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 21:00:31 UTC"
+  40.1300, -84.4900
+  40.2700, -84.4900
+  40.2800, -84.2000
+  40.1100, -84.2000
+  40.1300, -84.4900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 16 at 3:53PM CDT by NWS Tulsa OK\nExpires: 2026-09-16 21:30 Z\nAt 352 PM CDT, Doppler radar indicated a strong thunderstorm 4 miles east of Jenks Riverside Airport, moving north at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Tulsa...                          Broken Arrow... Bixby...                          Jenks... Glenpool...                       Catoosa... Jenks Riverside Airport...  This includes Interstate 44 between mile markers 220 and 232.\nGenerated: 2026-09-16 21:00:31 UTC"
   36.1600, -95.8100
   36.1600, -95.7600
   35.9600, -95.8000
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 3:53PM CDT by NWS Tul
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 2:49PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-16 21:30 Z\nAt 249 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Huntington, or 13 miles southwest of Price, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Price, Helper, Wellington, Castle Gate, Hiawatha, Coal City, Kenilworth, and Wattis.  This includes the following highways... US Route 6 between mile markers 225 and 245. Utah Route 10 between mile markers 62 and 68.\nGenerated: 2026-09-16 20:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 2:49PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-16 21:30 Z\nAt 249 PM MDT, Doppler radar was tracking a strong thunderstorm 12 miles north of Huntington, or 13 miles southwest of Price, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Price, Helper, Wellington, Castle Gate, Hiawatha, Coal City, Kenilworth, and Wattis.  This includes the following highways... US Route 6 between mile markers 225 and 245. Utah Route 10 between mile markers 62 and 68.\nGenerated: 2026-09-16 21:00:31 UTC"
   39.4100, -111.0200
   39.5300, -111.1700
   39.8700, -110.8400
@@ -25,7 +34,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 2:49PM MDT by NWS Sal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 4:49PM EDT by NWS Indianapolis IN\nExpires: 2026-09-16 21:15 Z\nAt 449 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Marshall, moving east at 25 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Prairieton, Prairie Creek, Farmersburg, Fairbanks, Riley, and Pimento.  This includes Interstate 70 between mile markers 12 and 15.\nGenerated: 2026-09-16 20:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 4:49PM EDT by NWS Indianapolis IN\nExpires: 2026-09-16 21:15 Z\nAt 449 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles southeast of Marshall, moving east at 25 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Prairieton, Prairie Creek, Farmersburg, Fairbanks, Riley, and Pimento.  This includes Interstate 70 between mile markers 12 and 15.\nGenerated: 2026-09-16 21:00:31 UTC"
   39.3100, -87.6000
   39.3400, -87.5800
   39.3400, -87.5600
@@ -46,16 +55,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 4:49PM EDT by NWS Ind
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 2:46PM MDT by NWS Albuquerque NM\nExpires: 2026-09-16 21:00 Z\nAt 246 PM MDT, Doppler radar was tracking a strong thunderstorm 6 miles southwest of NAPI Headquarters, or 14 miles southwest of Farmington, moving north at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... NAPI Headquarters and Ojo Amarillo.\nGenerated: 2026-09-16 20:55:15 UTC"
-  36.5600, -108.4100
-  36.7100, -108.3600
-  36.6600, -108.1200
-  36.5100, -108.1900
-  36.5600, -108.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 2:45PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-16 21:30 Z\nAt 245 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Escalante, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of south central Garfield and northeastern Kane Counties.  This includes Utah Route 12 between mile markers 65 and 72.\nGenerated: 2026-09-16 20:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 2:45PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-16 21:30 Z\nAt 245 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Escalante, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This storm will remain over mainly rural areas of south central Garfield and northeastern Kane Counties.  This includes Utah Route 12 between mile markers 65 and 72.\nGenerated: 2026-09-16 21:00:31 UTC"
   37.4400, -111.5700
   37.5100, -111.6700
   37.8000, -111.4900
@@ -64,7 +64,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 2:45PM MDT by NWS Sal
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 4:42PM EDT by NWS Wilmington OH\nExpires: 2026-09-16 21:15 Z\nAt 442 PM EDT, a strong thunderstorm was located near Hagerstown, moving east at 20 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Richmond, Centerville, Hagerstown, Fountain City, Greens Fork, Spring Grove, Bethel, Economy, Whitewater, Interstate 70 at Exit 145, Middleboro, and Williamsburg.  This includes I-70 in Indiana between mile markers 144 and 155.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 20:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 4:42PM EDT by NWS Wilmington OH\nExpires: 2026-09-16 21:15 Z\nAt 442 PM EDT, a strong thunderstorm was located near Hagerstown, moving east at 20 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Richmond, Centerville, Hagerstown, Fountain City, Greens Fork, Spring Grove, Bethel, Economy, Whitewater, Interstate 70 at Exit 145, Middleboro, and Williamsburg.  This includes I-70 in Indiana between mile markers 144 and 155.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 21:00:31 UTC"
   40.0000, -85.1300
   40.0000, -84.8100
   39.9100, -84.8100
@@ -74,7 +74,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 4:42PM EDT by NWS Wil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 4:41PM EDT by NWS Wilmington OH\nExpires: 2026-09-16 21:15 Z\nAt 441 PM EDT, a strong thunderstorm was located over New Bremen, moving northeast at 30 mph.  HAZARD...Wind gusts up to 45 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Wapakoneta, St. Marys, New Bremen, Minster, Botkins, New Knoxville, Moulton, Kettlersville, Fryburg, and Lake Loramie State Park.  This includes I-75 in Ohio between mile markers 102 and 110.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 20:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 4:41PM EDT by NWS Wilmington OH\nExpires: 2026-09-16 21:15 Z\nAt 441 PM EDT, a strong thunderstorm was located over New Bremen, moving northeast at 30 mph.  HAZARD...Wind gusts up to 45 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Wapakoneta, St. Marys, New Bremen, Minster, Botkins, New Knoxville, Moulton, Kettlersville, Fryburg, and Lake Loramie State Park.  This includes I-75 in Ohio between mile markers 102 and 110.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 21:00:31 UTC"
   40.4700, -84.0300
   40.3600, -84.3700
   40.4100, -84.4600
@@ -84,59 +84,10 @@ Line: 2,,"Special Weather Statement issued September 16 at 4:41PM EDT by NWS Wil
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 2:37PM MDT by NWS Grand Junction CO\nExpires: 2026-09-16 21:00 Z\nAt 236 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles west of Moab, moving north at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of south central Grand County.  This includes the following highways... U.S. Highway 191 in Utah between mile markers 136 and 145. Utah 313 between mile markers 15 and 22.\nGenerated: 2026-09-16 20:55:15 UTC"
-  38.5900, -109.7200
-  38.6000, -109.8000
-  38.8000, -109.8100
-  38.7700, -109.6200
-  38.5900, -109.7200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 2:32PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-16 21:15 Z\nAt 232 PM MDT, Doppler radar was tracking a strong thunderstorm near Mantua, or 8 miles east of Brigham City, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Logan, Brigham City, Smithfield, Hyrum, Wellsville, Mantua, Utah State University, Benson, Peter, North Logan, Providence, Nibley, Hyde Park, Millville, River Heights, Mendon, Paradise, Amalga, College Ward, and Avon.  This includes US Route 89 between mile markers 459 and 470.\nGenerated: 2026-09-16 20:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 2:32PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-16 21:15 Z\nAt 232 PM MDT, Doppler radar was tracking a strong thunderstorm near Mantua, or 8 miles east of Brigham City, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Logan, Brigham City, Smithfield, Hyrum, Wellsville, Mantua, Utah State University, Benson, Peter, North Logan, Providence, Nibley, Hyde Park, Millville, River Heights, Mendon, Paradise, Amalga, College Ward, and Avon.  This includes US Route 89 between mile markers 459 and 470.\nGenerated: 2026-09-16 21:00:31 UTC"
   41.4400, -111.8100
   41.5300, -112.0400
   41.8800, -111.9100
   41.7300, -111.5100
   41.4400, -111.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 1:29PM MST by NWS Phoenix AZ\nExpires: 2026-09-16 21:00 Z\nAt 129 PM MST, Doppler radar was tracking a strong thunderstorm near Florence Junction, or 9 miles south of Gold Canyon, moving northwest at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Apache Junction, Gold Canyon, Queen Creek, Florence Junction, Queen Valley, Gold Camp, Kings Ranch, and Magma.  This includes the following highways... US Highway 60 between mile markers 201 and 215. AZ Route 79 between mile markers 143 and 150.\nGenerated: 2026-09-16 20:55:15 UTC"
-  33.2000, -111.2500
-  33.0900, -111.4800
-  33.2900, -111.6400
-  33.4200, -111.3800
-  33.2000, -111.2500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 4:25PM EDT by NWS Indianapolis IN\nExpires: 2026-09-16 21:00 Z\nAt 424 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Lawrenceville Vincennes Airport, or near Lawrenceville, moving east at 25 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Bicknell, Carlisle, Oaktown, Bruceville, and Freelandville.\nGenerated: 2026-09-16 20:55:15 UTC"
-  38.8800, -87.5400
-  38.8900, -87.5400
-  38.8900, -87.5300
-  38.9000, -87.5300
-  38.9000, -87.5200
-  38.9100, -87.5300
-  38.9400, -87.5200
-  38.9800, -87.2700
-  38.7200, -87.2900
-  38.7100, -87.5200
-  38.7400, -87.5000
-  38.7700, -87.5000
-  38.7700, -87.5100
-  38.7800, -87.4900
-  38.8200, -87.5300
-  38.8500, -87.5300
-  38.8600, -87.5500
-  38.8800, -87.5400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 4:23PM EDT by NWS Wilmington OH\nExpires: 2026-09-16 21:00 Z\nAt 422 PM EDT, a strong thunderstorm was located over Ansonia, moving east at 25 mph.  HAZARD...Wind gusts up to 45 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Hail may cause minor damage to vegetation.  Locations impacted include... Greenville, Versailles, Bradford, Union City, Ansonia, Webster, Gettysburg, Rossburg, Union Corners, Darke County Airport, Cosmos, Sharpeye, Brock, State Route 47 at US Route 127, Sharps Crossing, Horatio, and Pikeville.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-16 20:55:15 UTC"
-  40.2800, -84.8000
-  40.2800, -84.4300
-  40.0500, -84.4300
-  40.1100, -84.8000
-  40.2800, -84.8000
 End:
