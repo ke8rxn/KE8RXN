@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-17 19:55:15 UTC
+; Generated: 2026-09-17 20:00:22 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:53PM EDT by NWS Charleston WV\nExpires: 2026-09-17 20:30 Z\nAt 353 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Spencer, moving southeast at 25 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Arnoldsburg and Mount Zion.\nGenerated: 2026-09-17 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 3:55PM EDT by NWS Jackson KY\nExpires: 2026-09-17 20:30 Z\nAt 354 PM EDT, Doppler radar was tracking a strong thunderstorm over Barnyard, or 7 miles northeast of Barbourville, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pineville, Wallsend, Barnyard, Salt Gum, Hinkle, Field, Straight Creek, Blanche, Mills, Cary, Fourmile, Rella, Clear Creek Springs, Wasioto, Dewitt, Yeager, Flat Lick, Himyar, Walker, and Scalf.  THIS INCLUDES THE FOLLOWING HIGHWAYS... U.S. Highway 25 East in Bell County between mile markers 12 and 18. U.S. Highway 25 East in Knox County between mile markers 1 and 8.\nGenerated: 2026-09-17 20:00:22 UTC"
+  36.8900, -83.8700
+  36.9900, -83.7300
+  36.8700, -83.5200
+  36.7100, -83.7300
+  36.8900, -83.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 17 at 3:53PM EDT by NWS Charleston WV\nExpires: 2026-09-17 20:30 Z\nAt 353 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Spencer, moving southeast at 25 mph.  HAZARD...Wind gusts of 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Arnoldsburg and Mount Zion.\nGenerated: 2026-09-17 20:00:22 UTC"
   38.8800, -81.3700
   38.9500, -81.3000
   38.8700, -81.0300
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 3:53PM EDT by NWS Cha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 1:52PM MDT by NWS Albuquerque NM\nExpires: 2026-09-17 20:15 Z\nAt 152 PM MDT, Doppler radar was tracking a strong thunderstorm near Ruidoso Downs, or 6 miles southeast of Ruidoso, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ruidoso, Ruidoso Downs, Glencoe and Hollywood.\nGenerated: 2026-09-17 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 1:52PM MDT by NWS Albuquerque NM\nExpires: 2026-09-17 20:15 Z\nAt 152 PM MDT, Doppler radar was tracking a strong thunderstorm near Ruidoso Downs, or 6 miles southeast of Ruidoso, moving northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ruidoso, Ruidoso Downs, Glencoe and Hollywood.\nGenerated: 2026-09-17 20:00:22 UTC"
   33.3500, -105.6800
   33.4900, -105.5500
   33.3500, -105.3500
@@ -24,7 +33,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 1:52PM MDT by NWS Alb
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 1:52PM MDT by NWS Pocatello ID\nExpires: 2026-09-17 20:15 Z\nAt 152 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Craters Of The Moon, or 18 miles southeast of Carey, moving northeast at 20 mph.  HAZARD...Wind gusts in excess of 45 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Craters Of The Moon.\nGenerated: 2026-09-17 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 1:52PM MDT by NWS Pocatello ID\nExpires: 2026-09-17 20:15 Z\nAt 152 PM MDT, Doppler radar was tracking a strong thunderstorm 16 miles south of Craters Of The Moon, or 18 miles southeast of Carey, moving northeast at 20 mph.  HAZARD...Wind gusts in excess of 45 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Craters Of The Moon.\nGenerated: 2026-09-17 20:00:22 UTC"
   43.0500, -113.6700
   43.1500, -113.7900
   43.4200, -113.5700
@@ -33,7 +42,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 1:52PM MDT by NWS Poc
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:51PM AST by NWS San Juan PR\nExpires: 2026-09-17 20:45 Z\nAt 351 PM AST, Doppler radar was tracking a strong thunderstorm near Barranquitas, moving northwest at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-09-17 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 3:51PM AST by NWS San Juan PR\nExpires: 2026-09-17 20:45 Z\nAt 351 PM AST, Doppler radar was tracking a strong thunderstorm near Barranquitas, moving northwest at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-09-17 20:00:22 UTC"
   18.3100, -66.0000
   18.2400, -65.9300
   18.1700, -66.0300
@@ -50,7 +59,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 3:51PM AST by NWS San
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 1:50PM MDT by NWS Pocatello ID\nExpires: 2026-09-17 20:15 Z\nAt 150 PM MDT, Doppler radar was tracking a strong thunderstorm near Minidoka, or 14 miles northwest of Lake Walcott, moving northeast at 20 mph.  HAZARD...Wind gusts in excess of 45 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Bear Trap Airport.\nGenerated: 2026-09-17 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 1:50PM MDT by NWS Pocatello ID\nExpires: 2026-09-17 20:15 Z\nAt 150 PM MDT, Doppler radar was tracking a strong thunderstorm near Minidoka, or 14 miles northwest of Lake Walcott, moving northeast at 20 mph.  HAZARD...Wind gusts in excess of 45 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Bear Trap Airport.\nGenerated: 2026-09-17 20:00:22 UTC"
   42.7700, -113.5400
   42.8600, -113.6500
   43.1100, -113.3900
@@ -59,7 +68,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 1:50PM MDT by NWS Poc
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:38PM EDT by NWS Charleston WV\nExpires: 2026-09-17 20:15 Z\nAt 338 PM EDT, Doppler radar was tracking a strong thunderstorm over Hocking Hills State Park, or 11 miles southwest of Logan, moving southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Hope State Park, Zaleski, and Creola.\nGenerated: 2026-09-17 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 3:38PM EDT by NWS Charleston WV\nExpires: 2026-09-17 20:15 Z\nAt 338 PM EDT, Doppler radar was tracking a strong thunderstorm over Hocking Hills State Park, or 11 miles southwest of Logan, moving southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lake Hope State Park, Zaleski, and Creola.\nGenerated: 2026-09-17 20:00:22 UTC"
   39.3600, -82.6400
   39.3700, -82.6300
   39.3700, -82.5200
@@ -70,39 +79,4 @@ Line: 2,,"Special Weather Statement issued September 17 at 3:38PM EDT by NWS Cha
   39.3600, -82.7300
   39.3700, -82.7300
   39.3600, -82.6400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:36PM EDT by NWS Blacksburg VA\nExpires: 2026-09-17 20:00 Z\nAt 336 PM EDT, Doppler radar was tracking a strong thunderstorm over Collierstown, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Collierstown... and Natural Bridge.\nGenerated: 2026-09-17 19:55:15 UTC"
-  37.7000, -79.4200
-  37.5700, -79.5500
-  37.7300, -79.6900
-  37.7500, -79.6800
-  37.7800, -79.6600
-  37.8400, -79.5300
-  37.7000, -79.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:34PM EDT by NWS Wilmington OH\nExpires: 2026-09-17 20:00 Z\nAt 334 PM EDT, a strong thunderstorm was located near Hocking Hills State Park, moving southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and frequent cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Lightning can cause serious injury or death.  Locations impacted include... Hocking Hills State Park, Starr, Ilesboro, South Bloomingville, Gibisonville, and Buena Vista in Hocking County.  If outdoors, consider seeking shelter inside a sturdy building.  When thunder roars, go indoors! Do not stay in the open or seek shelter under trees when lightning threatens.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-17 19:55:15 UTC"
-  39.3800, -82.2900
-  39.3900, -82.5100
-  39.3700, -82.5200
-  39.3700, -82.6300
-  39.3600, -82.6400
-  39.3600, -82.7100
-  39.3800, -82.7500
-  39.4500, -82.7400
-  39.5600, -82.6700
-  39.4200, -82.2900
-  39.3800, -82.2900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:27PM EDT by NWS Jackson KY\nExpires: 2026-09-17 20:00 Z\nAt 326 PM EDT, Doppler radar was tracking a strong thunderstorm over Florress, or near West Liberty. This thunderstorm was moving southeast at around 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... West Liberty, Haleburg, Flat Fork, Florress, Bethanna, Coon, Logville, Wonnie, Williams, White Oak, Lykins, Grayfox, Ever, Cottle, Orient, Elamton, Gordon Ford, Bloomington, Plutarch, and Holliday.\nGenerated: 2026-09-17 19:55:15 UTC"
-  37.9100, -83.2500
-  37.9600, -83.1200
-  37.8300, -83.0000
-  37.7600, -83.2200
-  37.9100, -83.2500
 End:
