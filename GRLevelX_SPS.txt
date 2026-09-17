@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-17 00:10:16 UTC
+; Generated: 2026-09-17 00:15:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 6:05PM MDT by NWS Grand Junction CO\nExpires: 2026-09-17 00:30 Z\nAt 605 PM MDT, Doppler radar was tracking a strong thunderstorm 44 miles northwest of Fruita, or 53 miles northeast of Green River, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of Uintah County.\nGenerated: 2026-09-17 00:10:16 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 8:11PM EDT by NWS Cleveland OH\nExpires: 2026-09-17 01:00 Z\nAt 811 PM EDT, Doppler radar was tracking a strong thunderstorm near Chesterville, or 8 miles east of Mount Gilead, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Mansfield, Mount Vernon, Mount Gilead, Lexington, Loudonville, Fredericktown, Gambier, Cardington, Bellville, Danville, Chesterville, Waterford, Butler, Perrysville, Edison, North Liberty, and Shauck.\nGenerated: 2026-09-17 00:15:17 UTC"
+  40.5100, -82.9200
+  40.7100, -82.7600
+  40.7100, -82.7300
+  40.7500, -82.7100
+  40.6300, -82.2200
+  40.5700, -82.2200
+  40.5700, -82.1900
+  40.2900, -82.3500
+  40.5100, -82.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 16 at 6:05PM MDT by NWS Grand Junction CO\nExpires: 2026-09-17 00:30 Z\nAt 605 PM MDT, Doppler radar was tracking a strong thunderstorm 44 miles northwest of Fruita, or 53 miles northeast of Green River, moving northeast at 15 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of Uintah County.\nGenerated: 2026-09-17 00:15:17 UTC"
   39.4800, -109.4300
   39.5400, -109.4500
   39.6600, -109.3400
@@ -14,7 +27,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 6:05PM MDT by NWS Gra
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 5:04PM PDT by NWS Eureka CA\nExpires: 2026-09-17 00:30 Z\nAt 504 PM PDT, Doppler radar was tracking an area of strong thunderstorms 10 miles north of Weitchpec, or 11 miles west of Orleans, moving northwest at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Del Norte and North Central Humboldt Counties.  HWY 96\nGenerated: 2026-09-17 00:10:16 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 5:04PM PDT by NWS Eureka CA\nExpires: 2026-09-17 00:30 Z\nAt 504 PM PDT, Doppler radar was tracking an area of strong thunderstorms 10 miles north of Weitchpec, or 11 miles west of Orleans, moving northwest at 15 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Del Norte and North Central Humboldt Counties.  HWY 96\nGenerated: 2026-09-17 00:15:17 UTC"
   41.4600, -123.8700
   41.4900, -123.8400
   41.3400, -123.6200
@@ -26,7 +39,7 @@ Line: 2,,"Special Weather Statement issued September 16 at 5:04PM PDT by NWS Eur
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 6:04PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-17 00:45 Z\nAt 604 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sunnyside to 20 miles southeast of Wellington. Movement was northeast at 20 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Sunnyside, East Carbon, and Woodside.  This includes US Route 6 between mile markers 261 and 278.\nGenerated: 2026-09-17 00:10:16 UTC"
+Line: 2,,"Special Weather Statement issued September 16 at 6:04PM MDT by NWS Salt Lake City UT\nExpires: 2026-09-17 00:45 Z\nAt 604 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from near Sunnyside to 20 miles southeast of Wellington. Movement was northeast at 20 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Sunnyside, East Carbon, and Woodside.  This includes US Route 6 between mile markers 261 and 278.\nGenerated: 2026-09-17 00:15:17 UTC"
   39.7500, -109.9500
   39.7200, -109.9500
   39.7400, -109.9900
@@ -39,53 +52,4 @@ Line: 2,,"Special Weather Statement issued September 16 at 6:04PM MDT by NWS Sal
   39.6000, -110.4600
   39.7900, -109.8800
   39.7500, -109.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 5:48PM MDT by NWS Grand Junction CO\nExpires: 2026-09-17 00:15 Z\nAt 547 PM MDT, Doppler radar was tracking a strong thunderstorm 33 miles southwest of Rangely, or 53 miles northwest of Grand Junction, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation and outdoor objects is possible.  This storm will remain over mainly rural areas of Uintah County and Rio Blanco County.\nGenerated: 2026-09-17 00:10:16 UTC"
-  39.6800, -109.2000
-  39.7400, -109.2300
-  39.8700, -109.0300
-  39.7300, -108.9300
-  39.6800, -109.2000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 5:46PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-09-17 00:15 Z\nAt 545 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles east of Desert Haven, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Loma Linda and Desert Haven.\nGenerated: 2026-09-17 00:10:16 UTC"
-  31.7500, -105.6200
-  31.6800, -105.8100
-  31.9000, -105.9900
-  32.0100, -105.6900
-  31.7500, -105.6200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 5:44PM MDT by NWS Albuquerque NM\nExpires: 2026-09-17 00:15 Z\nAt 544 PM MDT, Doppler radar was tracking a strong thunderstorm 8 miles east of Corona, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Duran.\nGenerated: 2026-09-17 00:10:16 UTC"
-  34.3000, -105.5700
-  34.5800, -105.4800
-  34.4900, -105.2200
-  34.2000, -105.4100
-  34.2600, -105.5800
-  34.3000, -105.5700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 4:39PM PDT by NWS Eureka CA\nExpires: 2026-09-17 00:15 Z\nAt 439 PM PDT, Doppler radar was tracking an area of strong thunderstorms 16 miles southeast of Ruth, or 24 miles north of Covelo, moving northwest at 10 mph.  HAZARD...Pea size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Ruth, Forest Glen and Zenia.  HWY 36\nGenerated: 2026-09-17 00:10:16 UTC"
-  40.3700, -123.5400
-  40.5500, -123.4500
-  40.1600, -122.9900
-  39.9200, -123.1600
-  40.2400, -123.6100
-  40.3700, -123.5400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 16 at 7:24PM EDT by NWS Cleveland OH\nExpires: 2026-09-17 00:15 Z\nAt 723 PM EDT, Doppler radar was tracking a strong thunderstorm near Marion, moving east at 30 mph.  HAZARD...Wind gusts up to 50 mph. This storm is exhibiting rotation.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Marion, Bucyrus, Galion, Ontario, Crestline, Caledonia, North Robinson, Shauck, and Iberia.\nGenerated: 2026-09-17 00:10:16 UTC"
-  40.6200, -83.1800
-  40.7000, -83.1800
-  40.7000, -83.1100
-  40.7700, -83.1100
-  40.8600, -82.6300
-  40.5500, -82.6100
-  40.6200, -83.1800
 End:
