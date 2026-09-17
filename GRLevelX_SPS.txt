@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-17 19:25:13 UTC
+; Generated: 2026-09-17 19:30:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:20PM EDT by NWS Blacksburg VA\nExpires: 2026-09-17 19:45 Z\nAt 319 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Eggleston to near White Gate. Movement was south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blacksburg... Pulaski... Dublin... Pembroke... Mountain Lake... Newport... and Poplar Hill.\nGenerated: 2026-09-17 19:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 3:27PM EDT by NWS Jackson KY\nExpires: 2026-09-17 20:00 Z\nAt 326 PM EDT, Doppler radar was tracking a strong thunderstorm over Florress, or near West Liberty. This thunderstorm was moving southeast at around 5 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... West Liberty, Haleburg, Flat Fork, Florress, Bethanna, Coon, Logville, Wonnie, Williams, White Oak, Lykins, Grayfox, Ever, Cottle, Orient, Elamton, Gordon Ford, Bloomington, Plutarch, and Holliday.\nGenerated: 2026-09-17 19:30:16 UTC"
+  37.9100, -83.2500
+  37.9600, -83.1200
+  37.8300, -83.0000
+  37.7600, -83.2200
+  37.9100, -83.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 17 at 3:20PM EDT by NWS Blacksburg VA\nExpires: 2026-09-17 19:45 Z\nAt 319 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Eggleston to near White Gate. Movement was south at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Blacksburg... Pulaski... Dublin... Pembroke... Mountain Lake... Newport... and Poplar Hill.\nGenerated: 2026-09-17 19:30:16 UTC"
   37.2200, -80.3800
   37.0400, -80.8100
   37.2400, -80.8800
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 3:20PM EDT by NWS Bla
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:14PM EDT by NWS Charleston WV\nExpires: 2026-09-17 19:45 Z\nAt 313 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles west of North Bend State Park, or 12 miles west of Harrisville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cairo, Nutter Farm, Brohard, Macfarlan, and Petroleum.  This includes Route 50 in West Virginia between mile markers 18 and 30.\nGenerated: 2026-09-17 19:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 3:14PM EDT by NWS Charleston WV\nExpires: 2026-09-17 19:45 Z\nAt 313 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles west of North Bend State Park, or 12 miles west of Harrisville, moving southeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cairo, Nutter Farm, Brohard, Macfarlan, and Petroleum.  This includes Route 50 in West Virginia between mile markers 18 and 30.\nGenerated: 2026-09-17 19:30:16 UTC"
   39.2600, -81.3900
   39.3100, -81.2900
   39.1500, -80.9700
@@ -23,7 +32,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 3:14PM EDT by NWS Cha
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 2:07PM CDT by NWS Nashville TN\nExpires: 2026-09-17 19:45 Z\nAt 207 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Carthage, moving south at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carthage, Gordonsville, South Carthage, Pleasant Shade, and Granville.  This includes Interstate 40 between mile markers 255 and 260.\nGenerated: 2026-09-17 19:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 2:07PM CDT by NWS Nashville TN\nExpires: 2026-09-17 19:45 Z\nAt 207 PM CDT, Doppler radar was tracking a strong thunderstorm 8 miles northeast of Carthage, moving south at 5 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Carthage, Gordonsville, South Carthage, Pleasant Shade, and Granville.  This includes Interstate 40 between mile markers 255 and 260.\nGenerated: 2026-09-17 19:30:16 UTC"
   36.1700, -85.6800
   36.1700, -86.0100
   36.4200, -85.9500
@@ -36,32 +45,7 @@ Line: 2,,"Special Weather Statement issued September 17 at 2:07PM CDT by NWS Nas
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 3:02PM EDT by NWS Charleston WV\nExpires: 2026-09-17 19:30 Z\nAt 302 PM EDT, Doppler radar was tracking a strong thunderstorm near Forked Run State Park, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Forked Run State Park, Ravenswood, Sandyville, Portland, Cherry, Peewee, Belleville, Reedsville, Morristown, Rockport, Leroy, and Palestine.  This includes Interstate 77 in West Virginia between mile markers 144 and 163.\nGenerated: 2026-09-17 19:25:13 UTC"
-  39.1000, -81.9000
-  39.1700, -81.7600
-  39.0200, -81.3000
-  38.7700, -81.6300
-  39.1000, -81.9000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 2:57PM EDT by NWS Charleston WV\nExpires: 2026-09-17 19:30 Z\nAt 256 PM EDT, Doppler radar was tracking a cluster of strong thunderstorms near Spurlockville, or 7 miles southeast of Hamlin, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wayne, Hamlin, Beech Fork State Park, Ranger, Gill, Spurlockville, Harts, Julian, Alum Creek, West Hamlin, Sweetland, Sod, Woodville, Branchland, Salt Rock, Palermo, Griffithsville, Alkol, Yawkey, and Mud.  This includes Route 119 between mile markers 53 and 63.\nGenerated: 2026-09-17 19:25:13 UTC"
-  38.2900, -82.4800
-  38.3600, -82.1300
-  38.2200, -81.8200
-  38.2100, -81.8300
-  38.1800, -81.8100
-  38.1800, -81.8000
-  38.2000, -81.8100
-  38.2100, -81.8100
-  38.2100, -81.7900
-  38.1400, -81.6300
-  37.9900, -82.2300
-  38.2900, -82.4800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 2:54PM AST by NWS San Juan PR\nExpires: 2026-09-17 19:45 Z\nAt 254 PM AST, Doppler radar was tracking a line of strong thunderstorms extending from 10 miles south of Jobos to over Maunabo, or extending from 12 miles southeast of Salinas to over Maunabo, moving northwest at 20 mph.  HAZARD...Wind gusts up to 30 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponce, Guayama, Coamo, Santa Isabel, Cayey, Salinas, Arroyo, Patillas, San Lorenzo, Maunabo, Yabucoa, Juana Diaz, Emajagua, Vazquez, Coqui, Coco, Jobos, Olimpo and Corazon.\nGenerated: 2026-09-17 19:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 2:54PM AST by NWS San Juan PR\nExpires: 2026-09-17 19:45 Z\nAt 254 PM AST, Doppler radar was tracking a line of strong thunderstorms extending from 10 miles south of Jobos to over Maunabo, or extending from 12 miles southeast of Salinas to over Maunabo, moving northwest at 20 mph.  HAZARD...Wind gusts up to 30 mph, frequent lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponce, Guayama, Coamo, Santa Isabel, Cayey, Salinas, Arroyo, Patillas, San Lorenzo, Maunabo, Yabucoa, Juana Diaz, Emajagua, Vazquez, Coqui, Coco, Jobos, Olimpo and Corazon.\nGenerated: 2026-09-17 19:30:16 UTC"
   18.0500, -66.6700
   18.2000, -65.9200
   18.0600, -65.8100
@@ -80,33 +64,4 @@ Line: 2,,"Special Weather Statement issued September 17 at 2:54PM AST by NWS San
   17.9900, -66.4800
   17.9600, -66.5800
   18.0500, -66.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 2:52PM EDT by NWS Wilmington OH\nExpires: 2026-09-17 19:30 Z\nAt 251 PM EDT, a strong thunderstorm was located near Circleville, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and frequent cloud-to-ground lightning.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Lightning can cause serious injury or death.  Locations impacted include... Circleville, Logan, Ashville, South Bloomfield, Kingston, Hocking Hills State Park, Logan Elm Village, Fox, Amanda, Stoutsville, Laurelville, Sugar Grove, Adelphi, Tarlton, East Ringgold, US Route 22 at State Route 159, Clearport, South Bloomingville, Aw Marion State Park, and Buena Vista in Hocking County.  If outdoors, consider seeking shelter inside a sturdy building.  When thunder roars, go indoors! Do not stay in the open or seek shelter under trees when lightning threatens.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-17 19:25:13 UTC"
-  39.3700, -82.5900
-  39.3700, -82.6300
-  39.3600, -82.6400
-  39.3700, -82.7500
-  39.3600, -82.7500
-  39.6000, -83.1100
-  39.7700, -82.9200
-  39.5900, -82.3400
-  39.3700, -82.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 2:44PM AST by NWS San Juan PR\nExpires: 2026-09-17 19:30 Z\nAt 244 PM AST, Doppler radar was tracking a strong thunderstorm over Rafael Capo, or near Arecibo, moving northwest at 10 mph.  HAZARD...Wind gusts up to 30 mph, Heavy rain, and funnel clouds possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Arecibo, Lares, Camuy, Hatillo, Quebradillas, San Sebastian, Utuado, Isabela, Rafael Capo, Rafael Gonzalez, Bajadero, Hato Arriba, Aceitunas, San Antonio, Quebrada, Piedra Gorda, Juncal, Cacao and Corcovado.\nGenerated: 2026-09-17 19:25:13 UTC"
-  18.5100, -67.0400
-  18.5100, -67.0200
-  18.4900, -66.9800
-  18.4800, -66.9100
-  18.4900, -66.7900
-  18.4700, -66.7400
-  18.4700, -66.7100
-  18.4900, -66.6700
-  18.4600, -66.6200
-  18.2000, -66.7300
-  18.3900, -67.1100
-  18.5100, -67.0400
 End:
