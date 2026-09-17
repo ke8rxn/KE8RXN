@@ -3,9 +3,28 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-17 13:25:13 UTC
+; Generated: 2026-09-17 13:30:26 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 9:13AM EDT by NWS Northern Indiana\nExpires: 2026-09-17 14:00 Z\nAt 913 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Bremen to near Argos to near Winamac. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warsaw, Plymouth, Nappanee, Rochester, Winona Lake, Bremen, Winamac, Bourbon, Argos, Milford, Culver, Akron, North Webster, Pierceton, Mentone, Mexico, Walnut, Tippecanoe, Silver Lake, and Kewanna.\nGenerated: 2026-09-17 13:25:13 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 6:29AM PDT by NWS Boise ID\nExpires: 2026-09-17 14:00 Z\nAt 629 AM PDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Sumpter to near Pondosa. Movement was northwest at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  Locations impacted include... North Powder, Haines, Anthony Lakes Ski Area, Mount Ruth, Thief Valley Reservoir, and Elkhorn Peak.\nGenerated: 2026-09-17 13:30:26 UTC"
+  44.9900, -117.7700
+  44.9900, -117.6500
+  44.9100, -117.6300
+  44.7300, -118.1200
+  44.8500, -118.3000
+  44.8700, -118.2800
+  44.8700, -118.2300
+  44.9500, -118.2500
+  45.0100, -118.2100
+  45.0500, -118.1300
+  45.0000, -118.0100
+  45.0000, -117.9600
+  45.0600, -117.8800
+  45.0600, -117.8500
+  44.9900, -117.7700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 17 at 9:13AM EDT by NWS Northern Indiana\nExpires: 2026-09-17 14:00 Z\nAt 913 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Bremen to near Argos to near Winamac. Movement was east at 45 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Warsaw, Plymouth, Nappanee, Rochester, Winona Lake, Bremen, Winamac, Bourbon, Argos, Milford, Culver, Akron, North Webster, Pierceton, Mentone, Mexico, Walnut, Tippecanoe, Silver Lake, and Kewanna.\nGenerated: 2026-09-17 13:30:26 UTC"
   41.1700, -86.5200
   41.1700, -86.4700
   41.2100, -86.4700
@@ -16,20 +35,4 @@ Line: 2,,"Special Weather Statement issued September 17 at 9:13AM EDT by NWS Nor
   40.8000, -86.1900
   41.0200, -86.7600
   41.1700, -86.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 5:39AM PDT by NWS Boise ID\nExpires: 2026-09-17 13:30 Z\nAt 539 AM PDT, Doppler radar was tracking a strong thunderstorm over Salisbury, or 11 miles south of Baker City, moving north at 30 mph.  HAZARD...Wind gusts up to 40 mph and up to half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Areas of blowing dust possible. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Salisbury around 540 AM PDT. Baker City around 550 AM PDT. Haines around 610 AM PDT.\nGenerated: 2026-09-17 13:25:13 UTC"
-  44.9900, -117.7700
-  44.9900, -117.7200
-  44.5100, -117.6300
-  44.4100, -118.1100
-  44.7400, -118.3200
-  44.7500, -118.2900
-  44.8300, -118.3200
-  44.8700, -118.2800
-  44.8700, -118.2300
-  44.9100, -118.2400
-  45.0100, -117.8000
-  44.9900, -117.7700
 End:
