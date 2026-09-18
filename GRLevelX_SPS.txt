@@ -3,31 +3,30 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-18 00:55:14 UTC
+; Generated: 2026-09-18 01:00:21 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 6:32PM MDT by NWS Cheyenne WY\nExpires: 2026-09-18 01:00 Z\nAt 632 PM MDT, Doppler radar was tracking a strong thunderstorm near Dalton, or 23 miles north of Sidney, moving north at 25 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Broadwater and The Intersection Of Highway 385 And 92.\nGenerated: 2026-09-18 00:55:14 UTC"
-  41.3500, -102.7000
-  41.3700, -102.9500
-  41.6100, -102.9900
-  41.6300, -102.6300
-  41.3500, -102.7000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 17 at 8:26PM EDT by NWS Indianapolis IN\nExpires: 2026-09-18 01:00 Z\nAt 826 PM EDT, Doppler radar was tracking a strong thunderstorm near Brookston, or 10 miles northeast of Otterbein, moving southeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lafayette, West Lafayette, Delphi, Covington, Williamsport, Attica, Flora, Rossville, Shadeland, Dayton, Battle Ground, Mulberry, West Lebanon, Camden, Burlington, Newtown, Pine Village, State Line City, Yeoman, and Purdue University.  This includes Interstate 65 between mile markers 165 and 183.\nGenerated: 2026-09-18 00:55:14 UTC"
+Line: 2,,"Special Weather Statement issued September 17 at 8:57PM EDT by NWS Indianapolis IN\nExpires: 2026-09-18 01:45 Z\nAt 856 PM EDT, Doppler radar was tracking a strong thunderstorm over Delphi, or 15 miles southeast of Monticello, moving east southeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lafayette, Kokomo, Frankfort, Crawfordsville, West Lafayette, Delphi, Covington, Veedersburg, Williamsport, Attica, Flora, Rossville, Shadeland, Dayton, Battle Ground, Mulberry, Russiaville, Waynetown, Linden, and West Lebanon.  This includes the following highways... Interstate 65 between mile markers 154 and 183. Interstate 74 between mile markers 1 and 35.\nGenerated: 2026-09-18 01:00:21 UTC"
   40.7400, -86.5300
   40.6900, -86.5200
   40.6900, -86.3700
   40.5600, -86.3700
-  40.5600, -86.1700
-  40.4300, -86.3700
-  40.1200, -87.4100
-  40.1300, -87.4300
-  40.1500, -87.5300
+  40.5600, -86.1200
+  40.4000, -86.2400
+  39.9500, -87.1000
+  39.9800, -87.5300
   40.4800, -87.5200
   40.4800, -87.0900
   40.5600, -87.0900
   40.5600, -86.7700
-  40.7400, -86.7500
+  40.7400, -86.7400
   40.7400, -86.5300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 17 at 6:57PM MDT by NWS North Platte NE\nExpires: 2026-09-18 01:45 Z\nAt 657 PM MDT, Doppler radar was tracking a strong thunderstorm near Lewellen, or near Oshkosh, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lewellen and Bluewater Battlefield State Historical Park.\nGenerated: 2026-09-18 01:00:21 UTC"
+  41.2600, -102.2600
+  41.3200, -102.3700
+  41.6800, -102.1500
+  41.5300, -101.8500
+  41.2600, -102.2600
 End:
