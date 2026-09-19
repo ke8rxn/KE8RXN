@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-19 02:10:15 UTC
+; Generated: 2026-09-19 02:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 18 at 10:09PM EDT by NWS Louisville KY\nExpires: 2026-09-19 02:45 Z\nAt 1009 PM EDT /909 PM CDT/, Doppler radar was tracking a line of strong thunderstorms extending from 8 miles northeast of Lancaster to 6 miles south of Liberty, or extending from 13 miles west of Richmond to 6 miles south of Liberty, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Liberty, Stanford, Lancaster, Mccreary, Berea, Junction City, Crab Orchard, Hustonville and Jumbo.\nGenerated: 2026-09-19 02:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 18 at 10:09PM EDT by NWS Louisville KY\nExpires: 2026-09-19 02:45 Z\nAt 1009 PM EDT /909 PM CDT/, Doppler radar was tracking a line of strong thunderstorms extending from 8 miles northeast of Lancaster to 6 miles south of Liberty, or extending from 13 miles west of Richmond to 6 miles south of Liberty, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Liberty, Stanford, Lancaster, Mccreary, Berea, Junction City, Crab Orchard, Hustonville and Jumbo.\nGenerated: 2026-09-19 02:15:16 UTC"
   37.3000, -85.1500
   37.6300, -84.7400
   37.7700, -84.6700
@@ -26,7 +26,7 @@ Line: 2,,"Special Weather Statement issued September 18 at 10:09PM EDT by NWS Lo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 18 at 9:46PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-19 02:45 Z\nAt 946 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles north of Hartwell to 9 miles northeast of Greenwood. Movement was south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greenwood, Abbeville, Elberton, Hartwell, Anderson, Homeland Park, Royston, Ware Shoals, Calhoun Falls, and Reed Creek.\nGenerated: 2026-09-19 02:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 18 at 9:46PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-19 02:45 Z\nAt 946 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from 11 miles north of Hartwell to 9 miles northeast of Greenwood. Movement was south at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Greenwood, Abbeville, Elberton, Hartwell, Anderson, Homeland Park, Royston, Ware Shoals, Calhoun Falls, and Reed Creek.\nGenerated: 2026-09-19 02:15:16 UTC"
   33.9800, -82.0500
   34.0200, -82.2400
   33.9700, -82.3100
@@ -51,7 +51,7 @@ Line: 2,,"Special Weather Statement issued September 18 at 9:46PM EDT by NWS Gre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 18 at 7:40PM MDT by NWS Cheyenne WY\nExpires: 2026-09-19 02:30 Z\nAt 739 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 12 miles northeast of Lingle to Henry to near La Grange. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scottsbluff, Torrington, Gering, Mitchell, Terrytown, Morrill, Lyman, Henry, Huntley, Wildcat Hills State Recreation Area, Hawk Springs Reservoir, Stegall, Southern Hills Estates, Scotts Bluff County Fairground, Torrington Municipal Airport, Hawk Springs State Recreation Area, Hawk Springs, Scotts Bluff National Monument, Hubbard Hill, and Scottsbluff Airport.\nGenerated: 2026-09-19 02:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 18 at 7:40PM MDT by NWS Cheyenne WY\nExpires: 2026-09-19 02:30 Z\nAt 739 PM MDT, Doppler radar was tracking strong thunderstorms along a line extending from 12 miles northeast of Lingle to Henry to near La Grange. Movement was east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Scottsbluff, Torrington, Gering, Mitchell, Terrytown, Morrill, Lyman, Henry, Huntley, Wildcat Hills State Recreation Area, Hawk Springs Reservoir, Stegall, Southern Hills Estates, Scotts Bluff County Fairground, Torrington Municipal Airport, Hawk Springs State Recreation Area, Hawk Springs, Scotts Bluff National Monument, Hubbard Hill, and Scottsbluff Airport.\nGenerated: 2026-09-19 02:15:16 UTC"
   42.3200, -103.7100
   41.9000, -103.5900
   41.6700, -103.6500
@@ -59,44 +59,4 @@ Line: 2,,"Special Weather Statement issued September 18 at 7:40PM MDT by NWS Che
   42.0000, -104.2600
   42.3200, -104.2600
   42.3200, -103.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 18 at 7:39PM MDT by NWS Rapid City SD\nExpires: 2026-09-19 02:15 Z\nAt 739 PM MDT, Automated observations a line of strong thunderstorms extending from near Edgemont to 10 miles southwest of Ardmore, or extending from near Edgemont to 23 miles south of Edgemont, moving east at 30 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Automated observations.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Edgemont, Provo, Rumford, Ardmore, Cascade Falls and Cottonwood Springs Dam.\nGenerated: 2026-09-19 02:10:15 UTC"
-  43.0000, -103.9100
-  43.1600, -103.9300
-  43.3500, -104.0000
-  43.4800, -103.5200
-  43.4800, -103.5100
-  43.2200, -103.4800
-  43.0000, -103.4600
-  43.0000, -103.9100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 18 at 9:24PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-19 02:15 Z\nAt 924 PM EDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of Anderson, or near West Pelzer, moving south at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Anderson, Belton, Williamston, West Pelzer, Homeland Park, Honea Path, Piedmont, and Broadway Lake.\nGenerated: 2026-09-19 02:10:15 UTC"
-  34.4700, -82.6700
-  34.7100, -82.5000
-  34.6600, -82.3500
-  34.4200, -82.4100
-  34.3800, -82.4700
-  34.3600, -82.5600
-  34.4700, -82.6700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 18 at 9:10PM EDT by NWS Louisville KY\nExpires: 2026-09-19 02:15 Z\nAt 910 PM EDT, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles north of Frankfort to 7 miles west of Lebanon, or extending from 11 miles north of Frankfort to 29 miles northwest of Liberty, moving southeast at 25 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lexington, Georgetown, Frankfort, Liberty, Nicholasville, Danville, Lawrenceburg, Versailles, Harrodsburg and Lebanon.\nGenerated: 2026-09-19 02:10:15 UTC"
-  37.5900, -85.6600
-  37.9900, -85.1600
-  38.4300, -85.1000
-  38.3900, -84.9000
-  38.3600, -84.8700
-  38.3400, -84.7900
-  38.3600, -84.7300
-  38.3000, -84.4400
-  38.2800, -84.4400
-  38.2800, -84.3500
-  37.7000, -84.4600
-  37.2600, -85.0000
-  37.5900, -85.6600
 End:
