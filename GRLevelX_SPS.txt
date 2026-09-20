@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-20 04:25:21 UTC
+; Generated: 2026-09-20 04:30:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 19 at 11:21PM CDT by NWS Dodge City KS\nExpires: 2026-09-20 05:15 Z\nAt 1121 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles south of Trego Center to near Kinsley. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Lewis, Rozel, Alexander, Brownell, and Cedar Bluff around 1125 PM CDT. McCracken, Garfield, and Sanford around 1130 PM CDT. Nekoma around 1135 PM CDT. Belpre, Hargrave, and Frizell around 1140 PM CDT.  Other locations in the path of these storms include Rush Center, Ash Valley, Riga, Zook, Larned, Ellis, La Crosse, Liebenthal, Bison, Schoenchen, Timken, Yocemento and Antonino.\nGenerated: 2026-09-20 04:25:21 UTC"
+Line: 2,,"Special Weather Statement issued September 20 at 12:27AM EDT by NWS Wilmington OH\nExpires: 2026-09-20 05:00 Z\nAt 1227 AM EDT, a strong thunderstorm was located over Four Bridges, moving east at 30 mph.  HAZARD...Wind gusts up to 45 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mason, Lebanon, Sharonville, Monroe, Loveland, Blanchester, West Chester, Morrow, Kings Island, Olde West Chester, Four Bridges, Highpoint, Wetherington, Brecon, Sixteen Mile Stand, South Lebanon, Woodville, Maineville, Clarksville, and Harveysburg.  This includes the following Interstates... I-71 in Ohio between mile markers 19 and 47. I-75 in Ohio between mile markers 18 and 30.  If outdoors, consider seeking shelter inside a sturdy building.  To report hazardous weather conditions, go to our website at weather.gov/iln and submit your report via social media, when you can do so safely.\nGenerated: 2026-09-20 04:30:16 UTC"
+  39.4500, -84.4300
+  39.5200, -83.9100
+  39.2500, -83.9100
+  39.2500, -83.9900
+  39.2400, -83.9900
+  39.2900, -84.4400
+  39.4500, -84.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 19 at 11:21PM CDT by NWS Dodge City KS\nExpires: 2026-09-20 05:15 Z\nAt 1121 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles south of Trego Center to near Kinsley. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Lewis, Rozel, Alexander, Brownell, and Cedar Bluff around 1125 PM CDT. McCracken, Garfield, and Sanford around 1130 PM CDT. Nekoma around 1135 PM CDT. Belpre, Hargrave, and Frizell around 1140 PM CDT.  Other locations in the path of these storms include Rush Center, Ash Valley, Riga, Zook, Larned, Ellis, La Crosse, Liebenthal, Bison, Schoenchen, Timken, Yocemento and Antonino.\nGenerated: 2026-09-20 04:30:16 UTC"
   38.7900, -99.0400
   38.2600, -99.0300
   38.2600, -98.6600
@@ -21,7 +32,7 @@ Line: 2,,"Special Weather Statement issued September 19 at 11:21PM CDT by NWS Do
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 20 at 12:16AM EDT by NWS Columbia SC\nExpires: 2026-09-20 05:00 Z\nAt 1215 AM EDT, Doppler radar was tracking a strong thunderstorm over Newberry College, or over Newberry, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newberry, Prosperity, Newberry College, Newberry County Airport, Silverstreet, Stoney Hill, Newberry County Detention Center, US-176 and SC-34 Crossroads, Bush River Fire Station, Enoree Ranger District Office, and Kinards.  This includes Interstate 26 between mile markers 62 and 80.\nGenerated: 2026-09-20 04:25:21 UTC"
+Line: 2,,"Special Weather Statement issued September 20 at 12:16AM EDT by NWS Columbia SC\nExpires: 2026-09-20 05:00 Z\nAt 1215 AM EDT, Doppler radar was tracking a strong thunderstorm over Newberry College, or over Newberry, moving southwest at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Newberry, Prosperity, Newberry College, Newberry County Airport, Silverstreet, Stoney Hill, Newberry County Detention Center, US-176 and SC-34 Crossroads, Bush River Fire Station, Enoree Ranger District Office, and Kinards.  This includes Interstate 26 between mile markers 62 and 80.\nGenerated: 2026-09-20 04:30:16 UTC"
   34.3600, -81.3800
   34.1200, -81.6000
   34.2900, -81.8300
@@ -34,58 +45,11 @@ Line: 2,,"Special Weather Statement issued September 20 at 12:16AM EDT by NWS Co
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 20 at 12:11AM EDT by NWS Tallahassee FL\nExpires: 2026-09-20 04:45 Z\nAt 1210 AM EDT, Doppler radar was tracking a strong thunderstorm over Quincy, moving west at 15 mph. The TSC Gadsden Center weatherstem recently gusted to 32 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Quincy, Greensboro, Gretna, Rock Bluff, Littman, Douglas City, Juniper, Hosford, Santa Clara, Sycamore, Quincy Airport, Lowry, Wetumpka, Sawdust, and Roy.\nGenerated: 2026-09-20 04:25:21 UTC"
+Line: 2,,"Special Weather Statement issued September 20 at 12:11AM EDT by NWS Tallahassee FL\nExpires: 2026-09-20 04:45 Z\nAt 1210 AM EDT, Doppler radar was tracking a strong thunderstorm over Quincy, moving west at 15 mph. The TSC Gadsden Center weatherstem recently gusted to 32 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Quincy, Greensboro, Gretna, Rock Bluff, Littman, Douglas City, Juniper, Hosford, Santa Clara, Sycamore, Quincy Airport, Lowry, Wetumpka, Sawdust, and Roy.\nGenerated: 2026-09-20 04:30:16 UTC"
   30.6100, -84.5100
   30.4700, -84.5100
   30.3700, -84.8500
   30.5000, -84.9400
   30.6100, -84.9100
   30.6100, -84.5100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 19 at 10:58PM CDT by NWS Norman OK\nExpires: 2026-09-20 04:30 Z\nAt 1058 PM CDT, Doppler radar was tracking a strong thunderstorm over Mooreland, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Woodward, Mooreland, and Quinlan.\nGenerated: 2026-09-20 04:25:21 UTC"
-  36.6100, -98.9800
-  36.6000, -98.9600
-  36.5100, -98.9600
-  36.5000, -98.8800
-  36.2400, -98.9200
-  36.3400, -99.3600
-  36.6000, -99.3500
-  36.6000, -99.3000
-  36.6100, -99.2900
-  36.6600, -99.0300
-  36.6100, -98.9800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 19 at 10:53PM CDT by NWS Dodge City KS\nExpires: 2026-09-20 04:30 Z\nAt 1053 PM CDT, Doppler radar was tracking a strong thunderstorm near Spearville, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northeastern Ford, southeastern Hodgeman and west central Edwards Counties.\nGenerated: 2026-09-20 04:25:21 UTC"
-  37.8500, -99.8000
-  37.9500, -99.8500
-  38.0500, -99.5400
-  37.8400, -99.4500
-  37.8500, -99.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 19 at 10:45PM CDT by NWS Dodge City KS\nExpires: 2026-09-20 04:30 Z\nAt 1045 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Ness City, moving northeast at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Ness City around 1050 PM CDT.\nGenerated: 2026-09-20 04:25:21 UTC"
-  38.5400, -99.5900
-  38.5300, -99.5900
-  38.2600, -100.0000
-  38.3900, -100.2100
-  38.6900, -100.1500
-  38.5400, -99.5900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 19 at 11:42PM EDT by NWS Charleston WV\nExpires: 2026-09-20 04:30 Z\nAt 1142 PM EDT, Doppler radar was tracking a strong thunderstorm near Hocking Hills State Park, or 7 miles west of Lake Hope State Park, moving southeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Athens, Lake Hope State Park, Zaleski, and Creola.\nGenerated: 2026-09-20 04:25:21 UTC"
-  39.3500, -82.1400
-  39.3000, -82.0500
-  39.2000, -82.2800
-  39.2100, -82.3100
-  39.1900, -82.3200
-  39.3600, -82.6400
-  39.3700, -82.6400
-  39.3700, -82.5100
-  39.3500, -82.1400
 End:
