@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-20 05:55:12 UTC
+; Generated: 2026-09-20 06:00:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 20 at 1:38AM EDT by NWS Charleston WV\nExpires: 2026-09-20 06:45 Z\nAt 138 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Belmont to near Ravenswood to near Rutland. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Parkersburg, Marietta, Belpre, Ripley, Harrisville, Pomeroy, Elizabeth, Racine, Rutland, Forked Run State Park, Vienna, Ravenswood, New Haven, Pennsboro, Mason, Belmont, Sandyville, Mineralwells, Washington, and North Bend State Park.  This includes the following highways... Interstate 77 in West Virginia between mile markers 139 and 185. Route 50 in West Virginia between mile markers 1 and 45.\nGenerated: 2026-09-20 05:55:12 UTC"
+Line: 2,,"Special Weather Statement issued September 19 at 11:56PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-09-20 06:30 Z\nAt 1156 PM MDT, Doppler radar was tracking a strong thunderstorm 5 miles northeast of Far East El Paso, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... East El Paso, Far East El Paso, Loma Linda, Desert Haven, Hueco Tanks, Homestead Meadows, Hueco Mountain Wind Ranch, Butterfield, Hueco Mountain Estates, and Lake Way Estates.\nGenerated: 2026-09-20 06:00:16 UTC"
+  31.7800, -106.2800
+  31.9700, -106.1900
+  31.9000, -105.9100
+  31.6300, -106.0000
+  31.7800, -106.2800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 20 at 1:38AM EDT by NWS Charleston WV\nExpires: 2026-09-20 06:45 Z\nAt 138 AM EDT, Doppler radar was tracking strong thunderstorms along a line extending from near Belmont to near Ravenswood to near Rutland. Movement was southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Parkersburg, Marietta, Belpre, Ripley, Harrisville, Pomeroy, Elizabeth, Racine, Rutland, Forked Run State Park, Vienna, Ravenswood, New Haven, Pennsboro, Mason, Belmont, Sandyville, Mineralwells, Washington, and North Bend State Park.  This includes the following highways... Interstate 77 in West Virginia between mile markers 139 and 185. Route 50 in West Virginia between mile markers 1 and 45.\nGenerated: 2026-09-20 06:00:16 UTC"
   39.2800, -80.9000
   38.8400, -81.4100
   38.8200, -81.9800
@@ -15,25 +24,4 @@ Line: 2,,"Special Weather Statement issued September 20 at 1:38AM EDT by NWS Cha
   39.2200, -81.7300
   39.4300, -81.3700
   39.2800, -80.9000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 20 at 12:16AM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-20 06:00 Z\nAt 1214 AM CDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near Fluvanna to near Snyder to 7 miles southeast of J B Thomas Reservoir. Movement was northeast at 10 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Snyder, Colorado City, Fluvanna, Colorado City Airport, J B Thomas Reservoir, Inadale, Randalls Corner, Hermleigh, Winston Field, Cuthbert, Knapp, Buford, Dunn, and Ira.\nGenerated: 2026-09-20 05:55:12 UTC"
-  32.4000, -100.9000
-  32.4000, -101.1700
-  32.9600, -101.1700
-  32.9700, -101.0400
-  32.9600, -100.6600
-  32.5200, -100.6600
-  32.4000, -100.9000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 19 at 11:56PM CDT by NWS Quad Cities IA IL\nExpires: 2026-09-20 06:00 Z\nAt 1155 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from Donahue to near Columbus City. Movement was east at 35 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could cause minor tree limb damage and blow around unsecured objects.  Locations impacted include... Davenport, Moline, Rock Island, Bettendorf, Muscatine, East Moline, Kewanee, Aledo, Cambridge, Wapello, Silvis, Geneseo, Eldridge, Milan, Colona, Le Claire, Coal Valley, Galva, Prophetstown, and Hampton.  This includes the following highways... Interstate 74 in Iowa between mile markers 1 and 5. Interstate 80 in Iowa between mile markers 282 and 306. Interstate 80 in Illinois between mile markers 1 and 35. Interstate 74 in Illinois between mile markers 1 and 33. Interstate 88 between mile markers 1 and 22. Interstate 280 between mile markers 1 and 18.\nGenerated: 2026-09-20 05:55:12 UTC"
-  41.7000, -89.8700
-  41.1600, -89.8700
-  41.1500, -90.4200
-  41.1800, -91.4500
-  41.7400, -90.6800
-  41.7000, -89.8700
 End:
