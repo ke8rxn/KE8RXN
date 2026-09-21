@@ -3,9 +3,29 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-21 04:10:18 UTC
+; Generated: 2026-09-21 04:15:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 21 at 12:06AM EDT by NWS Charleston WV\nExpires: 2026-09-21 04:30 Z\nAt 1206 AM EDT, Doppler radar was tracking a strong thunderstorm near Mason, or near Pomeroy, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pomeroy, Racine, Ravenswood, New Haven, Mason, Middleport, Syracuse, Hartford City, Cheshire, Mount Alto, Lakin, Cottageville, and Letart.\nGenerated: 2026-09-21 04:10:18 UTC"
+Line: 2,,"Special Weather Statement issued September 20 at 11:10PM CDT by NWS Tulsa OK\nExpires: 2026-09-21 04:45 Z\nAt 1110 PM CDT, Doppler radar indicated strong thunderstorms along a line extending from 5 miles east of Forum to 3 miles south of Marble to 3 miles southeast of Witter. Movement was east at 30 mph.  HAZARD...Wind gusts 40 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Green Forest...                   Carrollton... Rudd...                           Pettigrew... Kingston...                       Witter... Marble...                         Osage... Rule...                           Boston... Dryfork...                        Red Star... Cabanal...                        Metalton... Weathers...                       Connor... Coin...                           Alabam... Delmar...\nGenerated: 2026-09-21 04:15:14 UTC"
+  36.1200, -93.4800
+  36.0800, -93.4800
+  36.0800, -93.4500
+  35.9700, -93.4500
+  35.9500, -93.4900
+  35.9300, -93.4900
+  35.9200, -93.5100
+  35.8800, -93.5100
+  35.8800, -93.5200
+  35.8100, -93.5200
+  35.8200, -93.7200
+  36.0700, -93.6600
+  36.2600, -93.7200
+  36.3700, -93.3000
+  36.1200, -93.3000
+  36.1200, -93.4800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 21 at 12:06AM EDT by NWS Charleston WV\nExpires: 2026-09-21 04:30 Z\nAt 1206 AM EDT, Doppler radar was tracking a strong thunderstorm near Mason, or near Pomeroy, moving southeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pomeroy, Racine, Ravenswood, New Haven, Mason, Middleport, Syracuse, Hartford City, Cheshire, Mount Alto, Lakin, Cottageville, and Letart.\nGenerated: 2026-09-21 04:15:14 UTC"
   38.9800, -81.7100
   38.7600, -81.8700
   38.9100, -82.1300
@@ -16,18 +36,4 @@ Line: 2,,"Special Weather Statement issued September 21 at 12:06AM EDT by NWS Ch
   39.0100, -82.1100
   39.0600, -82.1000
   38.9800, -81.7100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 20 at 11:40PM EDT by NWS Charleston WV\nExpires: 2026-09-21 04:15 Z\nAt 1140 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Albany to near Rutland to 9 miles northeast of Rio Grande. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Pomeroy, Albany, Racine, Rutland, New Haven, Mason, Tuppers Plains, Middleport, Chester, Syracuse, Hartford City, Cheshire, Lakin, Dyesville, Darwin, Harrisonville, Dexter, Kyger, and Carpenter.\nGenerated: 2026-09-21 04:10:18 UTC"
-  39.1000, -81.8100
-  38.9900, -81.8500
-  38.8500, -82.0400
-  38.9900, -82.3300
-  39.0600, -82.2500
-  39.1400, -82.2500
-  39.2100, -82.2700
-  39.2800, -82.2600
-  39.3000, -81.8800
-  39.1000, -81.8100
 End:
