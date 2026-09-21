@@ -3,9 +3,32 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-21 17:25:14 UTC
+; Generated: 2026-09-21 17:30:28 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 21 at 12:20PM CDT by NWS Birmingham AL\nExpires: 2026-09-21 17:45 Z\nAt 1220 PM CDT, Doppler radar was tracking a strong thunderstorm over Sylvan Springs, or near Hueytown. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bessemer, Hueytown, Fairfield, Pleasant Grove, Midfield, Adamsville, Brighton, Sylvan Springs, Mulga, Maytown, North Johns, Edgewater, Concord, McDonald Chapel, Dolomite, and Birmingport.  This includes Interstate 59 between mile markers 115 and 118.\nGenerated: 2026-09-21 17:25:14 UTC"
+Line: 2,,"Special Weather Statement issued September 21 at 1:27PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-21 18:00 Z\nAt 126 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles northeast of Waynesville, or near Canton, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Canton.\nGenerated: 2026-09-21 17:30:28 UTC"
+  35.5600, -82.8900
+  35.6100, -82.8200
+  35.5500, -82.7100
+  35.5000, -82.7600
+  35.4800, -82.8400
+  35.5600, -82.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 21 at 12:26PM CDT by NWS Shreveport LA\nExpires: 2026-09-21 18:00 Z\nAt 1226 PM CDT, Doppler radar was tracking an area of strong thunderstorms over Liberty City, or near Gladewater, moving southeast at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Longview, Kilgore, White Oak, Gladewater, Overton, Clarksville City, Liberty City, Lakeport, Winona, Union Grove, Warren City, Laird Hill and Rolling Meadows.\nGenerated: 2026-09-21 17:30:28 UTC"
+  32.5300, -95.1800
+  32.6300, -95.0100
+  32.4800, -94.7000
+  32.4200, -94.7000
+  32.4300, -94.6900
+  32.4300, -94.6800
+  32.2900, -94.8000
+  32.2900, -95.1400
+  32.5300, -95.1800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 21 at 12:20PM CDT by NWS Birmingham AL\nExpires: 2026-09-21 17:45 Z\nAt 1220 PM CDT, Doppler radar was tracking a strong thunderstorm over Sylvan Springs, or near Hueytown. This thunderstorm was nearly stationary.  HAZARD...Wind gusts up to 40 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Bessemer, Hueytown, Fairfield, Pleasant Grove, Midfield, Adamsville, Brighton, Sylvan Springs, Mulga, Maytown, North Johns, Edgewater, Concord, McDonald Chapel, Dolomite, and Birmingport.  This includes Interstate 59 between mile markers 115 and 118.\nGenerated: 2026-09-21 17:30:28 UTC"
   33.6100, -87.0100
   33.4700, -86.9100
   33.3200, -87.1000
@@ -19,7 +42,7 @@ Line: 2,,"Special Weather Statement issued September 21 at 12:20PM CDT by NWS Bi
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 21 at 1:18PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-21 17:45 Z\nAt 117 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Waynesville, or near Maggie Valley, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Maggie Valley, B.R. Parkway-Smoky Mountains To Balsam Gap, Smoky Mountains-Balsam Mountain, and Smoky Mountains-Cataloochee.\nGenerated: 2026-09-21 17:25:14 UTC"
+Line: 2,,"Special Weather Statement issued September 21 at 1:18PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-21 17:45 Z\nAt 117 PM EDT, Doppler radar was tracking a strong thunderstorm 8 miles northwest of Waynesville, or near Maggie Valley, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Maggie Valley, B.R. Parkway-Smoky Mountains To Balsam Gap, Smoky Mountains-Balsam Mountain, and Smoky Mountains-Cataloochee.\nGenerated: 2026-09-21 17:30:28 UTC"
   35.5500, -82.9900
   35.4800, -83.0500
   35.4600, -83.0900
@@ -36,45 +59,10 @@ Line: 2,,"Special Weather Statement issued September 21 at 1:18PM EDT by NWS Gre
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 21 at 12:11PM CDT by NWS Fort Worth TX\nExpires: 2026-09-21 17:45 Z\nAt 1211 PM CDT, Doppler radar was tracking a strong thunderstorm over Trinidad Lake, or 14 miles south of Gun Barrel City, moving southeast at 10 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Trinidad and Trinidad Lake around 1215 PM CDT.  Other locations impacted by this storm include Goodlow, Cayuga, Mankin, Cross Roads, Log Cabin, and Star Harbor.\nGenerated: 2026-09-21 17:25:14 UTC"
+Line: 2,,"Special Weather Statement issued September 21 at 12:11PM CDT by NWS Fort Worth TX\nExpires: 2026-09-21 17:45 Z\nAt 1211 PM CDT, Doppler radar was tracking a strong thunderstorm over Trinidad Lake, or 14 miles south of Gun Barrel City, moving southeast at 10 mph.  HAZARD...Winds in excess of 30 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  This strong thunderstorm will be near... Trinidad and Trinidad Lake around 1215 PM CDT.  Other locations impacted by this storm include Goodlow, Cayuga, Mankin, Cross Roads, Log Cabin, and Star Harbor.\nGenerated: 2026-09-21 17:30:28 UTC"
   32.1100, -96.2600
   32.2600, -96.0700
   32.0700, -95.7800
   31.8600, -96.0600
   32.1100, -96.2600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 21 at 1:03PM EDT by NWS Greenville-Spartanburg SC\nExpires: 2026-09-21 17:30 Z\nAt 103 PM EDT, Doppler radar was tracking a strong thunderstorm 11 miles northwest of Waynesville, or near Smoky Mountains-Balsam Mountain, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.  Locations impacted include... Smoky Mountains-Balsam Mountain and Smoky Mountains-Cataloochee.\nGenerated: 2026-09-21 17:25:14 UTC"
-  35.5900, -83.2300
-  35.6300, -83.2000
-  35.6500, -83.1600
-  35.5800, -83.0200
-  35.5100, -83.1600
-  35.5900, -83.2300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 21 at 12:56PM EDT by NWS Blacksburg VA\nExpires: 2026-09-21 17:30 Z\nAt 1256 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Meadow Bluff to near Wolfcreek to Bozoo. Movement was east at 25 to 30 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lewisburg... Pearisburg... White Sulphur Springs... Narrows... Ronceverte... Alderson... and Rupert.\nGenerated: 2026-09-21 17:25:14 UTC"
-  38.2600, -80.4300
-  38.2200, -80.3600
-  38.1100, -80.3600
-  38.0500, -80.2700
-  37.9200, -80.2000
-  37.7800, -80.2300
-  37.6900, -80.3000
-  37.6600, -80.2800
-  37.6200, -80.2200
-  37.5600, -80.3300
-  37.5300, -80.3200
-  37.5300, -80.2800
-  37.5000, -80.3100
-  37.4200, -80.4700
-  37.4300, -80.4900
-  37.3800, -80.5500
-  37.3100, -80.8300
-  37.4100, -81.0000
-  37.6100, -80.7600
-  37.9700, -80.7600
-  38.2600, -80.4300
 End:
