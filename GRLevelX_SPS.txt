@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-22 18:25:19 UTC
+; Generated: 2026-09-22 18:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 22 at 1:09PM CDT by NWS Huntsville AL\nExpires: 2026-09-22 18:45 Z\nAt 109 PM CDT, Doppler radar was tracking a strong thunderstorm near Lexington, or 16 miles northeast of Florence, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rogersville, Killen, Lexington, Anderson, Lester, Green Hill, Good Springs, Center Star, Kingtown, and Oliver.\nGenerated: 2026-09-22 18:25:19 UTC"
+Line: 2,,"Special Weather Statement issued September 22 at 1:29PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-22 19:00 Z\nAt 129 PM CDT, Doppler radar was tracking a strong thunderstorm 13 miles north of Fort Stockton, moving northwest at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Imperial Reservoir.\nGenerated: 2026-09-22 18:30:17 UTC"
+  31.1900, -103.1000
+  31.2900, -102.8600
+  31.2900, -102.8500
+  31.2800, -102.8300
+  31.0400, -102.7300
+  30.9900, -102.8800
+  31.1900, -103.1000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 22 at 1:25PM CDT by NWS Tallahassee FL\nExpires: 2026-09-22 19:00 Z\nAt 125 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Fort Rucker, moving south at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Daleville, Enterprise, Fort Rucker, Ozark, Level Plains, New Brockton, Clayhatchee, Mixons Crossroads, Hooper Stage Field, Lucile, Gerald, Turner Crossroads, Central City, Clintonville, Goodman, Cairns Aaf, Marley Hill, Camp Alaflo Bsa, Clowers Crossroads, and Enterprise Municipal A/P.\nGenerated: 2026-09-22 18:30:17 UTC"
+  31.6100, -85.8900
+  31.5500, -85.6600
+  31.2400, -85.6900
+  31.2100, -85.6900
+  31.2000, -85.7100
+  31.1900, -86.0900
+  31.6100, -85.8900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 22 at 1:09PM CDT by NWS Huntsville AL\nExpires: 2026-09-22 18:45 Z\nAt 109 PM CDT, Doppler radar was tracking a strong thunderstorm near Lexington, or 16 miles northeast of Florence, moving east at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Rogersville, Killen, Lexington, Anderson, Lester, Green Hill, Good Springs, Center Star, Kingtown, and Oliver.\nGenerated: 2026-09-22 18:30:17 UTC"
   35.0000, -87.1300
   34.7600, -87.2200
   34.7500, -87.2700
@@ -18,7 +40,7 @@ Line: 2,,"Special Weather Statement issued September 22 at 1:09PM CDT by NWS Hun
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 22 at 1:57PM AST by NWS San Juan PR\nExpires: 2026-09-22 19:15 Z\nAt 157 PM AST, Doppler radar was tracking an area of strong thunderstorms near Ciales, near stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jayuya, Adjuntas, Utuado, Florida, Lares, Ciales, San Sebastian, Morovis, Orocovis, Rafael Capo, Maricao, Cayuco, Quebrada and Juncal.\nGenerated: 2026-09-22 18:25:19 UTC"
+Line: 2,,"Special Weather Statement issued September 22 at 1:57PM AST by NWS San Juan PR\nExpires: 2026-09-22 19:15 Z\nAt 157 PM AST, Doppler radar was tracking an area of strong thunderstorms near Ciales, near stationary.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jayuya, Adjuntas, Utuado, Florida, Lares, Ciales, San Sebastian, Morovis, Orocovis, Rafael Capo, Maricao, Cayuco, Quebrada and Juncal.\nGenerated: 2026-09-22 18:30:17 UTC"
   18.4400, -67.0200
   18.3800, -66.5900
   18.3200, -66.3500
@@ -30,14 +52,4 @@ Line: 2,,"Special Weather Statement issued September 22 at 1:57PM AST by NWS San
   18.1700, -66.8300
   18.1600, -67.0100
   18.4400, -67.0200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 22 at 11:53AM MDT by NWS Pueblo CO\nExpires: 2026-09-22 18:30 Z\nAt 1153 AM MDT, Doppler radar was tracking a strong thunderstorm near Gulnare, or 22 miles northwest of Trinidad, moving northeast at 15 mph.  HAZARD...Heavy rain, wind gusts 40 to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Aguilar.\nGenerated: 2026-09-22 18:25:19 UTC"
-  37.3200, -104.8300
-  37.4300, -104.9000
-  37.5800, -104.6800
-  37.4700, -104.5700
-  37.3700, -104.6000
-  37.3200, -104.8300
 End:
