@@ -3,12 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-23 21:25:15 UTC
+; Generated: 2026-09-23 21:30:27 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 23 at 4:38PM EDT by NWS Morristown TN\nExpires: 2026-09-23 21:30 Z\nAt 438 PM EDT, Doppler radar was tracking a strong thunderstorm near Lakesite, or 11 miles west of Cleveland, moving southeast at 15 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Cleveland, Lakesite, Harrison, South Cleveland, Collegedale, McDonald, Hopewell, Harrison Bay State Park, Middle Valley, and Apison.\nGenerated: 2026-09-23 21:25:15 UTC"
-  35.1600, -85.1800
-  35.2800, -85.0900
-  35.2300, -84.8500
-  35.0400, -85.0000
-  35.1600, -85.1800
+Line: 2,,"Special Weather Statement issued September 23 at 5:29PM EDT by NWS Jackson KY\nExpires: 2026-09-23 22:15 Z\nAt 529 PM EDT, Doppler radar was tracking a strong thunderstorm over Lancer, or over Prestonsburg, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Prestonsburg, Martin, Allen, Endicott, Oaklawn Estates, East Point, Wells Chapel, Lancer, Arkansas, Meally, West Van Lear, Dotson, Ivel, Williamsport, Blue River, Buffalo, Auxier, Odds, Dicks Creek, and Cliff.\nGenerated: 2026-09-23 21:30:27 UTC"
+  37.5300, -82.7200
+  37.6800, -82.9300
+  37.8700, -82.6800
+  37.6800, -82.4800
+  37.5300, -82.7200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 23 at 5:27PM EDT by NWS Peachtree City GA\nExpires: 2026-09-23 22:00 Z\nAt 527 PM EDT, a strong thunderstorm was near Coosa, or near Rome, moving southeast at 20 mph.  HAZARD...Up to 40 mph wind, frequent cloud to ground lightning and heavy rain.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects. Heavy rain may cause temporary street flooding especially in poor drainage areas.  Locations impacted include... Rome, Cedartown, Lindale, Coosa, and Holland.\nGenerated: 2026-09-23 21:30:27 UTC"
+  34.2700, -85.4300
+  34.3700, -85.3700
+  34.3500, -85.2200
+  34.1900, -84.9800
+  34.0200, -85.2300
+  34.2700, -85.4300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 23 at 3:25PM MDT by NWS Cheyenne WY\nExpires: 2026-09-23 22:00 Z\nAt 325 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Gun Barrel, or 28 miles northeast of Cheyenne, moving north at 10 mph.  HAZARD...Wind gusts up to 40 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of southern Goshen and north central Laramie Counties.\nGenerated: 2026-09-23 21:30:27 UTC"
+  41.4700, -104.5100
+  41.4800, -104.5900
+  41.6000, -104.6000
+  41.6000, -104.4500
+  41.4700, -104.5100
 End:
