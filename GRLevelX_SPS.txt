@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-23 22:10:15 UTC
+; Generated: 2026-09-23 22:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 23 at 6:08PM EDT by NWS Morristown TN\nExpires: 2026-09-23 22:45 Z\nAt 608 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles west of Sneedville, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Evanston.\nGenerated: 2026-09-23 22:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 23 at 5:10PM CDT by NWS Norman OK\nExpires: 2026-09-23 22:45 Z\nAt 510 PM CDT, Doppler radar was tracking a strong thunderstorm near Frederick, moving northwest at 25 mph.  HAZARD...Wind gusts of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Frederick, Tipton, Manitou, Headrick, and Humphreys.\nGenerated: 2026-09-23 22:15:16 UTC"
+  34.4000, -98.8700
+  34.3100, -99.0500
+  34.5600, -99.3300
+  34.7100, -99.0600
+  34.4000, -98.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 23 at 6:08PM EDT by NWS Morristown TN\nExpires: 2026-09-23 22:45 Z\nAt 608 PM EDT, Doppler radar was tracking a strong thunderstorm 9 miles west of Sneedville, moving southeast at 10 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Evanston.\nGenerated: 2026-09-23 22:15:16 UTC"
   36.5500, -83.2300
   36.4500, -83.3600
   36.5300, -83.4000
@@ -16,7 +25,7 @@ Line: 2,,"Special Weather Statement issued September 23 at 6:08PM EDT by NWS Mor
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 23 at 6:04PM EDT by NWS Jackson KY\nExpires: 2026-09-23 22:45 Z\nAt 604 PM EDT, Doppler radar was tracking a strong thunderstorm over Davisport, or near Inez, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paintsville, Prestonsburg, Inez, Warfield, Add, Pilgrim, Oaklawn Estates, Fitz, Davella, Whitehouse, Meally, Prince, Collista, West Van Lear, Williamsport, Offutt, Milo, Lovely, Job, and Buffalo.\nGenerated: 2026-09-23 22:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 23 at 6:04PM EDT by NWS Jackson KY\nExpires: 2026-09-23 22:45 Z\nAt 604 PM EDT, Doppler radar was tracking a strong thunderstorm over Davisport, or near Inez, moving northeast at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Paintsville, Prestonsburg, Inez, Warfield, Add, Pilgrim, Oaklawn Estates, Fitz, Davella, Whitehouse, Meally, Prince, Collista, West Van Lear, Williamsport, Offutt, Milo, Lovely, Job, and Buffalo.\nGenerated: 2026-09-23 22:15:16 UTC"
   37.7200, -82.4100
   37.6900, -82.3800
   37.6700, -82.4000
@@ -36,35 +45,4 @@ Line: 2,,"Special Weather Statement issued September 23 at 6:04PM EDT by NWS Jac
   37.8100, -82.4000
   37.7600, -82.3100
   37.7200, -82.4100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 23 at 3:47PM MDT by NWS Albuquerque NM\nExpires: 2026-09-23 22:15 Z\nAt 347 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Melrose, or 24 miles northwest of Clovis, moving north at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ragland, Forrest and Mcalister.\nGenerated: 2026-09-23 22:10:15 UTC"
-  34.6000, -103.7500
-  34.9100, -103.8700
-  34.9400, -103.4000
-  34.5000, -103.4100
-  34.4600, -103.6900
-  34.5800, -103.7400
-  34.6000, -103.7400
-  34.6000, -103.7500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 23 at 5:41PM EDT by NWS Peachtree City GA\nExpires: 2026-09-23 22:15 Z\nAt 541 PM EDT, a strong thunderstorm was near Apison, or near Ringgold, moving southeast at 20 mph.  HAZARD...40 to 50 mph wind, up to penny sized hail and frequent cloud to ground lightning.  SOURCE...Radar indicated.  IMPACT...Expect minor damage to tree limbs and blowing around of light, unsecured objects.  Locations impacted include... Dalton, Ringgold, Varnell, Tunnel Hill, Cohutta, Crandall, Mill Creek, Beaverdale, Dawnville, Sumac, and Rocky Face.\nGenerated: 2026-09-23 22:10:15 UTC"
-  34.9900, -84.8900
-  34.8600, -84.7300
-  34.6700, -85.0200
-  34.9400, -85.1500
-  34.9900, -85.1300
-  34.9900, -84.8900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 23 at 5:29PM EDT by NWS Jackson KY\nExpires: 2026-09-23 22:15 Z\nAt 529 PM EDT, Doppler radar was tracking a strong thunderstorm over Lancer, or over Prestonsburg, moving northeast at 10 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Prestonsburg, Martin, Allen, Endicott, Oaklawn Estates, East Point, Wells Chapel, Lancer, Arkansas, Meally, West Van Lear, Dotson, Ivel, Williamsport, Blue River, Buffalo, Auxier, Odds, Dicks Creek, and Cliff.\nGenerated: 2026-09-23 22:10:15 UTC"
-  37.5300, -82.7200
-  37.6800, -82.9300
-  37.8700, -82.6800
-  37.6800, -82.4800
-  37.5300, -82.7200
 End:
