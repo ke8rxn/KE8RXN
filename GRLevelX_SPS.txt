@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-24 19:55:15 UTC
+; Generated: 2026-09-24 20:00:24 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 24 at 2:40PM CDT by NWS Amarillo TX\nExpires: 2026-09-24 20:15 Z\nAt 240 PM CDT, Doppler radar was tracking a strong thunderstorm over Higgins, or 13 miles southeast of Lipscomb, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Higgins.\nGenerated: 2026-09-24 19:55:15 UTC"
+Line: 2,,"Special Weather Statement issued September 24 at 2:56PM CDT by NWS Dodge City KS\nExpires: 2026-09-24 20:30 Z\nAt 255 PM CDT, Doppler radar was tracking a strong thunderstorm near Buttermilk, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Coldwater and Lake Coldwater around 300 PM CDT.\nGenerated: 2026-09-24 20:00:24 UTC"
+  37.1000, -99.3400
+  37.1300, -99.4300
+  37.3200, -99.4100
+  37.2700, -99.1200
+  37.1000, -99.3400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 24 at 2:40PM CDT by NWS Amarillo TX\nExpires: 2026-09-24 20:15 Z\nAt 240 PM CDT, Doppler radar was tracking a strong thunderstorm over Higgins, or 13 miles southeast of Lipscomb, moving east at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Higgins.\nGenerated: 2026-09-24 20:00:24 UTC"
   36.0500, -100.1100
   36.0600, -100.1200
   36.0700, -100.1200
