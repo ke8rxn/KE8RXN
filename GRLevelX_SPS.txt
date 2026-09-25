@@ -3,13 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-25 00:55:16 UTC
+; Generated: 2026-09-25 01:00:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 24 at 7:36PM CDT by NWS Amarillo TX\nExpires: 2026-09-25 01:00 Z\nAt 736 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles southeast of Claude, moving north at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Claude, Groom, and Goodnight.  This includes Interstate 40 between mile markers 95 and 113.\nGenerated: 2026-09-25 00:55:16 UTC"
-  34.9900, -101.4400
-  35.2800, -101.4100
-  35.2200, -101.0900
-  35.1700, -101.0900
-  34.9500, -101.2200
-  34.9900, -101.4400
+Line: 2,,"Special Weather Statement issued September 24 at 5:59PM MST by NWS Phoenix AZ\nExpires: 2026-09-25 01:30 Z\nAt 559 PM MST, Doppler radar was tracking a strong thunderstorm near Four Peaks, or 6 miles southeast of Ballantine Trailhead, moving west at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Round Valley, Sunflower, Sycamore Creek, Punkin Center, Tonto Basin, Four Peaks, Rio Verde and Fort McDowell.\nGenerated: 2026-09-25 01:00:20 UTC"
+  33.6500, -111.7400
+  34.0000, -111.5500
+  34.0000, -111.5000
+  34.0100, -111.5000
+  34.0100, -111.4300
+  33.9700, -111.4100
+  33.9000, -111.2600
+  33.8400, -111.2000
+  33.7300, -111.1700
+  33.6100, -111.3600
+  33.6300, -111.7500
+  33.6500, -111.7400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 24 at 7:59PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-25 01:45 Z\nAt 759 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Lajitas, moving north at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Lajitas, Terlingua, Study Butte, and Barton Warnock Environmental Educational Center.\nGenerated: 2026-09-25 01:00:20 UTC"
+  29.1900, -103.7100
+  29.1800, -103.7200
+  29.2300, -103.7600
+  29.2200, -103.7800
+  29.2700, -103.7900
+  29.2600, -103.8000
+  29.2700, -103.8100
+  29.2700, -103.8300
+  29.2800, -103.8400
+  29.3000, -103.9700
+  29.3400, -104.0800
+  29.3700, -104.1000
+  29.6300, -104.0000
+  29.5500, -103.5000
+  29.1600, -103.6400
+  29.1900, -103.7100
 End:
