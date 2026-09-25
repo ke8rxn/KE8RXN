@@ -3,12 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-24 23:55:15 UTC
+; Generated: 2026-09-25 00:00:25 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 24 at 6:25PM CDT by NWS Amarillo TX\nExpires: 2026-09-25 00:00 Z\nAt 625 PM CDT, Doppler radar was tracking a strong thunderstorm 4 miles north of Black, or 10 miles northeast of Friona, moving northeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hereford.\nGenerated: 2026-09-24 23:55:15 UTC"
-  34.7500, -102.7000
-  34.8100, -102.7500
-  34.9800, -102.4900
-  34.7500, -102.2800
-  34.7500, -102.7000
+Line: 2,,"Special Weather Statement issued September 24 at 7:00PM CDT by NWS Amarillo TX\nExpires: 2026-09-25 00:30 Z\nAt 659 PM CDT, Doppler radar was tracking a strong thunderstorm 11 miles southwest of Goodnight, or 14 miles south of Claude, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Groom, Lake Mcclellan, and Goodnight.  This includes Interstate 40 between mile markers 103 and 132.\nGenerated: 2026-09-25 00:00:25 UTC"
+  35.2900, -101.2500
+  35.2300, -100.7600
+  34.7500, -101.1700
+  34.7500, -101.4600
+  35.2900, -101.2500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 24 at 4:59PM MST by NWS Phoenix AZ\nExpires: 2026-09-25 00:45 Z\nAt 459 PM MST, Doppler radar was tracking a strong thunderstorm 8 miles north of Queen Valley, or 11 miles east of Gold Canyon, moving west at 20 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Apache Junction, Gold Canyon, Queen Creek, Superstition Mountains, Lost Dutchman State Park, Goldfield, Canyon Lake, Queen Valley, Saguaro Lake, and Tortilla Flat.\nGenerated: 2026-09-25 00:00:25 UTC"
+  33.3200, -111.6700
+  33.4900, -111.6700
+  33.6500, -111.5000
+  33.4500, -111.1100
+  33.2600, -111.2000
+  33.2500, -111.6700
+  33.3200, -111.6700
 End:
