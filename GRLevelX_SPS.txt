@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-09-29 23:50:17 UTC
+; Generated: 2026-09-29 23:55:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 29 at 6:15PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-30 00:00 Z\nAt 615 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Alpine, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Brewster County.\nGenerated: 2026-09-29 23:50:17 UTC"
+Line: 2,,"Special Weather Statement issued September 29 at 5:50PM MDT by NWS El Paso Tx/Santa Teresa NM\nExpires: 2026-09-30 00:15 Z\nAt 549 PM MDT, Doppler radar was tracking a strong thunderstorm 11 miles north of Road Forks, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Lordsburg, Lordsburg Playa, and Shakespeare.  This includes Interstate 10 in New Mexico between mile markers 9 and 29.\nGenerated: 2026-09-29 23:55:15 UTC"
+  32.6200, -109.0300
+  32.5800, -108.6100
+  32.2600, -108.6000
+  32.2600, -109.0500
+  32.6200, -109.0300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 29 at 6:15PM CDT by NWS Midland/Odessa TX\nExpires: 2026-09-30 00:00 Z\nAt 615 PM CDT, Doppler radar was tracking a strong thunderstorm 12 miles south of Alpine, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This storm will remain over mainly rural areas of northwestern Brewster County.\nGenerated: 2026-09-29 23:55:15 UTC"
   30.1100, -103.5900
   30.1900, -103.7200
   30.5100, -103.4900
