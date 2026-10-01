@@ -3,9 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-01 03:10:15 UTC
+; Generated: 2026-10-01 03:15:25 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 30 at 9:58PM CDT by NWS Topeka KS\nExpires: 2026-10-01 03:45 Z\nAt 957 PM CDT, Doppler radar was tracking a strong thunderstorm near Concordia, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations impacted include... Concordia and Clyde.\nGenerated: 2026-10-01 03:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 30 at 10:14PM CDT by NWS Fort Worth TX\nExpires: 2026-10-01 03:45 Z\nAt 1013 PM CDT, Doppler radar was tracking a strong thunderstorm near Bowie, moving northeast at 30 mph.  HAZARD...Winds in excess of 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Montague County, including the following locations... Bonita, Capps Corner, Montague, Mallard, and Nocona Hills.\nGenerated: 2026-10-01 03:15:25 UTC"
+  33.9300, -97.6000
+  33.9200, -97.6000
+  33.9000, -97.5800
+  33.9000, -97.5700
+  33.8400, -97.4800
+  33.6500, -97.4900
+  33.4700, -97.7500
+  33.6300, -97.8800
+  33.9300, -97.6000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 30 at 10:14PM CDT by NWS San Angelo TX\nExpires: 2026-10-01 04:00 Z\nAt 1013 PM CDT, Doppler radar was tracking a strong thunderstorm near Hobbs, moving northeast at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hamlin, Rotan, Roby, Sylvester, Hobbs, Longworth, Mccaulley, Hitson, Gannon, Busby, and Capitola.\nGenerated: 2026-10-01 03:15:25 UTC"
+  32.9600, -100.1400
+  32.7100, -100.1400
+  32.7100, -100.1500
+  32.7000, -100.1400
+  32.6600, -100.1400
+  32.6600, -100.1500
+  32.6300, -100.1400
+  32.6300, -100.1500
+  32.5300, -100.1500
+  32.5300, -100.6600
+  32.6100, -100.6600
+  32.9600, -100.6400
+  32.9600, -100.1400
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued September 30 at 9:58PM CDT by NWS Topeka KS\nExpires: 2026-10-01 03:45 Z\nAt 957 PM CDT, Doppler radar was tracking a strong thunderstorm near Concordia, moving east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations impacted include... Concordia and Clyde.\nGenerated: 2026-10-01 03:15:25 UTC"
   39.6500, -97.7000
   39.6500, -97.3700
   39.4600, -97.3700
@@ -14,7 +44,7 @@ Line: 2,,"Special Weather Statement issued September 30 at 9:58PM CDT by NWS Top
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 30 at 9:49PM CDT by NWS San Angelo TX\nExpires: 2026-10-01 03:30 Z\nAt 948 PM CDT, Doppler radar was tracking a strong thunderstorm near Champion Creek Reservoir, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sweetwater, Roscoe, Maryneal, Champion, The Intersection Of Highway 70 And Ranch Road 53, Lake Sweetwater, The Intersection Of Ranch Road 608 And Highway 147, Camp Boothe Oaks, and I-20 Near The Nolan-Mitchell County Line.  This includes Interstate 20 between Mile Markers 229 and 251.\nGenerated: 2026-10-01 03:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 30 at 9:49PM CDT by NWS San Angelo TX\nExpires: 2026-10-01 03:30 Z\nAt 948 PM CDT, Doppler radar was tracking a strong thunderstorm near Champion Creek Reservoir, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sweetwater, Roscoe, Maryneal, Champion, The Intersection Of Highway 70 And Ranch Road 53, Lake Sweetwater, The Intersection Of Ranch Road 608 And Highway 147, Camp Boothe Oaks, and I-20 Near The Nolan-Mitchell County Line.  This includes Interstate 20 between Mile Markers 229 and 251.\nGenerated: 2026-10-01 03:15:25 UTC"
   32.1400, -100.2300
   32.1500, -100.6600
   32.4800, -100.6600
@@ -24,24 +54,7 @@ Line: 2,,"Special Weather Statement issued September 30 at 9:49PM CDT by NWS San
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 30 at 9:49PM CDT by NWS Norman OK\nExpires: 2026-10-01 03:15 Z\nAt 947 PM CDT, Doppler radar was tracking the leading edge of winds from strong thunderstorms along a line extending from 3 miles northwest of Duke to near Odell to 6 miles southeast of Medicine Mound. Movement was east at 40 mph. Winds of 50 mph were measured near Gould. Strong winds can occur before the storms themselves move in.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Altus, Vernon, Quanah, Tipton, Blair, Chillicothe, Olustee, Eldorado, Martha, Gould, Elmer, Headrick, Friendship, Altus Air Force Base, Margaret, Warren, Lockett, Medicine Mound, Fargo, and Humphreys.\nGenerated: 2026-10-01 03:10:15 UTC"
-  34.7500, -99.7800
-  34.8600, -99.3000
-  34.8500, -99.3000
-  34.8500, -99.2900
-  34.8400, -99.2800
-  34.8400, -99.2600
-  34.8200, -99.2400
-  34.8300, -99.2300
-  34.4800, -99.0400
-  34.1100, -99.1600
-  34.0300, -99.8000
-  34.3800, -99.8100
-  34.7500, -99.7800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued September 30 at 9:45PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-01 03:30 Z\nAt 945 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 20 miles southeast of Garden City to 20 miles north of Big Lake to 8 miles north of Reagan County Airport. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Stiles.\nGenerated: 2026-10-01 03:10:15 UTC"
+Line: 2,,"Special Weather Statement issued September 30 at 9:45PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-01 03:30 Z\nAt 945 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 20 miles southeast of Garden City to 20 miles north of Big Lake to 8 miles north of Reagan County Airport. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Stiles.\nGenerated: 2026-10-01 03:15:25 UTC"
   31.2800, -101.6500
   31.5500, -101.5800
   31.7600, -101.4000
