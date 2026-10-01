@@ -3,28 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-01 05:55:16 UTC
+; Generated: 2026-10-01 06:00:34 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 1 at 12:45AM CDT by NWS San Angelo TX\nExpires: 2026-10-01 06:30 Z\nAt 1244 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of I-10 Near The Sutton-Kimble County Line, or 14 miles southwest of Roosevelt, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Roosevelt, Telegraph, and I-10 Near The Sutton-Kimble County Line.  This includes Interstate 10 between Mile Markers 421 and 449.\nGenerated: 2026-10-01 05:55:16 UTC"
+Line: 2,,"Special Weather Statement issued October 1 at 12:58AM CDT by NWS Austin/San Antonio TX\nExpires: 2026-10-01 06:45 Z\nAt 1258 AM CDT, Doppler radar was tracking a strong thunderstorm near Loma Alta, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Loma Alta and Vinegarone.\nGenerated: 2026-10-01 06:00:34 UTC"
+  29.8000, -100.6900
+  29.9600, -100.8700
+  30.2300, -100.5700
+  30.0000, -100.2700
+  29.8000, -100.6900
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 1 at 12:56AM CDT by NWS San Angelo TX\nExpires: 2026-10-01 06:45 Z\nAt 1255 AM CDT, Doppler radar was tracking a strong thunderstorm 13 miles northeast of The Intersection Of I-10 And Highway 290, or 17 miles northwest of Ozona, moving east at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Us-190 Near The Crockett-Sutton County Line and The Intersection Of Us 190 And Highway 163.\nGenerated: 2026-10-01 06:00:34 UTC"
+  30.7100, -101.5000
+  31.0700, -101.5700
+  31.0800, -101.4600
+  31.0800, -101.2800
+  31.1000, -101.2700
+  31.1200, -100.9700
+  30.7600, -100.9300
+  30.7100, -101.5000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 1 at 12:45AM CDT by NWS San Angelo TX\nExpires: 2026-10-01 06:30 Z\nAt 1244 AM CDT, Doppler radar was tracking a strong thunderstorm 10 miles southwest of I-10 Near The Sutton-Kimble County Line, or 14 miles southwest of Roosevelt, moving east at 20 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Roosevelt, Telegraph, and I-10 Near The Sutton-Kimble County Line.  This includes Interstate 10 between Mile Markers 421 and 449.\nGenerated: 2026-10-01 06:00:34 UTC"
   30.4600, -100.3800
   30.6100, -99.9000
   30.3000, -99.7900
   30.2900, -100.0500
   30.2900, -100.3300
   30.4600, -100.3800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 1 at 12:09AM CDT by NWS San Angelo TX\nExpires: 2026-10-01 06:00 Z\nAt 1209 AM CDT, Doppler radar was tracking a strong thunderstorm near I-10 Near The Crockett-Pecos County Line, or 7 miles northeast of Sheffield, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... The Intersection Of I-10 And Highway 290 and I-10 Near The Crockett-Pecos County Line.  This includes Interstate 10 between Mile Markers 327 and 347.\nGenerated: 2026-10-01 05:55:16 UTC"
-  30.7000, -101.8100
-  30.7500, -101.8200
-  30.7700, -101.8400
-  30.8100, -101.8300
-  30.8600, -101.8500
-  30.9000, -101.8900
-  30.9200, -101.8800
-  31.0600, -101.2300
-  30.7200, -101.1800
-  30.6800, -101.7800
-  30.7000, -101.8100
 End:
