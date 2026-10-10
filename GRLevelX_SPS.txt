@@ -3,9 +3,20 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-10 22:10:14 UTC
+; Generated: 2026-10-10 22:15:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 5:45PM AST by NWS San Juan PR\nExpires: 2026-10-10 22:30 Z\nAt 545 PM AST, Doppler radar was tracking a strong thunderstorm over Maunabo, moving west at 20 mph.  HAZARD...Wind gusts up to 40 mph. Funnel clouds are possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Guayama, San Lorenzo, Patillas, Yabucoa, Maunabo, Las Piedras, Juncos, Arroyo, Humacao, Cayey, Emajagua, Playita, Martorell, Palmas, Buena Vista, Corazon, La Fermina, Olimpo, Anton Ruiz and Jobos.\nGenerated: 2026-10-10 22:10:14 UTC"
+Line: 2,,"Special Weather Statement issued October 10 at 4:10PM MDT by NWS North Platte NE\nExpires: 2026-10-10 23:00 Z\nAt 410 PM MDT, Doppler radar was tracking gusty showers 16 miles north of Ellsworth, or 31 miles southeast of Rushville, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Watson Lake, Big Hill, Dipping Vat Meadow, Billys Lake, Wolf Hill, Morgan Lake, Finnegan Lake, Kennedy Lake, Intersection of Highway 61 and Survey Valley Road, and Argo Hill.  This includes the following highways... Highway 250 between mile markers 16 and 19. Highway 61 between mile markers 178 and 191.\nGenerated: 2026-10-10 22:15:15 UTC"
+  42.0700, -102.0700
+  42.0600, -102.2000
+  42.2900, -102.4600
+  42.6300, -102.0900
+  42.3600, -101.5100
+  42.1000, -102.0100
+  42.0700, -102.0700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 10 at 5:45PM AST by NWS San Juan PR\nExpires: 2026-10-10 22:30 Z\nAt 545 PM AST, Doppler radar was tracking a strong thunderstorm over Maunabo, moving west at 20 mph.  HAZARD...Wind gusts up to 40 mph. Funnel clouds are possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Guayama, San Lorenzo, Patillas, Yabucoa, Maunabo, Las Piedras, Juncos, Arroyo, Humacao, Cayey, Emajagua, Playita, Martorell, Palmas, Buena Vista, Corazon, La Fermina, Olimpo, Anton Ruiz and Jobos.\nGenerated: 2026-10-10 22:15:15 UTC"
   18.0600, -65.8000
   18.0500, -65.8400
   18.0100, -65.8300
