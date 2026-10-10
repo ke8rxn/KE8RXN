@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-10 21:10:19 UTC
+; Generated: 2026-10-10 21:20:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 4:52PM EDT by NWS Melbourne FL\nExpires: 2026-10-10 21:30 Z\nAt 452 PM EDT, Doppler radar was tracking a strong thunderstorm over Edgewater, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Orange, New Smyrna Beach, Edgewater, South Daytona, and Daytona Beach Shores.\nGenerated: 2026-10-10 21:10:19 UTC"
+Line: 2,,"Special Weather Statement issued October 10 at 3:17PM MDT by NWS Riverton WY\nExpires: 2026-10-10 22:00 Z\nAt 316 PM MDT, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from 7 miles north of Dickinson Park to 11 miles east of South Pass City. Movement was northeast at 55 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Lander, Red Canyon, Milford, and Sinks Canyon State Park around 320 PM MDT. Fort Washakie around 325 PM MDT. Ethete and Hudson around 330 PM MDT.  Other locations in the path of these storms include Arapahoe, Kinnear, Morton, Pilot Butte Reservoir, Riverton, Pavillion and Ocean Lake.\nGenerated: 2026-10-10 21:20:16 UTC"
+  42.4200, -108.5800
+  42.4800, -108.6500
+  42.5000, -108.6300
+  42.5200, -108.6600
+  42.5300, -108.6900
+  42.9500, -109.1400
+  43.3800, -108.6600
+  42.7300, -107.9600
+  42.4200, -108.5800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 10 at 3:15PM MDT by NWS Salt Lake City UT\nExpires: 2026-10-10 21:45 Z\nAt 315 PM MDT, Doppler radar was tracking a strong thunderstorm over Holladay, or 5 miles east of Murray, moving northeast at 20 mph. Pea size hail has been observed with this storm.  HAZARD...Wind gusts of 50 to 55 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Salt Lake City, Murray, Taylorsville, Cottonwood Heights, Holladay, South Salt Lake, Summit Park, Mill Creek Canyon, Emigration Canyon, Mount Olympus, Canyon Rim, East Millcreek, Big Cottonwood Canyon, Millcreek, Cottonwood West, Little Cottonwood Canyon, North Snyderville Basin and Parleys Summit.  This includes the following highways... Interstate 80 in Utah between mile markers 124 and 143. Interstate 15 between mile markers 300 and 303.\nGenerated: 2026-10-10 21:20:16 UTC"
+  40.6600, -111.9300
+  40.9100, -111.7600
+  40.7900, -111.5000
+  40.5600, -111.7300
+  40.6600, -111.9300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 10 at 4:52PM EDT by NWS Melbourne FL\nExpires: 2026-10-10 21:30 Z\nAt 452 PM EDT, Doppler radar was tracking a strong thunderstorm over Edgewater, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Port Orange, New Smyrna Beach, Edgewater, South Daytona, and Daytona Beach Shores.\nGenerated: 2026-10-10 21:20:16 UTC"
   29.2000, -80.9500
   29.0900, -80.9000
   28.9700, -80.8100
@@ -16,20 +38,11 @@ Line: 2,,"Special Weather Statement issued October 10 at 4:52PM EDT by NWS Melbo
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 1:41PM PDT by NWS San Diego CA\nExpires: 2026-10-10 21:30 Z\nAt 140 PM PDT, Doppler radar was tracking showers along a line extending from near Valle Vista to Temescal Valley. Movement was north at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Riverside, San Bernardino, Fontana, Moreno Valley, Ontario, Temecula, Rialto, Redlands, Lake Elsinore, Yucaipa, Hemet, Hwy 243 Between Banning And Idyllwild, Rancho Cucamonga, Murrieta, Perris, Highland, Colton, San Jacinto, Beaumont, and Banning.\nGenerated: 2026-10-10 21:10:19 UTC"
+Line: 2,,"Special Weather Statement issued October 10 at 1:41PM PDT by NWS San Diego CA\nExpires: 2026-10-10 21:30 Z\nAt 140 PM PDT, Doppler radar was tracking showers along a line extending from near Valle Vista to Temescal Valley. Movement was north at 50 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Riverside, San Bernardino, Fontana, Moreno Valley, Ontario, Temecula, Rialto, Redlands, Lake Elsinore, Yucaipa, Hemet, Hwy 243 Between Banning And Idyllwild, Rancho Cucamonga, Murrieta, Perris, Highland, Colton, San Jacinto, Beaumont, and Banning.\nGenerated: 2026-10-10 21:20:16 UTC"
   34.0400, -116.8600
   34.1800, -117.1300
   34.1300, -117.5800
   33.5600, -117.3500
   33.5800, -116.8600
   34.0400, -116.8600
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 2:22PM MDT by NWS Cheyenne WY\nExpires: 2026-10-10 21:15 Z\nAt 222 PM MDT, Doppler radar was tracking gusty showers along a line extending from near Westview Circle to 8 miles west of Chugwater. Movement was northeast at 30 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wheatland, Guernsey, Fort Laramie, Chugwater, Yoder, Hartville, Chugcreek, Lakeview North, Bordeaux, Westview Circle, Y-O Ranch, Register Cliff State Historic Site, Sandy Cove Campground, Guernsey State Park, Phifer Airfield, Oregon Trail Ruts State Historic Site, Fort Laramie National Historic Site, Slater, Grayrocks Reservoir, and Veteran.\nGenerated: 2026-10-10 21:10:19 UTC"
-  42.4100, -104.6700
-  41.8800, -104.2500
-  41.6300, -105.0700
-  42.1200, -105.1700
-  42.4100, -104.6700
 End:
