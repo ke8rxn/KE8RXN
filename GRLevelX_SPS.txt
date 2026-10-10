@@ -3,20 +3,50 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-10 19:25:17 UTC
+; Generated: 2026-10-10 19:30:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 2:44PM EDT by NWS Jacksonville FL\nExpires: 2026-10-10 19:30 Z\nAt 244 PM EDT, Doppler radar was tracking an area of strong thunderstorms extending from near Baxley to 7 miles north of Needmore, moving northeast at 35 mph.  HAZARD...Landspouts and wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Waycross, Baxley, Alma, Homerville, Graham, Argyle, Surrency, Dixie Union, Pebble Hill and Jamestown.\nGenerated: 2026-10-10 19:25:17 UTC"
-  30.7800, -82.8200
-  31.9600, -82.4800
-  31.8400, -82.0800
-  31.8000, -82.1000
-  31.8000, -82.1100
-  31.7900, -82.1100
-  31.7900, -82.1000
-  31.7700, -82.1100
-  31.7700, -82.1300
-  31.7200, -82.1300
-  30.6000, -82.6300
-  30.6200, -82.8700
-  30.7800, -82.8200
+Line: 2,,"Special Weather Statement issued October 10 at 12:27PM MST by NWS Phoenix AZ\nExpires: 2026-10-10 20:15 Z\nAt 1227 PM MST, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles southwest of Buckeye to 24 miles east of Gila Bend, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Strong wind gusts may also generate blowing dust capable of reducing visibility below 3 miles.  Locations impacted include... Phoenix, Glendale, Surprise, Avondale, Goodyear, Buckeye, El Mirage, Tolleson, Cashion, Maricopa, Estrella, Litchfield Park, Estrella Mountain Park, Estrella Mountain Ranch, Phoenix International Raceway, Sonoran National Monument, Liberty, Estrella Sailport, Perryville and Palo Verde.  This includes the following highways... AZ Interstate 8 between mile markers 130 and 139. AZ Route 101 between mile markers 2 and 4...and near mile marker 5. AZ Route 85 between mile markers 132 and 141. AZ Interstate 10 between mile markers 103 and 112. AZ Route 238 between mile markers 10 and 19. AZ Route 303 between mile markers 105 and 114. AZ Route 347 between mile markers 161 and 170.\nGenerated: 2026-10-10 19:30:17 UTC"
+  33.5800, -112.7000
+  33.6500, -112.4400
+  33.4000, -112.1300
+  33.2100, -112.0100
+  32.9900, -111.9500
+  32.7900, -112.0800
+  32.7100, -112.4200
+  32.9800, -112.5400
+  33.1000, -112.6500
+  33.3400, -112.9000
+  33.5800, -112.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 10 at 3:27PM EDT by NWS Jacksonville FL\nExpires: 2026-10-10 20:15 Z\nAt 327 PM EDT, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Callahan, moving north at 25 mph.  HAZARD...Landspouts and wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible. Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... St. Marys, Kingsland, Brunswick, St. Simons Island, Woodbine, Dock Junction, Kings Bay Base, Country Club Estates, Kings Ferry, and Thalmann.\nGenerated: 2026-10-10 19:30:17 UTC"
+  30.5400, -81.7000
+  30.6000, -81.9100
+  31.2100, -81.7500
+  31.4300, -81.6100
+  31.3600, -81.5200
+  31.3300, -81.4500
+  31.3300, -81.4400
+  31.3100, -81.4400
+  31.2800, -81.3900
+  31.2900, -81.3900
+  31.2800, -81.3800
+  31.3000, -81.3700
+  31.3100, -81.3400
+  31.3000, -81.3300
+  31.3000, -81.3400
+  31.2800, -81.3200
+  31.2800, -81.2700
+  30.5400, -81.7000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 10 at 3:24PM EDT by NWS Jacksonville FL\nExpires: 2026-10-10 20:00 Z\nAt 324 PM EDT, Doppler radar was tracking a strong thunderstorm near Maxville, or 16 miles northwest of Middleburg, moving northeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Jacksonville, Macclenny, Bryceville, Maxville, St. George, Nassau Village-Ratliff, Baldwin and Whitehouse Air Field.\nGenerated: 2026-10-10 19:30:17 UTC"
+  30.3600, -82.1000
+  30.5500, -82.0300
+  30.4700, -81.7600
+  30.1600, -81.9400
+  30.2200, -82.1500
+  30.3600, -82.1000
 End:
