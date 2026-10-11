@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-11 03:40:15 UTC
+; Generated: 2026-10-11 03:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 11:35PM EDT by NWS Jacksonville FL\nExpires: 2026-10-11 04:00 Z\nAt 1134 PM EDT, Doppler radar was tracking a strong thunderstorm over Mayo, moving northeast at 35 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Luraville, Mcalpin, and Newburn.\nGenerated: 2026-10-11 03:40:15 UTC"
+Line: 2,,"Special Weather Statement issued October 10 at 11:35PM EDT by NWS Jacksonville FL\nExpires: 2026-10-11 04:00 Z\nAt 1134 PM EDT, Doppler radar was tracking a strong thunderstorm over Mayo, moving northeast at 35 mph.  HAZARD...Wind gusts around 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Luraville, Mcalpin, and Newburn.\nGenerated: 2026-10-11 03:45:16 UTC"
   30.3000, -83.1800
   30.2800, -83.0000
   30.2100, -82.8800
@@ -22,32 +22,4 @@ Line: 2,,"Special Weather Statement issued October 10 at 11:35PM EDT by NWS Jack
   30.1100, -83.2200
   30.1400, -83.2300
   30.3000, -83.1800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 8:09PM PDT by NWS Phoenix AZ\nExpires: 2026-10-11 03:45 Z\nAt 809 PM PDT, Doppler radar was tracking a strong thunderstorm near Mt. Signal, or 5 miles southwest of El Centro, moving north at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... El Centro, Calexico, Brawley, Imperial, Plaster City, Westmorland, El Centro Naval Airfield, Mt. Signal, Calipatria, Seeley, Dixieland and Heber.\nGenerated: 2026-10-11 03:40:15 UTC"
-  32.6400, -115.8100
-  33.0800, -115.9900
-  33.1300, -115.5000
-  32.6700, -115.4000
-  32.6400, -115.8100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 10 at 11:06PM EDT by NWS Tallahassee FL\nExpires: 2026-10-11 03:45 Z\nAt 1105 PM EDT, Doppler radar was tracking a strong thunderstorm 7 miles northeast of Steinhatchee, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Mayo, Tennille, Cooks Hammock, Hines, Jonesboro, Clara, Grady, San Pedro Junction, and Alton.\nGenerated: 2026-10-11 03:40:15 UTC"
-  29.6100, -83.2800
-  29.7200, -83.3500
-  29.7500, -83.3900
-  30.1200, -83.2900
-  30.1000, -83.1800
-  30.1100, -83.1600
-  30.0800, -83.0700
-  30.0700, -83.0700
-  30.0400, -83.0200
-  30.0100, -83.0000
-  30.0000, -82.9700
-  29.9600, -82.9500
-  29.9600, -82.9300
-  29.9300, -82.9200
-  29.6100, -83.2800
 End:
