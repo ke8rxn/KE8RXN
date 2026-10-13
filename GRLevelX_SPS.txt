@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-13 23:40:17 UTC
+; Generated: 2026-10-13 23:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 13 at 6:32PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-10-14 00:00 Z\nAt 632 PM CDT, Doppler radar was tracking a strong thunderstorm near Mineral Point, moving east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Mineral Point, Blanchardville, Waldwick, Fayette, Hollandale, Yellowstone Lake St Park, and Calamine.  This includes U.S. Highway 151 between mile markers 32 and 38.\nGenerated: 2026-10-13 23:40:17 UTC"
+Line: 2,,"Special Weather Statement issued October 13 at 6:40PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-14 00:15 Z\nAt 639 PM CDT, Doppler radar was tracking a strong thunderstorm 17 miles southeast of Barstow, or 19 miles southeast of Pecos, moving north at 25 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... B F Goodrich Testing Track and rural eastern Reeves and southern Ward counties.\nGenerated: 2026-10-13 23:45:16 UTC"
+  31.5000, -103.2800
+  31.4400, -102.9500
+  31.1500, -103.2200
+  31.2200, -103.3300
+  31.5000, -103.2800
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 13 at 6:32PM CDT by NWS Milwaukee/Sullivan WI\nExpires: 2026-10-14 00:00 Z\nAt 632 PM CDT, Doppler radar was tracking a strong thunderstorm near Mineral Point, moving east at 50 mph.  HAZARD...Half inch hail.  SOURCE...Radar indicated.  IMPACT...Minor hail damage to vegetation is possible.  Locations impacted include... Mineral Point, Blanchardville, Waldwick, Fayette, Hollandale, Yellowstone Lake St Park, and Calamine.  This includes U.S. Highway 151 between mile markers 32 and 38.\nGenerated: 2026-10-13 23:45:16 UTC"
   42.8600, -90.2800
   42.9200, -89.8400
   42.7200, -89.8400
@@ -14,7 +23,7 @@ Line: 2,,"Special Weather Statement issued October 13 at 6:32PM CDT by NWS Milwa
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 13 at 6:25PM CDT by NWS Quad Cities IA IL\nExpires: 2026-10-14 00:15 Z\nAt 624 PM CDT, Doppler radar was tracking a thunderstorm near Cassville, or 10 miles southeast of Guttenberg, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Balltown, Waupeton, and Finley's Landing Park.\nGenerated: 2026-10-13 23:40:17 UTC"
+Line: 2,,"Special Weather Statement issued October 13 at 6:25PM CDT by NWS Quad Cities IA IL\nExpires: 2026-10-14 00:15 Z\nAt 624 PM CDT, Doppler radar was tracking a thunderstorm near Cassville, or 10 miles southeast of Guttenberg, moving east at 45 mph.  HAZARD...Penny size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Balltown, Waupeton, and Finley's Landing Park.\nGenerated: 2026-10-13 23:45:16 UTC"
   42.6500, -90.7400
   42.6300, -90.7100
   42.6300, -91.0300
@@ -25,19 +34,10 @@ Line: 2,,"Special Weather Statement issued October 13 at 6:25PM CDT by NWS Quad 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 13 at 6:14PM CDT by NWS Dodge City KS\nExpires: 2026-10-14 00:00 Z\nAt 613 PM CDT, Doppler radar was tracking a strong thunderstorm near Belvidere, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Belvidere around 620 PM CDT. Sun City around 630 PM CDT.  Other locations in the path of this storm include Sawyer.\nGenerated: 2026-10-13 23:40:17 UTC"
+Line: 2,,"Special Weather Statement issued October 13 at 6:14PM CDT by NWS Dodge City KS\nExpires: 2026-10-14 00:00 Z\nAt 613 PM CDT, Doppler radar was tracking a strong thunderstorm near Belvidere, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  This strong thunderstorm will be near... Belvidere around 620 PM CDT. Sun City around 630 PM CDT.  Other locations in the path of this storm include Sawyer.\nGenerated: 2026-10-13 23:45:16 UTC"
   37.2700, -99.2200
   37.4900, -99.2200
   37.6200, -98.6700
   37.3000, -98.5800
   37.2700, -99.2200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 13 at 6:10PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-13 23:45 Z\nAt 609 PM CDT, Doppler radar was tracking a strong thunderstorm 7 miles northwest of Barstow, or 8 miles north of Pecos, moving north at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Pecos, Mentone, Barstow, Slash Ranch, and Pecos Municipal Airport.  This includes Interstate 20 between mile markers 40 and 47.\nGenerated: 2026-10-13 23:40:17 UTC"
-  31.3700, -103.4300
-  31.4400, -103.6500
-  31.8600, -103.6100
-  31.7800, -103.2200
-  31.3700, -103.4300
 End:
