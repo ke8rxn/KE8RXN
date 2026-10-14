@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-14 21:55:14 UTC
+; Generated: 2026-10-14 22:00:26 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 14 at 4:47PM CDT by NWS Little Rock AR\nExpires: 2026-10-14 22:15 Z\nAt 447 PM CDT, Doppler radar was tracking a strong thunderstorm near Cardiff, or near Waldron, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Stonehouse Recreation Area...     Cardiff... Union Hill...                     Olio... Sugar Grove...                    Blue Ball... Grayson...\nGenerated: 2026-10-14 21:55:14 UTC"
+Line: 2,,"Special Weather Statement issued October 14 at 4:55PM CDT by NWS Norman OK\nExpires: 2026-10-14 22:30 Z\nAt 455 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 4 miles south of Tipton to near Vernon. Movement was east at 25 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Vernon, Frederick, Davidson, and Fargo.\nGenerated: 2026-10-14 22:00:26 UTC"
+  34.4800, -98.9200
+  34.1400, -99.0500
+  34.1200, -99.5300
+  34.4600, -99.3200
+  34.4800, -98.9200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 14 at 4:47PM CDT by NWS Little Rock AR\nExpires: 2026-10-14 22:15 Z\nAt 447 PM CDT, Doppler radar was tracking a strong thunderstorm near Cardiff, or near Waldron, moving east at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Stonehouse Recreation Area...     Cardiff... Union Hill...                     Olio... Sugar Grove...                    Blue Ball... Grayson...\nGenerated: 2026-10-14 22:00:26 UTC"
   35.1400, -93.8100
   35.1500, -93.7500
   34.9000, -93.6400
@@ -15,7 +24,7 @@ Line: 2,,"Special Weather Statement issued October 14 at 4:47PM CDT by NWS Littl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 14 at 5:47PM EDT by NWS Charleston WV\nExpires: 2026-10-14 22:15 Z\nAt 547 PM EDT, Doppler radar was tracking a strong thunderstorm near Rio Grande, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Point Pleasant, Gallipolis, Pomeroy, Rio Grande, Racine, New Haven, Mason, Middleport, Syracuse, Hartford City, Henderson, Vinton, Cheshire, Adamsville, Lakin, Gallopolis Ferry, Letart, and Kyger.\nGenerated: 2026-10-14 21:55:14 UTC"
+Line: 2,,"Special Weather Statement issued October 14 at 5:47PM EDT by NWS Charleston WV\nExpires: 2026-10-14 22:15 Z\nAt 547 PM EDT, Doppler radar was tracking a strong thunderstorm near Rio Grande, moving east at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Point Pleasant, Gallipolis, Pomeroy, Rio Grande, Racine, New Haven, Mason, Middleport, Syracuse, Hartford City, Henderson, Vinton, Cheshire, Adamsville, Lakin, Gallopolis Ferry, Letart, and Kyger.\nGenerated: 2026-10-14 22:00:26 UTC"
   39.0500, -81.9300
   38.8700, -81.8900
   38.8800, -81.9100
@@ -28,7 +37,7 @@ Line: 2,,"Special Weather Statement issued October 14 at 5:47PM EDT by NWS Charl
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 14 at 4:45PM CDT by NWS Norman OK\nExpires: 2026-10-14 22:15 Z\nAt 445 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles northwest of Lockett to 11 miles south of Thalia. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Thalia, Lockett, and Rayland.\nGenerated: 2026-10-14 21:55:14 UTC"
+Line: 2,,"Special Weather Statement issued October 14 at 4:45PM CDT by NWS Norman OK\nExpires: 2026-10-14 22:15 Z\nAt 445 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 3 miles northwest of Lockett to 11 miles south of Thalia. Movement was northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Vernon, Thalia, Lockett, and Rayland.\nGenerated: 2026-10-14 22:00:26 UTC"
   34.1200, -99.5300
   34.1400, -99.2100
   33.8300, -99.2800
@@ -39,30 +48,10 @@ Line: 2,,"Special Weather Statement issued October 14 at 4:45PM CDT by NWS Norma
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 14 at 5:43PM EDT by NWS Charleston WV\nExpires: 2026-10-14 22:15 Z\nAt 543 PM EDT, Doppler radar was tracking a strong thunderstorm near Pennsboro, or near Harrisville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Harrisville, Pennsboro, Ellenboro, Pullman, New Milton, Greenwood, Avon, Grove, and Leopold.  This includes Route 50 in West Virginia between mile markers 37 and 49.\nGenerated: 2026-10-14 21:55:14 UTC"
+Line: 2,,"Special Weather Statement issued October 14 at 5:43PM EDT by NWS Charleston WV\nExpires: 2026-10-14 22:15 Z\nAt 543 PM EDT, Doppler radar was tracking a strong thunderstorm near Pennsboro, or near Harrisville, moving east at 35 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Harrisville, Pennsboro, Ellenboro, Pullman, New Milton, Greenwood, Avon, Grove, and Leopold.  This includes Route 50 in West Virginia between mile markers 37 and 49.\nGenerated: 2026-10-14 22:00:26 UTC"
   39.2200, -81.1100
   39.3100, -81.0100
   39.2400, -80.6300
   39.0300, -80.6900
   39.2200, -81.1100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 14 at 5:20PM AST by NWS San Juan PR\nExpires: 2026-10-14 22:00 Z\nAt 520 PM AST, Doppler radar was tracking an area of strong thunderstorms over Juana Diaz, moving south at 5 mph.  HAZARD...Wind gusts up to 30 mph. Funnel clouds are possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Ponce, Coamo, Santa Isabel, Juana Diaz, Villalba, Guayabal, Luis Llorens Torres, Aguilita, Potala Pastillo, Capitanejo, Coto Laurel, Las Ollas, Los Llanos, Rio Canas Abajo, Playita Cortada and El Ojo.\nGenerated: 2026-10-14 21:55:14 UTC"
-  17.9400, -66.3800
-  17.9500, -66.4200
-  17.9700, -66.4300
-  17.9600, -66.4300
-  17.9900, -66.4600
-  17.9800, -66.5300
-  17.9800, -66.5500
-  17.9600, -66.5800
-  17.9600, -66.6200
-  17.9700, -66.6100
-  17.9700, -66.6200
-  17.9900, -66.6200
-  17.9800, -66.6400
-  18.1300, -66.5800
-  18.1300, -66.3700
-  17.9400, -66.3800
 End:
