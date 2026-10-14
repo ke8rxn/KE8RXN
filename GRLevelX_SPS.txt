@@ -3,9 +3,39 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-14 02:40:17 UTC
+; Generated: 2026-10-14 02:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 13 at 9:22PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-14 03:15 Z\nAt 922 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 30 miles west of Persimmon Gap to 25 miles north of Terlingua to 7 miles north of Lajitas. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Study Butte, Persimmon Gap, Terlingua, Terlingua Ranch Airport, Terlingua Ranch Lodge, Santiago Peak, Elephant Mountain, and Elephant Mountain Wildlife Management Area.\nGenerated: 2026-10-14 02:40:17 UTC"
+Line: 2,,"Special Weather Statement issued October 13 at 9:44PM CDT by NWS Amarillo TX\nExpires: 2026-10-14 03:15 Z\nAt 944 PM CDT, Doppler radar was tracking a strong thunderstorm over Quail, or 12 miles west of Wellington, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wellington, Dodson, Lutie, and Quail.\nGenerated: 2026-10-14 02:45:15 UTC"
+  34.7500, -100.8100
+  35.1800, -100.0500
+  35.1800, -100.0000
+  34.7500, -100.0000
+  34.7500, -100.8100
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 13 at 9:44PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-14 03:30 Z\nAt 944 PM CDT, Doppler radar was tracking a strong thunderstorm near Lenorah, or 19 miles north of Greenwood, moving northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Ackerly, Lenorah, Luther, Sparenberg, Tarzan, Tenmile, Knott, Vealmoor, and Key.\nGenerated: 2026-10-14 02:45:15 UTC"
+  32.1400, -101.9300
+  32.2600, -102.1300
+  32.8100, -101.7800
+  32.6200, -101.1800
+  32.1400, -101.9300
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 13 at 9:41PM CDT by NWS Kansas City/Pleasant Hill MO\nExpires: 2026-10-14 03:15 Z\nAt 941 PM CDT, Doppler radar was tracking a line of strong thunderstorms extending from 13 miles east of Macon to near Salisbury, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Moberly, Macon, Huntsville, Higbee, Cairo, Renick, Jacksonville, Clifton Hill, Excello and Prairie Hill.\nGenerated: 2026-10-14 02:45:15 UTC"
+  39.5300, -92.9000
+  39.6700, -92.6500
+  39.8800, -92.3200
+  39.8600, -92.2900
+  39.3700, -92.3100
+  39.2700, -92.5200
+  39.3000, -92.6200
+  39.5300, -92.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 13 at 9:22PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-14 03:15 Z\nAt 922 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 30 miles west of Persimmon Gap to 25 miles north of Terlingua to 7 miles north of Lajitas. Movement was northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Study Butte, Persimmon Gap, Terlingua, Terlingua Ranch Airport, Terlingua Ranch Lodge, Santiago Peak, Elephant Mountain, and Elephant Mountain Wildlife Management Area.\nGenerated: 2026-10-14 02:45:15 UTC"
   29.9200, -103.8000
   30.0000, -103.6700
   29.9800, -103.6500
@@ -16,22 +46,4 @@ Line: 2,,"Special Weather Statement issued October 13 at 9:22PM CDT by NWS Midla
   29.3100, -103.4200
   29.2900, -103.7900
   29.9200, -103.8000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 13 at 9:16PM CDT by NWS Amarillo TX\nExpires: 2026-10-14 02:45 Z\nAt 916 PM CDT, Doppler radar was tracking a strong thunderstorm 6 miles east of Wellington, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Wellington and Dodson.\nGenerated: 2026-10-14 02:40:17 UTC"
-  34.7500, -100.4200
-  34.7800, -100.4500
-  35.1100, -100.0000
-  34.7500, -100.0000
-  34.7500, -100.4200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 13 at 9:09PM CDT by NWS Midland/Odessa TX\nExpires: 2026-10-14 02:45 Z\nAt 908 PM CDT, Doppler radar was tracking a strong thunderstorm near Midland International Air and Space Port, or 9 miles west of Midland, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Midland, Odessa, Midland International Air and Space Port, Warfield, and Midland Airpark.  This includes Interstate 20 between mile markers 122 and 123.\nGenerated: 2026-10-14 02:40:17 UTC"
-  31.8700, -102.2900
-  31.9900, -102.4400
-  32.3100, -102.1900
-  32.1100, -101.8900
-  31.8700, -102.2900
 End:
