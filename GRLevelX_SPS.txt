@@ -3,9 +3,18 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-21 22:25:16 UTC
+; Generated: 2026-10-21 22:30:20 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 21 at 4:14PM MDT by NWS Grand Junction CO\nExpires: 2026-10-21 22:45 Z\nAt 414 PM MDT, Doppler radar was tracking a strong thunderstorm 19 miles north of Chama, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Archuleta County.\nGenerated: 2026-10-21 22:25:16 UTC"
+Line: 2,,"Special Weather Statement issued October 21 at 4:26PM MDT by NWS Albuquerque NM\nExpires: 2026-10-21 23:00 Z\nAt 426 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Toadlena, or 37 miles southwest of Shiprock, moving northeast at 40 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Sanostee, Toadlena, Newcomb and Tocito.\nGenerated: 2026-10-21 22:30:20 UTC"
+  36.4700, -109.0500
+  36.6500, -108.6700
+  36.2900, -108.6100
+  36.1400, -109.0500
+  36.4700, -109.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 21 at 4:14PM MDT by NWS Grand Junction CO\nExpires: 2026-10-21 22:45 Z\nAt 414 PM MDT, Doppler radar was tracking a strong thunderstorm 19 miles north of Chama, moving northeast at 30 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This storm will remain over mainly rural areas of southeastern Archuleta County.\nGenerated: 2026-10-21 22:30:20 UTC"
   37.1900, -106.7900
   37.2500, -106.6800
   37.2200, -106.6700
@@ -15,33 +24,4 @@ Line: 2,,"Special Weather Statement issued October 21 at 4:14PM MDT by NWS Grand
   37.0900, -106.5500
   37.0400, -106.7300
   37.1900, -106.7900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 21 at 4:06PM MDT by NWS Albuquerque NM\nExpires: 2026-10-21 22:30 Z\nAt 406 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles north of Counselor, or 32 miles south of Navajo Dam, moving northeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of West Central Rio Arriba County.\nGenerated: 2026-10-21 22:25:16 UTC"
-  36.2400, -107.4300
-  36.4100, -107.5500
-  36.5800, -107.2900
-  36.4000, -107.1300
-  36.2400, -107.4300
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 21 at 2:59PM MST by NWS Phoenix AZ\nExpires: 2026-10-21 22:30 Z\nAt 259 PM MST, Doppler radar was tracking a strong thunderstorm over Estrella Mountain Park, or near Goodyear, moving north at 40 mph.  HAZARD...Wind gusts up to 30 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Phoenix, Glendale, Peoria, Surprise, Avondale, Goodyear, El Mirage, Tolleson, Youngtown, Cashion, Waddell, Laveen, Sun City, Sun City West, Litchfield Park, Camelback Ranch, Phoenix International Raceway, Glendale Sports Complex and Luke AFB.  This includes the following highways... AZ Route 101 between mile markers 10 and 18. US Highway 60 between mile markers 139 and 148. AZ Interstate 17 between mile markers 198 and 207. AZ Route 51 between mile markers 4 and 8. AZ Interstate 10 between mile markers 123 and 132. AZ Route 303 between mile markers 105 and 114.\nGenerated: 2026-10-21 22:25:16 UTC"
-  33.2300, -112.5200
-  33.7200, -112.4000
-  33.7000, -112.2400
-  33.5600, -112.0100
-  33.1600, -112.2600
-  33.2300, -112.5200
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 21 at 3:59PM MDT by NWS Salt Lake City UT\nExpires: 2026-10-21 22:30 Z\nAt 359 PM MDT, Doppler radar was tracking a strong thunderstorm 9 miles northeast of Dameron Valley, or 27 miles east of Beaver Dam, moving north at 40 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Dameron Valley, Enterprise, Newcastle, Pinto, Pine Valley and Veyo.  This includes the following highways... Utah Route 56 between mile markers 18 and 36. Utah Route 18 near mile marker 17...and between mile markers 22 and 51.\nGenerated: 2026-10-21 22:25:16 UTC"
-  37.5100, -113.7200
-  37.8100, -113.7900
-  37.8300, -113.4600
-  37.3200, -113.4700
-  37.3000, -113.6700
-  37.5100, -113.7200
 End:
