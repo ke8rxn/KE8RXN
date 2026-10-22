@@ -3,9 +3,21 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-22 18:10:17 UTC
+; Generated: 2026-10-22 18:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 22 at 12:04PM MDT by NWS Salt Lake City UT\nExpires: 2026-10-22 18:30 Z\nAt 1204 PM MDT, Doppler radar was tracking a strong thunderstorm over Quail Creek State Park, or 21 miles southwest of Zion National Park, moving north at 55 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hurricane, New Harmony, Quail Creek State Park, Toquerville, Leeds and Pine Valley.  This includes Interstate 15 between mile markers 16 and 30.\nGenerated: 2026-10-22 18:10:17 UTC"
+Line: 2,,"Special Weather Statement issued October 22 at 11:12AM MST by NWS Phoenix AZ\nExpires: 2026-10-22 18:30 Z\nAt 1112 AM MST, Doppler radar was tracking a strong thunderstorm 12 miles northwest of Hilltop, or 25 miles north of Globe, moving north at 45 mph.  HAZARD...Wind gusts up to 30 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of the aforementioned areas.  This includes US Highway 60 between mile markers 278 and 287.\nGenerated: 2026-10-22 18:15:16 UTC"
+  33.6300, -110.5200
+  33.6700, -110.7600
+  33.6900, -110.7500
+  33.8000, -110.6700
+  33.8500, -110.5600
+  33.8300, -110.5100
+  33.8200, -110.4400
+  33.6300, -110.5200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 22 at 12:04PM MDT by NWS Salt Lake City UT\nExpires: 2026-10-22 18:30 Z\nAt 1204 PM MDT, Doppler radar was tracking a strong thunderstorm over Quail Creek State Park, or 21 miles southwest of Zion National Park, moving north at 55 mph.  HAZARD...Wind gusts up to 40 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Hurricane, New Harmony, Quail Creek State Park, Toquerville, Leeds and Pine Valley.  This includes Interstate 15 between mile markers 16 and 30.\nGenerated: 2026-10-22 18:15:16 UTC"
   37.2000, -113.4700
   37.5200, -113.5600
   37.5200, -113.2700
@@ -15,7 +27,7 @@ Line: 2,,"Special Weather Statement issued October 22 at 12:04PM MDT by NWS Salt
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 22 at 11:00AM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 19:00 Z\nAt 1058 AM PDT, strong showers and thunderstorms will continue across southeastern Ventura and central Los Angeles Counties.  HAZARD...Wind gusts up to 50 mph and penny size hail. A brief weak tornado is possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Long Beach... Oxnard... Thousand Oaks... Simi Valley... Camarillo... Fillmore... Acton... Encino... Inglewood... Manhattan Beach... Agoura Hills... Venice... Rancho Palos Verdes... Hollywood... Van Nuys... Alhambra... Mount Wilson... Culver City... Torrance... and Universal City.\nGenerated: 2026-10-22 18:10:17 UTC"
+Line: 2,,"Special Weather Statement issued October 22 at 11:00AM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 19:00 Z\nAt 1058 AM PDT, strong showers and thunderstorms will continue across southeastern Ventura and central Los Angeles Counties.  HAZARD...Wind gusts up to 50 mph and penny size hail. A brief weak tornado is possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Long Beach... Oxnard... Thousand Oaks... Simi Valley... Camarillo... Fillmore... Acton... Encino... Inglewood... Manhattan Beach... Agoura Hills... Venice... Rancho Palos Verdes... Hollywood... Van Nuys... Alhambra... Mount Wilson... Culver City... Torrance... and Universal City.\nGenerated: 2026-10-22 18:15:16 UTC"
   34.0800, -118.0700
   33.7600, -118.1500
   33.7600, -118.2000
@@ -37,13 +49,4 @@ Line: 2,,"Special Weather Statement issued October 22 at 11:00AM PDT by NWS Los 
   34.6700, -118.7100
   34.4400, -118.0300
   34.0800, -118.0700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 22 at 10:44AM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 18:15 Z\nAt 1044 AM PDT, Doppler radar was tracking a strong thunderstorm near West Covina, moving northeast at 20 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Glendora... West Covina... Baldwin Park... Azusa... Falling Springs... Angeles Crest Highway between Mount Wilson and Mount Waterman... Arcadia... Sierra Madre... Monrovia... Covina... El Monte... Irwindale... Temple City... and Duarte.\nGenerated: 2026-10-22 18:10:17 UTC"
-  34.0500, -117.9300
-  34.0900, -118.0600
-  34.3500, -118.0500
-  34.2700, -117.7000
-  34.0500, -117.9300
 End:
