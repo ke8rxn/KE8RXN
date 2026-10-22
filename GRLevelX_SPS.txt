@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-22 00:15:16 UTC
+; Generated: 2026-10-22 00:20:17 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 21 at 5:09PM MST by NWS Phoenix AZ\nExpires: 2026-10-22 00:45 Z\nAt 509 PM MST, Doppler radar was tracking a strong thunderstorm near Apache Lake, or 12 miles southwest of Roosevelt, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roosevelt, Roosevelt Dam, Tonto National Monument and Apache Lake.  This includes AZ Route 188 between mile markers 235 and 244.\nGenerated: 2026-10-22 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued October 21 at 5:19PM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 00:45 Z\nAt 518 PM PDT, Doppler radar was tracking a strong thunderstorm near Morro Bay, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail, along with periods of heavy rain and frequent lightning. .  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... San Luis Obispo... Morro Bay... Avila Beach... Diablo Canyon... Baywood-Los Osos... and Shell Beach.\nGenerated: 2026-10-22 00:20:17 UTC"
+  35.3400, -120.8700
+  35.3400, -120.8600
+  35.3200, -120.8600
+  35.3400, -120.8300
+  35.3600, -120.8600
+  35.3900, -120.8700
+  35.3700, -120.7000
+  35.1700, -120.7000
+  35.1800, -120.7400
+  35.1600, -120.7700
+  35.2100, -120.8500
+  35.2400, -120.9000
+  35.2700, -120.9000
+  35.3400, -120.8700
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 21 at 5:09PM MST by NWS Phoenix AZ\nExpires: 2026-10-22 00:45 Z\nAt 509 PM MST, Doppler radar was tracking a strong thunderstorm near Apache Lake, or 12 miles southwest of Roosevelt, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Roosevelt, Roosevelt Dam, Tonto National Monument and Apache Lake.  This includes AZ Route 188 between mile markers 235 and 244.\nGenerated: 2026-10-22 00:20:17 UTC"
   33.5000, -111.3800
   33.8400, -111.2000
   33.8000, -111.1600
@@ -16,7 +34,7 @@ Line: 2,,"Special Weather Statement issued October 21 at 5:09PM MST by NWS Phoen
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 21 at 6:04PM MDT by NWS Salt Lake City UT\nExpires: 2026-10-22 00:30 Z\nAt 604 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Kanab, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Kane County.  This includes US Route 89 between mile markers 49 and 57.\nGenerated: 2026-10-22 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued October 21 at 6:04PM MDT by NWS Salt Lake City UT\nExpires: 2026-10-22 00:30 Z\nAt 604 PM MDT, Doppler radar was tracking a strong thunderstorm 10 miles east of Kanab, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Mainly rural areas of South Central Kane County.  This includes US Route 89 between mile markers 49 and 57.\nGenerated: 2026-10-22 00:20:17 UTC"
   37.0000, -112.4400
   37.3400, -112.2100
   37.2500, -112.0500
@@ -25,7 +43,7 @@ Line: 2,,"Special Weather Statement issued October 21 at 6:04PM MDT by NWS Salt 
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 21 at 5:03PM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 00:30 Z\nAt 502 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Morro Bay, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail, along with periods of heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morro Bay... and Cayucos.\nGenerated: 2026-10-22 00:15:16 UTC"
+Line: 2,,"Special Weather Statement issued October 21 at 5:03PM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 00:30 Z\nAt 502 PM PDT, Doppler radar was tracking a strong thunderstorm 7 miles north of Morro Bay, moving north at 30 mph.  HAZARD...Wind gusts up to 50 mph and pea size hail, along with periods of heavy rain.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Morro Bay... and Cayucos.\nGenerated: 2026-10-22 00:20:17 UTC"
   35.7300, -121.1300
   35.6300, -120.7700
   35.3800, -120.7200
