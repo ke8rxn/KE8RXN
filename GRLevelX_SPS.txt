@@ -3,9 +3,22 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-10-22 14:40:16 UTC
+; Generated: 2026-10-22 14:45:15 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 22 at 7:22AM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 15:00 Z\nAt 721 AM PDT, Doppler radar was tracking a strong thunderstorm over southwestern Ventura, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oxnard... Ventura... and Ventura Harbor.\nGenerated: 2026-10-22 14:40:16 UTC"
+Line: 2,,"Special Weather Statement issued October 22 at 7:41AM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 15:15 Z\nAt 740 AM PDT, Doppler radar was tracking a strong thunderstorm near Isla Vista, or 10 miles west of Santa Barbara, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Santa Barbara... Montecito... Isla Vista... Goleta... Highway 154 over San Marcos Pass... Hope Ranch... Mission Canyon... Lake Cachuma... and Santa Barbara Airport.\nGenerated: 2026-10-22 14:45:15 UTC"
+  34.6300, -119.9600
+  34.5000, -119.5900
+  34.4000, -119.7300
+  34.4200, -119.7800
+  34.4200, -119.8900
+  34.4400, -119.9300
+  34.4400, -119.9600
+  34.4900, -120.0400
+  34.6300, -119.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued October 22 at 7:22AM PDT by NWS Los Angeles/Oxnard CA\nExpires: 2026-10-22 15:00 Z\nAt 721 AM PDT, Doppler radar was tracking a strong thunderstorm over southwestern Ventura, moving northeast at 20 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Oxnard... Ventura... and Ventura Harbor.\nGenerated: 2026-10-22 14:45:15 UTC"
   34.2300, -119.2700
   34.2500, -119.2600
   34.2400, -119.2700
@@ -15,14 +28,4 @@ Line: 2,,"Special Weather Statement issued October 22 at 7:22AM PDT by NWS Los A
   34.3000, -119.1400
   34.1900, -119.2400
   34.2300, -119.2700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued October 22 at 8:14AM MDT by NWS Salt Lake City UT\nExpires: 2026-10-22 14:45 Z\nAt 814 AM MDT, Doppler radar was tracking a line of strong thunderstorms extending from 25 miles northwest of Cedar City to 25 miles northwest of Enoch, moving north at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Lund.\nGenerated: 2026-10-22 14:40:16 UTC"
-  37.9000, -113.3400
-  37.7900, -113.4900
-  38.2200, -113.5500
-  38.3700, -113.4100
-  38.3600, -113.2600
-  37.9000, -113.3400
 End:
