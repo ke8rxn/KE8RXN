@@ -3,13 +3,33 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-02 23:10:15 UTC
+; Generated: 2026-11-02 23:15:27 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 4:43PM CST by NWS Dodge City KS\nExpires: 2026-11-02 23:15 Z\nAt 443 PM CST /343 PM MST/, Doppler radar was tracking a strong thunderstorm 10 miles northwest of Big Bow, moving southeast at 10 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Big Bow.\nGenerated: 2026-11-02 23:10:15 UTC"
-  37.6900, -101.8000
-  37.8200, -101.6700
-  37.7600, -101.4400
-  37.5900, -101.4900
-  37.4800, -101.6200
-  37.6900, -101.8000
+Line: 2,,"Special Weather Statement issued November 2 at 5:13PM CST by NWS Hastings NE\nExpires: 2026-11-02 23:45 Z\nAt 513 PM CST, Doppler radar was tracking a cluster of of strong thunderstorms extending from generally 5 miles northeast of Webster State Park to over Kirwin, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and very spotty hail up to around penny size.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Phillipsburg, Stockton, Kensington, Agra, Kirwin, Glade and Speed.\nGenerated: 2026-11-02 23:15:27 UTC"
+  39.5200, -99.6000
+  39.9000, -99.4400
+  39.8300, -98.9200
+  39.4000, -99.2600
+  39.4600, -99.6000
+  39.5200, -99.6000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued November 2 at 5:12PM CST by NWS Norman OK\nExpires: 2026-11-02 23:45 Z\nAt 512 PM CST, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles southwest of Manchester to near Ringwood. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wakita, Goltry, Jet, Nash, Hillsdale, Manchester, and eastern Great Salt Plains Lake.\nGenerated: 2026-11-02 23:15:27 UTC"
+  36.6000, -97.8600
+  36.4700, -98.2500
+  36.9500, -98.1100
+  37.0000, -98.0500
+  37.0000, -97.7400
+  36.6000, -97.8600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued November 2 at 5:10PM CST by NWS Dodge City KS\nExpires: 2026-11-02 23:30 Z\nAt 510 PM CST, Doppler radar was tracking a strong thunderstorm 7 miles southwest of Ulysses, moving east at 15 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ulysses, Hickok and Big Bow.\nGenerated: 2026-11-02 23:15:27 UTC"
+  37.4700, -101.6400
+  37.6200, -101.5300
+  37.6200, -101.1800
+  37.3900, -101.2200
+  37.3900, -101.5100
+  37.4700, -101.6400
 End:
