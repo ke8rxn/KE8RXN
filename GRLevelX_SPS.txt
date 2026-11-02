@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-02 23:40:14 UTC
+; Generated: 2026-11-02 23:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 5:31PM CST by NWS Dodge City KS\nExpires: 2026-11-03 00:00 Z\nAt 531 PM CST, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles northwest of Moscow to over Wilburton, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hugoton, Elkhart, Rolla, Feterita and Wilburton.\nGenerated: 2026-11-02 23:40:14 UTC"
+Line: 2,,"Special Weather Statement issued November 2 at 6:43PM EST by NWS Miami FL\nExpires: 2026-11-03 00:15 Z\nAt 643 PM EST, National Weather Service meteorologists were tracking a strong thunderstorm over Palm Beach Gardens, moving northwest at 15 mph.  HAZARD...Wind gusts of 45 to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... West Palm Beach, Jupiter, Palm Beach Gardens, Riviera Beach, Tequesta, Juno Beach, North Palm Beach, Lake Park, North County Airport, Juno Ridge, The Acreage, Philo Farms, Fau North Campus, Limestone Creek, Caloosa, and Jupiter Farms.\nGenerated: 2026-11-02 23:45:16 UTC"
+  26.7900, -80.0500
+  26.7600, -80.2300
+  26.9400, -80.4000
+  26.9600, -80.3600
+  26.9600, -80.1400
+  26.9700, -80.1400
+  26.9600, -80.1200
+  26.9700, -80.1200
+  26.9700, -80.0900
+  26.8600, -80.0500
+  26.8100, -80.0500
+  26.8400, -80.0600
+  26.8300, -80.0600
+  26.8000, -80.0500
+  26.8000, -80.0400
+  26.8300, -80.0400
+  26.7900, -80.0300
+  26.7900, -80.0500
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued November 2 at 5:31PM CST by NWS Dodge City KS\nExpires: 2026-11-03 00:00 Z\nAt 531 PM CST, Doppler radar was tracking a line of strong thunderstorms extending from 11 miles northwest of Moscow to over Wilburton, moving southeast at 15 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Hugoton, Elkhart, Rolla, Feterita and Wilburton.\nGenerated: 2026-11-02 23:45:16 UTC"
   37.1400, -101.9300
   37.3100, -101.6400
   37.3900, -101.5500
@@ -17,7 +39,7 @@ Line: 2,,"Special Weather Statement issued November 2 at 5:31PM CST by NWS Dodge
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 5:28PM CST by NWS San Angelo TX\nExpires: 2026-11-03 00:15 Z\nAt 527 PM CST, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Champion Creek Reservoir, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sweetwater, Roscoe, Nolan, Hylton, Maryneal, Champion, The Intersection Of Highway 70 And Ranch Road 53, Lake Sweetwater, The Intersection Of Ranch Road 608 And Highway 147, Camp Boothe Oaks, and I-20 Near The Nolan-Mitchell County Line.  This includes Interstate 20 between Mile Markers 229 and 260.\nGenerated: 2026-11-02 23:40:14 UTC"
+Line: 2,,"Special Weather Statement issued November 2 at 5:28PM CST by NWS San Angelo TX\nExpires: 2026-11-03 00:15 Z\nAt 527 PM CST, Doppler radar was tracking a strong thunderstorm 8 miles southeast of Champion Creek Reservoir, moving east at 45 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Sweetwater, Roscoe, Nolan, Hylton, Maryneal, Champion, The Intersection Of Highway 70 And Ranch Road 53, Lake Sweetwater, The Intersection Of Ranch Road 608 And Highway 147, Camp Boothe Oaks, and I-20 Near The Nolan-Mitchell County Line.  This includes Interstate 20 between Mile Markers 229 and 260.\nGenerated: 2026-11-02 23:45:16 UTC"
   32.0900, -100.6600
   32.4200, -100.6600
   32.5200, -100.3700
@@ -27,51 +49,10 @@ Line: 2,,"Special Weather Statement issued November 2 at 5:28PM CST by NWS San A
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 5:28PM CST by NWS Dodge City KS\nExpires: 2026-11-03 00:00 Z\nAt 528 PM CST, Doppler radar was tracking a strong thunderstorm near Ulysses, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ulysses and Hickok.\nGenerated: 2026-11-02 23:40:14 UTC"
+Line: 2,,"Special Weather Statement issued November 2 at 5:28PM CST by NWS Dodge City KS\nExpires: 2026-11-03 00:00 Z\nAt 528 PM CST, Doppler radar was tracking a strong thunderstorm near Ulysses, moving east at 5 mph.  HAZARD...Wind gusts up to 50 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Ulysses and Hickok.\nGenerated: 2026-11-02 23:45:16 UTC"
   37.4000, -101.4400
   37.6200, -101.4200
   37.6000, -101.1000
   37.3900, -101.2200
   37.4000, -101.4400
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 5:21PM CST by NWS Norman OK\nExpires: 2026-11-02 23:45 Z\nAt 521 PM CST, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles east of Eagle City to 5 miles south of Weatherford. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Weatherford, Watonga, Hinton, Geary, Hydro, Corn, Hitchcock, Bridgeport, Greenfield, Loyal, and Omega.\nGenerated: 2026-11-02 23:40:14 UTC"
-  36.1400, -97.9500
-  35.4300, -98.2800
-  35.3600, -98.8100
-  35.9500, -98.5100
-  36.1400, -97.9500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 5:15PM CST by NWS Norman OK\nExpires: 2026-11-02 23:45 Z\nAt 515 PM CST, Doppler radar was tracking a strong thunderstorm near Ringwood, moving northeast at 40 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Enid, Waukomis, Lahoma, Ringwood, Drummond, Ames, Meno, Hillsdale, Carrier, Vance Air Force Base, Isabella, and North Enid.\nGenerated: 2026-11-02 23:40:14 UTC"
-  36.5900, -97.8700
-  36.2600, -97.8100
-  36.1600, -98.1000
-  36.1700, -98.3700
-  36.2800, -98.3300
-  36.4600, -98.2900
-  36.6000, -97.9200
-  36.5900, -97.8700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 5:13PM CST by NWS Hastings NE\nExpires: 2026-11-02 23:45 Z\nAt 513 PM CST, Doppler radar was tracking a cluster of of strong thunderstorms extending from generally 5 miles northeast of Webster State Park to over Kirwin, moving northeast at 25 mph.  HAZARD...Wind gusts up to 50 mph and very spotty hail up to around penny size.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Phillipsburg, Stockton, Kensington, Agra, Kirwin, Glade and Speed.\nGenerated: 2026-11-02 23:40:14 UTC"
-  39.5200, -99.6000
-  39.9000, -99.4400
-  39.8300, -98.9200
-  39.4000, -99.2600
-  39.4600, -99.6000
-  39.5200, -99.6000
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 5:12PM CST by NWS Norman OK\nExpires: 2026-11-02 23:45 Z\nAt 512 PM CST, Doppler radar was tracking strong thunderstorms along a line extending from 5 miles southwest of Manchester to near Ringwood. Movement was northeast at 45 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Wakita, Goltry, Jet, Nash, Hillsdale, Manchester, and eastern Great Salt Plains Lake.\nGenerated: 2026-11-02 23:40:14 UTC"
-  36.6000, -97.8600
-  36.4700, -98.2500
-  36.9500, -98.1100
-  37.0000, -98.0500
-  37.0000, -97.7400
-  36.6000, -97.8600
 End:
