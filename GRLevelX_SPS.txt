@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-03 05:55:14 UTC
+; Generated: 2026-11-03 06:00:19 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 11:43PM CST by NWS San Angelo TX\nExpires: 2026-11-03 06:45 Z\nAt 1142 PM CST, Doppler radar was tracking a line of strong thunderstorms from northwestern Mason County into western Kimble County, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Junction, Mason, Art, Loyal Valley, Yates Crossing, Streeter, Camp Air, Hilda, Grit, Katemcy, Roosevelt, Telegraph, Pontotoc, Fredonia, Segovia, Hedwigs Hill, Long Mountain, London, and South Llano River State Park.  This includes Interstate 10 between Mile Markers 435 and 477.\nGenerated: 2026-11-03 05:55:14 UTC"
+Line: 2,,"Special Weather Statement issued November 2 at 11:43PM CST by NWS San Angelo TX\nExpires: 2026-11-03 06:45 Z\nAt 1142 PM CST, Doppler radar was tracking a line of strong thunderstorms from northwestern Mason County into western Kimble County, moving east at 35 mph.  HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Junction, Mason, Art, Loyal Valley, Yates Crossing, Streeter, Camp Air, Hilda, Grit, Katemcy, Roosevelt, Telegraph, Pontotoc, Fredonia, Segovia, Hedwigs Hill, Long Mountain, London, and South Llano River State Park.  This includes Interstate 10 between Mile Markers 435 and 477.\nGenerated: 2026-11-03 06:00:19 UTC"
   30.7100, -100.1100
   30.7200, -99.4800
   30.9400, -99.4900
@@ -17,56 +17,4 @@ Line: 2,,"Special Weather Statement issued November 2 at 11:43PM CST by NWS San 
   30.2900, -99.3000
   30.2900, -100.1100
   30.7100, -100.1100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 11:34PM CST by NWS Tulsa OK\nExpires: 2026-11-03 06:00 Z\nAt 1134 PM CST, Doppler radar indicated strong thunderstorms along a line extending from 4 miles south of Lamar to near Ashland. Movement was northeast at 55 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down small tree limbs and blow around unsecured objects.  Locations in or near the path include... Mcalester...                      Kiowa... Savanna...                        Indianola... Ashland...                        Mcalester Regional Airport... Haywood...                        Scipio... Blanco...                         Pittsburg... Arpelar...\nGenerated: 2026-11-03 05:55:14 UTC"
-  35.0500, -96.0900
-  35.0600, -96.0700
-  35.0900, -96.0600
-  35.1200, -96.0300
-  35.1200, -96.0100
-  35.1500, -96.0000
-  35.1400, -95.9100
-  35.1600, -95.8800
-  35.1900, -95.8700
-  35.1800, -95.8400
-  35.2000, -95.7900
-  35.1800, -95.7700
-  34.7200, -95.7500
-  34.6800, -96.0900
-  35.0500, -96.0900
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 11:12PM CST by NWS Austin/San Antonio TX\nExpires: 2026-11-03 06:00 Z\nAt 1112 PM CST, Doppler radar was tracking a strong thunderstorm 14 miles southwest of Juno, moving southeast at 25 mph.  HAZARD...Wind gusts of 50 to 55 mph and penny size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Loma Alta, Bakers Crossing, Pafford Crossing, Devils River State Nat Area Del Norte, and Devils River State Nat Area Big Satan.\nGenerated: 2026-11-03 05:55:14 UTC"
-  29.9000, -101.3500
-  30.0700, -101.2400
-  29.9000, -100.7100
-  29.6000, -100.9600
-  29.9000, -101.3500
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 2 at 11:00PM CST by NWS San Angelo TX\nExpires: 2026-11-03 06:00 Z\nAt 1058 PM CST, Doppler radar was tracking strong thunderstorms along a line extending from near Energy to near Richland Springs to near The Intersection Of Us- 83 And Highway 29. Movement was east at 55 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Brownwood, Brady, San Saba, Early, Menard, Richland Springs, Algerita, Cherokee, Blanket, Melvin, Brady Lake, Sloan, Zephyr, Lohn, Camp Air, Colorado Bend State Park, Calf Creek, Skeeterville, Katemcy, and Voca.\nGenerated: 2026-11-03 05:55:14 UTC"
-  30.9200, -98.9600
-  30.8700, -98.9700
-  30.9200, -99.9300
-  31.4000, -99.4500
-  31.4800, -99.1300
-  31.9500, -98.8400
-  31.7000, -98.6700
-  31.4700, -99.0000
-  31.3700, -98.7600
-  31.4300, -98.7300
-  31.3400, -98.7000
-  31.3700, -98.6600
-  31.3100, -98.6400
-  31.3200, -98.5900
-  31.2700, -98.6300
-  31.1600, -98.5000
-  31.0900, -98.5300
-  31.1100, -98.4600
-  30.9300, -98.4100
-  30.9200, -98.9600
 End:
