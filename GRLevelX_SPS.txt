@@ -3,9 +3,9 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-05 20:10:16 UTC
+; Generated: 2026-11-05 20:15:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 5 at 3:57PM AST by NWS San Juan PR\nExpires: 2026-11-05 21:00 Z\nAt 357 PM AST, Doppler radar was tracking a strong thunderstorm over Vega Alta, moving northeast at 15 mph.  HAZARD...Wind gusts up to 30 mph. Funnel cloud possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-11-05 20:10:16 UTC"
+Line: 2,,"Special Weather Statement issued November 5 at 3:57PM AST by NWS San Juan PR\nExpires: 2026-11-05 21:00 Z\nAt 357 PM AST, Doppler radar was tracking a strong thunderstorm over Vega Alta, moving northeast at 15 mph.  HAZARD...Wind gusts up to 30 mph. Funnel cloud possible.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nGenerated: 2026-11-05 20:15:16 UTC"
   18.2300, -66.3800
   18.3800, -66.5600
   18.4700, -66.4700
@@ -24,16 +24,4 @@ Line: 2,,"Special Weather Statement issued November 5 at 3:57PM AST by NWS San J
   18.4400, -66.1100
   18.4300, -66.1100
   18.2300, -66.3800
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 5 at 1:41PM CST by NWS Norman OK\nExpires: 2026-11-05 20:15 Z\nAt 140 PM CST, Doppler radar was tracking a strong thunderstorm 4 miles east of Fay, moving east at 25 mph.  HAZARD...Nickel size hail.  SOURCE...Radar indicated.  IMPACT...Minor damage to outdoor objects is possible.  Locations impacted include... Watonga, Eagle City, and Fay.\nGenerated: 2026-11-05 20:10:16 UTC"
-  35.7600, -98.3000
-  35.7200, -98.6200
-  35.7400, -98.6300
-  35.8100, -98.6300
-  35.8100, -98.6700
-  35.8800, -98.7100
-  36.0200, -98.4100
-  35.7600, -98.3000
 End:
