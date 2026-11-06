@@ -3,9 +3,34 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-06 15:40:18 UTC
+; Generated: 2026-11-06 15:45:14 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 6 at 9:13AM CST by NWS Brownsville TX\nExpires: 2026-11-06 16:00 Z\nAt 913 AM CST, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near South Padre Island Birding Center to U.s. Coast Guard Station to near Laguna Heights to near Laguna Vista Police Department. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... South Padre Island, Port Isabel City Hall, U.s. Coast Guard Station, Port Isabel Lighthouse, Beach Access Four, Port Isabel High School, Port Isabel Fire And Police Department, South Padre Island Convention Center, Laguna Vista Police Department, and Garria Elementary School.\nGenerated: 2026-11-06 15:40:18 UTC"
+Line: 2,,"Special Weather Statement issued November 6 at 10:40AM EST by NWS Raleigh NC\nExpires: 2026-11-06 16:15 Z\nAt 1040 AM EST, Doppler radar was tracking a cluster of strong thunderstorms near Wake Forest, or 9 miles northeast of Raleigh, moving northeast at 40 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Raleigh, Durham, Roanoke Rapids, Henderson, Oxford, Nashville, Creedmoor, Louisburg, Warrenton, and Halifax.  This includes the following highways... Interstate 95 between Mile Markers 173 and 138. Interstate 85 between Mile Markers 174 and 233. Interstate 440 between Mile Markers 8 and 12. Interstate 540 between Mile Markers 4 and 24. NC Highway 264 between Mile Markers 20 and 31. the Durham Freeway between Mile Markers 10 and 15.\nGenerated: 2026-11-06 15:45:14 UTC"
+  36.5100, -77.9000
+  36.5000, -77.8200
+  36.4800, -77.7600
+  36.4900, -77.7300
+  36.4800, -77.6400
+  36.4400, -77.6200
+  36.4100, -77.5500
+  36.3700, -77.5500
+  36.3400, -77.5900
+  36.3100, -77.5600
+  36.3100, -77.5000
+  36.3200, -77.4500
+  36.3100, -77.4300
+  36.1400, -77.6600
+  36.1500, -77.7000
+  36.0800, -77.7300
+  35.6400, -78.3000
+  36.0100, -78.9700
+  36.5500, -78.4100
+  36.5400, -77.9000
+  36.5100, -77.9000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued November 6 at 9:13AM CST by NWS Brownsville TX\nExpires: 2026-11-06 16:00 Z\nAt 913 AM CST, Doppler radar was tracking a cluster of strong thunderstorms along a line extending from near South Padre Island Birding Center to U.s. Coast Guard Station to near Laguna Heights to near Laguna Vista Police Department. Movement was southeast at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... South Padre Island, Port Isabel City Hall, U.s. Coast Guard Station, Port Isabel Lighthouse, Beach Access Four, Port Isabel High School, Port Isabel Fire And Police Department, South Padre Island Convention Center, Laguna Vista Police Department, and Garria Elementary School.\nGenerated: 2026-11-06 15:45:14 UTC"
   26.0800, -96.9700
   25.9700, -97.1400
   25.9700, -97.1500
@@ -21,25 +46,4 @@ Line: 2,,"Special Weather Statement issued November 6 at 9:13AM CST by NWS Brown
   26.2300, -97.3000
   26.3100, -97.1500
   26.0800, -96.9700
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 6 at 9:49AM EST by NWS Raleigh NC\nExpires: 2026-11-06 15:45 Z\nAt 948 AM EST, Doppler radar was tracking a cluster of strong thunderstorms near Fuquay-Varina, or 12 miles southwest of Cary, moving northeast at 35 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Raleigh, Durham, Cary, Chapel Hill, Creedmoor, Pittsboro, Lillington, Wake Forest, Garner, and Carrboro.  This includes the following highways... Interstate 85 between Mile Markers 168 and 190. Interstate 40 between Mile Markers 263 and 322. Interstate 440 between Mile Markers 1 and 16. Interstate 540 between Mile Markers 0 and 24. US 1 between Mile Markers 72 and 101. NC Highway 264 between Mile Markers 20 and 29. the Durham Freeway between Mile Markers 2 and 17.\nGenerated: 2026-11-06 15:40:18 UTC"
-  36.0400, -78.5500
-  36.0200, -78.5400
-  36.0000, -78.4900
-  35.9400, -78.3900
-  35.9200, -78.3500
-  35.9000, -78.3300
-  35.8900, -78.3100
-  35.8200, -78.2500
-  35.8500, -78.2300
-  35.7900, -78.1300
-  35.2900, -78.7800
-  35.6700, -79.4200
-  35.8500, -79.2500
-  35.8500, -79.2400
-  35.8600, -79.2400
-  36.2300, -78.8800
-  36.0400, -78.5500
 End:
