@@ -3,9 +3,23 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-11 22:40:17 UTC
+; Generated: 2026-11-11 22:45:16 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 11 at 5:34PM EST by NWS Louisville KY\nExpires: 2026-11-11 23:00 Z\nAt 534 PM EST, Doppler radar was tracking a strong thunderstorm over Jasper, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jasper, Maltersville, Dubois, Celestine, Schnellville and Ireland.\nGenerated: 2026-11-11 22:40:17 UTC"
+Line: 2,,"Special Weather Statement issued November 11 at 5:41PM EST by NWS Indianapolis IN\nExpires: 2026-11-11 23:30 Z\nAt 541 PM EST, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles northwest of Greencastle to 6 miles west of Brazil. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and nickel size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Terre Haute, Greencastle, Danville, Brazil, Cloverdale, Seelyville, Knightsville, Bainbridge, Harmony, Staunton, Fillmore, Coatesville, Amo, Carbon, Stilesville, Lena, Groveland, Belle Union, and Reelsville.  This includes Interstate 70 between mile markers 25 and 45.\nGenerated: 2026-11-11 22:45:16 UTC"
+  39.5300, -87.3000
+  39.7900, -86.8900
+  39.7400, -86.4700
+  39.6000, -86.6600
+  39.4700, -86.8000
+  39.4700, -86.9400
+  39.4500, -86.9400
+  39.4600, -87.2700
+  39.4400, -87.3700
+  39.5300, -87.3000
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued November 11 at 5:34PM EST by NWS Louisville KY\nExpires: 2026-11-11 23:00 Z\nAt 534 PM EST, Doppler radar was tracking a strong thunderstorm over Jasper, moving east at 25 mph.  HAZARD...Wind gusts up to 40 mph and pea size hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor damage to outdoor objects is possible.  Locations impacted include... Jasper, Maltersville, Dubois, Celestine, Schnellville and Ireland.\nGenerated: 2026-11-11 22:45:16 UTC"
   38.3700, -87.0200
   38.4400, -87.0200
   38.4900, -86.7400
@@ -14,7 +28,7 @@ Line: 2,,"Special Weather Statement issued November 11 at 5:34PM EST by NWS Loui
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 11 at 5:30PM EST by NWS Indianapolis IN\nExpires: 2026-11-11 23:15 Z\nAt 530 PM EST, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles east of Crawfordsville to 15 miles southwest of Lebanon to 13 miles north of Greencastle. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Brownsburg, Lebanon, Danville, Pittsboro, Whitestown, Ladoga, Clayton, Jamestown, Roachdale, Bainbridge, Coatesville, North Salem, Lizton, Advance, Amo, New Ross, Ulen, Carpentersville, and Groveland.  This includes the following highways... Interstate 65 between mile markers 128 and 144. Interstate 74 between mile markers 43 and 68.\nGenerated: 2026-11-11 22:40:17 UTC"
+Line: 2,,"Special Weather Statement issued November 11 at 5:30PM EST by NWS Indianapolis IN\nExpires: 2026-11-11 23:15 Z\nAt 530 PM EST, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles east of Crawfordsville to 15 miles southwest of Lebanon to 13 miles north of Greencastle. Movement was east at 40 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Brownsburg, Lebanon, Danville, Pittsboro, Whitestown, Ladoga, Clayton, Jamestown, Roachdale, Bainbridge, Coatesville, North Salem, Lizton, Advance, Amo, New Ross, Ulen, Carpentersville, and Groveland.  This includes the following highways... Interstate 65 between mile markers 128 and 144. Interstate 74 between mile markers 43 and 68.\nGenerated: 2026-11-11 22:45:16 UTC"
   40.0900, -86.3100
   39.8700, -86.3300
   39.6500, -86.5700
@@ -22,15 +36,4 @@ Line: 2,,"Special Weather Statement issued November 11 at 5:30PM EST by NWS Indi
   39.9400, -86.7900
   40.1300, -86.7400
   40.0900, -86.3100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 11 at 4:59PM EST by NWS Indianapolis IN\nExpires: 2026-11-11 22:45 Z\nAt 459 PM EST, Doppler radar was tracking strong thunderstorms along a line extending from 10 miles southwest of Crawfordsville to 6 miles northwest of Clinton. Movement was east at 35 mph.  HAZARD...Wind gusts up to 50 mph and half inch hail.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible.  Locations impacted include... Clinton, Rockville, Fairview Park, Montezuma, Ladoga, Roachdale, Bainbridge, Rosedale, New Market, Waveland, Carbon, Universal, Russellville, Mecca, Bloomingdale, Marshall, Carpentersville, Bridgeton, Shades State Park, and Blanford.\nGenerated: 2026-11-11 22:40:17 UTC"
-  39.7600, -87.5300
-  39.9500, -87.1700
-  39.9600, -86.6900
-  39.7600, -86.6900
-  39.6000, -87.0200
-  39.6100, -87.5300
-  39.7600, -87.5300
 End:
