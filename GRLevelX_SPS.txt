@@ -3,9 +3,27 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-18 00:25:18 UTC
+; Generated: 2026-11-18 00:30:18 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 17 at 5:22PM MST by NWS Grand Junction CO\nExpires: 2026-11-18 00:45 Z\nAt 522 PM MST, Doppler radar was tracking an area of strong thunderstorms.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Durango, Mancos, Rico, La Plata, Mayday, Hesperus, Trimble, Hermosa, Breen, Rockwood, Kline, Tacoma, Marvel, Redmesa, Bondad and Elk Park.\nGenerated: 2026-11-18 00:25:18 UTC"
+Line: 2,,"Special Weather Statement issued November 17 at 5:28PM MST by NWS Grand Junction CO\nExpires: 2026-11-18 01:00 Z\nAt 528 PM MST, Doppler radar was tracking an area of strong thunderstorms extending from 8 miles southeast of Meeker to near Glenwood Springs, or extending from 38 miles northwest of Glenwood Springs to near Glenwood Springs, moving northeast at 35 mph.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Glenwood Springs and Buford.\nGenerated: 2026-11-18 00:30:18 UTC"
+  39.9600, -107.9600
+  40.2300, -107.5600
+  40.0900, -107.2100
+  39.8100, -106.9700
+  39.5200, -107.3400
+  39.5400, -107.3500
+  39.5300, -107.4000
+  39.5000, -107.4100
+  39.5400, -107.4200
+  39.5600, -107.4900
+  39.7800, -107.6500
+  39.9100, -107.8900
+  39.9400, -107.9000
+  39.9600, -107.9600
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued November 17 at 5:22PM MST by NWS Grand Junction CO\nExpires: 2026-11-18 00:45 Z\nAt 522 PM MST, Doppler radar was tracking an area of strong thunderstorms.  HAZARD...Wind gusts up to 50 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Durango, Mancos, Rico, La Plata, Mayday, Hesperus, Trimble, Hermosa, Breen, Rockwood, Kline, Tacoma, Marvel, Redmesa, Bondad and Elk Park.\nGenerated: 2026-11-18 00:30:18 UTC"
   37.0500, -107.8700
   37.0500, -108.4300
   37.7000, -108.2400
@@ -14,7 +32,7 @@ Line: 2,,"Special Weather Statement issued November 17 at 5:22PM MST by NWS Gran
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 17 at 5:20PM MST by NWS Albuquerque NM\nExpires: 2026-11-18 00:45 Z\nAt 520 PM MST, surface observations indicated a line of showers and thunderstorms producing strong winds extending from 6 miles northeast of Kirtland to 9 miles south of Gallup, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Surface observations. The Farmington Airport ASOS measured a 53 mph gust at 513 PM MST.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Farmington, Gallup, Bloomfield, Aztec, Shiprock, Crownpoint, Thoreau, Kirtland, Lake Valley and Burnham.  This includes the following highways... Interstate 40 between Mile Markers 7 and 55. Highway 550 between Mile Markers 125 and 174. Highway 64 between Mile Markers 20 and 74.\nGenerated: 2026-11-18 00:25:18 UTC"
+Line: 2,,"Special Weather Statement issued November 17 at 5:20PM MST by NWS Albuquerque NM\nExpires: 2026-11-18 00:45 Z\nAt 520 PM MST, surface observations indicated a line of showers and thunderstorms producing strong winds extending from 6 miles northeast of Kirtland to 9 miles south of Gallup, moving northeast at 45 mph.  HAZARD...Wind gusts of 50 to 55 mph.  SOURCE...Surface observations. The Farmington Airport ASOS measured a 53 mph gust at 513 PM MST.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Locations impacted include... Farmington, Gallup, Bloomfield, Aztec, Shiprock, Crownpoint, Thoreau, Kirtland, Lake Valley and Burnham.  This includes the following highways... Interstate 40 between Mile Markers 7 and 55. Highway 550 between Mile Markers 125 and 174. Highway 64 between Mile Markers 20 and 74.\nGenerated: 2026-11-18 00:30:18 UTC"
   35.2800, -109.0000
   36.9800, -108.6900
   37.0000, -108.3800
