@@ -3,9 +3,31 @@ Title: Special Weather Statements
 Font: 0, 11, 1, "Arial"
 Font: 1, 11, 1, "Arial"
 
-; Generated: 2026-11-23 02:55:16 UTC
+; Generated: 2026-11-23 03:00:23 UTC
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 22 at 8:52PM CST by NWS Jackson MS\nExpires: 2026-11-23 03:30 Z\nAt 852 PM CST, Doppler radar was tracking a strong thunderstorm over Avalon, or 11 miles northeast of Greenwood, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Jefferson, Holcomb, Teoc, and Leflore around 855 PM CST. Grenada around 910 PM CST. Elliott around 915 PM CST.\nGenerated: 2026-11-23 02:55:16 UTC"
+Line: 2,,"Special Weather Statement issued November 22 at 7:58PM MST by NWS Great Falls MT\nExpires: 2026-11-23 04:00 Z\nAt 758 PM MST, Doppler radar was tracking snow showers along a line from 9 miles east of Lincoln to 18 miles southeast of Lincoln, or along a line from 33 miles northwest of Helena to 25 miles west of Helena, moving northeast at 15 mph. Visibility may drop to under a half mile as the snow showers move through.  Locations impacted include... Canyon Creek and Marysville.  This includes the following highways... Highway 200 between mile markers 96 and 75. Interstate 15 near mile marker 226.\nGenerated: 2026-11-23 03:00:23 UTC"
+  46.9900, -112.6200
+  47.1700, -112.3300
+  47.1600, -112.3200
+  47.1500, -112.3300
+  47.1800, -112.2700
+  47.1500, -112.2600
+  47.1300, -112.2500
+  47.1400, -112.2300
+  47.1600, -112.2200
+  47.1900, -112.1900
+  47.2000, -112.1700
+  46.7900, -111.9900
+  46.6600, -112.4100
+  46.7000, -112.4100
+  46.7000, -112.5400
+  46.8300, -112.5400
+  46.8300, -112.6400
+  46.9900, -112.6200
+End:
+
+Color: 222 184 135
+Line: 2,,"Special Weather Statement issued November 22 at 8:52PM CST by NWS Jackson MS\nExpires: 2026-11-23 03:30 Z\nAt 852 PM CST, Doppler radar was tracking a strong thunderstorm over Avalon, or 11 miles northeast of Greenwood, moving east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  This strong thunderstorm will be near... Jefferson, Holcomb, Teoc, and Leflore around 855 PM CST. Grenada around 910 PM CST. Elliott around 915 PM CST.\nGenerated: 2026-11-23 03:00:23 UTC"
   33.7700, -89.7400
   33.5100, -89.7600
   33.5700, -90.2400
@@ -16,7 +38,7 @@ Line: 2,,"Special Weather Statement issued November 22 at 8:52PM CST by NWS Jack
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 22 at 9:28PM EST by NWS Boston/Norton MA\nExpires: 2026-11-23 04:00 Z\nAt 927 PM EST, Doppler radar was tracking an area of heavy rainfall over Westport, or over Dartmouth, moving north at 20 mph.  HAZARD...Heavy rain.  SOURCE...Radar indicated.  IMPACT...Minimal. Water on roads that flood easily.  Locations impacted include... Providence, New Bedford, Fall River, Warwick, Cranston, East Providence, Dartmouth, North Kingstown, Newport, Bristol, Marion, Wareham, Somerset, Portsmouth, Barrington, Middletown, Fairhaven, Swansea, Tiverton, and Westport.\nGenerated: 2026-11-23 02:55:16 UTC"
+Line: 2,,"Special Weather Statement issued November 22 at 9:28PM EST by NWS Boston/Norton MA\nExpires: 2026-11-23 04:00 Z\nAt 927 PM EST, Doppler radar was tracking an area of heavy rainfall over Westport, or over Dartmouth, moving north at 20 mph.  HAZARD...Heavy rain.  SOURCE...Radar indicated.  IMPACT...Minimal. Water on roads that flood easily.  Locations impacted include... Providence, New Bedford, Fall River, Warwick, Cranston, East Providence, Dartmouth, North Kingstown, Newport, Bristol, Marion, Wareham, Somerset, Portsmouth, Barrington, Middletown, Fairhaven, Swansea, Tiverton, and Westport.\nGenerated: 2026-11-23 03:00:23 UTC"
   41.4400, -71.4000
   41.8400, -71.4300
   41.7600, -70.6900
@@ -33,7 +55,7 @@ Line: 2,,"Special Weather Statement issued November 22 at 9:28PM EST by NWS Bost
 End:
 
 Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 22 at 7:08PM MST by NWS Great Falls MT\nExpires: 2026-11-23 05:15 Z\nAt 708 PM MST, Dense fog will continue to impact Bozeman Pass this evening, resulting in poor visibility, and the possibility of a thin accretion of ice on the roadway, making travel difficult this evening.  Locations impacted include... Mainly rural areas of Northeastern Gallatin County.  This includes Interstate 90 between mile markers 321 and 314.\nGenerated: 2026-11-23 02:55:16 UTC"
+Line: 2,,"Special Weather Statement issued November 22 at 7:08PM MST by NWS Great Falls MT\nExpires: 2026-11-23 05:15 Z\nAt 708 PM MST, Dense fog will continue to impact Bozeman Pass this evening, resulting in poor visibility, and the possibility of a thin accretion of ice on the roadway, making travel difficult this evening.  Locations impacted include... Mainly rural areas of Northeastern Gallatin County.  This includes Interstate 90 between mile markers 321 and 314.\nGenerated: 2026-11-23 03:00:23 UTC"
   45.9000, -111.0100
   45.9000, -110.7900
   45.7900, -110.7900
@@ -52,23 +74,4 @@ Line: 2,,"Special Weather Statement issued November 22 at 7:08PM MST by NWS Grea
   45.7200, -110.9800
   45.7300, -111.0000
   45.9000, -111.0100
-End:
-
-Color: 222 184 135
-Line: 2,,"Special Weather Statement issued November 22 at 8:05PM CST by NWS Jackson MS\nExpires: 2026-11-23 03:00 Z\nAt 805 PM CST, Doppler radar was tracking strong thunderstorms along a line extending from near Pioneer to near Warden. Movement was east at 30 mph.  HAZARD...Wind gusts up to 40 mph.  SOURCE...Radar indicated.  IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.  Strong thunderstorms will be near... Monticello and Waverly around 810 PM CST. Tendal around 815 PM CST. Lake Providence and Transylvania around 820 PM CST. Alsatia and Sondheimer around 825 PM CST. Omega around 830 PM CST. Fitler and Mansford around 835 PM CST.\nGenerated: 2026-11-23 02:55:16 UTC"
-  32.5500, -91.6200
-  32.6400, -91.5500
-  32.6800, -91.5800
-  32.7500, -91.5300
-  32.8700, -91.5000
-  32.8400, -90.9600
-  32.5800, -91.0200
-  32.5500, -91.0300
-  32.5300, -91.0500
-  32.4900, -91.0300
-  32.4400, -91.0300
-  32.4500, -91.0900
-  32.4100, -91.1000
-  32.4000, -91.7000
-  32.5500, -91.6200
 End:
